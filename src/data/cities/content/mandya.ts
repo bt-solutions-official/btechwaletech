@@ -35,7 +35,7 @@ const mandya: CityContent = {
     pills: ["Websites from ₹10,000", "Kannada and English", "Jaggery and produce stores", "College and hospital pages", "Highway restaurant sites"],
   },
   quickAnswer:
-    "For Mandya businesses, static websites start at ₹10,000 and take one to two weeks. A 700+ page SEO website starts at ₹20,000, an online store for jaggery or farm products at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team with no Mandya office, and every site is maintained free for five months.",
+    "For Mandya businesses, static websites start at ₹10,000 and take one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store for jaggery or farm products at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team with no Mandya office, and every site is maintained free for five months.",
   snapshot: [
     { label: "Location", value: "On the Bengaluru–Mysuru corridor, about 100 km from Bengaluru and 40 km from Mysuru" },
     { label: "Sugar City", value: "Named for its sugarcane; MySugar, founded in 1932, is Karnataka's only government-owned sugar factory" },
@@ -73,12 +73,12 @@ const mandya: CityContent = {
       heading: "Website prices in Mandya, set out plainly",
       paragraphs: [
         "Mandya owners usually hear from two directions. A local designer offers a template for a small sum and keeps the domain under his account. An agency in Bengaluru or Mysuru quotes several times more, often without explaining what is included. Neither makes comparison easy.",
-        "We list our starting prices on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages, with mobile layout, enquiry form, WhatsApp button, map and basic search setup, starts at ₹10,000 and takes one to two weeks. A 700+ page site built around real searches starts at ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts at ₹40,000, online stores at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
+        "We list our starting prices on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages, with mobile layout, enquiry form, WhatsApp button, map and basic search setup, starts at ₹10,000 and takes one to two weeks. A 299+ page site built around real searches starts at ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts at ₹40,000, online stores at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
         "Scope sets the final number. A physiotherapy clinic is quick to build. A jaggery brand selling blocks, powder, liquid jaggery and gift packs to households and wholesalers, in two languages, takes longer. Send a few lines about your business and we reply with an item-by-item quote. Work starts only when you approve it.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> a compact site for a shop, clinic, tutor or restaurant.",
-        "<strong>From ₹20,000:</strong> 700+ pages for firms that want regular search enquiries.",
+        "<strong>From ₹20,000:</strong> 299+ pages for firms that want regular search enquiries.",
         "<strong>From ₹50,000:</strong> a produce or product store with UPI, cards and courier rules.",
         "<strong>From ₹60,000:</strong> purchase, payment and stock tools for mills and processing units.",
       ],
@@ -99,7 +99,7 @@ const mandya: CityContent = {
       paragraphs: [
         "A sugar factory's crushing season creates work for many smaller firms: cane harvesting and transport contractors, engineering workshops that repair mill machinery, electrical contractors, boiler and pump service providers, lubricants and spares dealers, labour contractors and canteens. MySugar and the private mills in the district all rely on this network.",
         "Buyers at mills and at larger processing units look up suppliers online, especially when a breakdown in the middle of the season needs a quick fix. A plain capability website listing your services, machines, the mill equipment you handle, response times, registrations you hold, GST details and a phone number answered during the season helps you get that urgent call.",
-        "We write these in English with Kannada pages for local hiring and workers. We never list a factory as your client without written permission, and we never claim approvals you do not hold. Capability sites usually start from ₹10,000; if you serve several industries, a 700+ page site from ₹20,000 gives each service its own page.",
+        "We write these in English with Kannada pages for local hiring and workers. We never list a factory as your client without written permission, and we never claim approvals you do not hold. Capability sites usually start from ₹10,000; if you serve several industries, a 299+ page site from ₹20,000 gives each service its own page.",
         "Cane growers and harvesting teams also benefit from simple tools. A shared record of which fields are ready, which truck took which load, and what the factory has paid against each delivery removes many of the arguments that surface at the end of a season. We build this kind of tool as a web app that works on basic phones, with Kannada labels, starting from ₹60,000.",
       ],
     },
@@ -213,12 +213,12 @@ const mandya: CityContent = {
     {
       question: "How much does a website cost in Mandya?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. The final quote depends on your scope. When comparing offers, ask who will own the domain and what support follows launch.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. The final quote depends on your scope. When comparing offers, ask who will own the domain and what support follows launch.",
     },
     {
       question: "Mandyadalli namma angadige website beku, kharchu eshtu?",
       answer:
-        "Saamanya website ₹10,000 rinda praarambha, 700+ page SEO website ₹20,000 rinda, online store ₹50,000 rinda. Modalu prati item-ina bele bareda quote kodteevi. Neevu oppige kotta mele maatra kelasa shuru, bill kooda aa nantarave. Domain yaavaagaloo nimma hesarinalle irutte.",
+        "Saamanya website ₹10,000 rinda praarambha, 299+ page SEO website ₹20,000 rinda, online store ₹50,000 rinda. Modalu prati item-ina bele bareda quote kodteevi. Neevu oppige kotta mele maatra kelasa shuru, bill kooda aa nantarave. Domain yaavaagaloo nimma hesarinalle irutte.",
     },
     {
       question: "Do you have an office in Mandya?",
@@ -248,7 +248,7 @@ const mandya: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Collecting photographs and product details takes the longest, so we send a checklist at the start.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Collecting photographs and product details takes the longest, so we send a checklist at the start.",
     },
     {
       question: "What can WhatsApp automation do for a Mandya business?",

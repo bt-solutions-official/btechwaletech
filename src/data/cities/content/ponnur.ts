@@ -39,7 +39,7 @@ const ponnur: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu-first pages", "Rice mill and trader tools", "Domain in your own name"],
   },
   quickAnswer:
-    "For Ponnur businesses, our websites start at ₹10,000 and usually go live within one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Ponnur office, and you own every account.",
+    "For Ponnur businesses, our websites start at ₹10,000 and usually go live within one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Ponnur office, and you own every account.",
   snapshot: [
     { label: "Location", value: "Municipal town and mandal headquarters in Guntur district, roughly 28 km from Guntur" },
     { label: "Civic status", value: "Grade-II municipality, constituted in 1964, in the Tenali revenue division" },
@@ -168,7 +168,7 @@ const ponnur: CityContent = {
       heading: "Website cost in Ponnur: starting prices and what to compare",
       paragraphs: [
         "People who ask about <strong>website cost in Ponnur</strong> hear very different figures. Local quotes vary widely, so compare what each one includes: whose name the domain is registered in, how long hosting is covered, how many pages, whether Telugu content is written for you, how fast the site opens on a phone, and who fixes problems after launch.",
-        "Our starting prices are published. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website with 700+ pages, useful for traders and mills that want to be found for many varieties and locations, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Details are on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our starting prices are published. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website with 299+ pages, useful for traders and mills that want to be found for many varieties and locations, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Details are on our <a href=\"/pricing/\">pricing page</a>.",
         "The quote rises with the number of products, Telugu and English versions, payment links, Tally connections and user logins. It stays lower when you supply your own photos and text and begin with the essentials.",
         "You receive an itemised quote in about two working days. Nothing is billed until you approve it in writing.",
       ],
@@ -222,7 +222,7 @@ const ponnur: CityContent = {
     {
       question: "What is the website cost in Ponnur?",
       answer:
-        "A static website starts at ₹10,000 and a 700+ page SEO website at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. These are starting prices; pages, Telugu content, products and integrations decide the final figure. You receive an itemised written quote first, and billing begins only after your approval.",
+        "A static website starts at ₹10,000 and a 299+ page SEO website at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. These are starting prices; pages, Telugu content, products and integrations decide the final figure. You receive an itemised written quote first, and billing begins only after your approval.",
     },
     {
       question: "Do you build Android and iOS apps for Ponnur businesses?",

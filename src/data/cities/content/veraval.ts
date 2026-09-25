@@ -35,7 +35,7 @@ const veraval: CityContent = {
     pills: ["Sites from ₹10,000", "Gujarati and English", "Seafood export catalogues", "Somnath hotel bookings", "Kesar mango stores"],
   },
   quickAnswer:
-    "In Veraval, our websites start from ₹10,000 and usually launch in one to two weeks. A 700+ page SEO site starts from ₹20,000, AI and WhatsApp automation from ₹40,000, an online store for Kesar mangoes or dry fish from ₹50,000 and custom software from ₹60,000. We are remote, have no Veraval office, and maintain every site free for five months.",
+    "In Veraval, our websites start from ₹10,000 and usually launch in one to two weeks. A 299+ page SEO site starts from ₹20,000, AI and WhatsApp automation from ₹40,000, an online store for Kesar mangoes or dry fish from ₹50,000 and custom software from ₹60,000. We are remote, have no Veraval office, and maintain every site free for five months.",
   snapshot: [
     { label: "District", value: "Veraval is the headquarters town of Gir Somnath district, formed from Junagadh district in 2013" },
     { label: "Port", value: "One of India's major fishing ports, historically called Somnath Bandar; wooden fishing boats and dhows are still built here" },
@@ -92,7 +92,7 @@ const veraval: CityContent = {
       heading: "What a website costs in Veraval",
       paragraphs: [
         "Prices quoted in Veraval vary from very cheap template pages to agency proposals from Rajkot or Ahmedabad costing many times more. The cheap end usually leaves the domain in the designer's name and skips search setup; the costly end charges for offices and account managers. We publish our starting prices so you can compare properly.",
-        "A static site of up to 100 pages starts from <strong>₹10,000</strong> and generally goes live within one to two weeks. A search-focused site of 700+ pages in Gujarati and English begins at <strong>₹20,000</strong> and takes three to five weeks. Online stores with UPI start at <strong>₹50,000</strong>, AI and WhatsApp automation at <strong>₹40,000</strong>, and custom software at <strong>₹60,000</strong>. Monthly SEO is available from ₹10,000. The complete list is on our <a href=\"/pricing/\">pricing page</a>.",
+        "A static site of up to 100 pages starts from <strong>₹10,000</strong> and generally goes live within one to two weeks. A search-focused site of 299+ pages in Gujarati and English begins at <strong>₹20,000</strong> and takes three to five weeks. Online stores with UPI start at <strong>₹50,000</strong>, AI and WhatsApp automation at <strong>₹40,000</strong>, and custom software at <strong>₹60,000</strong>. Monthly SEO is available from ₹10,000. The complete list is on our <a href=\"/pricing/\">pricing page</a>.",
         "All of these are floors. A seafood exporter with detailed product sheets in two languages needs more work than a five-page tuition class, and your quote will spell out every line so you can see why.",
       ],
       list: [
@@ -220,12 +220,12 @@ const veraval: CityContent = {
     {
       question: "How much does a website cost in Veraval?",
       answer:
-        "Our business websites start from ₹10,000, 700+ page SEO sites from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. The final quote depends on pages, products, languages and features. When comparing offers, check who owns the domain, whether search setup is included and what support you get after launch.",
+        "Our business websites start from ₹10,000, 299+ page SEO sites from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. The final quote depends on pages, products, languages and features. When comparing offers, check who owns the domain, whether search setup is included and what support you get after launch.",
     },
     {
       question: "Veraval ma nani dukan mate website banavva no ketlo kharch thay?",
       answer:
-        "Amari simple business website ₹10,000 thi sharu thay chhe ane saamanya rite ek-be athvadiya ma taiyaar thay chhe. 700+ page SEO website ₹20,000 thi, online store ₹50,000 thi sharu thay chhe. Kaam sharu karta pehla dar item sathe quote mokliye chhiye, tame lakhit ma manjoori aapo tya sudhi koi charge nathi.",
+        "Amari simple business website ₹10,000 thi sharu thay chhe ane saamanya rite ek-be athvadiya ma taiyaar thay chhe. 299+ page SEO website ₹20,000 thi, online store ₹50,000 thi sharu thay chhe. Kaam sharu karta pehla dar item sathe quote mokliye chhiye, tame lakhit ma manjoori aapo tya sudhi koi charge nathi.",
     },
     {
       question: "Do you have an office in Veraval?",
@@ -255,7 +255,7 @@ const veraval: CityContent = {
     {
       question: "How long will my project take?",
       answer:
-        "Static sites usually take one to two weeks, 700+ page SEO sites three to five weeks, online stores four to eight weeks and custom software six to twelve. For mango stores, start at least a month before the season. Most delays come from waiting for photos and text, so we draft content for you to correct.",
+        "Static sites usually take one to two weeks, 299+ page SEO sites three to five weeks, online stores four to eight weeks and custom software six to twelve. For mango stores, start at least a month before the season. Most delays come from waiting for photos and text, so we draft content for you to correct.",
     },
     {
       question: "What can WhatsApp automation do for a hotel or exporter?",

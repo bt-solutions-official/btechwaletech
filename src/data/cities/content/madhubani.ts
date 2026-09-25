@@ -39,7 +39,7 @@ const madhubani: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Painting and makhana stores", "Hindi, Maithili and English", "Your domain, your code"],
   },
   quickAnswer:
-    "Madhubani businesses can get a website from us starting at ₹10,000, usually live within a fortnight. A 700+ page SEO site begins at ₹20,000, Android and iOS apps and AI automation at ₹40,000 each, online stores at ₹50,000 and custom software at ₹60,000. Our team is remote, has no Madhubani office, and every account is registered to you.",
+    "Madhubani businesses can get a website from us starting at ₹10,000, usually live within a fortnight. A 299+ page SEO site begins at ₹20,000, Android and iOS apps and AI automation at ₹40,000 each, online stores at ₹50,000 and custom software at ₹60,000. Our team is remote, has no Madhubani office, and every account is registered to you.",
   snapshot: [
     { label: "Location", value: "District headquarters in Darbhanga division, about 26 km north-east of Darbhanga and 180 km from Patna" },
     { label: "Population", value: "1,64,156 in the city (2011 Census); district population about 44.9 lakh" },
@@ -211,7 +211,7 @@ const madhubani: CityContent = {
     {
       question: "How much does a website cost in Madhubani?",
       answer:
-        "Brochure sites in Madhubani begin at ₹10,000 for as many as 100 pages and normally go live within two weeks. SEO sites with 700+ pages begin at ₹20,000, and online shops at ₹50,000. Extra languages, the number of products and payment options move the total, and the quote shows each of these as its own line.",
+        "Brochure sites in Madhubani begin at ₹10,000 for as many as 100 pages and normally go live within two weeks. SEO sites with 299+ pages begin at ₹20,000, and online shops at ₹50,000. Extra languages, the number of products and payment options move the total, and the quote shows each of these as its own line.",
     },
     {
       question: "How long does it take to build a website in Madhubani?",

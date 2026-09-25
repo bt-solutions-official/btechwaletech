@@ -34,7 +34,7 @@ const rajampet: CityContent = {
     pills: ["Sites from ₹10,000", "Telugu and English", "Fruit trade registers", "College admission pages", "5 months free upkeep"],
   },
   quickAnswer:
-    "A static website for a Rajampet business starts at ₹10,000 with us and takes one to two weeks. A 700+ page SEO website starts at ₹20,000, an online store from ₹50,000, WhatsApp or AI automation from ₹40,000 and custom software from ₹60,000. We are a remote team with no office in Rajampet, and maintenance is free for five months.",
+    "A static website for a Rajampet business starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store from ₹50,000, WhatsApp or AI automation from ₹40,000 and custom software from ₹60,000. We are a remote team with no office in Rajampet, and maintenance is free for five months.",
   snapshot: [
     { label: "Where it sits", value: "Municipal town on the Cheyyeru river in Rayalaseema, now in YSR Kadapa district" },
     { label: "Administration", value: "Headquarters of Rajampeta revenue division, covering Rajampeta, Nandalur, Veeraballi and T. Sundupalle mandals" },
@@ -72,12 +72,12 @@ const rajampet: CityContent = {
       heading: "Website costs in Rajampet",
       paragraphs: [
         "Quotes for websites in Rajampet can be confusing. Some are for a single page built on a free template, often with the domain in the seller's name. Others come from city agencies with monthly retainers that make no sense for a local business. Comparing prices without comparing what is included leads to disappointment.",
-        "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website with 700+ pages starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, WhatsApp and AI automation at ₹40,000, and monthly SEO at ₹10,000 a month.",
+        "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website with 299+ pages starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, WhatsApp and AI automation at ₹40,000, and monthly SEO at ₹10,000 a month.",
         "What changes your figure is scope: the number of pages and languages, online payments, logins for staff or buyers, and whether we write the text. Every item is listed separately, so you can begin with a simple site and add tools later.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages in Telugu or English, with WhatsApp, map and basic search setup.",
-        "<strong>From ₹20,000:</strong> 700+ pages, such as one per fruit variety, course, doctor or village served.",
+        "<strong>From ₹20,000:</strong> 299+ pages, such as one per fruit variety, course, doctor or village served.",
         "<strong>From ₹50,000:</strong> an online store with UPI and card payments and courier rates.",
         "<strong>From ₹60,000:</strong> custom tools like trader registers or college admission systems.",
       ],
@@ -228,7 +228,7 @@ const rajampet: CityContent = {
     {
       question: "How much does a website cost in Rajampet?",
       answer:
-        "Our static websites start at ₹10,000, SEO websites with 700+ pages from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. These are starting prices. You receive an itemised written quote for your exact needs, and nothing is billed until you approve it.",
+        "Our static websites start at ₹10,000, SEO websites with 299+ pages from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. These are starting prices. You receive an itemised written quote for your exact needs, and nothing is billed until you approve it.",
     },
     {
       question: "Rajampet lo website cheyinchukovadaniki entha kharchu avutundi?",

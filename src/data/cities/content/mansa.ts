@@ -39,7 +39,7 @@ const mansa: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Punjabi and English SEO", "Mandi and ginning tools", "Accounts in your name"],
   },
   quickAnswer:
-    "In Mansa, a business website with us starts at ₹10,000 and is usually live in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and you own everything we build.",
+    "In Mansa, a business website with us starts at ₹10,000 and is usually live in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and you own everything we build.",
   snapshot: [
     { label: "Location", value: "Headquarters of Mansa district in southern Punjab, roughly 180 km from Chandigarh and about 248 km from Delhi by road" },
     { label: "District formed", value: "13 April 1992, carved out of Bathinda district; tehsils are Mansa, Budhlada and Sardulgarh" },
@@ -167,7 +167,7 @@ const mansa: CityContent = {
       id: "website-cost-in-mansa",
       heading: "Website cost in Mansa and what a quote includes",
       paragraphs: [
-        "The usual first question is about the <strong>website cost in Mansa</strong>. Our starting prices are public. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 700+ pages starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and AI automation starts at ₹40,000 with two to four weeks of work.",
+        "The usual first question is about the <strong>website cost in Mansa</strong>. Our starting prices are public. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 299+ pages starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and AI automation starts at ₹40,000 with two to four weeks of work.",
         "Online stores start at ₹50,000 and usually take four to eight weeks. Custom web apps and software start at ₹60,000 and take six to twelve weeks. Monthly SEO starts at ₹10,000 a month, and after five months of free post-launch maintenance, maintenance starts at ₹8,000 a month.",
         "These figures are where a project starts, not what every project costs. The final amount depends on page count, language mix, catalogue size, app screens, payment and delivery rules and integrations. We send an itemised quote in about two working days, and we bill nothing until you approve it in writing.",
         "Quotes from local providers in Mansa and Bathinda vary widely. When comparing, ask who will own the domain and hosting, whether source code is handed over, how many revisions are included, what yearly renewals cost and what maintenance costs after launch. Our full list is on the <a href=\"/pricing/\">pricing page</a>.",
@@ -222,7 +222,7 @@ const mansa: CityContent = {
     {
       question: "How much does a website cost in Mansa?",
       answer:
-        "A static website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. An SEO website with 700+ pages starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. The final figure depends on pages, languages and features. You receive an itemised quote first, and nothing is billed until you approve it.",
+        "A static website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. An SEO website with 299+ pages starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. The final figure depends on pages, languages and features. You receive an itemised quote first, and nothing is billed until you approve it.",
     },
     {
       question: "How long does it take to make a website for a Mansa business?",

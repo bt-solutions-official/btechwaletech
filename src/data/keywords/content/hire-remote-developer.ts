@@ -68,7 +68,7 @@ const content: FreelanceContent = {
     heading: "Remote work that fits a three-person freelance team",
     note: "Almost any software work can be done remotely. These are the projects we take on, all run over WhatsApp, video calls and staging links.",
     cards: [
-      { name: "Business websites and SEO sites", note: `Websites from ${P.site} and 700+ page SEO sites from ${P.seoSite}, reviewed on a staging link in your time zone.`, href: "/services/web-development/", size: "lg" },
+      { name: "Business websites and SEO sites", note: `Websites from ${P.site} and 299+ page SEO sites from ${P.seoSite}, reviewed on a staging link in your time zone.`, href: "/services/web-development/", size: "lg" },
       { name: "Custom web apps and portals", note: `Dashboards, booking tools and internal systems from ${P.software}, with the repository in your organisation from the first commit.`, href: "/web-application-developer/", size: "lg" },
       { name: "Android & iOS apps", note: `Flutter or React Native apps from ${P.app}, published through your own Play Console and App Store Connect accounts.`, href: "/it-services/android-ios-app/", size: "md" },
       { name: "Online stores", note: `Stores with UPI and card checkout from ${P.shop}; international stores with the payment methods your market expects.`, href: "/freelance-ecommerce-developer/", size: "md" },
@@ -197,7 +197,7 @@ const content: FreelanceContent = {
       heading: "How much does it cost to hire a remote developer?",
       paragraphs: [
         `It depends on the model and the scope far more than on the developer’s location. Marketplace rates for the same brief vary widely, vendor rates include their management layers, and employee costs include salary, equipment and benefits. Compare total cost for a defined result, not headline hourly numbers.`,
-        `With us the cost is set per project. A business website of up to 100 pages starts at ${P.site} (${P.siteUsd}), an SEO website with 700+ pages at ${P.seoSite} (${P.seoSiteUsd}), an online store at ${P.shop} (${P.shopUsd}), a custom web app at ${P.software} (${P.softwareUsd}), an Android and iOS app at ${P.app} (${P.appUsd}) and AI automation at ${P.ai} (${P.aiUsd}). After five free months of maintenance, ongoing care starts at ${P.care}.`,
+        `With us the cost is set per project. A business website of up to 100 pages starts at ${P.site} (${P.siteUsd}), an SEO website with 299+ pages at ${P.seoSite} (${P.seoSiteUsd}), an online store at ${P.shop} (${P.shopUsd}), a custom web app at ${P.software} (${P.softwareUsd}), an Android and iOS app at ${P.app} (${P.appUsd}) and AI automation at ${P.ai} (${P.aiUsd}). After five free months of maintenance, ongoing care starts at ${P.care}.`,
         `Hidden costs in remote hiring usually come from management time, not rates: re-explaining requirements to a new person, chasing updates, or rebuilding work that was never written down. A clear brief and a single decision-maker on your side save more money than negotiating the price down.`,
       ],
       after: [`For hourly versus project billing in detail, see <a href='/freelance-web-developer-rates/'>freelance web developer rates</a>.`],
@@ -314,7 +314,7 @@ const content: FreelanceContent = {
       columns: ["Project", "India", "International", "Typical timeline"],
       rows: [
         ["Website, up to 100 pages", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks"],
-        ["SEO website, 700+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks"],
+        ["SEO website, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks"],
         ["Online store", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks"],
         ["Custom web app", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks"],
         ["Android & iOS app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks"],

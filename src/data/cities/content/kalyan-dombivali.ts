@@ -35,7 +35,7 @@ const kalyanDombivali: CityContent = {
     pills: ["Sites from ₹10,000", "Marathi and English pages", "Google Maps for your ward", "WhatsApp enquiry automation", "You own domain and code"],
   },
   quickAnswer:
-    "In Kalyan-Dombivli, a static business website with us starts at ₹10,000 and takes one to two weeks, and a 700+ page SEO website starts at ₹20,000. Online stores start at ₹50,000. We are three engineers working remotely with no local office, you own the domain and code, and five months of maintenance after launch is free.",
+    "In Kalyan-Dombivli, a static business website with us starts at ₹10,000 and takes one to two weeks, and a 299+ page SEO website starts at ₹20,000. Online stores start at ₹50,000. We are three engineers working remotely with no local office, you own the domain and code, and five months of maintenance after launch is free.",
   snapshot: [
     { label: "Civic body", value: "Kalyan-Dombivli Municipal Corporation, Thane district" },
     { label: "Rail hubs", value: "Kalyan Junction and Dombivli station, both among the busiest on the Central line" },
@@ -73,12 +73,12 @@ const kalyanDombivali: CityContent = {
       heading: "How much does a website cost in Kalyan-Dombivli?",
       paragraphs: [
         "You can find someone in Kalyan-Dombivli who will make a website for ₹3,000, and you can find Mumbai agencies that will quote ₹75,000 for the same brief. The low offers usually mean a reused template, hosting on the developer's personal account and nothing at all for search. The high quotes pay for offices in Andheri or Lower Parel and a team of account managers you never needed.",
-        "We sit in between, and we publish our numbers. A static website of up to 100 pages starts at ₹10,000 and is usually live in one to two weeks. A 700+ page site built around real local searches, covering each service and each ward or area you serve, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000. Custom web applications, such as a batch and fee system for classes or an order portal for a distributor, start at ₹60,000. Automation projects begin at ₹40,000 and monthly SEO at ₹10,000.",
+        "We sit in between, and we publish our numbers. A static website of up to 100 pages starts at ₹10,000 and is usually live in one to two weeks. A 299+ page site built around real local searches, covering each service and each ward or area you serve, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000. Custom web applications, such as a batch and fee system for classes or an order portal for a distributor, start at ₹60,000. Automation projects begin at ₹40,000 and monthly SEO at ₹10,000.",
         "Every quote is itemised, so you can see exactly what each page and feature costs and drop what you don't need. Nothing is billed until you approve the quote in writing. The full list is on our <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [
         "<strong>₹10,000 onwards:</strong> a compact site for a doctor, CA, tutor, salon or shop with an enquiry form and search basics.",
-        "<strong>₹20,000 onwards:</strong> a 700+ page SEO site for service businesses that want steady enquiries from their part of the city.",
+        "<strong>₹20,000 onwards:</strong> a 299+ page SEO site for service businesses that want steady enquiries from their part of the city.",
         "<strong>₹50,000 onwards:</strong> an online store with UPI, delivery zones and order alerts, suited to food and clothing sellers.",
         "<strong>₹60,000 onwards:</strong> custom software for classes, distributors, housing services and MIDC suppliers.",
       ],
@@ -209,12 +209,12 @@ const kalyanDombivali: CityContent = {
     {
       question: "How much does a website cost in Kalyan-Dombivli?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. Locally you will see anything from ₹3,000 to Mumbai agency quotes of ₹75,000. Before choosing, compare who owns the domain, whether SEO is included and what happens after launch.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. Locally you will see anything from ₹3,000 to Mumbai agency quotes of ₹75,000. Before choosing, compare who owns the domain, whether SEO is included and what happens after launch.",
     },
     {
       question: "Dombivli madhye website banvayla kiti kharch yeto?",
       answer:
-        "Aamchyakade sadhi business website ₹10,000 pasun suru hote, ani 700+ pages chi SEO website ₹20,000 pasun. Online store ₹50,000 pasun suru hoto. Antim kimmat pages, features ani content var avalambun aste, ani kaam suru karnyapurvi tumhala purna likhit quote milto.",
+        "Aamchyakade sadhi business website ₹10,000 pasun suru hote, ani 299+ pages chi SEO website ₹20,000 pasun. Online store ₹50,000 pasun suru hoto. Antim kimmat pages, features ani content var avalambun aste, ani kaam suru karnyapurvi tumhala purna likhit quote milto.",
     },
     {
       question: "Do you have an office in Kalyan or Dombivli?",
@@ -239,7 +239,7 @@ const kalyanDombivali: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "One to two weeks for a static site, three to five weeks for a 700+ page SEO site, four to eight weeks for an online store and six to twelve weeks for custom software. The usual delay is waiting for photos and text, so we draft the content and you correct it.",
+        "One to two weeks for a static site, three to five weeks for a 299+ page SEO site, four to eight weeks for an online store and six to twelve weeks for custom software. The usual delay is waiting for photos and text, so we draft the content and you correct it.",
     },
     {
       question: "Can you build an online ordering site for festival sweets and faral?",

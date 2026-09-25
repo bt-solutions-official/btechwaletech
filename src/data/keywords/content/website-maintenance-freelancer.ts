@@ -295,7 +295,7 @@ const content: FreelanceContent = {
       rows: [
         ["Static business site", "Light", "Hosting and SSL checks, edits, occasional dependency updates", `From ${P.care}`],
         ["WordPress site", "Moderate", "Staged updates, security scans, backups, edits", `From ${P.care}, more with many plugins`],
-        ["SEO site with 700+ pages", "Moderate", "Build checks, sitemap health, Search Console errors", `From ${P.care}`],
+        ["SEO site with 299+ pages", "Moderate", "Build checks, sitemap health, Search Console errors", `From ${P.care}`],
         ["Online store", "Higher", "Checkout and order tests, stock and price updates, backups", "Quoted after a short review"],
         ["Web app or portal", "Higher", "Server patches, database backups, error logs, user access", "Custom plan"],
         ["Any site we built", "—", "Everything above for the first 5 months", "Free after launch"],

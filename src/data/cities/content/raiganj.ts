@@ -35,7 +35,7 @@ const raiganj: CityContent = {
     pills: ["Websites from ₹10,000", "Bengali, Hindi and English", "Tulaipanji rice stores", "Clinic and coaching sites", "5 months free maintenance"],
   },
   quickAnswer:
-    "For a Raiganj business, our static websites start at ₹10,000 and go live in one to two weeks. SEO sites of 700+ pages start at ₹20,000, online stores from ₹50,000, WhatsApp and AI automation from ₹40,000 and custom software from ₹60,000. We work remotely with no Raiganj office and give five months of free maintenance.",
+    "For a Raiganj business, our static websites start at ₹10,000 and go live in one to two weeks. SEO sites of 299+ pages start at ₹20,000, online stores from ₹50,000, WhatsApp and AI automation from ₹40,000 and custom software from ₹60,000. We work remotely with no Raiganj office and give five months of free maintenance.",
   snapshot: [
     { label: "Role", value: "Headquarters of Uttar Dinajpur district, with the collectorate at Karnajora, on the banks of the Kulik river" },
     { label: "Connectivity", value: "National highway link to Kolkata and Siliguri; Raiganj station on the Barsoi–Radhikapur branch line; Bagdogra airport about 166 km away" },
@@ -90,13 +90,13 @@ const raiganj: CityContent = {
       heading: "How much a website costs in Raiganj",
       paragraphs: [
         "Business owners in Raiganj hear very different figures: a low amount from a local computer centre, a larger one from a Siliguri or Kolkata agency. The difference is usually hidden in what is left out, such as search setup, domain ownership or any support after launch. Our starting prices are published on the <a href=\"/pricing/\">pricing page</a>.",
-        "A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks; it suits a shop, clinic, tutor or small trader. A 700+ page site built for search starts at ₹20,000 and fits hospitals, schools and traders with many products. Online stores start at ₹50,000, WhatsApp and AI automation at ₹40,000 and custom registers or web apps at ₹60,000. Monthly SEO work starts at ₹10,000.",
+        "A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks; it suits a shop, clinic, tutor or small trader. A 299+ page site built for search starts at ₹20,000 and fits hospitals, schools and traders with many products. Online stores start at ₹50,000, WhatsApp and AI automation at ₹40,000 and custom registers or web apps at ₹60,000. Monthly SEO work starts at ₹10,000.",
         "None of these is a package price. We quote line by line after understanding your needs, you can drop items you do not want, and nothing is charged until you approve in writing.",
         "A practical tip when comparing offers: ask each developer who will hold the domain, whether you get the code, what the yearly renewal will cost and who will answer when something breaks. A lower first price with no answers to those questions often ends up costing more in the second or third year.",
       ],
       list: [
         "<strong>₹10,000 onwards:</strong> up to 100 pages, mobile layout, enquiry form, map and search basics.",
-        "<strong>₹20,000 onwards:</strong> 700+ pages for services, products, courses or areas served.",
+        "<strong>₹20,000 onwards:</strong> 299+ pages for services, products, courses or areas served.",
         "<strong>₹50,000 onwards:</strong> online store with UPI, cards, shipping rules and order alerts.",
         "<strong>₹60,000 onwards:</strong> purchase, stock, fee or appointment software with logins.",
       ],
@@ -229,12 +229,12 @@ const raiganj: CityContent = {
     {
       question: "How much does a website cost in Raiganj?",
       answer:
-        "Our static websites start at ₹10,000, SEO websites of 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. Treat these as starting prices. Your written quote lists each page and feature, and you can remove anything before approving it.",
+        "Our static websites start at ₹10,000, SEO websites of 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. Treat these as starting prices. Your written quote lists each page and feature, and you can remove anything before approving it.",
     },
     {
       question: "Raiganj-e website banate koto taka lagbe?",
       answer:
-        "Amader kache sadharon website ₹10,000 theke shuru hoy, aar ek theke dui shoptahe toiri hoye jay. 700+ page-er SEO website ₹20,000 theke, aar Tulaipanji chal ba onno jinish bikrir online dokan ₹50,000 theke. Likhito quote aage paben, aapnar sommoti chara kono bill hobe na.",
+        "Amader kache sadharon website ₹10,000 theke shuru hoy, aar ek theke dui shoptahe toiri hoye jay. 299+ page-er SEO website ₹20,000 theke, aar Tulaipanji chal ba onno jinish bikrir online dokan ₹50,000 theke. Likhito quote aage paben, aapnar sommoti chara kono bill hobe na.",
     },
     {
       question: "Do you have an office in Raiganj?",
@@ -259,7 +259,7 @@ const raiganj: CityContent = {
     {
       question: "How long will my website take?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. The usual cause of delay is waiting for photographs and text, so we send a checklist on the first day.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. The usual cause of delay is waiting for photographs and text, so we send a checklist on the first day.",
     },
     {
       question: "Do you make websites for coaching centres?",

@@ -40,7 +40,7 @@ const palghar: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "MIDC supplier sites", "Marathi-first local SEO", "Your domain, your code"],
   },
   quickAnswer:
-    "For Palghar businesses, a website from us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps and AI or WhatsApp automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Palghar office, and you own every account.",
+    "For Palghar businesses, a website from us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps and AI or WhatsApp automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Palghar office, and you own every account.",
   snapshot: [
     { label: "Status", value: "Headquarters of Palghar district since 2014, in the Konkan division; district offices on the Palghar–Boisar road at Kolgaon" },
     { label: "Location", value: "About 87 km north of Mumbai, roughly 24 km west of the Mumbai–Ahmedabad highway at Manor" },
@@ -159,7 +159,7 @@ const palghar: CityContent = {
       id: "website-cost-palghar",
       heading: "Website cost in Palghar: starting prices and what to compare",
       paragraphs: [
-        "Here are our starting points. A standard website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. An SEO website of 700 pages or more, useful for suppliers with many products or schools with many courses, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation. Online stores start at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000 a month.",
+        "Here are our starting points. A standard website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. An SEO website of 299 pages or more, useful for suppliers with many products or schools with many courses, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation. Online stores start at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000 a month.",
         "Your quote rises from there only for what you choose to add: extra languages, large product or room lists, photography, booking or checkout, staff logins, or links to billing software. Each appears as a separate line that you can keep or remove. Supplying your own text and photographs keeps the price close to the starting figure.",
         "Quotes in Palghar, Vasai-Virar and Mumbai vary widely for work that sounds similar. Ask every provider who will own the domain and hosting, whether the site is tested on budget phones, whether basic SEO is included, how many change rounds are covered and who fixes problems a year later. Our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and an itemised quote reaches you in about two working days.",
       ],
@@ -220,7 +220,7 @@ const palghar: CityContent = {
     {
       question: "What is the website cost in Palghar?",
       answer:
-        "Our standard websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, languages, products and integrations, and it arrives itemised in writing before anything is billed.",
+        "Our standard websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, languages, products and integrations, and it arrives itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Palghar businesses?",
@@ -235,7 +235,7 @@ const palghar: CityContent = {
     {
       question: "How long does a website take in Palghar?",
       answer:
-        "A standard site is usually live within one to two weeks after we receive your content and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The fastest projects are the ones where content arrives in the first few days.",
+        "A standard site is usually live within one to two weeks after we receive your content and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The fastest projects are the ones where content arrives in the first few days.",
     },
     {
       question: "Which is the best website development team in Palghar?",
@@ -255,7 +255,7 @@ const palghar: CityContent = {
     {
       question: "Palghar madhe website banvayla kiti kharch yeto?",
       answer:
-        "Aamchyakade sadhi website ₹10,000 pasun suru hote ani sadharan ek te don athavdyat tayar hote. 700+ page SEO website ₹20,000 pasun, Android ani iOS app ₹40,000 pasun ani online store ₹50,000 pasun suru hote. Sagla quote lekhi swarupat milto, ani tumchya approval shivay kontehi bill nahi.",
+        "Aamchyakade sadhi website ₹10,000 pasun suru hote ani sadharan ek te don athavdyat tayar hote. 299+ page SEO website ₹20,000 pasun, Android ani iOS app ₹40,000 pasun ani online store ₹50,000 pasun suru hote. Sagla quote lekhi swarupat milto, ani tumchya approval shivay kontehi bill nahi.",
     },
     {
       question: "You have no office in Palghar. How is remote work safe?",

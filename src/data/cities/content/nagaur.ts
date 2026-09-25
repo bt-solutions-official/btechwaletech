@@ -35,7 +35,7 @@ const nagaur: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi-first SEO", "Spice and methi catalogues", "WhatsApp order replies", "You own everything"],
   },
   quickAnswer:
-    "A website for a Nagaur business starts at ₹10,000 with us and usually goes live in one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000, AI or WhatsApp automation at ₹40,000 and custom software at ₹60,000. We work remotely with no Nagaur office, and the domain, hosting and code stay in your name.",
+    "A website for a Nagaur business starts at ₹10,000 with us and usually goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000, AI or WhatsApp automation at ₹40,000 and custom software at ₹60,000. We work remotely with no Nagaur office, and the domain, hosting and code stay in your name.",
   snapshot: [
     { label: "Location", value: "District headquarters in central Rajasthan, roughly midway between Jodhpur and Bikaner" },
     { label: "Signature crop", value: "Kasuri methi (dried fenugreek leaves), sold widely as Nagauri methi, plus cumin traded at Merta City" },
@@ -73,12 +73,12 @@ const nagaur: CityContent = {
       heading: "How much a website costs in Nagaur",
       paragraphs: [
         "Nagaur traders get quotes that are hard to compare. A local computer centre may offer a website for a small amount, built on a template it controls. A metro agency may send a long proposal with a large monthly retainer. Neither usually explains which pages, features or SEO tasks are included.",
-        "Our prices are public starting figures. A static website of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000 and custom web applications, such as a lot-tracking system for a spice unit, at ₹60,000. Monthly SEO starts at ₹10,000. Everything is on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our prices are public starting figures. A static website of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000 and custom web applications, such as a lot-tracking system for a spice unit, at ₹60,000. Monthly SEO starts at ₹10,000. Everything is on our <a href=\"/pricing/\">pricing page</a>.",
         "The final number depends on scope: pages, languages, product count, integrations and how much writing we do for you. Each is a separate line item, so you can launch the essentials before the rabi season and add features when you see results.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> a clear site for a shop, clinic, advocate, tutor or small trader.",
-        "<strong>From ₹20,000:</strong> a 700+ page SEO site for schools, hospitals and processors with long product lists.",
+        "<strong>From ₹20,000:</strong> a 299+ page SEO site for schools, hospitals and processors with long product lists.",
         "<strong>From ₹50,000:</strong> an online store for spices, methi, snacks or handicrafts with UPI and courier tracking.",
         "<strong>From ₹60,000:</strong> a custom tool for lots, purchases, dispatch or admissions.",
       ],
@@ -227,12 +227,12 @@ const nagaur: CityContent = {
     {
       question: "What does a website cost in Nagaur?",
       answer:
-        "With us, a business website starts at ₹10,000 and a 700+ page SEO website at ₹20,000. Online stores start at ₹50,000, automation at ₹40,000 and custom software at ₹60,000. The final amount depends on pages, products and features, and you receive an itemised quote in about two working days before any billing.",
+        "With us, a business website starts at ₹10,000 and a 299+ page SEO website at ₹20,000. Online stores start at ₹50,000, automation at ₹40,000 and custom software at ₹60,000. The final amount depends on pages, products and features, and you receive an itemised quote in about two working days before any billing.",
     },
     {
       question: "Nagaur mein website banwane mein kitna kharcha aata hai?",
       answer:
-        "Humare yahan dukaan, clinic ya coaching ki website ₹10,000 se shuru hoti hai. 700+ page wali SEO website ₹20,000 se aur online store ₹50,000 se shuru hota hai. Kitne page, kitne product aur kaun se features chahiye, usi se final rate banta hai. Kaam se pehle poora hisaab likhkar dete hain, aur aapki haan ke bina koi bill nahi banta.",
+        "Humare yahan dukaan, clinic ya coaching ki website ₹10,000 se shuru hoti hai. 299+ page wali SEO website ₹20,000 se aur online store ₹50,000 se shuru hota hai. Kitne page, kitne product aur kaun se features chahiye, usi se final rate banta hai. Kaam se pehle poora hisaab likhkar dete hain, aur aapki haan ke bina koi bill nahi banta.",
     },
     {
       question: "Do you have an office in Nagaur?",
@@ -262,7 +262,7 @@ const nagaur: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static website usually takes one to two weeks, a 700+ page SEO website three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. Content is the usual bottleneck, so we can draft Hindi and English text for you to correct.",
+        "A static website usually takes one to two weeks, a 299+ page SEO website three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. Content is the usual bottleneck, so we can draft Hindi and English text for you to correct.",
     },
     {
       question: "What can WhatsApp automation do for my business?",

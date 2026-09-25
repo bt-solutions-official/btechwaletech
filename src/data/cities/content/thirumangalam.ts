@@ -38,7 +38,7 @@ const thirumangalam: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Tamil-first local SEO", "Kappalur factory websites", "Every login in your name"],
   },
   quickAnswer:
-    "A Thirumangalam website with us is priced from ₹10,000 and is typically finished in one to two weeks. Android and iOS apps cost ₹40,000 onwards, the same starting point as AI and WhatsApp automation. SEO sites with 700+ pages start from ₹20,000, online shops from ₹50,000 and custom software from ₹60,000. Our team works remotely, with no office in Thirumangalam.",
+    "A Thirumangalam website with us is priced from ₹10,000 and is typically finished in one to two weeks. Android and iOS apps cost ₹40,000 onwards, the same starting point as AI and WhatsApp automation. SEO sites with 299+ pages start from ₹20,000, online shops from ₹50,000 and custom software from ₹60,000. Our team works remotely, with no office in Thirumangalam.",
   snapshot: [
     { label: "Location", value: "Municipality and taluk headquarters in Madurai district, about 18 km by rail from Madurai Junction" },
     { label: "Population", value: "About 51,000 (Census 2011)" },
@@ -157,7 +157,7 @@ const thirumangalam: CityContent = {
       id: "website-cost-thirumangalam",
       heading: "Website cost in Thirumangalam: starting prices and quote checks",
       paragraphs: [
-        "Our starting prices, in short: a static website of up to 100 pages from ₹10,000, in one to two weeks; an SEO website of 700 pages or more from ₹20,000, suited to a manufacturer with a big catalogue or a group of schools, in three to five weeks; an Android and iOS app from ₹40,000, with AI automation from the same figure; an online store from ₹50,000; a custom web app from ₹60,000; and ongoing SEO from ₹10,000 a month.",
+        "Our starting prices, in short: a static website of up to 100 pages from ₹10,000, in one to two weeks; an SEO website of 299 pages or more from ₹20,000, suited to a manufacturer with a big catalogue or a group of schools, in three to five weeks; an Android and iOS app from ₹40,000, with AI automation from the same figure; an online store from ₹50,000; a custom web app from ₹60,000; and ongoing SEO from ₹10,000 a month.",
         "What pushes a Thirumangalam quote above those figures is almost always one of the items below. Each is priced separately, so you can drop any of them and watch the total fall.",
       ],
       list: [
@@ -236,7 +236,7 @@ const thirumangalam: CityContent = {
     {
       question: "What is the website cost in Thirumangalam?",
       answer:
-        "A static website starts at ₹10,000 with us, an SEO website of 700+ pages at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Where your project ends up depends on page count, Tamil content, the number of products and any link to other software. The written quote shows each item separately, and nothing is charged until you approve it.",
+        "A static website starts at ₹10,000 with us, an SEO website of 299+ pages at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Where your project ends up depends on page count, Tamil content, the number of products and any link to other software. The written quote shows each item separately, and nothing is charged until you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Thirumangalam businesses?",
@@ -246,7 +246,7 @@ const thirumangalam: CityContent = {
     {
       question: "How long does a website take for a Thirumangalam business?",
       answer:
-        "Count one to two weeks for a shop, clinic or school site, starting from the day we have your photographs and details. A 700+ page SEO site needs three to five weeks, an online store four to eight, and custom software six to twelve. Sending text and pictures early is the simplest way to shorten any of these.",
+        "Count one to two weeks for a shop, clinic or school site, starting from the day we have your photographs and details. A 299+ page SEO site needs three to five weeks, an online store four to eight, and custom software six to twelve. Sending text and pictures early is the simplest way to shorten any of these.",
     },
     {
       question: "Which is the best IT services team in Thirumangalam for a website?",
@@ -276,7 +276,7 @@ const thirumangalam: CityContent = {
     {
       question: "Thirumangalam me website banwane ka kharcha kitna hai?",
       answer:
-        "Thirumangalam ke liye website ka kharcha ₹10,000 se shuru hota hai; photos aur details milne ke baad 1-2 hafte mein site taiyaar. 700+ pages ki SEO site ₹20,000 se, Android aur iPhone app ₹40,000 se, online store ₹50,000 se. Tamil ya English, jo bhasha chahiye, bataiye; har cheez ka alag rate likh kar WhatsApp par quote bhej denge.",
+        "Thirumangalam ke liye website ka kharcha ₹10,000 se shuru hota hai; photos aur details milne ke baad 1-2 hafte mein site taiyaar. 299+ pages ki SEO site ₹20,000 se, Android aur iPhone app ₹40,000 se, online store ₹50,000 se. Tamil ya English, jo bhasha chahiye, bataiye; har cheez ka alag rate likh kar WhatsApp par quote bhej denge.",
     },
     {
       question: "You have no office in Thirumangalam. Is remote work safe?",

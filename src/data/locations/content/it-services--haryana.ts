@@ -44,7 +44,7 @@ const content: CityContent = {
     pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Websites from ₹10,000", "Android & iOS apps from ₹40,000", "UPI or bank transfer in INR"],
   },
   quickAnswer:
-    "BtechWaleTech, a freelance group of three engineers, offers IT services in Haryana: websites from ₹10,000, SEO websites of 700+ pages from ₹20,000, AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. Most projects go live in one to twelve weeks, and five months of maintenance is free.",
+    "BtechWaleTech, a freelance group of three engineers, offers IT services in Haryana: websites from ₹10,000, SEO websites of 299+ pages from ₹20,000, AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. Most projects go live in one to twelve weeks, and five months of maintenance is free.",
   snapshot: [
     { label: "Corporate and tech belt", value: "Gurugram's Cyber City, Golf Course Road and Udyog Vihar, with IT parks also in Panchkula and Faridabad" },
     { label: "Automotive cluster", value: "Vehicle plants and component suppliers across Gurugram, IMT Manesar, Faridabad, Rohtak, Bawal and Dharuhera" },
@@ -205,7 +205,7 @@ const content: CityContent = {
       id: "it-services-cost-haryana",
       heading: "How much do IT services cost in Haryana?",
       paragraphs: [
-        "IT services in Haryana cost, with us, from ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for an ecommerce store and ₹60,000 for custom software or a web app, with monthly SEO from ₹10,000 and maintenance from ₹8,000 a month. These are starting prices; the full list is on our <a href='/pricing/'>pricing page</a>.",
+        "IT services in Haryana cost, with us, from ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for an ecommerce store and ₹60,000 for custom software or a web app, with monthly SEO from ₹10,000 and maintenance from ₹8,000 a month. These are starting prices; the full list is on our <a href='/pricing/'>pricing page</a>.",
         "What moves the figure is scope. A single-location clinic site stays near the starting price. A manufacturer wanting 400 product pages, Hindi and English versions and an RFQ system costs more. Custom software rises with the number of user roles, integrations and reports. We send an itemised quote in about two working days so you can remove anything that is not essential.",
         "Payment is simple and staged: an advance to start, the balance at defined milestones, all by UPI or bank transfer in INR. No annual licence is attached to software we build for you. Hosting costs are paid directly by you to the provider, so there is no hidden margin on infrastructure.",
       ],
@@ -287,7 +287,7 @@ const content: CityContent = {
     {
       question: "How long does it take to launch a website or software project?",
       answer:
-        "A static business website usually takes one to two weeks and a 700+ page SEO site three to five weeks. AI automation projects take two to four weeks, online stores four to eight weeks and custom web applications six to twelve weeks. Timelines slip mostly when photos, product data or approvals are delayed, so we share a checklist of what we need from you on day one.",
+        "A static business website usually takes one to two weeks and a 299+ page SEO site three to five weeks. AI automation projects take two to four weeks, online stores four to eight weeks and custom web applications six to twelve weeks. Timelines slip mostly when photos, product data or approvals are delayed, so we share a checklist of what we need from you on day one.",
     },
     {
       question: "Can you build software that works with Tally?",

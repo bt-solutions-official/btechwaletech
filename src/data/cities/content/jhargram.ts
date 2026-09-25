@@ -39,7 +39,7 @@ const jhargram: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Bengali and Santali-aware SEO", "Homestay and tour sites", "Your name on every account"],
   },
   quickAnswer:
-    "For Jhargram businesses, a website with us starts at ₹10,000 and typically goes live in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, with no Jhargram office.",
+    "For Jhargram businesses, a website with us starts at ₹10,000 and typically goes live in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, with no Jhargram office.",
   snapshot: [
     { label: "Status", value: "Headquarters of Jhargram district, carved out of Paschim Medinipur on 4 April 2017" },
     { label: "Population", value: "About 61,700 in the town at the 2011 census, in a district of roughly 11 lakh people" },
@@ -158,7 +158,7 @@ const jhargram: CityContent = {
       id: "website-cost-jhargram",
       heading: "Website cost in Jhargram: starting prices and how to compare quotes",
       paragraphs: [
-        "Our published starting prices apply in Jhargram as everywhere else: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 700+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000 in two to four weeks, an online store from ₹50,000 in four to eight weeks and custom software from ₹60,000 in six to twelve weeks.",
+        "Our published starting prices apply in Jhargram as everywhere else: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 299+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000 in two to four weeks, an online store from ₹50,000 in four to eight weeks and custom software from ₹60,000 in six to twelve weeks.",
         "Scope moves the number. Bengali and English versions, long product lists, booking calendars, payment gateways, courier integration, staff logins and accounting links each add work. Content matters too: if you send your own text and photographs the quote stays close to the starting price, while writing and photography arranged by us appear as separate lines.",
         "Local quotes vary widely, so compare like with like. Ask whose name the domain and hosting will be registered in, whether mobile testing and basic SEO are included, how many rounds of changes you get, and who fixes things after launch. Our <a href=\"/pricing/\">pricing page</a> lists the starting points, and an itemised written quote usually reaches you within two working days.",
       ],
@@ -210,7 +210,7 @@ const jhargram: CityContent = {
     {
       question: "What is the website cost in Jhargram?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Your quote depends on pages, Bengali content, products, booking or payment features and integrations, and it is sent itemised in writing before anything is billed.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Your quote depends on pages, Bengali content, products, booking or payment features and integrations, and it is sent itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Jhargram businesses?",
@@ -220,7 +220,7 @@ const jhargram: CityContent = {
     {
       question: "How long does a website take for a Jhargram business?",
       answer:
-        "A static website is usually live within one to two weeks of receiving your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having content ready is what speeds things up most.",
+        "A static website is usually live within one to two weeks of receiving your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having content ready is what speeds things up most.",
     },
     {
       question: "Which is the best website development team in Jhargram?",
@@ -245,7 +245,7 @@ const jhargram: CityContent = {
     {
       question: "Jhargram-e website banate koto taka lagbe?",
       answer:
-        "Amader kache sadharon website ₹10,000 theke shuru, ar sadharonoto ek theke dui soptaher moddhe toiri hoye jay. 700+ page-er SEO website ₹20,000 theke, Android o iOS app ₹40,000 theke ar online store ₹50,000 theke shuru. Apnar page ar feature dekhe likhito quote pathano hoy.",
+        "Amader kache sadharon website ₹10,000 theke shuru, ar sadharonoto ek theke dui soptaher moddhe toiri hoye jay. 299+ page-er SEO website ₹20,000 theke, Android o iOS app ₹40,000 theke ar online store ₹50,000 theke shuru. Apnar page ar feature dekhe likhito quote pathano hoy.",
     },
     {
       question: "You have no office in Jhargram. How does remote work stay safe?",

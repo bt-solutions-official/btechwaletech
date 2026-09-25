@@ -39,7 +39,7 @@ const sardhana: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi local SEO", "Fabric and furniture catalogues", "You own every account"],
   },
   quickAnswer:
-    "For Sardhana businesses, our websites start at ₹10,000 and a simple site is usually ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an ecommerce store at ₹50,000 and custom software at ₹60,000. We work remotely and have no Sardhana office.",
+    "For Sardhana businesses, our websites start at ₹10,000 and a simple site is usually ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an ecommerce store at ₹50,000 and custom software at ₹60,000. We work remotely and have no Sardhana office.",
   snapshot: [
     { label: "District", value: "Meerut district, about 13 miles (roughly 21 km) from Meerut and 85 km north-east of New Delhi" },
     { label: "Roads", value: "About 5 km off the Meerut–Karnal highway" },
@@ -222,7 +222,7 @@ const sardhana: CityContent = {
     {
       question: "What is the website cost in Sardhana?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your final quote depends on pages, designs, Hindi content and features, and comes itemised in writing before anything is billed.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your final quote depends on pages, designs, Hindi content and features, and comes itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Sardhana businesses?",
@@ -232,7 +232,7 @@ const sardhana: CityContent = {
     {
       question: "How long does a website take for a Sardhana business?",
       answer:
-        "A simple business website is usually live one to two weeks after we receive photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Catalogue projects finish sooner when design photos arrive early.",
+        "A simple business website is usually live one to two weeks after we receive photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Catalogue projects finish sooner when design photos arrive early.",
     },
     {
       question: "Which is the best website development team in Sardhana?",
@@ -257,7 +257,7 @@ const sardhana: CityContent = {
     {
       question: "Sardhana me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein ban jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapki zaroorat ke hisaab se likhit quote milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein ban jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapki zaroorat ke hisaab se likhit quote milta hai.",
     },
     {
       question: "You have no office in Sardhana. Is remote work safe?",

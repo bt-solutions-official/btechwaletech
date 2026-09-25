@@ -167,7 +167,7 @@ const content: CityContent = {
       paragraphs: [
         "SEO belongs in a Delhi transformation plan because most buyers now research online, and increasingly through AI assistants, before they contact a supplier or clinic. Good SEO makes sure your services, locations, prices and credentials are clear to Google, AI Overviews, ChatGPT and Perplexity, and that enquiries flow straight into your CRM.",
         "Delhi searches are crowded, so we focus on specifics: service plus locality pages for the areas you truly serve, product and capability pages with real details, and clear FAQs that answer questions buyers ask. We fix technical issues, add structured data and keep your Google Business Profile accurate.",
-        "We do not promise rankings. Monthly SEO starts from ₹10,000 and includes reporting from Search Console. For businesses targeting many products or localities, a 700+ page SEO website starts from ₹20,000. More on our <a href='/services/seo-services/'>SEO services page</a>.",
+        "We do not promise rankings. Monthly SEO starts from ₹10,000 and includes reporting from Search Console. For businesses targeting many products or localities, a 299+ page SEO website starts from ₹20,000. More on our <a href='/services/seo-services/'>SEO services page</a>.",
       ],
     },
     {
@@ -183,12 +183,12 @@ const content: CityContent = {
       id: "delhi-it-cost-guide",
       heading: "How much do IT solutions cost for a Delhi business?",
       paragraphs: [
-        "IT solutions for a Delhi business start from ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000. These are starting prices, not fixed packages.",
+        "IT solutions for a Delhi business start from ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000. These are starting prices, not fixed packages.",
         "The consulting phase keeps costs predictable: once the roadmap is agreed, each item is quoted separately and itemised within about two working days. Costs rise with more users, integrations, data migration and compliance features; they fall when the first release is tightly scoped. Full details are on our <a href='/pricing/'>pricing page</a>.",
       ],
       list: [
         "Static website: from ₹10,000, 1 to 2 weeks",
-        "700+ page SEO website: from ₹20,000, 3 to 5 weeks",
+        "299+ page SEO website: from ₹20,000, 3 to 5 weeks",
         "Android and iOS app: from ₹40,000, 6 to 10 weeks",
         "AI automation: from ₹40,000, 2 to 4 weeks",
         "Online store: from ₹50,000, 4 to 8 weeks",

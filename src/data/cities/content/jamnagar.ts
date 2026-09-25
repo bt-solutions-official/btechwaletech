@@ -34,7 +34,7 @@ const jamnagar: CityContent = {
     pills: ["Sites from ₹10,000", "Brass part catalogues", "Bandhani stores with UPI", "Gujarati search pages", "RFQ and WhatsApp flows"],
   },
   quickAnswer:
-    "In Jamnagar, a basic business website from us starts at ₹10,000 and is ready in one to two weeks. A 700+ page SEO or product catalogue site starts at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. We work remotely with no Jamnagar office, and include five months of free maintenance.",
+    "In Jamnagar, a basic business website from us starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO or product catalogue site starts at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. We work remotely with no Jamnagar office, and include five months of free maintenance.",
   snapshot: [
     { label: "Brass cluster", value: "Thousands of brass workshops across Shankar Tekri, GIDC Dared and M P Shah Udyognagar" },
     { label: "Refining", value: "Reliance's Jamnagar refinery complex, and Nayara Energy's refinery at nearby Vadinar" },
@@ -72,12 +72,12 @@ const jamnagar: CityContent = {
       heading: "Website costs in Jamnagar and what drives them",
       paragraphs: [
         "In Jamnagar, a small business website may be quoted anywhere from ₹3,000 to ₹60,000, and product catalogues vary even more. Cheap offers often mean a template, no search setup and the developer keeping your domain. Expensive ones often include agency overheads, travel and features you will never use.",
-        "Our starting prices are published. A static business website costs from <strong>₹10,000</strong> and usually takes one to two weeks. A 700+ page SEO website or product catalogue starts at <strong>₹20,000</strong> and takes three to five weeks. Online stores begin at ₹50,000, automation at ₹40,000 and custom applications such as RFQ portals at ₹60,000. Monthly SEO costs from ₹10,000. See the <a href=\"/pricing/\">pricing page</a> for more.",
+        "Our starting prices are published. A static business website costs from <strong>₹10,000</strong> and usually takes one to two weeks. A 299+ page SEO website or product catalogue starts at <strong>₹20,000</strong> and takes three to five weeks. Online stores begin at ₹50,000, automation at ₹40,000 and custom applications such as RFQ portals at ₹60,000. Monthly SEO costs from ₹10,000. See the <a href=\"/pricing/\">pricing page</a> for more.",
         "For brass and engineering firms, product count is usually the main cost factor. Two hundred part numbers with drawings take longer than twenty. If you already keep a product list in Excel, we can import it directly, which saves time and money. Every quote is itemised, and nothing is billed until you approve it in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> a site of up to 100 pages for a clinic, shop, consultant or small service firm.",
-        "<strong>From ₹20,000:</strong> 700+ pages or product groups, ideal for brass part catalogues.",
+        "<strong>From ₹20,000:</strong> 299+ pages or product groups, ideal for brass part catalogues.",
         "<strong>From ₹50,000:</strong> store with UPI and card checkout for bandhani, Ayurveda or food products.",
         "<strong>From ₹60,000:</strong> RFQ portals, dealer logins and production dashboards.",
       ],
@@ -225,12 +225,12 @@ const jamnagar: CityContent = {
     {
       question: "How much does a website cost in Jamnagar?",
       answer:
-        "With us, a static business website starts at ₹10,000, a 700+ page SEO or catalogue site at ₹20,000, an online store at ₹50,000 and a custom application at ₹60,000. Other Jamnagar quotes may vary from ₹3,000 to ₹60,000. Check what is included, especially SEO basics, domain ownership and after-launch support.",
+        "With us, a static business website starts at ₹10,000, a 299+ page SEO or catalogue site at ₹20,000, an online store at ₹50,000 and a custom application at ₹60,000. Other Jamnagar quotes may vary from ₹3,000 to ₹60,000. Check what is included, especially SEO basics, domain ownership and after-launch support.",
     },
     {
       question: "Jamnagar ma website banavva no kharch ketlo thay?",
       answer:
-        "Amari sathe saadi business website ₹10,000 thi sharu thay chhe, ane 700+ page ni SEO website ₹20,000 thi. Online store ₹50,000 thi sharu thay chhe. Final kimat pages, features ane content par aadhar rakhe chhe, ane kaam sharu karta pehla tamne puro itemised quote male chhe.",
+        "Amari sathe saadi business website ₹10,000 thi sharu thay chhe, ane 299+ page ni SEO website ₹20,000 thi. Online store ₹50,000 thi sharu thay chhe. Final kimat pages, features ane content par aadhar rakhe chhe, ane kaam sharu karta pehla tamne puro itemised quote male chhe.",
     },
     {
       question: "Is your office in Jamnagar?",
@@ -255,7 +255,7 @@ const jamnagar: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO or catalogue site three to five weeks, a store four to eight weeks, and a custom application six to twelve weeks. Large product catalogues depend on how quickly product data and photos are ready.",
+        "A static site takes one to two weeks, a 299+ page SEO or catalogue site three to five weeks, a store four to eight weeks, and a custom application six to twelve weeks. Large product catalogues depend on how quickly product data and photos are ready.",
     },
     {
       question: "Do you build websites for refinery contractors?",

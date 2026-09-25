@@ -35,7 +35,7 @@ const silchar: CityContent = {
     pills: ["Websites from ₹10,000", "Bengali and English pages", "Map listings for Silchar", "Catalogues for wholesalers", "WhatsApp enquiry handling"],
   },
   quickAnswer:
-    "In Silchar, a static business website with us starts at ₹10,000 and goes live in about one to two weeks. A 700+ page SEO website starts from ₹20,000 and an online store from ₹50,000. We are a remote team of three engineers with no Silchar office, and maintenance is free for five months after launch.",
+    "In Silchar, a static business website with us starts at ₹10,000 and goes live in about one to two weeks. A 299+ page SEO website starts from ₹20,000 and an online store from ₹50,000. We are a remote team of three engineers with no Silchar office, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of Cachar district and the main town of Assam's Barak Valley, far south of Guwahati" },
     { label: "Trade position", value: "Road and rail gateway for goods moving to Mizoram and Manipur, with a large wholesale trade" },
@@ -73,7 +73,7 @@ const silchar: CityContent = {
       heading: "What a website costs in Silchar",
       paragraphs: [
         "Quotes in the Barak Valley vary a great deal. A local designer might build a one-page template for a few thousand rupees, while an outside agency could ask for fifty thousand or more. The low quotes often skip search setup and keep the domain under the designer's account; the high ones usually include overheads you are paying for without seeing.",
-        "We publish our figures on the <a href=\"/pricing/\">pricing page</a>, and each one is a starting price. A static site of up to 100 pages, right for most shops, clinics, tutors and small firms, starts at ₹10,000 and takes one to two weeks. An SEO website with 700+ pages built around real searches starts from ₹20,000 and takes three to five weeks. WhatsApp and AI automation starts at ₹40,000, ecommerce from ₹50,000, custom web applications from ₹60,000, and ongoing monthly SEO from ₹10,000 a month.",
+        "We publish our figures on the <a href=\"/pricing/\">pricing page</a>, and each one is a starting price. A static site of up to 100 pages, right for most shops, clinics, tutors and small firms, starts at ₹10,000 and takes one to two weeks. An SEO website with 299+ pages built around real searches starts from ₹20,000 and takes three to five weeks. WhatsApp and AI automation starts at ₹40,000, ecommerce from ₹50,000, custom web applications from ₹60,000, and ongoing monthly SEO from ₹10,000 a month.",
         "Where your quote lands depends on how much there is to build and write. We list each page and feature separately, so you can drop anything you don't need before you say yes.",
         "One cost that Silchar owners often forget is content. Product photos, doctor schedules, course details and delivery routes have to come from you, and gathering them takes longer than the build itself. We send a simple checklist on day one, draft the text ourselves where you prefer, and keep the first version small so it can go live while the rest is still being collected.",
       ],
@@ -211,12 +211,12 @@ const silchar: CityContent = {
     {
       question: "How much does a website cost in Silchar?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices; your written quote depends on pages, features and content, and nothing is billed until you approve it.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices; your written quote depends on pages, features and content, and nothing is billed until you approve it.",
     },
     {
       question: "Silchar e website banate koto khoroch hoy?",
       answer:
-        "Amader kache ekta simple website ₹10,000 theke shuru, 700+ page er SEO website ₹20,000 theke, ar online store ₹50,000 theke. Final dam page, feature ar content er upor nirbhor kore. Kaj shuru korar age apni likhito, itemised quote paben, ar apnar sommoti chhara kono bill hobe na.",
+        "Amader kache ekta simple website ₹10,000 theke shuru, 299+ page er SEO website ₹20,000 theke, ar online store ₹50,000 theke. Final dam page, feature ar content er upor nirbhor kore. Kaj shuru korar age apni likhito, itemised quote paben, ar apnar sommoti chhara kono bill hobe na.",
     },
     {
       question: "Do you have an office in Silchar?",
@@ -241,7 +241,7 @@ const silchar: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks, and a custom application six to twelve. The main delay is usually waiting for photos and text, so we prepare drafts for you to correct.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks, and a custom application six to twelve. The main delay is usually waiting for photos and text, so we prepare drafts for you to correct.",
     },
     {
       question: "Can a diagnostic centre take bookings through the website?",

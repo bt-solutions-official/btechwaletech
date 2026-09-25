@@ -39,7 +39,7 @@ const sherkot: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Brush catalogues and B2B stores", "Hindi and English pages", "You own every account"],
   },
   quickAnswer:
-    "In Sherkot, a business website from us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Sherkot office, and every account stays in your name.",
+    "In Sherkot, a business website from us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Sherkot office, and every account stays in your name.",
   snapshot: [
     { label: "Location", value: "Nagar Palika town in Bijnor district, western Uttar Pradesh, about 11 km from Dhampur" },
     { label: "Population", value: "62,226 in the 2011 census" },
@@ -149,7 +149,7 @@ const sherkot: CityContent = {
       id: "website-cost-sherkot",
       heading: "Website cost in Sherkot: starting prices and how to compare quotes",
       paragraphs: [
-        "Here are our entry points, since price is always the first question. A standard website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 700 pages or more, for a brush maker with many series or a school group with many branches, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and so does AI automation. Online stores start at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000 a month.",
+        "Here are our entry points, since price is always the first question. A standard website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 299 pages or more, for a brush maker with many series or a school group with many branches, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and so does AI automation. Online stores start at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000 a month.",
         "Your quote rises from those starting points only for what you choose: Hindi and English versions, product photography, dealer logins, wholesale price tiers, checkout, or a link to billing software. Each is a separate line you can keep or remove. If you send your own photographs and descriptions, the cost stays close to the base figure.",
         "Quotes from designers in Bijnor, Moradabad and Delhi vary widely for work that sounds alike. Before choosing, ask who will own the domain and hosting, whether the site is tested on budget phones, whether basic SEO is included, how many rounds of changes are covered and who fixes problems a year later. Our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and your itemised written quote arrives within about two working days.",
       ],
@@ -210,7 +210,7 @@ const sherkot: CityContent = {
     {
       question: "What is the website cost in Sherkot?",
       answer:
-        "Our standard websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Hindi and English content, products and integrations, and it reaches you itemised in writing before anything is billed.",
+        "Our standard websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Hindi and English content, products and integrations, and it reaches you itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Sherkot businesses?",
@@ -225,7 +225,7 @@ const sherkot: CityContent = {
     {
       question: "How long does it take to build a website in Sherkot?",
       answer:
-        "A standard site is usually live within one to two weeks after we receive your photographs and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The fastest projects are those where the owner sends content in the first few days.",
+        "A standard site is usually live within one to two weeks after we receive your photographs and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The fastest projects are those where the owner sends content in the first few days.",
     },
     {
       question: "Which is the best website development team in Sherkot?",
@@ -245,7 +245,7 @@ const sherkot: CityContent = {
     {
       question: "Sherkot me website banwane me kitna kharcha aata hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein taiyaar ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Poora quote likhit mein milta hai aur approval se pehle koi bill nahi.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein taiyaar ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Poora quote likhit mein milta hai aur approval se pehle koi bill nahi.",
     },
     {
       question: "You have no office in Sherkot. Is it safe to work with you remotely?",

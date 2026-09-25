@@ -40,7 +40,7 @@ const madhupur: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi, English and Bengali pages", "Direct bookings for guest houses", "All accounts in your name"],
   },
   quickAnswer:
-    "A Madhupur business website with us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation also at ₹40,000, SEO websites of 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Madhupur office.",
+    "A Madhupur business website with us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation also at ₹40,000, SEO websites of 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Madhupur office.",
   snapshot: [
     { label: "Where it is", value: "Subdivision headquarters with a municipality in Deoghar district, Jharkhand" },
     { label: "Population", value: "55,238 at the 2011 Census, with literacy of about 79%" },
@@ -180,7 +180,7 @@ const madhupur: CityContent = {
       ],
       list: [
         "Static website, up to 100 pages: from ₹10,000, one to two weeks",
-        "SEO website, 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website, 299+ pages: from ₹20,000, three to five weeks",
         "Android and iOS app: from ₹40,000",
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Online store with UPI and card checkout: from ₹50,000, four to eight weeks",
@@ -237,7 +237,7 @@ const madhupur: CityContent = {
     {
       question: "How much does a website cost in Madhupur?",
       answer:
-        "Our static websites start at ₹10,000 and SEO websites of 700+ pages at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. The final amount depends on pages, languages, products and features, and you receive it as an itemised written quote before any billing begins.",
+        "Our static websites start at ₹10,000 and SEO websites of 299+ pages at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. The final amount depends on pages, languages, products and features, and you receive it as an itemised written quote before any billing begins.",
     },
     {
       question: "Do you build Android and iOS apps for Madhupur businesses?",
@@ -262,7 +262,7 @@ const madhupur: CityContent = {
     {
       question: "How many days does it take to launch a website in Madhupur?",
       answer:
-        "A simple site goes live in one to two weeks once we have your photographs and details. An SEO website of 700+ pages takes three to five weeks, an online store four to eight, and custom software six to twelve. Quick replies on content are what keep a project on schedule.",
+        "A simple site goes live in one to two weeks once we have your photographs and details. An SEO website of 299+ pages takes three to five weeks, an online store four to eight, and custom software six to twelve. Quick replies on content are what keep a project on schedule.",
     },
     {
       question: "Can you build AI chat or WhatsApp automation for a Madhupur business?",
@@ -272,7 +272,7 @@ const madhupur: CityContent = {
     {
       question: "Madhupur me website banwane me kitna kharcha aata hai?",
       answer:
-        "Hamare yahan simple website ₹10,000 se shuru hoti hai aur aam taur par ek se do hafte mein taiyar ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapki zaroorat ke hisaab se likhit quote do working din mein mil jaata hai.",
+        "Hamare yahan simple website ₹10,000 se shuru hoti hai aur aam taur par ek se do hafte mein taiyar ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapki zaroorat ke hisaab se likhit quote do working din mein mil jaata hai.",
     },
     {
       question: "Is it risky to hire a team with no office in Madhupur?",

@@ -179,7 +179,7 @@ const content: CityContent = {
       id: "seo-ai-search-rishikesh",
       heading: "SEO and AI-search visibility for Rishikesh schools and camps",
       paragraphs: [
-        "SEO for Rishikesh yoga schools and adventure camps depends on detailed, honest pages about each course or trip, because prospective students compare syllabus, teachers, accommodation and price across many schools before paying a deposit. Monthly SEO starts at ₹10,000 and a 700+ page SEO website from ₹20,000.",
+        "SEO for Rishikesh yoga schools and adventure camps depends on detailed, honest pages about each course or trip, because prospective students compare syllabus, teachers, accommodation and price across many schools before paying a deposit. Monthly SEO starts at ₹10,000 and a 299+ page SEO website from ₹20,000.",
         "We write pages that answer real questions: what a 200-hour course covers, daily schedules, accreditation, what to pack, how to reach Tapovan from the airport and how rafting stretches differ. Clear answers with schema markup also help Google's AI Overviews, ChatGPT and Perplexity cite your pages when travellers ask them for advice. Google Business Profile guidance helps with map searches.",
         "We never buy links or guarantee rankings. Results usually build over three to six months. See <a href='/services/seo-services/'>our SEO services</a> for the monthly scope.",
       ],

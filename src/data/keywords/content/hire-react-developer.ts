@@ -200,7 +200,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does it cost to hire a React developer in India?",
       paragraphs: [
-        `Most React work we do is quoted per project. A dashboard, portal or SaaS front end starts at ${P.software} (${P.softwareUsd}) and typically takes 6–12 weeks. A Next.js business website starts at ${P.site}, an SEO site of 700+ pages at ${P.seoSite}, and a React Native app for Android and iOS at ${P.app}.`,
+        `Most React work we do is quoted per project. A dashboard, portal or SaaS front end starts at ${P.software} (${P.softwareUsd}) and typically takes 6–12 weeks. A Next.js business website starts at ${P.site}, an SEO site of 299+ pages at ${P.seoSite}, and a React Native app for Android and iOS at ${P.app}.`,
         `Market quotes for React work vary widely. The difference usually comes from seniority, whether tests and code review are included, who designs the screens, whether the back end already exists, and how much support follows launch. A low hourly rate can still produce a high final bill if the code needs rewriting later, so compare the scope and the review process, not only the number.`,
         `Hourly billing makes sense for open-ended help such as pair programming or ongoing small tickets. Project pricing suits a defined build because you see the total up front. If you are comparing both, <a href='/freelance-web-developer-rates/'>freelance web developer rates</a> explains how to convert one into the other.`,
       ],
@@ -314,7 +314,7 @@ const content: FreelanceContent = {
       columns: ["React project", "India, from", "Abroad, from", "Typical time", "Usually includes"],
       rows: [
         ["Next.js business website", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Up to 100 pages, SEO tags, forms"],
-        ["Next.js SEO site, 700+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Generated pages, schema, sitemaps"],
+        ["Next.js SEO site, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Generated pages, schema, sitemaps"],
         ["React dashboard or portal", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Auth, roles, tables, charts, tests"],
         ["React store front", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Catalogue, cart, UPI and card checkout"],
         ["React Native app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Android and iOS, store publishing"],

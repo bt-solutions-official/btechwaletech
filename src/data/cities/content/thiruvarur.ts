@@ -39,7 +39,7 @@ const thiruvarur: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Tamil-first local SEO", "Rice mill and trader tools", "Domain and code in your name"],
   },
   quickAnswer:
-    "A Thiruvarur business website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, without a Thiruvarur office.",
+    "A Thiruvarur business website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, without a Thiruvarur office.",
   snapshot: [
     { label: "Status", value: "Headquarters of Thiruvarur district, in the Cauvery delta of eastern Tamil Nadu" },
     { label: "Landmarks", value: "Thyagaraja temple, the Kamalalayam tank of roughly 33 acres, and a temple chariot drawn in the April–May festival" },
@@ -158,13 +158,13 @@ const thiruvarur: CityContent = {
       id: "website-cost-thiruvarur",
       heading: "Website cost in Thiruvarur: starting prices and what moves the final figure",
       paragraphs: [
-        "Owners usually ask about cost first, and they should. Our starting prices are published so you can plan before calling anyone. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. An online store starts at ₹50,000, custom web software at ₹60,000, and Android and iOS apps and AI automation each from ₹40,000.",
+        "Owners usually ask about cost first, and they should. Our starting prices are published so you can plan before calling anyone. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. An online store starts at ₹50,000, custom web software at ₹60,000, and Android and iOS apps and AI automation each from ₹40,000.",
         "The final quote depends on concrete things: the number of pages or products, whether content comes in Tamil, English or both, who writes and photographs it, payment and delivery steps, app screens, and links to Tally or other software. Local quotes in the delta vary widely, so compare what is actually included: domain and hosting ownership, the number of revision rounds, mobile speed, Tamil typing support and who handles changes after launch.",
         "You receive an itemised quote within about two working days of explaining what you need, and nothing is billed until you approve it in writing. Full details are on the <a href=\"/pricing/\">pricing page</a>. If your budget is tight, we suggest a smaller first version that can grow later rather than a cheaper build that has to be thrown away.",
       ],
       list: [
         "Static website, up to 100 pages: from ₹10,000, one to two weeks",
-        "SEO website, 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website, 299+ pages: from ₹20,000, three to five weeks",
         "Android and iOS app: from ₹40,000",
         "AI and WhatsApp automation: from ₹40,000, two to four weeks",
         "Online store: from ₹50,000, four to eight weeks",
@@ -218,7 +218,7 @@ const thiruvarur: CityContent = {
     {
       question: "What is the website cost in Thiruvarur?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices only. The final figure depends on pages, Tamil and English content, products and integrations, and it reaches you as an itemised written quote before anything is billed.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices only. The final figure depends on pages, Tamil and English content, products and integrations, and it reaches you as an itemised written quote before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Thiruvarur businesses?",
@@ -228,7 +228,7 @@ const thiruvarur: CityContent = {
     {
       question: "How long does a website take for a Thiruvarur shop?",
       answer:
-        "A simple static site for a shop is usually live within one to two weeks of receiving photographs and details. A 700+ page SEO site takes about three to five weeks, an online store four to eight, and custom software six to twelve. Projects finish fastest when the owner sends content within the first few days.",
+        "A simple static site for a shop is usually live within one to two weeks of receiving photographs and details. A 299+ page SEO site takes about three to five weeks, an online store four to eight, and custom software six to twelve. Projects finish fastest when the owner sends content within the first few days.",
     },
     {
       question: "Which is the best website development team in Thiruvarur?",
@@ -253,7 +253,7 @@ const thiruvarur: CityContent = {
     {
       question: "Thiruvarur-la website panna evvalavu selavu aagum?",
       answer:
-        "Engaloda simple website ₹10,000-la irundhu start aagudhu, oru rendu vaarathula ready aagidum. 700+ page SEO website ₹20,000-la irundhu, Android matrum iOS app ₹40,000-la irundhu, online store ₹50,000-la irundhu aarambikkudhu. Unga pages, features paathu final quote ezhuthi anuppuvom, neenga approve pannina apram thaan billing.",
+        "Engaloda simple website ₹10,000-la irundhu start aagudhu, oru rendu vaarathula ready aagidum. 299+ page SEO website ₹20,000-la irundhu, Android matrum iOS app ₹40,000-la irundhu, online store ₹50,000-la irundhu aarambikkudhu. Unga pages, features paathu final quote ezhuthi anuppuvom, neenga approve pannina apram thaan billing.",
     },
     {
       question: "You have no office in Thiruvarur. Is it safe to work remotely?",

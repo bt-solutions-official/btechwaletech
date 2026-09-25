@@ -1,0 +1,82 @@
+---
+import TopicPage from "@components/topic/TopicPage.astro";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { countryOgImage } from "@data/countries/international";
+import { topicSchema } from "@data/topics/schema";
+import type { TopicContent } from "@data/topics/types";
+
+// A page ships only once its hand-written content file exists, so no thin pages are generated.
+export function getStaticPaths() {
+  const modules = import.meta.glob<{ default: TopicContent }>("../../data/topics/india/*.ts", { eager: true });
+  return Object.values(modules).map(({ default: content }) => ({ params: { topic: content.slug }, props: { content } }));
+}
+
+interface Props {
+  content: TopicContent;
+}
+
+const { content } = Astro.props;
+const path = `/india/${content.slug}/`;
+
+const page = createPageSeo({
+  title: content.title,
+  description: content.description,
+  canonicalPath: path,
+  h1: content.h1,
+  intro: content.intro,
+  breadcrumbs: createBreadcrumbs([
+    { label: "India", href: "/india/" },
+    { label: content.crumb, href: path },
+  ]),
+  locale: "en_IN",
+  ogImage: countryOgImage(content.ogAlt),
+  keywords: content.keywords,
+});
+---
+
+<TopicPage
+  page={page}
+  schema={topicSchema(content, path, page.title)}
+  country={content.country}
+  heroEyebrow={content.heroEyebrow}
+  facts={content.facts}
+  pills={content.pills}
+  heroOrigin={content.heroOrigin}
+  quoteKicker={content.quoteKicker}
+  quotePlans={content.quotePlans}
+  quoteFoot={content.quoteFoot}
+  stats={content.stats}
+  answerHeading={content.answerHeading}
+  quickAnswer={content.quickAnswer}
+  answerMore={content.answerMore}
+  snapshotCaption={content.snapshotCaption}
+  snapshot={content.snapshot}
+  servicesHeading={content.servicesHeading}
+  services={content.services}
+  pricingHeading={content.pricingHeading}
+  pricingIntro={content.pricingIntro}
+  pricingFine={content.pricingFine}
+  guideLabel={content.guideLabel}
+  guide={content.guide}
+  regionsHeading={content.regionsHeading}
+  regionsNote={content.regionsNote}
+  regionHead={content.regionHead}
+  regionHide={content.regionHide}
+  regionTable={content.regionTable}
+  industriesHeading={content.industriesHeading}
+  industries={content.industries}
+  comparisonHeading={content.comparisonHeading}
+  comparisonNote={content.comparisonNote}
+  compHead={content.compHead}
+  comparison={content.comparison}
+  processHeading={content.processHeading}
+  process={content.process}
+  timelineFine={content.timelineFine}
+  faqHeading={content.faqHeading}
+  faqs={content.faqs}
+  relatedHeading={content.relatedHeading}
+  related={content.related}
+  closingHeading={content.closingHeading}
+  closingNote={content.closingNote}
+/>

@@ -35,7 +35,7 @@ const satna: CityContent = {
     pills: ["Websites from ₹10,000", "Vendor capability sites", "Truck and trip tracking", "Hindi-first pages", "Five months free upkeep"],
   },
   quickAnswer:
-    "For a Satna business, our static website starts at ₹10,000 and is ready in one to two weeks. A 700+ page SEO website costs from ₹20,000, WhatsApp or AI automation from ₹40,000 and custom software from ₹60,000. We are a remote three-engineer team with no Satna office, and every site gets five months of free maintenance.",
+    "For a Satna business, our static website starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO website costs from ₹20,000, WhatsApp or AI automation from ₹40,000 and custom software from ₹60,000. We are a remote three-engineer team with no Satna office, and every site gets five months of free maintenance.",
   snapshot: [
     { label: "City role", value: "District headquarters in north-eastern Madhya Pradesh, on the Howrah–Allahabad–Mumbai rail line" },
     { label: "Cement", value: "Around ten cement plants in and near the city, fed by local limestone, including Birla Corporation's Satna Cement Works and Prism Johnson's unit" },
@@ -75,7 +75,7 @@ const satna: CityContent = {
       paragraphs: [
         "A good vendor site in Satna reads like a well-prepared vendor registration file. It lists the services you provide, the equipment you own, your manpower strength in round terms, safety practices, licences and registrations, GST and Udyam details, and a named contact who answers the phone. Photographs of your own work, taken on site with permission, count for more than stock images of factories.",
         "We add a projects page grouped by type of work, a downloadable company profile in PDF, and an enquiry form that accepts drawings or tender documents. If you have been approved as a vendor by a plant, you may mention it only if that approval allows public reference; otherwise we describe the kind of work without naming the client.",
-        "Most suppliers fit well within our 700+ page plan starting at ₹20,000, which leaves room for a page per service line. Smaller contractors can start with a ₹10,000 static site and add pages as the business grows. Either way, the domain and hosting are booked in your name from day one.",
+        "Most suppliers fit well within our 299+ page plan starting at ₹20,000, which leaves room for a page per service line. Smaller contractors can start with a ₹10,000 static site and add pages as the business grows. Either way, the domain and hosting are booked in your name from day one.",
       ],
     },
     {
@@ -92,12 +92,12 @@ const satna: CityContent = {
       heading: "How much a website costs in Satna",
       paragraphs: [
         "Satna business owners get quotes that range from a couple of thousand rupees for a single template page to large figures from agencies in Jabalpur, Bhopal or Prayagraj. The lowest offers often leave out search setup and keep the domain under the developer's control. The highest ones may be solid work but priced for companies with marketing budgets.",
-        "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static site for a shop, clinic, coaching centre or small contractor begins at ₹10,000 and takes one to two weeks. The 700+ page SEO site at ₹20,000 suits suppliers, schools and hotels with several services to explain. Online stores start at ₹50,000, WhatsApp and AI automation at ₹40,000, custom software like fleet or billing tools at ₹60,000, and monthly SEO at ₹10,000.",
+        "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static site for a shop, clinic, coaching centre or small contractor begins at ₹10,000 and takes one to two weeks. The 299+ page SEO site at ₹20,000 suits suppliers, schools and hotels with several services to explain. Online stores start at ₹50,000, WhatsApp and AI automation at ₹40,000, custom software like fleet or billing tools at ₹60,000, and monthly SEO at ₹10,000.",
         "You get a written quote that names every page and feature. If something on it is not useful to you, strike it out before approving.",
       ],
       list: [
         "<strong>₹10,000 onwards:</strong> site of up to 100 pages with map, WhatsApp button, enquiry form and basic SEO.",
-        "<strong>₹20,000 onwards:</strong> 700+ pages, one for each service, route or course.",
+        "<strong>₹20,000 onwards:</strong> 299+ pages, one for each service, route or course.",
         "<strong>₹50,000 onwards:</strong> online store with UPI, cards, stock and shipping settings.",
         "<strong>₹60,000 onwards:</strong> trip, billing or vendor management systems with logins.",
       ],
@@ -213,12 +213,12 @@ const satna: CityContent = {
     {
       question: "What does a website cost in Satna?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. When you compare quotes from other developers, ask whether search setup, hosting in your name and post-launch support are included, because those are often the missing pieces.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. When you compare quotes from other developers, ask whether search setup, hosting in your name and post-launch support are included, because those are often the missing pieces.",
     },
     {
       question: "Satna me website banwane me kitna paisa lagega?",
       answer:
-        "Humare saath simple website ₹10,000 se shuru hoti hai, jo ek-do hafte me live ho jaati hai. 700+ page ki SEO website ₹20,000 se aur online dukaan ₹50,000 se banti hai. Pehle likhit quote milta hai, har cheez alag likhi hoti hai, aur aapki manzoori ke bina koi bill nahi banta.",
+        "Humare saath simple website ₹10,000 se shuru hoti hai, jo ek-do hafte me live ho jaati hai. 299+ page ki SEO website ₹20,000 se aur online dukaan ₹50,000 se banti hai. Pehle likhit quote milta hai, har cheez alag likhi hoti hai, aur aapki manzoori ke bina koi bill nahi banta.",
     },
     {
       question: "Is your office in Satna?",
@@ -233,7 +233,7 @@ const satna: CityContent = {
     {
       question: "I supply services to a cement plant. Is a website useful?",
       answer:
-        "Usually, yes. Purchase and engineering staff often search a vendor's name before a meeting or an approval. A site showing your services, equipment, registrations and past work, with a downloadable profile, makes you look organised. Most suppliers fit our 700+ page plan from ₹20,000.",
+        "Usually, yes. Purchase and engineering staff often search a vendor's name before a meeting or an approval. A site showing your services, equipment, registrations and past work, with a downloadable profile, makes you look organised. Most suppliers fit our 299+ page plan from ₹20,000.",
     },
     {
       question: "Can you build software to track my trucks and trips?",
@@ -248,7 +248,7 @@ const satna: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Most delays come from waiting for photos and details, so we send a short checklist on the first day.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Most delays come from waiting for photos and details, so we send a short checklist on the first day.",
     },
     {
       question: "What can WhatsApp automation do for my Satna business?",

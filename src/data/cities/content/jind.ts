@@ -34,7 +34,7 @@ const jind: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi and Haryanvi-friendly SEO", "Arhtiya and dealer pages", "WhatsApp admission bots", "5 months' free upkeep"],
   },
   quickAnswer:
-    "For a Jind shop, clinic or trader, our websites begin at ₹10,000 and are usually ready inside a fortnight. Larger 700+ page SEO builds are priced from ₹20,000, stores from ₹50,000 and WhatsApp bots from ₹40,000. Three remote engineers, no Jind office, and upkeep costs nothing for the first five months.",
+    "For a Jind shop, clinic or trader, our websites begin at ₹10,000 and are usually ready inside a fortnight. Larger 299+ page SEO builds are priced from ₹20,000, stores from ₹50,000 and WhatsApp bots from ₹40,000. Three remote engineers, no Jind office, and upkeep costs nothing for the first five months.",
   snapshot: [
     { label: "Known as", value: "“Heart of Haryana”, district headquarters and former capital of the Jind princely state" },
     { label: "Economy", value: "Large grain market, a milk plant and cattle feed plant, farming across five tehsils" },
@@ -72,12 +72,12 @@ const jind: CityContent = {
       heading: "What a website costs in Jind",
       paragraphs: [
         "Website prices in Jind range from a few thousand rupees for a template built at a local cyber café to much higher quotes from agencies in Rohtak, Panipat or Delhi. The cheapest route often keeps the domain in someone else's name; the expensive one often includes costs you never needed. We prefer to show every item openly.",
-        "Treat each number here as the floor, not the bill. Brochure-style sites of up to 100 pages begin at ₹10,000 and are typically finished in a week or two. When you want Google to find a page for every course, product, treatment or village you cover, a 700+ page build begins at ₹20,000 and needs three to five weeks. Shops with online checkout begin at ₹50,000; bespoke software such as a ledger or dealer tool at ₹60,000; WhatsApp and AI automation at ₹40,000; ongoing SEO at ₹10,000 per month. Our <a href=\"/pricing/\">pricing page</a> sets all of it out side by side.",
+        "Treat each number here as the floor, not the bill. Brochure-style sites of up to 100 pages begin at ₹10,000 and are typically finished in a week or two. When you want Google to find a page for every course, product, treatment or village you cover, a 299+ page build begins at ₹20,000 and needs three to five weeks. Shops with online checkout begin at ₹50,000; bespoke software such as a ledger or dealer tool at ₹60,000; WhatsApp and AI automation at ₹40,000; ongoing SEO at ₹10,000 per month. Our <a href=\"/pricing/\">pricing page</a> sets all of it out side by side.",
         "The final figure depends on the work. A coaching institute with ten courses, results pages and an admission bot takes more time than a lawyer's four-page site. If the total is more than you planned, we show which items can wait until after admissions or the harvest.",
       ],
       list: [
         "<strong>Static site from ₹10,000:</strong> up to 100 pages, enquiry form, WhatsApp button, SEO basics.",
-        "<strong>SEO site from ₹20,000:</strong> 700+ pages, schema, sitemap and Search Console.",
+        "<strong>SEO site from ₹20,000:</strong> 299+ pages, schema, sitemap and Search Console.",
         "<strong>Store from ₹50,000:</strong> catalogue, UPI and card checkout, delivery rules and order alerts.",
         "<strong>Custom app from ₹60,000:</strong> logins, ledgers, dealer pricing and reports.",
       ],
@@ -217,12 +217,12 @@ const jind: CityContent = {
     {
       question: "How much does a website cost in Jind?",
       answer:
-        "Our simplest sites begin at ₹10,000. A search-focused build of 700+ pages begins at ₹20,000, a shop with online payment at ₹50,000 and bespoke software at ₹60,000. What you finally pay depends on how many pages and features you pick, and every item is priced separately in writing before we bill a rupee.",
+        "Our simplest sites begin at ₹10,000. A search-focused build of 299+ pages begins at ₹20,000, a shop with online payment at ₹50,000 and bespoke software at ₹60,000. What you finally pay depends on how many pages and features you pick, and every item is priced separately in writing before we bill a rupee.",
     },
     {
       question: "Jind mein website banwane ka kitna kharcha aave se?",
       answer:
-        "Mhare saath chhoti business website ₹10,000 se shuru hoti hai, aur 700+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se shuru hota hai. Kitne pages aur kaunse features chahiye, usi hisaab se final rate banta hai. Kaam shuru hone se pehle har cheez ka alag rate likh kar milta hai.",
+        "Mhare saath chhoti business website ₹10,000 se shuru hoti hai, aur 299+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se shuru hota hai. Kitne pages aur kaunse features chahiye, usi hisaab se final rate banta hai. Kaam shuru hone se pehle har cheez ka alag rate likh kar milta hai.",
     },
     {
       question: "Do you have an office in Jind?",
@@ -247,7 +247,7 @@ const jind: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "Plan on a week or two for a basic site, three to five weeks for a 700+ page SEO build, four to eight for a store and six to twelve for custom software. Projects slow down mainly when photos or wording are slow to arrive, so we write first drafts ourselves and you simply correct them.",
+        "Plan on a week or two for a basic site, three to five weeks for a 299+ page SEO build, four to eight for a store and six to twelve for custom software. Projects slow down mainly when photos or wording are slow to arrive, so we write first drafts ourselves and you simply correct them.",
     },
     {
       question: "Do you work with businesses in Narwana, Safidon, Kaithal and Rohtak?",

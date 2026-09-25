@@ -40,7 +40,7 @@ const shikohabad: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi and Braj-friendly pages", "Bangle and glass catalogues", "WhatsApp replies 7 days a week"],
   },
   quickAnswer:
-    "For a Shikohabad business, a static website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps start at ₹40,000, a 700+ page SEO website at ₹20,000 and an online store at ₹50,000. We are three remote engineers with no office in Shikohabad, and the quote is itemised.",
+    "For a Shikohabad business, a static website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps start at ₹40,000, a 299+ page SEO website at ₹20,000 and an online store at ₹50,000. We are three remote engineers with no office in Shikohabad, and the quote is itemised.",
   snapshot: [
     { label: "District", value: "Municipal board town in Firozabad district, about 22 km from Firozabad and 66 km from Agra" },
     { label: "Rail link", value: "Shikohabad Junction on the Kanpur–Delhi section of the Howrah–Delhi main line, with a branch line to Mainpuri and Farrukhabad" },
@@ -111,7 +111,7 @@ const shikohabad: CityContent = {
       heading: "Website cost in Shikohabad: what you pay for and what to compare",
       paragraphs: [
         "Owners in Shikohabad hear wildly different figures for a website. A cousin's friend may offer a template for a very small amount, while an agency in Agra or Noida quotes several times more. Local quotes vary widely, so compare what each one actually includes instead of the headline number: who owns the domain, whether hosting is in your name, whether basic SEO is done, and who fixes things after launch.",
-        "Our figures are on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts from ₹10,000 and is usually live within one to two weeks. A 700+ page SEO website, with separate pages for each product, course or area you serve, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation. An online store starts from ₹50,000 and custom software from ₹60,000. Monthly SEO is available from ₹10,000 a month.",
+        "Our figures are on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts from ₹10,000 and is usually live within one to two weeks. A 299+ page SEO website, with separate pages for each product, course or area you serve, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation. An online store starts from ₹50,000 and custom software from ₹60,000. Monthly SEO is available from ₹10,000 a month.",
         "Each figure is a starting price. A single clinic site costs less than a college with twenty departments; a bangle catalogue of fifty designs costs less than one with two thousand. Your written quote names every page and feature, so you can drop what you don't need before approving anything.",
       ],
       list: [
@@ -223,7 +223,7 @@ const shikohabad: CityContent = {
     {
       question: "How much does a website cost in Shikohabad?",
       answer:
-        "With us, a static website of up to 100 pages starts from ₹10,000, a 700+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices. Local quotes vary a lot, so compare domain ownership, hosting access, SEO basics and after-launch support, not just the headline figure.",
+        "With us, a static website of up to 100 pages starts from ₹10,000, a 299+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices. Local quotes vary a lot, so compare domain ownership, hosting access, SEO basics and after-launch support, not just the headline figure.",
     },
     {
       question: "Shikohabad me website ya app banwane me kitna kharcha aata hai?",
@@ -243,7 +243,7 @@ const shikohabad: CityContent = {
     {
       question: "How long does a website or app take?",
       answer:
-        "A static website takes one to two weeks, a 700+ page SEO website three to five weeks, AI automation two to four weeks, an online store four to eight weeks and custom software six to twelve weeks. App timelines depend on features and store review. The usual delay is waiting for photos and text, so we send a checklist on day one.",
+        "A static website takes one to two weeks, a 299+ page SEO website three to five weeks, AI automation two to four weeks, an online store four to eight weeks and custom software six to twelve weeks. App timelines depend on features and store review. The usual delay is waiting for photos and text, so we send a checklist on day one.",
     },
     {
       question: "Can you get my shop onto Google Maps in Shikohabad?",

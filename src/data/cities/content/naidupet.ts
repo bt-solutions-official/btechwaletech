@@ -39,7 +39,7 @@ const naidupet: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu-first Google Maps SEO", "Vendor sites for APIIC units", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Naidupet business, our static websites start at ₹10,000 and usually take one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 700+ page SEO website at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Naidupet office.",
+    "For a Naidupet business, our static websites start at ₹10,000 and usually take one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 299+ page SEO website at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Naidupet office.",
   snapshot: [
     { label: "Location", value: "Mandal headquarters in Tirupati district (earlier part of Nellore district), on the Swarnamukhi river" },
     { label: "Civic status", value: "Municipality since 2012; about 45,000 residents in the 2011 Census" },
@@ -157,7 +157,7 @@ const naidupet: CityContent = {
       id: "website-cost-naidupet",
       heading: "Website cost in Naidupet: starting prices and what changes them",
       paragraphs: [
-        "Our starting prices for Naidupet are the same ones we publish everywhere. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000 over three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000 over two to four weeks, an online store at ₹50,000 over four to eight weeks, and custom software at ₹60,000 over six to twelve weeks. Monthly SEO starts at ₹10,000 a month.",
+        "Our starting prices for Naidupet are the same ones we publish everywhere. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000 over three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000 over two to four weeks, an online store at ₹50,000 over four to eight weeks, and custom software at ₹60,000 over six to twelve weeks. Monthly SEO starts at ₹10,000 a month.",
         "What pushes a quote above the starting figure is scope: more pages, full Telugu and English versions, a large product list, payment and courier integration, staff logins, or links to Tally. Content also counts. If you send us the text and photographs, the price stays close to the start; if we write, translate and organise everything, that becomes its own line item.",
         "Local quotes vary widely, so compare like with like. Ask who owns the domain and hosting, whether mobile testing and basic SEO are included, how many revision rounds you get, and who answers the phone when something breaks after launch. Our <a href=\"/pricing/\">pricing page</a> sets out the starting points, and a written quote reaches you in about two working days, free of charge.",
       ],
@@ -218,7 +218,7 @@ const naidupet: CityContent = {
     {
       question: "What is the website cost in Naidupet?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, Telugu content, products and integrations. You get an itemised written quote in about two working days, and nothing is billed before you approve it.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, Telugu content, products and integrations. You get an itemised written quote in about two working days, and nothing is billed before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Naidupet businesses?",
@@ -228,7 +228,7 @@ const naidupet: CityContent = {
     {
       question: "How long does it take to build a website for a Naidupet shop?",
       answer:
-        "A static site normally goes live one to two weeks after we receive your text and photographs. A 700+ page SEO site needs three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Having your content ready is what speeds things up most.",
+        "A static site normally goes live one to two weeks after we receive your text and photographs. A 299+ page SEO site needs three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Having your content ready is what speeds things up most.",
     },
     {
       question: "Which is the best website development team in Naidupet?",
@@ -253,7 +253,7 @@ const naidupet: CityContent = {
     {
       question: "Naidupet me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek se do hafte me taiyaar ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hota hai. Aapke features ke hisaab se likhit quote milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek se do hafte me taiyaar ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hota hai. Aapke features ke hisaab se likhit quote milta hai.",
     },
     {
       question: "You have no office in Naidupet. How does remote work stay safe?",

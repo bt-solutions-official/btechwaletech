@@ -35,7 +35,7 @@ const unnao: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi and English pages", "Export sites for leather units", "Zardozi and craft stores", "WhatsApp enquiry handling"],
   },
   quickAnswer:
-    "For an Unnao business, a static website with us starts at ₹10,000 and is typically ready in one to two weeks. A 700+ page SEO website starts from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team with no office in Unnao, and five months of maintenance after launch are free.",
+    "For an Unnao business, a static website with us starts at ₹10,000 and is typically ready in one to two weeks. A 299+ page SEO website starts from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team with no office in Unnao, and five months of maintenance after launch are free.",
   snapshot: [
     { label: "Location", value: "District headquarters on the eastern bank of the Ganga, between Kanpur and Lucknow, in Lucknow division" },
     { label: "Main industry", value: "Leather tanning and leather goods, with Banthar Leather Technology Park, Magarwara and the UPSIDC industrial area" },
@@ -74,12 +74,12 @@ const unnao: CityContent = {
       heading: "What a website costs in Unnao",
       paragraphs: [
         "Unnao owners get quotes from both directions: a local designer offering a template for a few thousand rupees, and a Kanpur or Lucknow agency quoting fifty thousand or more. The cheap version usually skips search setup and keeps the domain under the designer's control. The expensive version often includes overheads you never benefit from.",
-        "Our figures are on the <a href=\"/pricing/\">pricing page</a>, and every one is a starting price. A static site of up to 100 pages, suitable for most shops, clinics, schools and small firms, starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website planned around real searches starts from ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts at ₹40,000, ecommerce from ₹50,000, custom web applications from ₹60,000, and monthly SEO from ₹10,000 a month.",
+        "Our figures are on the <a href=\"/pricing/\">pricing page</a>, and every one is a starting price. A static site of up to 100 pages, suitable for most shops, clinics, schools and small firms, starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website planned around real searches starts from ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts at ₹40,000, ecommerce from ₹50,000, custom web applications from ₹60,000, and monthly SEO from ₹10,000 a month.",
         "Scope decides the final figure. A zardozi workshop with thirty products needs more photography and writing than a coaching centre with four courses, and an exporter needing product pages in English and Hindi needs more still. We list every item in the quote so you can remove what you don't need.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form, map and basic SEO, for shops, clinics and schools.",
-        "<strong>From ₹20,000:</strong> 700+ pages built around searches, for manufacturers and institutes wanting regular enquiries.",
+        "<strong>From ₹20,000:</strong> 299+ pages built around searches, for manufacturers and institutes wanting regular enquiries.",
         "<strong>From ₹50,000:</strong> an online store with UPI and card checkout, for zardozi, leather goods and quilts.",
         "<strong>From ₹60,000:</strong> custom software with logins and dashboards, for tanneries, transporters and distributors.",
       ],
@@ -211,12 +211,12 @@ const unnao: CityContent = {
     {
       question: "How much does a website cost in Unnao?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices; your written quote depends on pages, features and content, and nothing is billed until you approve it.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices; your written quote depends on pages, features and content, and nothing is billed until you approve it.",
     },
     {
       question: "Unnao me website banwane me kitna paisa lagta hai?",
       answer:
-        "Humare saath simple website ₹10,000 se shuru hoti hai, 700+ page wali SEO website ₹20,000 se, aur online store ₹50,000 se. Final rate pages, features aur content par depend karta hai. Kaam se pehle aapko likhit itemised quote milta hai, aur aapki approval ke baad hi bill banta hai.",
+        "Humare saath simple website ₹10,000 se shuru hoti hai, 299+ page wali SEO website ₹20,000 se, aur online store ₹50,000 se. Final rate pages, features aur content par depend karta hai. Kaam se pehle aapko likhit itemised quote milta hai, aur aapki approval ke baad hi bill banta hai.",
     },
     {
       question: "Do you have an office in Unnao?",
@@ -241,7 +241,7 @@ const unnao: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve. Most delays come from waiting for photos and text, so we prepare drafts for you to check.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve. Most delays come from waiting for photos and text, so we prepare drafts for you to check.",
     },
     {
       question: "Can my website be in Hindi?",

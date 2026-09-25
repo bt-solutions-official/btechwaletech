@@ -39,7 +39,7 @@ const wanaparthy: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu-first local SEO", "Saree and handloom stores", "Accounts registered to you"],
   },
   quickAnswer:
-    "In Wanaparthy, a business website with us starts at ₹10,000 and is normally live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We have no Wanaparthy office; the work is remote and you own every login.",
+    "In Wanaparthy, a business website with us starts at ₹10,000 and is normally live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We have no Wanaparthy office; the work is remote and you own every login.",
   snapshot: [
     { label: "Status", value: "Headquarters of Wanaparthy district, carved out of Mahabubnagar district in 2016" },
     { label: "Distance", value: "About 154 km from Hyderabad; Wanaparthy Road railway station is roughly 29 km away" },
@@ -167,7 +167,7 @@ const wanaparthy: CityContent = {
       id: "website-cost-wanaparthy",
       heading: "Website cost in Wanaparthy and what moves the final figure",
       paragraphs: [
-        "Here is what work starts at with us. A static website of up to 100 pages starts at ₹10,000, delivered in one to two weeks. An SEO website of 700+ pages starts at ₹20,000 over three to five weeks. Online stores start at ₹50,000 and take four to eight weeks. Android and iOS apps and AI automation both start at ₹40,000. Custom web apps and software start at ₹60,000, over six to twelve weeks.",
+        "Here is what work starts at with us. A static website of up to 100 pages starts at ₹10,000, delivered in one to two weeks. An SEO website of 299+ pages starts at ₹20,000 over three to five weeks. Online stores start at ₹50,000 and take four to eight weeks. Android and iOS apps and AI automation both start at ₹40,000. Custom web apps and software start at ₹60,000, over six to twelve weeks.",
         "None of these is a package price. The figure rises with more pages or products, content in both Telugu and English, custom forms, payment options, app screens, offline use and links to Tally or other software. A saree store with 300 individually photographed pieces needs more setup than one with twenty designs.",
         "Quotes from local providers for similar work vary a lot. When comparing, ask whose name the domain is in, whether you get the source code, how many rounds of changes are included, what hosting costs after the first year and who fixes problems once the site is live.",
         "We send an itemised quote about two working days after we understand your needs, and we bill nothing until you approve it in writing. Our <a href=\"/pricing/\">pricing page</a> lists every starting price in one place.",
@@ -222,7 +222,7 @@ const wanaparthy: CityContent = {
     {
       question: "How much does a website cost in Wanaparthy?",
       answer:
-        "A static business website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Your itemised quote depends on pages, Telugu and English content, features and integrations.",
+        "A static business website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Your itemised quote depends on pages, Telugu and English content, features and integrations.",
     },
     {
       question: "Do you build Android and iOS apps for Wanaparthy businesses?",

@@ -35,7 +35,7 @@ const purnia: CityContent = {
     pills: ["Websites from ₹10,000", "Makhana export pages", "Line Bazar clinic sites", "Hindi, Maithili and Bangla copy", "5 months free maintenance"],
   },
   quickAnswer:
-    "In Purnia, a static business website with us starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site starts at ₹20,000, AI and WhatsApp automation at ₹40,000, a makhana or retail online store at ₹50,000 and custom software at ₹60,000. We work remotely, with no Purnia office.",
+    "In Purnia, a static business website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, AI and WhatsApp automation at ₹40,000, a makhana or retail online store at ₹50,000 and custom software at ₹60,000. We work remotely, with no Purnia office.",
   snapshot: [
     { label: "Position", value: "Divisional headquarters of north-east Bihar, about 315 km from Patna and 171 km from Siliguri" },
     { label: "Grain trade", value: "Gulabbagh mandi, often described as Asia's largest maize trading centre, supplies Bengal, Nepal and the North-East" },
@@ -100,12 +100,12 @@ const purnia: CityContent = {
       heading: "How much a website costs in Purnia",
       paragraphs: [
         "Prices for websites in Purnia vary widely. A cyber café may offer a site for very little, often on a free template with the domain in the developer's name, while agencies in Patna or Kolkata quote figures meant for larger companies. Before comparing numbers, ask who will own the domain, whether Google setup is included and what happens after launch.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages for a shop, clinic, tutor or trader starts at ₹10,000 and is ready in one to two weeks. A 700+ page SEO site for hospitals, schools or firms with many services starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, and custom web software at ₹60,000.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages for a shop, clinic, tutor or trader starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO site for hospitals, schools or firms with many services starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, and custom web software at ₹60,000.",
         "Every quote is itemised, so you can remove what you do not need. The figures below are where projects begin, not a ceiling; extra languages, product counts or integrations add to them, and you see each addition in writing before you agree.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> static site up to 100 pages with mobile layout, map, enquiry form and basic SEO.",
-        "<strong>From ₹20,000:</strong> 700+ page site for departments, doctors, courses or product ranges.",
+        "<strong>From ₹20,000:</strong> 299+ page site for departments, doctors, courses or product ranges.",
         "<strong>From ₹50,000:</strong> online store with UPI, cards, shipping rules and order notifications.",
         "<strong>From ₹10,000 a month:</strong> ongoing SEO with a plain-language monthly report.",
       ],
@@ -219,7 +219,7 @@ const purnia: CityContent = {
     {
       question: "What does a website cost in Purnia?",
       answer:
-        "With us, a static site starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom web software at ₹60,000. These are starting points. The final figure depends on pages, products and features, and you get an itemised written quote before anything is billed.",
+        "With us, a static site starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom web software at ₹60,000. These are starting points. The final figure depends on pages, products and features, and you get an itemised written quote before anything is billed.",
     },
     {
       question: "Purnia me website banwane ka kharcha kitna hai?",
@@ -254,7 +254,7 @@ const purnia: CityContent = {
     {
       question: "How long does a project take?",
       answer:
-        "Static sites usually take one to two weeks, 700+ page SEO sites three to five weeks, online stores four to eight weeks and custom software six to twelve weeks. The biggest delay is usually waiting for photographs and details, so we send a checklist on day one.",
+        "Static sites usually take one to two weeks, 299+ page SEO sites three to five weeks, online stores four to eight weeks and custom software six to twelve weeks. The biggest delay is usually waiting for photographs and details, so we send a checklist on day one.",
     },
     {
       question: "Do you make websites for Line Bazar hospitals and labs?",

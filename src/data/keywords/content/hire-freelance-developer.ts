@@ -68,7 +68,7 @@ const content: FreelanceContent = {
     heading: "One direct hire, several kinds of developer",
     note: "Most people searching to hire a freelance developer need one of these. Hiring a small team directly means the same people can cover the next piece too.",
     cards: [
-      { name: "Web developer", note: `Business websites of up to 100 pages from ${P.site}, SEO sites of 700+ pages from ${P.seoSite}. Mobile-first, fast, and editable.`, href: "/hire-web-developer/", size: "lg" },
+      { name: "Web developer", note: `Business websites of up to 100 pages from ${P.site}, SEO sites of 299+ pages from ${P.seoSite}. Mobile-first, fast, and editable.`, href: "/hire-web-developer/", size: "lg" },
       { name: "App developer", note: `Android and iOS from one Flutter or React Native codebase, published in your own store accounts, from ${P.app}.`, href: "/hire-app-developer/", size: "lg" },
       { name: "Full stack developer", note: `Front end, back end, database and deployment for portals, SaaS tools and admin panels, from ${P.software}.`, href: "/hire-full-stack-developer/", size: "md" },
       { name: "Ecommerce developer", note: `Stores with UPI and card checkout, GST-ready invoices and shipping rules, from ${P.shop}.`, href: "/hire-ecommerce-developer/", size: "md" },
@@ -288,7 +288,7 @@ const content: FreelanceContent = {
       columns: ["You want to hire", "For", "From (India)", "From (abroad)", "Typical timeline"],
       rows: [
         ["Web developer", "Business website, up to 100 pages", P.site, P.siteUsd, "1–2 weeks"],
-        ["SEO web developer", "SEO site with 700+ pages", P.seoSite, P.seoSiteUsd, "3–5 weeks"],
+        ["SEO web developer", "SEO site with 299+ pages", P.seoSite, P.seoSiteUsd, "3–5 weeks"],
         ["Ecommerce developer", "Online store with UPI and cards", P.shop, P.shopUsd, "4–8 weeks"],
         ["App developer", "Android and iOS app", P.app, P.appUsd, "6–10 weeks"],
         ["Full stack developer", "Portal, SaaS tool or admin panel", P.software, P.softwareUsd, "6–12 weeks"],

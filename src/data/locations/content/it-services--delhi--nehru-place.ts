@@ -190,7 +190,7 @@ const content: CityContent = {
       id: "cost-timeline-nehru-place",
       heading: "What does a software development team in Nehru Place charge, and how long does it take?",
       paragraphs: [
-        "With BtechWaleTech, Nehru Place projects start at ₹10,000 for a catalogue website (one to two weeks), ₹20,000 for a 700+ page SEO catalogue (three to five weeks), ₹40,000 for AI price-list or quote automation (two to four weeks), ₹40,000 for an Android and iOS app (six to ten weeks), ₹50,000 for a B2B store or dealer portal (four to eight weeks) and ₹60,000 for quotation, inventory or AMC software (six to twelve weeks).",
+        "With BtechWaleTech, Nehru Place projects start at ₹10,000 for a catalogue website (one to two weeks), ₹20,000 for a 299+ page SEO catalogue (three to five weeks), ₹40,000 for AI price-list or quote automation (two to four weeks), ₹40,000 for an Android and iOS app (six to ten weeks), ₹50,000 for a B2B store or dealer portal (four to eight weeks) and ₹60,000 for quotation, inventory or AMC software (six to twelve weeks).",
         "Cost depends on SKU volume, user roles, integrations with Tally or distributor feeds, and data migration. Quotes are itemised so you can start with the module that saves the most time. Payment is in INR only, via UPI using our QR code or by direct bank transfer to our bank account, split into milestones.",
         "Avoid switching systems during your busiest weeks, such as financial year end when institutional buying peaks, or the festive season when retail demand surges. Tell us your deadline and we will plan backwards honestly.",
       ],

@@ -39,7 +39,7 @@ const gangarampur: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Bengali-first local SEO", "Tant saree online stores", "Every account in your name"],
   },
   quickAnswer:
-    "Gangarampur businesses can get a website from us starting at ₹10,000, usually finished in one to two weeks. Android and iOS apps and AI automation begin at ₹40,000, a 700+ page SEO site at ₹20,000, an online saree store at ₹50,000 and custom software at ₹60,000. We work remotely with no Gangarampur office, and you keep ownership of everything.",
+    "Gangarampur businesses can get a website from us starting at ₹10,000, usually finished in one to two weeks. Android and iOS apps and AI automation begin at ₹40,000, a 299+ page SEO site at ₹20,000, an online saree store at ₹50,000 and custom software at ₹60,000. We work remotely with no Gangarampur office, and you keep ownership of everything.",
   snapshot: [
     { label: "Location", value: "Municipal town in Dakshin Dinajpur district on the bank of the Punarbhaba river" },
     { label: "Handloom", value: "Cotton tant sarees, Mala sarees, churidar sets, panjabis and shirting woven since the 1970s" },
@@ -220,7 +220,7 @@ const gangarampur: CityContent = {
     {
       question: "What is the website cost in Gangarampur?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. They are starting prices only. Bengali content, number of sarees or products and integrations set the final amount, which you get in writing, item by item, before paying.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. They are starting prices only. Bengali content, number of sarees or products and integrations set the final amount, which you get in writing, item by item, before paying.",
     },
     {
       question: "Do you build Android and iOS apps for Gangarampur businesses?",
@@ -230,7 +230,7 @@ const gangarampur: CityContent = {
     {
       question: "How soon can my Gangarampur shop have a website?",
       answer:
-        "Once we have your photographs and details, a basic website usually goes live in one to two weeks. A 700+ page SEO site needs three to five weeks, an online store four to eight, and custom software six to twelve. Sending material early is the surest way to finish sooner.",
+        "Once we have your photographs and details, a basic website usually goes live in one to two weeks. A 299+ page SEO site needs three to five weeks, an online store four to eight, and custom software six to twelve. Sending material early is the surest way to finish sooner.",
     },
     {
       question: "Who is the best website development team in Gangarampur?",
@@ -260,7 +260,7 @@ const gangarampur: CityContent = {
     {
       question: "Gangarampur-e website banate koto khoroch hoy?",
       answer:
-        "Amader kache sadharon website ₹10,000 theke shuru, ar sadharonoto ek-dui soptaher moddhe toiri hoye jay. 700+ page-er SEO website ₹20,000 theke, Android o iOS app ₹40,000 theke ebong online store ₹50,000 theke shuru. Apnar page ar feature onujayi puro quote likhito bhabe pathano hoy.",
+        "Amader kache sadharon website ₹10,000 theke shuru, ar sadharonoto ek-dui soptaher moddhe toiri hoye jay. 299+ page-er SEO website ₹20,000 theke, Android o iOS app ₹40,000 theke ebong online store ₹50,000 theke shuru. Apnar page ar feature onujayi puro quote likhito bhabe pathano hoy.",
     },
     {
       question: "You have no office in Gangarampur. Can I trust remote work?",

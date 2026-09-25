@@ -163,7 +163,7 @@ const content: CityContent = {
       paragraphs: [
         "SEO for Ajmer businesses combines Google Maps visibility, well-structured service pages and consistent business details, so the business appears for local searches and gets named correctly when someone asks ChatGPT, Gemini or Google's AI Overviews for recommendations in Ajmer, Pushkar or Kishangarh.",
         "Search behaviour splits three ways here: pilgrims and tourists searching from other states, exam aspirants searching for coaching and study material, and B2B buyers searching for marble or manufactured goods. Each needs different pages. We plan them from keyword research, write clear answers, add schema for local business, courses, lodging and products, and connect everything with internal links.",
-        "Our SEO website plan from ₹20,000 covers 700+ pages for businesses that serve many searches, and monthly SEO from ₹10,000 continues with fixes, content and reporting. Results usually take months, and we never guarantee a ranking. See our <a href='/services/seo-services/'>SEO services</a>.",
+        "Our SEO website plan from ₹20,000 covers 299+ pages for businesses that serve many searches, and monthly SEO from ₹10,000 continues with fixes, content and reporting. Results usually take months, and we never guarantee a ranking. See our <a href='/services/seo-services/'>SEO services</a>.",
       ],
     },
     {

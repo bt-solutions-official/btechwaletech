@@ -39,7 +39,7 @@ const tilhar: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first local SEO", "Mandi and dealer software", "Domain and code in your name"],
   },
   quickAnswer:
-    "A Tilhar shop, school or trader can get a website from us for ₹10,000 onwards, normally delivered inside two weeks. Apps for Android and iOS begin at ₹40,000, as does WhatsApp and AI automation; a 700+ page SEO site begins at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are remote, with no Tilhar office.",
+    "A Tilhar shop, school or trader can get a website from us for ₹10,000 onwards, normally delivered inside two weeks. Apps for Android and iOS begin at ₹40,000, as does WhatsApp and AI automation; a 299+ page SEO site begins at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are remote, with no Tilhar office.",
   snapshot: [
     { label: "Status", value: "Town, Nagar Palika Parishad and one of the four tehsils of Shahjahanpur district" },
     { label: "Population", value: "About 52,900 in the town at the 2001 census" },
@@ -160,7 +160,7 @@ const tilhar: CityContent = {
       id: "website-cost-tilhar",
       heading: "Website cost in Tilhar: starting prices and how to compare quotes",
       paragraphs: [
-        "Here is the published list as it applies to Tilhar. Static sites up to 100 pages: ₹10,000 onwards, one to two weeks. SEO sites with 700+ pages: ₹20,000 onwards, three to five weeks. Android and iOS apps: ₹40,000 onwards. AI automation: ₹40,000 onwards. Online stores: ₹50,000 onwards. Custom software: ₹60,000 onwards. Ongoing SEO: ₹10,000 a month onwards.",
+        "Here is the published list as it applies to Tilhar. Static sites up to 100 pages: ₹10,000 onwards, one to two weeks. SEO sites with 299+ pages: ₹20,000 onwards, three to five weeks. Android and iOS apps: ₹40,000 onwards. AI automation: ₹40,000 onwards. Online stores: ₹50,000 onwards. Custom software: ₹60,000 onwards. Ongoing SEO: ₹10,000 a month onwards.",
         "Scope moves the number: Hindi and English versions, big catalogues, payments, courier links, staff logins and Tally connections all add work. If you supply text and photographs the quote stays close to the starting price; writing and photography by us appear as separate lines.",
         "Quotes around Shahjahanpur differ a lot, so line them up carefully. Find out who will legally own the domain and hosting, whether testing on phones and on-page SEO come included, how many revision rounds are allowed, and who picks up the phone after launch. The starting figures are on our <a href=\"/pricing/\">pricing page</a>, and a line-by-line quote typically follows within two working days.",
       ],
@@ -212,7 +212,7 @@ const tilhar: CityContent = {
     {
       question: "What is the website cost in Tilhar?",
       answer:
-        "Expect ₹10,000 onwards for a basic site, ₹20,000 onwards for a 700+ page SEO site, ₹50,000 onwards for an online shop and ₹60,000 onwards for custom software. The written, itemised quote reflects your page count, Hindi copy, product list and integrations, and nothing is charged before you accept it.",
+        "Expect ₹10,000 onwards for a basic site, ₹20,000 onwards for a 299+ page SEO site, ₹50,000 onwards for an online shop and ₹60,000 onwards for custom software. The written, itemised quote reflects your page count, Hindi copy, product list and integrations, and nothing is charged before you accept it.",
     },
     {
       question: "Do you build Android and iOS apps for Tilhar businesses?",
@@ -222,7 +222,7 @@ const tilhar: CityContent = {
     {
       question: "How long does a website take in Tilhar?",
       answer:
-        "Once your text and photos reach us, a basic site generally goes online within a fortnight. Plan three to five weeks for a 700+ page SEO build, four to eight for a store and six to twelve for custom software. Late content is the usual cause of delay.",
+        "Once your text and photos reach us, a basic site generally goes online within a fortnight. Plan three to five weeks for a 299+ page SEO build, four to eight for a store and six to twelve for custom software. Late content is the usual cause of delay.",
     },
     {
       question: "Which is the best website development team in Tilhar?",
@@ -247,7 +247,7 @@ const tilhar: CityContent = {
     {
       question: "Tilhar mein website banwane mein kitna kharcha aata hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein taiyaar ho jaati hai. 700+ page ki SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapke pages aur features dekhkar likhit quote bheja jaata hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein taiyaar ho jaati hai. 299+ page ki SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapke pages aur features dekhkar likhit quote bheja jaata hai.",
     },
     {
       question: "You have no office in Tilhar. How do I trust remote work?",

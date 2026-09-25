@@ -40,7 +40,7 @@ const fatehabad: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi and English local SEO", "Arhtiya and dealer software", "Code and domain in your name"],
   },
   quickAnswer:
-    "IT services in Fatehabad from our remote team start at ₹10,000 for a website of up to 100 pages, ₹20,000 for a 700+ page SEO site and ₹40,000 for an Android and iOS app or AI automation. Online stores start at ₹50,000 and custom software such as arhtiya ledgers at ₹60,000. You own every account.",
+    "IT services in Fatehabad from our remote team start at ₹10,000 for a website of up to 100 pages, ₹20,000 for a 299+ page SEO site and ₹40,000 for an Android and iOS app or AI automation. Online stores start at ₹50,000 and custom software such as arhtiya ledgers at ₹60,000. You own every account.",
   snapshot: [
     { label: "Status", value: "Headquarters of Fatehabad district, carved out of Hisar district on 15 July 1997" },
     { label: "Town population", value: "About 70,800 in the 2011 Census, run by a Municipal Council" },
@@ -178,7 +178,7 @@ const fatehabad: CityContent = {
       heading: "Website cost in Fatehabad and how to read a quote",
       paragraphs: [
         "The <strong>website cost in Fatehabad</strong> varies widely because quotes cover very different things. One developer includes hosting for a year, another rents you a template you never own, and a third quotes only the design and charges again for every change. Before comparing numbers, check what the quote actually includes.",
-        "Our <a href=\"/pricing/\">starting prices</a> are public: a static website of up to 100 pages from ₹10,000, a 700+ page SEO website from ₹20,000, Android and iOS apps from ₹40,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. Monthly SEO starts at ₹10,000, and maintenance starts at ₹8,000 a month after five free months.",
+        "Our <a href=\"/pricing/\">starting prices</a> are public: a static website of up to 100 pages from ₹10,000, a 299+ page SEO website from ₹20,000, Android and iOS apps from ₹40,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. Monthly SEO starts at ₹10,000, and maintenance starts at ₹8,000 a month after five free months.",
         "When comparing local quotes, look for domain and hosting in your name, number of pages and revisions, who writes the Hindi text, mobile speed, whether the admin panel is included and what yearly renewals cost. Our itemised quote lists each of these, and nothing is billed before you approve it in writing.",
       ],
     },
@@ -220,7 +220,7 @@ const fatehabad: CityContent = {
     {
       question: "What is the website cost in Fatehabad?",
       answer:
-        "A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Local quotes vary widely, so compare what each includes: ownership, pages, Hindi text, hosting and renewals.",
+        "A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Local quotes vary widely, so compare what each includes: ownership, pages, Hindi text, hosting and renewals.",
     },
     {
       question: "Fatehabad me website banwane me kitna kharcha aata hai?",

@@ -35,7 +35,7 @@ const ongole: CityContent = {
     pills: ["Websites from ₹10,000", "Telugu and English", "Granite export catalogues", "Hospital booking forms", "Direct WhatsApp support"],
   },
   quickAnswer:
-    "In Ongole, a business website with our team starts from ₹10,000 and goes live in one to two weeks. A 700+ page SEO website starts from ₹20,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote three-engineer team without an Ongole office, and maintenance is free for five months.",
+    "In Ongole, a business website with our team starts from ₹10,000 and goes live in one to two weeks. A 299+ page SEO website starts from ₹20,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote three-engineer team without an Ongole office, and maintenance is free for five months.",
   snapshot: [
     { label: "Status", value: "Headquarters of Prakasam district; upgraded to a municipal corporation in January 2012" },
     { label: "Famous for", value: "Ongole cattle, an indigenous breed whose bloodline helped create the American Brahman" },
@@ -73,12 +73,12 @@ const ongole: CityContent = {
       heading: "Website pricing in Ongole, with starting figures in writing",
       paragraphs: [
         "In Ongole, quotes for a website run from a few thousand rupees for a template page to large sums from agencies in Vijayawada, Guntur or Hyderabad. The cheapest sites usually skip search setup and leave the domain in someone else's account. The costliest may be well made but carry overheads that a clinic, trader or school does not need to pay for.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts from ₹10,000 and is ready in one to two weeks. A 700+ page SEO website, planned around what buyers and local customers actually search, starts from ₹20,000 and takes three to five weeks. AI automation starts from ₹40,000, online stores from ₹50,000, custom web apps from ₹60,000 and monthly SEO from ₹10,000.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts from ₹10,000 and is ready in one to two weeks. A 299+ page SEO website, planned around what buyers and local customers actually search, starts from ₹20,000 and takes three to five weeks. AI automation starts from ₹40,000, online stores from ₹50,000, custom web apps from ₹60,000 and monthly SEO from ₹10,000.",
         "Your final figure depends on pages, languages, features and the content you already have. We send an itemised quote in about two working days, and there is no charge until you approve it in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages with mobile layout, enquiry form, map and basic SEO for clinics, shops and tutors.",
-        "<strong>From ₹20,000:</strong> 700+ pages for stone varieties, departments, courses or service areas.",
+        "<strong>From ₹20,000:</strong> 299+ pages for stone varieties, departments, courses or service areas.",
         "<strong>From ₹50,000:</strong> online store with UPI, cards and delivery rules for retail and food brands.",
         "<strong>From ₹60,000:</strong> custom inventory, dispatch and ledger systems with logins and reports.",
       ],
@@ -218,7 +218,7 @@ const ongole: CityContent = {
     {
       question: "How much does a website cost in Ongole?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO website from ₹20,000, AI automation from ₹40,000, an online store from ₹50,000 and a custom web app from ₹60,000. The final amount depends on pages, languages and features, and you get an itemised written quote before anything is billed.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO website from ₹20,000, AI automation from ₹40,000, an online store from ₹50,000 and a custom web app from ₹60,000. The final amount depends on pages, languages and features, and you get an itemised written quote before anything is billed.",
     },
     {
       question: "Ongole lo website cheyinchukovadaniki entha avutundi?",

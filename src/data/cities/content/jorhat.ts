@@ -39,7 +39,7 @@ const jorhat: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Assamese and English pages", "Tea and Majuli tourism", "Accounts in your name"],
   },
   quickAnswer:
-    "For a Jorhat business, our websites start at ₹10,000 and a 700+ page SEO site at ₹20,000. Android and iOS apps and AI or WhatsApp automation start at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote three-person team with no Jorhat office, and the domain, code and store accounts stay yours.",
+    "For a Jorhat business, our websites start at ₹10,000 and a 299+ page SEO site at ₹20,000. Android and iOS apps and AI or WhatsApp automation start at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote three-person team with no Jorhat office, and the domain, code and store accounts stay yours.",
   snapshot: [
     { label: "Location", value: "Headquarters of Jorhat district in Upper Assam, on the Bhogdoi river, roughly 300 km east of Dispur" },
     { label: "Population", value: "About 71,000 in the municipal area at the 2011 census, with a much larger daily catchment" },
@@ -211,7 +211,7 @@ const jorhat: CityContent = {
     {
       question: "What is the website cost in Jorhat?",
       answer:
-        "With us, static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Your quote depends on pages, Assamese content, products and integrations, and you get it itemised in writing before any billing starts.",
+        "With us, static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Your quote depends on pages, Assamese content, products and integrations, and you get it itemised in writing before any billing starts.",
     },
     {
       question: "Do you build Android and iOS apps for Jorhat businesses?",
@@ -221,7 +221,7 @@ const jorhat: CityContent = {
     {
       question: "How long does a website take for a Jorhat shop or institute?",
       answer:
-        "A static website usually goes live one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having content ready is what speeds things up most.",
+        "A static website usually goes live one to two weeks after we receive your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having content ready is what speeds things up most.",
     },
     {
       question: "Which is the best IT services team in Jorhat for a small business?",
@@ -251,7 +251,7 @@ const jorhat: CityContent = {
     {
       question: "Jorhat me website ya app banwane ka kitna kharcha hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein live ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hota hai. Poora quote aapke features ke hisaab se likhit mein milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein live ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hota hai. Poora quote aapke features ke hisaab se likhit mein milta hai.",
     },
     {
       question: "You have no office in Jorhat. How do I know the work is safe?",

@@ -39,7 +39,7 @@ const seoni: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Pench resort booking sites", "Hindi-first local SEO", "Everything in your name"],
   },
   quickAnswer:
-    "For Seoni businesses, a website with us starts at ₹10,000 and is usually live in one to two weeks. A 700+ page SEO site starts at ₹20,000, Android and iOS apps and AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Seoni office.",
+    "For Seoni businesses, a website with us starts at ₹10,000 and is usually live in one to two weeks. A 299+ page SEO site starts at ₹20,000, Android and iOS apps and AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Seoni office.",
   snapshot: [
     { label: "Location", value: "District headquarters in south-eastern Madhya Pradesh, roughly midway between Nagpur and Jabalpur" },
     { label: "Highways", value: "NH44 north–south corridor and NH347, with an elevated wildlife-friendly stretch through the Pench landscape" },
@@ -151,7 +151,7 @@ const seoni: CityContent = {
       id: "website-cost-seoni",
       heading: "Website cost in Seoni: starting prices and how to compare",
       paragraphs: [
-        "Our starting prices apply to Seoni projects: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 700+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000 in two to four weeks, an online store from ₹50,000 in four to eight weeks and custom software from ₹60,000 over six to twelve weeks. Monthly SEO starts at ₹10,000 a month.",
+        "Our starting prices apply to Seoni projects: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 299+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000 in two to four weeks, an online store from ₹50,000 in four to eight weeks and custom software from ₹60,000 over six to twelve weeks. Monthly SEO starts at ₹10,000 a month.",
         "Scope moves the price: more pages, Hindi and English versions, booking calendars, payment collection, large catalogues, logins or links to Tally. If you provide the text and photographs, the quote stays close to the starting figure; content writing and photo editing, when needed, appear as their own lines.",
         "Quotes from local designers vary widely. When comparing, ask whose name the domain and hosting are registered in, how long hosting is included, whether mobile testing and basic SEO are included, how many changes you get and who fixes problems after launch. Our <a href=\"/pricing/\">pricing page</a> sets out the starting points, and your written quote arrives in about two working days.",
       ],
@@ -212,7 +212,7 @@ const seoni: CityContent = {
     {
       question: "What is the website cost in Seoni?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Hindi content, booking or payment features and integrations, and it comes itemised in writing before anything is billed.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Hindi content, booking or payment features and integrations, and it comes itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Seoni businesses?",
@@ -232,7 +232,7 @@ const seoni: CityContent = {
     {
       question: "How long does it take to build a website in Seoni?",
       answer:
-        "A static website usually takes one to two weeks once we have your text and photographs. A 700+ page SEO website takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Resorts should start well before the park season opens.",
+        "A static website usually takes one to two weeks once we have your text and photographs. A 299+ page SEO website takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Resorts should start well before the park season opens.",
     },
     {
       question: "Can you get my Seoni business on Google Maps?",
@@ -252,7 +252,7 @@ const seoni: CityContent = {
     {
       question: "Seoni me website banwane me kitna kharcha aata hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein live ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapke features ke hisaab se likhit quote lagbhag do working din mein milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein live ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapke features ke hisaab se likhit quote lagbhag do working din mein milta hai.",
     },
     {
       question: "You have no office in Seoni. How is that safe for me?",

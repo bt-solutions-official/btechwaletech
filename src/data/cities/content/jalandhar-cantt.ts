@@ -39,7 +39,7 @@ const jalandharCantt: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi, English and Punjabi pages", "Map pins that respect Cantt gates", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Jalandhar Cantt business, a website with us starts at ₹10,000 and a 700+ page SEO site at ₹20,000. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; online stores start at ₹50,000 and custom software at ₹60,000. We are a remote team with no Cantt office, and you own every account.",
+    "For a Jalandhar Cantt business, a website with us starts at ₹10,000 and a 299+ page SEO site at ₹20,000. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; online stores start at ₹50,000 and custom software at ₹60,000. We are a remote team with no Cantt office, and you own every account.",
   snapshot: [
     { label: "Status", value: "Cantonment under the Ministry of Defence, run by the Jalandhar Cantonment Board under the Cantonments Act, 2006" },
     { label: "Established", value: "Laid out in 1848 after the first Anglo-Sikh War, and counted among the oldest cantonments in India" },
@@ -172,7 +172,7 @@ const jalandharCantt: CityContent = {
       ],
       list: [
         "<strong>Business website, up to 100 pages, from ₹10,000:</strong> one to two weeks; right for a Sadar Bazaar shop, clinic, tutor or security agency.",
-        "<strong>SEO website, 700+ pages, from ₹20,000:</strong> three to five weeks; suits movers or academies wanting a page per route, course or service.",
+        "<strong>SEO website, 299+ pages, from ₹20,000:</strong> three to five weeks; suits movers or academies wanting a page per route, course or service.",
         "<strong>Android and iOS app, from ₹40,000:</strong> parent apps, token systems, consignment tracking.",
         "<strong>AI or WhatsApp automation, from ₹40,000:</strong> two to four weeks.",
         "<strong>Online store, from ₹50,000:</strong> four to eight weeks, with UPI and card checkout.",
@@ -227,7 +227,7 @@ const jalandharCantt: CityContent = {
     {
       question: "What is the website cost in Jalandhar Cantt?",
       answer:
-        "A business website with us starts at ₹10,000 for up to 100 pages. A 700+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Those are starting prices; your quote depends on pages, languages, products and features, and it arrives itemised in writing before anything is billed.",
+        "A business website with us starts at ₹10,000 for up to 100 pages. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Those are starting prices; your quote depends on pages, languages, products and features, and it arrives itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Jalandhar Cantt businesses?",
@@ -237,7 +237,7 @@ const jalandharCantt: CityContent = {
     {
       question: "Jalandhar Cantt me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath dukaan ya clinic ki simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein live ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hai. Poora quote likhit mein milta hai, aur approve karne se pehle koi paisa nahi liya jaata.",
+        "Hamare saath dukaan ya clinic ki simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein live ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hai. Poora quote likhit mein milta hai, aur approve karne se pehle koi paisa nahi liya jaata.",
     },
     {
       question: "How quickly can a Sadar Bazaar shop get online?",

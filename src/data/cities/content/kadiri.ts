@@ -39,7 +39,7 @@ const kadiri: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu-first local SEO", "Groundnut and agri trade sites", "You own every account"],
   },
   quickAnswer:
-    "A Kadiri business website with us starts at ₹10,000 and is usually ready in one to two weeks. A 700+ page SEO site starts at ₹20,000, Android and iOS apps and AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no office in Kadiri.",
+    "A Kadiri business website with us starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, Android and iOS apps and AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no office in Kadiri.",
   snapshot: [
     { label: "Location", value: "Revenue division headquarters in Sri Sathya Sai district (earlier Anantapur district), Andhra Pradesh" },
     { label: "Temple", value: "Sri Khadri Lakshmi Narasimha Swamy temple, with a large annual Brahmotsavam and chariot festival" },
@@ -152,7 +152,7 @@ const kadiri: CityContent = {
       id: "website-cost-kadiri",
       heading: "Website cost in Kadiri: starting prices and comparing quotes",
       paragraphs: [
-        "Our Kadiri starting prices: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 700+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000 in two to four weeks, an online store from ₹50,000 in four to eight weeks and custom software from ₹60,000 over six to twelve weeks. Monthly SEO starts at ₹10,000 a month.",
+        "Our Kadiri starting prices: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 299+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000 in two to four weeks, an online store from ₹50,000 in four to eight weeks and custom software from ₹60,000 over six to twelve weeks. Monthly SEO starts at ₹10,000 a month.",
         "The quote grows with scope: more pages, Telugu and English versions, large product lists, booking and payment features, logins and links to accounting. When you supply the text and photographs, the price stays near the starting figure; content writing and photography appear as separate lines if needed.",
         "Local quotes vary widely. When comparing, ask whose name the domain is in, how long hosting is included, whether the site is tested on phones, how many changes are included and who fixes issues after launch. Starting points are on our <a href=\"/pricing/\">pricing page</a>, and your written quote arrives in about two working days.",
       ],
@@ -213,7 +213,7 @@ const kadiri: CityContent = {
     {
       question: "What is the website cost in Kadiri?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Your final quote depends on pages, Telugu content, features and integrations, and it comes itemised in writing before anything is billed.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Your final quote depends on pages, Telugu content, features and integrations, and it comes itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Kadiri businesses?",
@@ -233,7 +233,7 @@ const kadiri: CityContent = {
     {
       question: "How long does a website take for a Kadiri business?",
       answer:
-        "A static website usually goes live in one to two weeks after we get your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Lodges should start well before the Brahmotsavam.",
+        "A static website usually goes live in one to two weeks after we get your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Lodges should start well before the Brahmotsavam.",
     },
     {
       question: "Can you put my Kadiri business on Google Maps?",

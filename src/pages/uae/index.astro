@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "@layouts/BaseLayout.astro";
+import { countryPageLinks } from "@data/keywords/page-links";
 import { createPageSeo } from "@lib/seo/seo-config";
 import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
 import { breadcrumbListSchema, faqSchema } from "@lib/schema/schema";
@@ -21,7 +22,7 @@ const faqs = [
   },
   {
     question: "How much does a website cost for a business in the UAE?",
-    answer: `Our starting prices for UAE clients are ${usd("Static")} for a static website of up to 100 pages, ${usd("SEO website")} for a 700+ page SEO website, ${usd("AI automation")} for AI automation, ${usd("Ecommerce")} for an ecommerce store and ${usd("Custom web app")} for a custom web app. Monthly SEO starts from ${usd("Monthly SEO")} and maintenance from ${usd("Maintenance")}. These are starting prices; the final quote depends on your requirements, including whether you need Arabic alongside English.`,
+    answer: `Our starting prices for UAE clients are ${usd("Static")} for a static website of up to 100 pages, ${usd("SEO website")} for a 299+ page SEO website, ${usd("AI automation")} for AI automation, ${usd("Ecommerce")} for an ecommerce store and ${usd("Custom web app")} for a custom web app. Monthly SEO starts from ${usd("Monthly SEO")} and maintenance from ${usd("Maintenance")}. These are starting prices; the final quote depends on your requirements, including whether you need Arabic alongside English.`,
   },
   {
     question: "Can you build a bilingual Arabic and English website with proper RTL?",
@@ -73,7 +74,7 @@ const faqs = [
   },
   {
     question: "How long does a UAE website project take?",
-    answer: "A static website typically takes one to two weeks, a 700+ page SEO website three to five weeks, AI automation two to four weeks, an ecommerce store four to eight weeks and a custom web app six to twelve weeks. A full Arabic version usually adds about a week for layout, testing and fixes once the translated copy arrives.",
+    answer: "A static website typically takes one to two weeks, a 299+ page SEO website three to five weeks, AI automation two to four weeks, an ecommerce store four to eight weeks and a custom web app six to twelve weeks. A full Arabic version usually adds about a week for layout, testing and fixes once the translated copy arrives.",
   },
   {
     question: "Who owns the website, code and accounts after launch?",
@@ -318,6 +319,7 @@ const related = [
   { name: "IT services in Canada", href: "/canada/" },
   { name: "IT services in Australia", href: "/australia/" },
 ];
+const servicePages = countryPageLinks("uae");
 ---
 
 <BaseLayout meta={page} schema={[webPageSchema, serviceSchema, breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs)]}>
@@ -1015,7 +1017,7 @@ const related = [
             Prices for websites in the UAE vary enormously, from very cheap template sites to large agency projects. The
             difference is rarely just profit margin; it reflects scope, quality, languages, integrations and who does the
             work. Our starting prices give you a reference point: {usd("Static")} for a static website, {usd("SEO website")}
-            for a 700+ page SEO website, {usd("AI automation")} for AI automation, {usd("Ecommerce")} for an ecommerce store
+            for a 299+ page SEO website, {usd("AI automation")} for AI automation, {usd("Ecommerce")} for an ecommerce store
             and {usd("Custom web app")} for a custom web app. Here is what moves a quote above the starting price.
           </p>
           <div class="comparison-table-wrap table-in-prose">
@@ -1141,6 +1143,21 @@ const related = [
       </div>
     </div>
   </section>
+
+  <!-- ===================== SERVICE PAGES ===================== -->
+  {servicePages.length > 0 && (
+    <section class="locations" aria-labelledby="service-pages-heading">
+      <div class="section-wrap">
+        <div class="section-head">
+          <p class="eyebrow">Services and guides</p>
+          <h2 id="service-pages-heading">Everything we build for UAE businesses</h2>
+        </div>
+        <div class="city-cloud">
+          {servicePages.map((p) => <a class="city-chip" href={p.href}>{p.name}</a>)}
+        </div>
+      </div>
+    </section>
+  )}
 
   <!-- ===================== RELATED ===================== -->
   <section class="locations" aria-labelledby="related-heading">

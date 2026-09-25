@@ -35,7 +35,7 @@ const davanagere: CityContent = {
     pills: ["Sites from ₹10,000", "Kannada and English pages", "College admission flows", "Mill and trader software", "You own everything"],
   },
   quickAnswer:
-    "In Davanagere, a business website with us starts at ₹10,000 and goes live in one to two weeks. A 700+ page SEO site costs from ₹20,000, WhatsApp automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. We work remotely in Kannada and English, and you own the domain, hosting and code.",
+    "In Davanagere, a business website with us starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO site costs from ₹20,000, WhatsApp automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. We work remotely in Kannada and English, and you own the domain, hosting and code.",
   snapshot: [
     { label: "Location", value: "Called the “Heart of Karnataka”, on the Bengaluru–Pune highway corridor; a separate district since 1997, carved out of Chitradurga" },
     { label: "Heritage", value: "Once known as the “Manchester of Karnataka” for its cotton mills and cotton trade" },
@@ -73,12 +73,12 @@ const davanagere: CityContent = {
       heading: "Website costs in Davanagere, stated up front",
       paragraphs: [
         "Website quotes in Davanagere vary widely, and they are rarely itemised. The cheapest often come with the domain registered to the developer and no plan for updates. Agencies in Bengaluru may quote city rates for work a local business does not need.",
-        "With us, a business website of up to 100 pages starts at <strong>₹10,000</strong> and takes one to two weeks. A 700+ page SEO site, suited to hospitals with department pages or colleges with course pages, starts at <strong>₹20,000</strong> and takes three to five weeks. AI and WhatsApp automation begins at ₹40,000, an online store at ₹50,000 and custom software such as a mill stock system or student portal at ₹60,000. Monthly SEO starts at ₹10,000. Details are on the <a href=\"/pricing/\">pricing page</a>.",
+        "With us, a business website of up to 100 pages starts at <strong>₹10,000</strong> and takes one to two weeks. A 299+ page SEO site, suited to hospitals with department pages or colleges with course pages, starts at <strong>₹20,000</strong> and takes three to five weeks. AI and WhatsApp automation begins at ₹40,000, an online store at ₹50,000 and custom software such as a mill stock system or student portal at ₹60,000. Monthly SEO starts at ₹10,000. Details are on the <a href=\"/pricing/\">pricing page</a>.",
         "The final figure depends on pages, products, languages and features like payments or logins. We send an itemised quote in about two working days and bill nothing until you approve it in writing.",
       ],
       list: [
         "<strong>Starter site, from ₹10,000:</strong> clinics, shops, tutors, hotels and consultants.",
-        "<strong>SEO site, from ₹20,000:</strong> 700+ pages for hospitals, colleges and traders.",
+        "<strong>SEO site, from ₹20,000:</strong> 299+ pages for hospitals, colleges and traders.",
         "<strong>Online store, from ₹50,000:</strong> mandakki, snacks, sarees and farm inputs with UPI.",
         "<strong>Custom software, from ₹60,000:</strong> mill stock, student portals and dealer systems.",
       ],
@@ -89,7 +89,7 @@ const davanagere: CityContent = {
       paragraphs: [
         "With teaching hospitals, private hospitals and specialist clinics, Davanagere is a medical centre for patients from Chitradurga, Haveri, Shivamogga and the district's own taluks. Families travelling for treatment search before they leave home: which hospital has the specialist they need, when the doctor sits, what the tests cost and where to park.",
         "We build hospital and clinic websites with doctor profiles listing qualifications and registration details, department pages, OPD schedules, insurance and scheme information, emergency contacts and an appointment request that reaches the front desk on WhatsApp. Diagnostic centres get test lists, preparation instructions and home collection areas. All medical content is factual and approved by you, with no promises of cures.",
-        "For hospitals with many departments, a 700+ page structure works well, with each speciality on its own page. That helps patients find the right doctor quickly and gives search engines a clear page to show for each treatment.",
+        "For hospitals with many departments, a 299+ page structure works well, with each speciality on its own page. That helps patients find the right doctor quickly and gives search engines a clear page to show for each treatment.",
       ],
     },
     {
@@ -218,12 +218,12 @@ const davanagere: CityContent = {
     {
       question: "How much does a website cost in Davanagere?",
       answer:
-        "Our business websites start at ₹10,000 and 700+ page SEO sites at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. When comparing local quotes, check who owns the domain and hosting, whether SEO basics are included and what support you get after the site goes live.",
+        "Our business websites start at ₹10,000 and 299+ page SEO sites at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. When comparing local quotes, check who owns the domain and hosting, whether SEO basics are included and what support you get after the site goes live.",
     },
     {
       question: "Davanagere alli website maadisalu eshtu kharchu aagutte?",
       answer:
-        "Saamanya business website ₹10,000 inda shuru aagutte, ondu eradu vaaradalli ready aagutte. 700+ page SEO website ₹20,000 inda shuru. Online store ₹50,000 inda shuru aagutte. Kelsa shuru maaduva modalu nimage barahadalli itemised quote kodtivi, nimma oppige illade yaava bill illa.",
+        "Saamanya business website ₹10,000 inda shuru aagutte, ondu eradu vaaradalli ready aagutte. 299+ page SEO website ₹20,000 inda shuru. Online store ₹50,000 inda shuru aagutte. Kelsa shuru maaduva modalu nimage barahadalli itemised quote kodtivi, nimma oppige illade yaava bill illa.",
     },
     {
       question: "Do you have an office in Davanagere?",

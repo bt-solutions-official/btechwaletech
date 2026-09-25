@@ -35,7 +35,7 @@ const etawah: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi-first pages", "Textile catalogues", "Clinic and school sites", "WhatsApp enquiry sheets"],
   },
   quickAnswer:
-    "In Etawah, a basic business website with us starts at ₹10,000 and is ready in one to two weeks. A 700+ page SEO site starts at ₹20,000, online stores at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are three remote engineers with no Etawah office, and the first five months of maintenance after launch are free.",
+    "In Etawah, a basic business website with us starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, online stores at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are three remote engineers with no Etawah office, and the first five months of maintenance after launch are free.",
   snapshot: [
     { label: "Location", value: "On the Yamuna in western Uttar Pradesh, near the confluence of the Yamuna and Chambal, roughly midway between Agra and Kanpur" },
     { label: "ODOP focus", value: "Textile products, embroidery and tailoring are Etawah's One District One Product categories" },
@@ -73,7 +73,7 @@ const etawah: CityContent = {
       heading: "What you will pay for a website in Etawah",
       paragraphs: [
         "Local quotes range from a couple of thousand rupees for a single template page to agency prices from Kanpur, Agra or Lucknow that run several times higher. The cheapest offers often skip search setup and keep the domain under the developer's control. The costliest carry office overheads an Etawah business does not need to pay for. Our rates are on the <a href=\"/pricing/\">pricing page</a> for a fair comparison.",
-        "A static website with up to 100 pages, a mobile layout, contact form, map and basic SEO starts at ₹10,000 and takes one to two weeks. A 700+ page site with separate pages for every service, department, course or product starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, custom web applications at ₹60,000, and monthly SEO at ₹10,000.",
+        "A static website with up to 100 pages, a mobile layout, contact form, map and basic SEO starts at ₹10,000 and takes one to two weeks. A 299+ page site with separate pages for every service, department, course or product starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, custom web applications at ₹60,000, and monthly SEO at ₹10,000.",
         "Scope decides the rest. A textile trader with two hundred designs needs more pages and photographs than a single-doctor clinic. We send an itemised quote in about two working days, and nothing is charged until you approve it in writing.",
       ],
       list: [
@@ -212,12 +212,12 @@ const etawah: CityContent = {
     {
       question: "How much does a website cost in Etawah?",
       answer:
-        "With us a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. When comparing other Etawah quotes, check whether the domain and hosting will be in your name and whether search setup and after-launch support are included.",
+        "With us a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. When comparing other Etawah quotes, check whether the domain and hosting will be in your name and whether search setup and after-launch support are included.",
     },
     {
       question: "Etawah me website banwane me kitna paisa lagta hai?",
       answer:
-        "Humare saath simple website ₹10,000 se shuru hoti hai aur ek se do hafte me ban jaati hai. 700+ page wali SEO website ₹20,000 se aur online dukaan ₹50,000 se. Kaam shuru karne se pehle aapko likhit quote milta hai jisme har cheez alag likhi hoti hai, aur aapki manzoori ke baad hi paisa liya jaata hai.",
+        "Humare saath simple website ₹10,000 se shuru hoti hai aur ek se do hafte me ban jaati hai. 299+ page wali SEO website ₹20,000 se aur online dukaan ₹50,000 se. Kaam shuru karne se pehle aapko likhit quote milta hai jisme har cheez alag likhi hoti hai, aur aapki manzoori ke baad hi paisa liya jaata hai.",
     },
     {
       question: "Do you have an office in Etawah?",

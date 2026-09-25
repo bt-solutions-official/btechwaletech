@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "@layouts/BaseLayout.astro";
+import { countryPageLinks } from "@data/keywords/page-links";
 import { createPageSeo } from "@lib/seo/seo-config";
 import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
 import { breadcrumbListSchema, faqSchema } from "@lib/schema/schema";
@@ -21,7 +22,7 @@ const faqs = [
   },
   {
     question: "How much does a website cost for a Singapore business?",
-    answer: `Our starting prices are ${usd("Static")} for a static business website, ${usd("SEO website")} for a 700+ page SEO website, ${usd("AI automation")} for AI automation, ${usd("Ecommerce")} for an ecommerce store and ${usd("Custom web app")} for a custom web app. Monthly SEO starts from ${usd("Monthly SEO")} and maintenance from ${usd("Maintenance")}. These are starting prices; the final quote depends on your requirements.`,
+    answer: `Our starting prices are ${usd("Static")} for a static business website, ${usd("SEO website")} for a 299+ page SEO website, ${usd("AI automation")} for AI automation, ${usd("Ecommerce")} for an ecommerce store and ${usd("Custom web app")} for a custom web app. Monthly SEO starts from ${usd("Monthly SEO")} and maintenance from ${usd("Maintenance")}. These are starting prices; the final quote depends on your requirements.`,
   },
   {
     question: "Can you invoice in Singapore dollars?",
@@ -65,7 +66,7 @@ const faqs = [
   },
   {
     question: "How long does a project take?",
-    answer: "A static website usually takes one to two weeks, a 700+ page SEO website three to five weeks, AI automation two to four weeks, an ecommerce store four to eight weeks and a custom web app six to twelve weeks. Timelines assume content and approvals arrive on time.",
+    answer: "A static website usually takes one to two weeks, a 299+ page SEO website three to five weeks, AI automation two to four weeks, an ecommerce store four to eight weeks and a custom web app six to twelve weeks. Timelines assume content and approvals arrive on time.",
   },
   {
     question: "Do you do SEO for google.com.sg?",
@@ -353,7 +354,7 @@ const guide: Article[] = [
     ],
     list: [
       `<strong>From ${usd("Static")}, static website:</strong> a service firm, clinic, contractor, consultancy or small manufacturer with home, service, about, contact and project pages, up to 100 pages, using content you supply. Enquiry forms, a WhatsApp button, basic SEO tags and a sitemap are included.`,
-      `<strong>From ${usd("SEO website")}, SEO website of 700+ pages:</strong> a structured site planned around search intent, for example a home services company with many service types, or a distributor with a large catalogue of product categories, built with keyword planning, schema and internal linking.`,
+      `<strong>From ${usd("SEO website")}, SEO website of 299+ pages:</strong> a structured site planned around search intent, for example a home services company with many service types, or a distributor with a large catalogue of product categories, built with keyword planning, schema and internal linking.`,
       `<strong>From ${usd("AI automation")}, AI automation:</strong> one well-defined workflow, such as enquiries from your website and social ads flowing into a CRM, assigned to the right salesperson and followed up automatically on WhatsApp.`,
       `<strong>From ${usd("Ecommerce")}, ecommerce store:</strong> product and category pages, cart, checkout with cards and PayNow, order and inventory basics and performance tuning, for a catalogue you can supply in a structured sheet.`,
       `<strong>From ${usd("Custom web app")}, custom web app:</strong> a focused first version of a portal, booking system, dashboard or internal tool, with user accounts, roles, an admin panel and deployment.`,
@@ -513,6 +514,7 @@ const webPageSchema = {
   about: { "@id": `${url}#service` },
   speakable: { "@type": "SpeakableSpecification", cssSelector: ["#quick-answer", "h1"] },
 };
+const servicePages = countryPageLinks("singapore");
 ---
 
 <BaseLayout meta={page} schema={[webPageSchema, professionalServiceSchema, breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs)]}>
@@ -807,6 +809,21 @@ const webPageSchema = {
       </div>
     </div>
   </section>
+
+  <!-- ===================== SERVICE PAGES ===================== -->
+  {servicePages.length > 0 && (
+    <section class="locations" aria-labelledby="service-pages-heading">
+      <div class="section-wrap">
+        <div class="section-head">
+          <p class="eyebrow">Services and guides</p>
+          <h2 id="service-pages-heading">Everything we build for Singapore businesses</h2>
+        </div>
+        <div class="city-cloud">
+          {servicePages.map((p) => <a class="city-chip" href={p.href}>{p.name}</a>)}
+        </div>
+      </div>
+    </section>
+  )}
 
   <!-- ===================== RELATED ===================== -->
   <section class="locations" aria-labelledby="related-heading">

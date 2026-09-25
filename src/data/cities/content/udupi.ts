@@ -34,7 +34,7 @@ const udupi: CityContent = {
     pills: ["Sites from ₹10,000", "Tulu, Kannada, Konkani, English", "Restaurant and homestay pages", "Export catalogues", "5 months free upkeep"],
   },
   quickAnswer:
-    "An Udupi or Manipal business website starts at ₹10,000 with us and typically takes one to two weeks. A 700+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team with no office in Udupi, and maintenance is free for five months after launch.",
+    "An Udupi or Manipal business website starts at ₹10,000 with us and typically takes one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team with no office in Udupi, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "City", value: "District headquarters on the Karnataka coast; about 2.16 lakh people in the city in 2011" },
     { label: "Education", value: "Manipal, next door, hosts the Manipal Academy of Higher Education, including KMC and MIT" },
@@ -72,12 +72,12 @@ const udupi: CityContent = {
       heading: "What websites cost in Udupi and Manipal",
       paragraphs: [
         "Quotes in Udupi vary widely. Some freelancers near Manipal offer quick templates; Mangaluru and Bengaluru agencies quote retainers that suit larger firms. The hard part is comparing them, because few quotes say exactly what is included, who owns the domain, or what a change will cost later.",
-        "We list everything. Our prices are starting prices. A static website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. WhatsApp or AI automation starts at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000. The full table sits on our <a href=\"/pricing/\">pricing page</a>.",
+        "We list everything. Our prices are starting prices. A static website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. WhatsApp or AI automation starts at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000. The full table sits on our <a href=\"/pricing/\">pricing page</a>.",
         "What you actually pay depends on scope. A hospital department with doctor profiles and bookings, or a cashew exporter with grade-wise specifications and buyer logins, needs more work than a tailoring shop. If the first quote feels high, we show which items can wait for a second phase.",
       ],
       list: [
         "<strong>Business site from ₹10,000:</strong> up to 100 pages, WhatsApp button, enquiry form, search basics.",
-        "<strong>SEO site from ₹20,000:</strong> 700+ pages, schema, sitemap, Search Console.",
+        "<strong>SEO site from ₹20,000:</strong> 299+ pages, schema, sitemap, Search Console.",
         "<strong>Store from ₹50,000:</strong> catalogue, UPI and card checkout, shipping zones, order alerts.",
         "<strong>Custom software from ₹60,000:</strong> order books, batch tracking, buyer portals.",
       ],
@@ -226,7 +226,7 @@ const udupi: CityContent = {
     {
       question: "How much does a website cost in Udupi?",
       answer:
-        "With us, a static website starts at ₹10,000 and a 700+ page SEO website starts at ₹20,000. WhatsApp or AI automation starts at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. The final amount depends on the pages and features you need, and you see an itemised quote before billing.",
+        "With us, a static website starts at ₹10,000 and a 299+ page SEO website starts at ₹20,000. WhatsApp or AI automation starts at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. The final amount depends on the pages and features you need, and you see an itemised quote before billing.",
     },
     {
       question: "Udupiyalli ondu website maadisalu eshtu kharchu aagutte?",
@@ -261,7 +261,7 @@ const udupi: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, automation two to four weeks, an online store four to eight weeks and custom software six to twelve weeks. Waiting for photographs and text causes most delays, so we draft content for you to correct.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, automation two to four weeks, an online store four to eight weeks and custom software six to twelve weeks. Waiting for photographs and text causes most delays, so we draft content for you to correct.",
     },
     {
       question: "Do you work with businesses in Kundapura, Karkala, Kaup and Mangaluru?",

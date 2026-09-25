@@ -35,7 +35,7 @@ const bahadurgarh: CityContent = {
     pills: ["Static sites from ₹10,000", "Article-wise shoe catalogues", "Hindi and English content", "Dealer orders on WhatsApp", "Free upkeep for 5 months"],
   },
   quickAnswer:
-    "For a Bahadurgarh business, our static websites start at ₹10,000 and go live in one to two weeks. SEO sites with 700+ pages start at ₹20,000, AI and WhatsApp automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely with no Bahadurgarh office, and the first five months of maintenance are free.",
+    "For a Bahadurgarh business, our static websites start at ₹10,000 and go live in one to two weeks. SEO sites with 299+ pages start at ₹20,000, AI and WhatsApp automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely with no Bahadurgarh office, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Location", value: "Jhajjar district, Haryana, about 21 km from the Delhi border on the road to Rohtak" },
     { label: "Metro link", value: "Delhi Metro Green Line since 2018, with Bahadurgarh City and Brigadier Hoshiyar Singh stations" },
@@ -86,7 +86,7 @@ const bahadurgarh: CityContent = {
         "Modern Industrial Estate Parts I and II and the HSIIDC Sectors 16 and 17 house a wide mix of units: plastics and moulding, packaging, ceramics and building materials, food processing, engineering and fabrication, and suppliers who serve larger plants in the region. Well-known brands have set up here, and so have hundreds of smaller firms that supply them.",
         "For a small or mid-sized unit, the website is often checked by a purchase manager before a vendor registration or a first trial order. That person wants to know what machines you run, what capacities and tolerances you can hold, which certifications you have, which industries you already supply and how quickly you respond. Vague lines like “quality products at best prices” do not help.",
         "We write capability pages from your machine list, your product drawings and a call with your production head. Each product family gets a page with sizes, materials, applications and packing. An RFQ form asks for quantity, drawing upload and delivery location, and sends it to your email and WhatsApp together. Downloadable company profiles and certificates can sit behind a simple form so you learn who is reading them.",
-        "A 700+ page SEO site, starting at ₹20,000, suits units with many product variants. Smaller units can start with a static site from ₹10,000 and add pages later without rebuilding.",
+        "A 299+ page SEO site, starting at ₹20,000, suits units with many product variants. Smaller units can start with a static site from ₹10,000 and add pages later without rebuilding.",
       ],
     },
     {
@@ -94,12 +94,12 @@ const bahadurgarh: CityContent = {
       heading: "Website cost in Bahadurgarh, spelled out",
       paragraphs: [
         "Quotes in Bahadurgarh can range from a few thousand rupees for a copied template to lakhs from an agency in Delhi. Neither number tells you what you actually get. We publish starting prices on our <a href=\"/pricing/\">pricing page</a> and explain what moves the final figure: the number of pages and products, custom features, integrations and how much content you can supply.",
-        "Our starting points are these. A static site of up to 100 pages starts at <strong>₹10,000</strong> and takes one to two weeks. An SEO site of 700+ pages, useful for footwear articles or industrial products, starts at <strong>₹20,000</strong> and takes three to five weeks. AI and WhatsApp automation starts at <strong>₹40,000</strong>, an online store at <strong>₹50,000</strong> and a custom web application such as a dealer portal at <strong>₹60,000</strong>. Monthly SEO starts at ₹10,000.",
+        "Our starting points are these. A static site of up to 100 pages starts at <strong>₹10,000</strong> and takes one to two weeks. An SEO site of 299+ pages, useful for footwear articles or industrial products, starts at <strong>₹20,000</strong> and takes three to five weeks. AI and WhatsApp automation starts at <strong>₹40,000</strong>, an online store at <strong>₹50,000</strong> and a custom web application such as a dealer portal at <strong>₹60,000</strong>. Monthly SEO starts at ₹10,000.",
         "The quote arrives in about two working days and lists each page and feature separately, so you can remove what you do not need. Nothing is billed until you approve it in writing.",
       ],
       list: [
         "<strong>Business website, from ₹10,000:</strong> up to 100 pages, mobile-first, Google Maps, WhatsApp button, basic SEO setup.",
-        "<strong>Article or product catalogue, from ₹20,000:</strong> 700+ pages built around product searches.",
+        "<strong>Article or product catalogue, from ₹20,000:</strong> 299+ pages built around product searches.",
         "<strong>WhatsApp and AI automation, from ₹40,000:</strong> enquiry logging, auto-replies, order capture.",
         "<strong>Online store, from ₹50,000:</strong> sizes, colours, UPI and card checkout, courier integration.",
         "<strong>Dealer portal or custom software, from ₹60,000:</strong> logins, rate lists, repeat orders, ledgers.",
@@ -212,12 +212,12 @@ const bahadurgarh: CityContent = {
     {
       question: "How much does a website cost in Bahadurgarh?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO sites at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. You receive an itemised quote in about two working days, and nothing is billed before you approve it in writing.",
+        "Our static websites start at ₹10,000, 299+ page SEO sites at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. You receive an itemised quote in about two working days, and nothing is billed before you approve it in writing.",
     },
     {
       question: "Bahadurgarh me chappal factory ki website banwane ka kharcha kitna hai?",
       answer:
-        "Chhoti factory ki simple website ₹10,000 se shuru hoti hai. Agar har article ka alag page, size aur carton details chahiye to 700+ page wali SEO website ₹20,000 se shuru hoti hai. Pehle likhit quote milega, har page aur feature alag se likha hoga, aur aapki manzoori ke bina koi bill nahi banega.",
+        "Chhoti factory ki simple website ₹10,000 se shuru hoti hai. Agar har article ka alag page, size aur carton details chahiye to 299+ page wali SEO website ₹20,000 se shuru hoti hai. Pehle likhit quote milega, har page aur feature alag se likha hoga, aur aapki manzoori ke bina koi bill nahi banega.",
     },
     {
       question: "Do you have an office in Bahadurgarh?",
@@ -242,7 +242,7 @@ const bahadurgarh: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "Static sites usually take one to two weeks, 700+ page SEO sites three to five weeks, online stores four to eight weeks, automation two to four weeks and custom software six to twelve. The biggest delay is usually waiting for product photos, so we give you a simple shot list at the start.",
+        "Static sites usually take one to two weeks, 299+ page SEO sites three to five weeks, online stores four to eight weeks, automation two to four weeks and custom software six to twelve. The biggest delay is usually waiting for product photos, so we give you a simple shot list at the start.",
     },
     {
       question: "What can WhatsApp automation do for a factory sales team?",

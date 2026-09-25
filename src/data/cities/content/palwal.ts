@@ -34,7 +34,7 @@ const palwal: CityContent = {
     pills: ["Sites from ₹10,000", "Factory capability pages", "Hindi local search", "WhatsApp enquiry logs", "Domain in your name"],
   },
   quickAnswer:
-    "For Palwal businesses, our static website starts from ₹10,000 and a 700+ page SEO website from ₹20,000, ready in roughly one to five weeks. Custom software starts from ₹60,000. We are a remote team of three engineers with no Palwal office, so there is no rent in your quote, and five months of free maintenance follow every launch.",
+    "For Palwal businesses, our static website starts from ₹10,000 and a 299+ page SEO website from ₹20,000, ready in roughly one to five weeks. Custom software starts from ₹60,000. We are a remote team of three engineers with no Palwal office, so there is no rent in your quote, and five months of free maintenance follow every launch.",
   snapshot: [
     { label: "Status", value: "District headquarters since 15 August 2008; part of the National Capital Region" },
     { label: "Distance", value: "About 60 km from Delhi and 29 km from Faridabad on the Delhi–Agra highway (NH-19)" },
@@ -72,12 +72,12 @@ const palwal: CityContent = {
       heading: "How much a website costs in Palwal",
       paragraphs: [
         "Palwal owners get quotes that range from a few thousand rupees to the kind of numbers Delhi agencies charge. The cheapest sites often reuse a theme, skip SEO and stay in the developer's hosting account. The most expensive ones pay for an office and sales staff. We sit between the two and put our numbers on the page.",
-        "A static business website, up to 100 pages, starts from ₹10,000 and is usually live in one to two weeks. A 700+ page SEO website starts from ₹20,000 and takes three to five weeks. An online store with UPI checkout starts from ₹50,000. Custom software, such as a job-tracking portal for a factory or a booking system for a clinic, starts from ₹60,000. AI and WhatsApp automation starts from ₹40,000, and monthly SEO from ₹10,000 a month.",
+        "A static business website, up to 100 pages, starts from ₹10,000 and is usually live in one to two weeks. A 299+ page SEO website starts from ₹20,000 and takes three to five weeks. An online store with UPI checkout starts from ₹50,000. Custom software, such as a job-tracking portal for a factory or a booking system for a clinic, starts from ₹60,000. AI and WhatsApp automation starts from ₹40,000, and monthly SEO from ₹10,000 a month.",
         "What changes the final figure is scope: number of pages or products, whether you have photos and specifications, Hindi pages, user logins and integrations. Every item is listed in your quote, and nothing is billed until you approve it in writing. Our full <a href=\"/pricing/\">pricing page</a> has the details.",
       ],
       list: [
         "<strong>Static website, from ₹10,000:</strong> clinics, schools, shops, consultants and small dealers.",
-        "<strong>SEO website, from ₹20,000:</strong> 700+ pages for firms wanting enquiries across Palwal, Faridabad and the NCR.",
+        "<strong>SEO website, from ₹20,000:</strong> 299+ pages for firms wanting enquiries across Palwal, Faridabad and the NCR.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart, UPI and card checkout, delivery rules.",
         "<strong>Custom software, from ₹60,000:</strong> job cards, stock, dispatch, dashboards and staff logins.",
       ],
@@ -210,12 +210,12 @@ const palwal: CityContent = {
     {
       question: "How much does a website cost in Palwal?",
       answer:
-        "Our static business website starts from ₹10,000, a 700+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. The final amount depends on pages, products, languages and integrations. You receive an itemised quote in about two working days, and nothing is billed until you approve it in writing.",
+        "Our static business website starts from ₹10,000, a 299+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. The final amount depends on pages, products, languages and integrations. You receive an itemised quote in about two working days, and nothing is billed until you approve it in writing.",
     },
     {
       question: "Palwal me website banwane me kitna kharcha aata hai?",
       answer:
-        "Humare saath simple business website ₹10,000 se shuru hoti hai, aur 700+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se shuru hota hai aur custom software ₹60,000 se. Final price pages aur features par depend karti hai. Kaam shuru hone se pehle itemised quote milta hai, aur aapki manzoori ke bina koi bill nahi.",
+        "Humare saath simple business website ₹10,000 se shuru hoti hai, aur 299+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se shuru hota hai aur custom software ₹60,000 se. Final price pages aur features par depend karti hai. Kaam shuru hone se pehle itemised quote milta hai, aur aapki manzoori ke bina koi bill nahi.",
     },
     {
       question: "Do you have an office in Palwal?",
@@ -240,7 +240,7 @@ const palwal: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static website takes one to two weeks, a 700+ page SEO website three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. The most common delay is waiting for photos and details, so we write draft content that you can correct instead of waiting on blank pages.",
+        "A static website takes one to two weeks, a 299+ page SEO website three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. The most common delay is waiting for photos and details, so we write draft content that you can correct instead of waiting on blank pages.",
     },
     {
       question: "Will my website have Hindi pages?",

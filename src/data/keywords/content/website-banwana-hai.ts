@@ -70,7 +70,7 @@ const content: FreelanceContent = {
     cards: [
       { name: "Simple business website", note: `Dukaan, clinic, coaching, CA office ya workshop ke liye. Services, photos, map, call aur WhatsApp button. ${P.site} se, 1–2 hafte.`, href: "/static-website-developer/", size: "lg" },
       { name: "Online dukaan", note: `Product list, cart, UPI aur card se payment, order ki email aur stock ka hisaab. ${P.shop} se, 4–8 hafte.`, href: "/freelance-ecommerce-developer/", size: "lg" },
-      { name: "Kai sheharon ke liye SEO website", note: `Jab aap alag-alag sheharon ya services ke liye Google se enquiry chahte hain. 700+ pages, ${P.seoSite} se.`, href: "/seo-website-developer/", size: "md" },
+      { name: "Kai sheharon ke liye SEO website", note: `Jab aap alag-alag sheharon ya services ke liye Google se enquiry chahte hain. 299+ pages, ${P.seoSite} se.`, href: "/seo-website-developer/", size: "md" },
       { name: "Booking ya login wali website", note: `Appointment, member login, staff dashboard ya record rakhne wali website. ${P.software} se.`, href: "/dynamic-website-developer/", size: "md" },
       { name: "Purani website nayi karni hai", note: "Website khulti der se hai ya phone par toot jaati hai? Nayi banayenge aur purane Google links ko sahi jagah bhejenge.", href: "/website-redesign-freelancer/", size: "md" },
       { name: "Doctor, vakeel ya coach ki personal site", note: "Apna naam, kaam, anubhav aur appointment ka tareeka ek saaf page par. Simple plan mein aa jaati hai.", href: "/personal-website-developer/", size: "sm" },
@@ -157,7 +157,7 @@ const content: FreelanceContent = {
       heading: "Website banwana hai, budget kitna rakhna theek hai?",
       paragraphs: [
         `Seedhi baat: jitna kaam, utna kharcha. Chaar-paanch pages ki dukaan wali website aur hazaar pages wali SEO website dono “website” hain, par mehnat mein hafton ka fark hai.`,
-        `Hamare yahan shuruaati daam aise hain. 100 pages tak ki static website ${P.site} se. 700+ pages wali SEO website ${P.seoSite} se. Online dukaan ${P.shop} se. Login, booking ya dashboard wali custom website ${P.software} se. Android aur iPhone app ${P.app} se. Launch ke baad paanch mahine maintenance free, uske baad ${P.care} se, woh bhi sirf agar aap chahein.`,
+        `Hamare yahan shuruaati daam aise hain. 100 pages tak ki static website ${P.site} se. 299+ pages wali SEO website ${P.seoSite} se. Online dukaan ${P.shop} se. Login, booking ya dashboard wali custom website ${P.software} se. Android aur iPhone app ${P.app} se. Launch ke baad paanch mahine maintenance free, uske baad ${P.care} se, woh bhi sirf agar aap chahein.`,
         `Bazaar mein ek hi kaam ke quote bahut alag-alag milte hain. Fark aksar is baat ka hota hai ki design khud banaya ya kharida hua theme hai, text kaun likhega, aur launch ke baad kitna support milega. Budget kam ho toh pages kam rakhiye, features baad ke liye chhodiye, par domain apne naam aur likhit quote par samjhauta mat kijiye. Aur detail <a href='/website-making-cost-in-india/'>website making cost in India</a> par hai.`,
       ],
     },
@@ -291,7 +291,7 @@ const content: FreelanceContent = {
       columns: ["Kya banwana hai", "Shuruaat (India)", "Shuruaat (videsh)", "Kitna time", "Kiske liye"],
       rows: [
         ["Simple website, 100 pages tak", `${P.site} se`, `${P.siteUsd} se`, "1–2 hafte", "Dukaan, clinic, coaching, office"],
-        ["SEO website, 700+ pages", `${P.seoSite} se`, `${P.seoSiteUsd} se`, "3–5 hafte", "Kai sheharon mein services"],
+        ["SEO website, 299+ pages", `${P.seoSite} se`, `${P.seoSiteUsd} se`, "3–5 hafte", "Kai sheharon mein services"],
         ["Online dukaan", `${P.shop} se`, `${P.shopUsd} se`, "4–8 hafte", "UPI aur card se bechna"],
         ["Login ya booking wali website", `${P.software} se`, `${P.softwareUsd} se`, "6–12 hafte", "Appointment, members, records"],
         ["Android aur iPhone app", `${P.app} se`, `${P.appUsd} se`, "6–10 hafte", "Baar-baar order karne wale grahak"],
@@ -367,7 +367,7 @@ const content: FreelanceContent = {
   faqHeading: "Website banwana hai: log yeh bhi poochhte hain",
   faqs: [
     { question: "Website banwana hai, shuru kahan se karein?", answer: "Sabse pehle tay kijiye ki website dekh kar customer kya kare: call, WhatsApp, form ya order. Phir business ka naam, shehar, zaroori pages aur apna budget WhatsApp par bhejiye. BtechWaleTech lagbhag do working days mein line by line quote bhejta hai, aur quote approve hone se pehle koi paisa nahi lagta." },
-    { question: "Website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath 100 pages tak ki simple website ${P.site} se shuru hoti hai. 700+ pages wali SEO website ${P.seoSite} se aur online dukaan ${P.shop} se shuru hoti hai. Aakhri kharcha pages, features aur text likhne ke kaam par nirbhar karta hai. Har cheez quote mein alag line mein likhi hoti hai.` },
+    { question: "Website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath 100 pages tak ki simple website ${P.site} se shuru hoti hai. 299+ pages wali SEO website ${P.seoSite} se aur online dukaan ${P.shop} se shuru hoti hai. Aakhri kharcha pages, features aur text likhne ke kaam par nirbhar karta hai. Har cheez quote mein alag line mein likhi hoti hai.` },
     { question: "Website kitne din mein ban jaati hai?", answer: "Simple website 1–2 hafte mein live ho jaati hai, SEO website 3–5 hafte mein aur online dukaan 4–8 hafte mein. Sabse zyada der text, photos aur faislon ke intezaar mein hoti hai. Saara saamaan ek saath bhejiye aur review link par jaldi jawab dijiye, toh kaam time par poora hota hai." },
     { question: "Website banwane ke liye kya-kya dena padega?", answer: "Business ka naam, logo agar hai, dukaan ya kaam ki kuch photos, services ya products ki list, address, timing, phone number aur agar ho toh GST number. Text likhna mushkil lage toh har service par chhota voice note bhej dijiye. Jo nahi hai, uska raasta hum bata dete hain." },
     { question: "Kya bina milne aaye website ban sakti hai?", answer: "Haan. BtechWaleTech ki teen logon ki team remote kaam karti hai. Baat WhatsApp aur Google Meet par hoti hai, design aapke phone par ek private link se dikhta hai, aur payment UPI se hota hai. Poore India aur videsh ke clients isi tareeke se kaam karwate hain, bina kisi office jaaye." },

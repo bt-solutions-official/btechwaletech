@@ -39,7 +39,7 @@ const bongaigaon: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Multilingual local SEO", "Distributor order tools", "Code and domain in your name"],
   },
   quickAnswer:
-    "Bongaigaon businesses can get a website from us starting at ₹10,000, normally delivered within a fortnight. Apps for Android and iPhone begin at ₹40,000, the same entry point as AI and WhatsApp automation. SEO sites with 700+ pages begin at ₹20,000, online shops at ₹50,000 and bespoke software at ₹60,000. We have no local office; every account stays yours.",
+    "Bongaigaon businesses can get a website from us starting at ₹10,000, normally delivered within a fortnight. Apps for Android and iPhone begin at ₹40,000, the same entry point as AI and WhatsApp automation. SEO sites with 299+ pages begin at ₹20,000, online shops at ₹50,000 and bespoke software at ₹60,000. We have no local office; every account stays yours.",
   snapshot: [
     { label: "Role", value: "Headquarters of Bongaigaon district in Lower Assam, about 200 km west of Dispur" },
     { label: "Civic body", value: "Bongaigaon Municipal Board, formed in 1977, with 25 wards over about 14 sq km; 67,322 people in 2011" },
@@ -149,7 +149,7 @@ const bongaigaon: CityContent = {
       id: "website-cost-bongaigaon",
       heading: "Website cost in Bongaigaon: starting prices and comparing quotes",
       paragraphs: [
-        "What each type of project begins at, for Bongaigaon clients: ₹10,000 for a static site with up to 100 pages, delivered in a week or two. ₹20,000 for an SEO site running past 700 pages, in three to five weeks. ₹40,000 for an Android and iOS app, and the same for AI automation, which takes two to four weeks. ₹50,000 for an online shop over four to eight weeks, and ₹60,000 for bespoke software built across six to twelve weeks. Ongoing SEO begins at ₹10,000 a month; upkeep after the free period begins at ₹8,000 a month.",
+        "What each type of project begins at, for Bongaigaon clients: ₹10,000 for a static site with up to 100 pages, delivered in a week or two. ₹20,000 for an SEO site running past 299 pages, in three to five weeks. ₹40,000 for an Android and iOS app, and the same for AI automation, which takes two to four weeks. ₹50,000 for an online shop over four to eight weeks, and ₹60,000 for bespoke software built across six to twelve weeks. Ongoing SEO begins at ₹10,000 a month; upkeep after the free period begins at ₹8,000 a month.",
         "The <strong>website cost in Bongaigaon</strong> rises with scope: more pages, extra languages, big catalogues, retailer logins, payment set-up or a Tally link. If you supply text and photos, the quote stays lower; writing, translation into Assamese or Bengali, and photo editing by us are separate lines.",
         "Designers in the area quote very different amounts for what sounds like the same job, so line the offers up against a few questions. In whose name will the domain and server be registered? Is testing on phones and basic search set-up part of the price? How many revision rounds are included, and who picks up the phone when the site breaks six months later? Our own numbers are laid out on the <a href=\"/pricing/\">pricing page</a>.",
       ],
@@ -210,7 +210,7 @@ const bongaigaon: CityContent = {
     {
       question: "What is the website cost in Bongaigaon?",
       answer:
-        "The entry points are ₹10,000 for a static site, ₹20,000 for an SEO site with over 700 pages, ₹50,000 for an online shop and ₹60,000 for bespoke software. None of these is a final figure. Languages, number of pages, payment gateways and integrations move the price, and you see each of those as its own line before agreeing.",
+        "The entry points are ₹10,000 for a static site, ₹20,000 for an SEO site with over 299 pages, ₹50,000 for an online shop and ₹60,000 for bespoke software. None of these is a final figure. Languages, number of pages, payment gateways and integrations move the price, and you see each of those as its own line before agreeing.",
     },
     {
       question: "Do you build Android and iOS apps for Bongaigaon businesses?",
@@ -220,7 +220,7 @@ const bongaigaon: CityContent = {
     {
       question: "How quickly can a Bongaigaon business get a website?",
       answer:
-        "Once your wording and pictures reach us, a static site generally goes online inside a fortnight. Plan three to five weeks for an SEO site of 700+ pages, one to two months for an online shop and six to twelve weeks for bespoke software. The fastest projects are the ones where content arrives at the start.",
+        "Once your wording and pictures reach us, a static site generally goes online inside a fortnight. Plan three to five weeks for an SEO site of 299+ pages, one to two months for an online shop and six to twelve weeks for bespoke software. The fastest projects are the ones where content arrives at the start.",
     },
     {
       question: "Which is the best website development team in Bongaigaon?",
@@ -245,7 +245,7 @@ const bongaigaon: CityContent = {
     {
       question: "Bongaigaon me website banwane ka kharcha kya hai?",
       answer:
-        "Bongaigaon me hamare saath ek simple website ₹10,000 se shuru hoti hai, aur content milne ke baad do hafte ke andar live ho sakti hai. Badi SEO site (700+ pages) ₹20,000 se, Android-iOS app ₹40,000 se aur online dukaan ₹50,000 se shuru hoti hai. Kitne pages, kaunsi bhasha aur kaunse features, isi se aakhri rakam tay hoti hai; likhit haan ke bina hum kuch charge nahi karte.",
+        "Bongaigaon me hamare saath ek simple website ₹10,000 se shuru hoti hai, aur content milne ke baad do hafte ke andar live ho sakti hai. Badi SEO site (299+ pages) ₹20,000 se, Android-iOS app ₹40,000 se aur online dukaan ₹50,000 se shuru hoti hai. Kitne pages, kaunsi bhasha aur kaunse features, isi se aakhri rakam tay hoti hai; likhit haan ke bina hum kuch charge nahi karte.",
     },
     {
       question: "You have no office in Bongaigaon. Is remote work safe?",

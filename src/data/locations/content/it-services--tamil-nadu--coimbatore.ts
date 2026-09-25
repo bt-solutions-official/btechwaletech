@@ -151,7 +151,7 @@ const content: CityContent = {
       heading: "Websites, SEO and AI-search visibility for Coimbatore companies",
       paragraphs: [
         "Software runs the business, but buyers still find you through search. For Coimbatore manufacturers and service firms, the most valuable search terms are specific: a product type and a place, a model number, or a service plus an area such as Saravanampatti or Singanallur. Ranking for those needs a well-structured website with a page for each product family and each service, not a single brochure page.",
-        "Our static websites start at ₹10,000 for up to 100 pages and are live in one to two weeks. For firms with large catalogues, a 700+ page SEO website starts at ₹20,000 and takes three to five weeks, with keyword planning, schema markup, sitemaps and internal linking included. Ongoing SEO is available from ₹10,000 a month, covering technical fixes, content, local listings and Search Console reporting.",
+        "Our static websites start at ₹10,000 for up to 100 pages and are live in one to two weeks. For firms with large catalogues, a 299+ page SEO website starts at ₹20,000 and takes three to five weeks, with keyword planning, schema markup, sitemaps and internal linking included. Ongoing SEO is available from ₹10,000 a month, covering technical fixes, content, local listings and Search Console reporting.",
         "Increasingly, buyers also ask AI assistants for supplier suggestions. Clear, factual pages with specifications, certifications and service areas are more likely to be cited in those answers. We cannot promise any ranking, but we build pages that give search engines and AI tools the information they need. Our <a href=\"/services/seo-services/\">SEO services page</a> explains the approach in more detail.",
       ],
     },
@@ -183,7 +183,7 @@ const content: CityContent = {
       ],
       list: [
         "Business website: from ₹10,000, one to two weeks",
-        "700+ page SEO website: from ₹20,000, three to five weeks",
+        "299+ page SEO website: from ₹20,000, three to five weeks",
         "AI and WhatsApp automation: from ₹40,000, two to four weeks",
         "Android and iOS app: from ₹40,000, six to ten weeks",
         "Online store: from ₹50,000, four to eight weeks",
@@ -319,7 +319,7 @@ const content: CityContent = {
     {
       question: "Do you also handle websites and online stores?",
       answer:
-        "Yes. Business websites start from ₹10,000, 700+ page SEO websites from ₹20,000 and online stores from ₹50,000. Many clients start with software to fix internal work and add a website or store later, or the other way round. Because one team builds both, enquiries from the website can flow directly into your CRM or order system without extra tools in between.",
+        "Yes. Business websites start from ₹10,000, 299+ page SEO websites from ₹20,000 and online stores from ₹50,000. Many clients start with software to fix internal work and add a website or store later, or the other way round. Because one team builds both, enquiries from the website can flow directly into your CRM or order system without extra tools in between.",
     },
     {
       question: "How do we get started?",

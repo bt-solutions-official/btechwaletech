@@ -39,7 +39,7 @@ const naugachhia: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first local SEO", "Banana and maize trade tools", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Naugachhia business, a website with us starts at ₹10,000 and is typically live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, with no local office.",
+    "For a Naugachhia business, a website with us starts at ₹10,000 and is typically live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, with no local office.",
   snapshot: [
     { label: "Location", value: "Subdivision headquarters in Bhagalpur district, on the north bank of the Ganga" },
     { label: "Subdivision blocks", value: "Naugachhia, Bihpur, Gopalpur, Ismailpur, Kharik, Narayanpur and Rangra Chowk" },
@@ -157,7 +157,7 @@ const naugachhia: CityContent = {
       id: "website-cost-naugachhia",
       heading: "Website cost in Naugachhia: starting prices and what changes them",
       paragraphs: [
-        "Owners here usually want a figure before they want a meeting, so the entry points are simple. A static website of up to 100 pages starts at ₹10,000 and is typically ready in one to two weeks. An SEO website of 700 pages or more, for a dealer, institute or hospital that wants a page for every service, course or village, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and AI or WhatsApp automation also starts at ₹40,000.",
+        "Owners here usually want a figure before they want a meeting, so the entry points are simple. A static website of up to 100 pages starts at ₹10,000 and is typically ready in one to two weeks. An SEO website of 299 pages or more, for a dealer, institute or hospital that wants a page for every service, course or village, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and AI or WhatsApp automation also starts at ₹40,000.",
         "Online stores start at ₹50,000 and take four to eight weeks. Custom software, such as a trading register or a coaching management system, starts at ₹60,000 and takes six to twelve weeks. Monthly SEO starts at ₹10,000 a month, and maintenance, after five free months, starts at ₹8,000 a month.",
         "Your own figure moves up only with choices you make: content in both Hindi and English, a large product list, delivery rules, online payment, staff logins, SMS alerts or a link to your accounting software. Each shows up as a separate line you can keep or remove. If you write your own text and send phone photographs, the cost of content drops sharply.",
         "Quotes from different providers in the Bhagalpur area vary widely for jobs that look the same. When comparing, ask who will own the domain and hosting, whether the site is tested on cheap phones, whether basic SEO is included, how many revisions are covered and what support costs after the first year. Our full list of starting prices is on the <a href=\"/pricing/\">pricing page</a>, and an itemised written quote reaches you in about two working days.",
@@ -222,7 +222,7 @@ const naugachhia: CityContent = {
     {
       question: "What is the website cost in Naugachhia?",
       answer:
-        "Our static websites start at ₹10,000, SEO websites of 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final figure depends on pages, Hindi and English content, products and integrations, and you receive it itemised in writing before any billing.",
+        "Our static websites start at ₹10,000, SEO websites of 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final figure depends on pages, Hindi and English content, products and integrations, and you receive it itemised in writing before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Naugachhia businesses?",
@@ -232,7 +232,7 @@ const naugachhia: CityContent = {
     {
       question: "How long does it take to make a website in Naugachhia?",
       answer:
-        "A simple static site is usually live in one to two weeks after we receive your details and photographs. An SEO website of 700+ pages takes about three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Projects move fastest when the owner sends content early.",
+        "A simple static site is usually live in one to two weeks after we receive your details and photographs. An SEO website of 299+ pages takes about three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Projects move fastest when the owner sends content early.",
     },
     {
       question: "Which is the best website development team in Naugachhia?",

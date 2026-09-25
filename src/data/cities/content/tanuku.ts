@@ -39,7 +39,7 @@ const tanuku: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu and English local SEO", "WhatsApp order automation", "Domain and code in your name"],
   },
   quickAnswer:
-    "In Tanuku, a business website with us starts at ₹10,000 and is ready in one to two weeks. A 700+ page SEO site starts at ₹20,000, Android and iOS apps from ₹40,000, AI or WhatsApp automation from ₹40,000 and online stores from ₹50,000. We are a remote team without a Tanuku office, and you own everything.",
+    "In Tanuku, a business website with us starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, Android and iOS apps from ₹40,000, AI or WhatsApp automation from ₹40,000 and online stores from ₹50,000. We are a remote team without a Tanuku office, and you own everything.",
   snapshot: [
     { label: "District", value: "West Godavari district, Andhra Pradesh; the municipality was upgraded to selection grade in 2025" },
     { label: "Anchor industry", value: "The Andhra Sugars Ltd at Venkatarayapuram, set up in 1947, which also supplies liquid hydrogen used by ISRO" },
@@ -77,12 +77,12 @@ const tanuku: CityContent = {
       heading: "Website cost in Tanuku: what our starting prices include",
       paragraphs: [
         "Quotes for a website in Tanuku swing widely. A local designer may offer a template for very little, while agencies in Vijayawada or Hyderabad quote much more. The cheaper option often leaves the domain in someone else's name and skips basic search set-up. Rather than compare totals, compare what each quote lists: pages, languages, forms, hosting, who owns the domain and what a later change costs.",
-        "Our prices are starting points. A static website of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks. A 700+ page SEO website, with separate pages for each product, grade, course or village you serve, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, online stores at ₹50,000 and custom web software at ₹60,000. Monthly SEO starts at ₹10,000. The complete list is on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our prices are starting points. A static website of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks. A 299+ page SEO website, with separate pages for each product, grade, course or village you serve, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, online stores at ₹50,000 and custom web software at ₹60,000. Monthly SEO starts at ₹10,000. The complete list is on our <a href=\"/pricing/\">pricing page</a>.",
         "Final cost depends on scope. A spinning unit that wants counts, capacity and a buyer enquiry flow needs more pages than a single clinic. If the quote goes beyond your budget, we mark which items can wait for a second phase after the crop season.",
       ],
       list: [
         "<strong>Static site from ₹10,000:</strong> up to 100 pages, Telugu and English, enquiry form, WhatsApp button.",
-        "<strong>SEO site from ₹20,000:</strong> 700+ pages, schema, sitemap, Search Console set-up.",
+        "<strong>SEO site from ₹20,000:</strong> 299+ pages, schema, sitemap, Search Console set-up.",
         "<strong>App from ₹40,000:</strong> Android and iOS, login, push alerts, admin panel.",
         "<strong>Store from ₹50,000:</strong> UPI and card checkout, shipping rules, order alerts.",
       ],
@@ -228,7 +228,7 @@ const tanuku: CityContent = {
     {
       question: "How much does a website cost in Tanuku?",
       answer:
-        "With us, a static website starts at ₹10,000 and a 700+ page SEO website starts at ₹20,000. Online stores start at ₹50,000 and custom web software at ₹60,000. The final amount depends on pages, languages and features, and you receive an itemised quote before any work is billed.",
+        "With us, a static website starts at ₹10,000 and a 299+ page SEO website starts at ₹20,000. Online stores start at ₹50,000 and custom web software at ₹60,000. The final amount depends on pages, languages and features, and you receive an itemised quote before any work is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Tanuku businesses?",
@@ -243,12 +243,12 @@ const tanuku: CityContent = {
     {
       question: "Tanuku lo website cheyinchadaniki entha kharchu avutundi?",
       answer:
-        "Maa daggara chinna business website ₹10,000 nundi modalavutundi, 700+ pages SEO website ₹20,000 nundi. Android mariyu iPhone app ₹40,000 nundi, online store ₹50,000 nundi. Meeku kavalsina pages, features batti final dhara untundi. Pani modalu pettaka mundu prathi item dhara raasi pamputamu.",
+        "Maa daggara chinna business website ₹10,000 nundi modalavutundi, 299+ pages SEO website ₹20,000 nundi. Android mariyu iPhone app ₹40,000 nundi, online store ₹50,000 nundi. Meeku kavalsina pages, features batti final dhara untundi. Pani modalu pettaka mundu prathi item dhara raasi pamputamu.",
     },
     {
       question: "How long does it take to build a website or app?",
       answer:
-        "A static site usually takes one to two weeks and a 700+ page SEO site three to five weeks. An online store takes four to eight weeks, AI automation two to four weeks and custom software six to twelve weeks. Apps depend on screens and roles. Delays mostly come from waiting for photos and text, so we draft content for you.",
+        "A static site usually takes one to two weeks and a 299+ page SEO site three to five weeks. An online store takes four to eight weeks, AI automation two to four weeks and custom software six to twelve weeks. Apps depend on screens and roles. Delays mostly come from waiting for photos and text, so we draft content for you.",
     },
     {
       question: "Can you get my Tanuku shop or clinic onto Google Maps?",

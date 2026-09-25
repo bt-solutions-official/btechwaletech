@@ -187,7 +187,7 @@ const content: CityContent = {
       heading: "SEO and AI-search visibility for Indore software and service businesses",
       paragraphs: [
         "SEO for Indore businesses means ranking for city and area searches such as 'CA in Vijay Nagar' or 'coaching in Bhawarkua', ranking for product and service terms nationally, and being described correctly by AI search tools. It depends on a fast website, well-structured pages, schema markup, consistent business information and genuinely useful content.",
-        "Indore SaaS startups and export-focused firms often need product-led SEO: comparison pages, use-case pages and documentation that answer buyer questions. Local service businesses need a maintained Google Business Profile, locality pages for the areas they actually serve and reviews from real customers. Our 700+ page SEO websites start at ₹20,000; monthly SEO starts at ₹10,000.",
+        "Indore SaaS startups and export-focused firms often need product-led SEO: comparison pages, use-case pages and documentation that answer buyer questions. Local service businesses need a maintained Google Business Profile, locality pages for the areas they actually serve and reviews from real customers. Our 299+ page SEO websites start at ₹20,000; monthly SEO starts at ₹10,000.",
         "We do not guarantee rankings, and we avoid shortcuts like bought links or copied pages that can backfire. We report what changed from Google Search Console each month. See our <a href='/services/seo-services/'>SEO services</a> and <a href='/services/web-development/'>web development</a> pages, or the separate <a href='/indore/'>Indore websites page</a> for local search detail.",
       ],
     },

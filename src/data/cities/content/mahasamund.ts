@@ -39,7 +39,7 @@ const mahasamund: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi and Odia pages", "Rice mill and mandi tools", "Domain and code in your name"],
   },
   quickAnswer:
-    "A website for a Mahasamund business starts at ₹10,000 with us and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI automation; a 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, and you own every account.",
+    "A website for a Mahasamund business starts at ₹10,000 with us and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI automation; a 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, and you own every account.",
   snapshot: [
     { label: "Status", value: "Headquarters of Mahasamund district, about 56 km south-east of Raipur" },
     { label: "Roads and rail", value: "Highway junction towards Sambalpur and Odisha; Mahasamund and Belsonda stations on the East Coast Railway" },
@@ -158,7 +158,7 @@ const mahasamund: CityContent = {
       id: "website-cost-mahasamund",
       heading: "Website cost in Mahasamund: starting prices and fair comparisons",
       paragraphs: [
-        "Our starting prices for Mahasamund clients are public: a static website of up to 100 pages from ₹10,000 in one to two weeks; a 700+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; an online store from ₹50,000 in four to eight weeks; and custom software from ₹60,000 in six to twelve weeks.",
+        "Our starting prices for Mahasamund clients are public: a static website of up to 100 pages from ₹10,000 in one to two weeks; a 299+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; an online store from ₹50,000 in four to eight weeks; and custom software from ₹60,000 in six to twelve weeks.",
         "The quote grows with scope. More pages, Hindi and Odia versions, product catalogues with many variants, payment and courier setup, user logins or Tally links all add work. Content matters too: if you supply text and photographs the figure stays close to the starting price, and if we write, translate and arrange everything, that shows as its own line.",
         "Quotes in the local market vary widely, so compare what is included rather than the headline number. Ask in whose name the domain and hosting will be registered, whether mobile testing and basic SEO are part of the job, how many rounds of changes are allowed and who fixes problems after launch. The <a href=\"/pricing/\">pricing page</a> lists every starting point, and your written quote arrives in about two working days.",
       ],
@@ -210,7 +210,7 @@ const mahasamund: CityContent = {
     {
       question: "What is the website cost in Mahasamund?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Your quote depends on pages, languages, products and integrations, and it arrives itemised in writing before any billing begins.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Your quote depends on pages, languages, products and integrations, and it arrives itemised in writing before any billing begins.",
     },
     {
       question: "Do you build Android and iOS apps for Mahasamund businesses?",
@@ -220,7 +220,7 @@ const mahasamund: CityContent = {
     {
       question: "How long does it take to make a website in Mahasamund?",
       answer:
-        "A static website usually takes one to two weeks after we have your text and photographs. A 700+ page SEO website takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Content that is ready on day one is the biggest factor in speed.",
+        "A static website usually takes one to two weeks after we have your text and photographs. A 299+ page SEO website takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Content that is ready on day one is the biggest factor in speed.",
     },
     {
       question: "Which is the best IT services team in Mahasamund for a small business?",
@@ -245,7 +245,7 @@ const mahasamund: CityContent = {
     {
       question: "Mahasamund me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek se do hafte mein taiyaar ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Pura quote likhit mein, har item alag karke milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek se do hafte mein taiyaar ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Pura quote likhit mein, har item alag karke milta hai.",
     },
     {
       question: "You have no office in Mahasamund. How does the work happen?",

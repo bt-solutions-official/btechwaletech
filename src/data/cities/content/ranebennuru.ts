@@ -35,7 +35,7 @@ const ranebennuru: CityContent = {
     pills: ["Websites from ₹10,000", "Kannada and English pages", "Seed company websites", "APMC trader tools", "5 months free maintenance"],
   },
   quickAnswer:
-    "For Ranebennuru businesses, our static websites start at ₹10,000 and are ready in one to two weeks. A 700+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000, and an online store at ₹50,000. We are a remote team without an office in Ranebennuru, and maintenance is free for five months after launch.",
+    "For Ranebennuru businesses, our static websites start at ₹10,000 and are ready in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000, and an online store at ₹50,000. We are a remote team without an office in Ranebennuru, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Position", value: "Largest town in Haveri district, on NH48 and the Bengaluru–Hubballi rail line, near the Tungabhadra" },
     { label: "Seeds", value: "Known as a hybrid seed production hub, with vegetable and field-crop seed companies and R&D units" },
@@ -214,7 +214,7 @@ const ranebennuru: CityContent = {
     {
       question: "How much does a website cost in Ranebennuru?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. The final amount depends on pages, languages and features. You receive an itemised written quote within about two working days, and nothing is billed until you approve it.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. The final amount depends on pages, languages and features. You receive an itemised written quote within about two working days, and nothing is billed until you approve it.",
     },
     {
       question: "Ranebennur alli website maadisalu eshtu kharchu aagutte?",
@@ -244,7 +244,7 @@ const ranebennuru: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. Most delays come from waiting for photographs and product details, so we send a checklist on the first day.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. Most delays come from waiting for photographs and product details, so we send a checklist on the first day.",
     },
     {
       question: "I am an APMC trader. What can you build for me?",

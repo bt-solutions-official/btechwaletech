@@ -39,7 +39,7 @@ const jamui: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first local SEO", "Pilgrim and tourist listings", "Domain and code in your name"],
   },
   quickAnswer:
-    "For Jamui businesses, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, a 700+ page SEO site at ₹20,000 and an online store at ₹50,000. We are a remote team with no Jamui office, and you own the domain, hosting and code.",
+    "For Jamui businesses, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, a 299+ page SEO site at ₹20,000 and an online store at ₹50,000. We are a remote team with no Jamui office, and you own the domain, hosting and code.",
   snapshot: [
     { label: "Status", value: "District headquarters since 21 February 1991, when Jamui was carved out of Munger district" },
     { label: "Geography", value: "Transition from the Gangetic plain to the Chota Nagpur plateau, with the Kiul river on the east side of town" },
@@ -158,7 +158,7 @@ const jamui: CityContent = {
       id: "website-cost-jamui",
       heading: "Website cost in Jamui: starting prices and what to compare",
       paragraphs: [
-        "Our starting prices are public. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, an ecommerce store at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
+        "Our starting prices are public. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, an ecommerce store at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
         "Costs go up with scope: both Hindi and English versions, large product lists, payment gateways, logins or links to Tally. If you supply the text and photographs, the price stays close to the starting figure; if we write and organise the content, that appears as a separate line.",
         "Local quotes vary widely, so compare like with like. Ask whose name the domain and hosting will be in, whether mobile testing and basic SEO are included, how many rounds of changes you get and who fixes problems after launch. Our <a href=\"/pricing/\">pricing page</a> lists the starting points, and your itemised quote arrives in about two working days.",
       ],
@@ -210,7 +210,7 @@ const jamui: CityContent = {
     {
       question: "What is the website cost in Jamui?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. The final quote depends on pages, Hindi content, products and integrations, and you receive it itemised in writing before any billing.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. The final quote depends on pages, Hindi content, products and integrations, and you receive it itemised in writing before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Jamui businesses?",
@@ -220,7 +220,7 @@ const jamui: CityContent = {
     {
       question: "How long does a website take for a Jamui shop or institute?",
       answer:
-        "A static site usually goes live in one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having your content ready is what speeds things up most.",
+        "A static site usually goes live in one to two weeks after we receive your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having your content ready is what speeds things up most.",
     },
     {
       question: "Which is the best website development team in Jamui?",
@@ -240,7 +240,7 @@ const jamui: CityContent = {
     {
       question: "Jamui me website banwane me kitna kharcha aata hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein taiyaar ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Poora quote aapke pages aur features ke hisaab se likhit mein milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein taiyaar ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Poora quote aapke pages aur features ke hisaab se likhit mein milta hai.",
     },
     {
       question: "You have no office in Jamui. Is remote work safe?",

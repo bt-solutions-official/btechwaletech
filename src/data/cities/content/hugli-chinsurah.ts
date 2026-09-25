@@ -35,7 +35,7 @@ const hugliChinsurah: CityContent = {
     pills: ["Websites from ₹10,000", "Bengali and English pages", "Court, clinic and tutor sites", "Heritage-tourism pages", "5 months free maintenance"],
   },
   quickAnswer:
-    "In Hugli-Chinsurah, a static business website with us starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store from ₹50,000, AI or WhatsApp automation from ₹40,000 and custom software from ₹60,000. We are a remote team with no local office, and the first five months of maintenance are free.",
+    "In Hugli-Chinsurah, a static business website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store from ₹50,000, AI or WhatsApp automation from ₹40,000 and custom software from ₹60,000. We are a remote team with no local office, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Location", value: "Right bank of the Hooghly River, about 35 km north of Kolkata, inside the Kolkata metropolitan planning area" },
     { label: "Status", value: "Headquarters of Hooghly district; Hooghly Chinsurah Municipality was formed in 1865" },
@@ -90,12 +90,12 @@ const hugliChinsurah: CityContent = {
       heading: "Website prices for Chinsurah businesses, stated up front",
       paragraphs: [
         "Quotes around Hooghly vary wildly. A cousin or a local cyber café may offer a site for very little, and a Kolkata agency may ask for a large sum with a long maintenance contract. Neither tells you in advance what you are actually getting. We put our starting prices on the <a href=\"/pricing/\">pricing page</a> and break every quote into line items.",
-        "A static site of up to 100 pages starts at ₹10,000 and is ready in one to two weeks. That covers most shops, chambers, tutors and clinics. A 700+ page site designed for search starts at ₹20,000 and suits hospitals, schools, coaching institutes and traders with many products or service areas. Online stores start at ₹50,000, WhatsApp and AI automation at ₹40,000, and custom web software at ₹60,000. Monthly SEO starts at ₹10,000.",
+        "A static site of up to 100 pages starts at ₹10,000 and is ready in one to two weeks. That covers most shops, chambers, tutors and clinics. A 299+ page site designed for search starts at ₹20,000 and suits hospitals, schools, coaching institutes and traders with many products or service areas. Online stores start at ₹50,000, WhatsApp and AI automation at ₹40,000, and custom web software at ₹60,000. Monthly SEO starts at ₹10,000.",
         "Every figure above is a starting point, not a package. Pages, languages, product counts and integrations change the number, and you see each change in writing before approving anything.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile design, contact form, map and search basics.",
-        "<strong>From ₹20,000:</strong> 700+ pages for departments, tests, courses or localities.",
+        "<strong>From ₹20,000:</strong> 299+ pages for departments, tests, courses or localities.",
         "<strong>From ₹50,000:</strong> store with UPI, cards, courier rules and order alerts.",
         "<strong>From ₹60,000:</strong> registers, booking or fee systems with staff logins.",
       ],
@@ -219,12 +219,12 @@ const hugliChinsurah: CityContent = {
     {
       question: "What does a website cost in Hugli-Chinsurah?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, products and features, and every item is listed separately before you approve anything.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, products and features, and every item is listed separately before you approve anything.",
     },
     {
       question: "Chinsurah-e ekta website banate koto khoroch hobe?",
       answer:
-        "Amader kache simple website ₹10,000 theke shuru, aar ek-dui shoptaher moddhe toiri hoye jay. 700+ page-er SEO website ₹20,000 theke, aar online dokan ₹50,000 theke. Age likhito quote pathano hoy, aapni raji hole tobei kaaj shuru hoy aar bill hoy.",
+        "Amader kache simple website ₹10,000 theke shuru, aar ek-dui shoptaher moddhe toiri hoye jay. 299+ page-er SEO website ₹20,000 theke, aar online dokan ₹50,000 theke. Age likhito quote pathano hoy, aapni raji hole tobei kaaj shuru hoy aar bill hoy.",
     },
     {
       question: "Do you have an office in Chinsurah or Bandel?",
@@ -254,7 +254,7 @@ const hugliChinsurah: CityContent = {
     {
       question: "How long does a project take?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Waiting for photographs and text causes most delays, so we share a checklist on day one.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Waiting for photographs and text causes most delays, so we share a checklist on day one.",
     },
     {
       question: "Do you build websites for tuition teachers and coaching centres?",

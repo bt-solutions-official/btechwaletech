@@ -39,7 +39,7 @@ const valparai: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Homestay booking pages", "Tamil and English SEO", "Domain and code in your name"],
   },
   quickAnswer:
-    "In Valparai, our websites start at ₹10,000 and a 700+ page SEO website at ₹20,000. Android and iOS apps start at ₹40,000, as does AI and WhatsApp automation; online stores begin at ₹50,000 and custom software at ₹60,000. We work remotely, have no Valparai office, and register every domain, code repository and store account to you.",
+    "In Valparai, our websites start at ₹10,000 and a 299+ page SEO website at ₹20,000. Android and iOS apps start at ₹40,000, as does AI and WhatsApp automation; online stores begin at ₹50,000 and custom software at ₹60,000. We work remotely, have no Valparai office, and register every domain, code repository and store account to you.",
   snapshot: [
     { label: "Location", value: "Taluk headquarters in Coimbatore district, about 64 km from Pollachi and 110 km from Coimbatore" },
     { label: "Altitude", value: "Roughly 1,050 m in the Anamalai hills, reached by 40 hairpin bends on the road up from Aliyar" },
@@ -159,7 +159,7 @@ const valparai: CityContent = {
       id: "website-cost-valparai",
       heading: "Website cost in Valparai: starting prices and what to compare",
       paragraphs: [
-        "Our Valparai starting points are public. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000 over three to five weeks. Android and iOS apps and AI automation both start at ₹40,000; an online store starts at ₹50,000 and custom software at ₹60,000. Monthly SEO begins at ₹10,000 a month.",
+        "Our Valparai starting points are public. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000 over three to five weeks. Android and iOS apps and AI automation both start at ₹40,000; an online store starts at ₹50,000 and custom software at ₹60,000. Monthly SEO begins at ₹10,000 a month.",
         "What moves the price is scope: more pages, versions in Tamil, Malayalam and English, booking calendars, payment and courier links, logins, or connections to estate or accounts systems. If you supply the text and photos, costs stay near the starting figure; if we write and translate the content, that is listed separately.",
         "Local quotes vary widely. When comparing, ask who will own the domain and hosting, whether the site is tested on slow mobile networks, how many revision rounds are included, and who fixes things after launch. Our <a href=\"/pricing/\">pricing page</a> gives the starting points, and your itemised quote usually arrives in about two working days.",
       ],
@@ -211,7 +211,7 @@ const valparai: CityContent = {
     {
       question: "What is the website cost in Valparai?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final quote depends on pages, languages, booking or payment features and integrations, and you receive it itemised in writing before any billing.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final quote depends on pages, languages, booking or payment features and integrations, and you receive it itemised in writing before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Valparai businesses?",
@@ -221,7 +221,7 @@ const valparai: CityContent = {
     {
       question: "How long does a homestay website take?",
       answer:
-        "A static homestay site usually goes live one to two weeks after we receive your photos, room details and tariffs. Adding a booking calendar or online advance payment adds a little time. A 700+ page SEO site takes three to five weeks, and a full online store four to eight weeks.",
+        "A static homestay site usually goes live one to two weeks after we receive your photos, room details and tariffs. Adding a booking calendar or online advance payment adds a little time. A 299+ page SEO site takes three to five weeks, and a full online store four to eight weeks.",
     },
     {
       question: "Who is the best website development team in Valparai?",
@@ -246,7 +246,7 @@ const valparai: CityContent = {
     {
       question: "Valparai me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein ban jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aakhri quote aapke features ke hisaab se likhit mein milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein ban jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aakhri quote aapke features ke hisaab se likhit mein milta hai.",
     },
     {
       question: "Valparaiyil website uruvaakka evvalavu selavu aagum?",

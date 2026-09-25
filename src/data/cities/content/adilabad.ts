@@ -34,7 +34,7 @@ const adilabad: CityContent = {
     pills: ["Websites from ₹10,000", "Telugu, Marathi and Hindi pages", "Ginning and trade profiles", "Dokra craft stores", "WhatsApp automation"],
   },
   quickAnswer:
-    "In Adilabad, a static business website of up to 100 pages starts from ₹10,000 and takes one to two weeks, a 700+ page SEO website starts from ₹20,000, and an online store starts from ₹50,000. We are three remote engineers with no Adilabad office, and every site includes five months of free maintenance after launch.",
+    "In Adilabad, a static business website of up to 100 pages starts from ₹10,000 and takes one to two weeks, a 299+ page SEO website starts from ₹20,000, and an online store starts from ₹50,000. We are three remote engineers with no Adilabad office, and every site includes five months of free maintenance after launch.",
   snapshot: [
     { label: "Town", value: "Headquarters of Adilabad district at Telangana's northern edge; about 117,000 people in the 2011 Census" },
     { label: "Roads and rail", value: "NH 44 and NH 353B; Adilabad station on the Mudkhed–Adilabad line; Nagpur about 196 km, Hyderabad about 304 km" },
@@ -73,7 +73,7 @@ const adilabad: CityContent = {
       heading: "What a website costs in Adilabad",
       paragraphs: [
         "Adilabad owners usually see either a very cheap template, often with the domain held by the seller, or a Hyderabad or Nagpur agency quote with a large total and no breakdown. Neither makes it easy to judge value.",
-        "Our <a href=\"/pricing/\">pricing page</a> lists starting prices, and each figure below is where a project begins rather than a final amount. A static website with up to 100 pages starts from ₹10,000 and takes one to two weeks. An SEO website with 700+ pages, for example a page per product, crop input, service or village cluster, starts from ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts from ₹40,000, online stores from ₹50,000, custom web applications from ₹60,000 and monthly SEO from ₹10,000.",
+        "Our <a href=\"/pricing/\">pricing page</a> lists starting prices, and each figure below is where a project begins rather than a final amount. A static website with up to 100 pages starts from ₹10,000 and takes one to two weeks. An SEO website with 299+ pages, for example a page per product, crop input, service or village cluster, starts from ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts from ₹40,000, online stores from ₹50,000, custom web applications from ₹60,000 and monthly SEO from ₹10,000.",
         "The final figure depends on scope: pages, products, languages, payment gateway, staff logins and links to your accounts software. A small clinic needs far less than a ginning mill that wants a buyer portal and a bale register.",
         "You see every line item before anything is billed, and you can remove features you do not need this season.",
       ],
@@ -237,7 +237,7 @@ const adilabad: CityContent = {
     {
       question: "How much does a website cost in Adilabad?",
       answer:
-        "Our static websites start from ₹10,000, SEO websites with 700+ pages from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. These are starting prices; the final amount depends on pages, products, languages and features, and you get an itemised quote first.",
+        "Our static websites start from ₹10,000, SEO websites with 299+ pages from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. These are starting prices; the final amount depends on pages, products, languages and features, and you get an itemised quote first.",
     },
     {
       question: "Adilabad mein website banwane ka kharcha kitna hai?",

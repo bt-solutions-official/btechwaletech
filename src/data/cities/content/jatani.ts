@@ -38,7 +38,7 @@ const jatani: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Odia and English local SEO", "PG, mess and coaching sites", "You own every account"],
   },
   quickAnswer:
-    "Jatani shops, PGs and contractors can get a website from us from ₹10,000, typically finished inside a fortnight. A 700+ page SEO build begins at ₹20,000, Android and iOS apps and AI automation at ₹40,000 each, online stores at ₹50,000 and custom software at ₹60,000. Our team is remote, keeps no Jatani office and registers every account to you.",
+    "Jatani shops, PGs and contractors can get a website from us from ₹10,000, typically finished inside a fortnight. A 299+ page SEO build begins at ₹20,000, Android and iOS apps and AI automation at ₹40,000 each, online stores at ₹50,000 and custom software at ₹60,000. Our team is remote, keeps no Jatani office and registers every account to you.",
   snapshot: [
     { label: "Location", value: "Municipality in Khordha district, about 22 km from Bhubaneswar; PIN 752050" },
     { label: "Railway", value: "Khurda Road Junction, headquarters of the Khurda Road division of East Coast Railway" },
@@ -209,7 +209,7 @@ const jatani: CityContent = {
     {
       question: "What is the website cost in Jatani?",
       answer:
-        "Static sites begin at ₹10,000, SEO sites of 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000, and all of these are entry prices. What you finally pay depends on page count, Odia text, products and connections to other software. The itemised quote reaches you in writing, and no invoice is raised before you accept it.",
+        "Static sites begin at ₹10,000, SEO sites of 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000, and all of these are entry prices. What you finally pay depends on page count, Odia text, products and connections to other software. The itemised quote reaches you in writing, and no invoice is raised before you accept it.",
     },
     {
       question: "Do you build Android and iOS apps for Jatani businesses?",
@@ -219,7 +219,7 @@ const jatani: CityContent = {
     {
       question: "How quickly can a Jatani shop or PG get a website?",
       answer:
-        "A static site is normally live one to two weeks after we receive photographs and details. A 700+ page SEO site takes three to five weeks, an online store four to eight and custom software six to twelve. PG owners should start by June so the site and listing are ready when new students arrive.",
+        "A static site is normally live one to two weeks after we receive photographs and details. A 299+ page SEO site takes three to five weeks, an online store four to eight and custom software six to twelve. PG owners should start by June so the site and listing are ready when new students arrive.",
     },
     {
       question: "Who is the best website development team in Jatani?",
@@ -244,7 +244,7 @@ const jatani: CityContent = {
     {
       question: "Jatani me website banwane me kitna kharcha lagega?",
       answer:
-        "Jatani mein simple website hamare saath ₹10,000 se shuru hoti hai, aur aam taur par do hafte ke andar live ho jaati hai. SEO wali 700+ page site ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hota hai. Pages aur features dekhkar poora quote likhit mein bhejte hain.",
+        "Jatani mein simple website hamare saath ₹10,000 se shuru hoti hai, aur aam taur par do hafte ke andar live ho jaati hai. SEO wali 299+ page site ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hota hai. Pages aur features dekhkar poora quote likhit mein bhejte hain.",
     },
     {
       question: "You have no office in Jatani. Is remote work safe?",

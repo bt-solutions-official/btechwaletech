@@ -35,7 +35,7 @@ const pune: CityContent = {
     pills: ["Sites from ₹10,000", "Marathi and English SEO", "UPI checkout stores", "WhatsApp automation", "Custom web apps"],
   },
   quickAnswer:
-    "For a Pune business, a website with us starts at ₹10,000, and a 700+ page SEO website at ₹20,000, typically delivered within one to five weeks. Online stores start at ₹50,000 and custom web applications at ₹60,000. We are a remote three-engineer team with no Pune office, and five months of maintenance come free.",
+    "For a Pune business, a website with us starts at ₹10,000, and a 299+ page SEO website at ₹20,000, typically delivered within one to five weeks. Online stores start at ₹50,000 and custom web applications at ₹60,000. We are a remote three-engineer team with no Pune office, and five months of maintenance come free.",
   snapshot: [
     { label: "Business districts", value: "Deccan, FC Road, JM Road, Camp and MG Road, Koregaon Park, Baner and the old peth areas" },
     { label: "IT hubs", value: "Rajiv Gandhi Infotech Park in Hinjewadi, EON Free Zone and WTC in Kharadi, Magarpatta, SP Infocity at Phursungi" },
@@ -73,12 +73,12 @@ const pune: CityContent = {
       heading: "How much does a website cost in Pune?",
       paragraphs: [
         "A small business in Pune can easily collect quotes of ₹4,000, ₹25,000 and ₹1,00,000 for what sounds like the same five-page website. Low quotes often mean a recycled theme, no SEO groundwork and a domain registered to the developer. High quotes often include agency overheads, project managers and sales staff between you and the developer.",
-        "Our starting prices are published. A static website of up to 100 pages is from ₹10,000 and goes live in one to two weeks. A 700+ page SEO website, planned around what your customers search for in Pune, is from ₹20,000 and takes three to five weeks. An online store with UPI and card payments starts from ₹50,000. Custom web applications such as supplier portals, admission systems and dashboards start from ₹60,000. Automation projects start from ₹40,000, and monthly SEO is from ₹10,000.",
+        "Our starting prices are published. A static website of up to 100 pages is from ₹10,000 and goes live in one to two weeks. A 299+ page SEO website, planned around what your customers search for in Pune, is from ₹20,000 and takes three to five weeks. An online store with UPI and card payments starts from ₹50,000. Custom web applications such as supplier portals, admission systems and dashboards start from ₹60,000. Automation projects start from ₹40,000, and monthly SEO is from ₹10,000.",
         "Scope decides the final figure: number of pages, number of products, integrations, and whether content and photos are ready. You get an itemised quote in about two working days and pay nothing until you approve it in writing.",
       ],
       list: [
         "<strong>Static website, from ₹10,000:</strong> up to 100 pages, enquiry form, mobile layout, basic SEO. For consultants, clinics, architects and small shops.",
-        "<strong>SEO website, from ₹20,000:</strong> 700+ pages, schema, sitemap and area pages. For service firms that want enquiries from search.",
+        "<strong>SEO website, from ₹20,000:</strong> 299+ pages, schema, sitemap and area pages. For service firms that want enquiries from search.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart, UPI and cards, order notifications. For food, textile and lifestyle brands.",
         "<strong>Web application, from ₹60,000:</strong> logins, roles, dashboards and integrations. For manufacturers, institutes and service companies.",
       ],
@@ -218,12 +218,12 @@ const pune: CityContent = {
     {
       question: "How much does a website cost in Pune?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO website from ₹20,000, an online store from ₹50,000 and a custom web application from ₹60,000. Pune quotes for similar sites run from roughly ₹4,000 to over ₹1,00,000. Compare what each includes, especially SEO setup, ownership of the domain and hosting, and support after launch.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO website from ₹20,000, an online store from ₹50,000 and a custom web application from ₹60,000. Pune quotes for similar sites run from roughly ₹4,000 to over ₹1,00,000. Compare what each includes, especially SEO setup, ownership of the domain and hosting, and support after launch.",
     },
     {
       question: "Pune madhye website banvayla kiti kharch yeto?",
       answer:
-        "Aamchyakade sadhi business website ₹10,000 pasun suru hote. 700+ pages chi SEO website ₹20,000 pasun ani online store ₹50,000 pasun. Kiti pages, kontya features ani content tayar aahe ka, yavar final kimmat tharte. Kaam suru honyaadhi tumhala purna itemised quote milel.",
+        "Aamchyakade sadhi business website ₹10,000 pasun suru hote. 299+ pages chi SEO website ₹20,000 pasun ani online store ₹50,000 pasun. Kiti pages, kontya features ani content tayar aahe ka, yavar final kimmat tharte. Kaam suru honyaadhi tumhala purna itemised quote milel.",
     },
     {
       question: "Do you have an office in Pune where we can meet?",
@@ -233,7 +233,7 @@ const pune: CityContent = {
     {
       question: "How long will my website take?",
       answer:
-        "A static website takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. Content is usually what holds things up, so we draft text for you to review rather than waiting for you to write every page.",
+        "A static website takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. Content is usually what holds things up, so we draft text for you to review rather than waiting for you to write every page.",
     },
     {
       question: "Can you help my business show up on Google Maps in Pune?",

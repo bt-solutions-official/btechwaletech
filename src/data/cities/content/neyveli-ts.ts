@@ -35,7 +35,7 @@ const neyveli: CityContent = {
     pills: ["Sites from ₹10,000", "Tamil and English pages", "NLC vendor profiles", "Panruti produce stores", "WhatsApp replies 7 days"],
   },
   quickAnswer:
-    "For Neyveli businesses, our websites start from ₹10,000 and normally go live in one to two weeks. A 700+ page SEO site starts from ₹20,000, AI and WhatsApp automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team with no Neyveli office, and every launch includes five months of free maintenance.",
+    "For Neyveli businesses, our websites start from ₹10,000 and normally go live in one to two weeks. A 299+ page SEO site starts from ₹20,000, AI and WhatsApp automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team with no Neyveli office, and every launch includes five months of free maintenance.",
   snapshot: [
     { label: "District", value: "Neyveli Township lies in Cuddalore district, about 197 km south of Chennai and a short drive inland from the Bay of Bengal" },
     { label: "Anchor employer", value: "NLC India Limited, founded in 1956, runs lignite mines I, IA and II and several thermal power stations here" },
@@ -83,12 +83,12 @@ const neyveli: CityContent = {
       heading: "Website pricing for Neyveli businesses",
       paragraphs: [
         "Quotes in the Neyveli area swing from a few thousand rupees for a one-page template to agency proposals that carry Chennai overheads. The cheap end usually keeps the domain in the designer's name and ignores search. The expensive end bills you for someone else's office. We would rather publish where our work begins.",
-        "A static business site of up to 100 pages starts from <strong>₹10,000</strong> and typically launches in one to two weeks. A search-led site of 700+ pages in Tamil and English begins at <strong>₹20,000</strong> and takes three to five weeks. AI and WhatsApp automation starts at <strong>₹40,000</strong>, online stores with UPI at <strong>₹50,000</strong>, and custom software or web apps at <strong>₹60,000</strong>. Monthly SEO is available from ₹10,000. The full breakdown sits on our <a href=\"/pricing/\">pricing page</a>.",
+        "A static business site of up to 100 pages starts from <strong>₹10,000</strong> and typically launches in one to two weeks. A search-led site of 299+ pages in Tamil and English begins at <strong>₹20,000</strong> and takes three to five weeks. AI and WhatsApp automation starts at <strong>₹40,000</strong>, online stores with UPI at <strong>₹50,000</strong>, and custom software or web apps at <strong>₹60,000</strong>. Monthly SEO is available from ₹10,000. The full breakdown sits on our <a href=\"/pricing/\">pricing page</a>.",
         "These are starting figures, and your quote explains every line. A tuition centre with six pages and a fabrication firm with a hundred equipment photos and two languages are different jobs, and you should be able to see exactly why.",
       ],
       list: [
         "<strong>Business site from ₹10,000:</strong> up to 100 pages, mobile layout, map, WhatsApp button and on-page basics.",
-        "<strong>SEO site from ₹20,000:</strong> 700+ pages in Tamil and English with schema, sitemap and Search Console.",
+        "<strong>SEO site from ₹20,000:</strong> 299+ pages in Tamil and English with schema, sitemap and Search Console.",
         "<strong>Online store from ₹50,000:</strong> product catalogue, UPI and card payments, courier rules and order alerts.",
         "<strong>Custom software from ₹60,000:</strong> logins, records, billing and reports for contractors, schools and clinics.",
       ],
@@ -219,12 +219,12 @@ const neyveli: CityContent = {
     {
       question: "How much does a website cost in Neyveli?",
       answer:
-        "Our business websites start from ₹10,000, 700+ page SEO sites from ₹20,000, AI and WhatsApp automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. Your quote depends on pages, languages, products and features. When comparing offers, ask who owns the domain and what support you get after launch.",
+        "Our business websites start from ₹10,000, 299+ page SEO sites from ₹20,000, AI and WhatsApp automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. Your quote depends on pages, languages, products and features. When comparing offers, ask who owns the domain and what support you get after launch.",
     },
     {
       question: "Neyveli la oru chinna kadaikku website panna evvalavu aagum?",
       answer:
-        "Engaloda simple business website ₹10,000 la irundhu aarambikkudhu, pothuvaa oru rendu vaarathula ready aagidum. 700+ page SEO website ₹20,000 la irundhu, online store ₹50,000 la irundhu aarambam. Velai start pannradhukku munnaadi item-wise quote anuppuvom; neenga ezhuthu moolama approve pannra varaikkum edhuvum charge panna maattom.",
+        "Engaloda simple business website ₹10,000 la irundhu aarambikkudhu, pothuvaa oru rendu vaarathula ready aagidum. 299+ page SEO website ₹20,000 la irundhu, online store ₹50,000 la irundhu aarambam. Velai start pannradhukku munnaadi item-wise quote anuppuvom; neenga ezhuthu moolama approve pannra varaikkum edhuvum charge panna maattom.",
     },
     {
       question: "Do you have an office in Neyveli?",
@@ -254,7 +254,7 @@ const neyveli: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. The usual delay is waiting for photos and text, so we draft content for you to correct instead of waiting on a blank page.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. The usual delay is waiting for photos and text, so we draft content for you to correct instead of waiting on a blank page.",
     },
     {
       question: "What can WhatsApp automation do for a tuition centre or contractor?",

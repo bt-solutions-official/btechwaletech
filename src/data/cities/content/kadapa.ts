@@ -34,7 +34,7 @@ const kadapa: CityContent = {
     pills: ["From ₹10,000", "Telugu and English pages", "Supplier profiles", "WhatsApp automation", "Full code ownership"],
   },
   quickAnswer:
-    "For a Kadapa business we build a website of up to 100 pages from ₹10,000 in one to two weeks, or a 700+ page SEO website from ₹20,000 in three to five weeks. Online stores start at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team, the domain and code are yours, and the first five months of maintenance are free.",
+    "For a Kadapa business we build a website of up to 100 pages from ₹10,000 in one to two weeks, or a 299+ page SEO website from ₹20,000 in three to five weeks. Online stores start at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team, the domain and code are yours, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Minerals", value: "Barytes, limestone and asbestos; the Kadapa stone slabs; uranium at Tummalapalle" },
     { label: "Cement and power", value: "Cement plants on the Yerraguntla limestone belt; Rayalaseema Thermal Power Station, 1,650 MW" },
@@ -72,12 +72,12 @@ const kadapa: CityContent = {
       heading: "What websites cost in Kadapa, stated plainly",
       paragraphs: [
         "In Kadapa you will find offers from a few thousand rupees to quotes from big-city agencies worth lakhs. The cheapest are often templates hosted in the seller's account; the costliest may include work you do not need. What matters is ownership, the ability to edit later, and whether basic search setup is included.",
-        "Our starting prices are public. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site, with separate pages for each product, department or course, starts at ₹20,000 and takes three to five weeks. Online stores with UPI and cards start at ₹50,000, over four to eight weeks. Custom tools such as dispatch or admission systems start at ₹60,000 and take six to twelve weeks.",
+        "Our starting prices are public. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site, with separate pages for each product, department or course, starts at ₹20,000 and takes three to five weeks. Online stores with UPI and cards start at ₹50,000, over four to eight weeks. Custom tools such as dispatch or admission systems start at ₹60,000 and take six to twelve weeks.",
         "Automation starts at ₹40,000, monthly SEO at ₹10,000, and maintenance at ₹8,000 a month after five free months. The full list is on our <a href=\"/pricing/\">pricing page</a>. You get an itemised quote in about two working days.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> a site of up to 100 pages for a clinic, shop, advocate or consultant.",
-        "<strong>From ₹20,000:</strong> 700+ page site for colleges, hospitals and suppliers.",
+        "<strong>From ₹20,000:</strong> 299+ page site for colleges, hospitals and suppliers.",
         "<strong>From ₹50,000:</strong> online store for jewellery, sweets, fruit or handloom.",
         "<strong>From ₹60,000:</strong> dispatch, billing, admission or dealer order software.",
       ],
@@ -227,12 +227,12 @@ const kadapa: CityContent = {
     {
       question: "How much does a website cost in Kadapa?",
       answer:
-        "Our prices start at ₹10,000 for a static site of up to 100 pages, ₹20,000 for a 700+ page SEO site, ₹50,000 for an online store and ₹60,000 for custom software. Quotes in Kadapa vary a lot, so check whether the domain is in your name, whether you get hosting access and what support follows launch.",
+        "Our prices start at ₹10,000 for a static site of up to 100 pages, ₹20,000 for a 299+ page SEO site, ₹50,000 for an online store and ₹60,000 for custom software. Quotes in Kadapa vary a lot, so check whether the domain is in your name, whether you get hosting access and what support follows launch.",
     },
     {
       question: "Kadapa lo website cheyinchukodaniki entha kharchu avutundi?",
       answer:
-        "Maa daggara chinna business website ₹10,000 nunchi modalavutundi, 700+ pages unna SEO website ₹20,000 nunchi. Online store ₹50,000 nunchi, custom software ₹60,000 nunchi. Pani modalupettakamundu itemised quote pamputamu, meeru raatapurvakamga oppukunnaka maatrame payment teesukuntamu. Domain, hosting, code anni mee perumeede untayi.",
+        "Maa daggara chinna business website ₹10,000 nunchi modalavutundi, 299+ pages unna SEO website ₹20,000 nunchi. Online store ₹50,000 nunchi, custom software ₹60,000 nunchi. Pani modalupettakamundu itemised quote pamputamu, meeru raatapurvakamga oppukunnaka maatrame payment teesukuntamu. Domain, hosting, code anni mee perumeede untayi.",
     },
     {
       question: "Do you have an office in Kadapa?",
@@ -257,7 +257,7 @@ const kadapa: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, a store four to eight weeks and custom software six to twelve weeks. Waiting for photos and text is the usual delay, so we prepare a first draft of your content ourselves.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, a store four to eight weeks and custom software six to twelve weeks. Waiting for photos and text is the usual delay, so we prepare a first draft of your content ourselves.",
     },
     {
       question: "Can a Proddatur or Kadapa jeweller sell online?",

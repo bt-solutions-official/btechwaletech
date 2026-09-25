@@ -35,7 +35,7 @@ const hyderabad: CityContent = {
     pills: ["Websites from ₹10,000", "Telugu and English SEO", "Pharma product catalogues", "UPI checkout stores", "AI agents from ₹40,000"],
   },
   quickAnswer:
-    "For Hyderabad businesses, our static websites start at ₹10,000 and 700+ page SEO websites at ₹20,000, usually delivered in one to five weeks. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three engineers with no Hyderabad office, and every project includes five months of free maintenance.",
+    "For Hyderabad businesses, our static websites start at ₹10,000 and 299+ page SEO websites at ₹20,000, usually delivered in one to five weeks. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three engineers with no Hyderabad office, and every project includes five months of free maintenance.",
   snapshot: [
     { label: "Tech districts", value: "HITEC City, Madhapur, Gachibowli, Kondapur, Nanakramguda Financial District and Kokapet" },
     { label: "Life sciences", value: "Genome Valley near Shamirpet, and bulk-drug clusters at Patancheru, Bollaram and Pashamylaram" },
@@ -73,12 +73,12 @@ const hyderabad: CityContent = {
       heading: "How much does a website cost in Hyderabad?",
       paragraphs: [
         "Hyderabad prices run from ₹3,000 website offers on classified sites to agency quotes of a lakh or more for a small business site. The low end usually means a reused template, no search work and hosting controlled by the developer. The high end may include genuine design work, but often also pays for a Madhapur office, sales staff and an account manager between you and the person building your site.",
-        "Our starting prices are published. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, AI and WhatsApp automation at ₹40,000, and ongoing SEO at ₹10,000 a month.",
+        "Our starting prices are published. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, AI and WhatsApp automation at ₹40,000, and ongoing SEO at ₹10,000 a month.",
         "Scope sets the final number. A pharma trader with 300 products needs more work than a physiotherapist with six services. We send an itemised quote, usually within two working days, listing each page and feature, and nothing is billed until you approve it in writing. Details of each tier are on the <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [
         "<strong>Static site, from ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form, SEO basics. For clinics, consultants and small shops.",
-        "<strong>SEO site, from ₹20,000:</strong> 700+ pages covering services and genuine service areas. For firms wanting Google enquiries.",
+        "<strong>SEO site, from ₹20,000:</strong> 299+ pages covering services and genuine service areas. For firms wanting Google enquiries.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart, UPI and card checkout. For pearls, bangles, foods and handloom brands.",
         "<strong>Custom web app, from ₹60,000:</strong> logins, dashboards, integrations. For pharma suppliers, distributors and startups.",
       ],
@@ -219,12 +219,12 @@ const hyderabad: CityContent = {
     {
       question: "How much does a website cost in Hyderabad?",
       answer:
-        "With us, a static site starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. Hyderabad quotes for similar work range from a few thousand rupees to over a lakh. Compare SEO, ownership of domain and hosting, and after-launch support, not only the price.",
+        "With us, a static site starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. Hyderabad quotes for similar work range from a few thousand rupees to over a lakh. Compare SEO, ownership of domain and hosting, and after-launch support, not only the price.",
     },
     {
       question: "Hyderabad lo website cheyinchadaniki entha kharchu avutundi?",
       answer:
-        "Maa daggara simple business website ₹10,000 nundi start avutundi, 700+ pages SEO website ₹20,000 nundi. Online store ₹50,000 nundi. Final dhara pages, features, content meeda depend avutundi. Pani start cheyyadaniki mundhu meeku itemised quote istamu, mee written approval lekunda billing undadu.",
+        "Maa daggara simple business website ₹10,000 nundi start avutundi, 299+ pages SEO website ₹20,000 nundi. Online store ₹50,000 nundi. Final dhara pages, features, content meeda depend avutundi. Pani start cheyyadaniki mundhu meeku itemised quote istamu, mee written approval lekunda billing undadu.",
     },
     {
       question: "Do you have an office in Hyderabad?",
@@ -249,7 +249,7 @@ const hyderabad: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom web app six to twelve weeks. Waiting for content is the usual delay, so we draft starter text for you to correct.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom web app six to twelve weeks. Waiting for content is the usual delay, so we draft starter text for you to correct.",
     },
     {
       question: "Can my website be in Telugu or Urdu?",

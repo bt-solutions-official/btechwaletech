@@ -39,7 +39,7 @@ const koratla: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu-first pages", "Mango and turmeric trade", "You own every login"],
   },
   quickAnswer:
-    "A Koratla business can get a website from us starting at ₹10,000, typically ready within a fortnight. Android and iOS apps begin at ₹40,000, as does AI automation; SEO sites of 700+ pages begin at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. Our team is remote, has no Koratla office, and registers every account to you.",
+    "A Koratla business can get a website from us starting at ₹10,000, typically ready within a fortnight. Android and iOS apps begin at ₹40,000, as does AI automation; SEO sites of 299+ pages begin at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. Our team is remote, has no Koratla office, and registers every account to you.",
   snapshot: [
     { label: "Location", value: "Town and revenue division in Jagtial district, about 23 km from Jagtial and 235 km from Hyderabad" },
     { label: "Distances", value: "Roughly 73 km to Karimnagar and 76 km to Nizamabad" },
@@ -151,7 +151,7 @@ const koratla: CityContent = {
       id: "website-cost-koratla",
       heading: "Website cost in Koratla: starting prices and comparing quotes",
       paragraphs: [
-        "Our starting prices are public. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation start at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO is from ₹10,000 a month.",
+        "Our starting prices are public. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation start at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO is from ₹10,000 a month.",
         "Scope raises the figure: more pages, Telugu and English versions, big product lists, payment and courier integration, logins, or Tally links. If you give us your own text and photographs, the price stays near the starting figure. Content writing and translation appear as separate lines.",
         "Quotes from local designers vary widely, so compare carefully. Ask whose name the domain and hosting are in, whether mobile testing and basic SEO are included, how many rounds of changes are allowed and who fixes problems after launch. Our <a href=\"/pricing/\">pricing page</a> shows the starting points, and a written quote reaches you in about two working days.",
       ],
@@ -212,7 +212,7 @@ const koratla: CityContent = {
     {
       question: "What is the website cost in Koratla?",
       answer:
-        "A basic website with us begins at ₹10,000. A large SEO site of 700+ pages begins at ₹20,000, a shop with online payment at ₹50,000 and bespoke software at ₹60,000. Treat these as starting points: Telugu content, product count and integrations move the figure, and you see every line in a written quote first.",
+        "A basic website with us begins at ₹10,000. A large SEO site of 299+ pages begins at ₹20,000, a shop with online payment at ₹50,000 and bespoke software at ₹60,000. Treat these as starting points: Telugu content, product count and integrations move the figure, and you see every line in a written quote first.",
     },
     {
       question: "Do you build Android and iOS apps for Koratla businesses?",
@@ -247,7 +247,7 @@ const koratla: CityContent = {
     {
       question: "Korutla lo website cheyinchadaniki entha kharchu avuthundi?",
       answer:
-        "Maa daggara simple website ₹10,000 nundi modalavuthundi, sumaaru okati rendu vaarallo ready avuthundi. 700+ pages SEO website ₹20,000 nundi, Android and iOS app ₹40,000 nundi, online store ₹50,000 nundi modalu. Mee pages, features batti final quote raatha poorvakanga isthamu.",
+        "Maa daggara simple website ₹10,000 nundi modalavuthundi, sumaaru okati rendu vaarallo ready avuthundi. 299+ pages SEO website ₹20,000 nundi, Android and iOS app ₹40,000 nundi, online store ₹50,000 nundi modalu. Mee pages, features batti final quote raatha poorvakanga isthamu.",
     },
     {
       question: "You have no office in Koratla. Is working remotely safe?",

@@ -39,7 +39,7 @@ const limbdi: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Gujarati and English pages", "Ginning and GIDC software", "Domain and code in your name"],
   },
   quickAnswer:
-    "For Limbdi businesses, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, and you own every account.",
+    "For Limbdi businesses, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, and you own every account.",
   snapshot: [
     { label: "Location", value: "Taluka headquarters in Surendranagar district, on the Ahmedabad–Rajkot highway about 100 km from Ahmedabad" },
     { label: "History", value: "Seat of the Jhala Rajput rulers of Limbdi State, a 9-gun salute princely state under the Kathiawar Agency" },
@@ -159,7 +159,7 @@ const limbdi: CityContent = {
       heading: "Website cost in Limbdi: starting prices and what moves them",
       paragraphs: [
         "A basic website in Limbdi starts at ₹10,000 with us. Where you land above that depends on what the site has to do, and three local examples show the spread.",
-        "A clinic or shop needing a few Gujarati and English pages, photographs, a map and a WhatsApp button fits the static tier: up to 100 pages, ₹10,000 onwards, live in one to two weeks. A coaching institute or hospital wanting a page for every course, department, test or nearby village suits an SEO website of 700 pages or more, from ₹20,000 over three to five weeks. A ginning unit that wants purchase registers, bale tracking and payment dues is buying custom software, from ₹60,000 across six to twelve weeks.",
+        "A clinic or shop needing a few Gujarati and English pages, photographs, a map and a WhatsApp button fits the static tier: up to 100 pages, ₹10,000 onwards, live in one to two weeks. A coaching institute or hospital wanting a page for every course, department, test or nearby village suits an SEO website of 299 pages or more, from ₹20,000 over three to five weeks. A ginning unit that wants purchase registers, bale tracking and payment dues is buying custom software, from ₹60,000 across six to twelve weeks.",
         "The other entry points are Android and iOS apps from ₹40,000, AI automation from ₹40,000 over two to four weeks, an online store from ₹50,000 over four to eight weeks, and monthly SEO from ₹10,000. Extras such as a second language, a large catalogue, card and UPI checkout, staff roles or a Tally link are listed line by line, so you can strike out whatever you do not need.",
         "Quotes across Surendranagar district differ widely for work that sounds identical. Compare who will own the domain, whether the site is tested on low-cost Android phones, whether basic on-page SEO is included, how many revision rounds you get and what happens when something breaks a year later. Our <a href=\"/pricing/\">pricing page</a> lists every starting figure, and your itemised quote arrives in about two working days.",
       ],
@@ -228,7 +228,7 @@ const limbdi: CityContent = {
     {
       question: "What is the website cost in Limbdi?",
       answer:
-        "In Limbdi, our static websites start at ₹10,000, SEO websites of 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices only. Your quote depends on pages, Gujarati content, products and integrations, and it reaches you itemised in writing before anything is billed.",
+        "In Limbdi, our static websites start at ₹10,000, SEO websites of 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices only. Your quote depends on pages, Gujarati content, products and integrations, and it reaches you itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Limbdi businesses?",
@@ -238,7 +238,7 @@ const limbdi: CityContent = {
     {
       question: "How long does it take to build a website for a Limbdi shop or clinic?",
       answer:
-        "A simple website for a Limbdi shop or clinic usually goes live within one to two weeks of receiving your photographs and details. A 700+ page SEO site takes about three to five weeks, an online store four to eight, and custom software six to twelve. Sending content in the first few days is what keeps projects on schedule.",
+        "A simple website for a Limbdi shop or clinic usually goes live within one to two weeks of receiving your photographs and details. A 299+ page SEO site takes about three to five weeks, an online store four to eight, and custom software six to twelve. Sending content in the first few days is what keeps projects on schedule.",
     },
     {
       question: "Which is the best IT services team in Limbdi for a small business?",

@@ -34,7 +34,7 @@ const nagda: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi and Malwi-aware SEO", "Vendor capability sites", "WhatsApp enquiry flows", "Code and domain yours"],
   },
   quickAnswer:
-    "Our Nagda websites begin at ₹10,000 and are typically live inside a fortnight. Larger 700+ page SEO builds start from ₹20,000, stores from ₹50,000, WhatsApp or AI automation from ₹40,000 and bespoke software from ₹60,000. There is no Nagda office; three remote engineers do the work, and you hold the domain, hosting and source code.",
+    "Our Nagda websites begin at ₹10,000 and are typically live inside a fortnight. Larger 299+ page SEO builds start from ₹20,000, stores from ₹50,000, WhatsApp or AI automation from ₹40,000 and bespoke software from ₹60,000. There is no Nagda office; three remote engineers do the work, and you hold the domain, hosting and source code.",
   snapshot: [
     { label: "Location", value: "Industrial town in Ujjain district on the Chambal, within the Indore metropolitan region" },
     { label: "Anchor industry", value: "Grasim's viscose staple fibre complex at Birlagram, founded in 1947, with a large caustic soda unit" },
@@ -72,12 +72,12 @@ const nagda: CityContent = {
       heading: "Website pricing for Nagda, with every line shown",
       paragraphs: [
         "Nagda owners often get either a very cheap offer from someone who uses a free template on his own account, or an Indore agency quote that includes heavy monthly fees. Neither lists clearly what is being delivered.",
-        "Here is where our work begins. Static sites with as many as 100 pages start from ₹10,000, delivered in one or two weeks. SEO-scale sites of 700 pages or more start from ₹20,000 over three to five weeks. Ecommerce begins at ₹50,000, WhatsApp and AI automation at ₹40,000, and bespoke applications, a contractor's labour-attendance and billing system for instance, at ₹60,000. Ongoing search optimisation is ₹10,000 a month onwards. The <a href=\"/pricing/\">pricing page</a> carries every service.",
+        "Here is where our work begins. Static sites with as many as 100 pages start from ₹10,000, delivered in one or two weeks. SEO-scale sites of 299 pages or more start from ₹20,000 over three to five weeks. Ecommerce begins at ₹50,000, WhatsApp and AI automation at ₹40,000, and bespoke applications, a contractor's labour-attendance and billing system for instance, at ₹60,000. Ongoing search optimisation is ₹10,000 a month onwards. The <a href=\"/pricing/\">pricing page</a> carries every service.",
         "Scope decides the final figure: number of pages, languages, integrations and how much content we write. Each part is priced as its own line, so you can start with the pages that win work now and add the rest later.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> a neat site for a shop, clinic, tutor, advocate or small contractor.",
-        "<strong>From ₹20,000:</strong> a 700+ page SEO site for schools, hospitals and firms with many service lines.",
+        "<strong>From ₹20,000:</strong> a 299+ page SEO site for schools, hospitals and firms with many service lines.",
         "<strong>From ₹50,000:</strong> an online store with UPI, cards and courier updates.",
         "<strong>From ₹60,000:</strong> a custom tool for work orders, attendance, billing or admissions.",
       ],
@@ -226,7 +226,7 @@ const nagda: CityContent = {
     {
       question: "What does a website cost in Nagda?",
       answer:
-        "Our rates begin at ₹10,000 for a business site and ₹20,000 for a 700+ page SEO build, with stores from ₹50,000, automation from ₹40,000 and bespoke software from ₹60,000. What you finally pay tracks the pages, features and writing involved. An item-by-item quote reaches you in roughly two working days, and no invoice goes out before you agree.",
+        "Our rates begin at ₹10,000 for a business site and ₹20,000 for a 299+ page SEO build, with stores from ₹50,000, automation from ₹40,000 and bespoke software from ₹60,000. What you finally pay tracks the pages, features and writing involved. An item-by-item quote reaches you in roughly two working days, and no invoice goes out before you agree.",
     },
     {
       question: "Nagda mein website banwane ka kharcha kitna hai?",
@@ -261,7 +261,7 @@ const nagda: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "Plan on one to two weeks for a static site, three to five for a 700+ page SEO build, four to eight for a store and six to twelve for custom software. Waiting on photos and text causes most delays, so we are happy to write first drafts in Hindi and English that you then correct.",
+        "Plan on one to two weeks for a static site, three to five for a 299+ page SEO build, four to eight for a store and six to twelve for custom software. Waiting on photos and text causes most delays, so we are happy to write first drafts in Hindi and English that you then correct.",
     },
     {
       question: "What can WhatsApp automation do for my business?",

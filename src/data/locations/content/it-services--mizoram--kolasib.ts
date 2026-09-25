@@ -235,7 +235,7 @@ const content: CityContent = {
       id: "cost-kolasib",
       heading: "How much do IT solutions in Kolasib cost?",
       paragraphs: [
-        "IT solutions in Kolasib with us start at ₹10,000 for a business website, ₹20,000 for a 700+ page SEO website, ₹40,000 for automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000.",
+        "IT solutions in Kolasib with us start at ₹10,000 for a business website, ₹20,000 for a 299+ page SEO website, ₹40,000 for automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000.",
         "Scope sets the final price: number of pages or screens, users, vehicles or locations, offline features, integrations and content. Estimates are itemised so you can phase features.",
         "Payment is in INR against milestones, accepted only by UPI through our QR code or direct bank transfer to our account. Each payment follows work you have reviewed.",
       ],

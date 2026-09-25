@@ -35,7 +35,7 @@ const malegaon: CityContent = {
     pills: ["Sites from ₹10,000", "Grey cloth catalogues", "Urdu, Marathi, Hindi pages", "WhatsApp order logging", "You own the code"],
   },
   quickAnswer:
-    "A business website in Malegaon costs from ₹10,000 with us and is usually live within one to two weeks. A 700+ page SEO site starts at ₹20,000, WhatsApp automation at ₹40,000 and an online store at ₹50,000. We work remotely, write in Marathi, Urdu, Hindi or English, and give you full ownership plus five months of free maintenance.",
+    "A business website in Malegaon costs from ₹10,000 with us and is usually live within one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp automation at ₹40,000 and an online store at ₹50,000. We work remotely, write in Marathi, Urdu, Hindi or English, and give you full ownership plus five months of free maintenance.",
   snapshot: [
     { label: "Main industry", value: "Powerloom weaving of cotton and synthetic grey cloth, sarees and processed fabric, largely in small decentralised units" },
     { label: "City character", value: "Nashik district's second-largest city, on the Girna river, with the Mosam river dividing the old city from Malegaon Camp" },
@@ -73,12 +73,12 @@ const malegaon: CityContent = {
       heading: "What a website costs for a Malegaon business",
       paragraphs: [
         "Website prices around Malegaon are usually quoted verbally, and the same five-page site can be offered for ₹2,500 or ₹30,000 depending on who you ask. The low end often means a builder account in the developer's name, no domain in yours and no one to call later. The high end sometimes pays for sales staff you never meet. Our rates are published so you can compare like with like.",
-        "A basic business site of up to 100 pages starts at <strong>₹10,000</strong> and takes one to two weeks. A 700+ page site with separate pages for each fabric quality, service or area you cover starts at <strong>₹20,000</strong> and takes three to five weeks. WhatsApp and AI automation projects begin at ₹40,000, an online store with UPI checkout at ₹50,000, and custom software such as a production and ledger system at ₹60,000. Monthly SEO starts at ₹10,000. Full details are on our <a href=\"/pricing/\">pricing page</a>.",
+        "A basic business site of up to 100 pages starts at <strong>₹10,000</strong> and takes one to two weeks. A 299+ page site with separate pages for each fabric quality, service or area you cover starts at <strong>₹20,000</strong> and takes three to five weeks. WhatsApp and AI automation projects begin at ₹40,000, an online store with UPI checkout at ₹50,000, and custom software such as a production and ledger system at ₹60,000. Monthly SEO starts at ₹10,000. Full details are on our <a href=\"/pricing/\">pricing page</a>.",
         "What moves the price is mostly content and features: how many products or pages, whether you need Urdu alongside Marathi, and whether payments or logins are involved. We send an itemised quote in about two working days. You see every line before you agree, and we bill nothing until you approve it in writing.",
       ],
       list: [
         "<strong>Starter site, from ₹10,000:</strong> clinics, coaching classes, shops and small loom units.",
-        "<strong>Catalogue and SEO site, from ₹20,000:</strong> 700+ pages for weavers, traders and schools.",
+        "<strong>Catalogue and SEO site, from ₹20,000:</strong> 299+ pages for weavers, traders and schools.",
         "<strong>Online store, from ₹50,000:</strong> sarees, dress material and household goods with UPI checkout.",
         "<strong>Custom software, from ₹60,000:</strong> loom tracking, party ledgers and dealer portals.",
       ],
@@ -159,7 +159,7 @@ const malegaon: CityContent = {
       paragraphs: [
         "Textiles are not the only thing Malegaon makes. The city also has plastic goods manufacturers and meat processing and export units, along with small workshops supplying the loom trade. Businesses like these deal with buyers who expect documentation: product specifications, certifications, packing details and a company profile they can forward to their own management.",
         "For manufacturers, we build capability websites that present your products, facilities, quality processes and the certifications you genuinely hold, without claims you cannot back up. A downloadable company profile and a structured enquiry form help purchase teams take you seriously. For exporters, English pages come first, and we make sure the site loads quickly for overseas visitors as well as local ones.",
-        "These projects often start as a 700+ page site from ₹20,000 or a little more, and grow into a dealer or distributor portal later if you need one. We plan the structure so new product lines can be added without rebuilding anything, and we set up Search Console from day one so you can see which products buyers are actually looking for.",
+        "These projects often start as a 299+ page site from ₹20,000 or a little more, and grow into a dealer or distributor portal later if you need one. We plan the structure so new product lines can be added without rebuilding anything, and we set up Search Console from day one so you can see which products buyers are actually looking for.",
       ],
     },
     {
@@ -209,12 +209,12 @@ const malegaon: CityContent = {
     {
       question: "How much does a website cost in Malegaon?",
       answer:
-        "With us, a basic business website starts at ₹10,000 and a 700+ page SEO or catalogue site at ₹20,000. Online stores start at ₹50,000 and custom software such as loom tracking at ₹60,000. Before comparing quotes, check who owns the domain, whether SEO basics are included and what support you get after launch.",
+        "With us, a basic business website starts at ₹10,000 and a 299+ page SEO or catalogue site at ₹20,000. Online stores start at ₹50,000 and custom software such as loom tracking at ₹60,000. Before comparing quotes, check who owns the domain, whether SEO basics are included and what support you get after launch.",
     },
     {
       question: "Malegaon mein powerloom business ki website banwani hai, kitna kharcha aayega?",
       answer:
-        "Chhoti business website ₹10,000 se shuru hoti hai aur ek-do hafte mein ready ho jaati hai. Kapde ki qualities ke alag pages wali 700+ page ki website ₹20,000 se shuru hai. WhatsApp par order record karne ka system ₹40,000 se banta hai. Kaam shuru hone se pehle aapko likhit itemised quote milta hai.",
+        "Chhoti business website ₹10,000 se shuru hoti hai aur ek-do hafte mein ready ho jaati hai. Kapde ki qualities ke alag pages wali 299+ page ki website ₹20,000 se shuru hai. WhatsApp par order record karne ka system ₹40,000 se banta hai. Kaam shuru hone se pehle aapko likhit itemised quote milta hai.",
     },
     {
       question: "Do you have an office in Malegaon?",

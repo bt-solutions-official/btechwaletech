@@ -72,7 +72,7 @@ const tonk: CityContent = {
       heading: "Website prices in Tonk: our starting rates and what changes them",
       paragraphs: [
         "Quotes in Tonk range from a few thousand rupees for a template page to large figures from Jaipur agencies. The cheap option often means hosting in someone else's name and no search setup at all. The expensive one may include account managers and office overheads that a small firm does not need.",
-        "Our rates are listed on the <a href=\"/pricing/\">pricing page</a> and all are starting prices. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site, with a separate page for each product, service or nearby town, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom software at ₹60,000, AI and WhatsApp automation at ₹40,000, and ongoing SEO from ₹10,000 a month.",
+        "Our rates are listed on the <a href=\"/pricing/\">pricing page</a> and all are starting prices. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site, with a separate page for each product, service or nearby town, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom software at ₹60,000, AI and WhatsApp automation at ₹40,000, and ongoing SEO from ₹10,000 a month.",
         "The final number depends on how much there is to build and how ready your content is. We send an itemised quote in about two working days, and you approve it in writing before anything is billed.",
       ],
       list: [
@@ -210,12 +210,12 @@ const tonk: CityContent = {
     {
       question: "How much does a website cost in Tonk?",
       answer:
-        "With us, a static site starts at ₹10,000, a 700+ page SEO site from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. The final figure depends on pages, features and content. Compare any quote carefully: check whether hosting is in your name and whether SEO basics and after-launch support are included.",
+        "With us, a static site starts at ₹10,000, a 299+ page SEO site from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. The final figure depends on pages, features and content. Compare any quote carefully: check whether hosting is in your name and whether SEO basics and after-launch support are included.",
     },
     {
       question: "Tonk me website banwane ka kharcha kitna hai?",
       answer:
-        "Humare saath simple business website ₹10,000 se shuru hoti hai aur 1–2 hafte mein ready ho jati hai. 700+ page wali SEO website ₹20,000 se aur online store ₹50,000 se shuru hota hai. Kaam shuru karne se pehle aapko likhit itemised quote milega, aur aapki manzoori ke bina koi bill nahi banega.",
+        "Humare saath simple business website ₹10,000 se shuru hoti hai aur 1–2 hafte mein ready ho jati hai. 299+ page wali SEO website ₹20,000 se aur online store ₹50,000 se shuru hota hai. Kaam shuru karne se pehle aapko likhit itemised quote milega, aur aapki manzoori ke bina koi bill nahi banega.",
     },
     {
       question: "Do you have an office in Tonk?",
@@ -245,7 +245,7 @@ const tonk: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve. The most common delay is waiting for photos and product details, so we prepare draft text for you to correct.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve. The most common delay is waiting for photos and product details, so we prepare draft text for you to correct.",
     },
     {
       question: "What can WhatsApp automation do for a Tonk business?",

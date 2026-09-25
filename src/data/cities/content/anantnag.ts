@@ -34,7 +34,7 @@ const anantnag: CityContent = {
     pills: ["Websites from ₹10,000", "Hotel and yatra bookings", "Apple and walnut stores", "Urdu, English and Kashmiri-aware SEO", "Code in your name"],
   },
   quickAnswer:
-    "Anantnag businesses can get a website from ₹10,000 in one to two weeks. A 700+ page SEO site starts at ₹20,000, WhatsApp and AI booking automation at ₹40,000 and an online store for apples, walnuts, bats or crafts at ₹50,000. We are a remote team with no Kashmir office, and you keep the domain, hosting and code.",
+    "Anantnag businesses can get a website from ₹10,000 in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp and AI booking automation at ₹40,000 and an online store for apples, walnuts, bats or crafts at ₹50,000. We are a remote team with no Kashmir office, and you keep the domain, hosting and code.",
   snapshot: [
     { label: "Status", value: "District headquarters and third-largest urban area in Jammu and Kashmir, about 53 km from Srinagar on NH 44" },
     { label: "Population", value: "About 1.6 lakh in the urban agglomeration and 10.8 lakh in the district (Census 2011)" },
@@ -144,7 +144,7 @@ const anantnag: CityContent = {
       ],
       list: [
         "<strong>Static website up to 100 pages:</strong> from ₹10,000, one to two weeks.",
-        "<strong>SEO website of 700+ pages:</strong> starts at ₹20,000, three to five weeks.",
+        "<strong>SEO website of 299+ pages:</strong> starts at ₹20,000, three to five weeks.",
         "<strong>WhatsApp and AI automation:</strong> from ₹40,000, two to four weeks.",
         "<strong>Online store with UPI checkout:</strong> starts at ₹50,000, four to eight weeks.",
         "<strong>Custom software or web app:</strong> from ₹60,000, six to twelve weeks.",
@@ -224,7 +224,7 @@ const anantnag: CityContent = {
     {
       question: "How much does a website cost in Anantnag?",
       answer:
-        "A small website starts at ₹10,000 and takes one to two weeks. An SEO website with 700+ pages starts at ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We send an itemised written quote in about two working days and bill nothing until you approve it.",
+        "A small website starts at ₹10,000 and takes one to two weeks. An SEO website with 299+ pages starts at ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We send an itemised written quote in about two working days and bill nothing until you approve it.",
     },
     {
       question: "Anantnag mein apni dukaan ki website banwani hai, kitna kharcha aayega?",
@@ -284,7 +284,7 @@ const anantnag: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A small website takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. For seasonal businesses, starting two months before the season gives time for testing and indexing.",
+        "A small website takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. For seasonal businesses, starting two months before the season gives time for testing and indexing.",
     },
     {
       question: "Can you guarantee a first-page ranking on Google?",

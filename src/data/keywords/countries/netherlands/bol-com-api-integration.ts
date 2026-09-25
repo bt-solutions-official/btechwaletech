@@ -1,0 +1,463 @@
+import { usd } from "@data/countries/international";
+import type { FreelanceContent } from "@data/freelance/types";
+
+const P = {
+  site: usd("Static"), seoSite: usd("SEO website"), shop: usd("Ecommerce"), app: usd("Android"),
+  software: usd("Custom web app"), ai: usd("AI automation"), seo: usd("Monthly SEO"), care: usd("Maintenance"),
+};
+
+const content: FreelanceContent = {
+  path: "/netherlands/bol-com-api-integration/",
+  crumb: "bol.com API integration",
+  updated: "2026-09-25",
+  meta: {
+    title: `bol.com API Integration: Stock and Orders from ${P.ai}`,
+    description: `bol.com API integration for Dutch sellers: offers, stock and orders synced with Shopify, WooCommerce or your own system, LVB or own fulfilment. From ${P.ai}.`,
+    keywords: [
+      "bol.com api integration", "bol.com api koppeling", "bol retailer api integration", "bol.com koppeling laten maken",
+      "bol.com shopify koppeling", "bol.com woocommerce koppeling", "bol.com stock sync", "bol.com order sync",
+      "bol.com voorraad synchroniseren", "logistiek via bol api", "lvb vs eigen verzending", "bol.com retailer api developer",
+      "bol.com api v11 migration", "bol.com returns api", "bol.com cancellations api", "channable vs custom bol integration",
+      "prevent overselling bol.com", "how much does a bol.com integration cost", "bol.com erp koppeling", "bol.com exact online koppeling",
+      "bol.com seller amsterdam", "bol.com seller rotterdam", "bol.com seller utrecht", "bol.com seller eindhoven",
+      "sell on bol.com from own webshop", "bol.com api developer india",
+    ],
+  },
+  hero: {
+    eyebrow: "Marketplace sync for Dutch and Belgian sellers",
+    h1: "bol.com API integration that keeps stock, orders and returns in step with your shop",
+    lede: `A bol.com API integration connects your Shopify store, WooCommerce shop or own system to bol's Retailer API, so offers, stock, orders, shipments and returns update without anyone copying them by hand. BtechWaleTech is three freelance developers in India building these for sellers in the Netherlands: stock kept honest across channels, LVB and own fulfilment handled side by side, and orders passed on to <a href='/netherlands/exact-online-integration/'>Exact Online</a> or your warehouse. Focused syncs start from ${P.ai}; larger builds from ${P.software}.`,
+    pills: ["Offers by EAN", "One stock across channels", "Orders every few minutes", "Shipments with track and trace", "LVB and own fulfilment", "Returns and cancellations", "Retailer API upgrades"],
+    origin: "Small freelance team in India · replies on WhatsApp 7 days a week · your seller account, your code",
+  },
+  facts: [
+    ["Focused stock and order sync from", `${P.ai}, 2–4 weeks`],
+    ["Full custom integration from", `${P.software}, 6–12 weeks`],
+    ["Connects bol.com with", "Shopify, WooCommerce, ERPs, own systems"],
+    ["Fulfilment", "Own fulfilment, LVB, or both per offer"],
+    ["Testing", "bol's demo environment before live orders"],
+    ["After launch", `5 months free care, then from ${P.care}`],
+  ],
+  stats: [
+    { value: "3", label: "Developers who share the integration code" },
+    { value: "0", label: "Percentage we take on your bol.com sales" },
+    { value: "5", label: "Free maintenance months after go-live" },
+    { value: "2", label: "Working days to an itemised quote" },
+  ],
+  answer: {
+    heading: "How do you connect Shopify, WooCommerce or your own system to bol.com?",
+    text: `A bol.com API integration uses bol's Retailer API to publish offers by EAN, push stock, fetch orders every few minutes, confirm shipments with track and trace, and handle cancellations and returns. Use a feed tool for simple catalogues; build a custom integration when stock, fulfilment or ERP rules are specific. BtechWaleTech builds start from ${P.ai}, with larger integrations from ${P.software}.`,
+    more: `Booking marketplace sales in your accounts? See <a href='/netherlands/exact-online-integration/'>Exact Online integration</a>. Running a trade shop too? Read <a href='/netherlands/b2b-webshop-development/'>B2B webshop development</a>.`,
+  },
+  snapshot: {
+    caption: "bol.com integration work in brief",
+    rows: [
+      { label: "Typical seller", value: "Dutch or Belgian webshop that also sells on bol.com and is tired of overselling" },
+      { label: "Master system", value: "Shopify, WooCommerce, an ERP or your own software" },
+      { label: "Focused sync", value: `Stock and orders with alerts, from ${P.ai}` },
+      { label: "Full integration", value: `Offers, prices, shipments, returns, LVB and reporting, from ${P.software}` },
+      { label: "API style", value: "OAuth2 via bol's login service; many calls asynchronous with a process status" },
+      { label: "Testing", value: "bol's demo environment, then a small set of live offers" },
+      { label: "Ownership", value: "API credentials created in your seller account; code in your repository" },
+    ],
+  },
+  services: {
+    eyebrow: "What we connect",
+    heading: "bol.com API integration services for Dutch sellers",
+    note: "Most sellers start with stock and orders, because that is where overselling and manual work hurt most.",
+    cards: [
+      { name: "Stock and order sync", note: `One stock figure shared by your shop and bol.com, orders fetched every few minutes and created in your shop or ERP, with alerts on failure, from ${P.ai}.`, size: "lg" },
+      { name: "Full marketplace integration", note: `Offers, prices and bundle prices, shipments with track and trace, cancellations, returns and a dashboard of every sync, from ${P.software}.`, href: "/netherlands/custom-software-development/", size: "lg" },
+      { name: "Shopify to bol.com", note: "Shopify stays the master for products and stock; bol.com offers follow it, and bol orders appear in Shopify for picking.", href: "/netherlands/shopify-developer/", size: "md" },
+      { name: "WooCommerce to bol.com", note: "The same pattern for WooCommerce shops, without adding heavy plugins to WordPress: the sync runs as a separate service.", href: "/netherlands/woocommerce-developer/", size: "md" },
+      { name: "ERP and accounting link", note: "bol.com orders, commissions and payouts booked in Exact Online or another package as your bookkeeper agrees.", href: "/netherlands/exact-online-integration/", size: "md" },
+      { name: "LVB stock planning", note: "A view of stock at bol's warehouse versus your own, so you know when to send new LVB shipments.", size: "sm" },
+      { name: "API version upgrades", note: "Existing integrations moved to newer Retailer API versions before older endpoints are switched off.", size: "sm" },
+      { name: "Care plan", note: `Monitoring, API change follow-up and fixes; five months free, then from ${P.care}.`, size: "sm" },
+    ],
+  },
+  comparison: {
+    heading: "Manual work, a feed tool or a custom bol.com integration?",
+    note: "Each suits a different stage. Many sellers move from left to right as their catalogue and volume grow.",
+    columns: ["Point", "Manual work in the seller dashboard", "Feed-management tool", "Custom integration by BtechWaleTech"],
+    rows: [
+      ["Good for", "A handful of offers", "Many products, standard rules", "Specific stock, fulfilment or ERP logic"],
+      ["Stock updates", "By hand", "On the tool's schedule", "Event-driven, within bol's rate limits"],
+      ["Orders into your systems", "Retyped or exported", "Depends on the tool's connectors", "Created directly in shop, ERP or warehouse"],
+      ["LVB and own fulfilment mixed", "Managed by hand", "Depends on the tool", "Handled per offer with separate stock logic"],
+      ["Error handling", "You notice when customers complain", "Tool's error reports", "Alerts plus a daily check of stock and orders"],
+      ["Cost pattern", "Staff time", "Subscription per the tool's terms", `Build from ${P.ai}, care from ${P.care}`],
+      ["Multichannel beyond bol.com", "No", "Usually a strength", "Possible, built per channel"],
+      ["Who can change it", "You", "Within tool settings", "Any developer with your repository"],
+    ],
+    fine: "If you sell on many marketplaces with standard rules, a feed-management tool may well be the better investment; a custom build is worth it when bol.com is a major channel and your logic is specific.",
+  },
+  pricing: {
+    heading: "What a bol.com API integration costs with us",
+    note: `All figures are starting prices in USD, itemised in a written quote. A focused integration that shares stock between your shop and bol.com and brings bol orders into your shop or ERP, with logging and alerts, starts from ${P.ai}. A full integration adding offer creation, price and bundle-price management, shipments with track and trace, cancellations, returns, LVB handling and a dashboard starts from ${P.software}. Upgrading or repairing an existing integration is quoted after a code review. Your bol.com seller fees, hosting for the integration service and any other tool subscriptions are paid by you directly. Five months of free care follow launch; care plans then start from ${P.care}.`,
+  },
+  guideLabel: "bol.com integration guide",
+  guide: [
+    {
+      id: "what",
+      heading: "What is a bol.com API integration, and what does the Retailer API cover?",
+      paragraphs: [
+        `A bol.com API integration is software that talks to bol's Retailer API on your behalf, so your seller account stays in sync with the system where you actually manage products and stock. Instead of editing offers in the seller dashboard and retyping orders, the integration does both automatically.`,
+        `According to bol's own getting-started documentation, the Retailer API lets you manage products, offers, orders and shipments, retrieve and confirm cancellations, handle returns, view invoices and print shipping labels. Integrators authenticate with OAuth2 against bol's login service, using credentials you create inside your seller account. bol also provides a demo environment with example responses for every endpoint, which is where development and testing start.`,
+        `One design point shapes everything: bol's documentation states that most calls are asynchronous. When you create an offer or confirm a shipment, bol accepts the request and returns a process status that you check afterwards. A reliable integration always follows up on that status instead of assuming success.`,
+      ],
+      list: [
+        "<strong>Offers:</strong> what you sell on bol.com, identified by EAN, with price, stock, condition and delivery promise.",
+        "<strong>Orders:</strong> what customers bought, fetched by your integration.",
+        "<strong>Shipments:</strong> your confirmation that items left, with track and trace.",
+        "<strong>Cancellations and returns:</strong> customer requests your system must process.",
+      ],
+      after: [
+        `For the official reference, see <a href='https://api.bol.com/retailer/public/Retailer-API/index.html' rel='noopener'>bol's Retailer API documentation</a>.`,
+      ],
+    },
+    {
+      id: "need",
+      heading: "Do you actually need a bol.com API integration?",
+      paragraphs: [
+        `Not if you sell a few dozen products and process a handful of orders a day; the seller dashboard is fine. You need a bol.com API integration once stock must be shared with another channel, order volume makes retyping error-prone, or overselling starts costing you cancellations.`,
+        `Overselling is usually the trigger. A product sells out in your webshop, but bol.com still shows it available because nobody updated the stock in time. The customer orders, you cancel, and your seller performance suffers. An integration that pushes one stock figure to both channels removes that problem at its root.`,
+        `The second trigger is time. Copying orders into a shop admin or ERP, typing track-and-trace codes back into bol.com, and checking return requests every morning adds up. When that routine takes someone an hour or more a day, the build usually pays back quickly in staff time alone.`,
+      ],
+      subs: [
+        { heading: "Stay manual", text: "Small catalogue, low volume, stock not shared with another channel." },
+        { heading: "Use a feed tool", text: "Large catalogue, several marketplaces, standard stock and order rules." },
+        { heading: "Build custom", text: "bol.com is a major channel, and your stock, fulfilment or ERP rules are specific." },
+      ],
+    },
+    {
+      id: "offers",
+      heading: "How are bol.com offers created and updated through the API?",
+      paragraphs: [
+        `In a bol.com API integration, offers are created per EAN, with your price, stock, condition, delivery code and fulfilment method. bol's offer documentation notes that creating a new offer is asynchronous: the request is queued, you receive a process status ID, and when processing finishes you get the new offer's ID. The integration stores that ID next to your product for all later updates.`,
+        `Prices can be simple or tiered: bol's offer model supports bundle prices with up to four quantity-and-price tiers. Stock and price updates go to separate endpoints, which is handy, because stock changes often and price changes rarely. The API also offers an export of all your offers as a CSV file, which a good integration uses for a periodic cross-check against your own catalogue.`,
+        `Product content is a separate matter. bol builds its catalogue from product data per EAN, and whether your content becomes the visible listing depends on bol's rules. Our integration focuses on your offers; if you supply new product content, we can connect that flow too, but the listing decisions stay with bol.`,
+      ],
+      list: [
+        "Map each product in your shop to its EAN; flag products without one.",
+        "Create offers in batches, then check each process status.",
+        "Store bol's offer ID with your product for later updates.",
+        "Send price changes and stock changes separately.",
+        "Compare a weekly offer export against your catalogue for drift.",
+      ],
+    },
+    {
+      id: "stock",
+      heading: "How does a bol.com API integration prevent overselling?",
+      paragraphs: [
+        `A bol.com API integration prevents overselling by treating one system as the stock master and pushing its figure to bol.com every time it changes, minus a safety buffer if you want one. Orders from bol.com reduce stock in the master first, which then updates your webshop and bol.com alike.`,
+        `Timing is the subtle part. Between a sale in your webshop and bol.com receiving the new figure, there is a window where both channels show the old stock. Event-driven updates keep that window to seconds or minutes rather than the hour a scheduled feed might take. For products with very low stock, a buffer of one or two units on bol.com trades a little availability for far fewer cancellations.`,
+        `bol's offer data includes a corrected stock value that accounts for open and handled orders, and a setting (managedByRetailer) that decides whether bol counts down for open orders or leaves that to you. Choosing the right mode prevents a double countdown, where both bol.com and your system subtract the same order. We set it deliberately, based on which side your master stock already accounts for.`,
+      ],
+      list: [
+        "One master stock per product, usually your shop or ERP.",
+        "Push on every change, not only on a timer.",
+        "Optional buffer for low-stock or high-demand items.",
+        "Deliberate choice of how bol counts open orders.",
+        "Daily comparison of master stock versus bol.com stock.",
+      ],
+    },
+    {
+      id: "orders",
+      heading: "How often should a bol.com integration fetch new orders?",
+      paragraphs: [
+        `bol's best-practice guide for the order process recommends polling the order list every 5 to 15 minutes, and offers a parameter that returns only orders changed since your last check. That rhythm keeps orders flowing to your warehouse quickly without wasting API budget.`,
+        `Each new order is created in your master system with bol's order ID, customer delivery details and the promised delivery date, so pickers treat it like any other order. The integration marks the order as ‘from bol.com’ so shipping, invoicing and reporting can tell channels apart.`,
+        `Keep your own copy of everything. bol's guide says shipped and cancelled items stay in the order list for 48 hours and in detailed endpoints for three months, and warns not to rely on the API as a permanent archive. Your integration should therefore store order data in your own database or ERP from the first fetch, which your bookkeeping will need anyway.`,
+      ],
+      after: [
+        `If Exact Online is where orders end up, the <a href='/netherlands/exact-online-integration/'>Exact integration guide</a> explains how bookings, fees and payouts are mapped.`,
+      ],
+    },
+    {
+      id: "shipments",
+      heading: "Shipment confirmation and track and trace: what must the integration send back?",
+      paragraphs: [
+        `For orders you ship yourself, your bol.com API integration must confirm each shipment to bol.com, ideally with the carrier and track-and-trace code in the same request. That confirmation is what tells bol the order is on its way.`,
+        `bol's order best-practice guide is blunt about the stakes: if bol does not receive a successful shipment confirmation, the order will expire and be cancelled, and you will not receive payment. Because the shipment call is asynchronous, the integration must check the process status and retry or alert when it fails, rather than assume the confirmation landed.`,
+        `Track-and-trace can be added later on the same day if your label is created after the shipment is confirmed, but sending it upfront gives customers better information. From Retailer API version 10, bol also supports splitting one order item over several shipments, useful when a customer orders several units that leave your warehouse in separate parcels.`,
+      ],
+      list: [
+        "Warehouse marks the order shipped in your master system.",
+        "Integration sends the shipment with carrier and track-and-trace code.",
+        "Process status checked until success; failures alert a named person.",
+        "Customer receives bol's shipping notification with tracking.",
+      ],
+    },
+    {
+      id: "lvb",
+      heading: "Logistiek via bol (LVB) or own fulfilment: how does the integration differ?",
+      paragraphs: [
+        `With LVB, which the API calls fulfilment by bol, a bol.com API integration has less to do on shipping: bol stores your stock and ships orders itself; with own fulfilment, you pick, pack and confirm shipments. The integration handles both, often in the same account, but the stock logic is different for each.`,
+        `For LVB offers, bol's order guide notes that orders are picked up by bol as soon as possible, sometimes even before your system polls. Your integration fetches those orders for bookkeeping and reporting, but does not ship them or reduce your own warehouse stock. What it can do is show LVB stock at bol next to your own stock, so you know when to send new inventory.`,
+        `For own-fulfilment offers, the full cycle applies: stock sync, order fetch, shipment confirmation and track-and-trace. Many sellers mix the two: fast movers in LVB, bulky or slow items shipped from their own warehouse. The integration keeps a fulfilment flag per offer so each order follows the right path.`,
+      ],
+      subs: [
+        { heading: "LVB suits", text: "Fast-moving, compact products where bol's delivery speed and handling outweigh storage and fulfilment charges." },
+        { heading: "Own fulfilment suits", text: "Bulky, fragile or slow-moving items, or when stock must stay shared with your webshop." },
+      ],
+      after: [
+        `Which is cheaper for your products depends on bol's current fee terms and your own logistics costs; that comparison is your call, and we build either way. For warehouse software beyond bol.com, see <a href='/netherlands/logistics-software-development/'>logistics software development</a>.`,
+      ],
+    },
+    {
+      id: "cancellations-returns",
+      heading: "Handling cancellations and returns without overselling or double refunds",
+      paragraphs: [
+        `In a bol.com API integration, cancellation requests and return registrations come through the API, and your integration must pick them up, act in your master system, and confirm back to bol.com. Ignoring them leads, in bol's words, to unhappy customers and unnecessary shipments and returns.`,
+        `Cancellations are time-critical. When a customer asks to cancel before you ship, the integration should flag the order in your warehouse immediately so it is not packed, then confirm the cancellation to bol. If the parcel has already left, it should say so instead of confirming. Either way, stock must be corrected: a cancelled unfulfilled order returns its unit to available stock.`,
+        `Returns follow a different path. A return registered on bol.com appears in your integration; when the parcel arrives, your team inspects it and records the outcome, which is then handled with bol. Only returns accepted back into saleable condition should go back into stock. Refund handling for bol orders happens through bol, so your own shop must not refund the same order a second time.`,
+      ],
+      list: [
+        "Cancellation requests checked on every order poll.",
+        "Warehouse flag before picking; confirmation back to bol.com.",
+        "Stock restored only for unshipped or saleable returned units.",
+        "Return outcomes recorded in your system and reported to bol.",
+      ],
+    },
+    {
+      id: "feed-tools",
+      heading: "Feed tools like Channable or a custom bol.com API integration?",
+      paragraphs: [
+        `Feed-management tools such as Channable connect a product feed to many marketplaces and advertising channels through settings rather than code. They are a strong choice when you sell on several channels with fairly standard rules. A custom bol.com API integration makes more sense when bol.com is a main channel and your stock, fulfilment or ERP logic does not fit a tool's options.`,
+        `Questions to ask yourself: Do you need orders created directly in your ERP with specific fields? Do you mix LVB and own fulfilment with shared stock? Do you need event-driven stock updates rather than scheduled ones? Do you want full control over error alerts? If most answers are yes, custom wins. If you mainly want your catalogue on many channels quickly, a tool wins.`,
+        `There is no shame in starting with a tool and moving to a custom integration later, or combining them: a tool for listings on other marketplaces, a custom integration for bol.com stock and orders. We will recommend the tool if it fits your case better.`,
+      ],
+      after: [
+        `The comparison table below the guide sets out the trade-offs row by row.`,
+      ],
+    },
+    {
+      id: "shopify-woo",
+      heading: "bol.com API integration for Shopify and WooCommerce stores",
+      paragraphs: [
+        `When your webshop is the master, the bol.com API integration listens to your shop's product, stock and order events and translates them into bol.com calls, and brings bol orders back into the shop. Your team keeps working in the familiar admin; bol.com follows.`,
+        `For Shopify, we run the integration as a separate service using the Shopify Admin API and webhooks, so it adds nothing to your theme and survives theme changes. bol orders appear in Shopify with a channel tag, enter your usual fulfilment workflow, and send the shipment confirmation to bol.com when you mark them fulfilled.`,
+        `For WooCommerce, the same service uses WooCommerce's REST API and webhooks. Running it outside WordPress keeps your shop fast and avoids yet another heavy plugin. Stock reservations are handled carefully, because WooCommerce reduces stock at different moments depending on payment method and settings.`,
+      ],
+      after: [
+        `Rebuilding the shop itself? See our <a href='/netherlands/shopify-developer/'>Shopify developer</a> and <a href='/netherlands/woocommerce-developer/'>WooCommerce developer</a> pages for Dutch merchants.`,
+      ],
+    },
+    {
+      id: "own-system",
+      heading: "Connecting bol.com to an ERP or your own software",
+      paragraphs: [
+        `If stock and orders live in an ERP, warehouse system or software you built, the integration should connect bol.com to that system directly instead of going through a webshop. This is where a custom bol.com API integration is most clearly the right choice.`,
+        `The design is the same as for shops, with a small service between bol.com and your system handling authentication, rate limits, retries and logs. What changes is the mapping: warehouse locations, article codes, customer records for marketplace buyers, and how commissions and payouts are booked. We agree these with your operations and finance people before building.`,
+        `For accounting packages, marketplace sales often go to a separate sales journal with bol's commission and fees booked as costs. That is a bookkeeping decision; we implement the mapping your bookkeeper approves.`,
+      ],
+      after: [
+        `Wholesalers selling to businesses as well as on bol.com may also want a <a href='/netherlands/b2b-webshop-development/'>B2B webshop</a> reading from the same stock.`,
+      ],
+    },
+    {
+      id: "limits",
+      heading: "Rate limits and asynchronous calls: building a reliable bol.com integration",
+      paragraphs: [
+        `bol applies rate limits and returns HTTP 429 when your budget runs out; every response carries headers saying how much budget remains and when it refills. A reliable bol.com API integration reads those headers and paces itself, rather than retrying blindly.`,
+        `bol's rate-limit documentation says the API is optimised for a steady flow of updates over time rather than large batches every hour. That fits event-driven design: send each stock change as it happens, queue requests, and slow down when headers say the budget is low. It also says header names may vary in capitalisation, so the integration should read them case-insensitively.`,
+        `Asynchronous calls add a second loop. For every create, update or shipment, the integration stores the process status ID and checks it until the process succeeds or fails. Failures go to an error list with bol's message, and the relevant person gets an alert. Nothing is marked done until bol confirms it.`,
+      ],
+      list: [
+        "Queue all outgoing calls; never fire them in uncontrolled bursts.",
+        "Read remaining budget from response headers on every call.",
+        "Back off on 429 until the refill time the headers indicate.",
+        "Track every process status to success or failure.",
+      ],
+    },
+    {
+      id: "versions",
+      heading: "Retailer API versions: why integrations need planned upgrades",
+      paragraphs: [
+        `Every bol.com API integration needs occasional upgrades, because bol releases new Retailer API versions and retires old ones on announced dates. At the time of writing, bol's offer documentation marks the v10 offers endpoints as deprecated, recommends v11, and gives 1 February 2027 as the sunset date for v10.`,
+        `An integration built against a retiring version will stop working on that date unless it is upgraded. We read bol's release notes as part of the care plan, estimate the work, and schedule the upgrade well before the deadline. New integrations are built against the current recommended version from the start.`,
+        `Keeping the bol-specific code in one small service makes upgrades cheaper: only that service changes, while your shop or ERP stays untouched.`,
+      ],
+      after: [
+        `If you run an older integration built by someone else, send us its repository; we will check which versions it calls and what an upgrade involves.`,
+      ],
+    },
+    {
+      id: "cost",
+      heading: "How much does a bol.com API integration cost?",
+      paragraphs: [
+        `With BtechWaleTech, a focused bol.com API integration for stock and orders starts from ${P.ai}; a full integration covering offers, prices, shipments, cancellations, returns, LVB and reporting starts from ${P.software}. Care after the five free months starts from ${P.care}. All are starting prices with an itemised written quote.`,
+        `What moves the price: the number of products and how clean their EANs are, whether the master is a shop, ERP or custom system, whether you mix LVB and own fulfilment, how returns are processed, and whether accounting bookings are part of scope. Upgrading or fixing an existing integration depends on the state of its code, so we quote that after a review.`,
+        `Running costs are separate: bol's own seller fees, hosting for the integration service and any tool subscriptions you keep. Quotes from others vary widely; compare them on the same list of flows, on how asynchronous calls and rate limits are handled, and on what happens when a sync fails.`,
+      ],
+      after: [
+        `For wider ecommerce budgets in the Netherlands, see <a href='/netherlands/webshop-cost/'>webshop cost</a>; all our starting prices are on the <a href='/pricing/'>pricing page</a>.`,
+      ],
+    },
+    {
+      id: "timeline",
+      heading: "How long does a bol.com API integration take?",
+      paragraphs: [
+        `A bol.com API integration focused on stock and orders usually takes two to four weeks, and a full integration six to twelve weeks, from written approval. Development happens against bol's demo environment first, then a controlled switch to live data.`,
+        `The work starts with a product audit: which products have valid EANs, which are already offered on bol.com, and which system is the stock master. Then the integration is built and tested against the demo environment, which bol describes as having the same models and validation as production. After that we connect your live seller account for a small set of offers, watch orders and shipments for a few days, and only then switch on the whole catalogue.`,
+      ],
+      list: [
+        "Week 1: product and EAN audit, master system decision, credentials created by you.",
+        "Weeks 1–3: build and test against bol's demo environment.",
+        "Following week: live pilot on a small set of offers.",
+        "Then: full catalogue, daily checks, handover documentation.",
+      ],
+    },
+    {
+      id: "working-with-us",
+      heading: "What does working with a bol.com integration team in India look like?",
+      paragraphs: [
+        `Straightforward: you create the API credentials in your bol.com seller account and share access securely, we build and test, and we talk on WhatsApp and short calls. India is three and a half hours ahead of Dutch summer time and four and a half in winter, which gives a shared working window from your late morning onward.`,
+        `You receive an itemised USD quote within about two working days. Nothing is billed before you approve it in writing, and payment goes in milestones by Wise, bank wire or PayPal, with invoices issued from India. We work in English; Dutch product or customer texts come from you.`,
+        `The integration service runs in a cloud account in your name, the code lives in your repository, and credentials can be rotated by you whenever you like. Our three-person setup means Ankur writes the integration, Santosh hosts and monitors it, and Vedansh plans the rollout and automations, so there is always someone who knows the code.`,
+      ],
+      after: [
+        `For more on how a remote offshore team fits alongside your staff, see <a href='/offshore-web-development-team/'>offshore web development team</a>.`,
+      ],
+    },
+    {
+      id: "example",
+      heading: "Worked example: a hypothetical homeware seller in Den Bosch",
+      paragraphs: [
+        `This scenario is illustrative, not a client case. Picture a homeware seller near Den Bosch with a WooCommerce shop and a growing bol.com account. Candles and small textiles sell fast; large mirrors and furniture sell slowly. Both channels draw on one warehouse, and staff update bol.com stock by hand twice a day. Twice a week something oversells.`,
+        `The plan: WooCommerce stays the stock master. A small integration service pushes every stock change to bol.com, with a one-unit buffer on items under five in stock. Fast movers move to LVB, so the integration tracks their bol warehouse stock separately and alerts when replenishment is due. Orders for own-fulfilment offers are fetched every ten minutes, appear in WooCommerce with a bol tag, and send shipment confirmations with track and trace once packed.`,
+        `Cancellations are checked on each poll and flagged in the picking list. Returns land in an inspection queue; only accepted items go back into stock. After a two-week pilot on twenty offers, the rest follow. A morning email compares stock on both sides and lists any failed calls. Hand updates stop, and overselling becomes a rare exception to investigate.`,
+      ],
+    },
+  ],
+  tables: [
+    {
+      id: "fulfilment",
+      eyebrow: "Fulfilment",
+      heading: "LVB versus own fulfilment in a bol.com API integration",
+      note: "Fee comparisons depend on bol's current terms and your own costs; check both before moving products.",
+      columns: ["Aspect", "Logistiek via bol (LVB)", "Own fulfilment"],
+      rows: [
+        ["Who ships", "bol, from its warehouse", "You, from your warehouse"],
+        ["Integration fetches orders for", "Bookkeeping and reporting", "Picking, shipping and bookkeeping"],
+        ["Shipment confirmation", "Handled by bol", "Sent by your integration with track and trace"],
+        ["Stock to watch", "Stock at bol, replenishment timing", "Shared stock with your webshop"],
+        ["Suits", "Fast-moving, compact items", "Bulky, fragile or slow items"],
+        ["Integration complexity", "Lower on shipping, extra on replenishment", "Full order-to-shipment cycle"],
+      ],
+    },
+    {
+      id: "events",
+      eyebrow: "Sync map",
+      heading: "What happens in a bol.com integration, event by event",
+      note: `Timings follow bol's published guidance where available; see the <a href='https://api.bol.com/retailer/public/Retailer-API/v10/functional/retailer-api/orders-best-practices.html' rel='noopener'>order process best practices</a>.`,
+      columns: ["Event", "Integration action", "Timing"],
+      rows: [
+        ["Stock changes in your master", "Stock update sent to bol.com", "Immediately, queued within rate limits"],
+        ["New product with EAN", "Offer created; process status checked", "On creation, confirmed asynchronously"],
+        ["Customer orders on bol.com", "Order fetched and created in your system", "Poll every 5–15 minutes"],
+        ["Parcel packed", "Shipment confirmed with track and trace", "Same day; process status checked"],
+        ["Cancellation request", "Order flagged in warehouse, confirmed to bol", "On next poll"],
+        ["Return registered", "Inspection task created; outcome handled", "On arrival of the parcel"],
+        ["Daily check", "Stock and order comparison report", "Every morning"],
+      ],
+      hideSm: [2],
+    },
+    {
+      id: "cost-scope",
+      eyebrow: "Budget",
+      heading: "bol.com API integration cost by scope",
+      note: `Starting prices in USD; the written quote lists each flow separately.`,
+      columns: ["Scope", "Typical seller", "Includes", "Starts from"],
+      rows: [
+        ["Stock and order sync", "Webshop also selling on bol.com", "Shared stock, order import, alerts", P.ai],
+        ["Stock, orders and shipments", "Own-fulfilment seller", "Plus shipment confirmation with track and trace", P.ai],
+        ["Full integration", "bol.com as a main channel", "Offers, prices, shipments, cancellations, returns, LVB, dashboard", P.software],
+        ["ERP-connected integration", "Seller on Exact Online or another ERP", "Orders, fees and payouts booked per your mapping", P.software],
+        ["Version upgrade or repair", "Existing integration on an older API", "Code review, upgrade, logging added", P.ai],
+        ["Care plan", "Any live integration", "Monitoring, API changes, fixes", P.care],
+      ],
+      hideSm: [2],
+    },
+  ],
+  areas: {
+    eyebrow: "Across the Netherlands",
+    heading: "Where Dutch bol.com sellers ask for integrations",
+    note: "We work remotely for sellers anywhere in the Netherlands. Notes describe typical seller profiles, not clients.",
+    cards: [
+      { name: "Amsterdam", note: "Direct-to-consumer brands selling through their own shop and bol.com need shared stock so launches and sales do not oversell on either channel." },
+      { name: "Rotterdam", note: "Importers with large catalogues and their own warehouses often combine own fulfilment with an ERP, making direct order creation valuable." },
+      { name: "Utrecht", note: "Online retailers in the centre of the country frequently mix LVB for fast movers with own shipping for larger items." },
+      { name: "Eindhoven", note: "Sellers of electronics accessories and technical products depend on accurate EAN mapping and fast stock updates for high-demand items." },
+      { name: "Den Bosch", note: "Homeware and lifestyle webshops selling on bol.com benefit from buffers on low-stock items and clear return inspection flows." },
+      { name: "Tilburg", note: "Distribution-focused businesses with warehouse systems want bol orders to land straight in picking lists without manual export." },
+      { name: "Breda", note: "Webshops serving both Dutch and Belgian customers need shipment confirmations and track and trace sent reliably to protect payouts." },
+      { name: "Venlo", note: "Logistics-heavy sellers near the German border often run their own warehouses and need event-driven stock sync with bol.com." },
+      { name: "Zwolle", note: "Regional retailers growing online use bol.com next to their own shop and want one stock figure across both." },
+      { name: "Groningen", note: "Smaller sellers expanding their catalogues start with a focused stock and order sync before adding returns and pricing features." },
+      { name: "Apeldoorn", note: "Garden, hobby and outdoor sellers with seasonal peaks need rate-limit-aware integrations that keep up on busy weekends." },
+      { name: "Nijmegen", note: "Book, toy and gift sellers with many EANs benefit from offer exports compared against their catalogue for drift." },
+      { name: "Haarlem", note: "Fashion and accessories webshops with frequent returns need return handling that restores stock only for saleable items." },
+      { name: "Amersfoort", note: "SMEs using Exact Online want bol.com orders, commissions and payouts booked automatically instead of by spreadsheet." },
+    ],
+  },
+  process: {
+    heading: "How a bol.com integration project runs",
+    steps: [
+      ["Audit call", "We review your products, EANs, stock master, fulfilment mix and current bol.com routine, and agree what the integration must solve first."],
+      ["Written quote", "An itemised USD quote in about two working days, listing each flow, the timeline and running costs you pay directly. Nothing billed before approval."],
+      ["Credentials and mapping", "You create API credentials in your seller account. We map products, warehouses and order fields, and agree buffers and alert contacts."],
+      ["Demo environment build", "Offers, stock, orders, shipments and cancellations are built and tested against bol's demo environment, including failure cases and retries."],
+      ["Live pilot", "A small set of offers runs live for a few days while we watch every call, process status and order, then the full catalogue follows."],
+      ["Monitoring and care", "Daily checks and alerts keep running. Five months of free care follow, including API version changes, then care plans from the maintenance price."],
+    ],
+  },
+  faqHeading: "bol.com API integration: questions sellers ask",
+  faqs: [
+    { question: "What is a bol.com API integration?", answer: "A bol.com API integration is software that connects your webshop, ERP or own system to bol's Retailer API. It creates and updates offers, shares stock, fetches orders, confirms shipments with track and trace, and handles cancellations and returns automatically, so nobody has to copy data between the seller dashboard and your other systems." },
+    { question: "How much does a bol.com API integration cost?", answer: `With BtechWaleTech, a focused stock and order sync starts from ${P.ai}, and a full integration with offers, shipments, returns, LVB and reporting starts from ${P.software}. Care after five free months starts from ${P.care}. bol's seller fees and hosting are paid by you directly. You get an itemised written quote in about two working days.` },
+    { question: "How do I connect Shopify to bol.com?", answer: "Shopify stays the master for products and stock. A separate integration service uses Shopify's Admin API and webhooks to push stock and prices to bol.com, and brings bol orders into Shopify with a channel tag. When you mark an order fulfilled, the service confirms the shipment to bol with track and trace." },
+    { question: "Can WooCommerce sync with bol.com?", answer: "Yes. The integration uses WooCommerce's REST API and webhooks and runs outside WordPress, so your shop stays fast. Stock changes are pushed to bol.com, bol orders appear in WooCommerce, and shipments are confirmed back. Stock reservation timing is set carefully because WooCommerce reduces stock at different moments depending on settings." },
+    { question: "How can I stop overselling on bol.com?", answer: "Use one master stock for all channels, push every change to bol.com as it happens instead of on a slow timer, and add a small buffer for low-stock items. Choose deliberately how bol counts open orders so the same order is not subtracted twice. A daily comparison report catches any drift." },
+    { question: "How often should orders be fetched from bol.com?", answer: "bol's best-practice guide recommends polling the order list every 5 to 15 minutes, using a parameter that returns only orders changed since the last check. That keeps orders moving to your warehouse quickly without wasting rate-limit budget. Order data should be stored in your own system straight away." },
+    { question: "What happens if a shipment is not confirmed to bol.com?", answer: "According to bol's order best-practice guide, if bol does not receive a successful shipment confirmation, the order expires and is cancelled, and you do not get paid. Because shipment calls are asynchronous, a good integration checks the process status of every confirmation and alerts someone when one fails." },
+    { question: "Does the integration work with Logistiek via bol (LVB)?", answer: "Yes. For LVB offers bol ships the orders itself, so the integration fetches them for reporting and bookkeeping and tracks your stock at bol for replenishment. For own-fulfilment offers it runs the full cycle of stock, orders and shipment confirmation. Mixed accounts are handled with a fulfilment flag per offer." },
+    { question: "Should I use Channable or a custom bol.com integration?", answer: "Feed-management tools such as Channable suit sellers listing on many channels with standard rules. A custom bol.com API integration suits sellers for whom bol.com is a main channel and whose stock, fulfilment or ERP logic is specific. Some sellers combine both: a tool for other channels, custom code for bol.com stock and orders." },
+    { question: "How are cancellations handled?", answer: "Cancellation requests are checked on every order poll. If the order has not shipped, the integration flags it in your warehouse so it is not packed, confirms the cancellation to bol.com and restores the stock. If it has already shipped, the integration reports that instead. Ignored cancellations lead to unnecessary shipments and returns." },
+    { question: "How are returns handled?", answer: "Return registrations from bol.com create an inspection task in your system. When the parcel arrives, your team records the outcome, which is then handled with bol, and only items accepted back in saleable condition return to stock. Refunds for bol orders run through bol, so your own shop does not refund them a second time." },
+    { question: "Does the bol.com API have rate limits?", answer: "Yes. bol returns HTTP 429 when the request budget runs out, and every response includes headers showing remaining budget and refill timing. bol says the API is optimised for a steady flow of updates rather than big hourly batches, so integrations should queue calls, read the headers and back off when needed." },
+    { question: "Is there a test environment for the bol.com API?", answer: "Yes. bol provides a demo environment with example responses for every endpoint, using the same models and validation as production. We build and test there first, including failure cases, then run a live pilot on a small set of offers before switching on the whole catalogue." },
+    { question: "Which bol.com API version should an integration use?", answer: "The current recommended version. At the time of writing, bol's offer documentation marks v10 offers endpoints as deprecated in favour of v11, with a sunset date of 1 February 2027 for v10. New integrations should use the recommended version, and existing ones need a planned upgrade before old endpoints are switched off." },
+    { question: "Can you upgrade our existing bol.com integration?", answer: "Yes. We review the code to see which API versions and endpoints it calls, estimate the upgrade, and usually add proper logging and process-status checks at the same time. Upgrades are quoted after the review, because the state of the existing code decides the effort." },
+    { question: "Can bol.com orders go straight into Exact Online?", answer: "Yes. The integration can create bol orders in Exact Online, or pass them via your shop, and book commissions, fees and payouts as your bookkeeper agrees. Exact's own API limits are respected with queuing. The Exact Online integration page covers the accounting side in more detail." },
+    { question: "How long does it take to build a bol.com integration?", answer: "A focused stock and order sync usually takes two to four weeks, and a full integration six to twelve weeks, from written approval. The first week goes into auditing products and EANs and deciding the stock master. Testing in bol's demo environment and a short live pilot are part of that time." },
+    { question: "Who owns the integration and the API credentials?", answer: "You do. API credentials are created in your own bol.com seller account, the integration runs on hosting in your name, and the code sits in your repository. You can rotate credentials or remove our access whenever you want, and the documentation lets another developer take over." },
+    { question: "Why work with developers in India on a bol.com integration?", answer: "Integration work is mostly documentation, code and monitoring, which suits remote collaboration. You get three developers who share the codebase, an overlap with Dutch hours from late morning, WhatsApp replies seven days a week, clear starting prices and milestone payments by Wise, bank wire or PayPal. We do not visit warehouses." },
+    { question: "Do you take a percentage of my bol.com sales?", answer: "No. You pay for the build and optional care, not a share of revenue. bol charges its own seller fees under your seller agreement, and hosting is paid by you to the provider. Our quote lists every line, and nothing is billed before your written approval." },
+  ],
+  related: {
+    heading: "Related pages for Dutch online sellers",
+    links: [
+      { name: "Exact Online integration", href: "/netherlands/exact-online-integration/" },
+      { name: "B2B webshop development", href: "/netherlands/b2b-webshop-development/" },
+      { name: "Shopify developer Netherlands", href: "/netherlands/shopify-developer/" },
+      { name: "WooCommerce developer Netherlands", href: "/netherlands/woocommerce-developer/" },
+      { name: "Logistics software development", href: "/netherlands/logistics-software-development/" },
+      { name: "Magento to Shopify migration", href: "/netherlands/magento-to-shopify-migration/" },
+      { name: "Webshop cost in the Netherlands", href: "/netherlands/webshop-cost/" },
+      { name: "Custom software development", href: "/netherlands/custom-software-development/" },
+      { name: "Online ordering system for restaurants", href: "/netherlands/online-ordering-system-for-restaurants/" },
+      { name: "iDEAL payment integration", href: "/netherlands/ideal-payment-integration/" },
+      { name: "Netherlands overview", href: "/netherlands/" },
+      { name: "Offshore web development team", href: "/offshore-web-development-team/" },
+      { name: "Contact", href: "/contact/" },
+    ],
+  },
+  cta: {
+    heading: "Tell us where your bol.com routine hurts",
+    note: "Send your shop platform, rough catalogue size, fulfilment mix and what goes wrong today on WhatsApp. We will suggest a tool or a custom build honestly and send an itemised quote in about two working days.",
+  },
+};
+
+export default content;

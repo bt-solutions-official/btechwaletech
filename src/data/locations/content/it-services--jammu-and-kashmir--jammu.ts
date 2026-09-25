@@ -175,13 +175,13 @@ const content: CityContent = {
       id: "jammu-software-cost",
       heading: "How much does software development cost in Jammu?",
       paragraphs: [
-        "Software development in Jammu starts from ₹60,000 for a custom web application, ₹40,000 for an Android and iOS app, ₹40,000 for AI automation, ₹50,000 for an online store, ₹20,000 for a 700+ page SEO website and ₹10,000 for a static website. These are starting prices, and the final amount depends on features, integrations and data migration.",
+        "Software development in Jammu starts from ₹60,000 for a custom web application, ₹40,000 for an Android and iOS app, ₹40,000 for AI automation, ₹50,000 for an online store, ₹20,000 for a 299+ page SEO website and ₹10,000 for a static website. These are starting prices, and the final amount depends on features, integrations and data migration.",
         "Costs rise with more user roles, complex reports, payment and courier integrations, bilingual content and importing years of old records. They stay low when the first version is tightly focused. A wholesaler who starts with billing and stock, then adds a salesman app six months later, usually spends less overall than one who tries to build everything at once.",
         "Every quote is itemised within about two working days so you can remove anything you do not need. See the <a href='/pricing/'>pricing page</a> for plan details.",
       ],
       list: [
         "Static website: from ₹10,000 (1 to 2 weeks)",
-        "700+ page SEO site: from ₹20,000 (3 to 5 weeks)",
+        "299+ page SEO site: from ₹20,000 (3 to 5 weeks)",
         "Android and iOS app: from ₹40,000 (6 to 10 weeks)",
         "AI automation: from ₹40,000 (2 to 4 weeks)",
         "Online store: from ₹50,000 (4 to 8 weeks)",

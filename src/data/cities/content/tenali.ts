@@ -35,7 +35,7 @@ const tenali: CityContent = {
     pills: ["Websites from ₹10,000", "Telugu-first pages", "Jewellery and sweet shop stores", "Market yard trader sites", "WhatsApp replies in Telugu"],
   },
   quickAnswer:
-    "For a Tenali business, a static website with us starts at ₹10,000 and is ready in one to two weeks. A 700+ page SEO site starts from ₹20,000 and an online store from ₹50,000. We are a remote team of three engineers with no Tenali office, and maintenance is free for five months after launch.",
+    "For a Tenali business, a static website with us starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO site starts from ₹20,000 and an online store from ₹50,000. We are a remote team of three engineers with no Tenali office, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Location", value: "Guntur district, in the Krishna river's western delta, about 25 km from Guntur" },
     { label: "Nickname", value: "“Andhra Paris”, from the three Krishna canals that run through the town" },
@@ -73,7 +73,7 @@ const tenali: CityContent = {
       heading: "Website cost in Tenali, with our starting prices",
       paragraphs: [
         "Local quotes vary a lot: a template page for a few thousand rupees, or large figures from city agencies that include overheads you will never see. Cheap versions often come without search setup and with hosting booked in the developer's name, which causes trouble later.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page site built around real searches starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, custom web applications from ₹60,000, WhatsApp and AI automation from ₹40,000, and monthly SEO from ₹10,000.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page site built around real searches starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, custom web applications from ₹60,000, WhatsApp and AI automation from ₹40,000, and monthly SEO from ₹10,000.",
         "Your final price depends on scope. A jeweller with two hundred designs needs more work than a clinic with five doctors. You receive an itemised quote in about two working days, and nothing is billed until you approve it in writing.",
       ],
       list: [
@@ -220,12 +220,12 @@ const tenali: CityContent = {
     {
       question: "How much does a website cost in Tenali?",
       answer:
-        "With us a static website starts at ₹10,000, a 700+ page SEO site from ₹20,000, an online store from ₹50,000 and a custom web application from ₹60,000. The final quote depends on pages, features and content. When comparing quotes, check whether hosting is in your name and whether SEO and support after launch are included.",
+        "With us a static website starts at ₹10,000, a 299+ page SEO site from ₹20,000, an online store from ₹50,000 and a custom web application from ₹60,000. The final quote depends on pages, features and content. When comparing quotes, check whether hosting is in your name and whether SEO and support after launch are included.",
     },
     {
       question: "Tenali lo website cheyinchadaniki entha kharchu avutundi?",
       answer:
-        "Maa daggara simple business website ₹10,000 nundi modalavutundi, okati rendu vaarallo ready avutundi. 700+ pages unna SEO website ₹20,000 nundi, online store ₹50,000 nundi. Pani modalupettadaniki mundu meeku itemised quote raatapurvakamga pamputam, meeru approve chesina tarvate bill vestamu.",
+        "Maa daggara simple business website ₹10,000 nundi modalavutundi, okati rendu vaarallo ready avutundi. 299+ pages unna SEO website ₹20,000 nundi, online store ₹50,000 nundi. Pani modalupettadaniki mundu meeku itemised quote raatapurvakamga pamputam, meeru approve chesina tarvate bill vestamu.",
     },
     {
       question: "Do you have an office in Tenali?",
@@ -255,7 +255,7 @@ const tenali: CityContent = {
     {
       question: "How long will my website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve. The biggest delay is usually waiting for photos and details, so we prepare draft text for you to review.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve. The biggest delay is usually waiting for photos and details, so we prepare draft text for you to review.",
     },
     {
       question: "What can WhatsApp automation do for a Tenali business?",

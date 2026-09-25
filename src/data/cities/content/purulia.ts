@@ -35,7 +35,7 @@ const purulia: CityContent = {
     pills: ["Sites from ₹10,000", "Bengali, Hindi and English", "Chhau mask stores", "Lac and shellac trade pages", "Homestay booking pages"],
   },
   quickAnswer:
-    "A Purulia business can get a static website from ₹10,000 in one to two weeks. A 700+ page SEO website starts at ₹20,000, WhatsApp and AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. We are three remote engineers with no Purulia office, and the first five months of maintenance are free.",
+    "A Purulia business can get a static website from ₹10,000 in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp and AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. We are three remote engineers with no Purulia office, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Location", value: "District headquarters on the north bank of the Kangsabati (Kansai), on the lowest step of the Chota Nagpur plateau" },
     { label: "Craft", value: "Purulia Chhau masks, GI-registered in 2018, made mainly by families in Charida village near Baghmundi" },
@@ -78,7 +78,7 @@ const purulia: CityContent = {
       ],
       list: [
         "<strong>From ₹10,000:</strong> a compact site for a shop, clinic, tutor, lodge or small trader.",
-        "<strong>From ₹20,000:</strong> a 700+ page site for businesses that want enquiries from search.",
+        "<strong>From ₹20,000:</strong> a 299+ page site for businesses that want enquiries from search.",
         "<strong>From ₹50,000:</strong> a craft or product store with UPI, cards and courier settings.",
         "<strong>From ₹60,000:</strong> purchase, stock or dealer software built around your routine.",
       ],
@@ -210,7 +210,7 @@ const purulia: CityContent = {
     {
       question: "What does a website cost in Purulia?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites from ₹20,000, WhatsApp and AI automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. The final amount depends on your pages, languages and features, and you receive an itemised quote before any work or billing begins.",
+        "Static websites start at ₹10,000, 299+ page SEO websites from ₹20,000, WhatsApp and AI automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. The final amount depends on your pages, languages and features, and you receive an itemised quote before any work or billing begins.",
     },
     {
       question: "Purulia te ekta website korte koto taka lagbe?",
@@ -250,7 +250,7 @@ const purulia: CityContent = {
     {
       question: "How long does a website take to build?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Collecting photos and product details is usually the slowest part, so we send you a checklist on day one.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Collecting photos and product details is usually the slowest part, so we send you a checklist on day one.",
     },
     {
       question: "What can WhatsApp automation do for my business?",

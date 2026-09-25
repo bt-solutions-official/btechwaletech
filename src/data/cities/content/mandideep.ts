@@ -39,7 +39,7 @@ const mandideep: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Vendor capability sites", "Shop-floor web tools", "Accounts in your name"],
   },
   quickAnswer:
-    "For a Mandideep business, a website with us starts at ₹10,000 and takes one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom factory software at ₹60,000. We work remotely and you own every account.",
+    "For a Mandideep business, a website with us starts at ₹10,000 and takes one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom factory software at ₹60,000. We work remotely and you own every account.",
   snapshot: [
     { label: "Location", value: "Industrial town in Goharganj tehsil of Raisen district, about 23 km from Bhopal on its southern side" },
     { label: "Origins", value: "Planned as an industrial township in the late 1970s; the industrial area has grown from 560 acres to around 2,000 acres" },
@@ -232,7 +232,7 @@ const mandideep: CityContent = {
     {
       question: "How much does a website cost in Mandideep?",
       answer:
-        "In Mandideep, our websites start at ₹10,000 for up to 100 pages and usually take one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Your written quote lists every item, such as Hindi pages or RFQ forms, and nothing is billed before you approve it.",
+        "In Mandideep, our websites start at ₹10,000 for up to 100 pages and usually take one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Your written quote lists every item, such as Hindi pages or RFQ forms, and nothing is billed before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Mandideep businesses?",

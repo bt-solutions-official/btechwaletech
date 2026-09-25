@@ -79,7 +79,7 @@ const content: CityContent = {
         "BtechWaleTech serves Manipur as a freelance group of three engineers working remotely from India. We do not have an office in the state. Every project runs over WhatsApp, email and video calls, which keeps our starting prices low and means clients in any district get the same service as clients in Imphal.",
       ],
       list: [
-        "Websites and 700+ page SEO websites",
+        "Websites and 299+ page SEO websites",
         "Custom software, portals and admin panels",
         "Offline-ready PWAs and mobile apps",
         "AI agents and WhatsApp Business API automation",
@@ -170,7 +170,7 @@ const content: CityContent = {
       paragraphs: [
         "SEO for Manipur means making sure that people searching for a service, product or destination in the state find accurate, helpful pages from local providers. Searches range from hospitals and colleges in Imphal to homestays in Ukhrul and trips to Loktak Lake, and a growing share of answers now come from AI tools that summarise pages.",
         "We structure sites so that each service, product or place has its own clear page, answering real questions directly, with correct names, addresses, opening hours and structured data. For businesses that serve Meitei-speaking customers, we can publish Manipuri content alongside English. We also guide owners on Google Business Profile and consistent listings, which matter a great deal for local searches.",
-        "No one can honestly guarantee rankings, and we do not. Monthly SEO starts at ₹10,000, and larger SEO websites of 700+ pages start at ₹20,000. More detail is on our <a href='/services/seo-services/'>SEO services</a> page.",
+        "No one can honestly guarantee rankings, and we do not. Monthly SEO starts at ₹10,000, and larger SEO websites of 299+ pages start at ₹20,000. More detail is on our <a href='/services/seo-services/'>SEO services</a> page.",
       ],
     },
     {
@@ -203,7 +203,7 @@ const content: CityContent = {
       id: "cost-it-services-manipur",
       heading: "How much do IT services in Manipur cost?",
       paragraphs: [
-        "IT services in Manipur from BtechWaleTech start at ₹10,000 for a static website of up to 100 pages, ₹20,000 for a 700+ page SEO website, ₹50,000 for an online store, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app and ₹60,000 for custom software or web apps. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after the free five months.",
+        "IT services in Manipur from BtechWaleTech start at ₹10,000 for a static website of up to 100 pages, ₹20,000 for a 299+ page SEO website, ₹50,000 for an online store, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app and ₹60,000 for custom software or web apps. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after the free five months.",
         "These are starting prices, not package prices. What you pay depends on pages, features, integrations, offline requirements and how much content is ready. You receive an itemised quote in about two working days, and nothing is billed until you approve it. The full table is on our <a href='/pricing/'>pricing page</a>.",
         "When comparing quotes from any IT company in Manipur or elsewhere, check what is included: hosting setup, deployment, source code handover, training and post-launch fixes. Cheaper quotes sometimes leave these out, which makes them more expensive in the end.",
       ],
@@ -226,7 +226,7 @@ const content: CityContent = {
       id: "timelines-support-manipur",
       heading: "Timelines, payments and support for Manipur clients",
       paragraphs: [
-        "Most Manipur projects take one to two weeks for a website, three to five weeks for a 700+ page SEO website, two to four weeks for automation, four to eight weeks for a store and six to twelve weeks for custom software. Timelines depend mostly on how quickly content and feedback reach us, and we plan around connectivity interruptions when they happen.",
+        "Most Manipur projects take one to two weeks for a website, three to five weeks for a 299+ page SEO website, two to four weeks for automation, four to eight weeks for a store and six to twelve weeks for custom software. Timelines depend mostly on how quickly content and feedback reach us, and we plan around connectivity interruptions when they happen.",
         "Payments are made only by UPI, by scanning our QR code, or by direct bank transfer to our bank account in rupees, usually in milestones. At launch you receive the source code, credentials, documentation and training, and five months of maintenance are included free.",
         "To see every service in one place, visit our <a href='/services/'>services overview</a>, or explore neighbouring states such as <a href='/it-services/meghalaya/'>Meghalaya</a> and the wider <a href='/it-services/'>IT services directory</a>.",
       ],
@@ -268,7 +268,7 @@ const content: CityContent = {
     {
       question: "How much does a website cost in Manipur?",
       answer:
-        "From ₹10,000 for a static website of up to 100 pages, usually ready in one to two weeks. A 700+ page SEO website starts at ₹20,000 and an online store at ₹50,000. The final price depends on pages, features and content. We send an itemised quote in about two working days, and you approve it before any work begins.",
+        "From ₹10,000 for a static website of up to 100 pages, usually ready in one to two weeks. A 299+ page SEO website starts at ₹20,000 and an online store at ₹50,000. The final price depends on pages, features and content. We send an itemised quote in about two working days, and you approve it before any work begins.",
     },
     {
       question: "Can your apps work when mobile internet is down?",

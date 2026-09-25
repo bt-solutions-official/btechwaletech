@@ -205,7 +205,7 @@ const content: CityContent = {
       id: "cost-timeline-darbhanga",
       heading: "What do freelance software developers in Darbhanga cost, and how long does it take?",
       paragraphs: [
-        "At BtechWaleTech, clinic, college or makhana software for Darbhanga starts at ₹60,000 and takes six to twelve weeks; AI automation starts at ₹40,000 and takes two to four weeks; websites start at ₹10,000 (one to two weeks); 700+ page SEO sites from ₹20,000; online stores from ₹50,000. Monthly SEO is from ₹10,000 and maintenance from ₹8,000. An Android and iOS app starts at ₹40,000 and takes six to ten weeks.",
+        "At BtechWaleTech, clinic, college or makhana software for Darbhanga starts at ₹60,000 and takes six to twelve weeks; AI automation starts at ₹40,000 and takes two to four weeks; websites start at ₹10,000 (one to two weeks); 299+ page SEO sites from ₹20,000; online stores from ₹50,000. Monthly SEO is from ₹10,000 and maintenance from ₹8,000. An Android and iOS app starts at ₹40,000 and takes six to ten weeks.",
         "The final price depends on scope: departments and user roles, reports, integrations with Tally, SMS or lab machines, offline mobile features and data migration from old registers. A single-doctor booking and report system stays close to the starting figure; a multi-department nursing home costs more. Colleges should start at least two months before the admission season so the portal is tested.",
       ],
     },

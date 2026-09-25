@@ -35,7 +35,7 @@ const guwahati: CityContent = {
     pills: ["Websites from ₹10,000", "Assamese, Hindi and English pages", "Stores with UPI checkout", "Tour and hotel enquiries", "Automated WhatsApp replies"],
   },
   quickAnswer:
-    "In Guwahati, our business websites start at ₹10,000 and are ready in one to two weeks; 700+ page SEO sites start at ₹20,000 and online stores at ₹50,000. We are a three-engineer remote team without a Guwahati office, which keeps costs down, and every project includes five months of free maintenance after launch.",
+    "In Guwahati, our business websites start at ₹10,000 and are ready in one to two weeks; 299+ page SEO sites start at ₹20,000 and online stores at ₹50,000. We are a three-engineer remote team without a Guwahati office, which keeps costs down, and every project includes five months of free maintenance after launch.",
   snapshot: [
     { label: "Trading districts", value: "Fancy Bazar, Paltan Bazar, Pan Bazar and the GS Road stretch from Bhangagarh to Ganeshguri" },
     { label: "Tea trade", value: "Guwahati Tea Auction Centre, set up in 1970, one of the busiest tea auction centres in the world" },
@@ -73,12 +73,12 @@ const guwahati: CityContent = {
       heading: "How much does a website cost in Guwahati?",
       paragraphs: [
         "In Guwahati you can be quoted ₹3,000 or ₹60,000 for what sounds like the same five-page site. The low quotes usually mean a downloaded template, no search setup and hosting that sits in the developer's name. The high ones often carry the cost of a GS Road office, a sales executive and a project manager standing between you and the person doing the work.",
-        "We sit in the middle and we publish our figures. A static website for a clinic, shop or consultant begins at ₹10,000 and usually goes live in one to two weeks. A 700+ page site planned around what people in Assam actually search for starts at ₹20,000 and takes three to five weeks. Online stores with cart and UPI payments begin at ₹50,000. Custom applications such as distributor portals or booking systems start at ₹60,000, automation at ₹40,000, and monthly SEO at ₹10,000. The details are on our <a href=\"/pricing/\">pricing page</a>.",
+        "We sit in the middle and we publish our figures. A static website for a clinic, shop or consultant begins at ₹10,000 and usually goes live in one to two weeks. A 299+ page site planned around what people in Assam actually search for starts at ₹20,000 and takes three to five weeks. Online stores with cart and UPI payments begin at ₹50,000. Custom applications such as distributor portals or booking systems start at ₹60,000, automation at ₹40,000, and monthly SEO at ₹10,000. The details are on our <a href=\"/pricing/\">pricing page</a>.",
         "These are floors, not fixed packages. Twenty tea varieties with good photos cost less to set up than six hundred hardware items with no descriptions. You receive a quote listing every page and feature, and nothing is charged until you approve it in writing.",
       ],
       list: [
         "<strong>Static site from ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form and basic SEO. Suits clinics, consultants, coaching centres and small shops.",
-        "<strong>SEO site from ₹20,000:</strong> 700+ pages with service and area pages, schema and sitemap. Suits service firms that want steady Google enquiries.",
+        "<strong>SEO site from ₹20,000:</strong> 299+ pages with service and area pages, schema and sitemap. Suits service firms that want steady Google enquiries.",
         "<strong>Online store from ₹50,000:</strong> catalogue, cart, UPI and card checkout, order notifications. Suits tea, silk, food and craft brands.",
         "<strong>Web app from ₹60,000:</strong> logins, roles, dashboards, integrations. Suits distributors, transporters and institutions.",
       ],
@@ -209,12 +209,12 @@ const guwahati: CityContent = {
     {
       question: "How much does a website cost in Guwahati?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. You will find Guwahati quotes from about ₹3,000 to ₹60,000 for similar work, so check what is included: search setup, hosting in your name and support after launch.",
+        "Our static websites start at ₹10,000, 299+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. You will find Guwahati quotes from about ₹3,000 to ₹60,000 for similar work, so check what is included: search setup, hosting in your name and support after launch.",
     },
     {
       question: "Guwahati me website banwane ka kharcha kitna hai?",
       answer:
-        "Humare saath ek simple business website ₹10,000 se shuru hoti hai, 700+ page wali SEO website ₹20,000 se aur online store ₹50,000 se. Final price pages, features aur content par nirbhar karta hai. Kaam shuru karne se pehle aapko likhit, itemised quote milta hai.",
+        "Humare saath ek simple business website ₹10,000 se shuru hoti hai, 299+ page wali SEO website ₹20,000 se aur online store ₹50,000 se. Final price pages, features aur content par nirbhar karta hai. Kaam shuru karne se pehle aapko likhit, itemised quote milta hai.",
     },
     {
       question: "Do you have an office in Guwahati?",
@@ -234,7 +234,7 @@ const guwahati: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "Static sites usually take one to two weeks, 700+ page SEO sites three to five weeks, online stores four to eight weeks and custom applications six to twelve. Delays mostly come from waiting for photos and text, so we write draft content for you to correct instead of waiting on blank pages.",
+        "Static sites usually take one to two weeks, 299+ page SEO sites three to five weeks, online stores four to eight weeks and custom applications six to twelve. Delays mostly come from waiting for photos and text, so we write draft content for you to correct instead of waiting on blank pages.",
     },
     {
       question: "Can you build an online store for Assam tea or silk?",

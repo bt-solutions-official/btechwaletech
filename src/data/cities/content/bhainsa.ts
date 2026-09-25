@@ -39,7 +39,7 @@ const bhainsa: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu, Urdu and Marathi pages", "Cotton and grain trade tools", "Everything registered to you"],
   },
   quickAnswer:
-    "In Bhainsa, a business website with us starts at ₹10,000 and a basic site is usually ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, and the domain, code and accounts stay yours.",
+    "In Bhainsa, a business website with us starts at ₹10,000 and a basic site is usually ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, and the domain, code and accounts stay yours.",
   snapshot: [
     { label: "Status", value: "Headquarters of Bhainsa mandal and Bhainsa revenue division in Nirmal district" },
     { label: "Civic body", value: "First grade municipality, constituted in 1934, with 32 wards" },
@@ -167,7 +167,7 @@ const bhainsa: CityContent = {
       id: "website-cost-bhainsa",
       heading: "Website cost in Bhainsa: starting prices and how to compare quotes",
       paragraphs: [
-        "Here are our entry points for Bhainsa. A simple site of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. A larger SEO build of 700 pages or more, useful for a dealer with many products or a hospital with many departments, starts at ₹20,000 and takes three to five weeks. Apps and AI automation start at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000.",
+        "Here are our entry points for Bhainsa. A simple site of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. A larger SEO build of 299 pages or more, useful for a dealer with many products or a hospital with many departments, starts at ₹20,000 and takes three to five weeks. Apps and AI automation start at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000.",
         "Your quote rises only for items you choose. Extra language versions, large product uploads, payment setup, staff logins and billing software links each appear as separate lines you can keep or drop. Writing your own text and sending phone photos keeps the cost close to the starting figure.",
         "Local quotes for similar work vary widely. When comparing, ask who registers the domain, whether the site is tested on low-cost phones, whether basic on-page SEO is included, how many revision rounds are covered and what support looks like a year later. All our starting prices are on the <a href=\"/pricing/\">pricing page</a>.",
         "You receive an itemised written quote within about two working days, and nothing is billed until you approve it.",
@@ -222,7 +222,7 @@ const bhainsa: CityContent = {
     {
       question: "What is the website cost in Bhainsa?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, languages, products and integrations, and you receive it itemised in writing before anything is billed.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, languages, products and integrations, and you receive it itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Bhainsa businesses?",
@@ -232,7 +232,7 @@ const bhainsa: CityContent = {
     {
       question: "How long does it take to build a website in Bhainsa?",
       answer:
-        "A simple site is normally live within one to two weeks of receiving your details and photos. A 700+ page SEO site takes about three to five weeks, an online store four to eight weeks, and custom software six to twelve. Sending content early is the surest way to keep a project fast.",
+        "A simple site is normally live within one to two weeks of receiving your details and photos. A 299+ page SEO site takes about three to five weeks, an online store four to eight weeks, and custom software six to twelve. Sending content early is the surest way to keep a project fast.",
     },
     {
       question: "Which is the best website development team in Bhainsa?",
@@ -257,7 +257,7 @@ const bhainsa: CityContent = {
     {
       question: "Bhainsa me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek se do hafte mein ban jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapki zaroorat ke hisaab se poora quote likh kar milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek se do hafte mein ban jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapki zaroorat ke hisaab se poora quote likh kar milta hai.",
     },
     {
       question: "You have no office in Bhainsa. Is it safe to work with you?",

@@ -34,7 +34,7 @@ const bikaner: CityContent = {
     pills: ["From ₹10,000", "Food brand stores", "Hotel booking pages", "Hindi and English SEO", "WhatsApp orders"],
   },
   quickAnswer:
-    "Bikaner businesses can get a static website from us from ₹10,000 in one to two weeks, a 700+ page SEO site from ₹20,000, a UPI online store for namkeen or crafts from ₹50,000, and custom web apps from ₹60,000. We are a remote team without a Bikaner office, and maintenance is free for five months after launch.",
+    "Bikaner businesses can get a static website from us from ₹10,000 in one to two weeks, a 299+ page SEO site from ₹20,000, a UPI online store for namkeen or crafts from ₹50,000, and custom web apps from ₹60,000. We are a remote team without a Bikaner office, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Signature trade", value: "Bikaneri bhujia, papad, namkeen and rasgulla, made by hundreds of units in the city and nearby districts" },
     { label: "Industrial areas", value: "RIICO estates at Karni, Karni Extension, Bichhwal and Khara, with food, wool, ceramics and mineral units" },
@@ -72,7 +72,7 @@ const bikaner: CityContent = {
       heading: "How much does a website cost in Bikaner?",
       paragraphs: [
         "Website prices around Bikaner run from ₹3,000 for a one-page template to ₹40,000 or more from agencies in Jaipur or Delhi. The cheap version often has no search setup and sits in someone else's hosting account. The expensive version may include things a family business does not need. Without a line-by-line quote you cannot tell which is which.",
-        "We publish starting prices. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site starts at ₹20,000 and takes three to five weeks; it suits a food manufacturer with many products or a hotel with several room types and packages. An online store starts at ₹50,000, automation at ₹40,000, and custom web apps such as distributor portals at ₹60,000.",
+        "We publish starting prices. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000 and takes three to five weeks; it suits a food manufacturer with many products or a hotel with several room types and packages. An online store starts at ₹50,000, automation at ₹40,000, and custom web apps such as distributor portals at ₹60,000.",
         "The details are on our <a href=\"/pricing/\">pricing page</a>. Your quote itemises every page and feature, and we bill nothing until you approve it in writing.",
       ],
       list: [
@@ -217,12 +217,12 @@ const bikaner: CityContent = {
     {
       question: "How much does a website cost in Bikaner?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web apps such as distributor portals at ₹60,000. A guesthouse or clinic usually needs the first, a namkeen manufacturer the second or third. You get an itemised quote and pay nothing before approving it in writing.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web apps such as distributor portals at ₹60,000. A guesthouse or clinic usually needs the first, a namkeen manufacturer the second or third. You get an itemised quote and pay nothing before approving it in writing.",
     },
     {
       question: "Bikaner me website banwane ka kharcha kitna aata hai?",
       answer:
-        "Humare yahan simple website ₹10,000 se shuru hoti hai aur ek-do hafte me tayyar ho jaati hai. 700+ page wali SEO website ₹20,000 se, bhujia ya namkeen ka online store ₹50,000 se aur custom software ₹60,000 se banta hai. Kaam shuru karne se pehle likhit quote milta hai, bina approval kuch bill nahi hota.",
+        "Humare yahan simple website ₹10,000 se shuru hoti hai aur ek-do hafte me tayyar ho jaati hai. 299+ page wali SEO website ₹20,000 se, bhujia ya namkeen ka online store ₹50,000 se aur custom software ₹60,000 se banta hai. Kaam shuru karne se pehle likhit quote milta hai, bina approval kuch bill nahi hota.",
     },
     {
       question: "Do you have an office in Bikaner?",

@@ -39,7 +39,7 @@ const virudhachalam: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Tamil-first local SEO", "Ceramic and refractory catalogues", "Ownership stays with you"],
   },
   quickAnswer:
-    "Virudhachalam (Vriddhachalam) businesses can have a website built by us from ₹10,000, usually live in one to two weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We operate remotely and have no office in town.",
+    "Virudhachalam (Vriddhachalam) businesses can have a website built by us from ₹10,000, usually live in one to two weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We operate remotely and have no office in town.",
   snapshot: [
     { label: "Location", value: "Municipality and taluk headquarters in Cuddalore district, on the Manimuktha river" },
     { label: "Population", value: "About 73,600 in the 2011 Census, across 34 municipal wards" },
@@ -79,7 +79,7 @@ const virudhachalam: CityContent = {
       paragraphs: [
         "The SIDCO Ceramic Industrial Estate was developed in phases from the 1960s, and its units make refractory bricks and shapes, stoneware, sanitary items, pottery and decorative ceramics. Many supply steel plants, cement works and foundries far from Cuddalore district. Those buyers search online for technical specifications, compare several suppliers and expect a proper product sheet before they pick up the phone.",
         "As a <strong>website development team in Virudhachalam</strong>, we build B2B sites that give buyers what they look for: product ranges with dimensions, composition and temperature ratings as you supply them, downloadable data sheets, photographs from the factory floor, certifications you actually hold, and an enquiry form that asks for quantity and delivery location. We never invent specifications or client lists; every claim comes from you.",
-        "A typical first site is ready in one to two weeks from ₹10,000. For units with a large range, a bigger SEO site of 700+ pages from ₹20,000 can give each product its own page, which helps with searches for specific shapes and grades. We write in English for industrial buyers and add Tamil pages where local buyers matter.",
+        "A typical first site is ready in one to two weeks from ₹10,000. For units with a large range, a bigger SEO site of 299+ pages from ₹20,000 can give each product its own page, which helps with searches for specific shapes and grades. We write in English for industrial buyers and add Tamil pages where local buyers matter.",
       ],
       list: [
         "Product pages with sizes, composition and ratings from your data",
@@ -149,7 +149,7 @@ const virudhachalam: CityContent = {
       paragraphs: [
         "The town is searched under several spellings: Virudhachalam, Vriddhachalam, Viruthachalam and the Tamil form. A shop that uses only one may miss customers typing another. When someone searches “scan centre Vriddhachalam” or “ceramic pots near me”, Google also shows a few Maps listings first, so the Business Profile matters as much as the website.",
         "Our <strong>SEO services in Virudhachalam</strong> start with that profile: the right category, accurate pin, hours, products, photographs and a description in Tamil and English that uses the common spellings naturally. We help you set up a simple routine for genuine reviews, then build pages that match what buyers and residents actually type, including nearby towns you serve.",
-        "Industrial suppliers who sell across India benefit most from a larger SEO site of 700+ pages from ₹20,000, delivered in three to five weeks. Monthly SEO begins at ₹10,000 a month with content, technical checks and a brief report. We do not promise top positions. More on our <a href=\"/services/seo-services/\">SEO services page</a>.",
+        "Industrial suppliers who sell across India benefit most from a larger SEO site of 299+ pages from ₹20,000, delivered in three to five weeks. Monthly SEO begins at ₹10,000 a month with content, technical checks and a brief report. We do not promise top positions. More on our <a href=\"/services/seo-services/\">SEO services page</a>.",
       ],
     },
     {
@@ -165,7 +165,7 @@ const virudhachalam: CityContent = {
       id: "website-cost-virudhachalam",
       heading: "Website cost in Virudhachalam: where each project starts",
       paragraphs: [
-        "Starting points for work in Virudhachalam: a static site of up to 100 pages at ₹10,000, taking one to two weeks; a 700+ page SEO site at ₹20,000, three to five weeks; an Android and iOS app at ₹40,000; AI automation at ₹40,000, two to four weeks; an online store at ₹50,000, four to eight weeks; custom software or a web app at ₹60,000, six to twelve weeks.",
+        "Starting points for work in Virudhachalam: a static site of up to 100 pages at ₹10,000, taking one to two weeks; a 299+ page SEO site at ₹20,000, three to five weeks; an Android and iOS app at ₹40,000; AI automation at ₹40,000, two to four weeks; an online store at ₹50,000, four to eight weeks; custom software or a web app at ₹60,000, six to twelve weeks.",
         "Your actual <strong>website cost in Virudhachalam</strong> depends on scope. Tamil plus English means double the writing and checking. A refractory catalogue with 200 products and data sheets is a larger job than a ten-page profile. An app with payments and dealer ledgers takes longer than a rate display. Each item appears on the quote so you can postpone what can wait.",
         "Prices around Cuddalore district range widely. Whoever you consider, ask four things: in whose name is the domain, do I get the source code, what will maintenance cost after the first period, and how fast does the site open on a phone? We send an itemised quote in about two working days and raise no bill before your written approval. <a href=\"/pricing/\">Our pricing page</a> has more.",
       ],
@@ -217,7 +217,7 @@ const virudhachalam: CityContent = {
     {
       question: "How much does a website cost in Virudhachalam?",
       answer:
-        "In Virudhachalam our static websites, up to 100 pages, begin at ₹10,000 and typically take one to two weeks. A 700+ page SEO site begins at ₹20,000, and an online store at ₹50,000. Page count, Tamil and English copy and features set the final amount. You receive an itemised quote in around two working days, and we bill only after written approval.",
+        "In Virudhachalam our static websites, up to 100 pages, begin at ₹10,000 and typically take one to two weeks. A 299+ page SEO site begins at ₹20,000, and an online store at ₹50,000. Page count, Tamil and English copy and features set the final amount. You receive an itemised quote in around two working days, and we bill only after written approval.",
     },
     {
       question: "Do you build Android and iOS apps for Virudhachalam businesses?",

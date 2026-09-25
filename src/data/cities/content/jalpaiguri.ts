@@ -34,7 +34,7 @@ const jalpaiguri: CityContent = {
     pills: ["Websites from ₹10,000", "Bengali and English pages", "Homestay booking enquiries", "Online tea stores", "Replies seven days a week"],
   },
   quickAnswer:
-    "For Jalpaiguri businesses, our static websites start at ₹10,000 and take one to two weeks. SEO websites of 700+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online tea or retail stores at ₹50,000 and custom software at ₹60,000. We have no office in Jalpaiguri, working remotely instead, and maintenance is free for five months.",
+    "For Jalpaiguri businesses, our static websites start at ₹10,000 and take one to two weeks. SEO websites of 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online tea or retail stores at ₹50,000 and custom software at ₹60,000. We have no office in Jalpaiguri, working remotely instead, and maintenance is free for five months.",
   snapshot: [
     { label: "Setting", value: "On the Teesta and Karala rivers at the Himalayan foothills, about 35 km south of Siliguri" },
     { label: "Administration", value: "Headquarters of Jalpaiguri district and of the Jalpaiguri division of North Bengal" },
@@ -92,12 +92,12 @@ const jalpaiguri: CityContent = {
       heading: "What a website costs in Jalpaiguri",
       paragraphs: [
         "Jalpaiguri owners hear very different numbers, from a few thousand rupees for a template to large quotes from agencies in Kolkata. Neither tells you what you get. We list our starting prices on the <a href=\"/pricing/\">pricing page</a> and explain what raises the final figure.",
-        "A static site of up to 100 pages starts at <strong>₹10,000</strong> and is ready in one to two weeks, suitable for a homestay, clinic, chamber or shop. A 700+ page SEO site starts at <strong>₹20,000</strong> and takes three to five weeks. WhatsApp and AI automation starts at <strong>₹40,000</strong>, an online store at <strong>₹50,000</strong> and custom software, such as a leaf intake system, at <strong>₹60,000</strong>. Monthly SEO starts at ₹10,000.",
+        "A static site of up to 100 pages starts at <strong>₹10,000</strong> and is ready in one to two weeks, suitable for a homestay, clinic, chamber or shop. A 299+ page SEO site starts at <strong>₹20,000</strong> and takes three to five weeks. WhatsApp and AI automation starts at <strong>₹40,000</strong>, an online store at <strong>₹50,000</strong> and custom software, such as a leaf intake system, at <strong>₹60,000</strong>. Monthly SEO starts at ₹10,000.",
         "The final quote depends on pages, features and how much text and photography you already have, and it arrives in about two working days.",
       ],
       list: [
         "<strong>Homestay, chamber or shop site, from ₹10,000:</strong> up to 100 pages, Bengali and English, map and WhatsApp.",
-        "<strong>Large SEO site, from ₹20,000:</strong> 700+ pages for products, services or destinations.",
+        "<strong>Large SEO site, from ₹20,000:</strong> 299+ pages for products, services or destinations.",
         "<strong>Booking and enquiry automation, from ₹40,000:</strong> WhatsApp replies, logging, reminders.",
         "<strong>Tea or retail store, from ₹50,000:</strong> UPI checkout, weight-based shipping, order alerts.",
         "<strong>Custom software, from ₹60,000:</strong> leaf intake, grower payments, dealer orders.",
@@ -228,12 +228,12 @@ const jalpaiguri: CityContent = {
     {
       question: "How much does a website cost in Jalpaiguri?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO sites at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. You receive an itemised quote in around two working days, and nothing is billed before you approve it in writing.",
+        "Our static websites start at ₹10,000, 299+ page SEO sites at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. You receive an itemised quote in around two working days, and nothing is billed before you approve it in writing.",
     },
     {
       question: "Jalpaiguri te dokan ba homestay-r website banate koto khoroch hobe?",
       answer:
-        "Choto dokan, chamber ba homestay-r website ₹10,000 theke shuru hoy, ar ek-dui soptaher moddhe toiri hoye jay. Onek product ba page thakle 700+ page-er SEO website ₹20,000 theke shuru. Kaj shuru korar aage protiti page ar feature likhe quote pathano hoy, apni approve na kora porjonto kono bill hoy na.",
+        "Choto dokan, chamber ba homestay-r website ₹10,000 theke shuru hoy, ar ek-dui soptaher moddhe toiri hoye jay. Onek product ba page thakle 299+ page-er SEO website ₹20,000 theke shuru. Kaj shuru korar aage protiti page ar feature likhe quote pathano hoy, apni approve na kora porjonto kono bill hoy na.",
     },
     {
       question: "Do you have an office in Jalpaiguri?",
@@ -258,7 +258,7 @@ const jalpaiguri: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "Static sites usually take one to two weeks, 700+ page SEO sites three to five weeks, automation two to four weeks, online stores four to eight weeks and custom software six to twelve. Delays mostly come from waiting for photos and details, so we send a checklist at the start.",
+        "Static sites usually take one to two weeks, 299+ page SEO sites three to five weeks, automation two to four weeks, online stores four to eight weeks and custom software six to twelve. Delays mostly come from waiting for photos and details, so we send a checklist at the start.",
     },
     {
       question: "Can you build an online store for Dooars tea?",

@@ -35,7 +35,7 @@ const thanesar: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi and English pages", "Pilgrim and hotel bookings", "Student housing listings", "WhatsApp enquiry replies"],
   },
   quickAnswer:
-    "Our websites for Kurukshetra and Thanesar businesses start at ₹10,000 for a static site, delivered in roughly one to two weeks. Search-focused sites of 700+ pages begin at ₹20,000, and online shops from ₹50,000. Three engineers work on it remotely, with no Kurukshetra office, and upkeep costs nothing for the first five months.",
+    "Our websites for Kurukshetra and Thanesar businesses start at ₹10,000 for a static site, delivered in roughly one to two weeks. Search-focused sites of 299+ pages begin at ₹20,000, and online shops from ₹50,000. Three engineers work on it remotely, with no Kurukshetra office, and upkeep costs nothing for the first five months.",
   snapshot: [
     { label: "City", value: "Thanesar is the main town of Kurukshetra district and merges with Kurukshetra city, about 160 km north-west of Delhi" },
     { label: "History", value: "Capital of the Pushyabhuti dynasty under Harsha; Harsha ka Tila preserves remains of that period" },
@@ -73,7 +73,7 @@ const thanesar: CityContent = {
       heading: "What a website costs in Kurukshetra",
       paragraphs: [
         "Ask around Thanesar and you will hear very different figures. A student freelancer near the university might build a template page for a few thousand rupees, often leaving out search basics and keeping the hosting account. A Chandigarh or Delhi agency might ask several times more, partly to pay for its own premises and sales staff.",
-        "Every number on our <a href=\"/pricing/\">pricing page</a> is where a project begins, not where it ends. Static websites of up to 100 pages begin at ₹10,000, typically delivered within a fortnight. Sites of 700+ pages built around search terms begin at ₹20,000 and need three to five weeks. Stores with checkout begin at ₹50,000, bespoke software at ₹60,000, WhatsApp and AI automation at ₹40,000, and ongoing SEO at ₹10,000 per month.",
+        "Every number on our <a href=\"/pricing/\">pricing page</a> is where a project begins, not where it ends. Static websites of up to 100 pages begin at ₹10,000, typically delivered within a fortnight. Sites of 299+ pages built around search terms begin at ₹20,000 and need three to five weeks. Stores with checkout begin at ₹50,000, bespoke software at ₹60,000, WhatsApp and AI automation at ₹40,000, and ongoing SEO at ₹10,000 per month.",
         "What you ask for sets the final number. A four-room PG is a small job next to a multi-speciality hospital or a hotel owner running properties in Kurukshetra and Pehowa. Each page and feature appears as its own line in the written estimate, and billing waits until you sign off.",
       ],
       list: [
@@ -218,7 +218,7 @@ const thanesar: CityContent = {
     {
       question: "What does a website cost for a Kurukshetra business?",
       answer:
-        "Our static sites begin at ₹10,000, search-led sites of 700+ pages at ₹20,000, online shops at ₹50,000 and bespoke software at ₹60,000. These are entry points; your own figure depends on what the site must do. It arrives as a written, line-by-line estimate, and billing waits for your approval.",
+        "Our static sites begin at ₹10,000, search-led sites of 299+ pages at ₹20,000, online shops at ₹50,000 and bespoke software at ₹60,000. These are entry points; your own figure depends on what the site must do. It arrives as a written, line-by-line estimate, and billing waits for your approval.",
     },
     {
       question: "Kurukshetra mein website banwane mein kitne paise lagte hain?",
@@ -253,7 +253,7 @@ const thanesar: CityContent = {
     {
       question: "How many weeks does a project take?",
       answer:
-        "Roughly one to two weeks for a static site, three to five for a 700+ page search-focused build, four to eight for an online shop and six to twelve for custom software. Waiting for room photos, course details or doctor bios causes most delays, so we share a short checklist on the first call.",
+        "Roughly one to two weeks for a static site, three to five for a 299+ page search-focused build, four to eight for an online shop and six to twelve for custom software. Waiting for room photos, course details or doctor bios causes most delays, so we share a short checklist on the first call.",
     },
     {
       question: "What would WhatsApp automation actually do for a dharamshala or coaching centre?",

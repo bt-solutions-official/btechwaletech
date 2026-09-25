@@ -36,7 +36,7 @@ const nashik: CityContent = {
     pills: ["Sites from ₹10,000", "MIDC supplier websites", "Export-ready agri catalogues", "Marathi and English SEO", "WhatsApp automation"],
   },
   quickAnswer:
-    "For a Nashik business, a website with us starts at ₹10,000 and is usually live in one to two weeks. A 700+ page SEO site for an MIDC supplier, exporter or clinic starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team of three engineers, and maintenance is free for five months after launch.",
+    "For a Nashik business, a website with us starts at ₹10,000 and is usually live in one to two weeks. A 299+ page SEO site for an MIDC supplier, exporter or clinic starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team of three engineers, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Industrial areas", value: "MIDC Satpur and Ambad in the city, with Sinnar, Gonde, Igatpuri and Dindori nearby" },
     { label: "Major manufacturers", value: "HAL's aircraft plant at Ozar, plus units of Mahindra & Mahindra, Bosch, CEAT, Siemens and others" },
@@ -74,12 +74,12 @@ const nashik: CityContent = {
       heading: "How much does a website cost in Nashik?",
       paragraphs: [
         "Nashik quotes range from about ₹3,000 for a basic template to well over ₹60,000 from agencies that bring Pune or Mumbai overheads with them. The low end usually skips SEO and keeps the domain in the developer's name. The high end often pays for account managers and design rounds that add little to what your customers see.",
-        "Our starting prices sit in between and are published. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks, which suits doctors, consultants, small shops and service providers. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks, the right size for MIDC suppliers, exporters and multi-speciality clinics. Online stores start at ₹50,000 over four to eight weeks. Custom applications such as supplier portals or pack-house records start at ₹60,000 and take six to twelve weeks. Automation starts at ₹40,000, and monthly SEO at ₹10,000.",
+        "Our starting prices sit in between and are published. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks, which suits doctors, consultants, small shops and service providers. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks, the right size for MIDC suppliers, exporters and multi-speciality clinics. Online stores start at ₹50,000 over four to eight weeks. Custom applications such as supplier portals or pack-house records start at ₹60,000 and take six to twelve weeks. Automation starts at ₹40,000, and monthly SEO at ₹10,000.",
         "For industrial suppliers, the main cost driver is the capability content: how many processes, machines and parts you want to show. For exporters, it is the number of product grades and whether pages are needed in other languages. The itemised quote arrives in about two working days, and nothing is charged until you approve it.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> site of up to 100 pages with enquiry form and basic SEO, for clinics, professionals and small shops.",
-        "<strong>From ₹20,000:</strong> 700+ pages with process, product or service pages, schema and sitemap.",
+        "<strong>From ₹20,000:</strong> 299+ pages with process, product or service pages, schema and sitemap.",
         "<strong>From ₹50,000:</strong> online store with UPI and cards for food brands, retailers and permitted products.",
         "<strong>From ₹60,000:</strong> supplier portals, farm records, booking or dealer systems.",
       ],
@@ -210,12 +210,12 @@ const nashik: CityContent = {
     {
       question: "How much does a website cost in Nashik?",
       answer:
-        "With us, a static site starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom application at ₹60,000. Other Nashik quotes vary widely, so compare what is included: domain ownership, SEO basics, speed and support after launch matter as much as the price.",
+        "With us, a static site starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom application at ₹60,000. Other Nashik quotes vary widely, so compare what is included: domain ownership, SEO basics, speed and support after launch matter as much as the price.",
     },
     {
       question: "Nashik madhe website banvayla kiti kharch yeto?",
       answer:
-        "Amchyakade sadhi business website ₹10,000 pasun suru hote, ani 700+ pages chi SEO website ₹20,000 pasun. Online store ₹50,000 pasun suru hoto. Final kimmat pages, features ani content var avalambun aste, ani kaam suru karnyapurvi tumhala purna itemised quote milto.",
+        "Amchyakade sadhi business website ₹10,000 pasun suru hote, ani 299+ pages chi SEO website ₹20,000 pasun. Online store ₹50,000 pasun suru hoto. Final kimmat pages, features ani content var avalambun aste, ani kaam suru karnyapurvi tumhala purna itemised quote milto.",
     },
     {
       question: "Do you have an office in Nashik?",
@@ -250,7 +250,7 @@ const nashik: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Waiting for content and photos is the usual delay, so we provide starter text you can edit.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Waiting for content and photos is the usual delay, so we provide starter text you can edit.",
     },
     {
       question: "Will I own my domain, hosting and code?",

@@ -180,7 +180,7 @@ const content: CityContent = {
       paragraphs: [
         "An online store lets a Jodhpur brand sell furniture, decor, bandhej, juttis or spices directly to customers in India and abroad. Stores start at ₹50,000 and take four to eight weeks, with variants, freight rules for bulky items, international shipping zones and UPI and card checkout through a payment gateway account in your own name.",
         "SEO helps buyers and visitors find you. We build product and category pages with dimensions, materials and finishes stated plainly, add product and organisation schema, and write useful guides, for example on caring for sheesham or mango wood furniture, that search engines and AI assistants can cite. Hotels and clinics get Google Business Profile and local pages.",
-        "Monthly SEO starts at ₹10,000 and a 700+ page SEO website at ₹20,000. For a website-focused view of the city, see our <a href='/jodhpur/'>Jodhpur page</a> and <a href='/services/seo-services/'>SEO services</a>. We never guarantee rankings.",
+        "Monthly SEO starts at ₹10,000 and a 299+ page SEO website at ₹20,000. For a website-focused view of the city, see our <a href='/jodhpur/'>Jodhpur page</a> and <a href='/services/seo-services/'>SEO services</a>. We never guarantee rankings.",
       ],
     },
     {
@@ -196,7 +196,7 @@ const content: CityContent = {
       id: "cost-jodhpur",
       heading: "How much do freelance software developers in Jodhpur charge?",
       paragraphs: [
-        "BtechWaleTech's starting prices for Jodhpur are ₹60,000 for custom software such as an export tracker or practice system, ₹40,000 for an Android and iOS app, ₹40,000 for AI or WhatsApp automation, ₹50,000 for an online store, ₹10,000 for a website and ₹20,000 for a 700+ page SEO website. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000.",
+        "BtechWaleTech's starting prices for Jodhpur are ₹60,000 for custom software such as an export tracker or practice system, ₹40,000 for an Android and iOS app, ₹40,000 for AI or WhatsApp automation, ₹50,000 for an online store, ₹10,000 for a website and ₹20,000 for a 299+ page SEO website. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000.",
         "The final figure depends on SKUs, users, units and integrations. A single-unit order tracker sits near the starting price; multi-unit systems with container planning, buyer portals and an app cost more. Quotes are itemised so you can phase work around shipping seasons.",
         "Clients pay only in INR, by UPI through our QR code or by direct bank transfer to our bank account, in milestones tied to software you have reviewed.",
       ],
@@ -335,7 +335,7 @@ const content: CityContent = {
     {
       question: "Do you build websites and online stores too?",
       answer:
-        "Yes. Websites start at ₹10,000, 700+ page SEO websites at ₹20,000 and online stores at ₹50,000. We usually connect them to your tracker, ledger or booking system so enquiries and orders arrive in one place.",
+        "Yes. Websites start at ₹10,000, 299+ page SEO websites at ₹20,000 and online stores at ₹50,000. We usually connect them to your tracker, ledger or booking system so enquiries and orders arrive in one place.",
     },
     { "question":"Can you add a privacy notice and consent checkbox to our forms?","answer":"Yes. We add a short notice explaining why each detail is collected, a consent checkbox that is not pre-ticked, and a way for people to ask for their data to be corrected or removed. The wording can be in Hindi and English. For sector-specific rules, ask your lawyer to review the text before it goes live." },
     { "question":"Do you sign an NDA before seeing our buyer list or client files?","answer":"Yes. We sign a mutual NDA before you share buyer lists, price sheets, patient data or case files, and we work with masked samples wherever possible. Any access we receive during the project is removed at handover, and every account remains in your name." },

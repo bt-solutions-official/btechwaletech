@@ -39,7 +39,7 @@ const gudur: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu and English pages", "Lemon and aqua trade software", "Domain and code stay yours"],
   },
   quickAnswer:
-    "For a Gudur business, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are remote, have no Gudur office, and every account is registered to you.",
+    "For a Gudur business, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are remote, have no Gudur office, and every account is registered to you.",
   snapshot: [
     { label: "Status", value: "Municipality and revenue division headquarters, returned to SPSR Nellore district at the end of 2025 after a spell in Tirupati district" },
     { label: "Trade", value: "Lemon market regarded as one of the largest in Andhra Pradesh" },
@@ -90,7 +90,7 @@ const gudur: CityContent = {
         "The mica belt around Gudur is often described as the second largest in India, covering roughly a thousand square kilometres. Along with mica, the area produces quartz, feldspar, muscovite and vermiculite, which go to ceramics, glass, paint, electrical and other industries in India and overseas.",
         "Buyers for these minerals rarely visit before placing a first enquiry. They search for suppliers, compare websites, and shortlist those who look established and answer technical questions clearly. A mineral trader without a proper site often loses the enquiry before any conversation begins.",
         "As a <strong>website development team in Gudur</strong> for this sector, we build English-first sites with a Telugu section for local staff and suppliers. Each mineral and grade gets its own page with the specifications you can support, typical applications, packing options, dispatch from Gudur by rail or road, and a clear enquiry form. Downloadable spec sheets help buyers pass your details to their technical teams.",
-        "We never publish test values, certifications or capacities you have not confirmed in writing. For traders with many grades, an SEO website of 700+ pages starts at ₹20,000 and takes three to five weeks, so each grade and application can be found separately in search. Enquiries go straight to email and WhatsApp so a buyer in another time zone gets a quick reply.",
+        "We never publish test values, certifications or capacities you have not confirmed in writing. For traders with many grades, an SEO website of 299+ pages starts at ₹20,000 and takes three to five weeks, so each grade and application can be found separately in search. Enquiries go straight to email and WhatsApp so a buyer in another time zone gets a quick reply.",
       ],
     },
     {
@@ -167,7 +167,7 @@ const gudur: CityContent = {
       id: "website-cost-gudur",
       heading: "Website cost in Gudur: our starting prices and what changes them",
       paragraphs: [
-        "Here is where our work starts. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 700+ pages starts at ₹20,000 and takes three to five weeks. Ecommerce stores start at ₹50,000. Android and iOS apps and AI automation both start at ₹40,000. Custom web apps and software start at ₹60,000 and take six to twelve weeks.",
+        "Here is where our work starts. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 299+ pages starts at ₹20,000 and takes three to five weeks. Ecommerce stores start at ₹50,000. Android and iOS apps and AI automation both start at ₹40,000. Custom web apps and software start at ₹60,000 and take six to twelve weeks.",
         "Each is a starting point, not a package. The total moves with the number of pages or products, content in both Telugu and English, forms, payment options, app screens, offline needs and integrations. A mineral trader's site with thirty grade pages and spec sheets takes more work than a single-page profile.",
         "Quotes for similar work in the area vary widely. When comparing, ask who owns the domain and hosting, whether the source code is handed over, how many revision rounds are included, what renewals cost and who fixes problems after launch.",
         "We send an itemised quote within about two working days of understanding your requirements, and nothing is billed until you approve it in writing. All starting prices are on our <a href=\"/pricing/\">pricing page</a>.",
@@ -222,7 +222,7 @@ const gudur: CityContent = {
     {
       question: "How much does a website cost in Gudur?",
       answer:
-        "A static business website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; your itemised quote depends on pages, Telugu and English content, features and integrations.",
+        "A static business website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; your itemised quote depends on pages, Telugu and English content, features and integrations.",
     },
     {
       question: "Do you build Android and iOS apps for Gudur businesses?",

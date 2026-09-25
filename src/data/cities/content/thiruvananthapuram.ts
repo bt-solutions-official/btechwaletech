@@ -35,7 +35,7 @@ const thiruvananthapuram: CityContent = {
     pills: ["Sites from ₹10,000", "Malayalam and English pages", "Direct booking for stays", "Startup landing pages", "WhatsApp automation"],
   },
   quickAnswer:
-    "In Thiruvananthapuram, a static business website from us starts at ₹10,000 and is usually ready in one to two weeks; a 700+ page SEO site starts at ₹20,000. We are a remote team of three engineers without a Kerala office, so there is no rent in the price, and maintenance is free for five months after launch.",
+    "In Thiruvananthapuram, a static business website from us starts at ₹10,000 and is usually ready in one to two weeks; a 299+ page SEO site starts at ₹20,000. We are a remote team of three engineers without a Kerala office, so there is no rent in the price, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Role", value: "Capital of Kerala, with the state secretariat, government departments and many public institutions" },
     { label: "IT hub", value: "Technopark at Kazhakoottam, India's first technology park (1995), with Technocity being developed further north" },
@@ -73,12 +73,12 @@ const thiruvananthapuram: CityContent = {
       heading: "Website prices in Thiruvananthapuram, stated plainly",
       paragraphs: [
         "Website quotes in Trivandrum range widely. You will find offers of ₹3,000 for a page on a shared template and proposals above ₹75,000 from established agencies. The low offers often skip search setup and keep the hosting in the designer's account. The high ones pay for sales staff and offices. Neither is automatically wrong, but you should know what you are paying for.",
-        "Our starting prices are published openly. A static site of up to 100 pages starts at ₹10,000 and is usually live within one to two weeks. A 700+ page site with dedicated service and area pages, planned from actual search terms, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, AI and WhatsApp automation at ₹40,000 and monthly SEO at ₹10,000. See the <a href=\"/pricing/\">pricing page</a> for what each includes.",
+        "Our starting prices are published openly. A static site of up to 100 pages starts at ₹10,000 and is usually live within one to two weeks. A 299+ page site with dedicated service and area pages, planned from actual search terms, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, AI and WhatsApp automation at ₹40,000 and monthly SEO at ₹10,000. See the <a href=\"/pricing/\">pricing page</a> for what each includes.",
         "Bilingual sites add some effort, as do large product catalogues, booking engines and integrations with hospital or institute software. We price those honestly as line items. The quote arrives in about two working days, and nothing is billed until you approve it in writing.",
       ],
       list: [
         "<strong>Static website, from ₹10,000:</strong> up to 100 pages, contact form, WhatsApp link, SEO basics. Suits doctors, lawyers, consultants and small shops.",
-        "<strong>SEO website, from ₹20,000:</strong> 700+ pages, one per service or area, with schema and sitemap.",
+        "<strong>SEO website, from ₹20,000:</strong> 299+ pages, one per service or area, with schema and sitemap.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart, UPI and card checkout, shipping rules across India.",
         "<strong>Custom web app, from ₹60,000:</strong> logins, roles, dashboards and APIs for institutes, clinics and startups.",
       ],
@@ -209,12 +209,12 @@ const thiruvananthapuram: CityContent = {
     {
       question: "How much does a website cost in Thiruvananthapuram?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Trivandrum quotes elsewhere range from a few thousand to well over ₹75,000. Compare what is included, especially SEO setup, ownership of the domain and hosting, and support after launch.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Trivandrum quotes elsewhere range from a few thousand to well over ₹75,000. Compare what is included, especially SEO setup, ownership of the domain and hosting, and support after launch.",
     },
     {
       question: "Thiruvananthapurathu oru website undakkan ethra roopa aakum?",
       answer:
-        "Njangalude aduthu oru simple business website ₹10,000 muthal thudangum. 700+ page ulla SEO website ₹20,000 muthal aanu, online store ₹50,000 muthal. Pages, features, content ennivaye aashrayichanu final tuka. Pani thudangunnathinu munpu ella karyangalum ezhuthi kaanikkunna itemised quote tharum.",
+        "Njangalude aduthu oru simple business website ₹10,000 muthal thudangum. 299+ page ulla SEO website ₹20,000 muthal aanu, online store ₹50,000 muthal. Pages, features, content ennivaye aashrayichanu final tuka. Pani thudangunnathinu munpu ella karyangalum ezhuthi kaanikkunna itemised quote tharum.",
     },
     {
       question: "Do you have an office in Trivandrum?",
@@ -244,7 +244,7 @@ const thiruvananthapuram: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Content is the most common cause of delay, so we write draft text for you to correct instead of waiting for you to write every page from scratch.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Content is the most common cause of delay, so we write draft text for you to correct instead of waiting for you to write every page from scratch.",
     },
     {
       question: "How long does SEO take to work in Thiruvananthapuram?",

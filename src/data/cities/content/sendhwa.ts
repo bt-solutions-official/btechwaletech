@@ -39,7 +39,7 @@ const sendhwa: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi local SEO for Nimar", "Ginning and transport software", "Every account in your name"],
   },
   quickAnswer:
-    "In Sendhwa, our websites start at ₹10,000 and a simple site is usually ready within one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Sendhwa office.",
+    "In Sendhwa, our websites start at ₹10,000 and a simple site is usually ready within one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Sendhwa office.",
   snapshot: [
     { label: "Location", value: "Tehsil and subdivision headquarters in Barwani district, Nimar region of western Madhya Pradesh" },
     { label: "Border", value: "About 16 km from the Madhya Pradesh–Maharashtra border, with Shirpur and Dhule on the other side" },
@@ -222,7 +222,7 @@ const sendhwa: CityContent = {
     {
       question: "What is the website cost in Sendhwa?",
       answer:
-        "Static websites start at ₹10,000, SEO websites with 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices only. The final amount depends on pages, Hindi and English content, products and integrations, and you get it itemised in writing before any billing.",
+        "Static websites start at ₹10,000, SEO websites with 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices only. The final amount depends on pages, Hindi and English content, products and integrations, and you get it itemised in writing before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Sendhwa businesses?",
@@ -232,7 +232,7 @@ const sendhwa: CityContent = {
     {
       question: "How long does a website take in Sendhwa?",
       answer:
-        "A simple static website is usually live one to two weeks after we receive your details and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. The sooner you send content, the sooner the project finishes.",
+        "A simple static website is usually live one to two weeks after we receive your details and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. The sooner you send content, the sooner the project finishes.",
     },
     {
       question: "Which is the best website development team in Sendhwa?",
@@ -257,7 +257,7 @@ const sendhwa: CityContent = {
     {
       question: "Sendhwa me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein ready ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hota hai. Aapko har item alag likh kar quote lagbhag do working din mein mil jaata hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein ready ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hota hai. Aapko har item alag likh kar quote lagbhag do working din mein mil jaata hai.",
     },
     {
       question: "You have no office in Sendhwa. Is it safe to work remotely?",

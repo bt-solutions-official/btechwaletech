@@ -56,7 +56,7 @@ const content: FreelanceContent = {
     rows: [
       { label: "What custom means", value: "Layout and code written for your site, not a bought theme" },
       { label: "Custom static site", value: `From ${P.site}, 1–2 weeks` },
-      { label: "Custom SEO site, 700+ pages", value: `From ${P.seoSite}, 3–5 weeks` },
+      { label: "Custom SEO site, 299+ pages", value: `From ${P.seoSite}, 3–5 weeks` },
       { label: "Custom store", value: `From ${P.shop}, 4–8 weeks` },
       { label: "Custom web app", value: `From ${P.software}, 6–12 weeks` },
       { label: "Who holds the code", value: "You, in a repository you control" },
@@ -133,7 +133,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does a custom website developer charge?",
       paragraphs: [
-        `With BtechWaleTech, a custom-coded static site of up to 100 pages starts at ${P.site} and usually takes one to two weeks. A custom SEO website of 700+ pages generated from structured data starts at ${P.seoSite}. A custom online store starts at ${P.shop}, and a custom web application with logins and dashboards starts at ${P.software}.`,
+        `With BtechWaleTech, a custom-coded static site of up to 100 pages starts at ${P.site} and usually takes one to two weeks. A custom SEO website of 299+ pages generated from structured data starts at ${P.seoSite}. A custom online store starts at ${P.shop}, and a custom web application with logins and dashboards starts at ${P.software}.`,
         `The main cost drivers are the number of distinct page layouts, custom features with real logic, integrations with other systems, and content writing. Design polish on its own rarely moves the price much, because layout work is already part of every custom build we quote.`,
         `Across the market, custom website quotes vary widely between freelancers and studios. Much of that spread comes from what “custom” means in each quote: a customised theme, a lean hand-coded site, or a bespoke application. Ask each developer which one they are pricing. A fuller breakdown is on <a href='/website-developer-cost/'>website developer cost</a>.`,
       ],
@@ -291,7 +291,7 @@ const content: FreelanceContent = {
       columns: ["Custom build", "India, from", "Abroad, from", "Typical timeline", "Choose it when"],
       rows: [
         ["Custom static site, up to 100 pages", `${P.site}`, `${P.siteUsd}`, "1–2 weeks", "You want a distinct, fast business site"],
-        ["Custom SEO site, 700+ pages", `${P.seoSite}`, `${P.seoSiteUsd}`, "3–5 weeks", "You serve many locations or services"],
+        ["Custom SEO site, 299+ pages", `${P.seoSite}`, `${P.seoSiteUsd}`, "3–5 weeks", "You serve many locations or services"],
         ["Custom online store", `${P.shop}`, `${P.shopUsd}`, "4–8 weeks", "Checkout and catalogue must fit how you sell"],
         ["Custom web app or portal", `${P.software}`, `${P.softwareUsd}`, "6–12 weeks", "Logins, bookings, dashboards, business rules"],
         ["Custom app alongside the site", `${P.app}`, `${P.appUsd}`, "6–10 weeks", "Customers return often on mobile"],
@@ -367,7 +367,7 @@ const content: FreelanceContent = {
   faqHeading: "Custom website developer: questions people ask",
   faqs: [
     { question: "What is a custom website developer?", answer: "A custom website developer designs and codes a site specifically for your business instead of installing a ready-made theme or builder template. The layout, features and code are written for your content and workflow, so pages carry only what they need. The result is usually faster, more distinct and easier to extend, with code you can own." },
-    { question: "How much does a custom website cost in India?", answer: `With BtechWaleTech a custom-coded static site of up to 100 pages starts at ${P.site}, a custom SEO site of 700+ pages at ${P.seoSite}, a custom online store at ${P.shop}, and a custom web app at ${P.software}. The final quote depends on layouts, features, integrations and content work, and it is itemised before you pay.` },
+    { question: "How much does a custom website cost in India?", answer: `With BtechWaleTech a custom-coded static site of up to 100 pages starts at ${P.site}, a custom SEO site of 299+ pages at ${P.seoSite}, a custom online store at ${P.shop}, and a custom web app at ${P.software}. The final quote depends on layouts, features, integrations and content work, and it is itemised before you pay.` },
     { question: "Is a custom website better than a template?", answer: "For businesses that rely on their site for leads or sales, usually yes: custom sites load faster, look distinct and handle specific features cleanly. For a quick, simple presence that you will edit yourself and replace soon, a template or builder may be enough. The right choice depends on how important the website is to revenue." },
     { question: "How long does a custom website developer take?", answer: "A custom static site of up to 100 pages usually takes one to two weeks. A custom SEO site with 700+ generated pages takes three to five weeks, a custom store four to eight weeks, and a custom web app six to twelve weeks. Late content and slow approvals are the usual reasons for delay." },
     { question: "Can I update a custom website myself?", answer: "Yes, if editing is planned before the build. For frequent updates we connect a content management system, such as a headless CMS or a custom WordPress theme, so your team can edit pages. For occasional changes, many clients simply message us during the five free months of maintenance and choose a monthly plan afterwards." },

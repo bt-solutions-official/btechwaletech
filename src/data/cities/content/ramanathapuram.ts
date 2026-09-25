@@ -40,7 +40,7 @@ const ramanathapuram: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Tamil-first local SEO", "Mundu chilli and seafood stores", "Accounts in your name"],
   },
   quickAnswer:
-    "In Ramanathapuram, a business website with us starts at ₹10,000 and is usually live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely without a Ramnad office, and you own everything.",
+    "In Ramanathapuram, a business website with us starts at ₹10,000 and is usually live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely without a Ramnad office, and you own everything.",
   snapshot: [
     { label: "Status", value: "Headquarters of Ramanathapuram district; a special grade municipality" },
     { label: "Coast", value: "District coastline of about 261 km along the Gulf of Mannar and Palk Bay" },
@@ -152,7 +152,7 @@ const ramanathapuram: CityContent = {
       id: "website-cost-ramanathapuram",
       heading: "Website cost in Ramanathapuram: starting prices and what changes them",
       paragraphs: [
-        "Our starting prices are public: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 700+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000, an online store from ₹50,000 in four to eight weeks and custom software from ₹60,000 over six to twelve weeks. Monthly SEO begins at ₹10,000 a month.",
+        "Our starting prices are public: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 299+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000, an online store from ₹50,000 in four to eight weeks and custom software from ₹60,000 over six to twelve weeks. Monthly SEO begins at ₹10,000 a month.",
         "Costs rise with scope: Tamil and English versions, large catalogues, payment and courier links, staff logins, booking calendars or Tally integration. If you provide text and photographs, the price stays near the starting figure; if we write content or arrange photography, that appears as a separate line.",
         "Quotes from local designers vary widely. Ask each one whose name the domain and hosting will be in, whether mobile testing and basic SEO are included, how many revision rounds you get and who fixes problems after launch. Our <a href=\"/pricing/\">pricing page</a> shows the starting points, and your written quote arrives in about two working days.",
       ],
@@ -213,7 +213,7 @@ const ramanathapuram: CityContent = {
     {
       question: "What is the website cost in Ramanathapuram?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Tamil content, products and integrations. You receive it itemised in writing before anything is billed.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Tamil content, products and integrations. You receive it itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Ramanathapuram businesses?",
@@ -228,7 +228,7 @@ const ramanathapuram: CityContent = {
     {
       question: "How quickly can a Ramanathapuram business get a website?",
       answer:
-        "A static website usually goes live one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having your content ready is the biggest factor in speed.",
+        "A static website usually goes live one to two weeks after we receive your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having your content ready is the biggest factor in speed.",
     },
     {
       question: "Who is the best website development team in Ramanathapuram?",
@@ -248,7 +248,7 @@ const ramanathapuram: CityContent = {
     {
       question: "Ramanathapuram-la website panna evvalavu aagum?",
       answer:
-        "Engaloda simple website ₹10,000-la irundhu aarambikkudhu, pothuvaaga onnu rendu vaarathula ready aagidum. 700+ page SEO website ₹20,000-la irundhu, Android matrum iOS app ₹40,000-la irundhu, online store ₹50,000-la irundhu aarambam. Final quote ungal pages, features poruthu ezhuthu moolama anuppuvom.",
+        "Engaloda simple website ₹10,000-la irundhu aarambikkudhu, pothuvaaga onnu rendu vaarathula ready aagidum. 299+ page SEO website ₹20,000-la irundhu, Android matrum iOS app ₹40,000-la irundhu, online store ₹50,000-la irundhu aarambam. Final quote ungal pages, features poruthu ezhuthu moolama anuppuvom.",
     },
     {
       question: "You have no office in Ramanathapuram. Is remote work safe?",

@@ -39,7 +39,7 @@ const thakurdwara: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first Maps listings", "Cane and mentha record tools", "Domain and code stay yours"],
   },
   quickAnswer:
-    "In Thakurdwara, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps start at ₹40,000, and so does AI or WhatsApp automation. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team without a Thakurdwara office, and you own every account.",
+    "In Thakurdwara, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps start at ₹40,000, and so does AI or WhatsApp automation. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team without a Thakurdwara office, and you own every account.",
   snapshot: [
     { label: "Location", value: "Tehsil town in Moradabad district, about 48 km north of Moradabad and roughly 12 km from Kashipur" },
     { label: "Population", value: "About 44,000 in the Nagar Palika Parishad area at the 2011 census, with 241 villages in the tehsil" },
@@ -162,7 +162,7 @@ const thakurdwara: CityContent = {
       ],
       list: [
         "<strong>Static website</strong> up to 100 pages: from ₹10,000, one to two weeks.",
-        "<strong>SEO website</strong> of 700+ pages, for a dealer or institute covering many products, courses or villages: from ₹20,000, three to five weeks.",
+        "<strong>SEO website</strong> of 299+ pages, for a dealer or institute covering many products, courses or villages: from ₹20,000, three to five weeks.",
         "<strong>Android and iOS app</strong>: from ₹40,000.",
         "<strong>AI or WhatsApp automation</strong>: from ₹40,000, two to four weeks.",
         "<strong>Online store</strong> with UPI and card checkout: from ₹50,000, four to eight weeks.",
@@ -217,7 +217,7 @@ const thakurdwara: CityContent = {
     {
       question: "What does a website cost in Thakurdwara?",
       answer:
-        "Our websites start at ₹10,000 for up to 100 pages. An SEO website of 700+ pages starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices only. Your written quote lists each feature separately, and nothing is billed until you approve it.",
+        "Our websites start at ₹10,000 for up to 100 pages. An SEO website of 299+ pages starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices only. Your written quote lists each feature separately, and nothing is billed until you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Thakurdwara businesses?",
@@ -232,7 +232,7 @@ const thakurdwara: CityContent = {
     {
       question: "How many days does it take to make a website in Thakurdwara?",
       answer:
-        "A simple business website takes one to two weeks after you send photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Delays usually come from waiting for content, so sending it early helps most.",
+        "A simple business website takes one to two weeks after you send photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Delays usually come from waiting for content, so sending it early helps most.",
     },
     {
       question: "Can you get my shop in Thakurdwara onto Google Maps?",

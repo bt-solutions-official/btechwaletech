@@ -39,7 +39,7 @@ const rath: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first local SEO", "Mandi and arhat records", "You own every login"],
   },
   quickAnswer:
-    "In Rath, a business website with us starts at ₹10,000 and is usually live within one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Rath office, and every account stays in your name.",
+    "In Rath, a business website with us starts at ₹10,000 and is usually live within one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Rath office, and every account stays in your name.",
   snapshot: [
     { label: "Location", value: "Tehsil headquarters in Hamirpur district, Chitrakoot division, in the Bundelkhand region of Uttar Pradesh" },
     { label: "Population", value: "About 65,000 in the 2011 census, governed by the Rath municipal board" },
@@ -149,7 +149,7 @@ const rath: CityContent = {
       id: "website-cost-rath",
       heading: "Website cost in Rath: starting prices and how to compare quotes",
       paragraphs: [
-        "Most owners in Rath want a figure first, so here are the starting points. A static site for a shop, clinic or school, up to 100 pages, is ₹10,000 onwards and is usually ready in one to two weeks. A large SEO site of 700 pages or more, suited to a coaching centre, distributor or hospital covering many services and villages, is ₹20,000 onwards and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation. An online store starts at ₹50,000, custom software at ₹60,000 and a monthly SEO plan at ₹10,000.",
+        "Most owners in Rath want a figure first, so here are the starting points. A static site for a shop, clinic or school, up to 100 pages, is ₹10,000 onwards and is usually ready in one to two weeks. A large SEO site of 299 pages or more, suited to a coaching centre, distributor or hospital covering many services and villages, is ₹20,000 onwards and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation. An online store starts at ₹50,000, custom software at ₹60,000 and a monthly SEO plan at ₹10,000.",
         "The amount rises only for what you choose to add. Hindi and English versions, a long product list, delivery rate tables, UPI payment, staff logins or a Tally link each appear as a separate line you can accept or remove. If you write your own text and send phone photographs, the copywriting line drops out entirely.",
         "Quotes in the Hamirpur and Jhansi area vary widely for jobs that look the same on paper. Before you pay anyone, ask who will own the domain legally, whether the site is tested on low-cost phones, whether basic on-page SEO is included, how many rounds of changes are covered and what support looks like after a year. Our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and an itemised written quote reaches you in about two working days.",
       ],
@@ -210,7 +210,7 @@ const rath: CityContent = {
     {
       question: "What is the website cost in Rath?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final amount depends on pages, Hindi content, products and integrations, and you receive it itemised in writing before anything is billed.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final amount depends on pages, Hindi content, products and integrations, and you receive it itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Rath businesses?",
@@ -220,7 +220,7 @@ const rath: CityContent = {
     {
       question: "How long does it take to make a website for a Rath shop?",
       answer:
-        "A simple static site is usually live within one to two weeks after you send photographs and details. A 700+ page SEO site takes three to five weeks, an online store four to eight and custom software six to twelve. The fastest projects are those where the owner sends content in the first few days.",
+        "A simple static site is usually live within one to two weeks after you send photographs and details. A 299+ page SEO site takes three to five weeks, an online store four to eight and custom software six to twelve. The fastest projects are those where the owner sends content in the first few days.",
     },
     {
       question: "Which is the best IT services team in Rath for a website?",
@@ -245,7 +245,7 @@ const rath: CityContent = {
     {
       question: "Rath me website banwane me kitna kharcha lagta hai?",
       answer:
-        "Hamare yahan simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein ban jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online dukaan ₹50,000 se shuru hai. Aapke pages aur features ke hisaab se final quote likhit mein diya jaata hai.",
+        "Hamare yahan simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein ban jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online dukaan ₹50,000 se shuru hai. Aapke pages aur features ke hisaab se final quote likhit mein diya jaata hai.",
     },
     {
       question: "You have no office in Rath. Is working remotely safe?",

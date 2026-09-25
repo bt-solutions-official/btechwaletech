@@ -154,7 +154,7 @@ const paramakudi: CityContent = {
       ],
       list: [
         "<strong>Static website up to 100 pages:</strong> from ₹10,000, one to two weeks.",
-        "<strong>SEO website with 700+ pages:</strong> starts at ₹20,000, three to five weeks.",
+        "<strong>SEO website with 299+ pages:</strong> starts at ₹20,000, three to five weeks.",
         "<strong>Android and iOS app:</strong> from ₹40,000, published on Google Play and the App Store.",
         "<strong>AI and WhatsApp automation:</strong> from ₹40,000, two to four weeks.",
         "<strong>Online saree or produce store:</strong> starts at ₹50,000, four to eight weeks.",
@@ -217,7 +217,7 @@ const paramakudi: CityContent = {
     {
       question: "How much does a website cost in Paramakudi?",
       answer:
-        "A small business website starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. You receive an itemised written quote in about two working days, and nothing is billed until you approve it.",
+        "A small business website starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. You receive an itemised written quote in about two working days, and nothing is billed until you approve it.",
     },
     {
       question: "Paramakudi la en kadaikku website seiya evvalavu aagum?",
@@ -262,7 +262,7 @@ const paramakudi: CityContent = {
     {
       question: "How long does a website or app take?",
       answer:
-        "A small website takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Apps depend on features and store review. Having photos, prices and basic text ready before we start keeps things on time.",
+        "A small website takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Apps depend on features and store review. Having photos, prices and basic text ready before we start keeps things on time.",
     },
     {
       question: "Do you work with businesses in Ramanathapuram and nearby towns?",

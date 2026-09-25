@@ -201,7 +201,7 @@ const content: CityContent = {
       heading: "SEO and AI-search visibility for Madhya Pradesh businesses",
       paragraphs: [
         "SEO for Madhya Pradesh businesses means appearing when buyers search by city, by product or in Hindi, and being described accurately by AI search tools such as Google AI Overviews and ChatGPT. It combines a well-structured website, city and service pages, a maintained Google Business Profile and clear, factual content.",
-        "Search behaviour in MP is mixed. A buyer in Indore may type in English, a parent in Rewa may use Hindi voice search, and a wholesale buyer in Gujarat may search by product specification. We plan pages for each pattern, including Devanagari keywords where they make sense. Our 700+ page SEO websites start at ₹20,000 and suit firms that serve many cities or products; monthly SEO starts at ₹10,000.",
+        "Search behaviour in MP is mixed. A buyer in Indore may type in English, a parent in Rewa may use Hindi voice search, and a wholesale buyer in Gujarat may search by product specification. We plan pages for each pattern, including Devanagari keywords where they make sense. Our 299+ page SEO websites start at ₹20,000 and suit firms that serve many cities or products; monthly SEO starts at ₹10,000.",
         "No honest provider can guarantee rankings. What we promise is correct technical setup, schema markup, fast pages, useful content and transparent reporting from Search Console. Results for local searches typically start to show within a few months. See our <a href='/services/seo-services/'>SEO services</a> and <a href='/services/web-development/'>web development</a> pages for detail.",
       ],
     },
@@ -218,7 +218,7 @@ const content: CityContent = {
       id: "cost-timeline-mp",
       heading: "What do IT services cost in Madhya Pradesh, and how long does work take?",
       paragraphs: [
-        "IT project costs in Madhya Pradesh vary widely from one IT services team in Madhya Pradesh to the next, but with BtechWaleTech a static website starts at ₹10,000 (1 to 2 weeks), a 700+ page SEO website at ₹20,000 (3 to 5 weeks), AI automation at ₹40,000 (2 to 4 weeks), ecommerce at ₹50,000 (4 to 8 weeks) and custom software at ₹60,000 (6 to 12 weeks).",
+        "IT project costs in Madhya Pradesh vary widely from one IT services team in Madhya Pradesh to the next, but with BtechWaleTech a static website starts at ₹10,000 (1 to 2 weeks), a 299+ page SEO website at ₹20,000 (3 to 5 weeks), AI automation at ₹40,000 (2 to 4 weeks), ecommerce at ₹50,000 (4 to 8 weeks) and custom software at ₹60,000 (6 to 12 weeks).",
         "Costs rise with user roles, integrations, data migration and the number of reports. Importing years of Tally or Excel history adds work; so does connecting courier, SMS or WhatsApp APIs. We list each item separately, so an owner can decide what to build now and what to add later. Maintenance is ₹8,000 a month after the first five free months, and monthly SEO is ₹10,000.",
         "Timelines depend as much on the client as on us. A business that shares sample data early and reviews the preview link weekly will finish on schedule. Full details are on our <a href='/pricing/'>pricing page</a>, and payment is by UPI QR or bank transfer in INR, in milestones written into the quote.",
       ],
@@ -277,7 +277,7 @@ const content: CityContent = {
     {
       question: "How long does a software project take?",
       answer:
-        "Six to twelve weeks is typical for a custom web application. AI and WhatsApp automation takes two to four weeks, a static website one to two weeks, a 700+ page SEO website three to five weeks and an online store four to eight weeks. Weekly reviews on a live preview link keep projects on schedule.",
+        "Six to twelve weeks is typical for a custom web application. AI and WhatsApp automation takes two to four weeks, a static website one to two weeks, a 299+ page SEO website three to five weeks and an online store four to eight weeks. Weekly reviews on a live preview link keep projects on schedule.",
     },
     {
       question: "Can the software and chatbots work in Hindi?",

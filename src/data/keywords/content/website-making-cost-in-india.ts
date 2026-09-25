@@ -34,7 +34,7 @@ const content: FreelanceContent = {
   },
   facts: [
     ["Static website from", `${P.site} · ${P.siteUsd}`],
-    ["SEO website from", `${P.seoSite} · 700+ pages`],
+    ["SEO website from", `${P.seoSite} · 299+ pages`],
     ["Online store from", `${P.shop}`],
     ["Custom web app from", `${P.software}`],
     ["Quote turnaround", "About 2 working days"],
@@ -48,14 +48,14 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What is the website making cost in India in 2026?",
-    text: `Website making cost in India starts at ${P.site} for a static business website of up to 100 pages, built in 1–2 weeks. An SEO website with 700+ pages starts at ${P.seoSite}, an online store with UPI and card checkout at ${P.shop}, and a custom web application at ${P.software}. Add yearly domain, hosting and optional maintenance to your budget.`,
+    text: `Website making cost in India starts at ${P.site} for a static business website of up to 100 pages, built in 1–2 weeks. An SEO website with 299+ pages starts at ${P.seoSite}, an online store with UPI and card checkout at ${P.shop}, and a custom web application at ${P.software}. Add yearly domain, hosting and optional maintenance to your budget.`,
     more: `To stretch a small budget, read <a href='/affordable-web-developer/'>affordable web development</a>; for the lowest workable plan, see <a href='/low-cost-website-developer/'>low-cost website</a>.`,
   },
   snapshot: {
     caption: "Website making cost in India at a glance",
     rows: [
       { label: "Static website (up to 100 pages)", value: `From ${P.site}, 1–2 weeks` },
-      { label: "SEO website (700+ pages)", value: `From ${P.seoSite}, 3–5 weeks` },
+      { label: "SEO website (299+ pages)", value: `From ${P.seoSite}, 3–5 weeks` },
       { label: "Ecommerce store", value: `From ${P.shop}, 4–8 weeks` },
       { label: "Custom web app or portal", value: `From ${P.software}, 6–12 weeks` },
       { label: "Monthly SEO (optional)", value: `From ${P.seo}` },
@@ -69,7 +69,7 @@ const content: FreelanceContent = {
     note: "Most confusion about price comes from comparing different kinds of website. Place your project in one of these first, then compare quotes.",
     cards: [
       { name: "Static business website", note: `Up to 100 pages, contact form, WhatsApp button, map and basic SEO, from ${P.site}. Lowest running cost because hosting is cheap and there is little to update.`, href: "/static-website-developer/", size: "lg" },
-      { name: "SEO website, 700+ pages", note: `Service and location pages generated from data, with schema, sitemaps and internal links, from ${P.seoSite}. Costs more upfront, built to earn search traffic.`, href: "/seo-website-developer/", size: "lg" },
+      { name: "SEO website, 299+ pages", note: `Service and location pages generated from data, with schema, sitemaps and internal links, from ${P.seoSite}. Costs more upfront, built to earn search traffic.`, href: "/seo-website-developer/", size: "lg" },
       { name: "Ecommerce store", note: `Catalogue, cart, UPI and card checkout, order emails, GST-ready invoices, from ${P.shop}. Product count and integrations drive the final figure.`, href: "/freelance-ecommerce-developer/", size: "md" },
       { name: "Dynamic site with admin panel", note: "Your staff add notices, listings or blog posts through a dashboard. Priced between a static site and a custom app depending on the modules.", href: "/dynamic-website-developer/", size: "md" },
       { name: "Custom web application", note: `Logins, roles, bookings, dashboards and business rules, from ${P.software}. Priced by screens and integrations rather than pages.`, href: "/web-application-developer/", size: "md" },
@@ -110,7 +110,7 @@ const content: FreelanceContent = {
       ],
       list: [
         `Static website, up to 100 pages: from ${P.site}, 1–2 weeks`,
-        `SEO website, 700+ pages: from ${P.seoSite}, 3–5 weeks`,
+        `SEO website, 299+ pages: from ${P.seoSite}, 3–5 weeks`,
         `Ecommerce store: from ${P.shop}, 4–8 weeks`,
         `Custom web app: from ${P.software}, 6–12 weeks`,
       ],
@@ -287,7 +287,7 @@ const content: FreelanceContent = {
       columns: ["Website type", "Starts at (India)", "Starts at (abroad)", "Build time", "Typical buyer"],
       rows: [
         ["Static website, up to 100 pages", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Shops, clinics, consultants, schools"],
-        ["SEO website, 700+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Service businesses covering many areas"],
+        ["SEO website, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Service businesses covering many areas"],
         ["Ecommerce store", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Brands and retailers selling online"],
         ["Custom web app or portal", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Bookings, dashboards, member areas"],
         ["AI automation add-on", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "WhatsApp replies, lead sorting"],

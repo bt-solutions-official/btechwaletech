@@ -34,7 +34,7 @@ const jamshedpur: CityContent = {
     pills: ["From ₹10,000", "Vendor-ready company profiles", "Order and job trackers", "Hindi and Bengali-friendly SEO", "WhatsApp automation"],
   },
   quickAnswer:
-    "Jamshedpur businesses can get a static website from us from ₹10,000 in one to two weeks, a 700+ page SEO site from ₹20,000, an online store from ₹50,000 and a custom web app such as an order or job tracker from ₹60,000. We work remotely with no Jamshedpur office, and maintenance is free for five months after launch.",
+    "Jamshedpur businesses can get a static website from us from ₹10,000 in one to two weeks, a 299+ page SEO site from ₹20,000, an online store from ₹50,000 and a custom web app such as an order or job tracker from ₹60,000. We work remotely with no Jamshedpur office, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Anchor industries", value: "Tata Steel's integrated works, the Tata Motors commercial vehicle plant at Telco, and the Tinplate works at Golmuri" },
     { label: "Ancillary belt", value: "Adityapur Industrial Area across the Kharkai, with several hundred auto-component, forging, casting and fabrication units" },
@@ -72,7 +72,7 @@ const jamshedpur: CityContent = {
       heading: "What does a website cost in Jamshedpur?",
       paragraphs: [
         "Website quotes in Jamshedpur can run from ₹3,000 for a template to ₹50,000 and above from agencies in Kolkata or Ranchi. The difference usually hides in what is left out: search setup, content writing, hosting ownership and support after launch. A quote that does not list these separately cannot be compared fairly.",
-        "Our starting prices are published openly. A static site of up to 100 pages starts at ₹10,000 and is ready in one to two weeks. A 700+ page SEO site starts at ₹20,000 and takes three to five weeks, which suits a component maker with several product families or a hospital with many departments. Online stores start at ₹50,000, automation projects at ₹40,000, and custom web apps such as job trackers or contractor portals at ₹60,000.",
+        "Our starting prices are published openly. A static site of up to 100 pages starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO site starts at ₹20,000 and takes three to five weeks, which suits a component maker with several product families or a hospital with many departments. Online stores start at ₹50,000, automation projects at ₹40,000, and custom web apps such as job trackers or contractor portals at ₹60,000.",
         "The complete list is on our <a href=\"/pricing/\">pricing page</a>. You receive an itemised quote with each page and feature, and we bill nothing before your written approval.",
       ],
       list: [
@@ -218,12 +218,12 @@ const jamshedpur: CityContent = {
     {
       question: "How much does a website cost in Jamshedpur?",
       answer:
-        "With us, static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web apps such as job trackers or dealer portals at ₹60,000. A clinic or coaching class usually needs the first, an Adityapur manufacturer the second. You get an itemised quote first and pay nothing until you approve it in writing.",
+        "With us, static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web apps such as job trackers or dealer portals at ₹60,000. A clinic or coaching class usually needs the first, an Adityapur manufacturer the second. You get an itemised quote first and pay nothing until you approve it in writing.",
     },
     {
       question: "Jamshedpur me website banwane me kitna kharcha aata hai?",
       answer:
-        "Humare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte me ban jaati hai. 700+ page wali SEO website ₹20,000 se, online store ₹50,000 se aur job tracker ya dealer portal jaisa custom software ₹60,000 se. Likhit quote pehle milta hai, approval ke bina koi paisa nahi lagta.",
+        "Humare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte me ban jaati hai. 299+ page wali SEO website ₹20,000 se, online store ₹50,000 se aur job tracker ya dealer portal jaisa custom software ₹60,000 se. Likhit quote pehle milta hai, approval ke bina koi paisa nahi lagta.",
     },
     {
       question: "Do you have an office in Jamshedpur?",

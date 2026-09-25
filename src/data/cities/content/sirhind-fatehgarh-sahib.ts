@@ -39,7 +39,7 @@ const sirhind: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Punjabi and English SEO", "Workshop and dealer catalogues", "Code and domain in your name"],
   },
   quickAnswer:
-    "For Sirhind and Fatehgarh Sahib businesses, our websites start at ₹10,000 and a basic site is usually live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI automation; a 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and you own everything.",
+    "For Sirhind and Fatehgarh Sahib businesses, our websites start at ₹10,000 and a basic site is usually live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI automation; a 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and you own everything.",
   snapshot: [
     { label: "Status", value: "Twin town of Sirhind and Fatehgarh Sahib, headquarters of Fatehgarh Sahib district" },
     { label: "District formed", value: "13 April 1992, on Baisakhi, named after Sahibzada Fateh Singh" },
@@ -166,7 +166,7 @@ const sirhind: CityContent = {
       id: "website-cost-sirhind",
       heading: "Website cost in Sirhind: starting prices and fair ways to compare quotes",
       paragraphs: [
-        "Owners in Sirhind usually ask the price first, so here it is plainly. A simple site of up to 100 pages starts at ₹10,000 and is typically ready in one to two weeks. An SEO build of 700 pages or more, useful for a parts maker with a deep catalogue or an institution covering many courses, starts at ₹20,000 and takes three to five weeks. Apps and AI automation each start at ₹40,000, stores at ₹50,000 and custom software at ₹60,000.",
+        "Owners in Sirhind usually ask the price first, so here it is plainly. A simple site of up to 100 pages starts at ₹10,000 and is typically ready in one to two weeks. An SEO build of 299 pages or more, useful for a parts maker with a deep catalogue or an institution covering many courses, starts at ₹20,000 and takes three to five weeks. Apps and AI automation each start at ₹40,000, stores at ₹50,000 and custom software at ₹60,000.",
         "Your figure moves up from there only for things you pick. Punjabi and English versions, large product imports, dealer price lists, payment setup, staff logins and billing software links each show as separate lines you can accept or remove. If you write your own text and send phone photos, the cost stays close to the starting point.",
         "Local quotes for similar-sounding jobs vary widely, so compare on the things that matter later. Who registers the domain and in whose name? Is the site tested on cheap Android phones? Is basic on-page SEO included? How many rounds of changes are covered? What happens when you need an edit two years from now? Our full list of starting points is on the <a href=\"/pricing/\">pricing page</a>.",
         "We send a written, itemised quote within about two working days of your first message, and nothing is billed before you approve it.",
@@ -221,7 +221,7 @@ const sirhind: CityContent = {
     {
       question: "What is the website cost in Sirhind?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on page count, Punjabi content, products and integrations, and arrives itemised in writing before any billing.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on page count, Punjabi content, products and integrations, and arrives itemised in writing before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Sirhind businesses?",
@@ -231,7 +231,7 @@ const sirhind: CityContent = {
     {
       question: "How long does a website take for a Fatehgarh Sahib business?",
       answer:
-        "A simple site is usually live within one to two weeks once we have your photos and details. A 700+ page SEO site takes about three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content in the first few days.",
+        "A simple site is usually live within one to two weeks once we have your photos and details. A 299+ page SEO site takes about three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content in the first few days.",
     },
     {
       question: "Which is the best IT services team in Fatehgarh Sahib for a small business?",
@@ -256,7 +256,7 @@ const sirhind: CityContent = {
     {
       question: "Sirhind me website banwane ka kitna kharcha hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein taiyaar ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapke features ke hisaab se poora quote likhit mein milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein taiyaar ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapke features ke hisaab se poora quote likhit mein milta hai.",
     },
     {
       question: "You have no office in Sirhind. How do I know the work is safe?",

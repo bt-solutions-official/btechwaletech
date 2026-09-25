@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "Working style", value: "Async first: written notes, then calls when a decision needs a conversation" },
       { label: "Progress view", value: "Staging link you open on your own phone and laptop" },
       { label: "Static website", value: `From ${P.site}, 1–2 weeks` },
-      { label: "SEO website, 700+ pages", value: `From ${P.seoSite}, 3–5 weeks` },
+      { label: "SEO website, 299+ pages", value: `From ${P.seoSite}, 3–5 weeks` },
       { label: "Web app or portal", value: `From ${P.software}, 6–12 weeks` },
       { label: "Payments", value: "UPI or bank transfer in India; Wise, wire or PayPal abroad" },
       { label: "Upkeep", value: `5 months free after launch, then from ${P.care}` },
@@ -69,7 +69,7 @@ const content: FreelanceContent = {
     note: "Nearly every web project can be built without meeting. These are the ones where a remote rhythm helps rather than hurts.",
     cards: [
       { name: "Business website", note: `A 5 to 100 page site reviewed page by page on staging, so you approve each layout from your phone before launch. From ${P.site}.`, href: "/services/web-development/", size: "lg" },
-      { name: "SEO website with 700+ pages", note: `Location and service pages generated from a spreadsheet you both edit, which suits remote work because the data is the brief. From ${P.seoSite}.`, href: "/seo-website-developer/", size: "lg" },
+      { name: "SEO website with 299+ pages", note: `Location and service pages generated from a spreadsheet you both edit, which suits remote work because the data is the brief. From ${P.seoSite}.`, href: "/seo-website-developer/", size: "lg" },
       { name: "Online store", note: `Product sheets shared in Google Drive, UPI and card checkout tested on a staging store before any real order. From ${P.shop}.`, href: "/freelance-ecommerce-developer/", size: "md" },
       { name: "Web app or client portal", note: `Logins, roles and dashboards shipped in weekly slices you test yourself. From ${P.software}.`, href: "/web-application-developer/", size: "md" },
       { name: "Redesign of an old site", note: "Old and new versions compared side by side on two links, with a redirect sheet you sign off before switching the domain.", href: "/website-redesign-freelancer/", size: "md" },
@@ -189,7 +189,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does a remote web developer in India cost?",
       paragraphs: [
-        `With BtechWaleTech, a static business website of up to 100 pages starts at ${P.site}, an SEO website with 700+ pages at ${P.seoSite}, an online store at ${P.shop} and a custom web app at ${P.software}. International clients see the same work from ${P.siteUsd}. Those are starting prices; your quote depends on scope.`,
+        `With BtechWaleTech, a static business website of up to 100 pages starts at ${P.site}, an SEO website with 299+ pages at ${P.seoSite}, an online store at ${P.shop} and a custom web app at ${P.software}. International clients see the same work from ${P.siteUsd}. Those are starting prices; your quote depends on scope.`,
         `Across the market, quotes from remote developers in India vary widely, and the location of the developer explains little of it. What drives the number is the count of unique page designs, custom features, content writing, integrations with other systems, and how much post-launch support is included. A quote that looks cheap often leaves out content, hosting setup or maintenance, so compare line by line, not total by total.`,
         `Remote work removes some costs rather than adding them. There is no travel for review meetings and no office overhead baked into the rate. What it does require is a little of your time: replying to questions within a day or two keeps the timeline intact. Our <a href='/website-developer-cost/'>website developer cost breakdown</a> goes line by line if you want more detail.`,
       ],
@@ -334,7 +334,7 @@ const content: FreelanceContent = {
       columns: ["Project", "Written updates", "Calls", "Staging review", "Typical length"],
       rows: [
         ["Static website", "Every working day", "Kickoff, first review, launch", "From day 3–4", "1–2 weeks"],
-        ["SEO website, 700+ pages", "Every working day", "Kickoff, template review, data review, launch", "Templates in week 1", "3–5 weeks"],
+        ["SEO website, 299+ pages", "Every working day", "Kickoff, template review, data review, launch", "Templates in week 1", "3–5 weeks"],
         ["Online store", "Daily, plus weekly summary", "Weekly 20-minute call", "Catalogue and checkout on staging", "4–8 weeks"],
         ["Web app or portal", "Daily, plus weekly milestone report", "Weekly call and demo", "Each feature as it ships", "6–12 weeks"],
         ["Android & iOS app", "Daily, plus weekly summary", "Weekly call", "Test builds on your phone", "6–10 weeks"],
@@ -350,7 +350,7 @@ const content: FreelanceContent = {
       columns: ["Project", "From (India)", "From (abroad)", "Timeline"],
       rows: [
         ["Static website, up to 100 pages", `${P.site}`, `${P.siteUsd}`, "1–2 weeks"],
-        ["SEO website, 700+ pages", `${P.seoSite}`, `${P.seoSiteUsd}`, "3–5 weeks"],
+        ["SEO website, 299+ pages", `${P.seoSite}`, `${P.seoSiteUsd}`, "3–5 weeks"],
         ["Online store", `${P.shop}`, `${P.shopUsd}`, "4–8 weeks"],
         ["Custom web app", `${P.software}`, `${P.softwareUsd}`, "6–12 weeks"],
         ["Android & iOS app", `${P.app}`, `${P.appUsd}`, "6–10 weeks"],
@@ -408,7 +408,7 @@ const content: FreelanceContent = {
   faqHeading: "Remote web developer in India: questions people ask",
   faqs: [
     { question: "Is it safe to hire a remote web developer in India?", answer: "It is safe when three conditions are met: accounts such as the domain, hosting and code repository are in your name, payments are staged against work you can see on a staging link, and scope is agreed in writing. With those in place, distance adds little risk. Without them, even a local developer can leave you stuck." },
-    { question: "How much does a remote web developer in India charge?", answer: `Quotes vary widely and depend on pages, features, content and integrations rather than location. With BtechWaleTech a static website starts at ${P.site} (${P.siteUsd} abroad), an SEO website with 700+ pages at ${P.seoSite}, an online store at ${P.shop} and a custom web app at ${P.software}. Every quote is itemised before you pay.` },
+    { question: "How much does a remote web developer in India charge?", answer: `Quotes vary widely and depend on pages, features, content and integrations rather than location. With BtechWaleTech a static website starts at ${P.site} (${P.siteUsd} abroad), an SEO website with 299+ pages at ${P.seoSite}, an online store at ${P.shop} and a custom web app at ${P.software}. Every quote is itemised before you pay.` },
     { question: "How will I know what my remote developer is doing each day?", answer: "Agree a written update rhythm at kickoff. A useful note says what was done, what is next and what is needed from you. Pair it with a staging link that updates as work is finished, so you can check progress yourself at any hour instead of waiting for a meeting or a report." },
     { question: "What is a staging link and why should I ask for one?", answer: "A staging link is a private, hidden copy of your website where new work appears before it goes live. It lets you review pages on your own phone, give feedback with screenshots and approve changes safely. It should be password-protected or blocked from search engines so the draft never appears in Google results." },
     { question: "How often should I have calls with a remote web developer?", answer: "For a small website, three or four calls in total are usually enough: kickoff, first design review, pre-launch check and handover. Longer projects such as stores or web apps add a short weekly call. Most day-to-day questions are faster in writing, and written answers leave a record both sides can refer back to." },

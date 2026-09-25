@@ -35,7 +35,7 @@ const nagaon: CityContent = {
     pills: ["Sites from ₹10,000", "Assamese, Bengali, Hindi, English", "Clinic booking forms", "Hotel and homestay pages", "Code and domain are yours"],
   },
   quickAnswer:
-    "For a Nagaon business, our static website starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site starts at ₹20,000, WhatsApp or AI automation from ₹40,000 and an online store with UPI from ₹50,000. We are a remote team of three engineers with no Nagaon office, and maintenance is free for five months after launch.",
+    "For a Nagaon business, our static website starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp or AI automation from ₹40,000 and an online store with UPI from ₹50,000. We are a remote team of three engineers with no Nagaon office, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Location", value: "Central Assam, about 120 km east of Guwahati by road, with the Kolong river dividing Nagaon from Haibargaon" },
     { label: "Markets", value: "Bara Bazar, Natun Bazar and Haibargaon Bazar are the main market places" },
@@ -73,12 +73,12 @@ const nagaon: CityContent = {
       heading: "Website costs in Nagaon and what each level includes",
       paragraphs: [
         "Quotes in Nagaon vary a lot. Some local offers are very cheap but leave out search setup, register the domain in the builder's name, and are rarely updated after launch. Agencies in Guwahati may build good sites, but often at prices that include rent, sales staff and travel.",
-        "Our static websites, up to 100 pages, start at ₹10,000 and take one to two weeks. A search-focused site of 700+ pages, where each product, course, treatment or room type gets its own page, starts at ₹20,000 and takes three to five weeks. WhatsApp and AI automation starts at ₹40,000, online stores at ₹50,000, and custom web software such as wholesale or admission systems at ₹60,000. Monthly SEO starts at ₹10,000. You can see the full breakdown on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our static websites, up to 100 pages, start at ₹10,000 and take one to two weeks. A search-focused site of 299+ pages, where each product, course, treatment or room type gets its own page, starts at ₹20,000 and takes three to five weeks. WhatsApp and AI automation starts at ₹40,000, online stores at ₹50,000, and custom web software such as wholesale or admission systems at ₹60,000. Monthly SEO starts at ₹10,000. You can see the full breakdown on our <a href=\"/pricing/\">pricing page</a>.",
         "All of these are starting prices. A homestay with four rooms needs less than a college with a dozen departments and online admissions. We send an itemised quote, usually within two working days, and nothing is billed until you approve it in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form, map and basic SEO. For clinics, shops, tutors and homestays.",
-        "<strong>From ₹20,000:</strong> 700+ pages built around what local people search. For hospitals, wholesalers and institutes.",
+        "<strong>From ₹20,000:</strong> 299+ pages built around what local people search. For hospitals, wholesalers and institutes.",
         "<strong>From ₹50,000:</strong> online store with UPI and card payments. For tea, handloom, gamosa and food products.",
         "<strong>From ₹60,000:</strong> custom software with logins and reports. For wholesalers, rice mills, schools and colleges.",
       ],
@@ -209,7 +209,7 @@ const nagaon: CityContent = {
     {
       question: "How much does a website cost in Nagaon?",
       answer:
-        "With us, a static business website starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom web software at ₹60,000. These are starting prices, and the final amount depends on pages, features and content. We send an itemised written quote within about two working days before anything is billed.",
+        "With us, a static business website starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom web software at ₹60,000. These are starting prices, and the final amount depends on pages, features and content. We send an itemised written quote within about two working days before anything is billed.",
     },
     {
       question: "Nagaon me website banwane ka kharcha kitna aata hai?",
@@ -239,7 +239,7 @@ const nagaon: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static website usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Waiting for photos and details causes most delays, so we draft the text ourselves for you to correct.",
+        "A static website usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Waiting for photos and details causes most delays, so we draft the text ourselves for you to correct.",
     },
     {
       question: "Can you build an online store for gamosa, tea or handloom?",

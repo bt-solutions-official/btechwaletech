@@ -34,7 +34,7 @@ const kohima: CityContent = {
     pills: ["Websites from ₹10,000", "Homestay and hotel booking pages", "Handloom and craft stores", "Sites that load on hill networks", "WhatsApp replies and records"],
   },
   quickAnswer:
-    "A static website for a Kohima business starts from ₹10,000 with us and is usually ready in one to two weeks. Larger 700+ page SEO sites start at ₹20,000, online stores for shawls or local produce from ₹50,000 and custom software from ₹60,000. We are remote, keep no Kohima office, and maintain your site free for five months.",
+    "A static website for a Kohima business starts from ₹10,000 with us and is usually ready in one to two weeks. Larger 299+ page SEO sites start at ₹20,000, online stores for shawls or local produce from ₹50,000 and custom software from ₹60,000. We are remote, keep no Kohima office, and maintain your site free for five months.",
   snapshot: [
     { label: "Role", value: "State capital of Nagaland, home to the Secretariat, the Assembly and most state directorates" },
     { label: "Terrain", value: "Hill city at roughly 1,400 to 1,500 metres, spread along ridges above NH 2 and NH 29" },
@@ -73,12 +73,12 @@ const kohima: CityContent = {
       heading: "How much a website costs in Kohima, with nothing hidden",
       paragraphs: [
         "Quotes in Nagaland vary widely. A friend may build something free on a page builder that nobody can edit once they move away, while an agency in a larger city may send a proposal padded with services a Kohima shop will never use. The useful comparison is not the headline number but what the quote actually includes: who owns the domain, whether search basics are set up, how fast the pages open on mobile data and what small changes cost after launch.",
-        "Our numbers are on the <a href=\"/pricing/\">pricing page</a>, and each is a starting price. A static site of up to 100 pages, which covers most guest houses, shops, schools and professional firms, starts from ₹10,000 and takes one to two weeks. A 700+ page SEO website, planned around what people really search, starts from ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts at ₹40,000, online stores from ₹50,000, custom software from ₹60,000 and monthly SEO from ₹10,000 a month.",
+        "Our numbers are on the <a href=\"/pricing/\">pricing page</a>, and each is a starting price. A static site of up to 100 pages, which covers most guest houses, shops, schools and professional firms, starts from ₹10,000 and takes one to two weeks. A 299+ page SEO website, planned around what people really search, starts from ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts at ₹40,000, online stores from ₹50,000, custom software from ₹60,000 and monthly SEO from ₹10,000 a month.",
         "What moves the final figure is content and features. A craft seller with eighty products, each needing photos, sizes and a story, takes longer than a clinic with six services. Booking calendars, payment links and multiple languages all add work. Every item appears separately in the quote, so you can drop what you do not need before agreeing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages with mobile layout, enquiry form, map and basic SEO, for shops, homestays and firms.",
-        "<strong>From ₹20,000:</strong> 700+ pages built around searches, for schools, hospitals, travel operators and suppliers.",
+        "<strong>From ₹20,000:</strong> 299+ pages built around searches, for schools, hospitals, travel operators and suppliers.",
         "<strong>From ₹50,000:</strong> an online store with cart, UPI and cards, for shawls, crafts and packaged foods.",
         "<strong>From ₹60,000:</strong> custom tools with logins and reports, for contractors, NGOs and institutions.",
       ],
@@ -219,12 +219,12 @@ const kohima: CityContent = {
     {
       question: "How much does a website cost in Kohima?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices. Your written quote depends on pages, features and content, and nothing is billed until you approve it.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices. Your written quote depends on pages, features and content, and nothing is billed until you approve it.",
     },
     {
       question: "Kohima mein website banwane ka kharcha kitna aata hai?",
       answer:
-        "Hamare saath simple static website ₹10,000 se shuru hoti hai, 700+ page wali SEO website ₹20,000 se, aur online store ₹50,000 se shuru hota hai. Final rate pages, features aur content par depend karta hai. Kaam shuru hone se pehle aapko likhit itemised quote milta hai, aur aapki approval ke baad hi bill banta hai.",
+        "Hamare saath simple static website ₹10,000 se shuru hoti hai, 299+ page wali SEO website ₹20,000 se, aur online store ₹50,000 se shuru hota hai. Final rate pages, features aur content par depend karta hai. Kaam shuru hone se pehle aapko likhit itemised quote milta hai, aur aapki approval ke baad hi bill banta hai.",
     },
     {
       question: "Do you have an office in Kohima?",
@@ -254,7 +254,7 @@ const kohima: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve. Most delays come from waiting for photos and text, so we draft content for you to correct.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve. Most delays come from waiting for photos and text, so we draft content for you to correct.",
     },
     {
       question: "I supply equipment to government departments. Is a website worth it?",

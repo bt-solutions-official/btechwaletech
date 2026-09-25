@@ -35,7 +35,7 @@ const imphal: CityContent = {
     pills: ["Sites from ₹10,000", "Handloom and textile stores", "Pages in English and Manipuri", "Built to load on weak networks", "WhatsApp enquiry automation"],
   },
   quickAnswer:
-    "In Imphal, a business website with us starts at ₹10,000 and is usually live in one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store with UPI at ₹50,000 and custom software at ₹60,000. We are a remote team with no Imphal office, and every site gets five months of free maintenance.",
+    "In Imphal, a business website with us starts at ₹10,000 and is usually live in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store with UPI at ₹50,000 and custom software at ₹60,000. We are a remote team with no Imphal office, and every site gets five months of free maintenance.",
   snapshot: [
     { label: "Role", value: "Capital of Manipur, set in the Imphal Valley at about 786 metres and ringed by hill ranges" },
     { label: "Markets", value: "Ima Keithel (Khwairamband Bazar), the women-run market of around 5,000 traders, plus Thangal Bazar and Paona Bazar" },
@@ -74,12 +74,12 @@ const imphal: CityContent = {
       heading: "Website prices in Imphal and what you should get for them",
       paragraphs: [
         "Imphal owners often receive very different quotes. Some local freelancers charge ₹3,000 for a template site with no search setup and a domain held in their name. Agencies in Guwahati, Kolkata or Delhi may ask ₹60,000 for five pages, adding travel and account management on top.",
-        "Our rates are published. A static website for a clinic, tutor, shop or small office starts at <strong>₹10,000</strong> and usually takes one to two weeks. A 700+ page site built around what people in Manipur search for begins at <strong>₹20,000</strong> and takes three to five weeks. Online stores with UPI payments begin at <strong>₹50,000</strong>, WhatsApp and AI automation at <strong>₹40,000</strong>, and custom software such as fee management or retailer ordering at <strong>₹60,000</strong>. Monthly SEO is from ₹10,000. The full list is on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our rates are published. A static website for a clinic, tutor, shop or small office starts at <strong>₹10,000</strong> and usually takes one to two weeks. A 299+ page site built around what people in Manipur search for begins at <strong>₹20,000</strong> and takes three to five weeks. Online stores with UPI payments begin at <strong>₹50,000</strong>, WhatsApp and AI automation at <strong>₹40,000</strong>, and custom software such as fee management or retailer ordering at <strong>₹60,000</strong>. Monthly SEO is from ₹10,000. The full list is on our <a href=\"/pricing/\">pricing page</a>.",
         "These figures are starting points. A tuition centre with five pages is quicker than a textile store with three hundred products in several colours and sizes. You receive a quote that names every page and feature, and nothing is billed until you approve it in writing.",
       ],
       list: [
         "<strong>Basic site from ₹10,000:</strong> up to 100 pages, mobile layout, map, WhatsApp link and basic SEO.",
-        "<strong>SEO site from ₹20,000:</strong> 700+ pages for services, courses or products, with schema and a sitemap.",
+        "<strong>SEO site from ₹20,000:</strong> 299+ pages for services, courses or products, with schema and a sitemap.",
         "<strong>Online store from ₹50,000:</strong> catalogue, variants, UPI and card checkout, shipping rules and order alerts.",
         "<strong>Web application from ₹60,000:</strong> logins, roles, records and reports for institutes, clinics and distributors.",
       ],
@@ -212,7 +212,7 @@ const imphal: CityContent = {
     {
       question: "How much does a website cost in Imphal?",
       answer:
-        "Our static business sites start at ₹10,000, 700+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. In Imphal you will see quotes from about ₹3,000 to ₹60,000, so check what is included: search setup, a domain in your name and help after launch.",
+        "Our static business sites start at ₹10,000, 299+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. In Imphal you will see quotes from about ₹3,000 to ₹60,000, so check what is included: search setup, a domain in your name and help after launch.",
     },
     {
       question: "Imphal me ek chhoti dukaan ki website banwane me kitna kharcha aayega?",
@@ -247,7 +247,7 @@ const imphal: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks, and a custom application six to twelve. The biggest delays come from waiting for photos and text, so we draft content for you to correct.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks, and a custom application six to twelve. The biggest delays come from waiting for photos and text, so we draft content for you to correct.",
     },
     {
       question: "Do you build websites and portals for coaching institutes?",

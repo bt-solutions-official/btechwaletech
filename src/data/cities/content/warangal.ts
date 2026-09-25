@@ -34,7 +34,7 @@ const warangal: CityContent = {
     pills: ["Websites from ₹10,000", "Telugu and English pages", "Trader and mandi sites", "Stores for durries and handloom", "WhatsApp enquiry automation"],
   },
   quickAnswer:
-    "In Warangal, a basic business website with us starts at ₹10,000 and a 700+ page SEO website from ₹20,000, usually ready in one to five weeks. Online stores start at ₹50,000 and automation at ₹40,000. We are a remote three-engineer team with no office in Warangal or Hanamkonda, and every site gets five months of free maintenance.",
+    "In Warangal, a basic business website with us starts at ₹10,000 and a 299+ page SEO website from ₹20,000, usually ready in one to five weeks. Online stores start at ₹50,000 and automation at ₹40,000. We are a remote three-engineer team with no office in Warangal or Hanamkonda, and every site gets five months of free maintenance.",
   snapshot: [
     { label: "Tri-city", value: "Warangal, Hanamkonda and Kazipet, linked by NH 163 and served by Kazipet Junction and Warangal stations" },
     { label: "Agri trade", value: "Enumamula Agricultural Market, a major grain and red chilli market; Warangal Chapata chilli holds a GI tag" },
@@ -72,12 +72,12 @@ const warangal: CityContent = {
       heading: "Website costs in Warangal, without the guesswork",
       paragraphs: [
         "Ask five people in Hanamkonda for a website quote and the answers might range from ₹2,500 to ₹45,000. Cheap quotes usually mean a recycled template, no SEO and hosting on the designer's account, which becomes a problem the day you want to switch. Expensive quotes often cover office rent and staff who never touch your site.",
-        "Our starting prices are public. A static business website of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. An online store with UPI and card checkout starts at ₹50,000, and a custom web application such as a trader ledger, student portal or dealer system starts at ₹60,000. Automation projects start at ₹40,000, and monthly SEO at ₹10,000.",
+        "Our starting prices are public. A static business website of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. An online store with UPI and card checkout starts at ₹50,000, and a custom web application such as a trader ledger, student portal or dealer system starts at ₹60,000. Automation projects start at ₹40,000, and monthly SEO at ₹10,000.",
         "You get a quote with a separate line for each page and feature, so you can see what drives the price and drop anything you don't need. Nothing is billed until you approve it in writing.",
       ],
       list: [
         "<strong>Static website, from ₹10,000:</strong> up to 100 pages, enquiry form, mobile layout, SEO basics. For clinics, shops, tutors and consultants.",
-        "<strong>SEO website, from ₹20,000:</strong> 700+ pages, schema, sitemap and Search Console. For hospitals, colleges and service firms.",
+        "<strong>SEO website, from ₹20,000:</strong> 299+ pages, schema, sitemap and Search Console. For hospitals, colleges and service firms.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart, UPI and card payments. For durries, handloom, spices and pickles.",
         "<strong>Custom web app, from ₹60,000:</strong> logins, ledgers, dashboards. For traders, cold storages and distributors.",
       ],
@@ -210,12 +210,12 @@ const warangal: CityContent = {
     {
       question: "How much does a website cost in Warangal?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Local quotes for similar work range from about ₹2,500 to ₹45,000. Compare ownership of the domain and hosting, SEO basics and after-launch support, not only the price.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Local quotes for similar work range from about ₹2,500 to ₹45,000. Compare ownership of the domain and hosting, SEO basics and after-launch support, not only the price.",
     },
     {
       question: "Warangal lo website cheyinchadaniki entha kharchu avutundi?",
       answer:
-        "Maa daggara simple business website ₹10,000 nunchi modalavutundi. 700+ pages SEO website ₹20,000 nunchi, online store ₹50,000 nunchi. Final dhara pages, features, content meeda aadharapadi untundi. Pani modalupettakamundhe meeku itemised quote pampistamu, meeru approve chesina tarvate bill chestamu.",
+        "Maa daggara simple business website ₹10,000 nunchi modalavutundi. 299+ pages SEO website ₹20,000 nunchi, online store ₹50,000 nunchi. Final dhara pages, features, content meeda aadharapadi untundi. Pani modalupettakamundhe meeku itemised quote pampistamu, meeru approve chesina tarvate bill chestamu.",
     },
     {
       question: "Do you have an office in Warangal or Hanamkonda?",
@@ -245,7 +245,7 @@ const warangal: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. The biggest delay is usually waiting for photographs and text, so we write starter content for you to edit.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. The biggest delay is usually waiting for photographs and text, so we write starter content for you to edit.",
     },
     {
       question: "How long does SEO take to show results in Warangal?",

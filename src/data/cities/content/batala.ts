@@ -35,7 +35,7 @@ const batala: CityContent = {
     pills: ["Websites from ₹10,000", "Punjabi, Hindi and English", "Catalogues for machinery", "Dealer enquiry forms", "WhatsApp quotes"],
   },
   quickAnswer:
-    "A business website for a Batala firm starts at ₹10,000 with us and takes one to two weeks. A 700+ page SEO site starts at ₹20,000, and an online store from ₹50,000. We are a remote three-engineer team with no Batala office, and every site gets five months of free maintenance after launch.",
+    "A business website for a Batala firm starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, and an online store from ₹50,000. We are a remote three-engineer team with no Batala office, and every site gets five months of free maintenance after launch.",
   snapshot: [
     { label: "District role", value: "Largest town of Gurdaspur district and a municipal corporation since 2019, about 39 km from Amritsar" },
     { label: "Industrial identity", value: "Once called the “Iron Bird of Asia” for cast iron foundries, lathes, shapers and farm implements" },
@@ -73,12 +73,12 @@ const batala: CityContent = {
       heading: "What a website costs for a Batala business",
       paragraphs: [
         "Quotes around Batala range widely. Some local designers offer a one-page template for a few thousand rupees, often without search setup and on hosting they control. Agencies in bigger Punjab cities may quote several times our starting figures because their overheads include offices and sales teams.",
-        "Our figures are on the <a href=\"/pricing/\">pricing page</a> and are all starting points. A static website of up to 100 pages starts at ₹10,000 and is typically ready in one to two weeks. A search-focused site with 700+ pages, useful for a manufacturer with many product variants, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, AI and WhatsApp automation at ₹40,000, and ongoing SEO at ₹10,000 a month.",
+        "Our figures are on the <a href=\"/pricing/\">pricing page</a> and are all starting points. A static website of up to 100 pages starts at ₹10,000 and is typically ready in one to two weeks. A search-focused site with 299+ pages, useful for a manufacturer with many product variants, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, AI and WhatsApp automation at ₹40,000, and ongoing SEO at ₹10,000 a month.",
         "What moves the number is scope. A foundry with ten standard castings needs fewer pages than an implement maker with forty machines in three sizes each. You see every page and feature listed in the quote, and we bill nothing until you approve it in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form, map and basic SEO for shops, clinics and small workshops.",
-        "<strong>From ₹20,000:</strong> 700+ pages for manufacturers with many models, sizes and spare parts.",
+        "<strong>From ₹20,000:</strong> 299+ pages for manufacturers with many models, sizes and spare parts.",
         "<strong>From ₹50,000:</strong> online store with UPI, cards and courier details for parts and tools.",
         "<strong>From ₹60,000:</strong> dealer portals, job tracking and internal tools with logins.",
       ],
@@ -209,12 +209,12 @@ const batala: CityContent = {
     {
       question: "How much does a website cost in Batala?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Your final quote depends on pages and features, arrives itemised in writing, and nothing is billed until you approve it.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Your final quote depends on pages and features, arrives itemised in writing, and nothing is billed until you approve it.",
     },
     {
       question: "Batala vich website banwaun da kharcha kinna aunda hai?",
       answer:
-        "Saade naal simple website ₹10,000 ton shuru hundi hai, 700+ page wali SEO website ₹20,000 ton, te online store ₹50,000 ton. Final rate pages, features te content te nirbhar karda hai. Kamm shuru karan ton pehlan tuhanu likhit te itemised quote milda hai, te manzoori ton baad hi bill banda hai.",
+        "Saade naal simple website ₹10,000 ton shuru hundi hai, 299+ page wali SEO website ₹20,000 ton, te online store ₹50,000 ton. Final rate pages, features te content te nirbhar karda hai. Kamm shuru karan ton pehlan tuhanu likhit te itemised quote milda hai, te manzoori ton baad hi bill banda hai.",
     },
     {
       question: "Do you have an office in Batala?",
@@ -239,7 +239,7 @@ const batala: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve. Delays usually come from waiting for photos and product details, so we send a simple checklist on day one.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve. Delays usually come from waiting for photos and product details, so we send a simple checklist on day one.",
     },
     {
       question: "Can I sell tools or spare parts online from Batala?",

@@ -197,7 +197,7 @@ const content: CityContent = {
       paragraphs: [
         "SEO for a Jharkhand business means appearing when customers in your service area search on Google, Google Maps or AI assistants, with pages that answer their questions accurately. Local SEO depends on a complete Google Business Profile, consistent contact details, genuine reviews and specific, helpful pages for each service and each town you actually serve.",
         "Search behaviour varies across the state. Searches in Ranchi and Jamshedpur are more competitive and often in English; searches in Dhanbad, Bokaro, Hazaribagh, Giridih and Deoghar mix Hindi and English; pilgrims search for Deoghar and Basukinath from Bihar, Bengal and beyond. A business serving several districts benefits from separate, well-written pages for each town rather than one generic page. We also write factual passages that Google's AI Overviews and assistants such as ChatGPT and Perplexity can cite.",
-        "Our monthly <a href='/services/seo-services/'>SEO services</a> start from ₹10,000, and a large SEO website with 700+ pages starts from ₹20,000. Nobody can guarantee rankings. For specific local searches, early movement usually shows within two to four months, and we share monthly Search Console data so you can judge progress yourself.",
+        "Our monthly <a href='/services/seo-services/'>SEO services</a> start from ₹10,000, and a large SEO website with 299+ pages starts from ₹20,000. Nobody can guarantee rankings. For specific local searches, early movement usually shows within two to four months, and we share monthly Search Console data so you can judge progress yourself.",
       ],
     },
     {
@@ -222,14 +222,14 @@ const content: CityContent = {
       id: "cost-it-services-jharkhand",
       heading: "How much do IT services in Jharkhand cost?",
       paragraphs: [
-        "With BtechWaleTech, IT services in Jharkhand start at ₹10,000 for a website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store, ₹60,000 for custom software or a web app, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after five free months. These are starting prices, not fixed packages.",
+        "With BtechWaleTech, IT services in Jharkhand start at ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store, ₹60,000 for custom software or a web app, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after five free months. These are starting prices, not fixed packages.",
         "Local quotes in Jharkhand vary widely, from a few thousand rupees for a template site to several lakhs for enterprise systems. When comparing, check whether hosting and domain are in your name, whether SEO basics are included, what support costs after launch, and whether the code is handed over. A cheap build that cannot be maintained often costs more over two years.",
         "You receive an itemised quote in about two working days. Work starts only after written approval. Payments to us are made only by UPI (scan our QR code) or direct bank transfer to our bank account in INR, usually in milestones tied to approved deliverables.",
       ],
       list: [
         "<strong>Website:</strong> from ₹10,000, one to two weeks",
         "<strong>Android and iOS app:</strong> from ₹40,000, six to ten weeks",
-        "<strong>SEO website, 700+ pages:</strong> from ₹20,000, three to five weeks",
+        "<strong>SEO website, 299+ pages:</strong> from ₹20,000, three to five weeks",
         "<strong>AI or WhatsApp automation:</strong> from ₹40,000, two to four weeks",
         "<strong>Online store:</strong> from ₹50,000, four to eight weeks",
         "<strong>Custom software or web app:</strong> from ₹60,000, six to twelve weeks",
@@ -282,7 +282,7 @@ const content: CityContent = {
     {
       question: "What do IT services in Jharkhand typically cost?",
       answer:
-        "With us, a website starts at ₹10,000, a 700+ page SEO website at ₹20,000, AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months. Final quotes depend on features and integrations and are itemised before you approve.",
+        "With us, a website starts at ₹10,000, a 299+ page SEO website at ₹20,000, AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months. Final quotes depend on features and integrations and are itemised before you approve.",
     },
     {
       question: "Jharkhand mein software banwane mein kitna samay lagta hai?",

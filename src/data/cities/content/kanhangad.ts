@@ -39,7 +39,7 @@ const kanhangad: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Malayalam-first local SEO", "Bekal stay booking pages", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Kanhangad business, our websites start at ₹10,000 and a simple one is usually live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are remote, with no Kanhangad office.",
+    "For a Kanhangad business, our websites start at ₹10,000 and a simple one is usually live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are remote, with no Kanhangad office.",
   snapshot: [
     { label: "Location", value: "Municipality in Kasaragod district, between Kasaragod to the north and Nileshwar to the south, with the Arabian Sea on its west" },
     { label: "Civic status", value: "Municipality formed in 1984; about 1.26 lakh residents in the 2011 census, with literacy above 92%" },
@@ -158,7 +158,7 @@ const kanhangad: CityContent = {
       id: "website-cost-kanhangad",
       heading: "Website cost in Kanhangad and what to compare before choosing",
       paragraphs: [
-        "Our published starting points are: a static website of up to 100 pages from ₹10,000, delivered in one to two weeks; a 700+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 over two to four weeks; an online store from ₹50,000 in four to eight weeks; and custom software from ₹60,000 over six to twelve weeks.",
+        "Our published starting points are: a static website of up to 100 pages from ₹10,000, delivered in one to two weeks; a 299+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 over two to four weeks; an online store from ₹50,000 in four to eight weeks; and custom software from ₹60,000 over six to twelve weeks.",
         "Scope moves the figure. Bilingual Malayalam and English content, large catalogues, booking calendars, payment links and staff logins each add work. If you supply text and photographs, the price stays close to the starting point; if we write, translate and organise the content, that appears as a separate line.",
         "Quotes in Kanhangad and Kasaragod vary widely. When comparing, ask whose name the domain and hosting are registered in, whether mobile testing and basic SEO are included, how many revision rounds you get, and who fixes problems after launch. Our <a href=\"/pricing/\">pricing page</a> shows the starting points, and your written quote arrives in about two working days.",
       ],
@@ -219,7 +219,7 @@ const kanhangad: CityContent = {
     {
       question: "What is the website cost in Kanhangad?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final amount depends on pages, Malayalam or bilingual content, products and integrations. You receive an itemised written quote before anything is billed.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final amount depends on pages, Malayalam or bilingual content, products and integrations. You receive an itemised written quote before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Kanhangad businesses?",
@@ -229,7 +229,7 @@ const kanhangad: CityContent = {
     {
       question: "How long does a website take for a Kanhangad shop?",
       answer:
-        "A static website usually goes live one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Having your content ready is what speeds things up most.",
+        "A static website usually goes live one to two weeks after we receive your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Having your content ready is what speeds things up most.",
     },
     {
       question: "Which is the best website development team in Kanhangad?",
@@ -254,7 +254,7 @@ const kanhangad: CityContent = {
     {
       question: "Kanhangad-il oru website cheyyan ethra aakum?",
       answer:
-        "Njangalude static website ₹10,000 muthal thudangunnu, sadharanayayi onno rando aazhchakkullil ready aakum. 700+ page SEO website ₹20,000 muthal, Android, iOS app ₹40,000 muthal, online store ₹50,000 muthal. Final quote ningalude pages, features anusarichu ezhuthi tharum, approve cheyyunnathinu munpu onnum bill cheyyilla.",
+        "Njangalude static website ₹10,000 muthal thudangunnu, sadharanayayi onno rando aazhchakkullil ready aakum. 299+ page SEO website ₹20,000 muthal, Android, iOS app ₹40,000 muthal, online store ₹50,000 muthal. Final quote ningalude pages, features anusarichu ezhuthi tharum, approve cheyyunnathinu munpu onnum bill cheyyilla.",
     },
     {
       question: "You have no office in Kanhangad. How is remote work safe?",

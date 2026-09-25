@@ -35,7 +35,7 @@ const deesa: CityContent = {
     pills: ["Websites from ₹10,000", "Cold storage stock tools", "Gujarati and Hindi searches", "WhatsApp rate broadcasts", "Domain and code in your name"],
   },
   quickAnswer:
-    "A website for a Deesa business starts at ₹10,000 and is typically live within one to two weeks. A 700+ page SEO site starts at ₹20,000, AI and WhatsApp automation at ₹40,000 and an online store at ₹50,000. We work remotely, the domain and code belong to you, and maintenance is free for five months after launch.",
+    "A website for a Deesa business starts at ₹10,000 and is typically live within one to two weeks. A 299+ page SEO site starts at ₹20,000, AI and WhatsApp automation at ₹40,000 and an online store at ₹50,000. We work remotely, the domain and code belong to you, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Location", value: "Banaskantha district, north Gujarat, on the east bank of the West Banas river; largest taluka in the district by population" },
     { label: "Main trade", value: "Potatoes, plus groundnut, castor, rapeseed, fennel and millet through APMC Deesa" },
@@ -107,7 +107,7 @@ const deesa: CityContent = {
       ],
       list: [
         "<strong>Business website — from ₹10,000, 1–2 weeks.</strong> Shops, clinics, agents and professionals.",
-        "<strong>SEO website with 700+ pages — from ₹20,000, 3–5 weeks.</strong> Hospitals, schools, dealers and traders serving many towns.",
+        "<strong>SEO website with 299+ pages — from ₹20,000, 3–5 weeks.</strong> Hospitals, schools, dealers and traders serving many towns.",
         "<strong>AI and WhatsApp automation — from ₹40,000, 2–4 weeks.</strong> Rate broadcasts, storage queries and appointments.",
         "<strong>Online store — from ₹50,000, 4–8 weeks.</strong> Snacks, spices and farm products with UPI checkout.",
         "<strong>Custom software — from ₹60,000, 6–12 weeks.</strong> Cold storage stock, purchase ledgers and dealer portals.",
@@ -218,7 +218,7 @@ const deesa: CityContent = {
     {
       question: "How much does a website cost in Deesa?",
       answer:
-        "A business website starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; we send an itemised quote in about two working days and bill nothing before your written approval.",
+        "A business website starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; we send an itemised quote in about two working days and bill nothing before your written approval.",
     },
     {
       question: "Deesa ma amari dukan mate website banavvi chhe, ketlo kharch thashe?",

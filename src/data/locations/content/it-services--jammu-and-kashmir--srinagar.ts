@@ -171,13 +171,13 @@ const content: CityContent = {
       id: "srinagar-software-cost",
       heading: "How much does software development cost in Srinagar?",
       paragraphs: [
-        "Software development for a Srinagar business starts from ₹60,000 for a custom web application, ₹40,000 for AI automation, ₹50,000 for an online store, ₹20,000 for a 700+ page SEO website and ₹10,000 for a static site. These are starting figures; final cost depends on features, integrations and how much data needs moving.",
+        "Software development for a Srinagar business starts from ₹60,000 for a custom web application, ₹40,000 for AI automation, ₹50,000 for an online store, ₹20,000 for a 299+ page SEO website and ₹10,000 for a static site. These are starting figures; final cost depends on features, integrations and how much data needs moving.",
         "What pushes cost up is predictable: more user roles, payment and courier integrations, multi-language content, migrating years of old records, and custom reports. What keeps it down is a clear first version. A hotel that launches with direct booking and deposit collection, then adds a channel manager link next year, spends less than one that tries to build everything before the season.",
         "We send an itemised quote within about two working days, listing each module and its cost so you can remove items you do not need. Full plan details are on our <a href='/pricing/'>pricing page</a>.",
       ],
       list: [
         "Static website: from ₹10,000, 1 to 2 weeks",
-        "700+ page SEO website: from ₹20,000, 3 to 5 weeks",
+        "299+ page SEO website: from ₹20,000, 3 to 5 weeks",
         "Online store: from ₹50,000, 4 to 8 weeks",
         "Custom web app or booking system: from ₹60,000, 6 to 12 weeks",
         "Android and iOS app: from ₹40,000, 6 to 10 weeks",

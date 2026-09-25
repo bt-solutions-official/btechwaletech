@@ -39,7 +39,7 @@ const umarkhed: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Marathi and Hindi pages", "Maps listings for Nanded Road shops", "Domain and code in your name"],
   },
   quickAnswer:
-    "For an Umarkhed business, a website with us starts at ₹10,000 and is usually live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, without an Umarkhed office.",
+    "For an Umarkhed business, a website with us starts at ₹10,000 and is usually live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, without an Umarkhed office.",
   snapshot: [
     { label: "Where it is", value: "Municipal council town and taluka headquarters in Yavatmal district, Vidarbha, close to the Painganga river" },
     { label: "Distances", value: "About 110 km from Yavatmal and 72 km from Nanded, with Pusad and Mahagaon to the north" },
@@ -231,7 +231,7 @@ const umarkhed: CityContent = {
     {
       question: "What is the website cost in Umarkhed?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Your quote depends on pages, Marathi content, products and integrations, and it reaches you itemised and in writing before anything is billed.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Your quote depends on pages, Marathi content, products and integrations, and it reaches you itemised and in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Umarkhed businesses?",
@@ -241,7 +241,7 @@ const umarkhed: CityContent = {
     {
       question: "How long does a website take for an Umarkhed shop?",
       answer:
-        "A simple shop or clinic website is usually live one to two weeks after you send photographs and details. An SEO website of 700+ pages takes three to five weeks, an online store four to eight, and custom software six to twelve. Sending your content early is the single biggest thing that speeds things up.",
+        "A simple shop or clinic website is usually live one to two weeks after you send photographs and details. An SEO website of 299+ pages takes three to five weeks, an online store four to eight, and custom software six to twelve. Sending your content early is the single biggest thing that speeds things up.",
     },
     {
       question: "Which is the best website development team in Umarkhed?",

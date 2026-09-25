@@ -34,7 +34,7 @@ const valsad: CityContent = {
     pills: ["Websites from ₹10,000", "Gujarati and English pages", "Hapus pre-order stores", "Chemical unit catalogues", "WhatsApp enquiry handling"],
   },
   quickAnswer:
-    "For a Valsad business, a static website with us starts at ₹10,000 and is usually ready in one to two weeks. A 700+ page SEO website starts at ₹20,000, an online store for mangoes or products at ₹50,000 and custom software at ₹60,000. We are a remote team of three engineers with no Valsad office, and the first five months of maintenance are free.",
+    "For a Valsad business, a static website with us starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store for mangoes or products at ₹50,000 and custom software at ₹60,000. We are a remote team of three engineers with no Valsad office, and the first five months of maintenance are free.",
   snapshot: [
     { label: "District role", value: "Headquarters of Valsad district in south Gujarat, a few kilometres inland from the Arabian Sea" },
     { label: "Connectivity", value: "On the Western Railway's Mumbai–Delhi main line and National Highway 48" },
@@ -72,12 +72,12 @@ const valsad: CityContent = {
       heading: "Website prices in Valsad and what they should include",
       paragraphs: [
         "In Valsad you will hear quotes from a couple of thousand rupees for a template page to large figures from agencies in Surat or Mumbai. The low quotes often leave out search setup and keep the domain in the developer's name. The high ones may include account managers and overheads a small firm does not need.",
-        "Our published prices are on the <a href=\"/pricing/\">pricing page</a>. A static website with up to 100 pages starts at ₹10,000 and usually takes one to two weeks. A 700+ page SEO website, where each product, variety or service gets its own page, starts at ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts at ₹40,000, an online store at ₹50,000 and a custom web application at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
+        "Our published prices are on the <a href=\"/pricing/\">pricing page</a>. A static website with up to 100 pages starts at ₹10,000 and usually takes one to two weeks. A 299+ page SEO website, where each product, variety or service gets its own page, starts at ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts at ₹40,000, an online store at ₹50,000 and a custom web application at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
         "These are starting points only. A mango grower selling three varieties in two box sizes needs far less than a chemical trader listing 300 products with technical data sheets. The written quote lists every page and feature, so you can see exactly where the money goes and drop what you don't need.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile design, enquiry form, map and basic SEO. For shops, clinics, tutors and hotels.",
-        "<strong>From ₹20,000:</strong> 700+ pages for product catalogues, service areas and technical listings. For GIDC units and traders.",
+        "<strong>From ₹20,000:</strong> 299+ pages for product catalogues, service areas and technical listings. For GIDC units and traders.",
         "<strong>From ₹50,000:</strong> online store with cart, UPI, cards and delivery zones. For mango, chikoo and packaged food sellers.",
         "<strong>From ₹60,000:</strong> custom software with logins and reports. For manufacturers, transporters and institutions.",
       ],
@@ -208,12 +208,12 @@ const valsad: CityContent = {
     {
       question: "How much does a website cost in Valsad?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices, and the final figure depends on pages, products and features. When comparing quotes, check whether SEO basics, hosting in your name and post-launch support are included.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices, and the final figure depends on pages, products and features. When comparing quotes, check whether SEO basics, hosting in your name and post-launch support are included.",
     },
     {
       question: "Valsad ma website banavva no kharch ketlo thay?",
       answer:
-        "Amari saathe simple business website ₹10,000 thi sharu thay chhe ane saamanya rite ek-be athvadiya ma taiyar thai jaay chhe. 700+ page vali SEO website ₹20,000 thi ane online store ₹50,000 thi sharu thay chhe. Kaam sharu karta pehla tamne lekhit, item-wise quote male chhe, ane tamari manjoori vagar koi bill banto nathi.",
+        "Amari saathe simple business website ₹10,000 thi sharu thay chhe ane saamanya rite ek-be athvadiya ma taiyar thai jaay chhe. 299+ page vali SEO website ₹20,000 thi ane online store ₹50,000 thi sharu thay chhe. Kaam sharu karta pehla tamne lekhit, item-wise quote male chhe, ane tamari manjoori vagar koi bill banto nathi.",
     },
     {
       question: "Do you have an office in Valsad?",
@@ -243,7 +243,7 @@ const valsad: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static website takes about one to two weeks, a 700+ page SEO site three to five weeks, AI automation two to four weeks, an online store four to eight weeks and custom software six to twelve. For mango stores, start at least six weeks before the season so there is time to test payments and delivery.",
+        "A static website takes about one to two weeks, a 299+ page SEO site three to five weeks, AI automation two to four weeks, an online store four to eight weeks and custom software six to twelve. For mango stores, start at least six weeks before the season so there is time to test payments and delivery.",
     },
     {
       question: "What can WhatsApp automation do for a Valsad business?",

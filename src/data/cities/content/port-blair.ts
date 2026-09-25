@@ -34,7 +34,7 @@ const portBlair: CityContent = {
     pills: ["Sites from ₹10,000", "Direct booking pages", "Port Blair and SVP searches", "Hindi, Tamil, Bengali pages", "Code and domain yours"],
   },
   quickAnswer:
-    "A website for a Sri Vijaya Puram (Port Blair) business starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site for a tour operator starts at ₹20,000, WhatsApp and AI automation at ₹40,000, and an online store at ₹50,000. We are a remote team of three with no office in the islands, and five months of maintenance come free.",
+    "A website for a Sri Vijaya Puram (Port Blair) business starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site for a tour operator starts at ₹20,000, WhatsApp and AI automation at ₹40,000, and an online store at ₹50,000. We are a remote team of three with no office in the islands, and five months of maintenance come free.",
   snapshot: [
     { label: "Name", value: "Officially renamed Sri Vijaya Puram on 13 September 2024; most travellers still search for Port Blair" },
     { label: "Role", value: "Capital of the Andaman and Nicobar Islands union territory, on the east coast of South Andaman" },
@@ -71,7 +71,7 @@ const portBlair: CityContent = {
       id: "website-cost-port-blair",
       heading: "What a website costs for an island business",
       paragraphs: [
-        "Our <a href=\"/pricing/\">pricing page</a> lists starting prices, and they apply to the islands exactly as they do to the mainland. A static site of up to 100 pages, with room or tour pages, photos, a map, WhatsApp button and basic search setup, starts at ₹10,000 and takes one to two weeks. A 700+ page site built around itinerary and island searches starts at ₹20,000 and takes three to five weeks.",
+        "Our <a href=\"/pricing/\">pricing page</a> lists starting prices, and they apply to the islands exactly as they do to the mainland. A static site of up to 100 pages, with room or tour pages, photos, a map, WhatsApp button and basic search setup, starts at ₹10,000 and takes one to two weeks. A 299+ page site built around itinerary and island searches starts at ₹20,000 and takes three to five weeks.",
         "AI and WhatsApp automation starts at ₹40,000, an online store at ₹50,000, a custom booking or operations system at ₹60,000, and monthly SEO at ₹10,000. These are floors, not packages. A guest house with four rooms is quick. A tour company selling fifteen itineraries across three islands, with ferry-dependent schedules and a vehicle fleet, takes more work.",
         "Quotes from other developers vary a great deal, so compare what is included rather than the headline number: who owns the domain, whether room pages can be edited without calling anyone, how the site behaves on a slow connection, and what happens after launch. We answer all four in writing before you pay anything.",
       ],
@@ -96,7 +96,7 @@ const portBlair: CityContent = {
       heading: "Tour operators: itineraries that respect ferry timetables",
       paragraphs: [
         "Andaman trips are shaped by boats. A guest cannot plan Swaraj Dweep, Shaheed Dweep and Baratang in the same way they plan a road trip, because ferry departures, weather and holiday rushes decide what is possible. Tour operators in Sri Vijaya Puram know this well, but their websites often show neat day-by-day plans that ignore it and then cause arguments later.",
-        "We build itinerary pages that are honest about timing: which day depends on a ferry, what happens if a sailing is cancelled, what is included and what the guest pays locally. Each package gets its own page, and so does each island and activity, which is how a 700+ page site takes shape naturally. Guests searching “Andaman 5 nights itinerary”, “Havelock ferry from Port Blair” or “Chidiya Tapu sunset trip” find a page written for that exact question.",
+        "We build itinerary pages that are honest about timing: which day depends on a ferry, what happens if a sailing is cancelled, what is included and what the guest pays locally. Each package gets its own page, and so does each island and activity, which is how a 299+ page site takes shape naturally. Guests searching “Andaman 5 nights itinerary”, “Havelock ferry from Port Blair” or “Chidiya Tapu sunset trip” find a page written for that exact question.",
         "Operators who also resell hotel rooms, cabs and ferry tickets need a clear line between confirmed and requested services. We keep that distinction visible on every page and in every booking confirmation, because a misunderstanding in the islands is expensive to fix once the guest has already landed.",
       ],
     },
@@ -204,7 +204,7 @@ const portBlair: CityContent = {
   ],
   industries: [
     { name: "Hotels, resorts and homestays", need: "Direct bookings beyond portals", build: "Room pages, tariffs, WhatsApp booking requests" },
-    { name: "Tour operators and travel desks", need: "Clear itineraries tied to ferries", build: "700+ page itinerary and island site" },
+    { name: "Tour operators and travel desks", need: "Clear itineraries tied to ferries", build: "299+ page itinerary and island site" },
     { name: "Dive centres and water sports", need: "Trust from careful first-timers", build: "Course pages, safety details, booking forms" },
     { name: "Cab, bike and boat rentals", need: "Quick calls from arriving guests", build: "Map listing, rate page, click-to-call" },
     { name: "Restaurants and seafood kitchens", need: "Walk-ins from visitors nearby", build: "Menu site, Google Maps profile, reviews" },
@@ -216,12 +216,12 @@ const portBlair: CityContent = {
     {
       question: "How much does a website cost in Sri Vijaya Puram (Port Blair)?",
       answer:
-        "A static website starts at ₹10,000, a 700+ page SEO site at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. Your final price depends on rooms, itineraries, languages and features. We send an itemised quote in about two working days, and nothing is billed until you approve it.",
+        "A static website starts at ₹10,000, a 299+ page SEO site at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. Your final price depends on rooms, itineraries, languages and features. We send an itemised quote in about two working days, and nothing is billed until you approve it.",
     },
     {
       question: "Port Blair mein website banwane ka kharcha kitna hai?",
       answer:
-        "Hamari simple website ₹10,000 se shuru hoti hai aur 1–2 hafte mein ban jaati hai. Tour operator ke liye 700+ page wali SEO website ₹20,000 se shuru hai. Pehle likhit quote milta hai, aapki manzoori ke baad hi kaam aur bill shuru hota hai, aur domain aapke naam par rehta hai.",
+        "Hamari simple website ₹10,000 se shuru hoti hai aur 1–2 hafte mein ban jaati hai. Tour operator ke liye 299+ page wali SEO website ₹20,000 se shuru hai. Pehle likhit quote milta hai, aapki manzoori ke baad hi kaam aur bill shuru hota hai, aur domain aapke naam par rehta hai.",
     },
     {
       question: "Do you have an office in the Andaman Islands?",
@@ -266,7 +266,7 @@ const portBlair: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site takes one to two weeks, a 700+ page site three to five weeks, a store four to eight weeks and a custom booking system six to twelve weeks. Delays usually come from waiting for photos and tariffs, so we share a checklist on day one.",
+        "A static site takes one to two weeks, a 299+ page site three to five weeks, a store four to eight weeks and a custom booking system six to twelve weeks. Delays usually come from waiting for photos and tariffs, so we share a checklist on day one.",
     },
     {
       question: "Who owns the website and domain?",

@@ -35,7 +35,7 @@ const asansol: CityContent = {
     pills: ["Sites from ₹10,000", "Bengali and Hindi search", "UPI-ready stores", "WhatsApp order flows", "Vendor portals"],
   },
   quickAnswer:
-    "For an Asansol business, a small website with us starts at ₹10,000 and takes one to two weeks, while a 700+ page SEO website starts at ₹20,000 and takes three to five weeks. Stores begin at ₹50,000. We are a remote team with no local office, and five months of maintenance after launch are included free.",
+    "For an Asansol business, a small website with us starts at ₹10,000 and takes one to two weeks, while a 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Stores begin at ₹50,000. We are a remote team with no local office, and five months of maintenance after launch are included free.",
   snapshot: [
     { label: "Commercial areas", value: "Hutton Road and Raha Lane, GT Road, Court More, Chelidanga, Sen Raleigh Road and Apcar Garden" },
     { label: "Heavy industry", value: "SAIL's IISCO Steel Plant at Burnpur and Chittaranjan Locomotive Works" },
@@ -73,12 +73,12 @@ const asansol: CityContent = {
       heading: "What a website costs in Asansol, and what the price should include",
       paragraphs: [
         "In and around Asansol you can be quoted ₹2,500 for a website or ₹50,000 for something that looks almost the same. The cheap end usually means a theme with your logo dropped in, no search work, and a domain registered in the developer's name. The expensive end often includes a Kolkata agency's overheads, travel and an account manager between you and the programmer.",
-        "Our figures are published. A static business website starts at <strong>₹10,000</strong> and is normally live in one to two weeks. A 700+ page site planned around real Asansol searches starts at <strong>₹20,000</strong> and takes three to five weeks. Online stores start at ₹50,000, automation projects at ₹40,000, and custom web applications such as vendor portals or dispatch systems at ₹60,000. Monthly SEO costs from ₹10,000. The full breakdown sits on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our figures are published. A static business website starts at <strong>₹10,000</strong> and is normally live in one to two weeks. A 299+ page site planned around real Asansol searches starts at <strong>₹20,000</strong> and takes three to five weeks. Online stores start at ₹50,000, automation projects at ₹40,000, and custom web applications such as vendor portals or dispatch systems at ₹60,000. Monthly SEO costs from ₹10,000. The full breakdown sits on our <a href=\"/pricing/\">pricing page</a>.",
         "Whatever you pay, check that it covers a mobile layout, title tags and descriptions for every page, a sitemap, Search Console setup, an SSL certificate and a handover of every login. If any of those are missing from a quote, ask why. We list each of them in writing, and nothing is billed until you approve the quote.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages for a clinic, shop, CA office or coaching centre, with enquiry form and basic SEO.",
-        "<strong>From ₹20,000:</strong> 700+ pages with separate pages for each service and area you actually cover.",
+        "<strong>From ₹20,000:</strong> 299+ pages with separate pages for each service and area you actually cover.",
         "<strong>From ₹50,000:</strong> store with catalogue, cart, UPI and card checkout, and delivery rules by pin code.",
         "<strong>From ₹60,000:</strong> logins, roles, dashboards and reports for contractors, distributors and institutes.",
       ],
@@ -208,12 +208,12 @@ const asansol: CityContent = {
     {
       question: "How much does a website cost in Asansol?",
       answer:
-        "With us, a static business website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Quotes you get elsewhere in Asansol may run from ₹2,500 to ₹50,000 for similar work. Compare what is included, especially SEO basics, domain ownership and support after launch, not only the headline price.",
+        "With us, a static business website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Quotes you get elsewhere in Asansol may run from ₹2,500 to ₹50,000 for similar work. Compare what is included, especially SEO basics, domain ownership and support after launch, not only the headline price.",
     },
     {
       question: "Asansol-e website banate koto khoroch hoy?",
       answer:
-        "Amader kache ekta sadharon business website ₹10,000 theke shuru, ar 700+ page-er SEO website ₹20,000 theke. Online store shuru hoy ₹50,000 theke. Shesh dam nirbhor kore page, feature ar content-er upor, ar kaaj shuru korar aage apni puro itemised quote paben.",
+        "Amader kache ekta sadharon business website ₹10,000 theke shuru, ar 299+ page-er SEO website ₹20,000 theke. Online store shuru hoy ₹50,000 theke. Shesh dam nirbhor kore page, feature ar content-er upor, ar kaaj shuru korar aage apni puro itemised quote paben.",
     },
     {
       question: "Do you have an office in Asansol where I can visit?",
@@ -233,7 +233,7 @@ const asansol: CityContent = {
     {
       question: "How long will my website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, a store four to eight weeks and a custom application six to twelve weeks. The usual cause of delay is waiting for photos and text, so we write draft copy for you to correct rather than waiting for blank pages to be filled.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, a store four to eight weeks and a custom application six to twelve weeks. The usual cause of delay is waiting for photos and text, so we write draft copy for you to correct rather than waiting for blank pages to be filled.",
     },
     {
       question: "Can my site show up for Bengali and Hindi searches?",

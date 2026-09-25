@@ -205,7 +205,7 @@ const content: CityContent = {
       id: "seo-ecommerce-roorkee",
       heading: "SEO, AI-search visibility and ecommerce for Roorkee suppliers",
       paragraphs: [
-        "SEO helps Roorkee instrument makers, labs and institutes appear for the specific searches buyers make, and ecommerce lets suppliers sell catalogue items directly. Monthly SEO starts at ₹10,000, a 700+ page SEO website at ₹20,000 and an online store at ₹50,000.",
+        "SEO helps Roorkee instrument makers, labs and institutes appear for the specific searches buyers make, and ecommerce lets suppliers sell catalogue items directly. Monthly SEO starts at ₹10,000, a 299+ page SEO website at ₹20,000 and an online store at ₹50,000.",
         "Instrument buyers search by product type, specification and use, so we build detailed product pages with datasheets, comparison tables and FAQs. Labs benefit from pages for each test with sample requirements and turnaround. Clear, factual pages with schema markup are also easier for Google's AI Overviews, ChatGPT and Perplexity to cite. We never guarantee rankings; three to six months is typical for results. See <a href='/services/seo-services/'>our SEO services</a>.",
         "Stores for drawing instruments and lab supplies use a gateway account in your name for UPI and cards, with bulk pricing for institutions. Our <a href='/roorkee/'>Roorkee city guide</a> covers websites and local SEO for shops and services.",
       ],

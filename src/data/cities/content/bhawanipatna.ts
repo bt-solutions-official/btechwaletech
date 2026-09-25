@@ -39,7 +39,7 @@ const bhawanipatna: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Odia-first local SEO", "Rice mill records", "You keep every login"],
   },
   quickAnswer:
-    "In Bhawanipatna, a business website with us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps and AI automation each start at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no local office, and you own all accounts.",
+    "In Bhawanipatna, a business website with us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps and AI automation each start at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no local office, and you own all accounts.",
   snapshot: [
     { label: "Role", value: "Headquarters town of Kalahandi district in western Odisha" },
     { label: "Population", value: "69,045 in the 2011 census, about 83,700 including suburbs" },
@@ -151,7 +151,7 @@ const bhawanipatna: CityContent = {
       id: "website-cost-bhawanipatna",
       heading: "Website cost in Bhawanipatna: starting prices and comparing quotes",
       paragraphs: [
-        "Here is what our work starts at for Bhawanipatna clients. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site starts at ₹20,000 over three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation, which takes two to four weeks. Online stores begin at ₹50,000 over four to eight weeks, and custom software at ₹60,000 over six to twelve weeks. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month.",
+        "Here is what our work starts at for Bhawanipatna clients. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000 over three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation, which takes two to four weeks. Online stores begin at ₹50,000 over four to eight weeks, and custom software at ₹60,000 over six to twelve weeks. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month.",
         "The <strong>website cost in Bhawanipatna</strong> rises with scope: more pages, full Odia and English versions, large catalogues, logins, payments, or a link to Tally. If you provide the text and photos, the quote stays lower; if you want us to write, translate or edit images, that is shown as a separate item.",
         "Quotes from local designers vary widely. Compare them on who owns the domain and hosting, whether mobile testing and basic SEO are included, how many changes you get and who fixes problems after launch. The full breakdown is on our <a href=\"/pricing/\">pricing page</a>.",
       ],
@@ -212,7 +212,7 @@ const bhawanipatna: CityContent = {
     {
       question: "What is the website cost in Bhawanipatna?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Your quote depends on pages, Odia and English content, payments and integrations, and each item is listed separately before you approve anything.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Your quote depends on pages, Odia and English content, payments and integrations, and each item is listed separately before you approve anything.",
     },
     {
       question: "Do you build Android and iOS apps for Bhawanipatna businesses?",
@@ -222,7 +222,7 @@ const bhawanipatna: CityContent = {
     {
       question: "How quickly can a Bhawanipatna shop get a website?",
       answer:
-        "A static website usually goes live within one to two weeks after we receive your text and photos. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Getting content ready early is the easiest way to avoid delays.",
+        "A static website usually goes live within one to two weeks after we receive your text and photos. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Getting content ready early is the easiest way to avoid delays.",
     },
     {
       question: "Who is the best website development team in Bhawanipatna?",
@@ -247,7 +247,7 @@ const bhawanipatna: CityContent = {
     {
       question: "Bhawanipatna me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek se do hafte mein ban jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Final quote aapke pages aur features par nirbhar karta hai, aur approval se pehle koi bill nahi.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek se do hafte mein ban jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Final quote aapke pages aur features par nirbhar karta hai, aur approval se pehle koi bill nahi.",
     },
     {
       question: "You have no office in Bhawanipatna. Is working remotely safe?",

@@ -35,7 +35,7 @@ const jharsuguda: CityContent = {
     pills: ["Websites from ₹10,000", "Vendor profiles and RFQ forms", "Job, trip and billing tools", "Odia, Hindi and English pages", "WhatsApp enquiry automation"],
   },
   quickAnswer:
-    "In Jharsuguda, a static website with our team starts from ₹10,000 and takes about one to two weeks. A 700+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software such as contractor job-tracking tools at ₹60,000. We are fully remote with no Jharsuguda office, and maintenance is free for five months after launch.",
+    "In Jharsuguda, a static website with our team starts from ₹10,000 and takes about one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software such as contractor job-tracking tools at ₹60,000. We are fully remote with no Jharsuguda office, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Role", value: "District headquarters and one of western Odisha's main industrial towns, often called the powerhouse of Odisha" },
     { label: "Aluminium", value: "Vedanta's aluminium smelter and captive power plant, described by the company as the largest single-location smelter in the world" },
@@ -74,12 +74,12 @@ const jharsuguda: CityContent = {
       heading: "Website and software costs in Jharsuguda",
       paragraphs: [
         "Prices for websites and business software around Jharsuguda vary so much that comparing headline numbers is almost useless. Look instead at what each quote includes: whether the domain is registered to you, whether you can update the site without calling anyone, whether search basics and the Google profile are part of the work, and what support costs after launch.",
-        "Our figures are on the <a href=\"/pricing/\">pricing page</a>, and every one is a starting price. A static site of up to 100 pages, which suits most vendors, contractors, clinics, shops and hotels, starts from ₹10,000 and takes one to two weeks. A 700+ page SEO website starts from ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts from ₹40,000, online stores from ₹50,000, custom software from ₹60,000 and monthly SEO from ₹10,000 a month.",
+        "Our figures are on the <a href=\"/pricing/\">pricing page</a>, and every one is a starting price. A static site of up to 100 pages, which suits most vendors, contractors, clinics, shops and hotels, starts from ₹10,000 and takes one to two weeks. A 299+ page SEO website starts from ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts from ₹40,000, online stores from ₹50,000, custom software from ₹60,000 and monthly SEO from ₹10,000 a month.",
         "What decides the final amount is scope. A vendor with forty product categories and downloadable data sheets needs more work than a clinic. Software with several user roles, approvals and reports takes longer than a simple log. Each item appears on its own line, so you can drop anything you do not need.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form, map and search basics.",
-        "<strong>From ₹20,000:</strong> 700+ pages for suppliers with large catalogues, hospitals and institutes.",
+        "<strong>From ₹20,000:</strong> 299+ pages for suppliers with large catalogues, hospitals and institutes.",
         "<strong>From ₹50,000:</strong> an online store with cart, UPI, cards and GST invoices.",
         "<strong>From ₹60,000:</strong> job, trip, attendance and billing software with logins and reports.",
       ],
@@ -219,7 +219,7 @@ const jharsuguda: CityContent = {
     {
       question: "How much does a website cost in Jharsuguda?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are all starting prices. Your written quote depends on pages, features and content, and you are billed only after approving it.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are all starting prices. Your written quote depends on pages, features and content, and you are billed only after approving it.",
     },
     {
       question: "Jharsuguda re website banaibaku kete kharcha padiba?",
@@ -249,7 +249,7 @@ const jharsuguda: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO website three to five weeks, an online store four to eight weeks and custom software six to twelve. Most delays come from waiting for content, so we draft text for you to correct.",
+        "A static site usually takes one to two weeks, a 299+ page SEO website three to five weeks, an online store four to eight weeks and custom software six to twelve. Most delays come from waiting for content, so we draft text for you to correct.",
     },
     {
       question: "Can the website be in Odia and Hindi as well as English?",

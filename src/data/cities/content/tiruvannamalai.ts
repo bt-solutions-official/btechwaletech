@@ -35,7 +35,7 @@ const tiruvannamalai: CityContent = {
     pills: ["Sites from ₹10,000", "Tamil and English pages", "Full-moon booking ready", "Silk saree stores", "WhatsApp replies in Tamil"],
   },
   quickAnswer:
-    "In Tiruvannamalai, a website from us starts at ₹10,000 and is usually ready in one to two weeks. A 700+ page SEO website starts at ₹20,000, a silk or retail store at ₹50,000 and AI or WhatsApp automation at ₹40,000. We are a remote team with no Tiruvannamalai office, and maintenance is free for five months after launch.",
+    "In Tiruvannamalai, a website from us starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO website starts at ₹20,000, a silk or retail store at ₹50,000 and AI or WhatsApp automation at ₹40,000. We are a remote team with no Tiruvannamalai office, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Status", value: "District headquarters, upgraded to a City Municipal Corporation in 2024; about 2.1 lakh people (2011)" },
     { label: "Temple", value: "Arunachaleswarar (Annamalaiyar) temple, about 25 acres, with an 11-tier eastern gopuram around 66 m tall" },
@@ -73,12 +73,12 @@ const tiruvannamalai: CityContent = {
       heading: "Website costs in Tiruvannamalai, and what each price includes",
       paragraphs: [
         "In Tiruvannamalai you will usually hear a very small quote from a local operator, often a template kept in his own account, or a much larger one from a Chennai agency. The cheap site rarely has Tamil content or search setup. The expensive one may not understand that your busiest days are fixed by the moon.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks, with mobile layout, Tamil and English text, map, WhatsApp button and basic search setup. A 700+ page SEO site, planned around what pilgrims, residents and visitors actually search, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, AI and WhatsApp automation at ₹40,000, and monthly SEO at ₹10,000.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks, with mobile layout, Tamil and English text, map, WhatsApp button and basic search setup. A 299+ page SEO site, planned around what pilgrims, residents and visitors actually search, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, AI and WhatsApp automation at ₹40,000, and monthly SEO at ₹10,000.",
         "A single-doctor clinic is a short project. A lodge with twenty rooms, full-moon tariffs and advance payment, or a silk seller with two hundred sarees in several colours, takes more work. We discuss your needs first and send an itemised quote. Nothing starts until you approve it in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> a Tamil and English site for a lodge, shop, clinic or teacher.",
-        "<strong>From ₹20,000:</strong> 700+ pages for every room type, service, product or nearby town.",
+        "<strong>From ₹20,000:</strong> 299+ pages for every room type, service, product or nearby town.",
         "<strong>From ₹50,000:</strong> a saree or retail store with UPI, cards and courier rules.",
         "<strong>From ₹60,000:</strong> booking engines, mill registers and dashboards built to your workflow.",
       ],
@@ -209,7 +209,7 @@ const tiruvannamalai: CityContent = {
     {
       question: "How much does a website cost in Tiruvannamalai?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications such as lodge booking engines at ₹60,000. You get an itemised written quote first. Always check whose name the domain is registered in.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications such as lodge booking engines at ₹60,000. You get an itemised written quote first. Always check whose name the domain is registered in.",
     },
     {
       question: "Tiruvannamalai la website panna evvalavu selavu aagum?",
@@ -249,7 +249,7 @@ const tiruvannamalai: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. If you want it live before Karthigai Deepam, start by August or September.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. If you want it live before Karthigai Deepam, start by August or September.",
     },
     {
       question: "What does WhatsApp automation handle for a lodge or shop?",

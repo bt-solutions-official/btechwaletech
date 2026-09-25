@@ -35,7 +35,7 @@ const meerut: CityContent = {
     pills: ["Sites from ₹10,000", "Export-ready catalogues", "Hindi and Hinglish SEO", "UPI and Razorpay stores", "WhatsApp order automation"],
   },
   quickAnswer:
-    "For a Meerut business, a static website with us starts at ₹10,000 and a 700+ page search-focused website from ₹20,000, usually live within one to five weeks. Online stores start at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team, so there is no office cost built in, and five months of maintenance is free.",
+    "For a Meerut business, a static website with us starts at ₹10,000 and a 299+ page search-focused website from ₹20,000, usually live within one to five weeks. Online stores start at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team, so there is no office cost built in, and five months of maintenance is free.",
   snapshot: [
     { label: "Main markets", value: "Begum Bridge, Abu Lane, Sadar Bazaar, Sarafa Bazaar and Shastri Nagar" },
     { label: "Sports goods", value: "Workshops, dealers and wholesalers concentrated around Suraj Kund Road" },
@@ -73,12 +73,12 @@ const meerut: CityContent = {
       heading: "How much does a website cost in Meerut?",
       paragraphs: [
         "Meerut has plenty of people offering websites for ₹2,000 or ₹3,000, often built on a shared template and hosted on the seller's own account. It also has NCR agencies quoting ₹40,000 to ₹80,000 for similar work. The cheap version usually leaves out search setup, speed work and any help after launch. The expensive one pays for an office in Noida and a sales team.",
-        "Our starting prices are published. A static business website of up to 100 pages starts at ₹10,000 and is normally ready in one to two weeks. A 700+ page website planned around the searches your customers actually make starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom software such as order books and dealer portals at ₹60,000, automation at ₹40,000 and monthly SEO at ₹10,000.",
+        "Our starting prices are published. A static business website of up to 100 pages starts at ₹10,000 and is normally ready in one to two weeks. A 299+ page website planned around the searches your customers actually make starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom software such as order books and dealer portals at ₹60,000, automation at ₹40,000 and monthly SEO at ₹10,000.",
         "Product count is often the biggest factor for Meerut manufacturers. Forty bat models with proper photographs and specifications take more work than eight. That is why you receive a written, itemised quote listing every page, section and feature, and why nothing is charged until you agree to it in writing. Full details are on the <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [
         "<strong>₹10,000 and up:</strong> small static site for a clinic, coaching centre, lawyer or shop, with form and basic SEO.",
-        "<strong>₹20,000 and up:</strong> 700+ page SEO site with a page per product line or service and proper schema.",
+        "<strong>₹20,000 and up:</strong> 299+ page SEO site with a page per product line or service and proper schema.",
         "<strong>₹50,000 and up:</strong> online store with UPI, cards, COD rules, shipping and order notifications.",
         "<strong>₹60,000 and up:</strong> dealer portal, order management or production tracking software.",
       ],
@@ -209,12 +209,12 @@ const meerut: CityContent = {
     {
       question: "How much does a website cost in Meerut?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. Across Meerut and NCR you will see quotes from ₹2,000 to ₹80,000 for similar work. Compare what is included, especially domain ownership, SEO setup and support after launch, not only the headline price.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. Across Meerut and NCR you will see quotes from ₹2,000 to ₹80,000 for similar work. Compare what is included, especially domain ownership, SEO setup and support after launch, not only the headline price.",
     },
     {
       question: "Meerut me website banwane me kitna kharcha aata hai?",
       answer:
-        "Humare saath simple business website ₹10,000 se shuru hoti hai aur 700+ pages wali SEO website ₹20,000 se. Online store ka kharcha ₹50,000 se shuru hota hai. Final price pages, products aur features par nirbhar karta hai, aur kaam se pehle aapko poora likhit quote milta hai.",
+        "Humare saath simple business website ₹10,000 se shuru hoti hai aur 299+ pages wali SEO website ₹20,000 se. Online store ka kharcha ₹50,000 se shuru hota hai. Final price pages, products aur features par nirbhar karta hai, aur kaam se pehle aapko poora likhit quote milta hai.",
     },
     {
       question: "Is your office in Meerut? Can I meet you in person?",
@@ -234,7 +234,7 @@ const meerut: CityContent = {
     {
       question: "How long does it take to make a website?",
       answer:
-        "One to two weeks for a static site, three to five weeks for a 700+ page SEO site, four to eight weeks for an online store and six to twelve weeks for custom software. Large product catalogues take longer mainly because of photography, so we often launch with your best-selling items first and add the rest in stages.",
+        "One to two weeks for a static site, three to five weeks for a 299+ page SEO site, four to eight weeks for an online store and six to twelve weeks for custom software. Large product catalogues take longer mainly because of photography, so we often launch with your best-selling items first and add the rest in stages.",
     },
     {
       question: "Can you build an online store with UPI, COD and courier tracking?",

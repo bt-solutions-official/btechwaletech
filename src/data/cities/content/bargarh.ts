@@ -39,7 +39,7 @@ const bargarh: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Rice mill records", "Sambalpuri handloom stores", "Accounts in your name"],
   },
   quickAnswer:
-    "A Bargarh business website with us starts at ₹10,000 and is usually ready in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and rice mill or custom software at ₹60,000. We work remotely, without a Bargarh office.",
+    "A Bargarh business website with us starts at ₹10,000 and is usually ready in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and rice mill or custom software at ₹60,000. We work remotely, without a Bargarh office.",
   snapshot: [
     { label: "Location", value: "District headquarters on the left bank of the Jira river in western Odisha, near the Chhattisgarh border" },
     { label: "Population", value: "About 83,650 in the town at the 2011 census; the district was formed in April 1992" },
@@ -157,7 +157,7 @@ const bargarh: CityContent = {
       id: "website-cost-bargarh",
       heading: "Website cost in Bargarh: starting prices and what changes the quote",
       paragraphs: [
-        "Our starting prices for Bargarh are published openly. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO begins at ₹10,000 a month.",
+        "Our starting prices for Bargarh are published openly. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO begins at ₹10,000 a month.",
         "The quote grows with scope: more pages, Odia and English versions, large handloom catalogues, courier integration, staff logins, or links to weighbridge and accounting data. Content affects it too. If you supply the text and photographs, the price stays near the starting figure; if we write and organise everything, that is shown as its own line.",
         "Quotes from local designers vary widely. When comparing, ask whose name the domain and hosting are in, whether basic SEO and mobile testing are included, how many revision rounds you get, and who will fix problems after launch.",
         "All starting figures are on our <a href=\"/pricing/\">pricing page</a>. Send us your requirements and you will receive a free, itemised written quote in about two working days.",
@@ -220,7 +220,7 @@ const bargarh: CityContent = {
     {
       question: "What is the website cost in Bargarh?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Odia and English content, products and integrations. You receive it itemised in writing, and nothing is billed before you approve.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Odia and English content, products and integrations. You receive it itemised in writing, and nothing is billed before you approve.",
     },
     {
       question: "Do you build Android and iOS apps for Bargarh businesses?",
@@ -235,7 +235,7 @@ const bargarh: CityContent = {
     {
       question: "How long does a website take in Bargarh?",
       answer:
-        "A static site usually goes live in one to two weeks once we have your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Quick approvals and ready content make the biggest difference to timing.",
+        "A static site usually goes live in one to two weeks once we have your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Quick approvals and ready content make the biggest difference to timing.",
     },
     {
       question: "Which is the best website development team in Bargarh?",
@@ -260,7 +260,7 @@ const bargarh: CityContent = {
     {
       question: "Bargarh me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek se do hafte mein ban jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapke pages aur features ke hisaab se likhit quote milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek se do hafte mein ban jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapke pages aur features ke hisaab se likhit quote milta hai.",
     },
     {
       question: "You have no office in Bargarh. Is remote work safe?",

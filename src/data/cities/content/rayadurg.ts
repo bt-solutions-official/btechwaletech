@@ -39,7 +39,7 @@ const rayadurg: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Wholesale denim catalogues", "Telugu and Kannada pages", "Code and accounts in your name"],
   },
   quickAnswer:
-    "For a Rayadurg business, a website with us starts at ₹10,000 and is typically live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Rayadurg office, and you own every account.",
+    "For a Rayadurg business, a website with us starts at ₹10,000 and is typically live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Rayadurg office, and you own every account.",
   snapshot: [
     { label: "Location", value: "Municipal town in Anantapur district, on the Karnataka border with Ballari the nearest large city" },
     { label: "Civic status", value: "Municipality constituted in 1963, 31 wards over about 50 sq km" },
@@ -227,7 +227,7 @@ const rayadurg: CityContent = {
     {
       question: "What is the website cost in Rayadurg?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online or wholesale store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final amount depends on pages, languages, styles listed and integrations. You get an itemised written quote before anything is billed.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online or wholesale store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final amount depends on pages, languages, styles listed and integrations. You get an itemised written quote before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Rayadurg businesses?",
@@ -242,7 +242,7 @@ const rayadurg: CityContent = {
     {
       question: "How long does it take to build a website in Rayadurg?",
       answer:
-        "A static site usually goes live one to two weeks after we receive your photos and details. A 700+ page SEO site takes three to five weeks, a wholesale store four to eight weeks, and custom software six to twelve weeks. Projects move fastest when the owner sends content and feedback quickly.",
+        "A static site usually goes live one to two weeks after we receive your photos and details. A 299+ page SEO site takes three to five weeks, a wholesale store four to eight weeks, and custom software six to twelve weeks. Projects move fastest when the owner sends content and feedback quickly.",
     },
     {
       question: "Which is the best website development team in Rayadurg?",
@@ -262,7 +262,7 @@ const rayadurg: CityContent = {
     {
       question: "Rayadurg me website banwane ka kitna kharcha hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein taiyaar ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur wholesale store ₹50,000 se shuru hai. Aapko features ke hisaab se likhit, itemised quote milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein taiyaar ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur wholesale store ₹50,000 se shuru hai. Aapko features ke hisaab se likhit, itemised quote milta hai.",
     },
     {
       question: "You have no office in Rayadurg. How do I know the work is safe?",

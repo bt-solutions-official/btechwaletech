@@ -180,7 +180,7 @@ const content: CityContent = {
       heading: "SEO and AI-search visibility for Pune SaaS, suppliers and services",
       paragraphs: [
         "SEO for Pune businesses means ranking for product, capability and local service searches, and being cited accurately by AI tools such as Google AI Overviews, ChatGPT and Perplexity. That requires fast pages, precise and useful content, schema markup and consistent business information across the web.",
-        "SaaS firms need use-case, comparison and documentation pages. Suppliers need capability pages listing processes, materials, capacities and certifications that procurement engineers search for. Local services need area pages for Kothrud, Baner, Hadapsar and other neighbourhoods they actually serve. Static sites start at ₹10,000, 700+ page SEO websites at ₹20,000, and monthly SEO at ₹10,000.",
+        "SaaS firms need use-case, comparison and documentation pages. Suppliers need capability pages listing processes, materials, capacities and certifications that procurement engineers search for. Local services need area pages for Kothrud, Baner, Hadapsar and other neighbourhoods they actually serve. Static sites start at ₹10,000, 299+ page SEO websites at ₹20,000, and monthly SEO at ₹10,000.",
         "We never guarantee rankings. For local website detail see the separate <a href='/pune/'>Pune websites page</a>, plus <a href='/services/seo-services/'>SEO services</a> and <a href='/services/web-development/'>web development</a>.",
       ],
     },

@@ -39,7 +39,7 @@ const pandhurna: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Marathi and Hindi sites", "Ginning and mandi software", "Domain and code stay yours"],
   },
   quickAnswer:
-    "A Pandhurna business can get a website from ₹10,000, normally ready in one to two weeks, with Marathi and Hindi versions available. Android and iOS apps and AI automation start at ₹40,000, SEO websites of 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. Our team works remotely and has no Pandhurna office.",
+    "A Pandhurna business can get a website from ₹10,000, normally ready in one to two weeks, with Marathi and Hindi versions available. Android and iOS apps and AI automation start at ₹40,000, SEO websites of 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. Our team works remotely and has no Pandhurna office.",
   snapshot: [
     { label: "District", value: "Headquarters of Pandhurna district, carved out of Chhindwara on 5 October 2023" },
     { label: "Tehsils", value: "Pandhurna and Sausar, with Nandanwadi as a sub-tehsil" },
@@ -251,7 +251,7 @@ const pandhurna: CityContent = {
     {
       question: "What is the starting price for a website in Pandhurna?",
       answer:
-        "A static website for a Pandhurna business starts at ₹10,000 for up to 100 pages. An SEO website of 700+ pages starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Every figure is a starting price, and the quote lists each extra, such as a second language, on its own line.",
+        "A static website for a Pandhurna business starts at ₹10,000 for up to 100 pages. An SEO website of 299+ pages starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Every figure is a starting price, and the quote lists each extra, such as a second language, on its own line.",
     },
     {
       question: "Do you build Android and iOS apps for Pandhurna businesses?",

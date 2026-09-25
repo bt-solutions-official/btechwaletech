@@ -34,7 +34,7 @@ const godhra: CityContent = {
     pills: ["Static sites from ₹10,000", "Gujarati, Hindi and English", "Vendor sites for GIDC buyers", "Pavagadh visitor pages", "Code and domain in your name"],
   },
   quickAnswer:
-    "For Godhra businesses, our static websites start from ₹10,000 and usually launch in one to two weeks. A 700+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and an online store at ₹50,000. We are a remote three-engineer team with no office in Godhra, and maintenance is free for five months after launch.",
+    "For Godhra businesses, our static websites start from ₹10,000 and usually launch in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and an online store at ₹50,000. We are a remote three-engineer team with no office in Godhra, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of Panchmahal district in eastern Gujarat" },
     { label: "Connectivity", value: "Godhra Junction on the New Delhi–Mumbai main line, a road junction, and on the route of the Delhi–Mumbai Expressway" },
@@ -72,12 +72,12 @@ const godhra: CityContent = {
       heading: "How much a website costs in Godhra",
       paragraphs: [
         "Local quotes vary from a few thousand rupees for a template to agency proposals from Vadodara that run several times our starting prices. Before comparing numbers, compare what is included: hosting and domain in your name, search basics, speed, and support after launch.",
-        "Our starting prices are published on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages starts from ₹10,000 and takes one to two weeks. A 700+ page SEO website, with separate pages for each product, service or area, starts at ₹20,000 and takes three to five weeks. WhatsApp and AI automation starts from ₹40,000, an online store from ₹50,000 and custom web software from ₹60,000. Monthly SEO starts at ₹10,000.",
+        "Our starting prices are published on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages starts from ₹10,000 and takes one to two weeks. A 299+ page SEO website, with separate pages for each product, service or area, starts at ₹20,000 and takes three to five weeks. WhatsApp and AI automation starts from ₹40,000, an online store from ₹50,000 and custom web software from ₹60,000. Monthly SEO starts at ₹10,000.",
         "The final figure depends on page count, features and how much writing we do for you. Your quote lists every item, so there are no surprises later.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form, map and WhatsApp button. For shops, clinics, classes and small traders.",
-        "<strong>From ₹20,000:</strong> 700+ pages for vendors, distributors and institutes that want search enquiries.",
+        "<strong>From ₹20,000:</strong> 299+ pages for vendors, distributors and institutes that want search enquiries.",
         "<strong>From ₹50,000:</strong> online store with UPI and card payments for packaged products.",
         "<strong>From ₹60,000:</strong> custom tools for job tracking, purchase orders, dispatch and collections.",
       ],
@@ -217,12 +217,12 @@ const godhra: CityContent = {
     {
       question: "How much does a website cost in Godhra?",
       answer:
-        "Our static websites start from ₹10,000, 700+ page SEO websites from ₹20,000, automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. These are starting prices; the written quote depends on pages, features and content, and nothing is billed until you approve it.",
+        "Our static websites start from ₹10,000, 299+ page SEO websites from ₹20,000, automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. These are starting prices; the written quote depends on pages, features and content, and nothing is billed until you approve it.",
     },
     {
       question: "Godhra ma website banavva no kharch ketlo thay?",
       answer:
-        "Amari sathe saadi business website ₹10,000 thi sharu thay chhe, 700+ page ni SEO website ₹20,000 thi, ane online store ₹50,000 thi. Final kimat pages ane features par aadhar rakhe chhe. Kaam sharu karta pehla tamne lakhit quote male chhe, ane tamari manjuri pachhi j bill bane chhe.",
+        "Amari sathe saadi business website ₹10,000 thi sharu thay chhe, 299+ page ni SEO website ₹20,000 thi, ane online store ₹50,000 thi. Final kimat pages ane features par aadhar rakhe chhe. Kaam sharu karta pehla tamne lakhit quote male chhe, ane tamari manjuri pachhi j bill bane chhe.",
     },
     {
       question: "Do you have an office in Godhra?",
@@ -262,7 +262,7 @@ const godhra: CityContent = {
     {
       question: "How long will my website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five, automation two to four, an online store four to eight and custom software six to twelve weeks. The slowest step is usually gathering photos and details, so we share a checklist on day one.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five, automation two to four, an online store four to eight and custom software six to twelve weeks. The slowest step is usually gathering photos and details, so we share a checklist on day one.",
     },
     {
       question: "Will I own the domain and code?",

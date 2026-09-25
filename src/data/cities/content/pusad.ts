@@ -39,7 +39,7 @@ const pusad: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Marathi-first pages", "Ginning and agri billing", "Accounts in your name"],
   },
   quickAnswer:
-    "In Pusad, a business website with us starts at ₹10,000 and is ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an ecommerce store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Pusad office, and you own everything we build.",
+    "In Pusad, a business website with us starts at ₹10,000 and is ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an ecommerce store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Pusad office, and you own everything we build.",
   snapshot: [
     { label: "Location", value: "Western Yavatmal district in Vidarbha, about 110 km from Yavatmal and 255 km from Nagpur" },
     { label: "Population", value: "73,046 (2011 Census); second-largest town in Yavatmal district" },
@@ -149,7 +149,7 @@ const pusad: CityContent = {
       id: "website-cost-pusad",
       heading: "Website cost in Pusad: starting prices and what changes them",
       paragraphs: [
-        "The <strong>website cost in Pusad</strong> depends on what the site must do. Our starting prices: a static website of up to 100 pages from ₹10,000 in one to two weeks; an SEO website of 700+ pages from ₹20,000 in three to five weeks; an ecommerce store from ₹50,000 in four to eight weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; custom software from ₹60,000 in six to twelve weeks.",
+        "The <strong>website cost in Pusad</strong> depends on what the site must do. Our starting prices: a static website of up to 100 pages from ₹10,000 in one to two weeks; an SEO website of 299+ pages from ₹20,000 in three to five weeks; an ecommerce store from ₹50,000 in four to eight weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; custom software from ₹60,000 in six to twelve weeks.",
         "Quotes from local providers vary widely, so compare them carefully. Ask whose name the domain is registered in, what hosting costs at renewal, whether Marathi content is written properly or machine translated, how many rounds of changes are included, and whether you get the source code.",
         "We send an itemised quote in about two working days and bill nothing until you approve it in writing. The full list is on our <a href=\"/pricing/\">pricing page</a>.",
       ],
@@ -210,12 +210,12 @@ const pusad: CityContent = {
     {
       question: "How much does a website cost in Pusad?",
       answer:
-        "A static website for a Pusad business starts at ₹10,000 for up to 100 pages and is usually ready in one to two weeks. An SEO website of 700+ pages starts at ₹20,000 and an ecommerce store at ₹50,000. Marathi content, online payment and the number of products change the final amount, and each item is listed separately.",
+        "A static website for a Pusad business starts at ₹10,000 for up to 100 pages and is usually ready in one to two weeks. An SEO website of 299+ pages starts at ₹20,000 and an ecommerce store at ₹50,000. Marathi content, online payment and the number of products change the final amount, and each item is listed separately.",
     },
     {
       question: "How long does it take to build a website in Pusad?",
       answer:
-        "A basic business website takes one to two weeks once we have your photographs, contact details and content. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. For seasonal businesses, we plan the launch so the site is live before sowing or the cotton season.",
+        "A basic business website takes one to two weeks once we have your photographs, contact details and content. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. For seasonal businesses, we plan the launch so the site is live before sowing or the cotton season.",
     },
     {
       question: "Which is the best website development team in Pusad?",

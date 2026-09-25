@@ -211,7 +211,7 @@ const content: CityContent = {
       id: "software-cost-guide-bengaluru",
       heading: "How much does a software development team in Bengaluru charge?",
       paragraphs: [
-        "Custom software in Bengaluru costs whatever its scope demands, but with us the starting points are clear: websites from ₹10,000, 700+ page SEO websites from ₹20,000, AI automation and Android and iOS apps from ₹40,000, ecommerce stores from ₹50,000 and custom web apps or software from ₹60,000. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000. The full breakdown is on our <a href='/pricing/'>pricing page</a>.",
+        "Custom software in Bengaluru costs whatever its scope demands, but with us the starting points are clear: websites from ₹10,000, 299+ page SEO websites from ₹20,000, AI automation and Android and iOS apps from ₹40,000, ecommerce stores from ₹50,000 and custom web apps or software from ₹60,000. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000. The full breakdown is on our <a href='/pricing/'>pricing page</a>.",
         "What pushes a quote up is predictable: the number of user roles, the number of screens and reports, third-party integrations, data migration from old systems, offline or real-time features, and how much content or design material you already have. What keeps it down is a tight first version and fast decisions on your side.",
         "Bengaluru agencies carry large payrolls and premium office rents, and those costs appear in every estimate. We are three engineers working remotely, so the money goes into the build itself. You get an itemised quote in about two working days after a short call, and payment is in INR by UPI QR or bank transfer only.",
       ],

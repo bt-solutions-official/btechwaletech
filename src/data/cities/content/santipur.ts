@@ -35,7 +35,7 @@ const santipur: CityContent = {
     pills: ["Websites from ₹10,000", "Bengali and English pages", "Saree catalogue stores", "Wholesale enquiry tools", "Five months free upkeep"],
   },
   quickAnswer:
-    "For a Santipur business, a static website with us starts at ₹10,000 and takes one to two weeks. An SEO site of 700+ pages starts at ₹20,000, a saree store with UPI checkout from ₹50,000 and AI or WhatsApp automation from ₹40,000. We are a remote team with no office in Santipur, and maintenance is free for five months.",
+    "For a Santipur business, a static website with us starts at ₹10,000 and takes one to two weeks. An SEO site of 299+ pages starts at ₹20,000, a saree store with UPI checkout from ₹50,000 and AI or WhatsApp automation from ₹40,000. We are a remote team with no office in Santipur, and maintenance is free for five months.",
   snapshot: [
     { label: "Where it is", value: "A municipal town in Ranaghat subdivision of Nadia district, near the Hooghly, with EMU trains via Ranaghat to Sealdah and NH 12 running through" },
     { label: "Main trade", value: "Handloom: cotton tant sarees and fine dhotis, woven in Santipur and neighbouring Phulia for more than five centuries" },
@@ -73,12 +73,12 @@ const santipur: CityContent = {
       heading: "What a website costs in Santipur, and what the price covers",
       paragraphs: [
         "Quotes in Nadia range widely. A relative or a local computer centre may offer a one-page site for very little, often on a free template with the domain registered in their own name. Agencies in Kolkata may quote several times our starting figures because their office and sales costs sit inside every invoice. Neither is automatically wrong, but you should know what you are paying for.",
-        "Our figures are published on the <a href=\"/pricing/\">pricing page</a> and every one is a starting point. A static website of up to 100 pages starts at ₹10,000 and is usually live in one to two weeks. An SEO website of 700+ pages starts at ₹20,000 and takes three to five weeks. A saree or product store with UPI checkout starts at ₹50,000, AI and WhatsApp automation from ₹40,000, and a custom web application from ₹60,000. Monthly SEO work starts at ₹10,000 a month.",
+        "Our figures are published on the <a href=\"/pricing/\">pricing page</a> and every one is a starting point. A static website of up to 100 pages starts at ₹10,000 and is usually live in one to two weeks. An SEO website of 299+ pages starts at ₹20,000 and takes three to five weeks. A saree or product store with UPI checkout starts at ₹50,000, AI and WhatsApp automation from ₹40,000, and a custom web application from ₹60,000. Monthly SEO work starts at ₹10,000 a month.",
         "What moves the price is scope: how many designs, how many languages, whether you need wholesale logins, and whether we write the content or you supply it. You receive an itemised quote before any work starts, and billing begins only after written approval.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, Bengali and English, WhatsApp button, map and basic search setup. Suits shops, clinics, tutors and small units.",
-        "<strong>From ₹20,000:</strong> 700+ pages, one per design range, count, colour or service. Suits traders who want steady search enquiries.",
+        "<strong>From ₹20,000:</strong> 299+ pages, one per design range, count, colour or service. Suits traders who want steady search enquiries.",
         "<strong>From ₹50,000:</strong> saree store with cart, UPI and card payments, courier rules and order tracking.",
         "<strong>From ₹60,000:</strong> custom tools for mahajans, cooperatives and institutions, with logins and reports.",
       ],
@@ -218,12 +218,12 @@ const santipur: CityContent = {
     {
       question: "How much does a website cost in Santipur?",
       answer:
-        "With us, a static website starts at ₹10,000, an SEO website of 700+ pages from ₹20,000, a saree store with UPI checkout from ₹50,000 and a custom web app from ₹60,000. These are starting prices. Your exact figure depends on pages, designs and features, and you see it itemised before you approve anything.",
+        "With us, a static website starts at ₹10,000, an SEO website of 299+ pages from ₹20,000, a saree store with UPI checkout from ₹50,000 and a custom web app from ₹60,000. These are starting prices. Your exact figure depends on pages, designs and features, and you see it itemised before you approve anything.",
     },
     {
       question: "Santipure website banate koto khoroch hoy?",
       answer:
-        "Amader kache ekta sadharon website ₹10,000 theke shuru hoy, 700+ page er SEO website ₹20,000 theke, ar saree-r online dokan ₹50,000 theke. Asol khoroch nirbhor kore koto page, koto design ar ki ki feature lagbe tar opor. Kaj shuru-r age likhito, itemised quote pathano hoy, apnar sommoti chara kono bill hoy na.",
+        "Amader kache ekta sadharon website ₹10,000 theke shuru hoy, 299+ page er SEO website ₹20,000 theke, ar saree-r online dokan ₹50,000 theke. Asol khoroch nirbhor kore koto page, koto design ar ki ki feature lagbe tar opor. Kaj shuru-r age likhito, itemised quote pathano hoy, apnar sommoti chara kono bill hoy na.",
     },
     {
       question: "Do you have an office in Santipur?",
@@ -253,7 +253,7 @@ const santipur: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site usually takes one to two weeks, an SEO site of 700+ pages three to five weeks, a store four to eight weeks, and a custom app six to twelve. For saree stores, photography is usually the slowest part, so we send a simple phone-photo guide on day one.",
+        "A static site usually takes one to two weeks, an SEO site of 299+ pages three to five weeks, a store four to eight weeks, and a custom app six to twelve. For saree stores, photography is usually the slowest part, so we send a simple phone-photo guide on day one.",
     },
     {
       question: "What can WhatsApp automation do for a saree business?",

@@ -40,7 +40,7 @@ const pilani: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "MVPs for student founders", "Hindi and English pages", "Code and logins in your name"],
   },
   quickAnswer:
-    "In Pilani, our websites start at ₹10,000 and a simple one takes one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team, and the domain, code and store accounts are yours.",
+    "In Pilani, our websites start at ₹10,000 and a simple one takes one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team, and the domain, code and store accounts are yours.",
   snapshot: [
     { label: "District", value: "Pilani tehsil, Jhunjhunu district, in the Shekhawati region of northern Rajasthan" },
     { label: "Population", value: "Roughly 40,000 in the 2011 census" },
@@ -159,7 +159,7 @@ const pilani: CityContent = {
       id: "website-cost-pilani",
       heading: "Website cost in Pilani and how to read a quote",
       paragraphs: [
-        "Our starting points: a static website of up to 100 pages from ₹10,000, live in about one to two weeks; an SEO website of 700+ pages from ₹20,000 in three to five weeks, useful for a coaching institute or guesthouse group that wants a page for every course, date or nearby town; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; online stores from ₹50,000 in four to eight weeks; custom software from ₹60,000 in six to twelve weeks; and monthly SEO from ₹10,000 a month.",
+        "Our starting points: a static website of up to 100 pages from ₹10,000, live in about one to two weeks; an SEO website of 299+ pages from ₹20,000 in three to five weeks, useful for a coaching institute or guesthouse group that wants a page for every course, date or nearby town; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; online stores from ₹50,000 in four to eight weeks; custom software from ₹60,000 in six to twelve weeks; and monthly SEO from ₹10,000 a month.",
         "Your price moves only with what you choose: more pages, Hindi and English versions, room calendars, payment checkout, parent or student logins, integrations. Each is a line you can accept, postpone or delete. If you write your own text and send your own photos, the cost stays near the starting figure.",
         "When comparing quotes in Jhunjhunu district or from Delhi and Jaipur, ask the same questions of everyone. Whose name is on the domain? Will you get the source code? Is the site tested on low-cost phones? How many rounds of changes are included? What does support cost after a year? All our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and an itemised quote reaches you in about two working days.",
       ],
@@ -211,7 +211,7 @@ const pilani: CityContent = {
     {
       question: "What does a website cost in Pilani?",
       answer:
-        "A static website with us starts at ₹10,000, an SEO website of 700+ pages at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. The written quote lists every item, such as pages, Hindi content, booking or payments, and nothing is charged before you approve it.",
+        "A static website with us starts at ₹10,000, an SEO website of 299+ pages at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. The written quote lists every item, such as pages, Hindi content, booking or payments, and nothing is charged before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Pilani businesses?",
@@ -231,7 +231,7 @@ const pilani: CityContent = {
     {
       question: "How long will my Pilani website take?",
       answer:
-        "A simple static site takes one to two weeks after we receive text and photos. An SEO site of 700+ pages takes three to five weeks, an online store four to eight weeks and custom software six to twelve. For schools and guesthouses, starting two months before admissions or convocation leaves time to test.",
+        "A simple static site takes one to two weeks after we receive text and photos. An SEO site of 299+ pages takes three to five weeks, an online store four to eight weeks and custom software six to twelve. For schools and guesthouses, starting two months before admissions or convocation leaves time to test.",
     },
     {
       question: "How do I appear on Google Maps in Pilani?",

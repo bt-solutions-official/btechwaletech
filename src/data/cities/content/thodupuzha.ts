@@ -39,7 +39,7 @@ const thodupuzha: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Malayalam + English SEO", "Spice and farm-produce stores", "Domain and code stay yours"],
   },
   quickAnswer:
-    "A Thodupuzha business website with us starts at ₹10,000 and is usually ready within one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Thodupuzha office, and you own everything we build.",
+    "A Thodupuzha business website with us starts at ₹10,000 and is usually ready within one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Thodupuzha office, and you own everything we build.",
   snapshot: [
     { label: "Location", value: "Municipal town on the Thodupuzha river in Idukki district, about 55 km west of the district headquarters at Painavu" },
     { label: "Civic status", value: "First Grade Municipality since 1978" },
@@ -148,7 +148,7 @@ const thodupuzha: CityContent = {
       id: "website-cost-thodupuzha",
       heading: "Website cost in Thodupuzha and what to check in any quote",
       paragraphs: [
-        "The <strong>website cost in Thodupuzha</strong> with us starts at ₹10,000 for a static site of up to 100 pages, ready in one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation each start at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
+        "The <strong>website cost in Thodupuzha</strong> with us starts at ₹10,000 for a static site of up to 100 pages, ready in one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation each start at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
         "Quotes from local and Kochi providers vary widely, so compare what is included rather than the headline number. Ask who owns the domain and hosting, whether Malayalam pages cost extra, how many revisions are included, what support follows launch, and whether content, photographs and Google Business Profile setup are covered. Ask to see live sites that are at least a year old.",
         "We send an itemised written quote in about two working days, and nothing is billed until you approve it. All starting prices are listed on the <a href=\"/pricing/\">pricing page</a>.",
       ],
@@ -210,7 +210,7 @@ const thodupuzha: CityContent = {
     {
       question: "How much does a website cost in Thodupuzha?",
       answer:
-        "A static website with us starts at ₹10,000 for up to 100 pages and takes one to two weeks. An SEO website of 700+ pages starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Your written quote lists every item, and billing starts only after you approve it.",
+        "A static website with us starts at ₹10,000 for up to 100 pages and takes one to two weeks. An SEO website of 299+ pages starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Your written quote lists every item, and billing starts only after you approve it.",
     },
     {
       question: "How long does it take to build a website in Thodupuzha?",

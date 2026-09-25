@@ -209,7 +209,7 @@ const rishikesh: CityContent = {
     {
       question: "How much does a website cost in Rishikesh?",
       answer:
-        "Our static sites in Rishikesh start at ₹10,000. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom booking or management software at ₹60,000. Languages, foreign currency deposits and booking engine links raise the total, and each appears on a written quote before you pay anything.",
+        "Our static sites in Rishikesh start at ₹10,000. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom booking or management software at ₹60,000. Languages, foreign currency deposits and booking engine links raise the total, and each appears on a written quote before you pay anything.",
     },
     {
       question: "Do you build Android and iOS apps for Rishikesh businesses?",
@@ -244,7 +244,7 @@ const rishikesh: CityContent = {
     {
       question: "Rishikesh me website ya app banwane ka kharcha kitna hai?",
       answer:
-        "Rishikesh mein hamari basic website ₹10,000 se shuru hoti hai aur aam taur par do hafte mein taiyaar ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hota hai. Har kaam ka alag-alag hisaab likhit quote mein milta hai.",
+        "Rishikesh mein hamari basic website ₹10,000 se shuru hoti hai aur aam taur par do hafte mein taiyaar ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hota hai. Har kaam ka alag-alag hisaab likhit quote mein milta hai.",
     },
     {
       question: "You have no office in Rishikesh. How does the work happen?",

@@ -34,7 +34,7 @@ const baripada: CityContent = {
     pills: ["Sites from ₹10,000", "Odia, Hindi, English", "Craft catalogues and stores", "Similipal booking pages", "Free upkeep for 5 months"],
   },
   quickAnswer:
-    "In Baripada, a static website with us starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000, an online craft store from ₹50,000, WhatsApp or AI automation from ₹40,000 and custom software from ₹60,000. We are a remote team with no office in Baripada, and maintenance is free for five months after launch.",
+    "In Baripada, a static website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, an online craft store from ₹50,000, WhatsApp or AI automation from ₹40,000 and custom software from ₹60,000. We are a remote team with no office in Baripada, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Role", value: "Headquarters of Mayurbhanj, Odisha's largest district by area, on the Budhabalanga river" },
     { label: "Former state capital", value: "Seat of the Bhanja rulers of Mayurbhanj princely state from the late 18th century" },
@@ -73,12 +73,12 @@ const baripada: CityContent = {
       heading: "What a website costs in Baripada",
       paragraphs: [
         "Website quotes in Baripada swing widely. A cyber café or a relative may offer a page for very little, usually with the domain in their name and no plan for updates. A city agency may quote many times that for work a small business does not need. Before comparing figures, ask what is actually included and who owns what at the end.",
-        "Our starting prices sit openly on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts at ₹10,000 and is typically ready in one to two weeks. An SEO website with 700+ pages starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, WhatsApp and AI automation at ₹40,000, and monthly SEO at ₹10,000 a month.",
+        "Our starting prices sit openly on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts at ₹10,000 and is typically ready in one to two weeks. An SEO website with 299+ pages starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, WhatsApp and AI automation at ₹40,000, and monthly SEO at ₹10,000 a month.",
         "Your quote depends on how many pages and languages you need, whether customers pay online, whether staff or artisans need logins, and who writes the text. Each item is listed separately so you can see where the money goes and remove what you do not want.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages in Odia, English or Hindi, with WhatsApp, map and basic search setup.",
-        "<strong>From ₹20,000:</strong> 700+ pages, for instance one per product, tour, course or service.",
+        "<strong>From ₹20,000:</strong> 299+ pages, for instance one per product, tour, course or service.",
         "<strong>From ₹50,000:</strong> a store with cart, UPI and card payments and courier rates.",
         "<strong>From ₹60,000:</strong> custom systems such as producer order registers or booking tools.",
       ],
@@ -219,7 +219,7 @@ const baripada: CityContent = {
     {
       question: "How much does a website cost in Baripada?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. These are starting prices. You receive an itemised written quote for your exact needs, and nothing is billed until you approve it.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. These are starting prices. You receive an itemised written quote for your exact needs, and nothing is billed until you approve it.",
     },
     {
       question: "Baripada re website tiari karibaku kete kharcha padiba?",

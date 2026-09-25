@@ -35,7 +35,7 @@ const moradabad: CityContent = {
     pills: ["Export catalogue sites", "Sites from ₹10,000", "Hindi and English SEO", "WhatsApp order flows", "You own the code"],
   },
   quickAnswer:
-    "A business website for a Moradabad firm costs from ₹10,000 with us and is usually ready in one to two weeks. A 700+ page SEO site starts at ₹20,000 and an export-ready online store at ₹50,000. We are a remote three-person team, the domain and hosting stay in your name, and five months of maintenance after launch are free.",
+    "A business website for a Moradabad firm costs from ₹10,000 with us and is usually ready in one to two weeks. A 299+ page SEO site starts at ₹20,000 and an export-ready online store at ₹50,000. We are a remote three-person team, the domain and hosting stay in your name, and five months of maintenance after launch are free.",
   snapshot: [
     { label: "Known as", value: "Peetal Nagri, the Brass City, with a GI tag for Moradabad Metal Craft" },
     { label: "Export base", value: "Brass, aluminium, iron, glass and wooden home décor sold to buyers in the US, Europe and beyond" },
@@ -73,12 +73,12 @@ const moradabad: CityContent = {
       heading: "How much does a website cost in Moradabad?",
       paragraphs: [
         "Ask five people in Moradabad what a website costs and you will hear five very different numbers. A relative's friend may offer to make one for ₹2,500. An agency in Delhi may quote ₹80,000 for an export catalogue. The price gap usually hides differences in who owns the domain, whether anyone has thought about search, and whether the developer will still answer the phone after the final payment.",
-        "Our starting prices are published openly. A simple company website of up to 100 pages costs from ₹10,000 and typically goes live within two weeks. A 700+ page SEO website, which for an exporter means separate pages for each product family and material, starts from ₹20,000 and takes three to five weeks. A full online store with cart, UPI and card payments begins at ₹50,000. Custom tools such as a buyer portal or production tracker start from ₹60,000, AI and WhatsApp automation from ₹40,000, and ongoing SEO from ₹10,000 a month.",
+        "Our starting prices are published openly. A simple company website of up to 100 pages costs from ₹10,000 and typically goes live within two weeks. A 299+ page SEO website, which for an exporter means separate pages for each product family and material, starts from ₹20,000 and takes three to five weeks. A full online store with cart, UPI and card payments begins at ₹50,000. Custom tools such as a buyer portal or production tracker start from ₹60,000, AI and WhatsApp automation from ₹40,000, and ongoing SEO from ₹10,000 a month.",
         "What moves the final number is mostly content. A catalogue of 300 items with no usable photographs needs more work than 40 items shot properly against a white background. We tell you this up front and send an itemised quote, usually within two working days, which you approve in writing before any billing.",
       ],
       list: [
         "<strong>Company website, from ₹10,000:</strong> home, about, products overview, contact and enquiry form. Good for small units, shops and consultants.",
-        "<strong>Export catalogue with SEO, from ₹20,000:</strong> 700+ pages covering collections, materials, process and compliance.",
+        "<strong>Export catalogue with SEO, from ₹20,000:</strong> 299+ pages covering collections, materials, process and compliance.",
         "<strong>Online store, from ₹50,000:</strong> domestic retail with UPI checkout, shipping rules and order alerts.",
         "<strong>Buyer or dealer portal, from ₹60,000:</strong> private price lists, sample tracking and order history behind a login.",
       ],
@@ -209,12 +209,12 @@ const moradabad: CityContent = {
     {
       question: "How much does a website cost in Moradabad?",
       answer:
-        "Our starting prices are ₹10,000 for a simple company website, ₹20,000 for a 700+ page SEO or export catalogue site, ₹50,000 for an online store and ₹60,000 for a custom portal or web app. Local quotes range much wider. Compare what each includes: domain ownership, SEO setup, hosting handover and support after launch.",
+        "Our starting prices are ₹10,000 for a simple company website, ₹20,000 for a 299+ page SEO or export catalogue site, ₹50,000 for an online store and ₹60,000 for a custom portal or web app. Local quotes range much wider. Compare what each includes: domain ownership, SEO setup, hosting handover and support after launch.",
     },
     {
       question: "Moradabad me export business ke liye website kitne ki banegi?",
       answer:
-        "Ek basic company website ₹10,000 se shuru hoti hai. Agar aapko 700+ pages tak ka product catalogue chahiye jisme har collection, material aur process ka page ho, to ₹20,000 se shuru hota hai. Products aur photos jitne zyada, utna kaam. Final itemised quote kaam shuru hone se pehle likhit mein milega.",
+        "Ek basic company website ₹10,000 se shuru hoti hai. Agar aapko 299+ pages tak ka product catalogue chahiye jisme har collection, material aur process ka page ho, to ₹20,000 se shuru hota hai. Products aur photos jitne zyada, utna kaam. Final itemised quote kaam shuru hone se pehle likhit mein milega.",
     },
     {
       question: "Do you have an office in Moradabad where I can visit?",

@@ -35,7 +35,7 @@ const alwar: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi-first pages", "Milk cake delivery stores", "Vendor sites for MIA", "Hotel booking enquiries"],
   },
   quickAnswer:
-    "A basic business website in Alwar costs from ₹10,000 with us and is ready in one to two weeks. A 700+ page site built for Google search starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote three-person team with no Alwar office, and maintenance is free for five months.",
+    "A basic business website in Alwar costs from ₹10,000 with us and is ready in one to two weeks. A 299+ page site built for Google search starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote three-person team with no Alwar office, and maintenance is free for five months.",
   snapshot: [
     { label: "Location", value: "About 150 km from both Delhi and Jaipur, on the Delhi–Jaipur rail line, and part of the National Capital Region" },
     { label: "Industrial estate", value: "Matsya Industrial Area (MIA), a RIICO estate with plants of automotive, electrical, ceramics, beverage and edible oil companies" },
@@ -73,12 +73,12 @@ const alwar: CityContent = {
       heading: "Website prices in Alwar, broken down honestly",
       paragraphs: [
         "Owners in Alwar tend to hear two kinds of numbers. A local freelancer offers a site for ₹3,000 that turns out to be a template on hosting they control. An NCR agency quotes ₹40,000 for a brochure site because their office rent in Gurgaon has to be paid by someone. Neither tells you what you are actually buying.",
-        "Our prices sit on the <a href=\"/pricing/\">pricing page</a> for anyone to see. A static website of up to 100 pages, with mobile layout, enquiry form, map and basic search setup, starts at ₹10,000 and takes one to two weeks. A 700+ page site planned around real search terms starts at ₹20,000 and needs three to five weeks. Online stores begin at ₹50,000, custom web applications at ₹60,000, automation at ₹40,000 and monthly SEO at ₹10,000.",
+        "Our prices sit on the <a href=\"/pricing/\">pricing page</a> for anyone to see. A static website of up to 100 pages, with mobile layout, enquiry form, map and basic search setup, starts at ₹10,000 and takes one to two weeks. A 299+ page site planned around real search terms starts at ₹20,000 and needs three to five weeks. Online stores begin at ₹50,000, custom web applications at ₹60,000, automation at ₹40,000 and monthly SEO at ₹10,000.",
         "What moves the final figure is scope, not the size of your signboard. A sweet shop with ten products and good photos is quick work. A factory supplier with two hundred part numbers and no descriptions needs time for content. You receive an itemised quote within about two working days, and we start only after you approve it in writing.",
       ],
       list: [
         "<strong>₹10,000 upward:</strong> shop, clinic, tutor or small workshop site with up to 100 pages and a Google Maps location.",
-        "<strong>₹20,000 upward:</strong> 700+ pages covering each service, product range or locality you serve.",
+        "<strong>₹20,000 upward:</strong> 299+ pages covering each service, product range or locality you serve.",
         "<strong>₹50,000 upward:</strong> online store with cart, UPI, cards and courier-ready order handling.",
         "<strong>₹60,000 upward:</strong> custom portals, logins and dashboards for manufacturers, institutions and contractors.",
       ],
@@ -209,12 +209,12 @@ const alwar: CityContent = {
     {
       question: "What does a website cost in Alwar?",
       answer:
-        "With us, a static site starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Compare any quote you receive on three points: whose name the domain is in, whether basic SEO is included, and what support you get after launch.",
+        "With us, a static site starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Compare any quote you receive on three points: whose name the domain is in, whether basic SEO is included, and what support you get after launch.",
     },
     {
       question: "Alwar me website banwane ka kharcha kitna hai?",
       answer:
-        "Humare yahan simple website ₹10,000 se shuru hoti hai, 700+ page ki SEO website ₹20,000 se aur online dukaan ₹50,000 se. Aapko pehle likhit mein har cheez ka alag-alag quote milta hai. Aap haan kahenge tabhi kaam shuru hoga, aur domain aapke hi naam par rahega.",
+        "Humare yahan simple website ₹10,000 se shuru hoti hai, 299+ page ki SEO website ₹20,000 se aur online dukaan ₹50,000 se. Aapko pehle likhit mein har cheez ka alag-alag quote milta hai. Aap haan kahenge tabhi kaam shuru hoga, aur domain aapke hi naam par rahega.",
     },
     {
       question: "Is your office in Alwar?",
@@ -249,7 +249,7 @@ const alwar: CityContent = {
     {
       question: "How long will my website take?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Delays usually come from waiting for photos and text, so we prepare draft content for you to approve.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Delays usually come from waiting for photos and text, so we prepare draft content for you to approve.",
     },
     {
       question: "What can WhatsApp automation do for an Alwar business?",

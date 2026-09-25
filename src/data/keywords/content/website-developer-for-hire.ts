@@ -195,7 +195,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does a website developer for hire cost in India?",
       paragraphs: [
-        `For a full new site, our starting points are listed in the plan table: a static website of up to 100 pages from ${P.site} (${P.siteUsd}), an SEO website with 700+ pages from ${P.seoSite}, an online store from ${P.shop} and a custom web app from ${P.software}. Short jobs are quoted per task because they vary too much for a single figure.`,
+        `For a full new site, our starting points are listed in the plan table: a static website of up to 100 pages from ${P.site} (${P.siteUsd}), an SEO website with 299+ pages from ${P.seoSite}, an online store from ${P.shop} and a custom web app from ${P.software}. Short jobs are quoted per task because they vary too much for a single figure.`,
         `What moves the price of a short job? The state of the existing code is the biggest factor. A clean, documented site takes less time to change than one with years of patches, page builder layers and unknown plugins. After that come the number of pages or templates touched, whether copy and images are ready, and how much testing is needed, for example checkout flows or forms feeding a CRM.`,
         `Across the market, quotes for the same small job can differ several times over. Hourly sellers, fixed-gig sellers and agencies each count effort differently. Compare what is included: backup, testing on phones, a written summary of what changed, and a warranty on the fix. The <a href='/website-developer-cost/'>website developer cost</a> page breaks down full build pricing in more depth.`,
       ],

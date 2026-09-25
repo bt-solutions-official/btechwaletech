@@ -35,7 +35,7 @@ const alappuzha: CityContent = {
     pills: ["Websites from ₹10,000", "Direct booking for houseboats", "Coir catalogues and export pages", "Malayalam and English", "5 months free maintenance"],
   },
   quickAnswer:
-    "Our static websites for Alappuzha businesses start at ₹10,000 and take one to two weeks. A 700+ page SEO site starts at ₹20,000, booking or AI and WhatsApp automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team with no Alappuzha office, and maintenance is free for five months.",
+    "Our static websites for Alappuzha businesses start at ₹10,000 and take one to two weeks. A 299+ page SEO site starts at ₹20,000, booking or AI and WhatsApp automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team with no Alappuzha office, and maintenance is free for five months.",
   snapshot: [
     { label: "Location", value: "Coastal town about 62 km south of Kochi, between the Arabian Sea and the Vembanad backwaters" },
     { label: "Waterways", value: "Built along the Commercial and Vadai canals; the backwaters form part of National Waterway 3" },
@@ -91,12 +91,12 @@ const alappuzha: CityContent = {
       heading: "What a website costs in Alappuzha",
       paragraphs: [
         "Alappuzha businesses hear a wide range of prices, from small local designers to Kochi agencies selling annual marketing retainers, and tourism operators are often pitched expensive booking platforms with monthly fees. Our starting prices are published on the <a href=\"/pricing/\">pricing page</a>, and every quote is broken into items.",
-        "A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks, enough for a shop, clinic, homestay or small coir unit. A 700+ page site designed for search starts at ₹20,000 and suits hotels, schools, hospitals and exporters with many products. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, and custom booking or production software at ₹60,000. Monthly SEO work starts at ₹10,000.",
+        "A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks, enough for a shop, clinic, homestay or small coir unit. A 299+ page site designed for search starts at ₹20,000 and suits hotels, schools, hospitals and exporters with many products. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, and custom booking or production software at ₹60,000. Monthly SEO work starts at ₹10,000.",
         "These are starting prices, not packages. The number of boats, rooms, products and languages changes the figure, and you approve the itemised quote in writing before any billing.",
       ],
       list: [
         "<strong>₹10,000 onwards:</strong> up to 100 pages, mobile layout, enquiry form, map and search basics.",
-        "<strong>₹20,000 onwards:</strong> 700+ pages for boats, rooms, products or services.",
+        "<strong>₹20,000 onwards:</strong> 299+ pages for boats, rooms, products or services.",
         "<strong>₹50,000 onwards:</strong> online store with UPI, cards, shipping zones and order alerts.",
         "<strong>₹60,000 onwards:</strong> fleet booking, order tracking or appointment software.",
       ],
@@ -229,12 +229,12 @@ const alappuzha: CityContent = {
     {
       question: "How much does a website cost in Alappuzha?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom booking or production software at ₹60,000. These are starting prices. You receive an itemised written quote and can remove anything before approving.",
+        "Our static websites start at ₹10,000, 299+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom booking or production software at ₹60,000. These are starting prices. You receive an itemised written quote and can remove anything before approving.",
     },
     {
       question: "Alappuzhayil oru website undakkan ethra chelavu varum?",
       answer:
-        "Njangalude simple website ₹10,000 muthal thudangunnu, oru-randu aazhchakkullil ready aakum. 700+ page SEO website ₹20,000 muthal, online store ₹50,000 muthal. Aadyam ezhuthiya quote tharum; ningal sammathichathinu sheshame bill cheyyukayulloo.",
+        "Njangalude simple website ₹10,000 muthal thudangunnu, oru-randu aazhchakkullil ready aakum. 299+ page SEO website ₹20,000 muthal, online store ₹50,000 muthal. Aadyam ezhuthiya quote tharum; ningal sammathichathinu sheshame bill cheyyukayulloo.",
     },
     {
       question: "Do you have an office in Alappuzha?",
@@ -264,7 +264,7 @@ const alappuzha: CityContent = {
     {
       question: "How long does a project take?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Waiting for photographs and details causes most delays, so we send a shot list and checklist at the start.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Waiting for photographs and details causes most delays, so we send a shot list and checklist at the start.",
     },
     {
       question: "Should homestays have their own website if they are on booking portals?",

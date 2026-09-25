@@ -35,7 +35,7 @@ const madanapalle: CityContent = {
     pills: ["Sites from ₹10,000", "Telugu and English pages", "Silk saree stores", "Trader and school sites", "WhatsApp order tools"],
   },
   quickAnswer:
-    "A static business website in Madanapalle starts from ₹10,000 with us and is ready in one to two weeks. A 700+ page SEO website starts from ₹20,000, an online saree or produce store from ₹50,000 and WhatsApp or AI automation from ₹40,000. We work remotely with no Madanapalle office, and maintenance is free for five months.",
+    "A static business website in Madanapalle starts from ₹10,000 with us and is ready in one to two weeks. A 299+ page SEO website starts from ₹20,000, an online saree or produce store from ₹50,000 and WhatsApp or AI automation from ₹40,000. We work remotely with no Madanapalle office, and maintenance is free for five months.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of Annamayya district, formed in April 2022 from parts of Chittoor and Kadapa districts" },
     { label: "Signature market", value: "Widely described as Asia's biggest tomato market, sending produce to states across south and north India" },
@@ -73,7 +73,7 @@ const madanapalle: CityContent = {
       heading: "What a website costs in Madanapalle",
       paragraphs: [
         "We publish our starting prices on the <a href=\"/pricing/\">pricing page</a>, so there is no guesswork. A static website with up to 100 pages starts from ₹10,000 and takes one to two weeks, including a mobile layout, service pages, photos, enquiry form, map, WhatsApp button and basic search setup. Adding Telugu versions of key pages is common here and is included in the quote.",
-        "A 700+ page SEO website, useful for a trader covering many crops and markets or a school with many programmes, starts from ₹20,000 and takes three to five weeks. Online stores for sarees or farm products start from ₹50,000, AI and WhatsApp automation from ₹40,000, custom software from ₹60,000 and monthly SEO from ₹10,000.",
+        "A 299+ page SEO website, useful for a trader covering many crops and markets or a school with many programmes, starts from ₹20,000 and takes three to five weeks. Online stores for sarees or farm products start from ₹50,000, AI and WhatsApp automation from ₹40,000, custom software from ₹60,000 and monthly SEO from ₹10,000.",
         "Every figure is a starting price. A single clinic needs much less than a saree store with 300 designs and shipping rules. Share your requirement and we send an itemised quote in about two working days; nothing is charged until you approve it in writing.",
       ],
       list: [
@@ -236,7 +236,7 @@ const madanapalle: CityContent = {
     {
       question: "How much does a website cost in Madanapalle?",
       answer:
-        "Our static websites start from ₹10,000, 700+ page SEO sites from ₹20,000, online stores from ₹50,000 and custom web applications from ₹60,000. When comparing quotes, check whose name the domain is in, whether Telugu pages and search setup are included, and what support you get after launch.",
+        "Our static websites start from ₹10,000, 299+ page SEO sites from ₹20,000, online stores from ₹50,000 and custom web applications from ₹60,000. When comparing quotes, check whose name the domain is in, whether Telugu pages and search setup are included, and what support you get after launch.",
     },
     {
       question: "Madanapalle lo website ki entha kharchu avutundi?",

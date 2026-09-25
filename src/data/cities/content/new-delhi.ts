@@ -35,7 +35,7 @@ const newDelhi: CityContent = {
     pills: ["Sites from ₹10,000", "Accessible, bilingual pages", "Research and report libraries", "Booking and enquiry flows", "Full ownership"],
   },
   quickAnswer:
-    "A website for a New Delhi business or organisation costs from ₹10,000 for a static site of up to 100 pages and ₹20,000 for a 700+ page SEO site with us, delivered in one to five weeks. Stores start at ₹50,000 and custom portals at ₹60,000. We are a remote three-engineer team, and the domain, hosting and code belong to you.",
+    "A website for a New Delhi business or organisation costs from ₹10,000 for a static site of up to 100 pages and ₹20,000 for a 299+ page SEO site with us, delivered in one to five weeks. Stores start at ₹50,000 and custom portals at ₹60,000. We are a remote three-engineer team, and the domain, hosting and code belong to you.",
   snapshot: [
     { label: "Local body", value: "New Delhi Municipal Council, covering about 42.7 sq km of central Delhi" },
     { label: "Business district", value: "Connaught Place with Barakhamba Road, Kasturba Gandhi Marg and Janpath: banks, corporate offices, media and hotels" },
@@ -73,7 +73,7 @@ const newDelhi: CityContent = {
       heading: "What a website costs in New Delhi when overheads are not in the price",
       paragraphs: [
         "Agency quotes in central New Delhi can run into several lakhs, partly because rents around Connaught Place are among the highest anywhere. Our prices do not carry that load because we have no office to pay for. The work is the same careful work; the overhead simply is not there.",
-        "A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site suitable for a consultancy with many practice areas or an NGO with several programmes starts at ₹20,000, over three to five weeks. Online stores begin at ₹50,000 and take four to eight weeks. Custom portals for members, grants or vendors start at ₹60,000 and take six to twelve weeks.",
+        "A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site suitable for a consultancy with many practice areas or an NGO with several programmes starts at ₹20,000, over three to five weeks. Online stores begin at ₹50,000 and take four to eight weeks. Custom portals for members, grants or vendors start at ₹60,000 and take six to twelve weeks.",
         "Automation projects start at ₹40,000, monthly SEO at ₹10,000, and maintenance at ₹8,000 a month after the first five months, which are free. See the <a href=\"/pricing/\">pricing page</a> for detail. We send an itemised estimate in about two working days, suitable for internal approval or a purchase order.",
       ],
       list: [
@@ -218,12 +218,12 @@ const newDelhi: CityContent = {
     {
       question: "How much does a website cost in New Delhi?",
       answer:
-        "Our New Delhi prices start at ₹10,000 for a static site, ₹20,000 for a 700+ page SEO site, ₹50,000 for a store and ₹60,000 for a custom portal. Agency quotes in central Delhi are often much higher because of office costs, so compare what each quote actually delivers.",
+        "Our New Delhi prices start at ₹10,000 for a static site, ₹20,000 for a 299+ page SEO site, ₹50,000 for a store and ₹60,000 for a custom portal. Agency quotes in central Delhi are often much higher because of office costs, so compare what each quote actually delivers.",
     },
     {
       question: "CP ya Khan Market ki dukaan ke liye website ka kharcha kitna hai?",
       answer:
-        "Chhoti dukaan ya café ki website ₹10,000 se shuru hoti hai, aur agar zyada pages chahiye to 700+ page wali SEO site ₹20,000 se. Online store ₹50,000 se banta hai. Kaam shuru karne se pehle itemised quote milta hai, aur likhit approval ke bina koi payment nahi lete.",
+        "Chhoti dukaan ya café ki website ₹10,000 se shuru hoti hai, aur agar zyada pages chahiye to 299+ page wali SEO site ₹20,000 se. Online store ₹50,000 se banta hai. Kaam shuru karne se pehle itemised quote milta hai, aur likhit approval ke bina koi payment nahi lete.",
     },
     {
       question: "Do you have an office in Connaught Place or elsewhere in New Delhi?",
@@ -253,7 +253,7 @@ const newDelhi: CityContent = {
     {
       question: "How long does a New Delhi project take?",
       answer:
-        "A static site takes one to two weeks, a 700+ page site three to five weeks, a store four to eight weeks and custom portals six to twelve weeks. Internal approvals often add time in institutions, so we plan milestones around your review cycle.",
+        "A static site takes one to two weeks, a 299+ page site three to five weeks, a store four to eight weeks and custom portals six to twelve weeks. Internal approvals often add time in institutions, so we plan milestones around your review cycle.",
     },
     {
       question: "Can you issue documentation suitable for our procurement process?",

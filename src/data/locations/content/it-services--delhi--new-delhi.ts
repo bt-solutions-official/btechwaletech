@@ -208,13 +208,13 @@ const content: CityContent = {
       id: "cost-timeline-new-delhi",
       heading: "What does a software development team in New Delhi charge, and how long does it take?",
       paragraphs: [
-        "With BtechWaleTech, software development for a New Delhi organisation starts at ₹60,000 for a custom portal or web app (six to twelve weeks), ₹40,000 for AI automation (two to four weeks) or an Android and iOS app (six to ten weeks), ₹50,000 for ecommerce or paid membership (four to eight weeks), ₹20,000 for a 700+ page SEO website and ₹10,000 for a static site (one to two weeks).",
+        "With BtechWaleTech, software development for a New Delhi organisation starts at ₹60,000 for a custom portal or web app (six to twelve weeks), ₹40,000 for AI automation (two to four weeks) or an Android and iOS app (six to ten weeks), ₹50,000 for ecommerce or paid membership (four to eight weeks), ₹20,000 for a 299+ page SEO website and ₹10,000 for a static site (one to two weeks).",
         "Costs rise with user roles, integrations, security requirements and data migration. We itemise quotes by module and suggest a first phase that delivers value quickly. Payment is in INR only, via UPI using our QR code or by direct bank transfer to our account, split into milestones.",
         "Timelines depend on decisions. Partners are busy, so we agree on one decision-maker and a weekly review slot at the start. That single habit keeps most projects on schedule. Examples of our work are on the <a href=\"/portfolio/\">portfolio</a>.",
       ],
       list: [
         "Corporate or practice website: from ₹10,000",
-        "SEO website of 700+ pages: from ₹20,000",
+        "SEO website of 299+ pages: from ₹20,000",
         "AI document or lead automation: from ₹40,000",
         "Android and iOS app: from ₹40,000",
         "Membership or publication store: from ₹50,000",

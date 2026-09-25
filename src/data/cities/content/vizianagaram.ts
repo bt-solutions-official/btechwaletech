@@ -35,7 +35,7 @@ const vizianagaram: CityContent = {
     pills: ["Sites from ₹10,000", "Telugu and English pages", "College and hospital sites", "Supplier profiles", "Free upkeep for 5 months"],
   },
   quickAnswer:
-    "In Vizianagaram, our static website starts at ₹10,000 and is usually live within two weeks. A 700+ page SEO site costs from ₹20,000, an online store from ₹50,000 and WhatsApp or AI automation from ₹40,000. We are three engineers working remotely with no office in the city, and maintenance is free for five months.",
+    "In Vizianagaram, our static website starts at ₹10,000 and is usually live within two weeks. A 299+ page SEO site costs from ₹20,000, an online store from ₹50,000 and WhatsApp or AI automation from ₹40,000. We are three engineers working remotely with no office in the city, and maintenance is free for five months.",
   snapshot: [
     { label: "Location", value: "District headquarters about 40 km north-north-east of Visakhapatnam, some 24 km inland from the Bay of Bengal" },
     { label: "Heritage", value: "Fort built in 1713 under the Pusapati rulers, the clock tower, and the annual Pydithalli Ammavari Sirimanotsavam" },
@@ -74,7 +74,7 @@ const vizianagaram: CityContent = {
       paragraphs: [
         "Students choosing a college in Vizianagaram compare several options on their phones, usually alongside colleges in Visakhapatnam and Srikakulam. Parents want to see fees, hostel facilities, transport routes, affiliation and approvals, faculty, placement records and the admission process. When a college site hides these behind PDFs or outdated pages, families call instead, or simply choose another college.",
         "We build education sites with clear course pages, a fee and scholarship section, hostel and transport details, a notice board that office staff can update themselves, and an enquiry form that sends leads straight to WhatsApp. Placement figures appear only if you can document them, and we avoid vague claims like “100% placement” that parents have learnt to distrust.",
-        "Coaching centres for EAPCET, NEET, government exams and spoken English need something lighter: batch timings, fees, faculty introductions, results you can prove, and a demo-class booking button. A static site from ₹10,000 is often enough to start. Colleges with many departments usually need the 700+ page plan from ₹20,000 or more.",
+        "Coaching centres for EAPCET, NEET, government exams and spoken English need something lighter: batch timings, fees, faculty introductions, results you can prove, and a demo-class booking button. A static site from ₹10,000 is often enough to start. Colleges with many departments usually need the 299+ page plan from ₹20,000 or more.",
         "Hostels and PG accommodation near the colleges are a related opportunity. Students arriving from other districts search for rooms before admission is even confirmed. A simple page with room types, monthly rent, food arrangements, distance to JNTU-Gurajada or MVGR, house rules and a contact number fills a gap that most hostel owners in the city leave open. Owners who also run a mess or tiffin service can list weekly menus, which parents in particular like to see before agreeing to a hostel.",
       ],
     },
@@ -102,12 +102,12 @@ const vizianagaram: CityContent = {
       heading: "What a website costs in Vizianagaram",
       paragraphs: [
         "Quotes in Vizianagaram vary widely, from a few thousand rupees for a template to large amounts from agencies in Visakhapatnam or Hyderabad. Cheaper offers often exclude search setup and keep the domain in the developer's name; expensive ones may include services a local clinic or shop does not need.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static site for a shop, clinic, tutor or small firm starts at ₹10,000 and takes one to two weeks. The 700+ page SEO plan from ₹20,000 suits colleges, hospitals and suppliers with several departments or services. Online stores start at ₹50,000, automation at ₹40,000, custom web applications at ₹60,000 and monthly SEO at ₹10,000.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static site for a shop, clinic, tutor or small firm starts at ₹10,000 and takes one to two weeks. The 299+ page SEO plan from ₹20,000 suits colleges, hospitals and suppliers with several departments or services. Online stores start at ₹50,000, automation at ₹40,000, custom web applications at ₹60,000 and monthly SEO at ₹10,000.",
         "A bilingual Telugu and English site adds some writing and checking time, and the quote shows that clearly. Nothing is billed until you have approved the itemised quote in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form, map and basic SEO.",
-        "<strong>From ₹20,000:</strong> 700+ pages for departments, specialities, courses or services.",
+        "<strong>From ₹20,000:</strong> 299+ pages for departments, specialities, courses or services.",
         "<strong>From ₹50,000:</strong> online store with UPI, cards, shipping and order notifications.",
         "<strong>From ₹60,000:</strong> admission, billing, job-card or vendor systems with user logins.",
       ],
@@ -221,12 +221,12 @@ const vizianagaram: CityContent = {
     {
       question: "How much does a website cost in Vizianagaram?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. When comparing quotes, check whether the domain will be in your name, whether search setup is included and what support you get after launch.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. When comparing quotes, check whether the domain will be in your name, whether search setup is included and what support you get after launch.",
     },
     {
       question: "Vizianagaram lo website cheyinchukovadaniki entha kharchu avutundi?",
       answer:
-        "Maa daggara simple website ₹10,000 nunchi modalavutundi, okati rendu vaarallo ready avutundi. 700+ pages SEO website ₹20,000 nunchi, online store ₹50,000 nunchi. Final dhara pages, features meeda aadharapadi untundi. Pani modalupettaka mundu written quote pampistamu, meeru okay cheppina tarvate bill chestamu.",
+        "Maa daggara simple website ₹10,000 nunchi modalavutundi, okati rendu vaarallo ready avutundi. 299+ pages SEO website ₹20,000 nunchi, online store ₹50,000 nunchi. Final dhara pages, features meeda aadharapadi untundi. Pani modalupettaka mundu written quote pampistamu, meeru okay cheppina tarvate bill chestamu.",
     },
     {
       question: "Do you have an office in Vizianagaram?",
@@ -256,12 +256,12 @@ const vizianagaram: CityContent = {
     {
       question: "I supply services to the ferro-alloy plants. Do I need a website?",
       answer:
-        "It helps. Purchase staff often search a vendor's name before approving or meeting them. A site with your services, equipment, registrations and completed work, plus a downloadable profile, makes you appear organised and dependable. Many suppliers start with the 700+ page plan from ₹20,000.",
+        "It helps. Purchase staff often search a vendor's name before approving or meeting them. A site with your services, equipment, registrations and completed work, plus a downloadable profile, makes you appear organised and dependable. Many suppliers start with the 299+ page plan from ₹20,000.",
     },
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Bilingual sites take a little longer for writing and review. We send a content checklist on day one to avoid delays.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Bilingual sites take a little longer for writing and review. We send a content checklist on day one to avoid delays.",
     },
     {
       question: "What can WhatsApp automation do for a college or hospital?",

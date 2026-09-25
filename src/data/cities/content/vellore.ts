@@ -34,7 +34,7 @@ const vellore: CityContent = {
     pills: ["Sites from ₹10,000", "Tamil, English and Hindi pages", "Leather export catalogues", "Patient-family lodge bookings", "WhatsApp enquiry automation"],
   },
   quickAnswer:
-    "In Vellore, a static website with us starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000, AI or WhatsApp automation at ₹40,000 and an online store at ₹50,000. We are a remote team of three engineers with no Vellore office; you own the domain and code, and five months of maintenance are free.",
+    "In Vellore, a static website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, AI or WhatsApp automation at ₹40,000 and an online store at ₹50,000. We are a remote team of three engineers with no Vellore office; you own the domain and code, and five months of maintenance are free.",
   snapshot: [
     { label: "Location", value: "On the Palar river, about 135 km west of Chennai on the Chennai–Bengaluru corridor, ringed by hills of the Eastern Ghats" },
     { label: "Healthcare", value: "Christian Medical College, founded in 1900, draws patients from across India and abroad; Government Vellore Medical College also serves the region" },
@@ -72,7 +72,7 @@ const vellore: CityContent = {
       heading: "Website costs in Vellore, explained plainly",
       paragraphs: [
         "Quotes in Vellore range from very cheap template sites, often with the domain in the builder's name and no search work, to agency proposals from Chennai that carry metro overheads. Neither extreme is automatically right. Compare what is included, who owns what, and what support looks like after launch. Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>.",
-        "A static website of up to 100 pages, with mobile layout, contact form, map, WhatsApp button and basic SEO, starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site, with pages for every product, room type, service or locality, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
+        "A static website of up to 100 pages, with mobile layout, contact form, map, WhatsApp button and basic SEO, starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site, with pages for every product, room type, service or locality, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
         "A leather exporter with two hundred articles, or a lodge that wants pages in three languages, needs more work than a single clinic. That is why every quote is itemised, so you can see what drives the number and drop what you do not need.",
       ],
       list: [
@@ -217,7 +217,7 @@ const vellore: CityContent = {
     {
       question: "How much does a website cost in Vellore?",
       answer:
-        "With us a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, languages and features. When comparing local offers, check who owns the domain and what support is included after launch.",
+        "With us a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, languages and features. When comparing local offers, check who owns the domain and what support is included after launch.",
     },
     {
       question: "Vellore la website panna evvalavu selavu aagum?",

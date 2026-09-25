@@ -174,7 +174,7 @@ const content: CityContent = {
       paragraphs: [
         "SEO services for a Punjab business make sure you appear when buyers search for what you sell, in the cities and districts you serve, and when they ask AI assistants for recommendations. A Jalandhar sports goods exporter, a Bathinda hospital and a Mohali software startup each need a different mix of local, national and international search work.",
         "Local SEO covers your Google Business Profile, consistent name, address and phone details, reviews and city-level service pages. Statewide or national SEO covers product and category pages, industry guides and technical health. AI-search visibility, sometimes called GEO, depends on clear, factual, well-structured pages that name your products, locations and specialities explicitly so that ChatGPT, Perplexity and Google AI Overviews can cite them.",
-        "Monthly SEO with us starts at ₹10,000, and a large 700+ page SEO website starts at ₹20,000. We report what changed and which searches bring enquiries, and we never promise a guaranteed first position. Details are on our <a href='/services/seo-services/'>SEO services</a> page.",
+        "Monthly SEO with us starts at ₹10,000, and a large 299+ page SEO website starts at ₹20,000. We report what changed and which searches bring enquiries, and we never promise a guaranteed first position. Details are on our <a href='/services/seo-services/'>SEO services</a> page.",
       ],
     },
     {
@@ -190,13 +190,13 @@ const content: CityContent = {
       id: "cost-it-services-punjab",
       heading: "How much do IT services cost in Punjab?",
       paragraphs: [
-        "IT services in Punjab with BtechWaleTech start at ₹10,000 for a website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation, ₹50,000 for an online store and ₹60,000 for custom software or a web application. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month, after five free months.",
+        "IT services in Punjab with BtechWaleTech start at ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation, ₹50,000 for an online store and ₹60,000 for custom software or a web application. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month, after five free months.",
         "These are starting prices. Final cost depends on the number of screens, user roles, integrations with Tally or other tools, how much content is ready, and how fast you need it. The quote lists each module separately, so you can drop or postpone items to fit a budget. See the full table on our <a href='/pricing/'>pricing page</a>.",
         "Payment is simple and transparent: clients pay us in INR by UPI, by scanning our QR code, or by direct bank transfer to our bank account. Larger projects are split into milestones tied to work you have already reviewed on a live preview, so you never pay far ahead of what you can see.",
       ],
       list: [
         "Website: from ₹10,000, one to two weeks",
-        "SEO website (700+ pages): from ₹20,000, three to five weeks",
+        "SEO website (299+ pages): from ₹20,000, three to five weeks",
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Online store: from ₹50,000, four to eight weeks",
         "Android and iOS app: from ₹40,000, six to ten weeks",
@@ -277,7 +277,7 @@ const content: CityContent = {
     {
       question: "How much do IT services cost in Punjab?",
       answer:
-        "Our starting prices are ₹10,000 for a website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI or WhatsApp automation, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000. The final figure depends on features and integrations, and you receive an itemised quote within about two working days.",
+        "Our starting prices are ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI or WhatsApp automation, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000. The final figure depends on features and integrations, and you receive an itemised quote within about two working days.",
     },
     {
       question: "How do Punjab clients pay you?",

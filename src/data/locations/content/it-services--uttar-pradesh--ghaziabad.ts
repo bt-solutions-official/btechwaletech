@@ -132,7 +132,7 @@ const content: CityContent = {
       id: "ghaziabad-b2b-websites",
       heading: "B2B websites that win enquiries for Ghaziabad manufacturers",
       paragraphs: [
-        "A B2B website for a Ghaziabad manufacturer should present products with specifications, show production capabilities and certifications, list industries served, and make requesting a quote effortless. BtechWaleTech builds these on Astro or Next.js from ₹10,000 for a static site, or ₹20,000 for a 700+ page SEO website covering every product and application.",
+        "A B2B website for a Ghaziabad manufacturer should present products with specifications, show production capabilities and certifications, list industries served, and make requesting a quote effortless. BtechWaleTech builds these on Astro or Next.js from ₹10,000 for a static site, or ₹20,000 for a 299+ page SEO website covering every product and application.",
         "Purchase managers judge suppliers quickly. They look for clear product ranges, sizes and grades, photographs of the actual facility and machines, and evidence of consistency. A generic template with stock images and a single contact form rarely convinces them. Product pages that answer technical questions directly also rank for specific searches that bring qualified enquiries.",
         "Each page includes a short RFQ form that captures specification details, feeding straight into your lead system. We add schema markup for products and the organisation, and write content that AI search tools can quote accurately. See our <a href=\"/services/web-development/\">web development</a> page for what a standard build includes.",
       ],
@@ -184,7 +184,7 @@ const content: CityContent = {
       id: "ghaziabad-cost",
       heading: "What do IT services cost in Ghaziabad?",
       paragraphs: [
-        "IT services in Ghaziabad with BtechWaleTech start at ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for ecommerce and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months.",
+        "IT services in Ghaziabad with BtechWaleTech start at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for ecommerce and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months.",
         "Scope drives the final figure. A lead capture automation for one sales team is near the starting price; a multi-stage production system with job-work tracking, supervisor apps and dashboards costs more. You receive an itemised quote within about two working days and can remove any line. See all plans on our <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [

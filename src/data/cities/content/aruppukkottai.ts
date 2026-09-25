@@ -39,7 +39,7 @@ const aruppukkottai: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Tamil-first local SEO", "Yarn and textile trade tools", "Accounts in your own name"],
   },
   quickAnswer:
-    "In Aruppukkottai, a business website with us starts at ₹10,000 and is usually ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Aruppukkottai office, and you own everything.",
+    "In Aruppukkottai, a business website with us starts at ₹10,000 and is usually ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Aruppukkottai office, and you own everything.",
   snapshot: [
     { label: "Location", value: "Municipality in Virudhunagar district, about 50 km from Madurai on the Madurai–Thoothukudi national highway" },
     { label: "Population", value: "About 87,700 in the 2011 Census; a first-grade municipality since 1979" },
@@ -119,7 +119,7 @@ const aruppukkottai: CityContent = {
       paragraphs: [
         "Searches around Aruppukkottai are mostly on phones, in Tamil and English, and often spoken. People ask for “Aruppukottai hospital”, “cotton saree shop near me”, “spinning mill jobs Aruppukottai” or “lorry service Aruppukottai”, and the map listings at the top of the results get most of the calls.",
         "Our <strong>SEO services in Aruppukkottai</strong> begin with the Google Business Profile: the right category, an exact pin, correct hours including festival closures, real photographs, a services list and a steady plan for genuine reviews. Many towns have duplicate or abandoned listings for the same business, and we clean those up first.",
-        "We then write website pages that answer the questions customers ask, in the language they use, and link them to the listing. A saree seller might have pages for each weave type; a mill might have pages by yarn count; a hospital might list each department and doctor. For businesses that want a wider reach, a 700+ page SEO website starts at ₹20,000.",
+        "We then write website pages that answer the questions customers ask, in the language they use, and link them to the listing. A saree seller might have pages for each weave type; a mill might have pages by yarn count; a hospital might list each department and doctor. For businesses that want a wider reach, a 299+ page SEO website starts at ₹20,000.",
         "Monthly SEO starts at ₹10,000 a month and includes content, listing updates and a clear report. We never promise a number one ranking. More on <a href=\"/services/seo-services/\">our SEO approach</a>.",
       ],
     },
@@ -219,7 +219,7 @@ const aruppukkottai: CityContent = {
     {
       question: "How much does a website cost in Aruppukkottai?",
       answer:
-        "Our pricing begins at ₹10,000 for a static site, ₹20,000 for a 700+ page SEO site, ₹50,000 for an online store and ₹60,000 for custom software. Tamil content, catalogue size and integrations decide where your project lands above those figures. The quote is written and itemised, and billing waits for your approval.",
+        "Our pricing begins at ₹10,000 for a static site, ₹20,000 for a 299+ page SEO site, ₹50,000 for an online store and ₹60,000 for custom software. Tamil content, catalogue size and integrations decide where your project lands above those figures. The quote is written and itemised, and billing waits for your approval.",
     },
     {
       question: "Do you build Android and iOS apps for Aruppukkottai businesses?",
@@ -259,7 +259,7 @@ const aruppukkottai: CityContent = {
     {
       question: "Aruppukkottai-la website seiya evvalavu selavaagum?",
       answer:
-        "Engalidam saadharana website ₹10,000-il irundhu thodangugiradhu, pothuvaaga oru-irandu vaarangalil thayaaraagum. 700+ page SEO website ₹20,000-il irundhu, Android matrum iOS app ₹40,000-il irundhu, online store ₹50,000-il irundhu thodangugiradhu. Ungal pages matrum features-ai poruthu ezhuthu moolam quote tharugirom.",
+        "Engalidam saadharana website ₹10,000-il irundhu thodangugiradhu, pothuvaaga oru-irandu vaarangalil thayaaraagum. 299+ page SEO website ₹20,000-il irundhu, Android matrum iOS app ₹40,000-il irundhu, online store ₹50,000-il irundhu thodangugiradhu. Ungal pages matrum features-ai poruthu ezhuthu moolam quote tharugirom.",
     },
     {
       question: "Your team is not in Aruppukkottai. Why should I trust remote work?",

@@ -207,7 +207,7 @@ const content: CityContent = {
       id: "cost-maintenance-bilaspur",
       heading: "What do freelance software developers in Bilaspur cost, and what support follows?",
       paragraphs: [
-        "BtechWaleTech's starting prices for Bilaspur are ₹10,000 for a professional website (one to two weeks), ₹20,000 for a 700+ page SEO site, ₹40,000 for AI automation (two to four weeks), ₹40,000 for Android and iOS apps (six to ten weeks), ₹50,000 for an online store and ₹60,000 for case, contractor or mill software (six to twelve weeks). Monthly SEO starts at ₹10,000.",
+        "BtechWaleTech's starting prices for Bilaspur are ₹10,000 for a professional website (one to two weeks), ₹20,000 for a 299+ page SEO site, ₹40,000 for AI automation (two to four weeks), ₹40,000 for Android and iOS apps (six to ten weeks), ₹50,000 for an online store and ₹60,000 for case, contractor or mill software (six to twelve weeks). Monthly SEO starts at ₹10,000.",
         "Every project includes five months of free maintenance after hosting goes live, covering bug fixes, security updates, backups, uptime checks and small changes. Afterwards, plans start at ₹8,000 a month, or you pay per request. We reply on WhatsApp seven days a week. Read more <a href='/about/'>about us</a>, or see nearby pages for <a href='/it-services/chhattisgarh/korba/'>Korba</a>, <a href='/it-services/chhattisgarh/raipur/'>Raipur</a> and the <a href='/bilaspur/'>Bilaspur city page</a>.",
       ],
     },

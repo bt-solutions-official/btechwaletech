@@ -39,7 +39,7 @@ const shahdol: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first local SEO", "Coal-belt supplier sites", "WhatsApp replies 7 days a week"],
   },
   quickAnswer:
-    "For Shahdol businesses, our websites start from ₹10,000 (ready in one to two weeks), a 700+ page SEO website from ₹20,000, and Android and iOS apps from ₹40,000. Online stores begin at ₹50,000 and custom software at ₹60,000. We are a remote team of three with no Shahdol office, and the first five months of maintenance are free.",
+    "For Shahdol businesses, our websites start from ₹10,000 (ready in one to two weeks), a 299+ page SEO website from ₹20,000, and Android and iOS apps from ₹40,000. Online stores begin at ₹50,000 and custom software at ₹60,000. We are a remote team of three with no Shahdol office, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of Shahdol district and of Shahdol division in north-eastern Madhya Pradesh" },
     { label: "Coal and energy", value: "Sohagpur Coalfield around Burhar and Dhanpuri, plus coal bed methane blocks in Sohagpur East and West" },
@@ -77,7 +77,7 @@ const shahdol: CityContent = {
       heading: "Website cost in Shahdol: what you pay and what to compare",
       paragraphs: [
         "Owners in Shahdol usually hear two very different kinds of offer. One is a low-cost template from a freelancer that sits on hosting nobody can log into later. The other is a large agency figure that includes things a local clinic or dealer will never use. Local quotes vary widely, so compare what is included rather than the headline number.",
-        "Our own rates are published on the <a href=\"/pricing/\">pricing page</a>. A static website with up to 100 pages starts at ₹10,000 and typically goes live in one to two weeks. An SEO website of 700+ pages, with a page for every service, product and nearby town, begins at ₹20,000 and takes three to five weeks. Android and iOS apps start from ₹40,000, AI automation also from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000.",
+        "Our own rates are published on the <a href=\"/pricing/\">pricing page</a>. A static website with up to 100 pages starts at ₹10,000 and typically goes live in one to two weeks. An SEO website of 299+ pages, with a page for every service, product and nearby town, begins at ₹20,000 and takes three to five weeks. Android and iOS apps start from ₹40,000, AI automation also from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000.",
         "Every one of these is a starting price. A single-doctor clinic needs far less than a multi-speciality hospital, and a mobile shop less than a building-material wholesaler with a thousand items. The written quote lists each page and feature, so you can drop anything you don't need before saying yes.",
       ],
       list: [
@@ -227,7 +227,7 @@ const shahdol: CityContent = {
     {
       question: "How much does a website cost in Shahdol?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices; your quote depends on pages, features and content. When comparing offers, check that SEO basics, hosting in your name and after-launch support are included.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices; your quote depends on pages, features and content. When comparing offers, check that SEO basics, hosting in your name and after-launch support are included.",
     },
     {
       question: "Shahdol me website ya app banwane me kitna kharcha aata hai?",
@@ -262,7 +262,7 @@ const shahdol: CityContent = {
     {
       question: "How long does a website or app take?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, AI automation two to four weeks, an online store four to eight weeks and custom software six to twelve weeks. App timelines depend on screens and features. The usual delay is waiting for photos and details, so we send a checklist on day one.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, AI automation two to four weeks, an online store four to eight weeks and custom software six to twelve weeks. App timelines depend on screens and features. The usual delay is waiting for photos and details, so we send a checklist on day one.",
     },
     {
       question: "What can AI or WhatsApp automation do for my Shahdol business?",

@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "@layouts/BaseLayout.astro";
+import { countryPageLinks } from "@data/keywords/page-links";
 import { createPageSeo } from "@lib/seo/seo-config";
 import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
 import { breadcrumbListSchema, faqSchema } from "@lib/schema/schema";
@@ -21,7 +22,7 @@ const faqs = [
   },
   {
     question: "What does a website cost for a Saudi business?",
-    answer: `Starting prices for Saudi clients are ${usd("Static")} for a static website of up to 100 pages, ${usd("SEO website")} for a 700+ page SEO website, ${usd("AI automation")} for AI automation, ${usd("Ecommerce")} for an ecommerce store and ${usd("Custom web app")} for a custom web app. Monthly SEO starts from ${usd("Monthly SEO")} and maintenance from ${usd("Maintenance")}. The final quote depends on your requirements, such as an Arabic-first design, integrations and content.`,
+    answer: `Starting prices for Saudi clients are ${usd("Static")} for a static website of up to 100 pages, ${usd("SEO website")} for a 299+ page SEO website, ${usd("AI automation")} for AI automation, ${usd("Ecommerce")} for an ecommerce store and ${usd("Custom web app")} for a custom web app. Monthly SEO starts from ${usd("Monthly SEO")} and maintenance from ${usd("Maintenance")}. The final quote depends on your requirements, such as an Arabic-first design, integrations and content.`,
   },
   {
     question: "Can the website be Arabic-first, with English as the second language?",
@@ -81,7 +82,7 @@ const faqs = [
   },
   {
     question: "How long does a project for a Saudi client take?",
-    answer: "A static website usually takes one to two weeks, a 700+ page SEO website three to five weeks, AI automation two to four weeks, an ecommerce store four to eight weeks and a custom web app six to twelve weeks. An Arabic-first design adds time for RTL testing, and gateway approvals can take longer than the build, so we start them early.",
+    answer: "A static website usually takes one to two weeks, a 299+ page SEO website three to five weeks, AI automation two to four weeks, an ecommerce store four to eight weeks and a custom web app six to twelve weeks. An Arabic-first design adds time for RTL testing, and gateway approvals can take longer than the build, so we start them early.",
   },
   {
     question: "Who owns the website and accounts when the project ends?",
@@ -320,6 +321,7 @@ const related = [
   { name: "IT services in Canada", href: "/canada/" },
   { name: "IT services in Australia", href: "/australia/" },
 ];
+const servicePages = countryPageLinks("saudi-arabia");
 ---
 
 <BaseLayout meta={page} schema={[webPageSchema, serviceSchema, breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs)]}>
@@ -1033,7 +1035,7 @@ const related = [
           <p>
             Quotes for Saudi websites range widely, from very cheap template installs to large agency projects, and the gap
             usually reflects scope rather than just margin. Our starting prices are {usd("Static")} for a static website,
-            {usd("SEO website")} for a 700+ page SEO website, {usd("AI automation")} for AI automation, {usd("Ecommerce")} for an
+            {usd("SEO website")} for a 299+ page SEO website, {usd("AI automation")} for AI automation, {usd("Ecommerce")} for an
             ecommerce store and {usd("Custom web app")} for a custom web app. These factors move a quote above the starting point.
           </p>
           <div class="comparison-table-wrap table-in-prose">
@@ -1157,6 +1159,21 @@ const related = [
       </div>
     </div>
   </section>
+
+  <!-- ===================== SERVICE PAGES ===================== -->
+  {servicePages.length > 0 && (
+    <section class="locations" aria-labelledby="service-pages-heading">
+      <div class="section-wrap">
+        <div class="section-head">
+          <p class="eyebrow">Services and guides</p>
+          <h2 id="service-pages-heading">Everything we build for Saudi businesses</h2>
+        </div>
+        <div class="city-cloud">
+          {servicePages.map((p) => <a class="city-chip" href={p.href}>{p.name}</a>)}
+        </div>
+      </div>
+    </section>
+  )}
 
   <!-- ===================== RELATED ===================== -->
   <section class="locations" aria-labelledby="related-heading">

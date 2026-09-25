@@ -38,7 +38,7 @@ const dalliRajhara: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Trip and wage record software", "Hindi-first local SEO", "Every login in your name"],
   },
   quickAnswer:
-    "In Dalli-Rajhara, a website with us starts at ₹10,000 and is usually ready within two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 700+ page SEO site starts at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely, with no office in town, and you own everything.",
+    "In Dalli-Rajhara, a website with us starts at ₹10,000 and is usually ready within two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 299+ page SEO site starts at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely, with no office in town, and you own everything.",
   snapshot: [
     { label: "Location", value: "Municipality in Balod district, Chhattisgarh, roughly 83 km south of Durg by rail" },
     { label: "Population", value: "44,363 at the 2011 census, across about 17 sq km" },
@@ -148,7 +148,7 @@ const dalliRajhara: CityContent = {
       id: "website-cost-dalli-rajhara",
       heading: "Website cost in Dalli-Rajhara and what each price includes",
       paragraphs: [
-        "Starting prices first. A static website, up to 100 pages, from ₹10,000, usually ready in one to two weeks. A 700+ page SEO website from ₹20,000 over three to five weeks, suited to a supplier covering many equipment types or an institute covering many courses. Android and iOS apps from ₹40,000. AI automation from ₹40,000 over two to four weeks. Online stores from ₹50,000 over four to eight weeks. Custom software and web apps, such as trip and wage records, from ₹60,000 over six to twelve weeks. Monthly SEO from ₹10,000 a month.",
+        "Starting prices first. A static website, up to 100 pages, from ₹10,000, usually ready in one to two weeks. A 299+ page SEO website from ₹20,000 over three to five weeks, suited to a supplier covering many equipment types or an institute covering many courses. Android and iOS apps from ₹40,000. AI automation from ₹40,000 over two to four weeks. Online stores from ₹50,000 over four to eight weeks. Custom software and web apps, such as trip and wage records, from ₹60,000 over six to twelve weeks. Monthly SEO from ₹10,000 a month.",
         "The figure rises only with scope you select: Hindi translation, product or equipment lists, the number of vehicles and users in a software tool, offline mode, payments, or a link to Tally. If you provide your own text and photographs, the cost stays close to the starting point.",
         "Quotes from developers in Durg, Bhilai and Raipur vary widely for similar work. Compare what you actually receive: whether the domain and hosting are in your name, whether the code is handed over, how many revision rounds are included, whether basic SEO is part of the job, and what support costs after a year. Our full rates are on the <a href=\"/pricing/\">pricing page</a>, and a written quote usually reaches you within two working days.",
       ],
@@ -209,7 +209,7 @@ const dalliRajhara: CityContent = {
     {
       question: "What is the website cost in Dalli-Rajhara?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, Hindi content, features and integrations. You receive the quote itemised in writing, and nothing is billed before you approve it.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, Hindi content, features and integrations. You receive the quote itemised in writing, and nothing is billed before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Dalli-Rajhara businesses?",
@@ -229,7 +229,7 @@ const dalliRajhara: CityContent = {
     {
       question: "How long does a website take in Dalli-Rajhara?",
       answer:
-        "A simple business site takes one to two weeks after we receive your details and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Sending content early is the single biggest factor in finishing on time.",
+        "A simple business site takes one to two weeks after we receive your details and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Sending content early is the single biggest factor in finishing on time.",
     },
     {
       question: "Can you put my Dalli-Rajhara shop or clinic on Google Maps?",
@@ -244,7 +244,7 @@ const dalliRajhara: CityContent = {
     {
       question: "Dalli Rajhara me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek se do hafte mein taiyar ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hai. Aapke features ke hisaab se likhit quote WhatsApp par milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek se do hafte mein taiyar ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hai. Aapke features ke hisaab se likhit quote WhatsApp par milta hai.",
     },
     {
       question: "You have no office in Dalli-Rajhara. How is remote work safe?",

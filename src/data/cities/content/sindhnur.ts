@@ -39,7 +39,7 @@ const sindhnur: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Kannada-first local SEO", "Rice mill and trader software", "Every login in your name"],
   },
   quickAnswer:
-    "In Sindhanur you can get a business website from us starting at ₹10,000, typically finished within two weeks. Android and iOS apps and AI automation each start at ₹40,000, a 700+ page SEO site at ₹20,000, an ecommerce store at ₹50,000 and custom software at ₹60,000. We are a remote team without a Sindhanur office.",
+    "In Sindhanur you can get a business website from us starting at ₹10,000, typically finished within two weeks. Android and iOS apps and AI automation each start at ₹40,000, a 299+ page SEO site at ₹20,000, an ecommerce store at ₹50,000 and custom software at ₹60,000. We are a remote team without a Sindhanur office.",
   snapshot: [
     { label: "Status", value: "City and taluk headquarters in Raichur district, with 31 municipal wards" },
     { label: "Farming", value: "Paddy twice a year on Tungabhadra Left Bank Canal water; Sona Masuri, RNR and basmati varieties on black soil" },
@@ -159,7 +159,7 @@ const sindhnur: CityContent = {
       id: "website-cost-sindhanur",
       heading: "Website cost in Sindhanur: starting prices, and what raises them",
       paragraphs: [
-        "Our starting prices, the same across India, are: static website up to 100 pages from ₹10,000 in one to two weeks; SEO website with 700+ pages from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; online store from ₹50,000 in four to eight weeks; custom software or web app from ₹60,000 in six to twelve weeks; monthly SEO from ₹10,000 a month.",
+        "Our starting prices, the same across India, are: static website up to 100 pages from ₹10,000 in one to two weeks; SEO website with 299+ pages from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; online store from ₹50,000 in four to eight weeks; custom software or web app from ₹60,000 in six to twelve weeks; monthly SEO from ₹10,000 a month.",
         "What raises a quote is scope: more languages, large product or variety lists, freight and payment integration, staff logins, weighbridge or Tally links, and content writing. If you supply your own photographs and text, the figure stays near the starting price.",
         "Designers around Raichur quote very different amounts, so compare carefully. Ask who will own the domain and hosting, whether mobile testing and basic SEO are included, how many change rounds you get and who fixes problems after launch. See our <a href=\"/pricing/\">pricing page</a> for starting figures; an itemised quote usually reaches you in about two working days.",
       ],
@@ -211,7 +211,7 @@ const sindhnur: CityContent = {
     {
       question: "What is the website cost in Sindhanur?",
       answer:
-        "A static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting figures. Your quote depends on pages, languages, products and integrations, and it is itemised in writing before any billing.",
+        "A static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting figures. Your quote depends on pages, languages, products and integrations, and it is itemised in writing before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Sindhanur businesses?",
@@ -221,7 +221,7 @@ const sindhnur: CityContent = {
     {
       question: "How many days does a Sindhanur website take?",
       answer:
-        "A basic site usually goes live within one to two weeks after your photographs and text arrive. A 700+ page SEO site needs three to five weeks, an online store four to eight and custom software six to twelve. Slow content is the most common cause of delay.",
+        "A basic site usually goes live within one to two weeks after your photographs and text arrive. A 299+ page SEO site needs three to five weeks, an online store four to eight and custom software six to twelve. Slow content is the most common cause of delay.",
     },
     {
       question: "Who is the best website development team in Sindhanur?",
@@ -246,7 +246,7 @@ const sindhnur: CityContent = {
     {
       question: "Sindhanurinalli website madisalu eshtu kharchu aagutte?",
       answer:
-        "Namma hattira saamanya website ₹10,000 inda shuru aagutte, mattu saamanyavaagi ondu-eradu vaaradalli siddhavaagutte. 700+ page SEO website ₹20,000 inda, Android mattu iOS app ₹40,000 inda, online store ₹50,000 inda shuru aagutte. Nimma pages mattu features nodi barahada quote kalisutteve.",
+        "Namma hattira saamanya website ₹10,000 inda shuru aagutte, mattu saamanyavaagi ondu-eradu vaaradalli siddhavaagutte. 299+ page SEO website ₹20,000 inda, Android mattu iOS app ₹40,000 inda, online store ₹50,000 inda shuru aagutte. Nimma pages mattu features nodi barahada quote kalisutteve.",
     },
     {
       question: "You have no office in Sindhanur. How is remote work safe?",

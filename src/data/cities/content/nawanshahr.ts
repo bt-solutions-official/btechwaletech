@@ -39,7 +39,7 @@ const nawanshahr: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Punjabi and English pages", "Built for NRI time zones", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Nawanshahr business, a website with us starts at ₹10,000 and is typically live in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 700+ page SEO site at ₹20,000 and an online store at ₹50,000. We are a remote team with no Nawanshahr office, and you own every account.",
+    "For a Nawanshahr business, a website with us starts at ₹10,000 and is typically live in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 299+ page SEO site at ₹20,000 and an online store at ₹50,000. We are a remote team with no Nawanshahr office, and you own every account.",
   snapshot: [
     { label: "District", value: "Headquarters of Shaheed Bhagat Singh Nagar district, formed in 1995 from parts of Jalandhar and Hoshiarpur and renamed in 2008" },
     { label: "Subdivisions", value: "Nawanshahr, Banga and Balachaur, with Rahon and Aur among the other towns" },
@@ -166,7 +166,7 @@ const nawanshahr: CityContent = {
       id: "website-cost-nawanshahr",
       heading: "Website cost in Nawanshahr and what the price actually covers",
       paragraphs: [
-        "Here is where the numbers begin. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website, useful for a coaching centre covering every course and nearby town, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and AI automation also starts at ₹40,000 over two to four weeks. Online stores begin at ₹50,000, custom web apps and software at ₹60,000, and monthly SEO at ₹10,000 a month.",
+        "Here is where the numbers begin. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website, useful for a coaching centre covering every course and nearby town, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and AI automation also starts at ₹40,000 over two to four weeks. Online stores begin at ₹50,000, custom web apps and software at ₹60,000, and monthly SEO at ₹10,000 a month.",
         "What pushes a quote upward is always something you can see on the list: Punjabi translation, extra halls or branches, product count, booking calendars, UPI and card payments, student logins, or a link to your accounting software. Each has its own line, so you can strike items out and watch the total fall.",
         "When comparing quotes from other designers in Nawanshahr, Jalandhar or Phagwara, ask the same questions of everyone. Whose name is the domain in? Is hosting included, and for how long? Will you get the source code? Who fixes things after launch, and at what cost? Local quotes vary widely, and the cheapest one often leaves out ownership and support. Our full list is on the <a href=\"/pricing/\">pricing page</a>, and your itemised quote arrives in about two working days.",
       ],
@@ -229,7 +229,7 @@ const nawanshahr: CityContent = {
     {
       question: "What is the website cost in Nawanshahr?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices only. Your final amount depends on pages, Punjabi content, products, bookings and payments, and you receive it itemised in writing before any billing.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices only. Your final amount depends on pages, Punjabi content, products, bookings and payments, and you receive it itemised in writing before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Nawanshahr businesses?",
@@ -239,7 +239,7 @@ const nawanshahr: CityContent = {
     {
       question: "How long does a website take for a Nawanshahr business?",
       answer:
-        "A static site is usually live in one to two weeks once we have your photos and details. A 700+ page SEO site takes about three to five weeks, an online store four to eight, and custom software six to twelve. Delays mostly come from waiting for content, so sending it early is the easiest way to finish sooner.",
+        "A static site is usually live in one to two weeks once we have your photos and details. A 299+ page SEO site takes about three to five weeks, an online store four to eight, and custom software six to twelve. Delays mostly come from waiting for content, so sending it early is the easiest way to finish sooner.",
     },
     {
       question: "Which is the best website development team in Nawanshahr?",
@@ -264,7 +264,7 @@ const nawanshahr: CityContent = {
     {
       question: "Nawanshahr vich website banwaun da kinna kharcha aunda hai?",
       answer:
-        "Saade naal simple website ₹10,000 ton shuru hundi hai te aam taur te ik-do hafteyan vich tiyar ho jandi hai. 700+ page wali SEO website ₹20,000 ton, Android te iOS app ₹40,000 ton, te online store ₹50,000 ton shuru hunda hai. Final quote tuhade pages te features de hisaab naal likh ke bhejiya janda hai.",
+        "Saade naal simple website ₹10,000 ton shuru hundi hai te aam taur te ik-do hafteyan vich tiyar ho jandi hai. 299+ page wali SEO website ₹20,000 ton, Android te iOS app ₹40,000 ton, te online store ₹50,000 ton shuru hunda hai. Final quote tuhade pages te features de hisaab naal likh ke bhejiya janda hai.",
     },
     {
       question: "Nawanshahr me website banwane ke liye office aana padega?",

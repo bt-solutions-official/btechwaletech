@@ -39,7 +39,7 @@ const kandukur: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu local SEO", "Mango and farm-trade stores", "Every login in your name"],
   },
   quickAnswer:
-    "In Kandukur, our websites start at ₹10,000 and usually go live in one to two weeks, while a 700+ page SEO site starts at ₹20,000. Android and iOS apps and AI automation each start at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Kandukur office, and you own everything.",
+    "In Kandukur, our websites start at ₹10,000 and usually go live in one to two weeks, while a 299+ page SEO site starts at ₹20,000. Android and iOS apps and AI automation each start at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Kandukur office, and you own everything.",
   snapshot: [
     { label: "District", value: "Prakasam, Andhra Pradesh; headquarters of Kandukur revenue division (part of SPSR Nellore district from 2022 until the end of 2025)" },
     { label: "Population", value: "57,246 at the 2011 census; municipality formed in 1987 with 30 wards" },
@@ -150,7 +150,7 @@ const kandukur: CityContent = {
       id: "website-cost-kandukur",
       heading: "Website cost in Kandukur: starting prices and how to compare",
       paragraphs: [
-        "Here are our starting points for Kandukur. A static website of up to 100 pages starts at ₹10,000 and is usually live in one to two weeks. A 700+ page SEO site, suited to a college or trader covering many courses, products or villages, starts at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation each start at ₹40,000. Online stores start at ₹50,000, custom software at ₹60,000, and monthly SEO at ₹10,000.",
+        "Here are our starting points for Kandukur. A static website of up to 100 pages starts at ₹10,000 and is usually live in one to two weeks. A 299+ page SEO site, suited to a college or trader covering many courses, products or villages, starts at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation each start at ₹40,000. Online stores start at ₹50,000, custom software at ₹60,000, and monthly SEO at ₹10,000.",
         "The figure rises only for choices you make, such as Telugu and English versions, a large catalogue, UPI checkout, staff logins or an accounting link. Each appears as a separate line you can accept or drop. Writing your own content and sending phone photographs keeps the cost near the starting price.",
         "Local quotes for similar work vary widely. When comparing, ask who will own the domain and hosting, whether the site is tested on cheap phones, whether basic SEO is included, how many rounds of changes are covered, and what support costs after year one. Our full list is on the <a href=\"/pricing/\">pricing page</a>, and a written itemised quote reaches you within about two working days.",
       ],
@@ -211,7 +211,7 @@ const kandukur: CityContent = {
     {
       question: "What is the website cost in Kandukur?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final amount depends on pages, Telugu content, products and integrations, and you receive an itemised written quote before any billing.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final amount depends on pages, Telugu content, products and integrations, and you receive an itemised written quote before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Kandukur businesses?",
@@ -221,7 +221,7 @@ const kandukur: CityContent = {
     {
       question: "How long does it take to make a website in Kandukur?",
       answer:
-        "A simple static website normally goes live within one to two weeks of receiving your details and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve. The fastest projects are those where content arrives early.",
+        "A simple static website normally goes live within one to two weeks of receiving your details and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve. The fastest projects are those where content arrives early.",
     },
     {
       question: "Which is the best website development team in Kandukur?",
@@ -246,7 +246,7 @@ const kandukur: CityContent = {
     {
       question: "Kandukur lo website cheyinchukovadaniki entha kharchu avutundi?",
       answer:
-        "Maa daggara simple website ₹10,000 nundi modalavutundi, sadharanamga okati rendu varalalo ready avutundi. 700+ pages SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalavutayi. Mee features batti itemised quote raatapurvakamga pamputamu, approval tarvatha matrame billing.",
+        "Maa daggara simple website ₹10,000 nundi modalavutundi, sadharanamga okati rendu varalalo ready avutundi. 299+ pages SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalavutayi. Mee features batti itemised quote raatapurvakamga pamputamu, approval tarvatha matrame billing.",
     },
     {
       question: "You have no office in Kandukur. Is it safe to work with you?",

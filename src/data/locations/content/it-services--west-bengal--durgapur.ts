@@ -203,13 +203,13 @@ const content: CityContent = {
       id: "cost-durgapur",
       heading: "How much does a software development team in Durgapur charge?",
       paragraphs: [
-        "With BtechWaleTech, custom software for a Durgapur business starts at ₹60,000, AI automation and Android and iOS apps at ₹40,000 each, online stores at ₹50,000, a 700+ page SEO website at ₹20,000 and a static website at ₹10,000. Final prices depend on modules, users, integrations and data migration, and each quote lists them line by line.",
+        "With BtechWaleTech, custom software for a Durgapur business starts at ₹60,000, AI automation and Android and iOS apps at ₹40,000 each, online stores at ₹50,000, a 299+ page SEO website at ₹20,000 and a static website at ₹10,000. Final prices depend on modules, users, integrations and data migration, and each quote lists them line by line.",
         "Industrial projects vary widely. A job-card system for one workshop with ten users is a modest build; a multi-plant system with vendor portals, inspection workflows and customer logins is several phases of work. We recommend starting with the module that removes the biggest pain, proving value, and extending from there.",
         "Payment is in INR, by UPI using our QR code or by direct bank transfer to our account, split across milestones so you pay as you see progress. Because we are remote and carry no Durgapur office cost, the price reflects development time. See the full list on our <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [
         "Static industrial website: from ₹10,000",
-        "SEO website of 700+ pages: from ₹20,000",
+        "SEO website of 299+ pages: from ₹20,000",
         "AI automation: from ₹40,000",
         "Android and iOS app: from ₹40,000",
         "Ecommerce or B2B ordering: from ₹50,000",

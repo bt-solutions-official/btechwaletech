@@ -34,7 +34,7 @@ const solapur: CityContent = {
     pills: ["Websites from ₹10,000", "Towel and chaddar stores", "Marathi and English SEO", "WhatsApp order flows", "Full ownership"],
   },
   quickAnswer:
-    "A website for a Solapur business costs from ₹10,000 with us and usually goes live in one to two weeks. A 700+ page SEO site starts at ₹20,000, and an online store for towels, chaddars or food products starts at ₹50,000. We are a remote three-engineer team, you own the domain and code, and maintenance is free for five months.",
+    "A website for a Solapur business costs from ₹10,000 with us and usually goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, and an online store for towels, chaddars or food products starts at ₹50,000. We are a remote three-engineer team, you own the domain and code, and maintenance is free for five months.",
   snapshot: [
     { label: "Textile heritage", value: "Solapur Terry Towel and Solapuri Chaddar, both protected by Geographical Indication tags" },
     { label: "Industrial areas", value: "MIDC Akkalkot Road with its powerloom units, and MIDC Chincholi on the Pune road" },
@@ -72,12 +72,12 @@ const solapur: CityContent = {
       heading: "How much does a website cost in Solapur?",
       paragraphs: [
         "Ask around Solapur and you will hear website prices from ₹3,000 to ₹40,000 for what looks like the same thing. The cheapest offers often mean a recycled template, hosting on the developer's account and no attention to search. Higher quotes from larger agencies in Pune may include overheads that do nothing for your site.",
-        "Our starting prices are published and fixed. A simple business website of up to 100 pages costs from ₹10,000 and takes one to two weeks. A 700+ page SEO website, with separate pages for each product range, service or area, starts at ₹20,000 and takes three to five weeks. An online store with cart, UPI and card payments begins at ₹50,000. Custom software such as a dealer portal, production tracker or booking system starts at ₹60,000. Automation starts at ₹40,000 and monthly SEO at ₹10,000.",
+        "Our starting prices are published and fixed. A simple business website of up to 100 pages costs from ₹10,000 and takes one to two weeks. A 299+ page SEO website, with separate pages for each product range, service or area, starts at ₹20,000 and takes three to five weeks. An online store with cart, UPI and card payments begins at ₹50,000. Custom software such as a dealer portal, production tracker or booking system starts at ₹60,000. Automation starts at ₹40,000 and monthly SEO at ₹10,000.",
         "For a textile unit, the product catalogue drives most of the cost: fifty towel designs with proper photos and specifications take less time than three hundred items with nothing written yet. We send an itemised quote in about two working days, and no billing happens until you approve it in writing.",
       ],
       list: [
         "<strong>Basic website, from ₹10,000:</strong> for shops, clinics, consultants and small units.",
-        "<strong>SEO and catalogue site, from ₹20,000:</strong> 700+ pages for manufacturers, traders and service businesses.",
+        "<strong>SEO and catalogue site, from ₹20,000:</strong> 299+ pages for manufacturers, traders and service businesses.",
         "<strong>Online store, from ₹50,000:</strong> towels, chaddars, bedsheets, food products with UPI checkout.",
         "<strong>Custom software, from ₹60,000:</strong> dealer portals, order tracking and production dashboards.",
       ],
@@ -208,12 +208,12 @@ const solapur: CityContent = {
     {
       question: "How much does a website cost in Solapur?",
       answer:
-        "Our websites start at ₹10,000 for a basic business site and ₹20,000 for a 700+ page SEO or catalogue site. Online stores begin at ₹50,000 and custom software at ₹60,000. Local quotes vary widely, so check what each includes, particularly domain ownership, SEO setup and support after launch.",
+        "Our websites start at ₹10,000 for a basic business site and ₹20,000 for a 299+ page SEO or catalogue site. Online stores begin at ₹50,000 and custom software at ₹60,000. Local quotes vary widely, so check what each includes, particularly domain ownership, SEO setup and support after launch.",
     },
     {
       question: "Solapur madhe website banvaychi aahe, kiti kharcha yeil?",
       answer:
-        "Sadhi business website ₹10,000 pasun suru hote, ani 700+ pages chi SEO website ₹20,000 pasun. Towel kiva chaddar vikanyasathi online store ₹50,000 pasun suru hoto. Final kimmat pages, products ani features var avalamba aste. Kaam suru karnyapurvi tumhala lekhi itemised quote milel.",
+        "Sadhi business website ₹10,000 pasun suru hote, ani 299+ pages chi SEO website ₹20,000 pasun. Towel kiva chaddar vikanyasathi online store ₹50,000 pasun suru hoto. Final kimmat pages, products ani features var avalamba aste. Kaam suru karnyapurvi tumhala lekhi itemised quote milel.",
     },
     {
       question: "Do you have an office in Solapur?",

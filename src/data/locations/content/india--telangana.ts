@@ -187,7 +187,7 @@ const content: CityContent = {
       heading: "SEO, Telugu search and AI visibility across Telangana",
       paragraphs: [
         "SEO for Telangana businesses means ranking in Google search and Maps for English and Telugu queries in the places you serve, and giving AI assistants consistent, factual information about your business so they describe it correctly. Monthly SEO with us starts from ₹10,000.",
-        "Local SEO begins with an accurate Google Business Profile for each location, consistent contact details across directories, genuine reviews and useful photos. We then build pages for each service and each town you actually serve, from Hyderabad localities to district towns like Siddipet or Suryapet. Telugu pages are often less competitive, which gives businesses that write them properly an advantage. For bigger catalogues, our <a href='/services/seo-services/'>SEO services</a> include 700+ page SEO websites from ₹20,000.",
+        "Local SEO begins with an accurate Google Business Profile for each location, consistent contact details across directories, genuine reviews and useful photos. We then build pages for each service and each town you actually serve, from Hyderabad localities to district towns like Siddipet or Suryapet. Telugu pages are often less competitive, which gives businesses that write them properly an advantage. For bigger catalogues, our <a href='/services/seo-services/'>SEO services</a> include 299+ page SEO websites from ₹20,000.",
         "AI search visibility grows from the same fundamentals: fast pages, clear headings, FAQ answers and structured data. We never guarantee rankings. Local results commonly improve within three to six months; statewide competitive terms take longer. Monthly reports come from Search Console.",
       ],
     },
@@ -195,7 +195,7 @@ const content: CityContent = {
       id: "telangana-it-solutions-cost",
       heading: "How much do IT solutions cost in Telangana, and how do we get paid?",
       paragraphs: [
-        "IT solutions in Telangana with BtechWaleTech start from ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation or Android and iOS apps, ₹50,000 for ecommerce and ₹60,000 for custom software. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000 a month after the free period.",
+        "IT solutions in Telangana with BtechWaleTech start from ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or Android and iOS apps, ₹50,000 for ecommerce and ₹60,000 for custom software. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000 a month after the free period.",
         "These are starting prices. What you finally pay depends on screens, user roles, integrations, offline needs, languages, data migration and content writing. After a consulting call, you receive an itemised estimate in around two working days, and features can be moved to later phases.",
         "Clients pay only through UPI, by scanning our QR code, or by direct bank transfer to our bank account, in INR. Payments are split into milestones tied to visible progress, with invoices for each. Five months of maintenance come free once hosting is live. See every plan on our <a href='/pricing/'>pricing page</a> and past work in the <a href='/portfolio/'>portfolio</a>.",
       ],

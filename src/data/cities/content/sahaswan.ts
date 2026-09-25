@@ -39,7 +39,7 @@ const sahaswan: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi and Urdu friendly pages", "Dealer and trader tools", "You keep every login"],
   },
   quickAnswer:
-    "A website for a Sahaswan business starts at ₹10,000 with us and is normally ready in one to two weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and have no office in Sahaswan.",
+    "A website for a Sahaswan business starts at ₹10,000 with us and is normally ready in one to two weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and have no office in Sahaswan.",
   snapshot: [
     { label: "Status", value: "Nagar palika and tehsil headquarters in Budaun district, Bareilly division, western Uttar Pradesh" },
     { label: "Population", value: "About 66,200 in the town at the 2011 Census, spread over 25 wards" },
@@ -158,13 +158,13 @@ const sahaswan: CityContent = {
       id: "website-cost-sahaswan",
       heading: "Website cost in Sahaswan: starting prices and how a quote is worked out",
       paragraphs: [
-        "We publish our starting prices so owners can plan before calling anyone. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation start at ₹40,000 each, online stores at ₹50,000 and custom software at ₹60,000.",
+        "We publish our starting prices so owners can plan before calling anyone. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation start at ₹40,000 each, online stores at ₹50,000 and custom software at ₹60,000.",
         "The final figure depends on real factors: the number of pages or products, Hindi or English content, who supplies text and photographs, payment and delivery steps, app screens and software connections. Local quotes vary a great deal, so compare what is included: domain and hosting in your name, rounds of changes, mobile speed, Hindi typing support and help after launch.",
         "You receive an itemised quote within about two working days, and nothing is billed until you approve it in writing. See the <a href=\"/pricing/\">pricing page</a> for detail. On a tight budget, start with a smaller site that can grow, rather than a cheap one that must be rebuilt.",
       ],
       list: [
         "Static website, up to 100 pages: from ₹10,000, one to two weeks",
-        "SEO website, 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website, 299+ pages: from ₹20,000, three to five weeks",
         "Android and iOS app: from ₹40,000",
         "AI and WhatsApp automation: from ₹40,000, two to four weeks",
         "Online store: from ₹50,000, four to eight weeks",
@@ -218,7 +218,7 @@ const sahaswan: CityContent = {
     {
       question: "What is the website cost in Sahaswan?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices only; the final amount depends on pages, Hindi and English content, products and integrations. You receive an itemised written quote, and nothing is billed before you approve it.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices only; the final amount depends on pages, Hindi and English content, products and integrations. You receive an itemised written quote, and nothing is billed before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Sahaswan businesses?",
@@ -228,7 +228,7 @@ const sahaswan: CityContent = {
     {
       question: "How long does it take to build a website for a Sahaswan shop?",
       answer:
-        "A simple static site is usually live in one to two weeks once we have photographs and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects finish quickest when the owner sends content early.",
+        "A simple static site is usually live in one to two weeks once we have photographs and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects finish quickest when the owner sends content early.",
     },
     {
       question: "Which is the best website development team in Sahaswan?",
@@ -243,7 +243,7 @@ const sahaswan: CityContent = {
     {
       question: "Sahaswan me website banwane me kitna kharcha aata hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte me taiyar ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapke pages aur features ke hisaab se final quote likhit me milta hai, aur approval ke baad hi billing hoti hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte me taiyar ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapke pages aur features ke hisaab se final quote likhit me milta hai, aur approval ke baad hi billing hoti hai.",
     },
     {
       question: "Do you offer AI and WhatsApp automation in Sahaswan?",

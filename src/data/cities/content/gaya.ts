@@ -35,7 +35,7 @@ const gaya: CityContent = {
     pills: ["Sites from ₹10,000", "Pilgrim booking pages", "Hindi and English SEO", "Tilkut and sweets stores", "Full ownership"],
   },
   quickAnswer:
-    "Website development in Gaya starts at ₹10,000 with us for a basic business site, live in one to two weeks. A 700+ page SEO site starts at ₹20,000, WhatsApp booking automation at ₹40,000 and an online store for tilkut or textiles at ₹50,000. We are a remote team, write in Hindi and English, and you keep the domain and code.",
+    "Website development in Gaya starts at ₹10,000 with us for a basic business site, live in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp booking automation at ₹40,000 and an online store for tilkut or textiles at ₹50,000. We are a remote team, write in Hindi and English, and you keep the domain and code.",
   snapshot: [
     { label: "Pilgrimage", value: "Vishnupad Temple on the Phalgu river, the centre of pind daan rites, with peak crowds during Pitru Paksha" },
     { label: "Buddhist circuit", value: "Mahabodhi Temple Complex at Bodh Gaya, a UNESCO World Heritage Site about 16 km from the city" },
@@ -73,12 +73,12 @@ const gaya: CityContent = {
       heading: "Website prices for Gaya businesses, in plain figures",
       paragraphs: [
         "Ask five people in Gaya what a website costs and you will hear five very different numbers, most without any written detail. Cheap offers often turn out to be a template on the developer's account, with the domain in his name. Large agency quotes from Patna or Kolkata sometimes include much more than a local business actually needs.",
-        "Our prices are published starting points. A basic website of up to 100 pages is from <strong>₹10,000</strong> and takes one to two weeks. A 700+ page SEO site, suitable for a hotel with room pages and nearby-attraction guides or a coaching institute with a page for each course, starts at <strong>₹20,000</strong> and takes three to five weeks. WhatsApp booking automation starts at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Monthly SEO is from ₹10,000. See the <a href=\"/pricing/\">full pricing</a> for what each plan includes.",
+        "Our prices are published starting points. A basic website of up to 100 pages is from <strong>₹10,000</strong> and takes one to two weeks. A 299+ page SEO site, suitable for a hotel with room pages and nearby-attraction guides or a coaching institute with a page for each course, starts at <strong>₹20,000</strong> and takes three to five weeks. WhatsApp booking automation starts at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Monthly SEO is from ₹10,000. See the <a href=\"/pricing/\">full pricing</a> for what each plan includes.",
         "The main cost drivers are the number of pages, whether content is needed in Hindi and English or more languages, and features such as online payment or room availability. We send an itemised quote in about two working days and start billing only after you approve it in writing.",
       ],
       list: [
         "<strong>Basic site, from ₹10,000:</strong> clinics, shops, pandas, tutors and small guest houses.",
-        "<strong>SEO site, from ₹20,000:</strong> 700+ pages for hotels, schools, hospitals and operators.",
+        "<strong>SEO site, from ₹20,000:</strong> 299+ pages for hotels, schools, hospitals and operators.",
         "<strong>Online store, from ₹50,000:</strong> tilkut, sweets, textiles and handicrafts with UPI checkout.",
         "<strong>Custom software, from ₹60,000:</strong> booking systems, room inventory and order trackers.",
       ],
@@ -159,7 +159,7 @@ const gaya: CityContent = {
       paragraphs: [
         "The commercial heart of Gaya runs through crowded markets around Tower Chowk, K.P. Road and the old city lanes, with wholesale grain, vegetable and cloth trade that supplies shops across the district. Kedarnath Market is one of the city's main vegetable markets. Many of these businesses have been run by the same families for generations and work entirely on relationships and phone calls.",
         "A website helps these traders in quieter ways: a current product list that retailers in Sherghati, Tekari or Wazirganj can check before calling, a WhatsApp ordering link, and a Google listing that shows the right address in a maze of similar lanes. For shops selling clothing, electronics, furniture or jewellery, a catalogue site with prices where appropriate brings buyers who have already made up their minds.",
-        "We start small for most traders, often a site of up to 100 pages from ₹10,000 or a 700+ page catalogue from ₹20,000, and add ordering or inventory features only when the business needs them.",
+        "We start small for most traders, often a site of up to 100 pages from ₹10,000 or a 299+ page catalogue from ₹20,000, and add ordering or inventory features only when the business needs them.",
       ],
     },
     {
@@ -209,12 +209,12 @@ const gaya: CityContent = {
     {
       question: "How much does a website cost in Gaya?",
       answer:
-        "Our basic business websites start at ₹10,000, and a 700+ page SEO site starts at ₹20,000. Online stores begin at ₹50,000 and custom booking or inventory software at ₹60,000. When comparing local quotes, ask who will own the domain and hosting and what support is included after launch.",
+        "Our basic business websites start at ₹10,000, and a 299+ page SEO site starts at ₹20,000. Online stores begin at ₹50,000 and custom booking or inventory software at ₹60,000. When comparing local quotes, ask who will own the domain and hosting and what support is included after launch.",
     },
     {
       question: "Gaya mein hotel ki website banwani hai, kitna kharcha aur kitna time lagega?",
       answer:
-        "Chhoti website ₹10,000 se shuru hoti hai aur ek-do hafte mein ban jaati hai. Room pages, photos aur booking enquiry wali 700+ page ki website ₹20,000 se shuru hoti hai aur teen se paanch hafte leti hai. Kaam shuru karne se pehle aapko likhit, itemised quote diya jaata hai.",
+        "Chhoti website ₹10,000 se shuru hoti hai aur ek-do hafte mein ban jaati hai. Room pages, photos aur booking enquiry wali 299+ page ki website ₹20,000 se shuru hoti hai aur teen se paanch hafte leti hai. Kaam shuru karne se pehle aapko likhit, itemised quote diya jaata hai.",
     },
     {
       question: "Do you have an office in Gaya?",

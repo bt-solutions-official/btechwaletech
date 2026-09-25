@@ -39,7 +39,7 @@ const sardarshahar: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first local SEO", "Silver and sweets online", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Sardarshahar business, a website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, with no Sardarshahar office.",
+    "For a Sardarshahar business, a website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, with no Sardarshahar office.",
   snapshot: [
     { label: "Location", value: "Tehsil headquarters in Churu district, about 130 km from Bikaner and 245 km from Jaipur" },
     { label: "Founded", value: "1838, on the site of Alwana village, named after Sardar Singh of the Bikaner royal family; municipality since 1896" },
@@ -157,7 +157,7 @@ const sardarshahar: CityContent = {
       id: "website-cost-sardarshahar",
       heading: "Website cost in Sardarshahar: starting prices and how to compare quotes",
       paragraphs: [
-        "Our starting prices for Sardarshahar are public. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO begins at ₹10,000 a month.",
+        "Our starting prices for Sardarshahar are public. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO begins at ₹10,000 a month.",
         "The quote rises with scope: more pages, both Hindi and English versions, large product catalogues, silver rate updates, courier integration, logins for staff or links to accounting software. Content changes the figure too. If you supply the text and photographs, the price stays close to the starting point; if we write and organise everything, that appears as a separate line.",
         "Local quotes for websites vary widely, and the cheapest one often leaves out things that matter later. When you compare, ask whose name the domain and hosting are registered in, whether mobile testing and basic SEO are included, how many rounds of changes you get, and who fixes problems after launch.",
         "Our <a href=\"/pricing/\">pricing page</a> lists every starting figure. Send us your requirements and you will receive an itemised written quote in about two working days, free of charge and with no obligation.",
@@ -220,7 +220,7 @@ const sardarshahar: CityContent = {
     {
       question: "What is the website cost in Sardarshahar?",
       answer:
-        "A static website with us starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. The final quote depends on pages, Hindi and English content, products and integrations, and you receive it itemised in writing before anything is billed.",
+        "A static website with us starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. The final quote depends on pages, Hindi and English content, products and integrations, and you receive it itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Sardarshahar businesses?",
@@ -230,7 +230,7 @@ const sardarshahar: CityContent = {
     {
       question: "How long does a website take for a Sardarshahar shop?",
       answer:
-        "A static site usually goes live in one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. The biggest factor in speed is how quickly your content and approvals reach us.",
+        "A static site usually goes live in one to two weeks after we receive your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. The biggest factor in speed is how quickly your content and approvals reach us.",
     },
     {
       question: "Which is the best website development team in Sardarshahar?",
@@ -255,7 +255,7 @@ const sardarshahar: CityContent = {
     {
       question: "Sardarshahar me website ya app banwane me kitna kharcha aata hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein taiyaar ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapke pages aur features ke hisaab se poora quote likhit mein milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein taiyaar ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapke pages aur features ke hisaab se poora quote likhit mein milta hai.",
     },
     {
       question: "You have no office in Sardarshahar. How can I trust remote work?",

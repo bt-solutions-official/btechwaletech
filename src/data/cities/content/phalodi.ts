@@ -39,7 +39,7 @@ const phalodi: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Salt and POP trade catalogues", "Hindi-first Maps listings", "You keep every login"],
   },
   quickAnswer:
-    "Phalodi businesses can get a website from us starting at ₹10,000, usually ready within two weeks. Android and iOS apps and AI automation each start at ₹40,000, SEO websites of 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Phalodi office, and you own everything we build.",
+    "Phalodi businesses can get a website from us starting at ₹10,000, usually ready within two weeks. Android and iOS apps and AI automation each start at ₹40,000, SEO websites of 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Phalodi office, and you own everything we build.",
   snapshot: [
     { label: "Status", value: "Headquarters of Phalodi district, created on 7 August 2023 from part of Jodhpur district" },
     { label: "Tehsils", value: "Aau, Bap, Bapini, Dechu, Ghantiyali, Lohawat, Phalodi and Setrawa" },
@@ -186,7 +186,7 @@ const phalodi: CityContent = {
       ],
       list: [
         "Static website, up to 100 pages: from ₹10,000, typically one to two weeks",
-        "SEO website with 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website with 299+ pages: from ₹20,000, three to five weeks",
         "Android and iOS app: from ₹40,000",
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Online store or B2B ordering portal: from ₹50,000, four to eight weeks",
@@ -257,7 +257,7 @@ const phalodi: CityContent = {
     {
       question: "What is the website cost in Phalodi?",
       answer:
-        "Our static websites start at ₹10,000 and 700+ page SEO websites at ₹20,000. Online stores and B2B portals start at ₹50,000, and custom software at ₹60,000. Those are starting prices. Your written quote itemises Hindi pages, product counts and integrations, and you pay nothing until you approve it.",
+        "Our static websites start at ₹10,000 and 299+ page SEO websites at ₹20,000. Online stores and B2B portals start at ₹50,000, and custom software at ₹60,000. Those are starting prices. Your written quote itemises Hindi pages, product counts and integrations, and you pay nothing until you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Phalodi businesses?",
@@ -267,7 +267,7 @@ const phalodi: CityContent = {
     {
       question: "How long does a Phalodi website take to build?",
       answer:
-        "A business website is usually live in one to two weeks after we receive your details and photographs. A 700+ page SEO site takes three to five weeks, a store or buyer portal four to eight, and custom dispatch or ledger software six to twelve. Quick replies to our preview links shorten every timeline.",
+        "A business website is usually live in one to two weeks after we receive your details and photographs. A 299+ page SEO site takes three to five weeks, a store or buyer portal four to eight, and custom dispatch or ledger software six to twelve. Quick replies to our preview links shorten every timeline.",
     },
     {
       question: "Who is the best website development team in Phalodi?",

@@ -162,7 +162,7 @@ const vaniyambadi: CityContent = {
       ],
       list: [
         "Static website, up to 100 pages: from ₹10,000, one to two weeks",
-        "SEO website, 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website, 299+ pages: from ₹20,000, three to five weeks",
         "Android and iOS app: from ₹40,000",
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Ecommerce store with UPI and Razorpay: from ₹50,000, four to eight weeks",
@@ -217,7 +217,7 @@ const vaniyambadi: CityContent = {
     {
       question: "How much does a website cost in Vaniyambadi?",
       answer:
-        "A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. The final figure depends on pages, languages and features, and you get it in an itemised written quote first.",
+        "A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. The final figure depends on pages, languages and features, and you get it in an itemised written quote first.",
     },
     {
       question: "Do you build Android and iOS apps for Vaniyambadi businesses?",
@@ -267,7 +267,7 @@ const vaniyambadi: CityContent = {
     {
       question: "How long does a website or app take?",
       answer:
-        "A small website takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. App timelines depend on features and store review. Having photos, prices and basic text ready keeps the schedule on track.",
+        "A small website takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. App timelines depend on features and store review. Having photos, prices and basic text ready keeps the schedule on track.",
     },
     {
       question: "What happens after launch? Is maintenance included?",

@@ -35,7 +35,7 @@ const mohali: CityContent = {
     pills: ["Sites from ₹10,000", "SaaS and web apps", "Punjabi, Hindi, English", "Property and clinic sites", "AI and WhatsApp agents"],
   },
   quickAnswer:
-    "In Mohali, a business website with us starts from ₹10,000 and is usually live in one to two weeks. A 700+ page SEO site starts at ₹20,000, AI automation at ₹40,000, an online store at ₹50,000 and a custom web app at ₹60,000. We are a remote three-engineer team without a Mohali office, and maintenance is free for five months.",
+    "In Mohali, a business website with us starts from ₹10,000 and is usually live in one to two weeks. A 299+ page SEO site starts at ₹20,000, AI automation at ₹40,000, an online store at ₹50,000 and a custom web app at ₹60,000. We are a remote three-engineer team without a Mohali office, and maintenance is free for five months.",
   snapshot: [
     { label: "Official name", value: "Sahibzada Ajit Singh Nagar (SAS Nagar), a planned city beside Chandigarh, founded in 1975" },
     { label: "Layout", value: "Sector grid, with the first sectors known as Phases, extending to Sector 128 under GMADA plans" },
@@ -73,12 +73,12 @@ const mohali: CityContent = {
       heading: "How much a website costs in Mohali, and why quotes vary so much",
       paragraphs: [
         "Ask five Mohali agencies for a website quote and you may get five very different numbers, from a few thousand rupees for a theme install to lakhs for a custom build with retainers. The gap usually reflects what is included: content writing, search setup, hosting ownership, support after launch and whether the code is yours.",
-        "Our starting prices are published on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts from ₹10,000 and typically takes one to two weeks. A 700+ page SEO website starts from ₹20,000 and takes three to five weeks. AI automation starts from ₹40,000, an online store from ₹50,000 and a custom web app or SaaS from ₹60,000, usually six to twelve weeks. Monthly SEO starts at ₹10,000 a month.",
+        "Our starting prices are published on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts from ₹10,000 and typically takes one to two weeks. A 299+ page SEO website starts from ₹20,000 and takes three to five weeks. AI automation starts from ₹40,000, an online store from ₹50,000 and a custom web app or SaaS from ₹60,000, usually six to twelve weeks. Monthly SEO starts at ₹10,000 a month.",
         "None of these are flat package prices. Integrations, user roles, multiple languages and large catalogues add to the quote. Every line is itemised, so you can compare it fairly against other offers.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> clinic, consultant, restaurant or service site with forms, map and basic SEO.",
-        "<strong>From ₹20,000:</strong> 700+ page site with pages per service, sector or project.",
+        "<strong>From ₹20,000:</strong> 299+ page site with pages per service, sector or project.",
         "<strong>From ₹50,000:</strong> online store with UPI, cards, shipping rules and inventory.",
         "<strong>From ₹60,000:</strong> SaaS MVPs, portals, dashboards and internal tools.",
       ],
@@ -230,12 +230,12 @@ const mohali: CityContent = {
     {
       question: "How much does a website cost in Mohali?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO site from ₹20,000, an online store from ₹50,000 and a custom web app from ₹60,000. These are starting prices; your written quote depends on scope, and nothing is billed until you approve it.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO site from ₹20,000, an online store from ₹50,000 and a custom web app from ₹60,000. These are starting prices; your written quote depends on scope, and nothing is billed until you approve it.",
     },
     {
       question: "Mohali vich website banwaun da kharcha kinna hunda hai?",
       answer:
-        "Saade naal simple website ₹10,000 ton shuru hundi hai, 700+ page wali SEO website ₹20,000 ton, te online store ₹50,000 ton. Asli kharcha pages, features te content te nirbhar karda hai. Kamm shuru hon ton pehlan tuhanu likhit itemised quote milda hai, te tuhadi manzoori ton baad hi bill banda hai.",
+        "Saade naal simple website ₹10,000 ton shuru hundi hai, 299+ page wali SEO website ₹20,000 ton, te online store ₹50,000 ton. Asli kharcha pages, features te content te nirbhar karda hai. Kamm shuru hon ton pehlan tuhanu likhit itemised quote milda hai, te tuhadi manzoori ton baad hi bill banda hai.",
     },
     {
       question: "Do you have an office in Mohali?",
@@ -265,7 +265,7 @@ const mohali: CityContent = {
     {
       question: "How long does a project take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five, an online store four to eight and a custom web app six to twelve. Clear content and quick feedback shorten timelines more than anything else.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five, an online store four to eight and a custom web app six to twelve. Clear content and quick feedback shorten timelines more than anything else.",
     },
     {
       question: "What can AI or WhatsApp automation do for my business?",

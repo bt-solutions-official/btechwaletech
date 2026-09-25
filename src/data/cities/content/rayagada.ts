@@ -39,7 +39,7 @@ const rayagada: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Odia, English and Telugu pages", "Vendor and contractor sites", "Domain and code in your name"],
   },
   quickAnswer:
-    "For Rayagada businesses, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Rayagada office, and you own all accounts.",
+    "For Rayagada businesses, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Rayagada office, and you own all accounts.",
   snapshot: [
     { label: "Status", value: "Headquarters of Rayagada district, formed on 2 October 1992" },
     { label: "River", value: "The town grew on the banks of the Nagavali, founded under Vishwanath Dev Gajapati in the 16th century" },
@@ -168,7 +168,7 @@ const rayagada: CityContent = {
       heading: "Website cost in Rayagada: starting prices and what changes the quote",
       paragraphs: [
         "People asking about <strong>website cost in Rayagada</strong> usually hear very different numbers from different people. Local quotes vary widely, so compare what is included rather than the headline figure: who owns the domain, whether hosting is included and for how long, how many pages, whether content is written for you, whether it works well on phones, and what happens after launch.",
-        "Our starting prices are published. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website with 700+ pages, useful for firms that serve many locations or product lines, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, ecommerce stores at ₹50,000 and custom software at ₹60,000. See the full list on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our starting prices are published. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website with 299+ pages, useful for firms that serve many locations or product lines, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, ecommerce stores at ₹50,000 and custom software at ₹60,000. See the full list on our <a href=\"/pricing/\">pricing page</a>.",
         "What pushes a quote up: Odia or Telugu content in addition to English, product counts, payment integration, links with Tally or other accounts software, user logins, and app screens. What keeps it down: supplying your own photos and text, starting small and adding later.",
         "You get an itemised quote in about two working days. Nothing is billed until you approve it in writing.",
       ],
@@ -222,7 +222,7 @@ const rayagada: CityContent = {
     {
       question: "What is the website cost in Rayagada?",
       answer:
-        "Our static websites start at ₹10,000 and SEO websites with 700+ pages start at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, Odia or Telugu content, products and integrations. You get an itemised written quote first, and billing starts only after approval.",
+        "Our static websites start at ₹10,000 and SEO websites with 299+ pages start at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, Odia or Telugu content, products and integrations. You get an itemised written quote first, and billing starts only after approval.",
     },
     {
       question: "Do you build Android and iOS apps for Rayagada businesses?",

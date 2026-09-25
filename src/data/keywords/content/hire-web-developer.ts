@@ -195,7 +195,7 @@ const content: FreelanceContent = {
       heading: "How much does it cost to hire a web developer in India?",
       paragraphs: [
         `It depends on whether you hire per project, per month or as a salaried employee, and on what the site must do. Project pricing is the most common for business websites because you know the total before work starts.`,
-        `Our starting points: a static website of up to 100 pages from ${P.site} (${P.siteUsd}), an SEO website of 700+ pages from ${P.seoSite}, an online store from ${P.shop}, a custom web app from ${P.software} and Android plus iOS apps from ${P.app}. Monthly SEO starts at ${P.seo}, and maintenance, once the five free months end, starts at ${P.care}.`,
+        `Our starting points: a static website of up to 100 pages from ${P.site} (${P.siteUsd}), an SEO website of 299+ pages from ${P.seoSite}, an online store from ${P.shop}, a custom web app from ${P.software} and Android plus iOS apps from ${P.app}. Monthly SEO starts at ${P.seo}, and maintenance, once the five free months end, starts at ${P.care}.`,
         `Across the wider market, quotes vary widely for the same brief. The spread comes from whether design is custom or a bought theme, who writes content, how many integrations there are, what testing is done and how much aftercare is included. Compare scope line by line before comparing totals. For hourly versus project billing, see <a href='/freelance-web-developer-rates/'>web developer rates explained</a>.`,
       ],
     },
@@ -331,7 +331,7 @@ const content: FreelanceContent = {
       columns: ["Project", "India, starts at", "Abroad, starts at", "Typical time", "Hire this role"],
       rows: [
         ["Static website, up to 100 pages", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Website developer"],
-        ["SEO website, 700+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Developer with technical SEO"],
+        ["SEO website, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Developer with technical SEO"],
         ["Online store", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Ecommerce developer"],
         ["Web app or portal", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Full stack developer"],
         ["Android and iOS app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Flutter or React Native developer"],

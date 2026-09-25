@@ -157,7 +157,7 @@ const content: CityContent = {
       paragraphs: [
         "SEO for Tamil Nadu businesses works best with pages in both English and Tamil, a clear page per product or service, accurate Google Business Profiles for every branch and structured data, so the business appears for local searches and is described correctly by AI assistants when buyers ask for suppliers or clinics in a specific city.",
         "B2B buyers often search in English for specific terms, such as a pump model, a knit fabric type or a machining process, while local customers may search in Tamil or mixed Tamil and English. We plan pages for both, add product and local business schema, and link them together sensibly.",
-        "Our SEO website plan from ₹20,000 builds 700+ pages for businesses with large catalogues or many locations. Monthly SEO from ₹10,000 continues with technical fixes, content and reporting. We never guarantee rankings. See our <a href='/services/seo-services/'>SEO services</a>.",
+        "Our SEO website plan from ₹20,000 builds 299+ pages for businesses with large catalogues or many locations. Monthly SEO from ₹10,000 continues with technical fixes, content and reporting. We never guarantee rankings. See our <a href='/services/seo-services/'>SEO services</a>.",
       ],
     },
     {
@@ -182,7 +182,7 @@ const content: CityContent = {
       id: "tamil-nadu-cost-guide",
       heading: "How much do IT services in Tamil Nadu cost?",
       paragraphs: [
-        "IT services in Tamil Nadu with BtechWaleTech start at ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an ecommerce store and ₹60,000 for custom software, with monthly SEO from ₹10,000 and maintenance from ₹8,000 a month.",
+        "IT services in Tamil Nadu with BtechWaleTech start at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an ecommerce store and ₹60,000 for custom software, with monthly SEO from ₹10,000 and maintenance from ₹8,000 a month.",
         "These are starting prices. A single-plant job-card system sits near the lower end; a multi-plant production, dealer and dashboard system is a larger project, often phased. Every quote is itemised so you can decide what to build now and what to leave.",
         "Payments are in INR, only by UPI QR code or direct bank transfer, split into milestones. See our <a href='/pricing/'>pricing page</a>.",
       ],

@@ -39,7 +39,7 @@ const nathdwara: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Pilgrim-ready local SEO", "Pichwai and shringar stores", "Domain and code in your name"],
   },
   quickAnswer:
-    "A business website in Nathdwara starts at ₹10,000 with us and usually goes live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, with no local office, and you own every account.",
+    "A business website in Nathdwara starts at ₹10,000 with us and usually goes live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, with no local office, and you own every account.",
   snapshot: [
     { label: "Location", value: "Rajsamand district, on the Banas river in the Aravalli hills, about 48 km north-east of Udaipur" },
     { label: "Temple", value: "Shrinathji haveli of the Pushtimarg (Vallabh) tradition; the deity was brought here from Govardhan in 1672" },
@@ -115,7 +115,7 @@ const nathdwara: CityContent = {
       paragraphs: [
         "Rajsamand is India's leading marble-producing district. Cutting and polishing units run along the highway at Gunjol near Nathdwara, in the RIICO industrial area at Dhoinda near Rajsamand town and in smaller yards across the belt. Their buyers are builders, architects, contractors and stone traders in Gujarat, Maharashtra, Delhi and beyond, most of whom will not visit before a first enquiry.",
         "<strong>Digital marketing in Nathdwara</strong> for a marble unit is mostly about earning trust at a distance. A useful site shows each variety in a true-colour daylight photograph, the finishes offered, available thicknesses and slab sizes, pictures of the yard and the loading area, transport arrangements and GST details. A contractor comparing five suppliers usually calls the one whose page already answered the questions he would otherwise ask on the phone.",
-        "We add an enquiry form that asks for variety, quantity in square feet, delivery city and timeline, and sends it to the right salesperson. For larger units, a stock register that marks slabs as reserved, sold or dispatched ends the familiar problem of promising the same lot to two buyers. A catalogue site starts at ₹10,000, and a 700+ page SEO build covering every variety and every buyer city starts at ₹20,000.",
+        "We add an enquiry form that asks for variety, quantity in square feet, delivery city and timeline, and sends it to the right salesperson. For larger units, a stock register that marks slabs as reserved, sold or dispatched ends the familiar problem of promising the same lot to two buyers. A catalogue site starts at ₹10,000, and a 299+ page SEO build covering every variety and every buyer city starts at ₹20,000.",
       ],
     },
     {
@@ -154,7 +154,7 @@ const nathdwara: CityContent = {
       ],
       list: [
         "Static website up to 100 pages: from ₹10,000, one to two weeks",
-        "SEO website of 700+ pages covering every room type, painting theme or marble variety: from ₹20,000, three to five weeks",
+        "SEO website of 299+ pages covering every room type, painting theme or marble variety: from ₹20,000, three to five weeks",
         "Android and iOS app: from ₹40,000",
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Online store for Pichwai, dry prasad or shringar: from ₹50,000, four to eight weeks",
@@ -241,7 +241,7 @@ const nathdwara: CityContent = {
     {
       question: "How much does a website cost in Nathdwara?",
       answer:
-        "In Nathdwara, a static website with us starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on languages, rooms or products and features, and you get it itemised in writing before anything is billed.",
+        "In Nathdwara, a static website with us starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on languages, rooms or products and features, and you get it itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Nathdwara businesses?",
@@ -276,7 +276,7 @@ const nathdwara: CityContent = {
     {
       question: "Nathdwara me website banwane me kitna kharcha aata hai?",
       answer:
-        "Nathdwara me hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte me live ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Poora quote likhit me milta hai, approval se pehle koi payment nahi.",
+        "Nathdwara me hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte me live ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Poora quote likhit me milta hai, approval se pehle koi payment nahi.",
     },
     {
       question: "You have no office in Nathdwara. How do meetings and approvals work?",

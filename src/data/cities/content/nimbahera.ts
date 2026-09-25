@@ -39,7 +39,7 @@ const nimbahera: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi local SEO", "Contractor and transport software", "You keep every login"],
   },
   quickAnswer:
-    "A website for a Nimbahera business starts at ₹10,000 with us and is normally ready in one to two weeks. Android and iOS apps begin at ₹40,000, as does AI and WhatsApp automation; a 700+ page SEO site starts at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely and have no Nimbahera office.",
+    "A website for a Nimbahera business starts at ₹10,000 with us and is normally ready in one to two weeks. Android and iOS apps begin at ₹40,000, as does AI and WhatsApp automation; a 299+ page SEO site starts at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely and have no Nimbahera office.",
   snapshot: [
     { label: "Location", value: "Municipal town in Chittorgarh district, about 32 km from Chittorgarh city" },
     { label: "Population", value: "78,123 at the 2011 census" },
@@ -151,7 +151,7 @@ const nimbahera: CityContent = {
       id: "website-cost-nimbahera",
       heading: "Website cost in Nimbahera: starting prices and how to compare offers",
       paragraphs: [
-        "Our starting prices for Nimbahera: a static website of up to 100 pages from ₹10,000, delivered in one to two weeks; a 700+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; online stores from ₹50,000 in four to eight weeks; and custom software from ₹60,000 over six to twelve weeks. Monthly SEO begins at ₹10,000.",
+        "Our starting prices for Nimbahera: a static website of up to 100 pages from ₹10,000, delivered in one to two weeks; a 299+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; online stores from ₹50,000 in four to eight weeks; and custom software from ₹60,000 over six to twelve weeks. Monthly SEO begins at ₹10,000.",
         "The final figure grows with what you add: a second language, large product lists, payment and delivery set-up, staff logins, reports or integration with Tally. If you send the text and photographs yourself, the price stays near the starting point; if we write and structure the content, it is quoted as a separate line.",
         "Local quotes vary widely. Before choosing, ask whose name the domain and hosting will be in, whether mobile testing and basic SEO are included, how many revision rounds you get, and who will fix problems after launch. Our <a href=\"/pricing/\">pricing page</a> sets out every starting price, and your written quote comes in about two working days.",
       ],
@@ -212,7 +212,7 @@ const nimbahera: CityContent = {
     {
       question: "How much does a website cost in Nimbahera?",
       answer:
-        "A static website with us starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Hindi content, products and features. You receive it itemised and in writing before any billing.",
+        "A static website with us starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Hindi content, products and features. You receive it itemised and in writing before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Nimbahera businesses?",
@@ -222,7 +222,7 @@ const nimbahera: CityContent = {
     {
       question: "How quickly can I get a website for my Nimbahera shop?",
       answer:
-        "A static site usually goes live one to two weeks after we get your text and photographs. SEO sites with 700+ pages take three to five weeks, online stores four to eight weeks and custom software six to twelve weeks. Quick replies on content and approvals are what speed things up most.",
+        "A static site usually goes live one to two weeks after we get your text and photographs. SEO sites with 299+ pages take three to five weeks, online stores four to eight weeks and custom software six to twelve weeks. Quick replies on content and approvals are what speed things up most.",
     },
     {
       question: "Which is the best website development team in Nimbahera?",
@@ -247,7 +247,7 @@ const nimbahera: CityContent = {
     {
       question: "Nimbahera me website banwane me kitna paisa lagta hai?",
       answer:
-        "Hamare yahan simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein taiyaar ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online dukaan ₹50,000 se shuru hai. Pura quote likh kar do working days mein milta hai.",
+        "Hamare yahan simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein taiyaar ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online dukaan ₹50,000 se shuru hai. Pura quote likh kar do working days mein milta hai.",
     },
     {
       question: "You have no office in Nimbahera. Can I still trust the process?",

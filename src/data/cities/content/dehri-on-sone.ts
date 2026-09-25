@@ -35,7 +35,7 @@ const dehriOnSone: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi and English pages", "Transport and supplier sites", "Clinic and coaching pages", "WhatsApp enquiry tools"],
   },
   quickAnswer:
-    "In Dehri-on-Sone, a static business website with up to 100 pages starts from ₹10,000 and takes one to two weeks. A 700+ page SEO site starts from ₹20,000, WhatsApp or AI automation from ₹40,000 and an online store from ₹50,000. We are a remote team with no Dehri office, and the first five months of maintenance are free.",
+    "In Dehri-on-Sone, a static business website with up to 100 pages starts from ₹10,000 and takes one to two weeks. A 299+ page SEO site starts from ₹20,000, WhatsApp or AI automation from ₹40,000 and an online store from ₹50,000. We are a remote team with no Dehri office, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Where it is", value: "A nagar parishad town on the west bank of the Sone in Rohtas district, next to Dalmianagar and a short drive from Sasaram" },
     { label: "Transport links", value: "Dehri-on-Sone Junction (DOS) on the Grand Chord line and National Highway 19, the Delhi–Kolkata road" },
@@ -73,7 +73,7 @@ const dehriOnSone: CityContent = {
       heading: "Website prices for Dehri businesses, laid out plainly",
       paragraphs: [
         "Our rates start low because we have no showroom to pay for, and they are all written on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts from ₹10,000 and is usually ready in one to two weeks. That covers a mobile layout, your services, photos, an enquiry form, map, WhatsApp button and basic search settings.",
-        "If you want to be found for many different searches, such as each route you run, each product you stock or each course you teach, a 700+ page SEO website starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, AI and WhatsApp automation from ₹40,000, custom software from ₹60,000 and ongoing SEO from ₹10,000 a month.",
+        "If you want to be found for many different searches, such as each route you run, each product you stock or each course you teach, a 299+ page SEO website starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, AI and WhatsApp automation from ₹40,000, custom software from ₹60,000 and ongoing SEO from ₹10,000 a month.",
         "These are starting points, not final bills. A single-counter medical store needs far less than a transport company with booking, tracking and invoices. Tell us what you do and we send an itemised quote in about two working days. You approve it in writing before anything is charged.",
       ],
       list: [
@@ -217,7 +217,7 @@ const dehriOnSone: CityContent = {
     {
       question: "What does a website cost in Dehri-on-Sone?",
       answer:
-        "Our static websites start from ₹10,000 and 700+ page SEO sites from ₹20,000. Online stores start from ₹50,000 and custom web applications from ₹60,000. When you compare quotes in Dehri, check who owns the domain, whether search setup is included and what support you get after the site goes live.",
+        "Our static websites start from ₹10,000 and 299+ page SEO sites from ₹20,000. Online stores start from ₹50,000 and custom web applications from ₹60,000. When you compare quotes in Dehri, check who owns the domain, whether search setup is included and what support you get after the site goes live.",
     },
     {
       question: "Dehri me dukaan ya transport company ki website kitne me banegi?",

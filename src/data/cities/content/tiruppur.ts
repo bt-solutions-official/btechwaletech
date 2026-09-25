@@ -34,7 +34,7 @@ const tiruppur: CityContent = {
     pills: ["Sites from ₹10,000", "Export buyer catalogues", "D2C apparel stores", "Tamil and English SEO", "Code and domain yours"],
   },
   quickAnswer:
-    "A website for a Tiruppur garment or knitwear business starts at ₹10,000 with us and takes one to two weeks. A 700+ page export catalogue site starts at ₹20,000, a D2C apparel store at ₹50,000 and order or production software at ₹60,000. We work remotely, you own everything, and maintenance is free for five months after launch.",
+    "A website for a Tiruppur garment or knitwear business starts at ₹10,000 with us and takes one to two weeks. A 299+ page export catalogue site starts at ₹20,000, a D2C apparel store at ₹50,000 and order or production software at ₹60,000. We work remotely, you own everything, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Core industry", value: "Cotton knitwear: T-shirts, innerwear, sportswear, nightwear and kidswear, with thousands of garment units across the city" },
     { label: "Export role", value: "Widely known as India's knitwear capital and the source of most of the country's cotton knitwear exports" },
@@ -72,12 +72,12 @@ const tiruppur: CityContent = {
       heading: "Website costs for Tiruppur garment businesses",
       paragraphs: [
         "Tiruppur has no shortage of people offering websites, and quotes range from a few thousand rupees to lakhs for what looks similar on the surface. The difference is usually in who owns the accounts, how much of the content is original and whether anyone thought about search at all.",
-        "Our starting prices are published. A company profile of up to 100 pages costs from <strong>₹10,000</strong> and takes one to two weeks. A 700+ page export or wholesale catalogue site, with a page for each product line and a structured enquiry form, starts at <strong>₹20,000</strong> and takes three to five weeks. A D2C online store starts at ₹50,000. Custom production or order software begins at ₹60,000, AI and WhatsApp automation at ₹40,000, and monthly SEO at ₹10,000. The <a href=\"/pricing/\">pricing page</a> lists what each includes.",
+        "Our starting prices are published. A company profile of up to 100 pages costs from <strong>₹10,000</strong> and takes one to two weeks. A 299+ page export or wholesale catalogue site, with a page for each product line and a structured enquiry form, starts at <strong>₹20,000</strong> and takes three to five weeks. A D2C online store starts at ₹50,000. Custom production or order software begins at ₹60,000, AI and WhatsApp automation at ₹40,000, and monthly SEO at ₹10,000. The <a href=\"/pricing/\">pricing page</a> lists what each includes.",
         "Your final figure depends on the number of styles and pages, whether we write the copy or you supply it, languages, and features such as buyer logins or payments. We send an itemised quote in about two working days, and nothing is billed until you approve it in writing.",
       ],
       list: [
         "<strong>Company profile, from ₹10,000:</strong> job workers, small units, printers and embroiderers.",
-        "<strong>Export catalogue, from ₹20,000:</strong> 700+ pages for manufacturers and exporters.",
+        "<strong>Export catalogue, from ₹20,000:</strong> 299+ pages for manufacturers and exporters.",
         "<strong>D2C store, from ₹50,000:</strong> innerwear, loungewear and kidswear brands.",
         "<strong>Custom software, from ₹60,000:</strong> style tracking, job-work records and buyer portals.",
       ],
@@ -210,12 +210,12 @@ const tiruppur: CityContent = {
     {
       question: "How much does a website cost in Tiruppur?",
       answer:
-        "Company profile websites from us start at ₹10,000, export or wholesale catalogue sites of 700+ pages at ₹20,000, D2C stores at ₹50,000 and custom production software at ₹60,000. When comparing quotes, check who owns the domain and hosting, how many styles are included and what happens after launch.",
+        "Company profile websites from us start at ₹10,000, export or wholesale catalogue sites of 299+ pages at ₹20,000, D2C stores at ₹50,000 and custom production software at ₹60,000. When comparing quotes, check who owns the domain and hosting, how many styles are included and what happens after launch.",
     },
     {
       question: "Tiruppur la en garment company-ku website venum, evvalavu selavu aagum?",
       answer:
-        "Oru sinna company website ₹10,000-la irundhu aarambikkudhu, oru rendu vaarathula ready aagum. Product pages oda 700+ page export catalogue website ₹20,000-la irundhu. Online store venumna ₹50,000-la irundhu. Velai aarambikkaradhukku munnaadi ezhuthu moolama itemised quote anuppuvom.",
+        "Oru sinna company website ₹10,000-la irundhu aarambikkudhu, oru rendu vaarathula ready aagum. Product pages oda 299+ page export catalogue website ₹20,000-la irundhu. Online store venumna ₹50,000-la irundhu. Velai aarambikkaradhukku munnaadi ezhuthu moolama itemised quote anuppuvom.",
     },
     {
       question: "Do you have an office in Tiruppur?",

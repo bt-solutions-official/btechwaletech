@@ -346,7 +346,7 @@ const content: FreelanceContent = {
       columns: ["Project", "India, from", "Abroad, from", "Timeline"],
       rows: [
         ["Designed static website, up to 100 pages", `${P.site}`, `${P.siteUsd}`, "1–2 weeks"],
-        ["SEO website, 700+ pages on shared templates", `${P.seoSite}`, `${P.seoSiteUsd}`, "3–5 weeks"],
+        ["SEO website, 299+ pages on shared templates", `${P.seoSite}`, `${P.seoSiteUsd}`, "3–5 weeks"],
         ["Designed online store", `${P.shop}`, `${P.shopUsd}`, "4–8 weeks"],
         ["Web app screens and build", `${P.software}`, `${P.softwareUsd}`, "6–12 weeks"],
         ["Android & iOS app design and build", `${P.app}`, `${P.appUsd}`, "6–10 weeks"],

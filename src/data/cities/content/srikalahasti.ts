@@ -39,7 +39,7 @@ const srikalahasti: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Kalamkari online stores", "Telugu-first local SEO", "You own every account"],
   },
   quickAnswer:
-    "For Srikalahasti businesses, our websites start at ₹10,000 and 700+ page SEO websites at ₹20,000. Android and iOS apps and AI or WhatsApp automation start at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team of three with no office in Srikalahasti, and your domain, code and app accounts are registered to you.",
+    "For Srikalahasti businesses, our websites start at ₹10,000 and 299+ page SEO websites at ₹20,000. Android and iOS apps and AI or WhatsApp automation start at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team of three with no office in Srikalahasti, and your domain, code and app accounts are registered to you.",
   snapshot: [
     { label: "Location", value: "Municipality and revenue division headquarters in Tirupati district, on the Swarnamukhi river" },
     { label: "Distance", value: "About 38 km north of Tirupati, with Tirupati airport at Renigunta roughly 25 km away" },
@@ -161,7 +161,7 @@ const srikalahasti: CityContent = {
       id: "website-cost-srikalahasti",
       heading: "Website cost in Srikalahasti: starting prices and how to judge quotes",
       paragraphs: [
-        "Our starting prices for Srikalahasti work are public. Static websites of up to 100 pages begin at ₹10,000 and take one to two weeks. SEO websites of 700+ pages begin at ₹20,000 over three to five weeks. Android and iOS apps and AI automation start at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
+        "Our starting prices for Srikalahasti work are public. Static websites of up to 100 pages begin at ₹10,000 and take one to two weeks. SEO websites of 299+ pages begin at ₹20,000 over three to five weeks. Android and iOS apps and AI automation start at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
         "The quote grows with scope: more pages, Telugu, English and Tamil versions, large product catalogues, payment and courier links, user logins or accounts software integration. If you provide text and photographs, the cost stays near the starting figure; content writing and translation appear as a separate item.",
         "Quotes from local designers vary widely, so compare what is included. Ask whose name the domain and hosting will be in, whether mobile testing and basic SEO are part of it, how many revision rounds you get and who fixes issues after launch. Our <a href=\"/pricing/\">pricing page</a> lists the starting figures, and your itemised quote usually arrives within about two working days.",
       ],
@@ -214,7 +214,7 @@ const srikalahasti: CityContent = {
     {
       question: "What is the website cost in Srikalahasti?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Your final quote depends on pages, languages, products and integrations, and it reaches you itemised in writing before any billing.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Your final quote depends on pages, languages, products and integrations, and it reaches you itemised in writing before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Srikalahasti businesses?",
@@ -224,7 +224,7 @@ const srikalahasti: CityContent = {
     {
       question: "How long does it take to build a lodge website in Srikalahasti?",
       answer:
-        "A static lodge website usually goes live one to two weeks after we receive photographs, room details and tariffs. Adding an availability calendar or advance payment takes a little longer. A 700+ page SEO website takes three to five weeks and an online store four to eight weeks.",
+        "A static lodge website usually goes live one to two weeks after we receive photographs, room details and tariffs. Adding an availability calendar or advance payment takes a little longer. A 299+ page SEO website takes three to five weeks and an online store four to eight weeks.",
     },
     {
       question: "Which is the best website development team in Srikalahasti?",
@@ -254,7 +254,7 @@ const srikalahasti: CityContent = {
     {
       question: "Srikalahasti me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein taiyaar ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Final quote features ke hisaab se likhit mein milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein taiyaar ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Final quote features ke hisaab se likhit mein milta hai.",
     },
     {
       question: "You have no office in Srikalahasti. Is remote work safe?",

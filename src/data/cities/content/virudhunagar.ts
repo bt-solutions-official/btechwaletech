@@ -39,7 +39,7 @@ const virudhunagar: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Tamil-first local SEO", "Oil, chilli and dal trade", "Ownership stays with you"],
   },
   quickAnswer:
-    "For a Virudhunagar firm, our websites begin from ₹10,000 (live within a fortnight for most), SEO sites of 700+ pages from ₹20,000, Android/iOS apps or AI automation from ₹40,000 each, online shops from ₹50,000 and bespoke software from ₹60,000. There is no local office; the team is remote and your accounts are registered to you.",
+    "For a Virudhunagar firm, our websites begin from ₹10,000 (live within a fortnight for most), SEO sites of 299+ pages from ₹20,000, Android/iOS apps or AI automation from ₹40,000 each, online shops from ₹50,000 and bespoke software from ₹60,000. There is no local office; the team is remote and your accounts are registered to you.",
   snapshot: [
     { label: "Location", value: "Headquarters of Virudhunagar district, about 53 km south of Madurai; Madurai airport roughly 45 km away" },
     { label: "Trade", value: "Major market for edible oils, dry chillies, pulses, coffee seeds and chicory, with exports of oil, cotton and spices" },
@@ -161,7 +161,7 @@ const virudhunagar: CityContent = {
       id: "website-cost-virudhunagar",
       heading: "Website cost in Virudhunagar: starting prices and comparing quotes",
       paragraphs: [
-        "Virudhunagar clients see the same published rate card as everyone else in India. Up to 100 static pages: from ₹10,000, one or two weeks. A 700+ page site built for search: from ₹20,000, three to five weeks. Mobile apps for Android and iOS: from ₹40,000. AI or WhatsApp automation: also from ₹40,000. Online shop: from ₹50,000. Bespoke software: from ₹60,000. Monthly search work: from ₹10,000 per month.",
+        "Virudhunagar clients see the same published rate card as everyone else in India. Up to 100 static pages: from ₹10,000, one or two weeks. A 299+ page site built for search: from ₹20,000, three to five weeks. Mobile apps for Android and iOS: from ₹40,000. AI or WhatsApp automation: also from ₹40,000. Online shop: from ₹50,000. Bespoke software: from ₹60,000. Monthly search work: from ₹10,000 per month.",
         "What pushes a number up is scope: extra pages, a second language, hundreds of SKUs, checkout and shipping, dealer accounts, a Tally link. Writing is work as well. When you hand over your own copy and pictures the bill sits close to the base figure, and when we draft and translate it, that effort shows as a separate entry.",
         "Freelancers in town and studios in Madurai will quote very different sums. Put the same four questions to all of them: who legally holds the domain and server, are basic SEO and phone testing part of it, how many rounds of changes are allowed, and who picks up the phone when something breaks later. Base rates sit on our <a href=\"/pricing/\">pricing page</a>; a line-by-line written quote follows within roughly two working days.",
       ],
@@ -222,7 +222,7 @@ const virudhunagar: CityContent = {
     {
       question: "What is the website cost in Virudhunagar?",
       answer:
-        "Base rates are ₹10,000 onwards for a static site, ₹20,000 onwards for a 700+ page search-focused site, ₹50,000 onwards for an online shop and ₹60,000 onwards for tailor-made software. Your actual figure moves with page count, Tamil writing, product numbers and connections to other tools, and it arrives as a line-by-line written quote that you approve before paying anything.",
+        "Base rates are ₹10,000 onwards for a static site, ₹20,000 onwards for a 299+ page search-focused site, ₹50,000 onwards for an online shop and ₹60,000 onwards for tailor-made software. Your actual figure moves with page count, Tamil writing, product numbers and connections to other tools, and it arrives as a line-by-line written quote that you approve before paying anything.",
     },
     {
       question: "Do you build Android and iOS apps for Virudhunagar businesses?",
@@ -232,7 +232,7 @@ const virudhunagar: CityContent = {
     {
       question: "How quickly can a Virudhunagar firm get a website?",
       answer:
-        "Once content is in hand, a simple site is normally online inside a fortnight. Budget three to five weeks for a large SEO site of 700+ pages, one to two months for a shop and around six to twelve weeks for custom software. The single biggest delay is waiting for text and pictures, so gather those first.",
+        "Once content is in hand, a simple site is normally online inside a fortnight. Budget three to five weeks for a large SEO site of 299+ pages, one to two months for a shop and around six to twelve weeks for custom software. The single biggest delay is waiting for text and pictures, so gather those first.",
     },
     {
       question: "Who is the best website development team in Virudhunagar?",
@@ -257,7 +257,7 @@ const virudhunagar: CityContent = {
     {
       question: "Virudhunagar-la oru website seiya evvalavu selavagum?",
       answer:
-        "Engaludan simple website ₹10,000-il irundhu thodangugiradhu, ondru allathu irandu vaarathil ready aagum. 700+ page SEO website ₹20,000 muthal, Android matrum iOS app ₹40,000 muthal, online store ₹50,000 muthal. Ungal pages, features-ai poruthu final quote ezhuthil tharuvom; approve seidha piragu thaan billing.",
+        "Engaludan simple website ₹10,000-il irundhu thodangugiradhu, ondru allathu irandu vaarathil ready aagum. 299+ page SEO website ₹20,000 muthal, Android matrum iOS app ₹40,000 muthal, online store ₹50,000 muthal. Ungal pages, features-ai poruthu final quote ezhuthil tharuvom; approve seidha piragu thaan billing.",
     },
     {
       question: "You have no office in Virudhunagar. Is remote work safe?",

@@ -198,12 +198,12 @@ const content: CityContent = {
       id: "software-cost-gaya",
       heading: "What do freelance software developers in Gaya charge, and how long does it take?",
       paragraphs: [
-        "At BtechWaleTech, custom software for a Gaya business starts at ₹60,000 and takes six to twelve weeks; AI or WhatsApp automation starts at ₹40,000 and takes two to four weeks; websites start at ₹10,000 and go live in one to two weeks; a 700+ page SEO site starts at ₹20,000; and online stores start at ₹50,000. Android and iOS apps start at ₹40,000 and take six to ten weeks.",
+        "At BtechWaleTech, custom software for a Gaya business starts at ₹60,000 and takes six to twelve weeks; AI or WhatsApp automation starts at ₹40,000 and takes two to four weeks; websites start at ₹10,000 and go live in one to two weeks; a 299+ page SEO site starts at ₹20,000; and online stores start at ₹50,000. Android and iOS apps start at ₹40,000 and take six to ten weeks.",
         "Price depends on scope. A single-property booking engine with one language sits near the starting price. A multi-hotel system with five languages, group bookings, staff apps and dashboards costs more. Plan backwards from the season: if you want a pilgrim booking system ready for Pitru Paksha in September, scoping should start by May or June so there is time to test with real staff.",
       ],
       list: [
         "Website: from ₹10,000, one to two weeks",
-        "SEO website of 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website of 299+ pages: from ₹20,000, three to five weeks",
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Online store: from ₹50,000, four to eight weeks",
         "Android and iOS app: from ₹40,000, six to ten weeks",

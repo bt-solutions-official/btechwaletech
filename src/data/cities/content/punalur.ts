@@ -39,7 +39,7 @@ const punalur: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Malayalam and English pages", "Plywood, pepper and market trade", "Domain and code in your name"],
   },
   quickAnswer:
-    "A Punalur business can get a website from us starting at ₹10,000, usually live in one to two weeks, and an Android and iOS app starting at ₹40,000. SEO sites of 700+ pages start at ₹20,000, AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely and every account stays in your name.",
+    "A Punalur business can get a website from us starting at ₹10,000, usually live in one to two weeks, and an Android and iOS app starting at ₹40,000. SEO sites of 299+ pages start at ₹20,000, AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely and every account stays in your name.",
   snapshot: [
     { label: "Where", value: "Kollam district, on the Kallada river, about 45 km inland from Kollam and 68 km from Thiruvananthapuram" },
     { label: "Size", value: "Municipality of 46,702 people over 34.35 sq km (2011 census); headquarters of Punalur taluk" },
@@ -185,7 +185,7 @@ const punalur: CityContent = {
       ],
       list: [
         "Static website, up to 100 pages: from ₹10,000, one to two weeks",
-        "SEO website with 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website with 299+ pages: from ₹20,000, three to five weeks",
         "Android and iOS app: from ₹40,000",
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Ecommerce store: from ₹50,000, four to eight weeks",
@@ -241,7 +241,7 @@ const punalur: CityContent = {
     {
       question: "What is the website cost in Punalur?",
       answer:
-        "In Punalur, our static websites start at ₹10,000, SEO websites with 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Malayalam content, payment features, logins or extra pages are listed separately in your quote, and you pay nothing until you have approved that quote in writing.",
+        "In Punalur, our static websites start at ₹10,000, SEO websites with 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Malayalam content, payment features, logins or extra pages are listed separately in your quote, and you pay nothing until you have approved that quote in writing.",
     },
     {
       question: "Do you build Android and iOS apps for Punalur businesses?",
@@ -251,7 +251,7 @@ const punalur: CityContent = {
     {
       question: "How long does it take to build a website for a Punalur business?",
       answer:
-        "A static website for a Punalur shop, lodge or clinic usually takes one to two weeks after we receive your text and photos. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Late content is the usual cause of delay, so sending material early saves the most time.",
+        "A static website for a Punalur shop, lodge or clinic usually takes one to two weeks after we receive your text and photos. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Late content is the usual cause of delay, so sending material early saves the most time.",
     },
     {
       question: "Which is the best IT services team in Punalur for websites and apps?",
@@ -286,7 +286,7 @@ const punalur: CityContent = {
     {
       question: "Punaluril oru website cheyyan ethra rupa aakum?",
       answer:
-        "Punaluril oru sadharana website ₹10,000 muthal aanu, onno rando aazhchayil live aakum. 700+ page ulla SEO website ₹20,000 muthal, Android, iOS app ₹40,000 muthal, online store ₹50,000 muthal. Venda karyangal WhatsApp-il paranjal randu working days-inullil itemised quote ayachu tharum. Quote ezhuthi sammathikkunnathu vare oru rupayum vangilla.",
+        "Punaluril oru sadharana website ₹10,000 muthal aanu, onno rando aazhchayil live aakum. 299+ page ulla SEO website ₹20,000 muthal, Android, iOS app ₹40,000 muthal, online store ₹50,000 muthal. Venda karyangal WhatsApp-il paranjal randu working days-inullil itemised quote ayachu tharum. Quote ezhuthi sammathikkunnathu vare oru rupayum vangilla.",
     },
     {
       question: "You have no office in Punalur. How do we work together?",

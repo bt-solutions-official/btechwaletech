@@ -162,7 +162,7 @@ const theni: CityContent = {
       ],
       list: [
         "Static site of up to 100 pages: ₹10,000 onwards, ready in 1–2 weeks",
-        "SEO website with 700+ pages: ₹20,000 onwards, ready in 3–5 weeks",
+        "SEO website with 299+ pages: ₹20,000 onwards, ready in 3–5 weeks",
         "Android and iOS app: ₹40,000 onwards",
         "AI or WhatsApp automation: ₹40,000 onwards, 2–4 weeks",
         "Online store with UPI and Razorpay: ₹50,000 onwards, 4–8 weeks",
@@ -217,7 +217,7 @@ const theni: CityContent = {
     {
       question: "How much does a website cost in Theni?",
       answer:
-        "Prices begin at ₹10,000 for a static site of up to 100 pages, which takes a week or two. A large SEO site with 700+ pages begins at ₹20,000, an online store at ₹50,000 and bespoke software at ₹60,000. Your exact figure depends on page count, Tamil content and features, and arrives as an itemised quote before anything is billed.",
+        "Prices begin at ₹10,000 for a static site of up to 100 pages, which takes a week or two. A large SEO site with 299+ pages begins at ₹20,000, an online store at ₹50,000 and bespoke software at ₹60,000. Your exact figure depends on page count, Tamil content and features, and arrives as an itemised quote before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Theni businesses?",
@@ -267,7 +267,7 @@ const theni: CityContent = {
     {
       question: "How long does a website or app take?",
       answer:
-        "Plan on one to two weeks for a small site, three to five for a 700+ page SEO site, four to eight for a store and six to twelve for custom software. An app's schedule depends on its features and on store approval. Sending photos, prices and a few lines about the business early keeps things moving.",
+        "Plan on one to two weeks for a small site, three to five for a 299+ page SEO site, four to eight for a store and six to twelve for custom software. An app's schedule depends on its features and on store approval. Sending photos, prices and a few lines about the business early keeps things moving.",
     },
     {
       question: "What happens after launch? Is maintenance included?",

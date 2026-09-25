@@ -40,7 +40,7 @@ const mulbagal: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Kannada, Telugu & English pages", "Mandi and dairy software", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Mulbagal business, a website with us starts at ₹10,000 and takes one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; SEO sites of 700+ pages start at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely, with no local office, and itemise every quote.",
+    "For a Mulbagal business, a website with us starts at ₹10,000 and takes one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; SEO sites of 299+ pages start at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely, with no local office, and itemise every quote.",
   snapshot: [
     { label: "Location", value: "Taluk headquarters in Kolar district on NH-75, about 30 km from Kolar and roughly 110 km from Bengaluru" },
     { label: "Name", value: "From Mudalabagilu, the “eastern gate” of the Vijayanagara and later Mysore territories" },
@@ -146,7 +146,7 @@ const mulbagal: CityContent = {
       paragraphs: [
         "Kolar district is unusually multilingual. In the 2011 census about half its people gave Kannada as their first language, close to a quarter Telugu, and most of the rest Urdu or Tamil. Search in Mulbagal reflects that: the same buyer might type “Mulbagal hospital” in English, speak a Telugu query into the phone, or search a shop name in Kannada script.",
         "Our <strong>SEO services in Mulbagal</strong> begin with the Google Business Profile, because map results dominate local phone searches: right category, exact pin, hours, services, photos and a steady plan for genuine reviews. Then we build pages that answer real questions in the languages your customers use, each linked to the listing and to WhatsApp.",
-        "Two audiences deserve their own pages. Highway traffic between Bengaluru and Chittoor searches on the move, so eateries, tyre shops, mechanics and lodges need short, fast pages. Pilgrims plan ahead, so temple-circuit guides, taxi routes and room pages rank for longer searches over weeks. A 700+ page SEO website covering every product, route or village starts at ₹20,000, and monthly SEO starts at ₹10,000 a month. We report in plain language and never promise a number one ranking. More in <a href=\"/services/seo-services/\">our SEO approach</a>.",
+        "Two audiences deserve their own pages. Highway traffic between Bengaluru and Chittoor searches on the move, so eateries, tyre shops, mechanics and lodges need short, fast pages. Pilgrims plan ahead, so temple-circuit guides, taxi routes and room pages rank for longer searches over weeks. A 299+ page SEO website covering every product, route or village starts at ₹20,000, and monthly SEO starts at ₹10,000 a month. We report in plain language and never promise a number one ranking. More in <a href=\"/services/seo-services/\">our SEO approach</a>.",
       ],
     },
     {
@@ -166,7 +166,7 @@ const mulbagal: CityContent = {
       ],
       list: [
         "Shop, clinic, school or lodge website up to 100 pages: from ₹10,000, one to two weeks",
-        "SEO website of 700+ pages for a trader, taxi operator or institute covering many villages or routes: from ₹20,000, three to five weeks",
+        "SEO website of 299+ pages for a trader, taxi operator or institute covering many villages or routes: from ₹20,000, three to five weeks",
         "Android and iOS app: from ₹40,000",
         "WhatsApp or AI automation: from ₹40,000, two to four weeks",
         "Online store with UPI and card checkout: from ₹50,000, four to eight weeks",
@@ -230,7 +230,7 @@ const mulbagal: CityContent = {
     {
       question: "How much does a website cost in Mulbagal?",
       answer:
-        "A simple business site with us starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting points. Extra languages, product counts, payments and integrations each appear as separate lines in a written quote, and you approve it before any billing.",
+        "A simple business site with us starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting points. Extra languages, product counts, payments and integrations each appear as separate lines in a written quote, and you approve it before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Mulbagal businesses?",
@@ -240,7 +240,7 @@ const mulbagal: CityContent = {
     {
       question: "How long does a website take for a shop in Mulbagal?",
       answer:
-        "A shop or clinic site is usually live one to two weeks after we receive your photos, timings and price details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Delays almost always come from waiting on content, so sending it early is the quickest shortcut.",
+        "A shop or clinic site is usually live one to two weeks after we receive your photos, timings and price details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Delays almost always come from waiting on content, so sending it early is the quickest shortcut.",
     },
     {
       question: "Which is the best website development team in Mulbagal?",
@@ -265,7 +265,7 @@ const mulbagal: CityContent = {
     {
       question: "Mulbagalalli website maadisalu eshtu kharchu aagutte?",
       answer:
-        "Namma jothe saamaanya website ₹10,000 inda shuru aagutte, mattu ondu-eradu vaaradalli siddhavaagutte. 700+ page SEO website ₹20,000 inda, Android mattu iOS app ₹40,000 inda, online store ₹50,000 inda shuru. Nimma pages mattu features nodi barahadalli itemised quote kalisuttheve; nimma oppige illade yaava billing illa.",
+        "Namma jothe saamaanya website ₹10,000 inda shuru aagutte, mattu ondu-eradu vaaradalli siddhavaagutte. 299+ page SEO website ₹20,000 inda, Android mattu iOS app ₹40,000 inda, online store ₹50,000 inda shuru. Nimma pages mattu features nodi barahadalli itemised quote kalisuttheve; nimma oppige illade yaava billing illa.",
     },
     {
       question: "You have no office in Mulbagal. How do we meet and review work?",

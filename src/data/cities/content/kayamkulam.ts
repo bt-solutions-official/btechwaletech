@@ -39,7 +39,7 @@ const kayamkulam: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Malayalam-first local SEO", "Coir and coconut stores", "Your name on every account"],
   },
   quickAnswer:
-    "For a Kayamkulam business, our websites start at ₹10,000 and usually take one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are remote, with no Kayamkulam office, and you own everything.",
+    "For a Kayamkulam business, our websites start at ₹10,000 and usually take one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are remote, with no Kayamkulam office, and you own everything.",
   snapshot: [
     { label: "Location", value: "Municipality in Alappuzha district, about 45 km south of Alappuzha and 107 km north of Thiruvananthapuram" },
     { label: "Region", value: "Heart of Onattukara, and the second-largest town in Alappuzha district" },
@@ -157,7 +157,7 @@ const kayamkulam: CityContent = {
       id: "website-cost-kayamkulam",
       heading: "Website cost in Kayamkulam: starting prices and what moves the quote",
       paragraphs: [
-        "Our published starting prices for Kayamkulam are: a static website of up to 100 pages from ₹10,000, ready in one to two weeks; a 700+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000; an online store from ₹50,000 in four to eight weeks; and custom software from ₹60,000 in six to twelve weeks. Monthly SEO starts at ₹10,000 a month.",
+        "Our published starting prices for Kayamkulam are: a static website of up to 100 pages from ₹10,000, ready in one to two weeks; a 299+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000; an online store from ₹50,000 in four to eight weeks; and custom software from ₹60,000 in six to twelve weeks. Monthly SEO starts at ₹10,000 a month.",
         "The quote rises with scope. Two languages mean two sets of pages to write and check. Large catalogues, payment gateways, courier integration, logins for staff or customers, and links to Tally or other billing software all add work. If you provide text and photographs, the figure stays close to the starting price; if you want us to write content or arrange photography, that appears as a separate line.",
         "Local quotes vary widely, and a low figure sometimes hides costs that appear later. When you compare, ask whose name the domain and hosting will be in, whether mobile testing and basic SEO are included, how many rounds of changes you get, and who will fix problems after launch. Our <a href=\"/pricing/\">pricing page</a> sets out the starting points, and your written quote arrives in about two working days.",
       ],
@@ -218,7 +218,7 @@ const kayamkulam: CityContent = {
     {
       question: "What is the website cost in Kayamkulam?",
       answer:
-        "With us, static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final figure depends on pages, Malayalam and English content, products and integrations, and you get an itemised written quote before any billing begins.",
+        "With us, static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final figure depends on pages, Malayalam and English content, products and integrations, and you get an itemised written quote before any billing begins.",
     },
     {
       question: "Do you build Android and iOS apps for Kayamkulam businesses?",
@@ -228,7 +228,7 @@ const kayamkulam: CityContent = {
     {
       question: "How long does a website take for a Kayamkulam shop?",
       answer:
-        "A static website usually goes live in one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Having content and photographs ready is what speeds things up most.",
+        "A static website usually goes live in one to two weeks after we receive your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Having content and photographs ready is what speeds things up most.",
     },
     {
       question: "Which is the best website development team in Kayamkulam?",
@@ -253,7 +253,7 @@ const kayamkulam: CityContent = {
     {
       question: "Kayamkulathu oru website cheyyan ethra chilavakum?",
       answer:
-        "Njangalude simple website ₹10,000 muthal thudangunnu, sadharanayayi oru-randu aazhchakkullil ready aakum. 700+ page SEO website ₹20,000 muthal, Android, iOS app ₹40,000 muthal, online store ₹50,000 muthal. Ningalude pages, features anusarichu itemised quote ezhuthi tharum; approve cheyyathe onnum bill cheyyilla.",
+        "Njangalude simple website ₹10,000 muthal thudangunnu, sadharanayayi oru-randu aazhchakkullil ready aakum. 299+ page SEO website ₹20,000 muthal, Android, iOS app ₹40,000 muthal, online store ₹50,000 muthal. Ningalude pages, features anusarichu itemised quote ezhuthi tharum; approve cheyyathe onnum bill cheyyilla.",
     },
     {
       question: "You have no office in Kayamkulam. Is remote work safe?",

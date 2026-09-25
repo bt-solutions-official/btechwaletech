@@ -35,7 +35,7 @@ const vijayawada: CityContent = {
     pills: ["Sites from ₹10,000", "Telugu and English pages", "Wholesale catalogues", "WhatsApp automation", "5 months free maintenance"],
   },
   quickAnswer:
-    "Our websites for Vijayawada businesses start at ₹10,000 for a static site and ₹20,000 for a 700+ page SEO site, with online stores from ₹50,000 and custom web apps from ₹60,000. We are a remote team of three engineers with no Vijayawada office. Every project includes hosting in your name, SEO basics and five months of free maintenance.",
+    "Our websites for Vijayawada businesses start at ₹10,000 for a static site and ₹20,000 for a 299+ page SEO site, with online stores from ₹50,000 and custom web apps from ₹60,000. We are a remote team of three engineers with no Vijayawada office. Every project includes hosting in your name, SEO basics and five months of free maintenance.",
   snapshot: [
     { label: "Trading streets", value: "Governorpet, Besant Road, One Town and the Kaleswara Rao Market area, with MG Road (Bandar Road) for showrooms" },
     { label: "Industrial estates", value: "Jawaharlal Nehru Auto Nagar for automobile trades, Kondapalli industrial estate, and units around Nunna and Gannavaram" },
@@ -73,12 +73,12 @@ const vijayawada: CityContent = {
       heading: "How much does a website cost in Vijayawada?",
       paragraphs: [
         "Vijayawada website quotes vary a great deal. A student freelancer might offer a template site for ₹3,000. An established agency might ask ₹40,000 or ₹50,000 for something similar in size. The gap is usually explained by what is left out at the low end, such as SEO, domain ownership and after-launch support, and what is added at the high end, such as sales staff and office costs.",
-        "Our prices are public. A static website of up to 100 pages, which suits a clinic, a consultant, a tiffin centre or a single showroom, starts at ₹10,000 and is usually live in one to two weeks. A 700+ page SEO website with separate pages for each product category, service or course starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications such as order portals start at ₹60,000, automation starts at ₹40,000 and monthly SEO starts at ₹10,000.",
+        "Our prices are public. A static website of up to 100 pages, which suits a clinic, a consultant, a tiffin centre or a single showroom, starts at ₹10,000 and is usually live in one to two weeks. A 299+ page SEO website with separate pages for each product category, service or course starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications such as order portals start at ₹60,000, automation starts at ₹40,000 and monthly SEO starts at ₹10,000.",
         "For wholesalers with thousands of SKUs, the catalogue is the main cost factor, but we can import from Excel or your billing software to keep it manageable. You get an itemised quote, normally within two working days, and nothing is billed until you approve it in writing. The full breakdown is on our <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [
         "<strong>Static site, ₹10,000 upward:</strong> up to 100 pages, contact form, map, mobile layout, SEO basics.",
-        "<strong>SEO site, ₹20,000 upward:</strong> 700+ pages for categories, services or courses.",
+        "<strong>SEO site, ₹20,000 upward:</strong> 299+ pages for categories, services or courses.",
         "<strong>Online store, ₹50,000 upward:</strong> cart, UPI and card payments, delivery rules.",
         "<strong>Web app, ₹60,000 upward:</strong> retailer logins, order tracking, reports and dashboards.",
       ],
@@ -209,12 +209,12 @@ const vijayawada: CityContent = {
     {
       question: "How much does a website cost in Vijayawada?",
       answer:
-        "With us, a static business website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Local quotes vary widely, so compare who owns the domain, what SEO is included and what happens after launch, not only the headline price.",
+        "With us, a static business website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Local quotes vary widely, so compare who owns the domain, what SEO is included and what happens after launch, not only the headline price.",
     },
     {
       question: "Vijayawada lo website cheyyadaniki entha avutundi?",
       answer:
-        "Simple business website ₹10,000 nundi start avutundi. 700+ pages SEO website ₹20,000 nundi, online store ₹50,000 nundi. Mee pages, features, content batti final price untundi. Pani modalupettakamundu itemised quote pampistamu, meeru approve chesina tarvate billing untundi.",
+        "Simple business website ₹10,000 nundi start avutundi. 299+ pages SEO website ₹20,000 nundi, online store ₹50,000 nundi. Mee pages, features, content batti final price untundi. Pani modalupettakamundu itemised quote pampistamu, meeru approve chesina tarvate billing untundi.",
     },
     {
       question: "Do you have an office in Vijayawada?",

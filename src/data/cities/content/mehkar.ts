@@ -40,7 +40,7 @@ const mehkar: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Marathi-first local SEO", "Lonar visitor bookings", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Mehkar business, a website from our team starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 700+ page SEO site starts at ₹20,000 and an online store at ₹50,000. We work remotely, without a Mehkar office.",
+    "For a Mehkar business, a website from our team starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 299+ page SEO site starts at ₹20,000 and an online store at ₹50,000. We work remotely, without a Mehkar office.",
   snapshot: [
     { label: "Location", value: "Taluka and revenue sub-division headquarters in Buldhana district, Vidarbha, about 288 m up on the Buldhana plateau" },
     { label: "River", value: "Painganga (Penganga), part of the Godavari basin, with the Pentakali dam about 21 km from town" },
@@ -172,7 +172,7 @@ const mehkar: CityContent = {
       ],
       list: [
         "Static website up to 100 pages: from ₹10,000, one to two weeks",
-        "SEO website with 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website with 299+ pages: from ₹20,000, three to five weeks",
         "Android and iOS app: from ₹40,000",
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Online store with UPI and card checkout: from ₹50,000, four to eight weeks",
@@ -246,7 +246,7 @@ const mehkar: CityContent = {
     {
       question: "How much does a website cost in Mehkar?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. The final figure depends on page count, Marathi and English content, products and integrations, and you get it itemised in writing before anything is billed.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. The final figure depends on page count, Marathi and English content, products and integrations, and you get it itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Mehkar businesses?",
@@ -256,7 +256,7 @@ const mehkar: CityContent = {
     {
       question: "How long does it take to build a website for a Mehkar shop?",
       answer:
-        "A simple shop or clinic site usually goes live in one to two weeks after we receive your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects finish fastest when the owner sends text and photographs in the first few days.",
+        "A simple shop or clinic site usually goes live in one to two weeks after we receive your photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects finish fastest when the owner sends text and photographs in the first few days.",
     },
     {
       question: "Which is the best IT services team in Mehkar for a small business?",

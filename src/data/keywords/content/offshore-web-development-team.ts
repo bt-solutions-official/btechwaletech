@@ -70,7 +70,7 @@ const content: FreelanceContent = {
     cards: [
       { name: "Web apps, portals and SaaS MVPs", note: `Frontend, backend, database and cloud set-up by one team, from ${P.softwareUsd}. Ideal for founders who need version one without assembling a department.`, href: "/web-application-developer/", size: "lg" },
       { name: "Business and marketing websites", note: `Fast, SEO-ready sites built on modern static or Next.js stacks, from ${P.siteUsd}, with hosting in your own account.`, href: "/freelance-web-developer-for-usa-clients/", size: "lg" },
-      { name: "Content-scale SEO websites", note: `700+ page sites generated from structured data for service and location coverage, from ${P.seoSiteUsd}.`, href: "/seo-website-developer/", size: "md" },
+      { name: "Content-scale SEO websites", note: `299+ page sites generated from structured data for service and location coverage, from ${P.seoSiteUsd}.`, href: "/seo-website-developer/", size: "md" },
       { name: "Online stores", note: `Catalogue, checkout and order flows for your market, from ${P.shopUsd}, with payment providers chosen for your country.`, href: "/freelance-ecommerce-developer/", size: "md" },
       { name: "Android and iOS apps", note: `Flutter or React Native apps published in your own store accounts, from ${P.appUsd}.`, href: "/freelance-app-developer/", size: "md" },
       { name: "Agency overflow and white-label", note: "Design or marketing agencies abroad hand us builds they sell under their own brand, with terms agreed in writing.", href: "/white-label-web-development/", size: "sm" },
@@ -299,7 +299,7 @@ const content: FreelanceContent = {
       columns: ["Project", "Starts at (abroad)", "Starts at (India)", "Typical timeline"],
       rows: [
         ["Website, up to 100 pages", `From ${P.siteUsd}`, `From ${P.site}`, "1–2 weeks"],
-        ["SEO website, 700+ pages", `From ${P.seoSiteUsd}`, `From ${P.seoSite}`, "3–5 weeks"],
+        ["SEO website, 299+ pages", `From ${P.seoSiteUsd}`, `From ${P.seoSite}`, "3–5 weeks"],
         ["Online store", `From ${P.shopUsd}`, `From ${P.shop}`, "4–8 weeks"],
         ["Web app, portal or SaaS MVP", `From ${P.softwareUsd}`, `From ${P.software}`, "6–12 weeks"],
         ["Android & iOS app", `From ${P.appUsd}`, `From ${P.app}`, "6–10 weeks"],

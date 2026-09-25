@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "@layouts/BaseLayout.astro";
+import { countryPageLinks } from "@data/keywords/page-links";
 import { createPageSeo } from "@lib/seo/seo-config";
 import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
 import { breadcrumbListSchema, faqSchema } from "@lib/schema/schema";
@@ -17,7 +18,7 @@ const faqs = [
   },
   {
     question: "What does a website cost for a New Zealand business?",
-    answer: `A static website of up to 100 pages starts from ${usd("Static")}, a 700+ page SEO website from ${usd("SEO website")}, AI automation from ${usd("AI automation")}, an ecommerce store from ${usd("Ecommerce")} and a custom web app from ${usd("Custom web app")}. Ongoing SEO is from ${usd("Monthly SEO")} and ongoing maintenance from ${usd("Maintenance")}. All are starting prices in US dollars, and the final quote depends on your requirements.`,
+    answer: `A static website of up to 100 pages starts from ${usd("Static")}, a 299+ page SEO website from ${usd("SEO website")}, AI automation from ${usd("AI automation")}, an ecommerce store from ${usd("Ecommerce")} and a custom web app from ${usd("Custom web app")}. Ongoing SEO is from ${usd("Monthly SEO")} and ongoing maintenance from ${usd("Maintenance")}. All are starting prices in US dollars, and the final quote depends on your requirements.`,
   },
   {
     question: "Can you invoice in New Zealand dollars?",
@@ -81,7 +82,7 @@ const faqs = [
   },
   {
     question: "How long will our project take?",
-    answer: "Typical timelines are one to two weeks for a static website, three to five weeks for a 700+ page SEO website, two to four weeks for AI automation, four to eight weeks for an ecommerce store and six to twelve weeks for a custom web app. Slow content and approvals delay projects far more than the time difference does.",
+    answer: "Typical timelines are one to two weeks for a static website, three to five weeks for a 299+ page SEO website, two to four weeks for AI automation, four to eight weeks for an ecommerce store and six to twelve weeks for a custom web app. Slow content and approvals delay projects far more than the time difference does.",
   },
   {
     question: "Can we meet you in person in New Zealand?",
@@ -246,7 +247,7 @@ const guide: GuideSection[] = [
     heading: "What we build for New Zealand businesses",
     paragraphs: [
       "<strong>Websites.</strong> Business websites, landing pages and content-led sites on Astro or Next.js, or on WordPress when your team wants to edit pages without a developer. For most service businesses we suggest a static site because it is quick on rural broadband and mobile networks, inexpensive to host, and has very little attack surface. The static plan covers up to 100 pages, responsive design, enquiry forms, hosting, SSL and deployment. Copy is set in New Zealand English: organisation, colour, enquiry and programme, prices in NZD with GST included for consumers, dates in day-month-year order and phone numbers in the +64 format. Details are on the <a href=\"/services/web-development/\">web development service page</a>.",
-      "<strong>Large SEO websites.</strong> A 700+ page site makes sense for a small number of New Zealand businesses: a national service with genuine regional detail, a directory or listings site, or a large product range. The plan includes keyword and page planning, schema, a sitemap and internal linking, from design through to deployment. In a country with fewer towns and less search volume than larger markets, we are careful not to produce hundreds of near-identical pages that nobody searches for. Scale only helps when each page answers a real query.",
+      "<strong>Large SEO websites.</strong> A 299+ page site makes sense for a small number of New Zealand businesses: a national service with genuine regional detail, a directory or listings site, or a large product range. The plan includes keyword and page planning, schema, a sitemap and internal linking, from design through to deployment. In a country with fewer towns and less search volume than larger markets, we are careful not to produce hundreds of near-identical pages that nobody searches for. Scale only helps when each page answers a real query.",
       "<strong>Online stores.</strong> Shopify, WooCommerce or custom ecommerce with the payment providers New Zealand shoppers expect, GST-inclusive NZD pricing, shipping rules that account for rural delivery and the Cook Strait, and orders synced to Xero. The ecommerce section below goes deeper.",
       "<strong>SEO for google.co.nz.</strong> Monthly SEO covers technical fixes, on-page work, content and local search. For businesses serving a town or region we focus on service pages, Google Business Profile guidance and the directories New Zealanders use. Stores that ship nationwide get the attention on category and product pages instead. More on the <a href=\"/services/seo-services/\">SEO services page</a>.",
       "<strong>Custom software and web apps.</strong> Booking systems for tour operators, quoting tools for manufacturers, portals for clients to upload documents to an accountant, dashboards that pull data from several systems, and internal tools for teams that have outgrown spreadsheets. When a business asks for a mobile app, we often suggest a progressive web app instead: it installs from the browser, works on iPhone and Android, and updates without app store review or fees.",
@@ -356,7 +357,7 @@ const guide: GuideSection[] = [
     ],
     list: [
       `<strong>From ${usd("Static")}, static website:</strong> a tradie, consultant, clinic, cafe or local service business with a home page, service pages, about, contact and a gallery, up to 100 pages, using text and photos you provide. Includes an enquiry form, tap-to-call buttons, basic SEO tags, a sitemap, hosting setup and going live.`,
-      `<strong>From ${usd("SEO website")}, SEO website of 700+ pages:</strong> a large, structured site built around search intent, such as a national service with real regional detail or a big product range, with keyword planning, schema and internal linking.`,
+      `<strong>From ${usd("SEO website")}, SEO website of 299+ pages:</strong> a large, structured site built around search intent, such as a national service with real regional detail or a big product range, with keyword planning, schema and internal linking.`,
       `<strong>From ${usd("AI automation")}, AI automation:</strong> one clearly defined workflow, for example website enquiries created as jobs in Tradify, an automatic text to the customer, and a reminder to you if the job has not been quoted within a day.`,
       `<strong>From ${usd("Ecommerce")}, ecommerce store:</strong> product and category pages, cart and checkout, a payment provider such as Windcave or Stripe, GST settings, shipping rules including rural delivery, order basics and performance tuning.`,
       `<strong>From ${usd("Custom web app")}, custom web app:</strong> a focused first version of a booking system, client portal, dashboard or internal tool, with user accounts, roles, an admin panel and deployment.`,
@@ -523,6 +524,7 @@ const relatedLinks = [
   { name: "Pricing", href: "/pricing/" },
   { name: "Portfolio", href: "/portfolio/" },
 ];
+const servicePages = countryPageLinks("new-zealand");
 ---
 
 <BaseLayout meta={page} schema={[webPageSchema, professionalServiceSchema, breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs)]}>
@@ -847,6 +849,21 @@ const relatedLinks = [
       </div>
     </div>
   </section>
+
+  <!-- ===================== SERVICE PAGES ===================== -->
+  {servicePages.length > 0 && (
+    <section class="locations" aria-labelledby="service-pages-heading">
+      <div class="section-wrap">
+        <div class="section-head">
+          <p class="eyebrow">Services and guides</p>
+          <h2 id="service-pages-heading">Everything we build for New Zealand businesses</h2>
+        </div>
+        <div class="city-cloud">
+          {servicePages.map((p) => <a class="city-chip" href={p.href}>{p.name}</a>)}
+        </div>
+      </div>
+    </section>
+  )}
 
   <!-- ===================== RELATED ===================== -->
   <section class="locations" aria-labelledby="related-heading">

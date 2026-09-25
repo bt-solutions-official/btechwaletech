@@ -149,7 +149,7 @@ const content: CityContent = {
       id: "seo-and-ai-search-goa",
       heading: "SEO, local SEO and AI-search visibility across Goa",
       paragraphs: [
-        "SEO in Goa is really two jobs at once: ranking for travellers who search before they arrive, and ranking for locals who search the nearest shop, doctor or service. Our <a href='/services/seo-services/'>SEO services</a> handle both, starting from ₹10,000 a month, and our 700+ page SEO websites start at ₹20,000.",
+        "SEO in Goa is really two jobs at once: ranking for travellers who search before they arrive, and ranking for locals who search the nearest shop, doctor or service. Our <a href='/services/seo-services/'>SEO services</a> handle both, starting from ₹10,000 a month, and our 299+ page SEO websites start at ₹20,000.",
         "For visitor-facing businesses, we target searches such as villa with pool in Assagao, heritage homestay in South Goa or scuba diving near Grande Island, and we build pages around beaches, villages and experiences rather than one generic page for all of Goa. For local-facing businesses, we set up and tidy Google Business Profiles, fix name, address and phone consistency, and write service pages for each town or village a business actually serves.",
         "More travellers now ask AI assistants for recommendations, so we also structure pages to be quoted in AI answers: clear facts near the top, FAQ blocks, schema markup and consistent business details across listings. We do not promise first place on Google, because nobody honestly can. What we promise is technical soundness, useful content and monthly reporting from Search Console, so you can see which searches are growing and which pages need work.",
       ],
@@ -169,7 +169,7 @@ const content: CityContent = {
       paragraphs: [
         "A static business website for a Goa firm starts at ₹10,000 and covers up to 100 pages, a mobile-first layout, enquiry forms, a WhatsApp button, maps, basic SEO tags and a sitemap, delivered in one to two weeks. It is the right starting point for most clinics, schools, consultants, contractors and small hotels.",
         "What makes a Goa website work is not decoration. It is fast loading on a mobile connection in a village with one bar of signal, clear prices or price ranges where possible, photographs that are honest about the room and the view, directions that account for the confusing village road network, and a contact option that works in the evening. Many visitors also look for monsoon information, pet policies, parking and whether the property is near a noisy club, so we add those answers up front.",
-        "We write in simple English and can add Hindi, Marathi or Konkani pages where your customers use them. For a larger catalogue or a business targeting many searches, the 700+ page SEO website from ₹20,000 is usually better value. See the <a href='/services/web-development/'>web development service</a> for the full scope, or the <a href='/portfolio/'>portfolio</a> for the kind of sites we build.",
+        "We write in simple English and can add Hindi, Marathi or Konkani pages where your customers use them. For a larger catalogue or a business targeting many searches, the 299+ page SEO website from ₹20,000 is usually better value. See the <a href='/services/web-development/'>web development service</a> for the full scope, or the <a href='/portfolio/'>portfolio</a> for the kind of sites we build.",
       ],
     },
     {
@@ -208,7 +208,7 @@ const content: CityContent = {
       ],
       list: [
         "<strong>Static website:</strong> from ₹10,000, one to two weeks",
-        "<strong>700+ page SEO website:</strong> from ₹20,000, three to five weeks",
+        "<strong>299+ page SEO website:</strong> from ₹20,000, three to five weeks",
         "<strong>AI or WhatsApp automation:</strong> from ₹40,000, two to four weeks",
         "<strong>Android and iOS app:</strong> from ₹40,000, six to ten weeks",
         "<strong>Online store:</strong> from ₹50,000, four to eight weeks",
@@ -270,7 +270,7 @@ const content: CityContent = {
     {
       question: "How long does it take to get a website or system live?",
       answer:
-        "A static website usually goes live in one to two weeks and a 700+ page SEO website in three to five weeks. AI automation takes two to four weeks, online stores four to eight weeks and custom software six to twelve weeks. The biggest source of delay is usually content, such as photos, room descriptions and product details, so we share a simple checklist on day one. Hospitality clients should aim to launch before October.",
+        "A static website usually goes live in one to two weeks and a 299+ page SEO website in three to five weeks. AI automation takes two to four weeks, online stores four to eight weeks and custom software six to twelve weeks. The biggest source of delay is usually content, such as photos, room descriptions and product details, so we share a simple checklist on day one. Hospitality clients should aim to launch before October.",
     },
     {
       question: "Can my website be in Konkani, Marathi or Hindi as well as English?",

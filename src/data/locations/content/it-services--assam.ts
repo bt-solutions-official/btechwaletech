@@ -190,7 +190,7 @@ const content: CityContent = {
       paragraphs: [
         "SEO across Assam means making a business visible for searches in its own city and service area, in the languages customers actually use, and in AI-generated answers. Guwahati is competitive; smaller cities like Tezpur, Jorhat or Silchar are less so, which means well-structured pages there can rank faster.",
         "Language matters. Most searches are in English or Roman-script Assamese and Hindi, while Barak Valley customers often search in Bengali or English. We research the real phrases people use, create a page for each service and area you genuinely serve, and keep business details consistent across Google Business Profile and directories.",
-        "For AI search, we write pages that open with direct answers, name places and services explicitly, and include schema markup. <a href='/services/seo-services/'>Monthly SEO</a> starts at ₹10,000 with a plain-language report; for very large service catalogues, a 700+ page SEO site starts at ₹20,000. No one can guarantee rankings, and we do not.",
+        "For AI search, we write pages that open with direct answers, name places and services explicitly, and include schema markup. <a href='/services/seo-services/'>Monthly SEO</a> starts at ₹10,000 with a plain-language report; for very large service catalogues, a 299+ page SEO site starts at ₹20,000. No one can guarantee rankings, and we do not.",
       ],
     },
     {
@@ -262,7 +262,7 @@ const content: CityContent = {
     {
       question: "How much do IT services cost in Assam?",
       answer:
-        "From ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after the five free months. Final costs depend on scope and are itemised in writing.",
+        "From ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after the five free months. Final costs depend on scope and are itemised in writing.",
     },
     {
       question: "How long does a typical project take?",

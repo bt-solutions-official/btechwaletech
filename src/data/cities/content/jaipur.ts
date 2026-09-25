@@ -35,7 +35,7 @@ const jaipur: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi and English SEO", "Export-ready stores", "WhatsApp enquiry flows", "Custom portals"],
   },
   quickAnswer:
-    "A Jaipur business website with us starts at ₹10,000, and a 700+ page site designed to bring enquiries from Google starts at ₹20,000. Online stores begin at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three engineers without a Jaipur office, and five months of maintenance after launch are included free.",
+    "A Jaipur business website with us starts at ₹10,000, and a 299+ page site designed to bring enquiries from Google starts at ₹20,000. Online stores begin at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three engineers without a Jaipur office, and five months of maintenance after launch are included free.",
   snapshot: [
     { label: "Old city bazaars", value: "Johari Bazaar, Bapu Bazaar, Tripolia Bazaar and Chandpole inside the walled city" },
     { label: "Modern business areas", value: "MI Road, C-Scheme, Malviya Nagar, Vaishali Nagar, Tonk Road and Jagatpura" },
@@ -73,12 +73,12 @@ const jaipur: CityContent = {
       heading: "How much does a website cost in Jaipur?",
       paragraphs: [
         "In Jaipur you can find website offers for ₹2,999 and agency quotes above ₹60,000 for what sounds like the same job. The cheapest offers usually leave out SEO, keep the domain in the developer's name and charge extra for every edit. The most expensive often cover showrooms, sales teams and account managers who pass your requests along.",
-        "Our starting prices are public. A static website of up to 100 pages starts at ₹10,000 and is usually live in one to two weeks. A 700+ page SEO website with pages for each service and area starts at ₹20,000 and takes three to five weeks. Online stores with UPI and card payments start at ₹50,000, and custom web applications at ₹60,000. Automation projects start at ₹40,000, and monthly SEO at ₹10,000.",
+        "Our starting prices are public. A static website of up to 100 pages starts at ₹10,000 and is usually live in one to two weeks. A 299+ page SEO website with pages for each service and area starts at ₹20,000 and takes three to five weeks. Online stores with UPI and card payments start at ₹50,000, and custom web applications at ₹60,000. Automation projects start at ₹40,000, and monthly SEO at ₹10,000.",
         "The final price depends on scope. A gem dealer with five hundred stones to list needs more work than a consultant with four services. You receive an itemised quote within roughly two working days, and nothing is charged until you have approved it in writing.",
       ],
       list: [
         "<strong>Static website, from ₹10,000:</strong> up to 100 pages, enquiry form, mobile layout, basic SEO. For clinics, consultants, guest houses and small shops.",
-        "<strong>SEO website, from ₹20,000:</strong> 700+ pages, schema, sitemap, service and area pages. For firms that want regular enquiries from search.",
+        "<strong>SEO website, from ₹20,000:</strong> 299+ pages, schema, sitemap, service and area pages. For firms that want regular enquiries from search.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart, UPI and cards, order alerts. For jewellery, textile, pottery and ethnic-wear brands.",
         "<strong>Web application, from ₹60,000:</strong> logins, roles, dashboards, integrations. For exporters, manufacturers and institutes.",
       ],
@@ -218,12 +218,12 @@ const jaipur: CityContent = {
     {
       question: "How much does a website cost in Jaipur?",
       answer:
-        "Our static websites start at ₹10,000, SEO websites with 700+ pages at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. Jaipur quotes for comparable work range from around ₹3,000 to more than ₹60,000. Look at what is included, especially SEO setup, ownership of domain and hosting, and support after launch.",
+        "Our static websites start at ₹10,000, SEO websites with 299+ pages at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. Jaipur quotes for comparable work range from around ₹3,000 to more than ₹60,000. Look at what is included, especially SEO setup, ownership of domain and hosting, and support after launch.",
     },
     {
       question: "Jaipur mein website banwane ka kharcha kitna aata hai?",
       answer:
-        "Humare saath ek simple business website ₹10,000 se shuru hoti hai, aur 700+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se banta hai. Kitne pages, kaunse features aur content taiyar hai ya nahi, is par final kharcha tay hota hai. Kaam shuru karne se pehle aapko poora itemised quote diya jaata hai.",
+        "Humare saath ek simple business website ₹10,000 se shuru hoti hai, aur 299+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se banta hai. Kitne pages, kaunse features aur content taiyar hai ya nahi, is par final kharcha tay hota hai. Kaam shuru karne se pehle aapko poora itemised quote diya jaata hai.",
     },
     {
       question: "Do you have an office in Jaipur?",
@@ -233,7 +233,7 @@ const jaipur: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static website takes one to two weeks, a 700+ page SEO website three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. Waiting for content and photos causes most delays, so we write draft copy for you to edit rather than leaving pages empty.",
+        "A static website takes one to two weeks, a 299+ page SEO website three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. Waiting for content and photos causes most delays, so we write draft copy for you to edit rather than leaving pages empty.",
     },
     {
       question: "Can you help my shop or hotel appear on Google Maps in Jaipur?",

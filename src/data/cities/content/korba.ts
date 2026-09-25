@@ -34,7 +34,7 @@ const korba: CityContent = {
     pills: ["Websites from ₹10,000", "Contractor and vendor profiles", "Hindi and Chhattisgarhi searches", "WhatsApp bookings", "Full ownership"],
   },
   quickAnswer:
-    "For a Korba business, a website with us starts at ₹10,000 and usually launches in one to two weeks. A 700+ page SEO website starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team, you own the domain and code, and maintenance is free for the first five months.",
+    "For a Korba business, a website with us starts at ₹10,000 and usually launches in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team, you own the domain and code, and maintenance is free for the first five months.",
   snapshot: [
     { label: "Known as", value: "The power capital of Chhattisgarh, with thermal plants of more than 6,000 MW combined capacity" },
     { label: "Power and metal", value: "NTPC's 2,600 MW Korba Super Thermal Power Station at Jamnipali, state power plants and BALCO's aluminium works" },
@@ -106,7 +106,7 @@ const korba: CityContent = {
       ],
       list: [
         "<strong>Basic site (₹10,000 onward, 1–2 weeks):</strong> shops, clinics, tutors and service providers.",
-        "<strong>700+ page SEO site (₹20,000 onward, 3–5 weeks):</strong> contractors, suppliers, schools and hospitals.",
+        "<strong>299+ page SEO site (₹20,000 onward, 3–5 weeks):</strong> contractors, suppliers, schools and hospitals.",
         "<strong>AI and WhatsApp automation (₹40,000 onward, 2–4 weeks):</strong> bookings, quotes and order capture.",
         "<strong>Online store (₹50,000 onward, 4–8 weeks):</strong> retail and local products with UPI checkout.",
         "<strong>Custom web software (₹60,000 onward, 6–12 weeks):</strong> work orders, manpower and equipment tracking.",
@@ -216,12 +216,12 @@ const korba: CityContent = {
     {
       question: "How much does a website cost in Korba?",
       answer:
-        "A basic website starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. You get an itemised written quote in about two working days, and nothing is billed before you approve it.",
+        "A basic website starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. You get an itemised written quote in about two working days, and nothing is billed before you approve it.",
     },
     {
       question: "Korba me apne business ki website banwani hai, kitna kharcha hoga?",
       answer:
-        "Chhote business, dukaan ya clinic ki website ₹10,000 se shuru hoti hai aur ek se do hafte me tayyar ho jaati hai. Contractor ya supplier ke liye 700+ pages ki SEO website ₹20,000 se hai. WhatsApp par Hindi me bataiye, do working din me likhit quote bhej denge.",
+        "Chhote business, dukaan ya clinic ki website ₹10,000 se shuru hoti hai aur ek se do hafte me tayyar ho jaati hai. Contractor ya supplier ke liye 299+ pages ki SEO website ₹20,000 se hai. WhatsApp par Hindi me bataiye, do working din me likhit quote bhej denge.",
     },
     {
       question: "Do you have an office in Korba?",
@@ -276,7 +276,7 @@ const korba: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A basic site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having your photos, project list and basic text ready at the start is what saves the most time.",
+        "A basic site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having your photos, project list and basic text ready at the start is what saves the most time.",
     },
     {
       question: "Do you guarantee a top ranking on Google?",

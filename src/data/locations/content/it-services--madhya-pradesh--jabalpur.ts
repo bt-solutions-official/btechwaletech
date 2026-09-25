@@ -191,7 +191,7 @@ const content: CityContent = {
       heading: "SEO and AI-search visibility for Jabalpur businesses",
       paragraphs: [
         "SEO for Jabalpur businesses means appearing in searches for a service in the city or a specific area such as Napier Town or Wright Town, ranking product pages that reach buyers in other states, and giving AI tools accurate facts to cite. It depends on fast pages, clear content, schema and a maintained Google Business Profile.",
-        "Advocates need practice-area pages written carefully within professional rules. Garment units need design and category pages that wholesale buyers find. Tour operators need park and season guides. Clinics need doctor and service pages. Static sites start at ₹10,000, 700+ page SEO websites at ₹20,000 and monthly SEO at ₹10,000.",
+        "Advocates need practice-area pages written carefully within professional rules. Garment units need design and category pages that wholesale buyers find. Tour operators need park and season guides. Clinics need doctor and service pages. Static sites start at ₹10,000, 299+ page SEO websites at ₹20,000 and monthly SEO at ₹10,000.",
         "We never guarantee rankings. We set up the technical base, publish useful pages and report progress from Search Console. For website-focused detail see the separate <a href='/jabalpur/'>Jabalpur websites page</a>, plus our <a href='/services/seo-services/'>SEO services</a> and <a href='/services/web-development/'>web development</a> pages.",
       ],
     },

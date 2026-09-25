@@ -35,7 +35,7 @@ const hardoi: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi-first pages", "Trader and dealer catalogues", "Clinic and school sites", "WhatsApp automation"],
   },
   quickAnswer:
-    "Hardoi businesses can get a static website from ₹10,000 in one to two weeks. A 700+ page SEO website starts at ₹20,000, AI and WhatsApp automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. We are three remote engineers with no Hardoi office, and we maintain every site free for five months after launch.",
+    "Hardoi businesses can get a static website from ₹10,000 in one to two weeks. A 299+ page SEO website starts at ₹20,000, AI and WhatsApp automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. We are three remote engineers with no Hardoi office, and we maintain every site free for five months after launch.",
   snapshot: [
     { label: "Location", value: "District headquarters in Lucknow division, about 110 km north-west of Lucknow" },
     { label: "District", value: "Third largest district in Uttar Pradesh by area, with five tehsils: Hardoi, Sandila, Shahabad, Bilgram and Sawayajpur" },
@@ -215,7 +215,7 @@ const hardoi: CityContent = {
     {
       question: "How much does a website cost in Hardoi?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites from ₹20,000, WhatsApp and AI automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. The final quote depends on your pages, languages and features, and nothing is billed until you approve it in writing.",
+        "Static websites start at ₹10,000, 299+ page SEO websites from ₹20,000, WhatsApp and AI automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. The final quote depends on your pages, languages and features, and nothing is billed until you approve it in writing.",
     },
     {
       question: "Hardoi me website banwane me kitna kharcha aata hai?",
@@ -250,7 +250,7 @@ const hardoi: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Gathering photographs and details is usually the slowest step, so we share a checklist on the first day.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Gathering photographs and details is usually the slowest step, so we share a checklist on the first day.",
     },
     {
       question: "What can WhatsApp automation do for a Hardoi business?",

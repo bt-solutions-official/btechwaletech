@@ -35,7 +35,7 @@ const phusro: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi-first pages", "Contractor and supplier profiles", "School and clinic sites", "5 months free maintenance"],
   },
   quickAnswer:
-    "A Phusro business can get a static website from us starting at ₹10,000, ready in one to two weeks. SEO websites of 700+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no office in Phusro, and maintenance is free for five months.",
+    "A Phusro business can get a static website from us starting at ₹10,000, ready in one to two weeks. SEO websites of 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no office in Phusro, and maintenance is free for five months.",
   snapshot: [
     { label: "Status", value: "Nagar parishad and the only statutory town in Bermo subdivision of Bokaro district, about 35 km from the district headquarters" },
     { label: "Coal", value: "Surrounded by Central Coalfields' Dhori, Bokaro and Kargali, and Kathara areas, with open-cast and underground mines" },
@@ -91,13 +91,13 @@ const phusro: CityContent = {
       heading: "Website costs in Phusro, explained plainly",
       paragraphs: [
         "In the coal belt, website prices you hear can range from almost nothing, for a site made on a free builder by a friend, to large figures from agencies in Bokaro or Ranchi. What usually decides the real cost is what happens after launch: who owns the domain, who fixes problems and whether anyone set it up for search. Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>.",
-        "A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. That is enough for most shops, clinics, tutors and small contractors. A 700+ page site designed for search starts at ₹20,000 and suits schools, hospitals and dealers with large product ranges. Online stores start at ₹50,000, WhatsApp and AI automation at ₹40,000, and custom registers and web apps at ₹60,000. Monthly SEO starts at ₹10,000.",
+        "A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. That is enough for most shops, clinics, tutors and small contractors. A 299+ page site designed for search starts at ₹20,000 and suits schools, hospitals and dealers with large product ranges. Online stores start at ₹50,000, WhatsApp and AI automation at ₹40,000, and custom registers and web apps at ₹60,000. Monthly SEO starts at ₹10,000.",
         "These are starting prices. Your written quote lists each page and feature separately, you can remove what you do not need, and no bill is raised until you agree in writing.",
         "If budget is tight, start with the static site and a proper Google listing, and add a store, automation or software later. Everything we build is designed to grow, so nothing from the first stage has to be thrown away when you expand.",
       ],
       list: [
         "<strong>Starts at ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form, map and search basics.",
-        "<strong>Starts at ₹20,000:</strong> 700+ pages for products, courses, services or areas served.",
+        "<strong>Starts at ₹20,000:</strong> 299+ pages for products, courses, services or areas served.",
         "<strong>Starts at ₹50,000:</strong> online store with UPI, local delivery zones and order alerts.",
         "<strong>Starts at ₹60,000:</strong> trip, stock, fee or appointment software with logins.",
       ],
@@ -224,12 +224,12 @@ const phusro: CityContent = {
     {
       question: "How much does a website cost in Phusro?",
       answer:
-        "With us, static websites start at ₹10,000, SEO websites of 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your written quote lists each page and feature, and you can drop anything before approving.",
+        "With us, static websites start at ₹10,000, SEO websites of 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your written quote lists each page and feature, and you can drop anything before approving.",
     },
     {
       question: "Phusro me website banwane ka kharcha kitna hai?",
       answer:
-        "Humare yahan simple website ₹10,000 se shuru hoti hai aur ek-do hafte me taiyar ho jaati hai. 700+ page wali SEO website ₹20,000 se aur online dukaan ₹50,000 se shuru hoti hai. Pehle likhit quote milta hai, aapki manzoori ke baad hi kaam aur bill shuru hota hai.",
+        "Humare yahan simple website ₹10,000 se shuru hoti hai aur ek-do hafte me taiyar ho jaati hai. 299+ page wali SEO website ₹20,000 se aur online dukaan ₹50,000 se shuru hoti hai. Pehle likhit quote milta hai, aapki manzoori ke baad hi kaam aur bill shuru hota hai.",
     },
     {
       question: "Do you have an office in Phusro or Bermo?",
@@ -254,7 +254,7 @@ const phusro: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Delays mostly come from waiting for photographs and details, so we send a checklist on day one.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Delays mostly come from waiting for photographs and details, so we send a checklist on day one.",
     },
     {
       question: "Can you build a website for a school in the Bermo area?",

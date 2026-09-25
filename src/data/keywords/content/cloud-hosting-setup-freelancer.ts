@@ -341,7 +341,7 @@ const content: FreelanceContent = {
       columns: ["Project", "From (India)", "From (abroad)", "Hosting setup included"],
       rows: [
         ["Static website, up to 100 pages", `From ${P.site}`, `From ${P.siteUsd}`, "CDN hosting, DNS, SSL, email records"],
-        ["SEO website, 700+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "CDN hosting, sitemaps, Search Console"],
+        ["SEO website, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "CDN hosting, sitemaps, Search Console"],
         ["Online store", `From ${P.shop}`, `From ${P.shopUsd}`, "Server or platform, backups, SSL, email"],
         ["Custom web app", `From ${P.software}`, `From ${P.softwareUsd}`, "Cloud or VPS, database, backups, monitoring"],
         ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Renewal checks, updates, backups"],

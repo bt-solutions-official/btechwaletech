@@ -39,7 +39,7 @@ const laharpur: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Durrie and rug export sites", "Hindi and Urdu-friendly pages", "Ownership stays with you"],
   },
   quickAnswer:
-    "Laharpur businesses can get a website from ₹10,000, generally ready in one to two weeks. Android and iOS apps cost from ₹40,000, AI automation from ₹40,000, a 700+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We are remote, keep no Laharpur office, and put every account in your name.",
+    "Laharpur businesses can get a website from ₹10,000, generally ready in one to two weeks. Android and iOS apps cost from ₹40,000, AI automation from ₹40,000, a 299+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We are remote, keep no Laharpur office, and put every account in your name.",
   snapshot: [
     { label: "Status", value: "Municipal board and tehsil headquarters in Sitapur district; PIN 261135" },
     { label: "History", value: "Founded around 1370 in the reign of Firoz Shah Tughlaq; a Mughal-era pargana centre" },
@@ -159,7 +159,7 @@ const laharpur: CityContent = {
       id: "website-cost-laharpur",
       heading: "Website cost in Laharpur: starting prices and what to compare",
       paragraphs: [
-        "Here is where Laharpur projects start. A static website of up to 100 pages is from ₹10,000 and takes one to two weeks. An SEO website of 700+ pages is from ₹20,000 over three to five weeks. Android and iOS apps and AI automation each begin at ₹40,000, online stores at ₹50,000 over four to eight weeks, and custom software at ₹60,000 over six to twelve weeks. Monthly SEO is from ₹10,000 a month.",
+        "Here is where Laharpur projects start. A static website of up to 100 pages is from ₹10,000 and takes one to two weeks. An SEO website of 299+ pages is from ₹20,000 over three to five weeks. Android and iOS apps and AI automation each begin at ₹40,000, online stores at ₹50,000 over four to eight weeks, and custom software at ₹60,000 over six to twelve weeks. Monthly SEO is from ₹10,000 a month.",
         "Totals rise with scope: Hindi, English or Urdu versions, large catalogues, payments and courier integration, staff or weaver logins, and Tally links. If you supply the text and photographs, costs stay near the starting point; writing content or organising a shoot is listed as a separate item.",
         "Prices from other designers in the area differ widely. Before choosing, ask who will own the domain and hosting, whether mobile testing and basic SEO are included, how many revision rounds you get and who fixes things after launch. Our <a href=\"/pricing/\">pricing page</a> shows every starting price, and an itemised written quote reaches you in about two working days.",
       ],
@@ -211,7 +211,7 @@ const laharpur: CityContent = {
     {
       question: "What is the website cost in Laharpur?",
       answer:
-        "Static websites from us start at ₹10,000; SEO websites of 700+ pages from ₹20,000; online stores from ₹50,000; custom software from ₹60,000. They are starting prices only, and Hindi or Urdu content, products and integrations shape the total. A written, itemised quote comes first, and nothing is billed until you approve it.",
+        "Static websites from us start at ₹10,000; SEO websites of 299+ pages from ₹20,000; online stores from ₹50,000; custom software from ₹60,000. They are starting prices only, and Hindi or Urdu content, products and integrations shape the total. A written, itemised quote comes first, and nothing is billed until you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Laharpur businesses?",
@@ -226,7 +226,7 @@ const laharpur: CityContent = {
     {
       question: "How long does a website take for a Laharpur shop?",
       answer:
-        "Once we have your text and photographs, a static website usually takes one to two weeks. SEO websites of 700+ pages need three to five weeks, stores four to eight weeks, and custom software six to twelve weeks. Waiting for content is the most common reason projects slow down.",
+        "Once we have your text and photographs, a static website usually takes one to two weeks. SEO websites of 299+ pages need three to five weeks, stores four to eight weeks, and custom software six to twelve weeks. Waiting for content is the most common reason projects slow down.",
     },
     {
       question: "Who is the best website development team in Laharpur?",
@@ -246,7 +246,7 @@ const laharpur: CityContent = {
     {
       question: "Laharpur me website banwane mein kitne paise lagte hain?",
       answer:
-        "Hamare saath ek saadi website ₹10,000 se shuru hoti hai, aur saamaan milne ke baad ek-do hafte mein ban jaati hai. 700+ page ki SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online dukaan ₹50,000 se shuru hai. Aapke kaam ke hisaab se poora quote likhit mein bhejte hain.",
+        "Hamare saath ek saadi website ₹10,000 se shuru hoti hai, aur saamaan milne ke baad ek-do hafte mein ban jaati hai. 299+ page ki SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online dukaan ₹50,000 se shuru hai. Aapke kaam ke hisaab se poora quote likhit mein bhejte hain.",
     },
     {
       question: "You have no office in Laharpur. How can I be sure of the work?",

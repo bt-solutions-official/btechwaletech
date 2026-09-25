@@ -34,7 +34,7 @@ const naihati: CityContent = {
     pills: ["Websites from ₹10,000", "Bengali and English", "Tutor and coaching sites", "Clinic appointment pages", "WhatsApp auto-replies"],
   },
   quickAnswer:
-    "For a Naihati shop, clinic or coaching centre, a website with us starts from ₹10,000 and is usually live in one to two weeks. A 700+ page SEO site starts from ₹20,000, an online store from ₹50,000 and a custom web app from ₹60,000. We are a remote three-person team with no office in Naihati.",
+    "For a Naihati shop, clinic or coaching centre, a website with us starts from ₹10,000 and is usually live in one to two weeks. A 299+ page SEO site starts from ₹20,000, an online store from ₹50,000 and a custom web app from ₹60,000. We are a remote three-person team with no office in Naihati.",
   snapshot: [
     { label: "Location", value: "Municipal town in North 24 Parganas, on the east bank of the Hooghly, about 38 km from Sealdah by rail" },
     { label: "Transport", value: "Naihati Junction on the Sealdah–Ranaghat line, with the Jubilee and Sampreeti bridges and a ferry to Chinsurah" },
@@ -72,12 +72,12 @@ const naihati: CityContent = {
       heading: "What a website in Naihati should cost",
       paragraphs: [
         "Quotes around Naihati and Barrackpore vary widely. Some freelancers offer a single-page site for very little but keep the domain in their own name. Kolkata agencies may quote much more, bundling social media and ad packages. For a local shop or tuition centre, neither fits well.",
-        "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts from ₹10,000 and usually takes one to two weeks. A 700+ page SEO website starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, custom web apps from ₹60,000, AI and WhatsApp automation from ₹40,000, and monthly SEO from ₹10,000 a month.",
+        "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts from ₹10,000 and usually takes one to two weeks. A 299+ page SEO website starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, custom web apps from ₹60,000, AI and WhatsApp automation from ₹40,000, and monthly SEO from ₹10,000 a month.",
         "A private tutor with five pages needs far less than a sweet shop listing sixty items with photos in two languages. Your quote shows each page and feature separately, and we do not bill anything until you approve it in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, map, enquiry form and search basics. For shops, clinics and tutors.",
-        "<strong>From ₹20,000:</strong> 700+ pages built for many searches. For businesses serving several towns in the belt.",
+        "<strong>From ₹20,000:</strong> 299+ pages built for many searches. For businesses serving several towns in the belt.",
         "<strong>From ₹50,000:</strong> online store with UPI and cards. For sweets, saris and home food brands.",
         "<strong>From ₹60,000:</strong> custom tools with logins, such as fee or job-card systems.",
       ],
@@ -219,12 +219,12 @@ const naihati: CityContent = {
     {
       question: "How much does a website cost in Naihati?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO site from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. The final amount depends on pages, languages and features, and you get an itemised written quote before any work or billing starts.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO site from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. The final amount depends on pages, languages and features, and you get an itemised written quote before any work or billing starts.",
     },
     {
       question: "Naihati te ekta website banate koto khoroch hoy?",
       answer:
-        "Amader kache ekta simple website ₹10,000 theke shuru hoy, 700+ page er SEO website ₹20,000 theke, ar online store ₹50,000 theke. Page, feature ar content er upor final dam nirbhor kore. Kaaj shuru korar age likhito itemised quote pathai, apni approve korle tobei bill hoy.",
+        "Amader kache ekta simple website ₹10,000 theke shuru hoy, 299+ page er SEO website ₹20,000 theke, ar online store ₹50,000 theke. Page, feature ar content er upor final dam nirbhor kore. Kaaj shuru korar age likhito itemised quote pathai, apni approve korle tobei bill hoy.",
     },
     {
       question: "Do you have an office in Naihati or Kolkata?",

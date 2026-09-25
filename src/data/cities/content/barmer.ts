@@ -35,7 +35,7 @@ const barmer: CityContent = {
     pills: ["Websites from ₹10,000", "Contractor capability sites", "Ajrakh and craft stores", "Hindi and English pages", "5 months free maintenance"],
   },
   quickAnswer:
-    "For a Barmer business, our static websites start at ₹10,000 and take one to two weeks. SEO sites with 700+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, handicraft or retail stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Barmer office.",
+    "For a Barmer business, our static websites start at ₹10,000 and take one to two weeks. SEO sites with 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, handicraft or retail stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Barmer office.",
   snapshot: [
     { label: "Position", value: "District headquarters in the Thar Desert of western Rajasthan, on the rail line from Jodhpur to Munabao" },
     { label: "Oil and gas", value: "Mangala, Bhagyam and Aishwariya fields, operated by Cairn with ONGC as partner, among India's largest onshore finds" },
@@ -100,12 +100,12 @@ const barmer: CityContent = {
       heading: "What a website costs in Barmer",
       paragraphs: [
         "Website quotes in Barmer can range from very little at a local computer shop to big numbers from agencies in Jodhpur or Jaipur. The cheapest often come without search setup and with the domain in the developer's name. The biggest are priced for companies with marketing departments.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages starts at ₹10,000 and suits shops, clinics, tutors, hotels and small contractors; it is ready in one to two weeks. A 700+ page SEO site starts at ₹20,000. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, and custom web software such as fleet or manpower registers at ₹60,000. Monthly SEO starts at ₹10,000.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages starts at ₹10,000 and suits shops, clinics, tutors, hotels and small contractors; it is ready in one to two weeks. A 299+ page SEO site starts at ₹20,000. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, and custom web software such as fleet or manpower registers at ₹60,000. Monthly SEO starts at ₹10,000.",
         "Every quote lists pages and features separately. You can remove anything you do not need before approving, and nothing is billed until you agree in writing.",
       ],
       list: [
         "<strong>₹10,000 onwards:</strong> up to 100 pages, mobile layout, map, enquiry form and basic SEO.",
-        "<strong>₹20,000 onwards:</strong> 700+ pages for services, equipment, departments or products.",
+        "<strong>₹20,000 onwards:</strong> 299+ pages for services, equipment, departments or products.",
         "<strong>₹50,000 onwards:</strong> online store with UPI, cards, shipping rules and order alerts.",
         "<strong>₹60,000 onwards:</strong> fleet, manpower, billing or admission systems with logins.",
       ],
@@ -227,7 +227,7 @@ const barmer: CityContent = {
     {
       question: "How much does a website cost in Barmer?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom web software at ₹60,000. These are starting prices; the final figure depends on your pages and features, and you get an itemised written quote before any billing.",
+        "Our static websites start at ₹10,000, 299+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom web software at ₹60,000. These are starting prices; the final figure depends on your pages and features, and you get an itemised written quote before any billing.",
     },
     {
       question: "Barmer me website banwane ka kharcha kitna aata hai?",
@@ -262,7 +262,7 @@ const barmer: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Delays usually come from waiting for photographs and details, so we send a checklist at the start.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Delays usually come from waiting for photographs and details, so we send a checklist at the start.",
     },
     {
       question: "Can you build a fleet or manpower register for my firm?",

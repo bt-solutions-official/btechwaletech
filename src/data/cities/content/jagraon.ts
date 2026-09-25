@@ -39,7 +39,7 @@ const jagraon: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Punjabi and English SEO", "Mandi and dealer software", "Every login in your name"],
   },
   quickAnswer:
-    "In Jagraon, our static business websites start at ₹10,000 and are usually live in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely and have no Jagraon office.",
+    "In Jagraon, our static business websites start at ₹10,000 and are usually live in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely and have no Jagraon office.",
   snapshot: [
     { label: "Administration", value: "Municipal council and sub-division headquarters in Ludhiana district, with its own rural police district" },
     { label: "Distances", value: "About 37 km from Ludhiana, 29 km from Moga, 31 km from Nakodar and 16 km from the Sutlej" },
@@ -165,7 +165,7 @@ const jagraon: CityContent = {
       heading: "Website cost in Jagraon: how our quotes are put together",
       paragraphs: [
         "Whether the question arrives as “Jagraon me website banwana kitne ka hai” or in English, people ask about the <strong>website cost in Jagraon</strong> before anything else, and that is fair. Local quotes vary widely, so compare what is included rather than just the total: who owns the domain, whether hosting renewal is extra, how many revisions are allowed, whether Punjabi content is written properly, and what support you get after launch.",
-        "Our starting prices are public. A static site of up to 100 pages starts at ₹10,000 (one to two weeks). An SEO website with 700+ pages starts at ₹20,000 (three to five weeks). Online stores start at ₹50,000, Android and iOS apps at ₹40,000, AI automation at ₹40,000, and custom software at ₹60,000. See the full list on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our starting prices are public. A static site of up to 100 pages starts at ₹10,000 (one to two weeks). An SEO website with 299+ pages starts at ₹20,000 (three to five weeks). Online stores start at ₹50,000, Android and iOS apps at ₹40,000, AI automation at ₹40,000, and custom software at ₹60,000. See the full list on our <a href=\"/pricing/\">pricing page</a>.",
         "Send us your requirements and you receive an itemised written quote in around two working days. Nothing is billed until you approve it. Monthly SEO starts at ₹10,000 a month, and maintenance starts from ₹8,000 a month after five free months.",
       ],
     },
@@ -216,7 +216,7 @@ const jagraon: CityContent = {
     {
       question: "What is the website cost in Jagraon?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Your quote depends on pages, Punjabi content, products and features, and it comes itemised in writing before any billing starts.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Your quote depends on pages, Punjabi content, products and features, and it comes itemised in writing before any billing starts.",
     },
     {
       question: "How long does a website take for a Jagraon business?",

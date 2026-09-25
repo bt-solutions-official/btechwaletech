@@ -39,7 +39,7 @@ const sandila: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Laddoo shop online stores", "Hindi-first local SEO", "Domain and code stay yours"],
   },
   quickAnswer:
-    "A website for a Sandila business starts at ₹10,000 with us and usually goes live in one to two weeks. Android and iOS apps begin at ₹40,000, AI and WhatsApp automation at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and have no Sandila office.",
+    "A website for a Sandila business starts at ₹10,000 with us and usually goes live in one to two weeks. Android and iOS apps begin at ₹40,000, AI and WhatsApp automation at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and have no Sandila office.",
   snapshot: [
     { label: "Location", value: "Tehsil headquarters in Hardoi district, roughly 50 km from both Lucknow and Hardoi" },
     { label: "Civic history", value: "Nagar Palika Parishad since 1868, the oldest municipality in Hardoi district" },
@@ -222,7 +222,7 @@ const sandila: CityContent = {
     {
       question: "What is the website cost in Sandila?",
       answer:
-        "Static websites start at ₹10,000, SEO websites with 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final amount depends on pages, Hindi and English content, products and integrations, and it reaches you itemised in writing before any billing.",
+        "Static websites start at ₹10,000, SEO websites with 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final amount depends on pages, Hindi and English content, products and integrations, and it reaches you itemised in writing before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Sandila businesses?",
@@ -232,7 +232,7 @@ const sandila: CityContent = {
     {
       question: "How long does it take to build a website in Sandila?",
       answer:
-        "A simple static site usually goes live one to two weeks after we receive your details and photos. A 700+ page SEO website takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Sending content early is the surest way to finish on time.",
+        "A simple static site usually goes live one to two weeks after we receive your details and photos. A 299+ page SEO website takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Sending content early is the surest way to finish on time.",
     },
     {
       question: "Who is the best website development team in Sandila?",
@@ -257,7 +257,7 @@ const sandila: CityContent = {
     {
       question: "Sandila me website banwane ka kharcha kitna aata hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein taiyar ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur laddoo ya kisi bhi saman ka online store ₹50,000 se shuru hota hai. Poora quote har cheez alag likh kar do working din mein milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein taiyar ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur laddoo ya kisi bhi saman ka online store ₹50,000 se shuru hota hai. Poora quote har cheez alag likh kar do working din mein milta hai.",
     },
     {
       question: "You have no office in Sandila. Is remote work reliable?",

@@ -391,7 +391,7 @@ const content: FreelanceContent = {
   related: {
     heading: "Related pages on listing sites, portals and SEO",
     links: [
-      { name: "SEO website developer for 700+ page sites", href: "/seo-website-developer/" },
+      { name: "SEO website developer for 299+ page sites", href: "/seo-website-developer/" },
       { name: "Multi-vendor marketplace development", href: "/marketplace-website-developer/" },
       { name: "Job portal developer", href: "/job-portal-developer/" },
       { name: "Real estate listing websites", href: "/real-estate-website-developer/" },

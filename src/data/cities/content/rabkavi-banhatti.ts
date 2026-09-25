@@ -39,7 +39,7 @@ const rabkaviBanhatti: CityContent = {
     pills: ["Saree catalogue sites from ₹10,000", "Android & iOS apps from ₹40,000", "Kannada local SEO", "Loom and dyeing records", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Rabkavi Banhatti business, our websites start at ₹10,000 and take one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation. A 700+ page SEO site starts at ₹20,000, an online saree store at ₹50,000 and custom software at ₹60,000. We work remotely and you own everything we build.",
+    "For a Rabkavi Banhatti business, our websites start at ₹10,000 and take one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation. A 299+ page SEO site starts at ₹20,000, an online saree store at ₹50,000 and custom software at ₹60,000. We work remotely and you own everything we build.",
   snapshot: [
     { label: "Location", value: "Twin town on the Krishna in Bagalkot district, about 18 km from Jamkhandi" },
     { label: "Town parts", value: "Rabkavi, Banhatti, Hosur and Rampur, run as one city municipal council" },
@@ -149,7 +149,7 @@ const rabkaviBanhatti: CityContent = {
       id: "website-cost-rabkavi",
       heading: "Website cost in Rabkavi Banhatti and how to compare quotes",
       paragraphs: [
-        "Our published starting points for the town are: a static website of up to 100 pages from ₹10,000 in one to two weeks; a 700+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; an online store from ₹50,000 in four to eight weeks; and custom software from ₹60,000 over six to twelve weeks. Monthly SEO begins at ₹10,000 and paid maintenance at ₹8,000 a month.",
+        "Our published starting points for the town are: a static website of up to 100 pages from ₹10,000 in one to two weeks; a 299+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; an online store from ₹50,000 in four to eight weeks; and custom software from ₹60,000 over six to twelve weeks. Monthly SEO begins at ₹10,000 and paid maintenance at ₹8,000 a month.",
         "What raises the <strong>website cost in Rabkavi Banhatti</strong> is scope: a large design catalogue, both Kannada and English versions, wholesale and retail prices, payment and courier set-up, dealer logins or a link to Tally. Content matters too. If you supply text and photos, the quote stays lower; if we write copy and edit images, it is listed as a separate item.",
         "Local quotes vary widely, so compare like with like. Ask whose name the domain and hosting will be in, whether mobile testing and basic SEO are included, how many change rounds you get, and who fixes problems after launch. Our full breakdown is on the <a href=\"/pricing/\">pricing page</a>.",
       ],
@@ -210,7 +210,7 @@ const rabkaviBanhatti: CityContent = {
     {
       question: "What is the website cost in Rabkavi Banhatti?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices only. The final quote depends on pages or designs, Kannada and English versions, payment set-up and integrations, and every item is listed separately before you approve anything.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices only. The final quote depends on pages or designs, Kannada and English versions, payment set-up and integrations, and every item is listed separately before you approve anything.",
     },
     {
       question: "Do you build Android and iOS apps for Rabkavi Banhatti businesses?",
@@ -220,7 +220,7 @@ const rabkaviBanhatti: CityContent = {
     {
       question: "How long does a website take for a Banhatti saree unit?",
       answer:
-        "A static catalogue site usually goes live in one to two weeks after we receive your photographs and details. A 700+ page SEO site takes three to five weeks, an online saree store four to eight weeks, and custom production software six to twelve weeks. The biggest delay is usually photographing designs, so plan that early.",
+        "A static catalogue site usually goes live in one to two weeks after we receive your photographs and details. A 299+ page SEO site takes three to five weeks, an online saree store four to eight weeks, and custom production software six to twelve weeks. The biggest delay is usually photographing designs, so plan that early.",
     },
     {
       question: "Which is the best website development team in Rabkavi Banhatti?",
@@ -245,7 +245,7 @@ const rabkaviBanhatti: CityContent = {
     {
       question: "Rabkavi Banhatti me website banwane me kitna kharcha aata hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur lagbhag ek-do hafte mein taiyaar ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online saree store ₹50,000 se shuru hota hai. Final quote pages aur features par depend karta hai, aur approval se pehle kuch bill nahi hota.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur lagbhag ek-do hafte mein taiyaar ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online saree store ₹50,000 se shuru hota hai. Final quote pages aur features par depend karta hai, aur approval se pehle kuch bill nahi hota.",
     },
     {
       question: "You have no office in Rabkavi Banhatti. How does remote work stay safe?",

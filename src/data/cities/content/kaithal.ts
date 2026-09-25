@@ -35,7 +35,7 @@ const kaithal: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi, Haryanvi-friendly copy", "Rice mill catalogues", "Arhtiya ledgers on the phone", "Google Maps setup"],
   },
   quickAnswer:
-    "A business website in Kaithal starts from ₹10,000 with us and is usually live in one to two weeks. A 700+ page SEO website starts at ₹20,000, WhatsApp and AI automation from ₹40,000 and an online store from ₹50,000. We are a remote three-person team with no Kaithal office, and maintenance is free for five months after launch.",
+    "A business website in Kaithal starts from ₹10,000 with us and is usually live in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp and AI automation from ₹40,000 and an online store from ₹50,000. We are a remote three-person team with no Kaithal office, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of Kaithal district, formed on 1 November 1989, bordering Patiala in Punjab and Kurukshetra, Karnal and Jind districts" },
     { label: "Tehsils", value: "Kaithal, Guhla, Pundri and Kalayat, with sub-tehsils at Rajaund, Dhand and Siwan" },
@@ -78,7 +78,7 @@ const kaithal: CityContent = {
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, WhatsApp button, map and enquiry form. Suits shops, clinics, tutors and dealers.",
-        "<strong>From ₹20,000:</strong> 700+ pages for mills, exporters and institutes that want steady search traffic.",
+        "<strong>From ₹20,000:</strong> 299+ pages for mills, exporters and institutes that want steady search traffic.",
         "<strong>From ₹50,000:</strong> online store with UPI and card payments for packed rice, dairy or farm products.",
         "<strong>From ₹60,000:</strong> custom tools with logins, such as purchase registers, farmer ledgers and dispatch tracking.",
       ],
@@ -209,12 +209,12 @@ const kaithal: CityContent = {
     {
       question: "How much does a website cost in Kaithal?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO website from ₹20,000, automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices; your written quote depends on pages, features and content, and nothing is billed before you approve it.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO website from ₹20,000, automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices; your written quote depends on pages, features and content, and nothing is billed before you approve it.",
     },
     {
       question: "Kaithal me website banwane ka kharcha kitna hai?",
       answer:
-        "Humare saath simple business website ₹10,000 se shuru hoti hai aur 700+ page wali SEO website ₹20,000 se. Online store ₹50,000 se aur mandi ya mill ka software ₹60,000 se shuru hota hai. Aapko pehle likhit, itemised quote milta hai, aur aapki manzoori ke baad hi kaam aur bill shuru hota hai.",
+        "Humare saath simple business website ₹10,000 se shuru hoti hai aur 299+ page wali SEO website ₹20,000 se. Online store ₹50,000 se aur mandi ya mill ka software ₹60,000 se shuru hota hai. Aapko pehle likhit, itemised quote milta hai, aur aapki manzoori ke baad hi kaam aur bill shuru hota hai.",
     },
     {
       question: "Do you have an office in Kaithal?",
@@ -254,7 +254,7 @@ const kaithal: CityContent = {
     {
       question: "How long will my website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, automation two to four weeks, an online store four to eight weeks and custom software six to twelve. Photos and product details from your side are usually the slowest part, so we send a checklist early.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, automation two to four weeks, an online store four to eight weeks and custom software six to twelve. Photos and product details from your side are usually the slowest part, so we send a checklist early.",
     },
     {
       question: "Will I own the domain, hosting and code?",

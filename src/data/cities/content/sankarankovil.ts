@@ -39,7 +39,7 @@ const sankarankovil: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Tamil-first local SEO", "Towel and lungi catalogues", "Every account in your name"],
   },
   quickAnswer:
-    "A Sankarankovil business website with us starts at ₹10,000 and is usually live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Sankarankovil office.",
+    "A Sankarankovil business website with us starts at ₹10,000 and is usually live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Sankarankovil office.",
   snapshot: [
     { label: "District", value: "Tenkasi district, and headquarters of one of its two revenue divisions" },
     { label: "Civic status", value: "First grade municipality and the district's third largest town, about 70,500 people in 2011" },
@@ -156,7 +156,7 @@ const sankarankovil: CityContent = {
       id: "website-cost-sankarankovil",
       heading: "Website cost in Sankarankovil: starting prices and fair comparisons",
       paragraphs: [
-        "Here are our starting prices for Sankarankovil projects. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000 over three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 a month. See the full list on our <a href=\"/pricing/\">pricing page</a>.",
+        "Here are our starting prices for Sankarankovil projects. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000 over three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 a month. See the full list on our <a href=\"/pricing/\">pricing page</a>.",
         "Costs rise with more pages, Tamil and English versions, large product ranges with many colour variants, payment gateways, logins or Tally integration. If you provide your own text and photographs, the quote stays nearer the starting figure. If we write and organise everything, that appears as a separate line.",
         "Quotes around town vary widely. When comparing, ask whose name the domain and hosting will be in, whether mobile testing and basic SEO are included, how many revisions you get, and who fixes problems after launch. The answers matter more than the headline figure.",
         "Our itemised quote reaches you in about two working days, and nothing is billed until you approve it in writing.",
@@ -218,7 +218,7 @@ const sankarankovil: CityContent = {
     {
       question: "What is the website cost in Sankarankovil?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices only. The final quote depends on pages, Tamil content, products and integrations, and you get it itemised in writing before anything is billed.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices only. The final quote depends on pages, Tamil content, products and integrations, and you get it itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Sankarankovil businesses?",
@@ -228,7 +228,7 @@ const sankarankovil: CityContent = {
     {
       question: "How long does it take to build a website in Sankarankovil?",
       answer:
-        "A static site usually goes live within one to two weeks of receiving your content and photographs. A 700+ page SEO website takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Ready content is the biggest factor in speed.",
+        "A static site usually goes live within one to two weeks of receiving your content and photographs. A 299+ page SEO website takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Ready content is the biggest factor in speed.",
     },
     {
       question: "Who is the best website development team in Sankarankovil?",
@@ -253,7 +253,7 @@ const sankarankovil: CityContent = {
     {
       question: "Sankarankovil-la website seyya evvalavu selavagum?",
       answer:
-        "Engaludan oru simple website ₹10,000-il irundhu thodangugiradhu, pothuvaaga ondru mudhal irandu vaarangalil ready aagum. 700+ page SEO website ₹20,000 mudhal, Android matrum iOS app ₹40,000 mudhal thodangugiradhu. Ungal pages matrum features-ai poruthu ezhuthu moolam quote anuppuvom.",
+        "Engaludan oru simple website ₹10,000-il irundhu thodangugiradhu, pothuvaaga ondru mudhal irandu vaarangalil ready aagum. 299+ page SEO website ₹20,000 mudhal, Android matrum iOS app ₹40,000 mudhal thodangugiradhu. Ungal pages matrum features-ai poruthu ezhuthu moolam quote anuppuvom.",
     },
     {
       question: "You have no office in Sankarankovil. Is remote work reliable?",

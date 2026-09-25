@@ -227,7 +227,7 @@ const content: CityContent = {
       id: "it-services-nagaland-cost",
       heading: "How much do IT services in Nagaland cost?",
       paragraphs: [
-        "Nagaland clients pay from ₹10,000 for a static site, from ₹20,000 for a 700+ page SEO build, from ₹40,000 for either an automation or a cross-platform Android and iOS app, from ₹50,000 for an ecommerce store and from ₹60,000 for bespoke software. Ongoing SEO begins at ₹10,000 per month and upkeep plans at ₹8,000 per month.",
+        "Nagaland clients pay from ₹10,000 for a static site, from ₹20,000 for a 299+ page SEO build, from ₹40,000 for either an automation or a cross-platform Android and iOS app, from ₹50,000 for an ecommerce store and from ₹60,000 for bespoke software. Ongoing SEO begins at ₹10,000 per month and upkeep plans at ₹8,000 per month.",
         "Scope sets the final figure: pages or screens, user roles, offline features, integrations, data migration and content. District does not change the rate, since all work is remote. Estimates are itemised so you can phase features.",
         "Billing is in rupees and staged by milestone. We take money in exactly two ways, a UPI scan of our QR code or a direct transfer into our bank account, and each instalment is raised only after you have seen the work it pays for.",
       ],
@@ -236,7 +236,7 @@ const content: CityContent = {
       id: "it-services-nagaland-timeline",
       heading: "How long do IT projects in Nagaland take?",
       paragraphs: [
-        "Timelines for Nagaland projects run roughly as follows: a static site needs a week or two, a WhatsApp or AI automation two to four weeks, a 700+ page SEO build three to five, an ecommerce store four to eight, a cross-platform mobile app six to ten, and a bespoke software system six to twelve. How fast photos, price lists and sign-offs reach us usually sets the real pace.",
+        "Timelines for Nagaland projects run roughly as follows: a static site needs a week or two, a WhatsApp or AI automation two to four weeks, a 299+ page SEO build three to five, an ecommerce store four to eight, a cross-platform mobile app six to ten, and a bespoke software system six to twelve. How fast photos, price lists and sign-offs reach us usually sets the real pace.",
         "We plan around the state calendar: the Hornbill Festival in December, Christmas and New Year, and major tribal festivals such as Moatsü, Sekrenyi and Tuluni. Tourism businesses should start website and booking work months before Hornbill season.",
         "See our <a href='/portfolio/'>portfolio</a> for past work and our <a href='/about/'>about page</a> for who we are.",
       ],

@@ -35,7 +35,7 @@ const firozabad: CityContent = {
     pills: ["Websites from ₹10,000", "Catalogues for bulk buyers", "Hindi and English SEO", "WhatsApp order flows", "UPI stores"],
   },
   quickAnswer:
-    "In Firozabad, a website from our team starts at ₹10,000 for a static site and ₹20,000 for a 700+ page SEO site, with online stores from ₹50,000 and custom order systems from ₹60,000. We are a remote freelance team of three engineers, so no office costs are added, and the first five months of maintenance are free.",
+    "In Firozabad, a website from our team starts at ₹10,000 for a static site and ₹20,000 for a 299+ page SEO site, with online stores from ₹50,000 and custom order systems from ₹60,000. We are a remote freelance team of three engineers, so no office costs are added, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Known as", value: "India's glass city, and among the world's largest centres of glass bangle making" },
     { label: "Main products", value: "Glass bangles and kadas, tableware, jars, vases, candle stands, chandeliers and decorative lights" },
@@ -73,12 +73,12 @@ const firozabad: CityContent = {
       heading: "How much does a website cost in Firozabad?",
       paragraphs: [
         "Prices quoted in Firozabad for a small website swing from a couple of thousand rupees to amounts that make owners give up on the idea. The cheapest often come with hosting in someone else's name and no plan for adding products later. The expensive ones are usually priced for a big-city agency, not for a trading firm with one computer.",
-        "Our rates are listed openly. A static site of up to 100 pages starts at ₹10,000 and can be live in one to two weeks. A 700+ page site, with a page for each product line and the searches buyers use, starts at ₹20,000 and takes three to five weeks. An online store with UPI and card payments starts at ₹50,000 and takes four to eight weeks. A custom order and dealer system starts at ₹60,000 and takes six to twelve weeks. Automation, such as a WhatsApp ordering flow, starts at ₹40,000, and monthly SEO at ₹10,000.",
+        "Our rates are listed openly. A static site of up to 100 pages starts at ₹10,000 and can be live in one to two weeks. A 299+ page site, with a page for each product line and the searches buyers use, starts at ₹20,000 and takes three to five weeks. An online store with UPI and card payments starts at ₹50,000 and takes four to eight weeks. A custom order and dealer system starts at ₹60,000 and takes six to twelve weeks. Automation, such as a WhatsApp ordering flow, starts at ₹40,000, and monthly SEO at ₹10,000.",
         "The number of designs, whether you have photographs ready and how many buyer types you sell to all affect the final figure. The quote lists each item separately, so you can start small and add later.",
       ],
       list: [
         "<strong>Static site, from ₹10,000:</strong> company profile, product categories, contact and WhatsApp buttons, basic SEO. Suits traders and smaller units.",
-        "<strong>SEO site, from ₹20,000:</strong> 700+ pages with a page per product line, schema and a sitemap submitted to Google.",
+        "<strong>SEO site, from ₹20,000:</strong> 299+ pages with a page per product line, schema and a sitemap submitted to Google.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart, UPI and card checkout, shipping rules for fragile goods, order alerts.",
         "<strong>Order system, from ₹60,000:</strong> buyer logins, dealer rates, order history and dispatch tracking.",
       ],
@@ -218,7 +218,7 @@ const firozabad: CityContent = {
     {
       question: "How much does a website cost in Firozabad?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom order system at ₹60,000. Local quotes vary a lot, so check who will own the domain and hosting, whether product updates are easy, and what help you get after launch.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom order system at ₹60,000. Local quotes vary a lot, so check who will own the domain and hosting, whether product updates are easy, and what help you get after launch.",
     },
     {
       question: "Firozabad me chudi business ki website kitne me banegi?",
@@ -248,7 +248,7 @@ const firozabad: CityContent = {
     {
       question: "How long does it take to build the website?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, a store four to eight weeks and a custom order system six to twelve weeks. Product photographs are usually the slowest part, so we can start with your best designs and add the rest as they are ready.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, a store four to eight weeks and a custom order system six to twelve weeks. Product photographs are usually the slowest part, so we can start with your best designs and add the rest as they are ready.",
     },
     {
       question: "Will SEO help buyers from other states find me?",

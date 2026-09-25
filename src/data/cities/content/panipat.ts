@@ -35,7 +35,7 @@ const panipat: CityContent = {
     pills: ["Export-ready catalogues", "Sites from ₹10,000", "Buyer-focused SEO", "UPI and card stores", "WhatsApp order flows"],
   },
   quickAnswer:
-    "For Panipat businesses, a static website costs from ₹10,000 (one to two weeks), a 700+ page SEO or catalogue site from ₹20,000 (three to five weeks) and an online store from ₹50,000. We are three remote engineers with no Panipat office, so prices carry no overheads, and every build includes five free months of maintenance.",
+    "For Panipat businesses, a static website costs from ₹10,000 (one to two weeks), a 299+ page SEO or catalogue site from ₹20,000 (three to five weeks) and an online store from ₹50,000. We are three remote engineers with no Panipat office, so prices carry no overheads, and every build includes five free months of maintenance.",
   snapshot: [
     { label: "Main trade", value: "Home furnishings, carpets, rugs, bath mats, curtains, bedsheets and handloom made for export" },
     { label: "Recycling", value: "Widely described as the world's largest centre for shoddy yarn, and the source of most of India's blankets" },
@@ -73,12 +73,12 @@ const panipat: CityContent = {
       heading: "How much a website costs in Panipat",
       paragraphs: [
         "Panipat quotes run from a few thousand rupees for a template to lakhs for an agency-built export site. The cheap end rarely includes proper product pages or SEO, and the domain often stays with the developer. The expensive end often pays for account managers and presentations rather than more useful work.",
-        "Our starting prices are published. A static site of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks. A 700+ page site, which suits most exporters as a structured catalogue with one page per product family, starts at ₹20,000 and takes three to five weeks. A retail store with UPI and card checkout starts at ₹50,000. Buyer portals and custom tools start at ₹60,000, automation at ₹40,000, and monthly SEO at ₹10,000. Everything is listed on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our starting prices are published. A static site of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks. A 299+ page site, which suits most exporters as a structured catalogue with one page per product family, starts at ₹20,000 and takes three to five weeks. A retail store with UPI and card checkout starts at ₹50,000. Buyer portals and custom tools start at ₹60,000, automation at ₹40,000, and monthly SEO at ₹10,000. Everything is listed on our <a href=\"/pricing/\">pricing page</a>.",
         "Large catalogues change the price more than anything else. Uploading forty products with good photographs and specifications is a different job from uploading four hundred with missing details. We quote by page and feature, and you can remove or phase items to fit your budget. Nothing is billed until you approve the quote in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> site of up to 100 pages for shops, clinics, consultants and schools",
-        "<strong>From ₹20,000:</strong> 700+ page catalogue or SEO site for exporters and manufacturers",
+        "<strong>From ₹20,000:</strong> 299+ page catalogue or SEO site for exporters and manufacturers",
         "<strong>From ₹50,000:</strong> online store for bedsheets, rugs, cushions or pickles",
         "<strong>From ₹60,000:</strong> buyer portal, sample tracker or order system",
       ],
@@ -210,12 +210,12 @@ const panipat: CityContent = {
     {
       question: "How much does a website cost for a Panipat exporter?",
       answer:
-        "Most exporters start with our 700+ page catalogue site at ₹20,000, which covers structured product-family pages, schema and a sample request form. Larger catalogues with a buyer login or portal start at ₹60,000. The final price depends on product count and how much content is ready, and you get an itemised quote first.",
+        "Most exporters start with our 299+ page catalogue site at ₹20,000, which covers structured product-family pages, schema and a sample request form. Larger catalogues with a buyer login or portal start at ₹60,000. The final price depends on product count and how much content is ready, and you get an itemised quote first.",
     },
     {
       question: "Panipat me website banwane ka kharcha kitna hai?",
       answer:
-        "Chhoti business website ₹10,000 se shuru hoti hai aur 700+ pages wali catalogue ya SEO website ₹20,000 se. Online store ₹50,000 se banta hai. Kitne products hain, photos aur description ready hain ya nahi, isse final rate banta hai. Kaam se pehle poora quote likh kar milta hai.",
+        "Chhoti business website ₹10,000 se shuru hoti hai aur 299+ pages wali catalogue ya SEO website ₹20,000 se. Online store ₹50,000 se banta hai. Kitne products hain, photos aur description ready hain ya nahi, isse final rate banta hai. Kaam se pehle poora quote likh kar milta hai.",
     },
     {
       question: "Do you have an office in Panipat?",
@@ -245,7 +245,7 @@ const panipat: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site takes one to two weeks, a 700+ page catalogue or SEO site three to five weeks, an online store four to eight weeks and a custom portal six to twelve weeks. Large catalogues depend on how quickly product photos and details are ready, so we give you a simple template for collecting them.",
+        "A static site takes one to two weeks, a 299+ page catalogue or SEO site three to five weeks, an online store four to eight weeks and a custom portal six to twelve weeks. Large catalogues depend on how quickly product photos and details are ready, so we give you a simple template for collecting them.",
     },
     {
       question: "Do you work with businesses in Karnal, Sonipat, Samalkha and Jind?",

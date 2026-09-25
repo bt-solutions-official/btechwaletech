@@ -199,7 +199,7 @@ const content: CityContent = {
       id: "software-cost-mangaluru",
       heading: "What does a software development team in Mangaluru cost compared with freelancers?",
       paragraphs: [
-        "A software development team in Mangaluru usually prices in office rent, sales staff and management layers, so the same scope often costs more than with a freelance group. Our starting prices are public: websites ₹10,000, 700+ page SEO websites ₹20,000, AI automation ₹40,000, Android and iOS apps ₹40,000, ecommerce ₹50,000, custom software ₹60,000, monthly SEO ₹10,000 and maintenance ₹8,000 a month.",
+        "A software development team in Mangaluru usually prices in office rent, sales staff and management layers, so the same scope often costs more than with a freelance group. Our starting prices are public: websites ₹10,000, 299+ page SEO websites ₹20,000, AI automation ₹40,000, Android and iOS apps ₹40,000, ecommerce ₹50,000, custom software ₹60,000, monthly SEO ₹10,000 and maintenance ₹8,000 a month.",
         "The final figure depends on user roles, screens, reports, integrations such as Tally or hospital billing systems, data migration and design. The full table is on our <a href='/pricing/'>pricing page</a>, and each quote is itemised so you can trim modules to budget. Payment is in INR by UPI QR or bank transfer, split into milestones.",
       ],
     },

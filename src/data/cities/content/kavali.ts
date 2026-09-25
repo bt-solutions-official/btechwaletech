@@ -39,7 +39,7 @@ const kavali: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu-first local SEO", "Aqua farm record tools", "You hold every login"],
   },
   quickAnswer:
-    "For Kavali businesses, our websites start at ₹10,000 and go live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO website at ₹20,000, an ecommerce store at ₹50,000 and custom software at ₹60,000. We work remotely with no office in Kavali, and every account stays in your name.",
+    "For Kavali businesses, our websites start at ₹10,000 and go live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO website at ₹20,000, an ecommerce store at ₹50,000 and custom software at ₹60,000. We work remotely with no office in Kavali, and every account stays in your name.",
   snapshot: [
     { label: "Status", value: "Grade I municipality; headquarters of Kavali mandal and Kavali revenue division in Nellore district" },
     { label: "Population", value: "About 90,000 in the 2011 Census" },
@@ -161,7 +161,7 @@ const kavali: CityContent = {
       id: "website-cost-kavali",
       heading: "Website cost in Kavali: starting prices and what adds to them",
       paragraphs: [
-        "Our starting prices for Kavali are published. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000 over three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
+        "Our starting prices for Kavali are published. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000 over three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
         "The final quote depends on scope: more pages, both Telugu and English versions, large product lists, logins, payments, courier set-up and links to Tally. If you give us text and photographs, the price stays near the starting figure; writing and photo work appear as separate lines.",
         "Quotes from local designers vary widely. When you compare, ask whose name the domain and hosting will be in, whether mobile testing and basic SEO are included, how many change rounds you get, and who fixes problems after launch. Our <a href=\"/pricing/\">pricing page</a> lists the starting points; the written quote arrives in about two working days.",
       ],
@@ -213,7 +213,7 @@ const kavali: CityContent = {
     {
       question: "What is the website cost in Kavali?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices, and your quote depends on pages, Telugu content, products and integrations. It comes itemised in writing, and nothing is billed before you approve it.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices, and your quote depends on pages, Telugu content, products and integrations. It comes itemised in writing, and nothing is billed before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Kavali businesses?",
@@ -228,7 +228,7 @@ const kavali: CityContent = {
     {
       question: "How long does a website take in Kavali?",
       answer:
-        "A static website is usually live in one to two weeks once your text and photos arrive. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Content being ready is the biggest factor in speed.",
+        "A static website is usually live in one to two weeks once your text and photos arrive. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Content being ready is the biggest factor in speed.",
     },
     {
       question: "Who is the best website development team in Kavali?",
@@ -248,12 +248,12 @@ const kavali: CityContent = {
     {
       question: "Kavali me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein ban jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Final quote aapke pages aur features ke hisaab se likhit mein milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein ban jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Final quote aapke pages aur features ke hisaab se likhit mein milta hai.",
     },
     {
       question: "Kavali lo website cheyinchadaniki entha kharchu avutundi?",
       answer:
-        "Maa daggara simple website ₹10,000 nundi modalavutundi, okati rendu vaaralalo ready avutundi. 700+ pages SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalavutayi. Poorthi quote prathi item vidiga raasi, mee approval tharvathe bill chestamu.",
+        "Maa daggara simple website ₹10,000 nundi modalavutundi, okati rendu vaaralalo ready avutundi. 299+ pages SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalavutayi. Poorthi quote prathi item vidiga raasi, mee approval tharvathe bill chestamu.",
     },
     {
       question: "You have no office in Kavali. How is remote work safe?",

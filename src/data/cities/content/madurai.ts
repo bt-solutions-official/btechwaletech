@@ -35,7 +35,7 @@ const madurai: CityContent = {
     pills: ["Sites from ₹10,000", "Tamil and English pages", "UPI online stores", "Hotel and lodge bookings", "WhatsApp replies on autopilot"],
   },
   quickAnswer:
-    "A business website for a Madurai firm starts at ₹10,000 with us and is usually live within two weeks. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and automation at ₹40,000. We are a remote three-person team with no Madurai office, and every build includes five months of free maintenance.",
+    "A business website for a Madurai firm starts at ₹10,000 with us and is usually live within two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and automation at ₹40,000. We are a remote three-person team with no Madurai office, and every build includes five months of free maintenance.",
   snapshot: [
     { label: "Commercial core", value: "The Masi streets and Chithirai streets around the Meenakshi Amman Temple, Simmakkal, Anna Nagar and KK Nagar" },
     { label: "IT locations", value: "ELCOT IT SEZ at Vadapalanji (tenants include HCL and Honeywell) and the ELCOT park at Ilanthaikulam" },
@@ -73,12 +73,12 @@ const madurai: CityContent = {
       heading: "How much does a website cost in Madurai?",
       paragraphs: [
         "Ask five developers in Madurai for a five-page website and you might hear anything from ₹2,500 to ₹50,000. The cheapest offers usually recycle a template, leave SEO out entirely and host the site on the developer's own account. The priciest ones fund an office, a salesperson and a manager who relays your requests to someone you never speak to. Neither extreme tells you much about the quality of the finished site.",
-        "Our pricing is published, and each figure is a starting point. A static site for a clinic, lodge or small shop begins at ₹10,000 and typically takes one to two weeks. A 700+ page site built around real search terms, with a separate page for each service, starts at ₹20,000 and takes three to five weeks. Online stores with cart and UPI checkout start at ₹50,000. Custom systems such as booking engines or dealer portals start at ₹60,000, automation at ₹40,000, and ongoing SEO at ₹10,000 a month. See the full breakdown on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our pricing is published, and each figure is a starting point. A static site for a clinic, lodge or small shop begins at ₹10,000 and typically takes one to two weeks. A 299+ page site built around real search terms, with a separate page for each service, starts at ₹20,000 and takes three to five weeks. Online stores with cart and UPI checkout start at ₹50,000. Custom systems such as booking engines or dealer portals start at ₹60,000, automation at ₹40,000, and ongoing SEO at ₹10,000 a month. See the full breakdown on our <a href=\"/pricing/\">pricing page</a>.",
         "Two things move the price most: how many products or pages you need, and whether you have the content ready. A weaver with thirty well-photographed sarees pays less than a trader with four hundred items and no descriptions. Either way, you see the itemised figure first and nothing is billed until you say yes in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form, Google Maps embed and basic SEO. Good for clinics, lodges, tutors and consultants.",
-        "<strong>From ₹20,000:</strong> 700+ pages, schema and sitemap, service and area pages. Good for hospitals, schools and service firms that want Google enquiries.",
+        "<strong>From ₹20,000:</strong> 299+ pages, schema and sitemap, service and area pages. Good for hospitals, schools and service firms that want Google enquiries.",
         "<strong>From ₹50,000:</strong> product catalogue, cart, UPI and card payments, order emails. Good for saree, snack and handicraft sellers.",
         "<strong>From ₹60,000:</strong> logins, dashboards and integrations. Good for wholesalers, manufacturers and hotel groups.",
       ],
@@ -209,12 +209,12 @@ const madurai: CityContent = {
     {
       question: "How much does a website cost in Madurai?",
       answer:
-        "With us, a static site starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Madurai quotes vary widely for similar work, so compare what is included: SEO setup, whether you own the hosting, and what support you get after launch.",
+        "With us, a static site starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Madurai quotes vary widely for similar work, so compare what is included: SEO setup, whether you own the hosting, and what support you get after launch.",
     },
     {
       question: "Madurai-la oru website panna evvalavu aagum?",
       answer:
-        "Oru simple business website ₹10,000-la irundhu start aagum. 700+ pages SEO website ₹20,000-la irundhu, online store ₹50,000-la irundhu. Pages, features, content ellam paathu final price solluvom. Velai aarambikkum munnaadi itemised quote anuppuvom, neenga ok sonna apram dhaan bill.",
+        "Oru simple business website ₹10,000-la irundhu start aagum. 299+ pages SEO website ₹20,000-la irundhu, online store ₹50,000-la irundhu. Pages, features, content ellam paathu final price solluvom. Velai aarambikkum munnaadi itemised quote anuppuvom, neenga ok sonna apram dhaan bill.",
     },
     {
       question: "Do you have an office in Madurai?",
@@ -234,7 +234,7 @@ const madurai: CityContent = {
     {
       question: "How long will it take to build my website?",
       answer:
-        "A static site usually takes one to two weeks. A 700+ page SEO site takes three to five weeks, an online store four to eight, and a custom application six to twelve. The most common delay is waiting for photos and text, so we draft starter content for you to correct rather than leaving empty pages.",
+        "A static site usually takes one to two weeks. A 299+ page SEO site takes three to five weeks, an online store four to eight, and a custom application six to twelve. The most common delay is waiting for photos and text, so we draft starter content for you to correct rather than leaving empty pages.",
     },
     {
       question: "Can you build a direct booking website for my hotel or lodge?",

@@ -35,7 +35,7 @@ const raayachuru: CityContent = {
     pills: ["Sites from ₹10,000", "Kannada, Telugu, Urdu, English", "Rice and cotton trade pages", "Clinic appointment flows", "Five months free upkeep"],
   },
   quickAnswer:
-    "In Raichur, a business website with our team starts from ₹10,000 and takes one to two weeks. A 700+ page SEO website starts from ₹20,000, AI and WhatsApp automation from ₹40,000 and an online store from ₹50,000. We are a remote three-person team with no Raichur office, and the first five months of maintenance cost nothing.",
+    "In Raichur, a business website with our team starts from ₹10,000 and takes one to two weeks. A 299+ page SEO website starts from ₹20,000, AI and WhatsApp automation from ₹40,000 and an online store from ₹50,000. We are a remote three-person team with no Raichur office, and the first five months of maintenance cost nothing.",
   snapshot: [
     { label: "Location", value: "Deccan plateau doab between the Krishna and Tungabhadra rivers, near the Telangana and Andhra Pradesh borders" },
     { label: "Known as", value: "“Cotton City”, with a large paddy belt in Sindhanur taluk fed by Tungabhadra water" },
@@ -73,12 +73,12 @@ const raayachuru: CityContent = {
       heading: "What a website costs in Raichur, with the numbers written down",
       paragraphs: [
         "Ask around in Raichur and you will get quotes between a few thousand rupees for a single template page and several lakh from city agencies. The low quotes often skip search setup, keep the domain in the developer's name and disappear after launch. The high ones may be good work but include costs that a mill or a clinic in Raichur does not need to carry.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages for a shop, clinic, tutor or small firm starts from ₹10,000 and is usually ready in one to two weeks. An SEO website of 700+ pages, planned around real searches for your trade, starts from ₹20,000 and takes three to five weeks. AI automation begins from ₹40,000, an online store from ₹50,000, a custom web application from ₹60,000 and monthly SEO from ₹10,000.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages for a shop, clinic, tutor or small firm starts from ₹10,000 and is usually ready in one to two weeks. An SEO website of 299+ pages, planned around real searches for your trade, starts from ₹20,000 and takes three to five weeks. AI automation begins from ₹40,000, an online store from ₹50,000, a custom web application from ₹60,000 and monthly SEO from ₹10,000.",
         "Your final figure depends on pages, features, languages and how much content you already have. We send an itemised quote in about two working days, and we bill nothing until you approve it in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form, map and basic SEO for shops, clinics and tutors.",
-        "<strong>From ₹20,000:</strong> 700+ pages covering products, services, varieties or localities for mills, hospitals and colleges.",
+        "<strong>From ₹20,000:</strong> 299+ pages covering products, services, varieties or localities for mills, hospitals and colleges.",
         "<strong>From ₹50,000:</strong> online store with cart, UPI, cards and delivery rules for rice brands and retailers.",
         "<strong>From ₹60,000:</strong> custom systems with logins, reports and dashboards for traders, contractors and institutions.",
       ],
@@ -218,7 +218,7 @@ const raayachuru: CityContent = {
     {
       question: "How much does a website cost in Raichur?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO website from ₹20,000, AI automation from ₹40,000, an online store from ₹50,000 and a custom web application from ₹60,000. The final amount depends on pages, languages and features, and you receive an itemised written quote before anything is billed.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO website from ₹20,000, AI automation from ₹40,000, an online store from ₹50,000 and a custom web application from ₹60,000. The final amount depends on pages, languages and features, and you receive an itemised written quote before anything is billed.",
     },
     {
       question: "Raichur alli website maadisalu eshtu kharchu aagutte?",

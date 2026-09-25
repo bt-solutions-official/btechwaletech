@@ -1,0 +1,416 @@
+import { usd } from "@data/countries/international";
+import type { FreelanceContent } from "@data/freelance/types";
+
+const P = {
+  site: usd("Static"), seoSite: usd("SEO website"), shop: usd("Ecommerce"), app: usd("Android"),
+  software: usd("Custom web app"), ai: usd("AI automation"), seo: usd("Monthly SEO"), care: usd("Maintenance"),
+};
+
+const G_HREFLANG = "https://developers.google.com/search/docs/specialty/international/localized-versions";
+const G_MULTI = "https://developers.google.com/search/docs/specialty/international/managing-multi-regional-sites";
+const SHOPIFY_LANG = "https://help.shopify.com/en/manual/international/languages";
+
+const content: FreelanceContent = {
+  path: "/canada/bilingual-website-development/",
+  crumb: "Bilingual website development English French",
+  updated: "2026-09-25",
+  meta: {
+    title: `Bilingual Website Development English French: ${P.site}+`,
+    description: `Bilingual website development in English and French, built properly: separate en-CA and fr-CA URLs, hreflang, real switchers and layouts for French. From ${P.site}.`,
+    keywords: [
+      "bilingual website development english french", "bilingual website development", "english french website development",
+      "bilingual website canada", "french english website design", "how to build a bilingual website", "bilingual website hreflang en-ca fr-ca",
+      "language switcher best practices", "wpml vs polylang bilingual site", "shopify markets french english", "shopify bilingual store canada",
+      "bilingual website cost canada", "translate website into french canada", "bilingual website seo", "fr-ca hreflang",
+      "bilingual wordpress developer", "bilingual website developer ottawa", "bilingual website montreal", "bilingual website moncton",
+      "bilingual website toronto", "bilingual website near me", "subfolder vs subdomain french site", "why not use google translate widget on website",
+      "bilingual web app english french", "bilingual website for small business",
+    ],
+  },
+  hero: {
+    eyebrow: "English + French · built in, not bolted on · Canada",
+    h1: "Bilingual website development in English and French, built into the structure from the first template",
+    lede: `Bilingual website development in English and French is not a translation plugin switched on at the end; it is URL design, templates, navigation, forms, emails and search markup planned for two languages at once. BtechWaleTech is three freelance developers in India building bilingual sites for Canadian clients on WordPress, Shopify and custom stacks, with en-CA and fr-CA pages Google can index. You or your translator supply the French; we make it fit. Bilingual business sites start at ${P.site}.`,
+    pills: ["Separate fr-CA and en-CA URLs", "hreflang done both ways", "Same-page language switcher", "Layouts sized for French", "WPML, Polylang, Shopify", "Translator review on staging", "Bilingual emails and forms"],
+    origin: "Three freelance developers in India · WhatsApp 7 days a week · video calls in Canadian mornings",
+  },
+  facts: [
+    ["Bilingual site from", `${P.site}, up to 100 pages`],
+    ["Bilingual store from", `${P.shop}, 4–8 weeks`],
+    ["URL pattern we default to", "/en/ and /fr/ subfolders"],
+    ["French copy", "Written by your translator"],
+    ["Platforms", "WordPress, Shopify, Astro, Next.js"],
+    ["After launch", "5 months of free maintenance"],
+  ],
+  stats: [
+    { value: "2", label: "Languages built into every template from day one" },
+    { value: "3", label: "Freelance developers on your build" },
+    { value: "2", label: "Working days to an itemised quote" },
+    { value: "5", label: "Months of free maintenance after launch" },
+  ],
+  answer: {
+    heading: "How do you build an English French bilingual website properly?",
+    text: `Give each language its own indexable URL (for example /en/ and /fr/), link every page to its twin with hreflang en-CA and fr-CA, add a switcher that lands on the same page in the other language, and design layouts for longer French text. Reviewed human French beats a widget. BtechWaleTech builds bilingual sites from ${P.site} and stores from ${P.shop}.`,
+    more: `If Quebec customers are part of your market, read <a href='/canada/bill-96-website-compliance/'>Bill 96 website requirements</a> alongside this page. For WordPress-specific choices see <a href='/canada/wordpress-website-design/'>WordPress website design in Canada</a>.`,
+  },
+  snapshot: {
+    caption: "What a proper bilingual build includes",
+    rows: [
+      { label: "URLs", value: "One URL per language per page, never a cookie toggle" },
+      { label: "hreflang", value: "en-CA, fr-CA and x-default, listed on both twins" },
+      { label: "Switcher", value: "Text link to the equivalent page, visible on mobile" },
+      { label: "Templates", value: "Designed and tested with French copy in place" },
+      { label: "Forms and emails", value: "Labels, errors and replies in the visitor's language" },
+      { label: "Workflow", value: "Export, translate, import, review on staging" },
+      { label: "Starting price", value: `${P.site} for sites, ${P.shop} for stores` },
+    ],
+  },
+  services: {
+    eyebrow: "Bilingual work we do",
+    heading: "Pieces of an English–French bilingual website development project",
+    note: "Most bilingual projects mix several of these. We quote each piece so you can see where the effort goes.",
+    cards: [
+      { name: "New bilingual website", note: `A site planned for English and French from the first wireframe, with twin URLs, twin menus and a translator workflow, from ${P.site}.`, href: "/services/web-development/", size: "lg" },
+      { name: "Adding French to an English site", note: "String extraction, URL mapping, template fixes for longer text and a French rollout that does not disturb your English rankings.", href: "/canada/website-redesign-services/", size: "lg" },
+      { name: "Bilingual Shopify store", note: `French as a published store language, translated URLs, French notifications and app checks, from ${P.shop}.`, href: "/canada/shopify-developer/", size: "md" },
+      { name: "Bilingual WordPress", note: "WPML or Polylang chosen for your content volume, with translated slugs, menus and forms.", href: "/canada/wordpress-website-design/", size: "md" },
+      { name: "Bilingual web app or portal", note: `Locale files, per-user language settings and bilingual PDFs and emails, from ${P.software}.`, href: "/canada/custom-software-development/", size: "md" },
+      { name: "Bilingual app strings", note: `Android and iOS apps with English and French string files and store listings in both, from ${P.app}.`, href: "/canada/flutter-app-development/", size: "sm" },
+      { name: "hreflang and bilingual SEO audit", note: `Checks that each French page is indexed and paired, with fixes; ongoing SEO from ${P.seo}.`, href: "/canada/technical-seo-services/", size: "sm" },
+      { name: "Bilingual chatbot", note: `A website assistant that answers in the visitor's language from your approved content, from ${P.ai}.`, href: "/canada/ai-chatbot-development/", size: "sm" },
+    ],
+  },
+  comparison: {
+    heading: "Widget, two separate sites, or one bilingual build?",
+    note: "Three common ways Canadian businesses end up with French online, compared on what matters a year later.",
+    columns: ["What you care about", "Translation widget", "Two separate websites", "One bilingual build"],
+    rows: [
+      ["French pages in Google", "Usually not indexed", "Yes, but no hreflang link between them", "Yes, paired with hreflang"],
+      ["Quality of French", "Machine output, unreviewed", "Depends on the second site's owner", "Your translator's reviewed French"],
+      ["Switcher lands on", "Same page, auto-translated", "Other site's homepage, often", "The equivalent page"],
+      ["Updates", "Automatic, and automatically wrong at times", "Two CMSs, two sets of plugins", "One CMS, paired content"],
+      ["Forms and emails", "Usually stay English", "Built twice", "One form, two language outputs"],
+      ["Design consistency", "Text overflows buttons", "Designs drift apart", "Shared templates tested in both"],
+      ["Upfront cost", "Lowest", "Roughly double", `From ${P.site}, plus translation`],
+      ["Long-term effort", "Low effort, low trust", "High effort", "Moderate, with a clear routine"],
+    ],
+    fine: "Two separate sites can still be the right call when English and French audiences need genuinely different content or brands; we will say so if your case looks like that.",
+  },
+  pricing: {
+    heading: "Bilingual website development pricing",
+    note: `Prices below are our starting points, quoted in USD. A bilingual business site up to 100 pages starts at ${P.site}; a large bilingual content site of 299+ pages at ${P.seoSite}; a bilingual store at ${P.shop}; a bilingual portal or web app at ${P.software}. What moves the quote is the number of unique templates, how many apps or plugins must output French, custom forms and emails, and whether we are building fresh or retrofitting French into an existing site. Translation fees are paid to your translator directly, since we build and do not write French.`,
+  },
+  guideLabel: "Bilingual website guide",
+  guide: [
+    {
+      id: "what-it-means",
+      heading: "What is bilingual website development, English and French?",
+      paragraphs: [
+        `Bilingual website development in English and French means building one site where both languages are first-class: each has its own addresses, navigation, content and search presence, and visitors can move between them without losing their place. It is a build decision, made before the first template is coded.`,
+        `The alternative, which is still common in Canada, is an English site with French added afterwards: a widget that machine-translates on the fly, a single French landing page, or a PDF. Those shortcuts look cheaper on day one and cost more later, because the French never quite matches, search engines cannot find it and every English update widens the gap.`,
+        `A proper build touches more than text. Dates, numbers and currency are formatted differently in French. Buttons and menu labels get longer. Forms need French error messages and confirmation emails. Structured data, page titles and image alt text need French versions. A developer who plans for this at the start can handle it in one pass; one who meets it at the end patches it page by page.`,
+      ],
+    },
+    {
+      id: "when-you-need-it",
+      heading: "When does a Canadian business need a bilingual website?",
+      paragraphs: [
+        `You need English French bilingual website development when a meaningful share of your customers prefers French, when you sell in Quebec, or when funders, partners or public clients expect both languages. Many businesses outside Quebec choose it simply to reach French-speaking customers in Ontario, New Brunswick and Manitoba.`,
+        `For businesses selling into Quebec, French is not optional for commercial content; the Charter of the French language covers that and we explain it on our <a href='/canada/bill-96-website-compliance/'>Bill 96 website requirements page</a>. Elsewhere, bilingual website development is a market choice. It makes most sense when you can keep the French current: a bilingual site with stale French pages sends a worse signal than an English-only site that is honest about it.`,
+      ],
+      list: [
+        "Retail and ecommerce shipping to Quebec customers",
+        "Professional services in Ottawa, Gatineau and Moncton serving both communities",
+        "Tourism and hospitality welcoming French-speaking travellers",
+        "Suppliers bidding for bilingual public-sector or institutional contracts",
+        "Nonprofits and associations with members across provinces",
+      ],
+    },
+    {
+      id: "url-structure",
+      heading: "Subfolders, subdomains or separate domains for English and French?",
+      paragraphs: [
+        `For most Canadian businesses doing bilingual website development in English and French, subfolders such as example.ca/en/ and example.ca/fr/ are the simplest and strongest choice: one site, one hosting account, one domain building authority for both languages. Separate domains make sense when each language has a distinct brand name.`,
+        `Google's guidance on <a href='${G_MULTI}' rel='noopener'>managing multilingual sites</a> lays out the trade-offs. Subdirectories are easy to set up and cheap to maintain on a single server; subdomains are easy and allow different servers; country-code domains are clear but more expensive and involve more infrastructure. Google does not recommend URL parameters, and it recommends different URLs for each language version rather than cookies or browser settings to swap content.`,
+        `That last point rules out a surprisingly common setup: one URL that shows English or French depending on a cookie. Search engines crawl with no cookie and see only one language, so the other language effectively does not exist in search. When we inherit a site built that way, the first job in any bilingual website development project is giving French its own addresses.`,
+      ],
+      subs: [
+        { heading: "Translated slugs", text: "French pages read better and earn clicks with French slugs, such as /fr/services/renovation-cuisine/ rather than /fr/services/kitchen-renovation/. WPML, Polylang and Shopify all support translated slugs; we plan the redirects if slugs change later." },
+        { heading: "Root URL", text: "The bare domain can serve your main language, or a simple language chooser. We never auto-redirect it based on browser language, because that traps visitors and crawlers." },
+      ],
+    },
+    {
+      id: "hreflang",
+      heading: "How should hreflang be set up for en-CA and fr-CA pages?",
+      paragraphs: [
+        `Each English page lists itself as en-CA and its French twin as fr-CA, and each French page does the same in reverse; add x-default for the page you want shown when neither matches. If the links are not mutual, Google may ignore them.`,
+        `Google's <a href='${G_HREFLANG}' rel='noopener'>localized versions documentation</a> spells out the format: a language code in ISO 639-1 format, optionally followed by a region code in ISO 3166-1 Alpha 2 format. So fr-CA means French for Canada and en-CA means English for Canada. The same document says HTML link tags, HTTP headers and XML sitemaps are equivalent ways to declare these, so we pick whichever your platform generates most reliably.`,
+        `Two points trip people up. First, hreflang does not decide which language Google thinks a page is in; Google says it uses its own algorithms for that, so a French page must genuinely contain French. Second, if you also target France or the US with separate versions, you add those twins to every page's list. We validate hreflang with a crawl before launch and again in Search Console a few weeks after, because broken pairs are the most common bilingual SEO fault we see.`,
+      ],
+    },
+    {
+      id: "language-switcher",
+      heading: "What makes a good language switcher on a bilingual website?",
+      paragraphs: [
+        `In bilingual website development, a good switcher is a plain text link, visible on every page including mobile, that takes the visitor to the same page in the other language. Label it with the language name written in that language: “Français” on English pages, “English” on French pages.`,
+        `Flags are a poor choice for Canada: a Quebec fleur-de-lis or a French tricolour both carry meaning people may not want attached to a language choice, and neither says “French for Canada”. Dropdowns hidden inside hamburger menus are another trap; people who need the other language should not have to hunt for it.`,
+        `The hard part is the “same page” behaviour. If a page has no French twin yet, the switcher should say so or go to the closest French parent, not dump the visitor on the French homepage. Google also advises against automatically redirecting users between language versions and suggests linking to the other language instead, which is what a visible switcher does. We remember a visitor's choice for their next visit, but we never override the URL they clicked.`,
+      ],
+    },
+    {
+      id: "layout-for-french",
+      heading: "Why do bilingual layouts need to be designed for French text?",
+      paragraphs: [
+        `French copy is often longer than the English it translates, so layouts designed only with English text break when French arrives: buttons wrap, menus spill onto two lines and headings push images out of place. Designing with both languages from the start avoids the late scramble.`,
+        `In practice, our bilingual website development starts by designing every component with a “long French” test string. Buttons get flexible widths instead of fixed ones. Navigation is planned for the longest label in either language. Card grids tolerate headings of different lengths. Hero text sits on backgrounds that can take an extra line. Tables and pricing grids get a mobile layout that does not depend on short words.`,
+        `French typography has its own conventions too: guillemets « » for quotes, different spacing around some punctuation, and different number and currency formatting. Your translator decides the conventions; we make sure the templates and number formatting code respect them, including prices formatted by locale rather than hard-coded. These details are small individually, but together they are what makes a French page read as native rather than converted.`,
+      ],
+    },
+    {
+      id: "wordpress",
+      heading: "Bilingual website development on WordPress: WPML or Polylang?",
+      paragraphs: [
+        `Both work well for bilingual website development. WPML suits larger sites with many plugins and a translation-management workflow; Polylang suits small to mid-sized sites and is lighter. The choice matters less than configuring it fully.`,
+        `WPML's documentation offers three language URL formats: languages in directories, a different domain per language, or the language added as a URL parameter. We use directories unless your brand needs separate domains. Whichever plugin you choose, the checklist is the same: translated slugs, translated menus, widget and footer text, form labels and notifications, SEO plugin titles and descriptions per language, and a sitemap that includes both.`,
+        `The weak spots on WordPress are themes and plugins that print English text directly in their code. We scan for them in the audit and either configure their string translation, patch them in a child theme, or replace them. More detail on WordPress builds, including accessibility and hosting, is on our <a href='/canada/wordpress-website-design/'>Canadian WordPress page</a>.`,
+      ],
+    },
+    {
+      id: "shopify",
+      heading: "Building a bilingual English French Shopify store",
+      paragraphs: [
+        `On Shopify, bilingual means publishing French as a store language, which gives French its own URLs, then translating products, collections, pages, theme text, notifications and app content. Shopify handles hreflang for language URLs automatically.`,
+        `Shopify's <a href='${SHOPIFY_LANG}' rel='noopener'>language documentation</a> says a store on Basic, Grow, Shopify or Advanced can sell in up to 20 languages, and up to 30 on Shopify Plus, with language-specific URLs as subfolders such as /fr or as subdomains. Translations can be managed and imported through Shopify's Translate & Adapt app, which is where your translator's file goes in.`,
+        `Apps are the usual gap. Reviews, product filters, size guides, subscription widgets and upsell pop-ups each handle language their own way, and some do not support French at all. We test every app on the French storefront before launch. Checkout and order notifications also need French versions; stores selling to Quebec should read our <a href='/canada/shopify-developer/'>Shopify developer page for Canadian merchants</a> for tax and shipping setup. Bilingual store builds start at ${P.shop}.`,
+      ],
+    },
+    {
+      id: "custom-stack",
+      heading: "Bilingual websites on custom and headless stacks",
+      paragraphs: [
+        `On custom bilingual website development projects, every piece of text lives in locale files or a CMS with per-language fields, and routing serves /en/ and /fr/ through the same components. That gives the cleanest result and the most control, at a higher build cost than a theme.`,
+        `We build these with frameworks such as Astro and Next.js, using their internationalised routing and a headless CMS where editors fill English and French fields side by side. The advantage is that nothing can be forgotten: a component cannot render without its French string, and the build fails if a key is missing. Dates, numbers and prices go through the browser's locale formatting rather than hand-written strings.`,
+        `This route suits portals and web apps even more than marketing sites. A bilingual customer portal stores each user's preferred language, sends emails and PDFs in it, and shows the right terms at sign-up. Portals and web apps start at ${P.software}; see our <a href='/canada/custom-software-development/'>custom software page for Canadian businesses</a> for the wider picture.`,
+      ],
+    },
+    {
+      id: "translation-workflow",
+      heading: "How does the translation workflow work with your translator?",
+      paragraphs: [
+        `We export, your translator translates, we import, and your translator reviews on the real pages before launch. We write English; the French always comes from you or the translator you choose.`,
+        `The export is where most time is saved. Rather than sending a translator screenshots or a copy of the live site, we send a structured file with every string, grouped by page and component, with notes such as “button label, keep short” or “meta description, about 155 characters”. Translators can quote accurately from it, use their own translation memory and return it in the same format.`,
+        `After import we give your translator a staging link. Reviewing in place matters: a heading that reads well in a spreadsheet may wrap badly beside an image, and a button label may need a shorter synonym. Their corrections go back in, and we freeze both languages together for launch. For ongoing edits, your team learns to add English and French in the CMS in one sitting, so the two versions never drift.`,
+      ],
+      list: [
+        "Export: every string with page, component and length notes",
+        "Translate: your translator, with their own tools and glossary",
+        "Import: we place French into pages, menus, forms, emails and metadata",
+        "Review: your translator checks French on staging and marks fixes",
+        "Launch: both languages go live together",
+      ],
+    },
+    {
+      id: "forms-emails",
+      heading: "Forms, emails and notifications in two languages",
+      paragraphs: [
+        `In English French bilingual website development, every form and automated message should follow the language the visitor used: French form labels and errors on French pages, French auto-replies and French notifications afterwards. This is where bolt-on translation almost always fails.`,
+        `We handle it by storing the language with each submission, order or account. Contact forms send French confirmations to French submitters and tag the lead so your team replies in French. Booking and order systems pick templates by that stored language. Newsletter signups record language preference so campaigns go out in the right one. Error messages, including the ones that only appear when someone mistypes a postal code, get French versions too.`,
+        `We also route internal notifications sensibly. Your staff may prefer to receive every lead notification in English even when the customer wrote in French, and that is fine: we set the customer-facing and staff-facing languages separately.`,
+      ],
+    },
+    {
+      id: "bilingual-seo",
+      heading: "Does bilingual website development help SEO in Canada?",
+      paragraphs: [
+        `Yes, when French pages are real, indexable and paired with hreflang: you gain a second set of pages that can rank for French searches, where the competition is often thinner than in English. A widget adds almost nothing for search.`,
+        `Keyword research has to be done in French, not translated from English. The words a Montreal customer types are not always a literal translation of the English query, so your translator or a French SEO writer should choose titles and headings with actual French search terms in mind. We then make sure the technical layer is sound: French title tags and descriptions, French structured data, both languages in the sitemap, and canonical tags pointing each page at itself rather than at its English twin.`,
+        `After launch we check Search Console for French pages being indexed and for hreflang errors. Ongoing <a href='/canada/technical-seo-services/'>technical SEO for Canadian sites</a> starts at ${P.seo}. Nobody can promise rankings, but a bilingual site with clean structure removes the technical reasons French pages fail to show up.`,
+      ],
+    },
+    {
+      id: "ai-search",
+      heading: "How do AI assistants read an English and French website?",
+      paragraphs: [
+        `AI assistants that cite web pages read the same public HTML search engines do, so French content in the HTML at its own URL is what they can quote. Text injected by a translation script after page load is much less likely to be picked up.`,
+        `We write templates so each French page stands on its own: a clear French heading, a short answer near the top, FAQ blocks that make sense out of context and organisation details in structured data. A French-speaking user who asks an assistant about your service has a better chance of being pointed at your French page rather than your English one.`,
+      ],
+    },
+    {
+      id: "retrofit",
+      heading: "Adding French to an existing English website without losing traffic",
+      paragraphs: [
+        `The safest form of bilingual website development for an existing site: keep your English URLs exactly as they are, add French under a new /fr/ path, and link the two with hreflang. Moving English pages to /en/ is optional and needs 301 redirects if you do it.`,
+        `The retrofit sequence we follow: crawl the English site to list every URL and template; decide whether English stays at the root or moves to /en/; extract strings; install or configure the multilingual layer; fix templates that hard-code English; import French; add the switcher; test forms and emails; then publish French pages and submit the updated sitemap. English visitors notice almost nothing, apart from a new “Français” link.`,
+        `If your current platform cannot support per-language URLs, or the theme is fragile, a rebuild can be cheaper than a retrofit. Our <a href='/canada/website-redesign-services/'>website redesign page</a> covers rebuilding without losing rankings, and we will tell you plainly which route your site needs after the audit.`,
+      ],
+    },
+    {
+      id: "checklist",
+      heading: "Bilingual website development checklist before launch",
+      paragraphs: [
+        `Run through this bilingual website development checklist on staging with someone who reads French. If any item fails, fix it before launch; bilingual problems are cheaper to solve before Google crawls them.`,
+      ],
+      list: [
+        "Every English page has a French twin, or a documented reason it does not",
+        "Each twin has its own URL, and French slugs are in French",
+        "hreflang en-CA, fr-CA and x-default appear on both twins and point to live pages",
+        "Canonical tags point each page at itself",
+        "The switcher is visible on mobile and lands on the equivalent page",
+        "Menus, footers, forms, errors and cookie banners are French on French pages",
+        "Auto-replies, order and account emails follow the visitor's language",
+        "Dates, numbers and prices are formatted for the language",
+        "Buttons and headings do not overflow with French text",
+        "Both languages are in the XML sitemap",
+      ],
+      after: [
+        `Want a second pair of eyes on an existing bilingual site? We run this checklist as a paid audit and give you the list of fixes with an itemised quote.`,
+      ],
+    },
+    {
+      id: "working-from-canada",
+      heading: "How bilingual projects run with a team in India",
+      paragraphs: [
+        `Our evenings in India line up with Canadian mornings, so Eastern and Atlantic clients get calls before lunch and Pacific clients get early-morning slots. Between calls, work moves by WhatsApp and email, and you can watch progress on a staging link.`,
+        `The first two weeks of bilingual website development with us follow a pattern. In week one we hold a discovery call, audit the site or brief, and send an itemised quote in about two working days. Once approved, we set up staging on your hosting and send your translator the export file. In week two templates take shape in both languages, and you see the switcher, menus and first pages working with placeholder French until the real copy lands.`,
+        `You own everything: domain, hosting, CMS, code and any app or platform accounts. We work through logins you grant and can revoke. Quotes and invoices are in USD, payable in USD or CAD by Wise, wire or PayPal, and invoices come from India; how you record them is for your accountant. There are no office visits; all training happens by screen share with a recording you keep. If this is your first remote build, our page on <a href='/hire-indian-developers/'>hiring Indian developers</a> explains the model.`,
+      ],
+    },
+    {
+      id: "worked-example",
+      heading: "Example: an Ottawa physiotherapy clinic going bilingual",
+      paragraphs: [
+        `This is a hypothetical scenario, to show the shape of the work. Say a two-location physiotherapy clinic in Ottawa has a 25-page English WordPress site, gets patients from Gatineau, and wants French pages that rank and a booking flow in both languages.`,
+        `We would keep the English URLs at the root, add French under /fr/ with Polylang, and map 25 pages to French twins with French slugs. The booking widget supports French, so it gets a French embed on French pages; the contact form gets French labels, errors and auto-reply. The clinic's translator receives an export of about 9,000 words with notes, returns French in a week, and reviews it on staging.`,
+        `At launch, the clinic has paired pages with hreflang, a “Français” link in the header, French confirmation emails and both languages in its sitemap. Staff are trained by screen share to publish news in both languages at once. The work fits within our business site plan, which starts at ${P.site}; translation is billed by the translator.`,
+      ],
+    },
+  ],
+  tables: [
+    {
+      id: "url-options-table",
+      eyebrow: "Architecture",
+      heading: "URL structures for an English and French site",
+      note: `Trade-offs summarised from Google's guidance on <a href='${G_MULTI}' rel='noopener'>multilingual sites</a>; the recommendation column is ours.`,
+      columns: ["Structure", "Example", "Good points", "Watch out for", "Our view"],
+      rows: [
+        ["Subfolders", "example.ca/fr/", "Easy setup, one domain, low maintenance", "Single server for both languages", "Default for most businesses"],
+        ["Subdomains", "fr.example.ca", "Easy setup, can use different servers", "Two properties to monitor in Search Console", "Fine when platforms force it"],
+        ["Separate domains", "exemple.ca and example.ca", "Distinct brand per language", "Two domains to renew and build authority for", "Only for separate brand names"],
+        ["URL parameter", "example.ca/?lang=fr", "No server changes", "Google does not recommend it", "Avoid"],
+        ["Cookie or browser switch", "Same URL, different text", "Nothing to set up", "Crawlers see one language only", "Avoid"],
+      ],
+      hideSm: [1],
+    },
+    {
+      id: "platform-table",
+      eyebrow: "Platforms",
+      heading: "Bilingual options by platform",
+      note: "Platform capabilities from each vendor's documentation at the time of writing. Starting prices are ours, in USD.",
+      columns: ["Platform", "How French is added", "hreflang", "Main gap to check", "Build from"],
+      rows: [
+        ["WordPress + WPML", "Directories, domains or parameter", "Generated by the plugin", "Themes and plugins with hard-coded English", `${P.site}`],
+        ["WordPress + Polylang", "Per-language URLs, translated slugs", "Generated by the plugin", "Strings from page builders", `${P.site}`],
+        ["Shopify", "Published store language, subfolder or subdomain", "Added automatically for language URLs", "Third-party apps without French", `${P.shop}`],
+        ["WooCommerce", "Via WPML or Polylang for WooCommerce", "Generated by the plugin", "Checkout extensions and emails", `${P.shop}`],
+        ["Astro or Next.js", "Locale routing and locale files", "Written into the layout", "Missing keys caught at build time", `${P.site}`],
+        ["Custom portal or web app", "Per-user language setting", "For public pages only", "PDFs and emails by user language", `${P.software}`],
+      ],
+      hideSm: [2],
+    },
+    {
+      id: "timeline-table",
+      eyebrow: "Timeline",
+      heading: "Phases of a bilingual build",
+      note: "Typical durations for a business site. Stores and web apps take longer; translation time depends on your translator.",
+      columns: ["Phase", "What happens", "Who leads", "Typical length"],
+      rows: [
+        ["Audit and quote", "Inventory of pages, templates, apps and emails", "Us", "About 2 working days"],
+        ["Structure", "URLs, switcher, multilingual layer, templates", "Us", "3–5 days"],
+        ["Translation", "Export file translated with notes", "Your translator", "Depends on word count"],
+        ["Import and layout fixes", "French placed and templates adjusted", "Us", "2–4 days"],
+        ["In-place review", "French checked on staging", "Your translator", "A few days"],
+        ["Testing and launch", "Forms, emails, hreflang crawl, sitemap", "Us, with your sign-off", "2–3 days"],
+      ],
+    },
+  ],
+  areas: {
+    eyebrow: "Across Canada",
+    heading: "Where English–French bilingual websites matter",
+    note: "We work remotely with clients anywhere in Canada. These places come up most in bilingual projects.",
+    cards: [
+      { name: "Ottawa", note: "Firms serving federal-sector clients and both sides of the river often need every page in two languages, with forms and emails that follow the visitor's choice." },
+      { name: "Gatineau", note: "Businesses whose customers cross between Quebec and Ontario daily, where French leads and English must be just as usable for Ottawa visitors." },
+      { name: "Montreal", note: "Retail, hospitality and tech companies with a mixed-language audience, where both versions must look and work the same and rank for their own searches." },
+      { name: "Quebec City", note: "Tourism and service businesses where French is the main audience and English pages serve visitors, so the French build usually comes first." },
+      { name: "Moncton", note: "New Brunswick businesses with English and French customers in the same town, often needing one site that feels local in both languages." },
+      { name: "Fredericton", note: "Suppliers and associations working with provincial institutions that communicate in both official languages and expect partners to do the same." },
+      { name: "Toronto", note: "Brands expanding into Quebec from the GTA that want French added to an established English site without disturbing existing rankings." },
+      { name: "Sudbury", note: "Northern Ontario businesses with Franco-Ontarian customers who prefer to read and book in French when a proper French page exists." },
+      { name: "Winnipeg", note: "Organisations serving Manitoba's French-speaking community alongside English customers, often nonprofits and education providers needing two-language content." },
+      { name: "Halifax", note: "Tourism and professional services reaching Acadian and Quebec visitors who search in French for the Maritimes." },
+      { name: "Calgary", note: "National brands headquartered in Alberta that sell across Canada and need a French storefront or service section for Quebec buyers." },
+      { name: "Vancouver", note: "Ecommerce and SaaS companies building a French version for Canadian customers and sometimes a France version as a third locale." },
+      { name: "Sherbrooke", note: "Education and health organisations near the Eastern Townships whose communities include English and French speakers." },
+      { name: "Edmonton", note: "Associations, colleges and service firms serving francophone Albertans alongside English audiences, often with bilingual event and registration pages." },
+    ],
+  },
+  process: {
+    heading: "Our bilingual build process",
+    steps: [
+      ["Discovery in your morning", "A video call about your audiences, platforms and who translates. We ask for your current site, analytics access if you have it, and any French you already hold."],
+      ["Audit and itemised quote", "A list of templates, apps, forms and emails that need French, plus a USD quote within about two working days. Starting prices, itemised, nothing billed until approved."],
+      ["Architecture on staging", "URL pattern, multilingual layer, switcher and hreflang set up on a staging copy, with templates tested using long French placeholder text."],
+      ["Export for your translator", "A structured file of every string with context and length notes, so translation starts while we finish the build."],
+      ["Import and in-place review", "French goes into pages, menus, metadata, forms and emails. Your translator reviews on staging and we apply their fixes."],
+      ["Launch and training", "Both languages go live together, the sitemap is submitted, and your team is trained by screen share to publish in both languages."],
+    ],
+  },
+  faqHeading: "Bilingual website development: common questions",
+  faqs: [
+    { question: "What is the best way to build an English French bilingual website?", answer: "Give each language its own URL, usually /en/ and /fr/ subfolders, pair every page with its twin using hreflang en-CA and fr-CA, add a visible switcher that lands on the same page, and design templates for longer French text. Use reviewed human French rather than a live machine-translation widget." },
+    { question: "How much does bilingual website development cost in Canada?", answer: `With us, a bilingual business site up to 100 pages starts at ${P.site} and a bilingual store at ${P.shop}, quoted in USD. Portals and web apps start at ${P.software}. Translation is separate and billed by your translator. The quote depends on templates, apps that must output French, and whether we build new or add French to an existing site.` },
+    { question: "Should I use subfolders or a separate domain for French?", answer: "Subfolders suit most businesses: one domain, one hosting account and shared authority for both languages. Separate domains make sense when your English and French brands have different names. Google lists subdirectories as easy to set up and maintain, and does not recommend URL parameters for languages." },
+    { question: "Is a Google Translate widget good enough for a bilingual website?", answer: "Not for a business site. Widget output is not reviewed, often misses forms, emails and checkout, and is usually injected after page load, so search engines rarely index it. It can be a stopgap while proper French is being written, but it is not a substitute for bilingual website development." },
+    { question: "What hreflang codes should a Canadian bilingual site use?", answer: "Use en-CA for English pages for Canada and fr-CA for French pages for Canada, plus x-default for the fallback page. Google's documentation says the language code follows ISO 639-1 and the optional region code ISO 3166-1 Alpha 2. Each page must list itself and its twin, or the annotations may be ignored." },
+    { question: "Do you write the French translation?", answer: "No. We are three freelance developers who work in English and Hindi, so French comes from you or your translator. We export every string with context notes, import the translated file and give your translator a staging link to review the French on the real pages." },
+    { question: "How long does it take to build a bilingual website?", answer: "A bilingual business site usually needs one to two weeks of our build time plus translation time; a bilingual store four to eight weeks. We send the export file early so your translator works in parallel. Larger content sites and web apps take longer, and we give you a phase-by-phase timeline with the quote." },
+    { question: "Can you add French to my existing English website?", answer: "Yes. We keep your English URLs as they are, add French under /fr/, link each pair with hreflang and fix templates that hard-code English. English visitors see little change apart from a new Français link. If the platform cannot support per-language URLs, we will say so and price a rebuild instead." },
+    { question: "WPML or Polylang for a bilingual WordPress site?", answer: "WPML suits larger sites with many plugins and a translation-management workflow; Polylang is lighter and suits small to mid-sized sites. Both support per-language URLs and translated slugs. We choose based on your content volume, plugins and translator's workflow, then configure menus, forms and SEO fields fully." },
+    { question: "Can Shopify stores be bilingual in English and French?", answer: `Yes. Shopify lets stores publish additional languages with their own URLs, as subfolders such as /fr or subdomains, and adds hreflang tags automatically. Translations can be imported with the Translate & Adapt app. We also check every third-party app for French support. Bilingual Shopify builds start at ${P.shop}.` },
+    { question: "Will a bilingual website hurt my English SEO?", answer: "Not when built properly. Your English URLs stay where they are, French pages get their own addresses, and hreflang tells Google which is which. Problems come from duplicate pages without hreflang, canonical tags pointing French pages at English ones, or cookie-based switching. We check for all three before and after launch." },
+    { question: "Should my website redirect French visitors automatically?", answer: "No. Google advises against automatically redirecting users between language versions. Let visitors choose with a visible switcher, and remember their choice for the next visit. Automatic redirects can trap people who prefer the other language and can stop crawlers from reaching one version of your pages." },
+    { question: "What should the language switcher look like?", answer: "A text link, not a flag, reading Français on English pages and English on French pages. Put it in the header on every page, visible on mobile without opening a menu if possible, and make it land on the equivalent page rather than the homepage. If a page has no twin yet, send visitors to the closest parent page." },
+    { question: "Why does French text break my website layout?", answer: "French copy is often longer than the English it translates, so fixed-width buttons, tight menus and short headings overflow. We design components with long French test strings, use flexible widths and plan navigation for the longest label, so French copy fits without last-minute design changes." },
+    { question: "Do forms and emails need to be bilingual too?", answer: "Yes. Labels, errors, confirmation screens, auto-replies and order emails should follow the visitor's language. We store the language with each submission or account and select templates from it, while letting your staff receive internal notifications in whichever language they prefer." },
+    { question: "Is a bilingual website required by law in Canada?", answer: "For private businesses, the rules that most often matter are Quebec's for commercial content aimed at Quebec customers; we cover them on our Bill 96 website requirements page. Elsewhere it is usually a business choice. Your own lawyer should confirm what applies to you; we build the site either way." },
+    { question: "Can a bilingual website have different content in each language?", answer: "Yes, within reason. Some pages may exist only in one language, such as a local event, and hreflang simply omits the missing twin. If you sell in Quebec, though, commercial content should have French equivalents. We track which pages are paired so gaps are a decision, not an accident." },
+    { question: "How do AI assistants handle bilingual websites?", answer: "They read public HTML the way search engines do, so French pages at their own URLs with French text in the source are what they can find and quote. Script-injected translations are much less visible. Clear French headings, short answer paragraphs and FAQ blocks give assistants something useful to cite." },
+    { question: "Why hire developers in India for a Canadian bilingual website?", answer: "The engineering is the same wherever it is done, our starting prices are lower than typical local rates, and your translator stays local. Our evenings overlap Canadian mornings for calls. You own the domain, hosting and code; we work through access you grant and can revoke at any time." },
+    { question: "Can you make my mobile app bilingual too?", answer: `Yes. Flutter and React Native apps keep English and French in separate string files, pick the language from the device or a user setting, and need store listings in both languages on Google Play and the App Store. New apps start at ${P.app}; your translator supplies the French strings and store text.` },
+    { question: "How do we keep both languages up to date after launch?", answer: `Publish both together. We set up the CMS so editors fill English and French in one sitting and train your team by screen share. After five free months of maintenance, ongoing care from ${P.care} can include a monthly check for pages missing a French twin.` },
+  ],
+  related: {
+    heading: "More for Canadian websites",
+    links: [
+      { name: "Bill 96 website requirements", href: "/canada/bill-96-website-compliance/" },
+      { name: "AODA compliant websites", href: "/canada/aoda-compliant-website/" },
+      { name: "How much a website costs in Canada", href: "/canada/website-design-cost/" },
+      { name: "WordPress website design in Canada", href: "/canada/wordpress-website-design/" },
+      { name: "Shopify developer for Canadian merchants", href: "/canada/shopify-developer/" },
+      { name: "Technical SEO services in Canada", href: "/canada/technical-seo-services/" },
+      { name: "Web developer for Montreal businesses", href: "/canada/web-developer-for-montreal-businesses/" },
+      { name: "Website redesign services in Canada", href: "/canada/website-redesign-services/" },
+      { name: "Law 25 website compliance", href: "/canada/law-25-website-compliance/" },
+      { name: "Custom software development in Canada", href: "/canada/custom-software-development/" },
+      { name: "Web services for Canada", href: "/canada/" },
+      { name: "Hire Indian developers", href: "/hire-indian-developers/" },
+      { name: "Pricing", href: "/pricing/" },
+    ],
+  },
+  cta: {
+    heading: "Plan your English and French website",
+    note: "Tell us your platform, how many pages you have and who translates. You will get an itemised USD quote in about two working days, and nothing is billed until you approve it in writing.",
+  },
+};
+
+export default content;

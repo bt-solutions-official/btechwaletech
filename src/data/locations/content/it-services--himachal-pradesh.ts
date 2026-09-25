@@ -161,7 +161,7 @@ const content: CityContent = {
       heading: "SEO, local SEO and AI-search visibility for Himachal businesses",
       paragraphs: [
         "SEO for Himachal businesses means being visible when people outside the state plan a trip, source a product or look for a manufacturer, and when locals search nearby services on Google Maps. For tourism, the most valuable searches are specific, such as a valley, a trek, a festival or a type of stay, rather than generic phrases.",
-        "Our <a href='/services/seo-services/'>SEO services</a> start from ₹10,000 a month and cover technical fixes, destination and service pages, Google Business Profile guidance, local citations and structured data. For a Dharamshala hotel, that could mean pages on McLeod Ganj walks, Triund and monastery visits. For a Baddi manufacturer, it means product-category and capability pages that procurement teams find. For larger sites, our 700+ page SEO website plan from ₹20,000 builds destination-by-destination coverage.",
+        "Our <a href='/services/seo-services/'>SEO services</a> start from ₹10,000 a month and cover technical fixes, destination and service pages, Google Business Profile guidance, local citations and structured data. For a Dharamshala hotel, that could mean pages on McLeod Ganj walks, Triund and monastery visits. For a Baddi manufacturer, it means product-category and capability pages that procurement teams find. For larger sites, our 299+ page SEO website plan from ₹20,000 builds destination-by-destination coverage.",
         "AI search tools such as Google AI Overviews and ChatGPT quote pages that state facts clearly, with names, distances, seasons and prices. We write that way. We never guarantee rankings; local map results often move within two to four months, and competitive travel terms take longer.",
       ],
     },
@@ -187,7 +187,7 @@ const content: CityContent = {
       id: "cost-guide-himachal",
       heading: "How much do IT services cost in Himachal Pradesh?",
       paragraphs: [
-        "With BtechWaleTech, IT services in Himachal Pradesh start from ₹10,000 for a static website, ₹20,000 for a 700+ page SEO site, ₹40,000 for AI automation or booking workflows, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software, with monthly SEO from ₹10,000 and maintenance from ₹8,000 a month. These are starting prices.",
+        "With BtechWaleTech, IT services in Himachal Pradesh start from ₹10,000 for a static website, ₹20,000 for a 299+ page SEO site, ₹40,000 for AI automation or booking workflows, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software, with monthly SEO from ₹10,000 and maintenance from ₹8,000 a month. These are starting prices.",
         "Scope decides the final figure. A five-room homestay's site with a booking calendar sits near the lower end. A hotel group's booking engine with multiple properties and channel sync costs more. Pharma batch software with several user roles and audit logs sits above the custom software starting price. Photography, content writing and translation, if needed, are listed separately.",
         "Quotes are itemised so you can phase work around the season: launch the website before summer, add the booking engine after, build the dashboard in winter. Payment is by milestone, only through UPI QR or bank transfer in INR. See the full <a href='/pricing/'>pricing page</a> for what each package includes.",
       ],

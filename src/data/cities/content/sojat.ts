@@ -39,7 +39,7 @@ const sojat: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi and English pages", "Export and trade catalogues", "Code and domain in your name"],
   },
   quickAnswer:
-    "For a Sojat business, a website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, and so does AI or WhatsApp automation. A 700+ page SEO site starts at ₹20,000, an online henna store at ₹50,000 and custom software at ₹60,000. We work remotely; you own everything.",
+    "For a Sojat business, a website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, and so does AI or WhatsApp automation. A 299+ page SEO site starts at ₹20,000, an online henna store at ₹50,000 and custom software at ₹60,000. We work remotely; you own everything.",
   snapshot: [
     { label: "Location", value: "Pali district, on the left bank of the Sukri river at the edge of the Aravalli hills" },
     { label: "Known for", value: "Sojat Mehndi, registered as an agricultural Geographical Indication in 2021–22" },
@@ -123,7 +123,7 @@ const sojat: CityContent = {
       paragraphs: [
         "Search in Sojat has two very different audiences. Local customers type short Hindi or Hinglish queries such as “Sojat hospital” or “mehndi cone wholesale Sojat”. Outside buyers type trade queries in English, often naming the town because they know what Sojat henna means. A site has to serve both.",
         "Our <strong>SEO services in Sojat</strong> start with the Google Business Profile, because map results lead most local phone searches. We fix the category, pin, hours and photos and set up a simple habit of asking real customers for reviews. Then we write pages that match what buyers actually search: product grade pages, private-label pages, “how to check henna quality” guides written from your own experience, and a Hindi version of your main pages for local customers.",
-        "For exporters and larger processors, a 700+ page SEO site starting at ₹20,000 can cover every grade, pack size, use and buyer type without thin, copied pages. Monthly SEO starts at ₹10,000 a month and includes new pages, listing updates and a plain report of calls, forms and search visibility. Nobody honest can promise a top position on Google, and we do not. The full method is on our <a href=\"/services/seo-services/\">SEO services page</a>.",
+        "For exporters and larger processors, a 299+ page SEO site starting at ₹20,000 can cover every grade, pack size, use and buyer type without thin, copied pages. Monthly SEO starts at ₹10,000 a month and includes new pages, listing updates and a plain report of calls, forms and search visibility. Nobody honest can promise a top position on Google, and we do not. The full method is on our <a href=\"/services/seo-services/\">SEO services page</a>.",
       ],
     },
     {
@@ -153,7 +153,7 @@ const sojat: CityContent = {
       ],
       list: [
         "Static business or trade website, up to 100 pages: from ₹10,000, usually one to two weeks",
-        "SEO website with 700+ pages for every grade, product and buyer type: from ₹20,000, three to five weeks",
+        "SEO website with 299+ pages for every grade, product and buyer type: from ₹20,000, three to five weeks",
         "Android and iOS app: from ₹40,000",
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Online henna or retail store with UPI and card checkout: from ₹50,000, four to eight weeks",
@@ -227,7 +227,7 @@ const sojat: CityContent = {
     {
       question: "What is the website cost in Sojat?",
       answer:
-        "In Sojat, a static website from us starts at ₹10,000 for up to 100 pages, and a 700+ page SEO website starts at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, products, languages and features, and you get it itemised in writing before any billing.",
+        "In Sojat, a static website from us starts at ₹10,000 for up to 100 pages, and a 299+ page SEO website starts at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, products, languages and features, and you get it itemised in writing before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Sojat businesses?",
@@ -242,7 +242,7 @@ const sojat: CityContent = {
     {
       question: "How long does a website take for a shop in Sojat?",
       answer:
-        "A simple website for a Sojat shop, clinic or school is usually live one to two weeks after we receive photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Sending your text and pictures early is what speeds things up most.",
+        "A simple website for a Sojat shop, clinic or school is usually live one to two weeks after we receive photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Sending your text and pictures early is what speeds things up most.",
     },
     {
       question: "Which is the best IT services team in Sojat?",
@@ -282,7 +282,7 @@ const sojat: CityContent = {
     {
       question: "Sojat me website ya app banwane ka kharcha kitna hai?",
       answer:
-        "Sojat me hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek se do hafte me live ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapke pages aur features ke hisaab se poora quote likhit me milta hai.",
+        "Sojat me hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek se do hafte me live ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapke pages aur features ke hisaab se poora quote likhit me milta hai.",
     },
     {
       question: "Can you build software to track henna lots and stock in Sojat?",

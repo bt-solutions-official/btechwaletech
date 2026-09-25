@@ -39,7 +39,7 @@ const northLakhimpur: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Assamese-English local SEO", "Tea and silk sellers online", "You own every account"],
   },
   quickAnswer:
-    "For North Lakhimpur businesses, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are remote, with no office in North Lakhimpur, and you own everything.",
+    "For North Lakhimpur businesses, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are remote, with no office in North Lakhimpur, and you own everything.",
   snapshot: [
     { label: "Location", value: "District headquarters on the north bank of the Brahmaputra, about 394 km north-east of Guwahati" },
     { label: "Population", value: "About 1.05 lakh in the 2011 census, one of Upper Assam's larger towns" },
@@ -158,7 +158,7 @@ const northLakhimpur: CityContent = {
       id: "website-cost-north-lakhimpur",
       heading: "Website cost in North Lakhimpur: starting prices and comparing quotes",
       paragraphs: [
-        "Our starting prices for North Lakhimpur: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 700+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000, an online store from ₹50,000, and custom software from ₹60,000. Monthly SEO starts at ₹10,000 a month. The <a href=\"/pricing/\">pricing page</a> has the full list.",
+        "Our starting prices for North Lakhimpur: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 299+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000, an online store from ₹50,000, and custom software from ₹60,000. Monthly SEO starts at ₹10,000 a month. The <a href=\"/pricing/\">pricing page</a> has the full list.",
         "Scope moves the quote upwards: more pages, both Assamese and English versions, large product lists, delivery and payment integration, staff logins, or a link to Tally. Content is a factor too. If you provide the text and photographs, the price stays near the starting figure; if we write and translate, that is listed separately.",
         "Quotes in the area vary widely, so compare carefully. Ask whose name the domain and hosting will be in, whether mobile testing and basic SEO are included, how many rounds of changes are allowed, and who fixes problems after launch. Our written quote normally arrives within about two working days.",
       ],
@@ -210,7 +210,7 @@ const northLakhimpur: CityContent = {
     {
       question: "What is the website cost in North Lakhimpur?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Assamese content, products and integrations. You receive it itemised in writing before anything is billed.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Assamese content, products and integrations. You receive it itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for North Lakhimpur businesses?",
@@ -220,7 +220,7 @@ const northLakhimpur: CityContent = {
     {
       question: "How long does a website take for a North Lakhimpur shop?",
       answer:
-        "A static website usually goes live one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Content being ready is the main factor in speed.",
+        "A static website usually goes live one to two weeks after we receive your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Content being ready is the main factor in speed.",
     },
     {
       question: "Which is the best website development team in North Lakhimpur?",
@@ -245,7 +245,7 @@ const northLakhimpur: CityContent = {
     {
       question: "North Lakhimpur me website banwane me kitna kharcha aata hai?",
       answer:
-        "Hamare yahan simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein ban jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapke features ke hisaab se likhit quote milta hai.",
+        "Hamare yahan simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein ban jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapke features ke hisaab se likhit quote milta hai.",
     },
     {
       question: "You have no office in North Lakhimpur. Is remote work safe?",

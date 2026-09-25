@@ -184,7 +184,7 @@ const content: CityContent = {
       id: "kailashahar-costs",
       heading: "How much do software and IT services cost in Kailashahar?",
       paragraphs: [
-        "Software and IT services in Kailashahar with BtechWaleTech start at ₹10,000 for a website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software such as tea estate systems. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after five free months.",
+        "Software and IT services in Kailashahar with BtechWaleTech start at ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software such as tea estate systems. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after five free months.",
         "The final cost depends on features, users, integrations and data migration. A single-garden plucking and attendance system is closer to the starting price than a multi-estate platform with factory, stock and dispatch modules. You receive an itemised quote within about two working days and can remove any line you do not need. See all plans on our <a href=\"/pricing/\">pricing page</a>.",
       ],
     },

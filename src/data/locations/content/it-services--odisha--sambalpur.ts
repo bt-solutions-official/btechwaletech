@@ -208,7 +208,7 @@ const content: CityContent = {
       id: "cost-it-solutions-sambalpur",
       heading: "How much do IT solutions cost in Sambalpur?",
       paragraphs: [
-        "IT solutions in Sambalpur start from ₹10,000 for a static service website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000. Details are on the <a href=\"/pricing/\">pricing page</a>.",
+        "IT solutions in Sambalpur start from ₹10,000 for a static service website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000. Details are on the <a href=\"/pricing/\">pricing page</a>.",
         "What changes the price is scope: modules, user roles, offline entry, Tally or WhatsApp integration, Odia content and migration of old records. Phased delivery keeps the first payment small and lets you see results before committing further.",
         "Clients pay only in INR, by UPI through our QR code or by direct bank transfer to our bank account, against milestones agreed in writing. Timelines run from one to two weeks for a website to six to twelve weeks for custom software.",
       ],

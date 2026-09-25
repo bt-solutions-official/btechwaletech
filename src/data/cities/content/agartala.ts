@@ -34,7 +34,7 @@ const agartala: CityContent = {
     pills: ["Sites from ₹10,000", "Bengali and English pages", "Rubber and bamboo catalogues", "WhatsApp order replies", "You own every login"],
   },
   quickAnswer:
-    "An Agartala business can get a small website from ₹10,000, ready in one to two weeks. A 700+ page site built for Google search starts at ₹20,000, AI and WhatsApp automation at ₹40,000, and an online store with UPI at ₹50,000. We work remotely, hand over domain and code, and maintain the site free for five months.",
+    "An Agartala business can get a small website from ₹10,000, ready in one to two weeks. A 299+ page site built for Google search starts at ₹20,000, AI and WhatsApp automation at ₹40,000, and an online store with UPI at ₹50,000. We work remotely, hand over domain and code, and maintain the site free for five months.",
   snapshot: [
     { label: "Role", value: "State capital of Tripura and its largest city, on the Haora river close to the Bangladesh border" },
     { label: "Old markets", value: "Maharajganj Bazar (Gol Bazar), set up under the Tripura kings, and Battala, known for fish, garments and footwear" },
@@ -107,7 +107,7 @@ const agartala: CityContent = {
       ],
       list: [
         "<strong>Starter website, from ₹10,000 (1–2 weeks):</strong> up to 100 pages for a shop, clinic, tutor or consultant.",
-        "<strong>Search-ready site of 700+ pages, from ₹20,000 (3–5 weeks):</strong> for rubber traders, hotels, schools and service firms that need to rank for many searches.",
+        "<strong>Search-ready site of 299+ pages, from ₹20,000 (3–5 weeks):</strong> for rubber traders, hotels, schools and service firms that need to rank for many searches.",
         "<strong>AI and WhatsApp automation, from ₹40,000 (2–4 weeks):</strong> auto-replies, lead capture and booking flows.",
         "<strong>Online store, from ₹50,000 (4–8 weeks):</strong> bamboo, handloom, tea or food products with UPI checkout.",
         "<strong>Custom web application, from ₹60,000 (6–12 weeks):</strong> ledgers, dealer portals and internal tools.",
@@ -217,7 +217,7 @@ const agartala: CityContent = {
     {
       question: "What does a website cost for a business in Agartala?",
       answer:
-        "A starter site for a shop, clinic or tutor begins at ₹10,000 and takes one to two weeks. A search-focused site of 700+ pages starts at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. You receive an itemised quote in about two working days, and nothing is billed before you approve it.",
+        "A starter site for a shop, clinic or tutor begins at ₹10,000 and takes one to two weeks. A search-focused site of 299+ pages starts at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. You receive an itemised quote in about two working days, and nothing is billed before you approve it.",
     },
     {
       question: "Amar Agartala-y dokan ache, website banate koto khoroch hobe?",
@@ -277,7 +277,7 @@ const agartala: CityContent = {
     {
       question: "How long does a website take to launch?",
       answer:
-        "A starter website usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom web app six to twelve weeks. The biggest delay is usually content, so having photos and basic text ready speeds things up considerably.",
+        "A starter website usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom web app six to twelve weeks. The biggest delay is usually content, so having photos and basic text ready speeds things up considerably.",
     },
     {
       question: "Will my website load well on slow mobile networks?",

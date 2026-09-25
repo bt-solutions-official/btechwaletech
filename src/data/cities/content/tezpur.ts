@@ -40,7 +40,7 @@ const tezpur: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Assamese and English SEO", "Litchi and tea stores", "Accounts in your name"],
   },
   quickAnswer:
-    "A Tezpur business website with us starts at ₹10,000 and is usually live within one to two weeks. Android and iOS apps and AI automation start at ₹40,000, SEO websites with 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely with no Tezpur office, and the domain, code and store accounts are yours.",
+    "A Tezpur business website with us starts at ₹10,000 and is usually live within one to two weeks. Android and iOS apps and AI automation start at ₹40,000, SEO websites with 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely with no Tezpur office, and the domain, code and store accounts are yours.",
   snapshot: [
     { label: "Location", value: "Headquarters of Sonitpur district, on the Brahmaputra's north bank, about 175 km north-east of Guwahati" },
     { label: "Population", value: "About 1.03 lakh in the 2011 census, speaking Assamese, Bengali, Hindi and other languages" },
@@ -152,7 +152,7 @@ const tezpur: CityContent = {
       id: "website-cost-tezpur",
       heading: "Website cost in Tezpur: starting prices and how the quote is built",
       paragraphs: [
-        "Our static websites of up to 100 pages start at ₹10,000 and take one to two weeks. SEO websites of 700+ pages, useful for hospitals with many services or tourism businesses covering many places, start at ₹20,000 and take three to five weeks. Android and iOS apps start at ₹40,000, and AI automation also starts at ₹40,000 with two to four weeks of work.",
+        "Our static websites of up to 100 pages start at ₹10,000 and take one to two weeks. SEO websites of 299+ pages, useful for hospitals with many services or tourism businesses covering many places, start at ₹20,000 and take three to five weeks. Android and iOS apps start at ₹40,000, and AI automation also starts at ₹40,000 with two to four weeks of work.",
         "Online stores start at ₹50,000 and take four to eight weeks. Custom web apps and business software start at ₹60,000 and take six to twelve weeks. Monthly SEO starts at ₹10,000 a month. After launch you receive five months of free maintenance, and ongoing maintenance starts at ₹8,000 a month.",
         "Quotes in Tezpur and Guwahati vary widely, so compare on the same points: who owns the domain and code, whether Assamese content is included, revisions, support after launch and hosting terms. Our itemised quote comes in about two working days, and nothing is billed before your written approval. See the <a href=\"/pricing/\">pricing</a> page for the full list.",
       ],
@@ -214,7 +214,7 @@ const tezpur: CityContent = {
     {
       question: "What is the website cost in Tezpur?",
       answer:
-        "Static websites start at ₹10,000, SEO websites with 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final quote depends on pages, Assamese content, products and integrations, and you receive it itemised in writing before anything is billed.",
+        "Static websites start at ₹10,000, SEO websites with 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final quote depends on pages, Assamese content, products and integrations, and you receive it itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Tezpur businesses?",

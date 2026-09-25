@@ -39,7 +39,7 @@ const shahabadHardoi: CityContent = {
     pills: ["Hindi websites from ₹10,000", "Android & iOS apps from ₹40,000", "Local SEO for Hardoi district", "Carpet and dairy stores", "Accounts in your name"],
   },
   quickAnswer:
-    "For businesses in Shahabad, Hardoi, our websites start at ₹10,000 and are usually ready in one to two weeks. Android and iOS apps start at ₹40,000, and so does AI or WhatsApp automation. SEO websites of 700+ pages start at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely, and you own everything.",
+    "For businesses in Shahabad, Hardoi, our websites start at ₹10,000 and are usually ready in one to two weeks. Android and iOS apps start at ₹40,000, and so does AI or WhatsApp automation. SEO websites of 299+ pages start at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely, and you own everything.",
   snapshot: [
     { label: "Location", value: "Tehsil and block headquarters in Hardoi district, Lucknow division, roughly 35 km by road from Hardoi" },
     { label: "Founded", value: "1677, by Nawab Diler Khan, a Pathan officer of the Mughal army, on the site of a village called Angadpur" },
@@ -150,7 +150,7 @@ const shahabadHardoi: CityContent = {
       id: "website-cost-shahabad",
       heading: "Website cost in Shahabad: starting prices and what to compare",
       paragraphs: [
-        "For Shahabad clients our starting points are these: a static website of up to 100 pages from ₹10,000, ready in one to two weeks; a 700+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; an online store from ₹50,000 in four to eight weeks; and custom software from ₹60,000 over six to twelve weeks. Monthly SEO starts at ₹10,000, and maintenance at ₹8,000 a month once the free period ends.",
+        "For Shahabad clients our starting points are these: a static website of up to 100 pages from ₹10,000, ready in one to two weeks; a 299+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; an online store from ₹50,000 in four to eight weeks; and custom software from ₹60,000 over six to twelve weeks. Monthly SEO starts at ₹10,000, and maintenance at ₹8,000 a month once the free period ends.",
         "The <strong>website cost in Shahabad</strong> goes up with more pages, Hindi and English versions, big product catalogues, logins, payment set-up or a Tally link. Content matters too: if you supply text and photographs, the quote is lower, and if we write and edit them, that is a separate line.",
         "Local quotes vary widely, so compare on substance. Ask whose name the domain and hosting will be in, whether mobile testing and basic SEO are included, how many rounds of changes you get and who fixes things after launch. Details are on our <a href=\"/pricing/\">pricing page</a>.",
       ],
@@ -211,7 +211,7 @@ const shahabadHardoi: CityContent = {
     {
       question: "What is the website cost in Shahabad, Hardoi?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final quote depends on page count, Hindi and English content, payments and integrations, and every item is listed separately before you approve.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final quote depends on page count, Hindi and English content, payments and integrations, and every item is listed separately before you approve.",
     },
     {
       question: "Do you build Android and iOS apps for Shahabad businesses?",
@@ -221,7 +221,7 @@ const shahabadHardoi: CityContent = {
     {
       question: "How long does it take to make a website in Shahabad?",
       answer:
-        "A static website is usually ready in one to two weeks after we get your text and photos. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Sending content early is the simplest way to keep to the timeline.",
+        "A static website is usually ready in one to two weeks after we get your text and photos. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Sending content early is the simplest way to keep to the timeline.",
     },
     {
       question: "Which is the best website development team in Shahabad?",
@@ -246,7 +246,7 @@ const shahabadHardoi: CityContent = {
     {
       question: "Shahabad me website banwane me kitna kharcha lagta hai?",
       answer:
-        "Hamare yahan simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein live ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aakhri quote pages aur features dekh kar banta hai, aur aapki likhit manzoori se pehle koi paisa nahi liya jaata.",
+        "Hamare yahan simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein live ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aakhri quote pages aur features dekh kar banta hai, aur aapki likhit manzoori se pehle koi paisa nahi liya jaata.",
     },
     {
       question: "You have no office in Shahabad. Can I trust remote work?",

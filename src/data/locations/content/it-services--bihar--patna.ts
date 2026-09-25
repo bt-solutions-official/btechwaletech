@@ -204,7 +204,7 @@ const content: CityContent = {
       id: "software-cost-timeline-patna",
       heading: "Software development cost in Patna: what our freelance developers charge and how long it takes",
       paragraphs: [
-        "Custom software and web apps with us start at ₹60,000 and take roughly six to twelve weeks; AI automation starts at ₹40,000 and takes two to four weeks. A business website starts at ₹10,000 (one to two weeks), a large 700+ page SEO site at ₹20,000 (three to five weeks) and an online store at ₹50,000 (four to eight weeks). Android and iOS apps start at ₹40,000 and take six to ten weeks.",
+        "Custom software and web apps with us start at ₹60,000 and take roughly six to twelve weeks; AI automation starts at ₹40,000 and takes two to four weeks. A business website starts at ₹10,000 (one to two weeks), a large 299+ page SEO site at ₹20,000 (three to five weeks) and an online store at ₹50,000 (four to eight weeks). Android and iOS apps start at ₹40,000 and take six to ten weeks.",
         "What moves the price is scope: how many types of user log in, how many screens and reports, whether you need integrations with Tally, SMS, WhatsApp or a payment gateway, and how much old data must be cleaned and imported. A simple fee-tracking tool for one institute sits near the starting figure. A multi-branch system with parent apps, test series and dashboards costs more, and we explain every line.",
         "Timelines depend as much on your side as ours. Projects move fastest when one person can make decisions, sample data is ready early, and feedback on each weekly demo comes back within a day or two.",
       ],

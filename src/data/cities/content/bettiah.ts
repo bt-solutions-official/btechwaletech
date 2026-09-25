@@ -35,7 +35,7 @@ const bettiah: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi and Bhojpuri-aware copy", "Marcha rice and chura stores", "Clinic and school sites", "WhatsApp enquiry tools"],
   },
   quickAnswer:
-    "Bettiah shops, clinics and traders can get a static website with up to 100 pages from ₹10,000, delivered in one to two weeks. Bigger 700+ page SEO sites begin at ₹20,000, Marcha rice or chura stores at ₹50,000 and WhatsApp or AI automation at ₹40,000. We have no Bettiah office, and upkeep costs nothing for five months.",
+    "Bettiah shops, clinics and traders can get a static website with up to 100 pages from ₹10,000, delivered in one to two weeks. Bigger 299+ page SEO sites begin at ₹20,000, Marcha rice or chura stores at ₹50,000 and WhatsApp or AI automation at ₹40,000. We have no Bettiah office, and upkeep costs nothing for five months.",
   snapshot: [
     { label: "District role", value: "Headquarters of West Champaran in Tirhut division, about 225 km north-west of Patna" },
     { label: "Farm economy", value: "West Champaran produced the most sugarcane in Bihar in 2022; sugar production is centred in Majhaulia, Bagaha, Narkatiaganj and Lauriya" },
@@ -73,7 +73,7 @@ const bettiah: CityContent = {
       heading: "Website costs in Bettiah",
       paragraphs: [
         "Bettiah owners usually ask the price before anything else, so we answer it in public on our <a href=\"/pricing/\">pricing page</a>. The entry level is a static site of up to 100 pages, starting at ₹10,000 and normally live within one or two weeks. For that you get a design that works on phones, pages for what you sell or offer, your photos, a contact form, a Google map, a WhatsApp button and the basic settings search engines need. Hindi pages come at no extra charge.",
-        "Some businesses need many more pages to be found for many searches: a wholesaler listing every product line, a hospital with a page per department, a school with classes, hostels and activities. That kind of 700+ page SEO build starts at ₹20,000 and takes three to five weeks. Beyond that, stores start at ₹50,000, WhatsApp and AI automation at ₹40,000, custom software at ₹60,000 and a monthly SEO plan at ₹10,000.",
+        "Some businesses need many more pages to be found for many searches: a wholesaler listing every product line, a hospital with a page per department, a school with classes, hostels and activities. That kind of 299+ page SEO build starts at ₹20,000 and takes three to five weeks. Beyond that, stores start at ₹50,000, WhatsApp and AI automation at ₹40,000, custom software at ₹60,000 and a monthly SEO plan at ₹10,000.",
         "Treat every number here as the floor, not the bill. One doctor's chamber is a small job; a chura brand shipping to twenty states is a larger one. Send us a short description and within roughly two working days you get a written, item-by-item quote. Work is billed only after you have signed off on it.",
       ],
       list: [
@@ -226,7 +226,7 @@ const bettiah: CityContent = {
     {
       question: "How much does a website cost in Bettiah?",
       answer:
-        "Starting prices with us: ₹10,000 for a static site, ₹20,000 for a 700+ page SEO site, ₹50,000 for an online store and ₹60,000 for a custom web application. If you are weighing another Bettiah offer against ours, ask who will own the domain, whether Google setup is included, and who fixes things once the site is live.",
+        "Starting prices with us: ₹10,000 for a static site, ₹20,000 for a 299+ page SEO site, ₹50,000 for an online store and ₹60,000 for a custom web application. If you are weighing another Bettiah offer against ours, ask who will own the domain, whether Google setup is included, and who fixes things once the site is live.",
     },
     {
       question: "Bettiah me dokan ke website ketna me bani?",

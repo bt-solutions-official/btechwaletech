@@ -22,7 +22,7 @@ const content: CityContent = {
       "AI search visibility Gurgaon",
       "generative engine optimisation Gurugram",
       "schema markup services Gurgaon",
-      "SEO website 700 pages Gurugram",
+      "SEO website 299 pages Gurugram",
       "monthly SEO package Gurgaon price",
       "Android app development Gurgaon",
       "iOS app development Gurugram",
@@ -36,10 +36,10 @@ const content: CityContent = {
     h1: "Freelance SEO services in Gurgaon for local, technical and AI-search visibility",
     lede:
       "SEO services in Gurgaon from BtechWaleTech mean three independent engineers fixing the technical foundations of your site, building sector-level local pages, writing schema and tuning content so Google, Maps and AI assistants can understand your business. We work remotely from India, quote monthly SEO from ₹10,000, and connect search work to your website, app and lead automation instead of treating rankings as a separate report.",
-    pills: ["Monthly SEO from ₹10,000", "SEO website of 700+ pages from ₹20,000", "Local SEO by sector", "Schema and AI-search work", "Pay by UPI or bank transfer"],
+    pills: ["Monthly SEO from ₹10,000", "SEO website of 299+ pages from ₹20,000", "Local SEO by sector", "Schema and AI-search work", "Pay by UPI or bank transfer"],
   },
   quickAnswer:
-    "SEO services in Gurgaon from BtechWaleTech start at ₹10,000 per month for technical, on-page, local and content work with Search Console reporting. A new 700+ page SEO website starts at ₹20,000 and takes three to five weeks. We are a freelance group of three engineers working remotely, and we never promise guaranteed rankings.",
+    "SEO services in Gurgaon from BtechWaleTech start at ₹10,000 per month for technical, on-page, local and content work with Search Console reporting. A new 299+ page SEO website starts at ₹20,000 and takes three to five weeks. We are a freelance group of three engineers working remotely, and we never promise guaranteed rankings.",
   snapshot: [
     { label: "Search-heavy districts", value: "DLF Cyber City, Golf Course Road, Golf Course Extension Road, Sohna Road and MG Road generate dense, competitive local searches" },
     { label: "Residential sectors", value: "Hundreds of numbered sectors plus DLF Phases 1 to 5, Sushant Lok, South City and Palam Vihar, each searched by name" },
@@ -64,7 +64,7 @@ const content: CityContent = {
   whyUsIntro:
     "Most Gurgaon SEO proposals are written by sales teams and executed by juniors. With us, the engineer who audits your site is the one who changes the templates, writes the schema and explains the Search Console numbers to you, in English or Hindi.",
   pricingIntro:
-    "SEO in Gurugram is priced monthly from ₹10,000, while a new SEO-first website of 700+ pages starts at ₹20,000. Related builds, such as Android and iOS apps from ₹40,000 or custom software from ₹60,000, are quoted separately and itemised.",
+    "SEO in Gurugram is priced monthly from ₹10,000, while a new SEO-first website of 299+ pages starts at ₹20,000. Related builds, such as Android and iOS apps from ₹40,000 or custom software from ₹60,000, are quoted separately and itemised.",
   sections: [
     {
       id: "what-seo-services-in-gurgaon-include",
@@ -147,10 +147,10 @@ const content: CityContent = {
       ],
     },
     {
-      id: "seo-website-700-pages-gurgaon",
-      heading: "When does a Gurgaon business need a large SEO website of 700+ pages?",
+      id: "seo-website-299-pages-gurgaon",
+      heading: "When does a Gurgaon business need a large SEO website of 299+ pages?",
       paragraphs: [
-        "A Gurgaon business needs a large SEO website when it serves many locations, products or combinations that people search for separately, such as a pest control firm covering every sector, a B2B distributor with hundreds of SKUs, or a coaching brand with course-by-locality pages. Our SEO website plan starts at ₹20,000 for 700+ pages and takes three to five weeks, design to deployment.",
+        "A Gurgaon business needs a large SEO website when it serves many locations, products or combinations that people search for separately, such as a pest control firm covering every sector, a B2B distributor with hundreds of SKUs, or a coaching brand with course-by-locality pages. Our SEO website plan starts at ₹20,000 for 299+ pages and takes three to five weeks, design to deployment.",
         "Scale is only useful when every page earns its place. We build these sites from structured data: a spreadsheet or database of sectors, services, landmarks, prices and FAQs, fed into templates that produce genuinely different pages. Each page gets its own title, local details, internal links to nearby pages and schema. Pages without enough unique information are merged rather than published.",
         "The build uses static generation with Astro or Next.js, so pages load quickly and hosting costs stay low. We submit sitemaps in batches, watch the index coverage report, and prune or improve pages that Google declines to index after a few months. This is where a programmatic site differs from spam: the feedback loop.",
       ],
@@ -194,7 +194,7 @@ const content: CityContent = {
       heading: "How much do SEO services cost in Gurgaon?",
       paragraphs: [
         "SEO services in Gurgaon range widely, from a few thousand rupees a month for basic listing work to several lakh for enterprise retainers. Our monthly SEO starts at ₹10,000 and covers technical fixes, on-page and content work, local SEO and Search Console reporting; the final figure depends on the size of the site, competition in your niche and how much new content you need.",
-        "Projects that need building work are quoted separately. A fresh static website starts at ₹10,000, a 700+ page SEO website from ₹20,000, an ecommerce store from ₹50,000, Android and iOS apps from ₹40,000, AI automation from ₹40,000 and custom software from ₹60,000. See the full breakdown on our <a href='/pricing/'>pricing page</a>.",
+        "Projects that need building work are quoted separately. A fresh static website starts at ₹10,000, a 299+ page SEO website from ₹20,000, an ecommerce store from ₹50,000, Android and iOS apps from ₹40,000, AI automation from ₹40,000 and custom software from ₹60,000. See the full breakdown on our <a href='/pricing/'>pricing page</a>.",
         "Be sceptical of very cheap SEO in Gurugram. Packages under a few thousand rupees usually mean automated directory submissions and spun articles, which can do more harm than nothing. Equally, a high retainer is not automatically better. Ask for the task list, the hours involved and who does the work.",
       ],
     },

@@ -39,7 +39,7 @@ const punch: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Urdu, Hindi and English pages", "Guest house and taxi bookings", "Your domain, your code"],
   },
   quickAnswer:
-    "In Poonch, a business website with us begins at ₹10,000 and usually takes one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation also at ₹40,000, SEO websites of 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely and have no Poonch office.",
+    "In Poonch, a business website with us begins at ₹10,000 and usually takes one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation also at ₹40,000, SEO websites of 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely and have no Poonch office.",
   snapshot: [
     { label: "Location", value: "Headquarters of Poonch district in Haveli tehsil, at the confluence of the Poonch River and Betar Nala, about 1,021 m above sea level" },
     { label: "District tehsils", value: "Haveli, Mandi, Mendhar, Surankote, Mankote and Balakote" },
@@ -170,7 +170,7 @@ const punch: CityContent = {
       id: "website-cost-poonch",
       heading: "Website cost in Poonch, and how to compare quotes",
       paragraphs: [
-        "The starting points are simple. A static site of up to 100 pages is ₹10,000 onwards and is usually ready in one to two weeks. A 700+ page SEO site, useful for a travel operator covering every route and destination, is ₹20,000 onwards and takes three to five weeks. Apps and AI automation start at ₹40,000 each, a store at ₹50,000, custom software at ₹60,000, and monthly SEO at ₹10,000.",
+        "The starting points are simple. A static site of up to 100 pages is ₹10,000 onwards and is usually ready in one to two weeks. A 299+ page SEO site, useful for a travel operator covering every route and destination, is ₹20,000 onwards and takes three to five weeks. Apps and AI automation start at ₹40,000 each, a store at ₹50,000, custom software at ₹60,000, and monthly SEO at ₹10,000.",
         "The figure rises only with choices you make: Urdu and Hindi alongside English, many room types or products, booking forms, payments, staff logins or importing old records. Each is a separate line you can accept or remove. Sending your own text and phone photographs keeps the cost close to the starting price.",
         "Quotes in Jammu and Srinagar vary widely, and a lower number can hide costs later. Ask who owns the domain and code, whether basic SEO and mobile testing are included, how many revisions you get and who handles problems next year. Our <a href=\"/pricing/\">pricing page</a> lists every starting price, and your itemised quote comes within about two working days.",
       ],
@@ -229,7 +229,7 @@ const punch: CityContent = {
     {
       question: "What is the website cost in Poonch?",
       answer:
-        "Our static websites start at ₹10,000, SEO websites of 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, languages, booking forms and features. You get it itemised in writing, and nothing is billed before you approve it.",
+        "Our static websites start at ₹10,000, SEO websites of 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, languages, booking forms and features. You get it itemised in writing, and nothing is billed before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Poonch businesses?",
@@ -239,7 +239,7 @@ const punch: CityContent = {
     {
       question: "How long does it take to build a website for a Poonch business?",
       answer:
-        "A simple site usually goes live one to two weeks after we receive your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Sending content early is the biggest factor in speed.",
+        "A simple site usually goes live one to two weeks after we receive your photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Sending content early is the biggest factor in speed.",
     },
     {
       question: "Who is the best website development team in Poonch?",
@@ -264,7 +264,7 @@ const punch: CityContent = {
     {
       question: "Poonch mein website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aksar ek-do hafte mein taiyaar ho jaati hai. 700+ page ki SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hote hain. Har cheez ka alag hisaab likhit quote mein milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aksar ek-do hafte mein taiyaar ho jaati hai. 299+ page ki SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hote hain. Har cheez ka alag hisaab likhit quote mein milta hai.",
     },
     {
       question: "You have no office in Poonch. Is it safe to work with you?",

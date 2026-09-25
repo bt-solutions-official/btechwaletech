@@ -35,7 +35,7 @@ const tanda: CityContent = {
     pills: ["Sites from ₹10,000", "Wholesale cloth catalogues", "Hindi and Urdu-friendly pages", "WhatsApp order logging", "Your domain, your code"],
   },
   quickAnswer:
-    "In Tanda, a basic website for a powerloom unit, cloth trader, school or shop starts at ₹10,000 with us and usually goes live in one to two weeks. A 700+ page SEO site starts at ₹20,000, WhatsApp automation at ₹40,000 and an online store at ₹50,000. We are a remote team with no office in Tanda, and maintenance is free for five months.",
+    "In Tanda, a basic website for a powerloom unit, cloth trader, school or shop starts at ₹10,000 with us and usually goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp automation at ₹40,000 and an online store at ₹50,000. We are a remote team with no office in Tanda, and maintenance is free for five months.",
   snapshot: [
     { label: "Location", value: "Tehsil town on the Ghaghara (Saryu) river, about 20 km north-east of Akbarpur, headquarters of Ambedkar Nagar district" },
     { label: "Population", value: "95,516 at the 2011 census; Hindi, Awadhi and Urdu are widely spoken" },
@@ -74,12 +74,12 @@ const tanda: CityContent = {
       heading: "What a website costs in Tanda, and what to look for in a quote",
       paragraphs: [
         "Quotes for websites around Tanda and Akbarpur vary widely, from someone's nephew offering a free template to agencies in Lucknow sending long proposals. The number alone tells you little. Look at what is included: whether the domain is registered in your name, whether basic search setup is done, how fast the site opens on a phone, whether you can change rates and photos yourself, and who will fix things later.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website with up to 100 pages starts at ₹10,000 and takes one to two weeks. That is enough for most powerloom units, cloth traders, shops, clinics and schools. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. It suits a trader with hundreds of designs who wants each one found separately in search.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website with up to 100 pages starts at ₹10,000 and takes one to two weeks. That is enough for most powerloom units, cloth traders, shops, clinics and schools. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. It suits a trader with hundreds of designs who wants each one found separately in search.",
         "WhatsApp and AI automation starts at ₹40,000, an online store at ₹50,000 and custom software such as a production or job-work register at ₹60,000. Monthly SEO starts at ₹10,000. You receive a quote listing every page and feature, and we bill nothing until you approve it in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, Hindi and English, design gallery, enquiry form, map and search basics.",
-        "<strong>From ₹20,000:</strong> 700+ pages, with separate pages for designs, fabrics and buyer regions.",
+        "<strong>From ₹20,000:</strong> 299+ pages, with separate pages for designs, fabrics and buyer regions.",
         "<strong>From ₹40,000:</strong> WhatsApp automation for catalogue sharing, rate replies and order logging.",
         "<strong>From ₹50,000:</strong> online store with UPI and card payments for direct sales.",
         "<strong>From ₹60,000:</strong> production, yarn stock and payment tracking software.",
@@ -201,7 +201,7 @@ const tanda: CityContent = {
   ],
   industries: [
     { name: "Powerloom units", need: "Direct buyers outside Tanda, better margins, clear specifications", build: "Design catalogue, gated rate list, wholesale enquiry form, WhatsApp automation" },
-    { name: "Cloth traders and wholesalers", need: "New retailers across states, order tracking", build: "700+ page product catalogue, order logging, dispatch records" },
+    { name: "Cloth traders and wholesalers", need: "New retailers across states, order tracking", build: "299+ page product catalogue, order logging, dispatch records" },
     { name: "Direct-selling weavers", need: "Household buyers for gamchha and lungi packs", build: "UPI store with pack sizes, courier options and simple returns" },
     { name: "NTPC-area contractors", need: "Credibility with plant engineers and purchase teams", build: "Capability site, company profile download, job and billing tools" },
     { name: "Schools, madrasas and coaching", need: "Admissions, fee and transport information", build: "Hindi and English admission pages, notices, WhatsApp routing" },
@@ -213,12 +213,12 @@ const tanda: CityContent = {
     {
       question: "How much does a website cost in Tanda?",
       answer:
-        "With us, a static website of up to 100 pages starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Other quotes may be lower or much higher, so check domain ownership, search basics, mobile speed and support after launch before comparing.",
+        "With us, a static website of up to 100 pages starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Other quotes may be lower or much higher, so check domain ownership, search basics, mobile speed and support after launch before comparing.",
     },
     {
       question: "Tanda me website banwane me kitna kharcha aata hai?",
       answer:
-        "Humare saath ek simple website ₹10,000 se shuru hoti hai, 700+ page wali SEO website ₹20,000 se, aur online store ₹50,000 se. Aakhri price pages, designs, features aur content par depend karti hai. Kaam shuru karne se pehle aapko likhit, itemised quote milta hai, aur aapki manzoori ke baad hi bill banta hai.",
+        "Humare saath ek simple website ₹10,000 se shuru hoti hai, 299+ page wali SEO website ₹20,000 se, aur online store ₹50,000 se. Aakhri price pages, designs, features aur content par depend karti hai. Kaam shuru karne se pehle aapko likhit, itemised quote milta hai, aur aapki manzoori ke baad hi bill banta hai.",
     },
     {
       question: "Do you have an office in Tanda or Akbarpur?",
@@ -243,7 +243,7 @@ const tanda: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static website usually takes one to two weeks, a 700+ page SEO site three to five weeks, AI automation two to four weeks, an online store four to eight weeks and custom software six to twelve weeks. The usual delay is waiting for photos and product details, so we send drafts for you to check.",
+        "A static website usually takes one to two weeks, a 299+ page SEO site three to five weeks, AI automation two to four weeks, an online store four to eight weeks and custom software six to twelve weeks. The usual delay is waiting for photos and product details, so we send drafts for you to check.",
     },
     {
       question: "What does WhatsApp automation do for a cloth business?",

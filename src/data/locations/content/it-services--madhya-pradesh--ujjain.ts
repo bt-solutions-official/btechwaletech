@@ -191,7 +191,7 @@ const content: CityContent = {
       heading: "SEO and AI-search visibility for Ujjain hotels and pilgrim services",
       paragraphs: [
         "SEO for Ujjain businesses means appearing when pilgrims search for stays, pujas, taxis and guides near Mahakal and other temples, and being described correctly by AI tools like Google AI Overviews and ChatGPT, which increasingly answer trip-planning questions directly. It depends on fast pages, accurate facts, schema and a well-maintained Google Business Profile.",
-        "Pilgrims ask practical questions: distance from the temple, parking, lifts for elderly guests, food options, check-in times and puja durations. Pages that answer these clearly, in Hindi and English, rank better and get cited more. Static sites start at ₹10,000, 700+ page SEO websites at ₹20,000 and monthly SEO at ₹10,000.",
+        "Pilgrims ask practical questions: distance from the temple, parking, lifts for elderly guests, food options, check-in times and puja durations. Pages that answer these clearly, in Hindi and English, rank better and get cited more. Static sites start at ₹10,000, 299+ page SEO websites at ₹20,000 and monthly SEO at ₹10,000.",
         "We do not guarantee rankings, and we avoid fake reviews or copied content. For website-focused detail see the separate <a href='/ujjain/'>Ujjain websites page</a>, plus our <a href='/services/seo-services/'>SEO services</a> and <a href='/services/web-development/'>web development</a> pages.",
       ],
     },

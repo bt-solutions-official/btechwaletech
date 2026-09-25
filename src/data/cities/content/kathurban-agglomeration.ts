@@ -39,7 +39,7 @@ const kathua: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi and Dogri-aware local SEO", "Factory and trade software", "You own code and domain"],
   },
   quickAnswer:
-    "Kathua businesses can get a basic website from us for ₹10,000 onwards, typically delivered inside a fortnight. Android and iOS apps begin at ₹40,000, as does AI automation; a 700+ page SEO site is ₹20,000 onwards, an ecommerce store ₹50,000 onwards and bespoke software ₹60,000 onwards. We have no Kathua office and work remotely, while every login is registered to you.",
+    "Kathua businesses can get a basic website from us for ₹10,000 onwards, typically delivered inside a fortnight. Android and iOS apps begin at ₹40,000, as does AI automation; a 299+ page SEO site is ₹20,000 onwards, an ecommerce store ₹50,000 onwards and bespoke software ₹60,000 onwards. We have no Kathua office and work remotely, while every login is registered to you.",
   snapshot: [
     { label: "Location", value: "District headquarters in the Jammu division, at the foot of the Shivaliks on NH-44, roughly 80–88 km south-east of Jammu city" },
     { label: "Rivers", value: "The Ravi about 7 km south, the Ujh about 11 km north, and a seasonal khad dividing the town into Parliwand and Orliwand" },
@@ -148,7 +148,7 @@ const kathua: CityContent = {
       id: "website-cost-kathua",
       heading: "Website cost in Kathua and how to compare quotes",
       paragraphs: [
-        "So what is the <strong>website cost in Kathua</strong>? With us, ₹10,000 onwards buys a static site of as many as 100 pages, usually live in under two weeks. A search-focused site of 700 pages or more is ₹20,000 onwards over three to five weeks. Apps and AI automation are each ₹40,000 onwards, an ecommerce store ₹50,000 onwards and made-to-order software ₹60,000 onwards; monthly SEO is ₹10,000 onwards.",
+        "So what is the <strong>website cost in Kathua</strong>? With us, ₹10,000 onwards buys a static site of as many as 100 pages, usually live in under two weeks. A search-focused site of 299 pages or more is ₹20,000 onwards over three to five weeks. Apps and AI automation are each ₹40,000 onwards, an ecommerce store ₹50,000 onwards and made-to-order software ₹60,000 onwards; monthly SEO is ₹10,000 onwards.",
         "Figures quoted by designers in Kathua, Jammu and Pathankot differ a lot, so line the quotes up item by item. Find out whose name the domain and hosting will be in, whether Hindi content is charged separately, how many rounds of changes you get, what happens after the site goes live, and whether product photos, copywriting and the Google profile are part of the deal. A provider worth hiring can show you sites still running a year or two after handover.",
         "Our written, line-by-line estimate normally reaches you in two working days, and we raise no bill until you have signed off on it. See the <a href=\"/pricing/\">pricing page</a> for the complete list.",
       ],
@@ -208,7 +208,7 @@ const kathua: CityContent = {
     {
       question: "What is the cost of a website in Kathua?",
       answer:
-        "With us a static site of up to 100 pages is ₹10,000 onwards, generally live in under two weeks. A 700+ page SEO site is ₹20,000 onwards, an ecommerce store ₹50,000 onwards and made-to-order software ₹60,000 onwards. You receive a line-by-line estimate, and no bill is raised until you sign off.",
+        "With us a static site of up to 100 pages is ₹10,000 onwards, generally live in under two weeks. A 299+ page SEO site is ₹20,000 onwards, an ecommerce store ₹50,000 onwards and made-to-order software ₹60,000 onwards. You receive a line-by-line estimate, and no bill is raised until you sign off.",
     },
     {
       question: "How many days does it take to make a website in Kathua?",

@@ -39,7 +39,7 @@ const manglaur: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first local SEO", "Vendor capability sites", "Every login in your name"],
   },
   quickAnswer:
-    "Manglaur businesses can get a website from us starting at ₹10,000, usually in one to two weeks. Android and iOS apps start at ₹40,000, and AI or WhatsApp automation also from ₹40,000. SEO sites of 700+ pages start at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We are remote, with no Manglaur office.",
+    "Manglaur businesses can get a website from us starting at ₹10,000, usually in one to two weeks. Android and iOS apps start at ₹40,000, and AI or WhatsApp automation also from ₹40,000. SEO sites of 299+ pages start at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We are remote, with no Manglaur office.",
   snapshot: [
     { label: "Location", value: "Municipal board town in Haridwar district, about 10 km from Roorkee and 175 km from Delhi" },
     { label: "Highway", value: "On the Delhi–Haridwar national highway, a major pilgrim and freight route" },
@@ -224,7 +224,7 @@ const manglaur: CityContent = {
     {
       question: "What is the website cost in Manglaur?",
       answer:
-        "Static websites start at ₹10,000, SEO websites of 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices only. The written quote lists each item separately, such as Hindi pages, products or payment integration, and nothing is billed until you approve it. Ask for a sample quote if you want to see the format first.",
+        "Static websites start at ₹10,000, SEO websites of 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices only. The written quote lists each item separately, such as Hindi pages, products or payment integration, and nothing is billed until you approve it. Ask for a sample quote if you want to see the format first.",
     },
     {
       question: "Do you build Android and iOS apps for Manglaur businesses?",
@@ -234,7 +234,7 @@ const manglaur: CityContent = {
     {
       question: "How many days does a Manglaur website take?",
       answer:
-        "A simple static website usually goes live in one to two weeks after we receive your text, photos and contact details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The fastest projects are the ones where content arrives in the first few days.",
+        "A simple static website usually goes live in one to two weeks after we receive your text, photos and contact details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The fastest projects are the ones where content arrives in the first few days.",
     },
     {
       question: "Which is the best website development team in Manglaur?",
@@ -259,7 +259,7 @@ const manglaur: CityContent = {
     {
       question: "Manglaur me website banwane me kitna kharcha aata hai?",
       answer:
-        "Hamare saath Manglaur me simple website ₹10,000 se shuru hoti hai aur lagbhag ek-do hafte me live ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hota hai. Har cheez ka likhit quote milta hai, approval ke baad hi kaam shuru hota hai.",
+        "Hamare saath Manglaur me simple website ₹10,000 se shuru hoti hai aur lagbhag ek-do hafte me live ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hota hai. Har cheez ka likhit quote milta hai, approval ke baad hi kaam shuru hota hai.",
     },
     {
       question: "Can you make software for cane transport and farm input dealers?",

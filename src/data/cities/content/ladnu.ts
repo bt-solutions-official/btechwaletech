@@ -39,7 +39,7 @@ const ladnu: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first pages", "Dharamshala booking forms", "Every account in your name"],
   },
   quickAnswer:
-    "In Ladnun, a business website with us starts at ₹10,000 and is typically ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Ladnun office, and you own everything we build.",
+    "In Ladnun, a business website with us starts at ₹10,000 and is typically ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Ladnun office, and you own everything we build.",
   snapshot: [
     { label: "Location", value: "Tehsil and subdivision headquarters in Didwana-Kuchaman district, about 225 km north-west of Jaipur" },
     { label: "District", value: "Part of Didwana-Kuchaman district since it was carved out of Nagaur in August 2023" },
@@ -150,7 +150,7 @@ const ladnu: CityContent = {
       id: "website-cost-ladnun",
       heading: "Website cost in Ladnun: starting prices and how to judge a quote",
       paragraphs: [
-        "Our work in Ladnun starts at these figures. A static website of up to 100 pages from ₹10,000, taking one to two weeks. A 700+ page SEO website from ₹20,000, over three to five weeks. Android and iOS apps from ₹40,000. AI automation from ₹40,000, over two to four weeks. An online store from ₹50,000, over four to eight weeks. Custom web apps and software from ₹60,000, over six to twelve weeks.",
+        "Our work in Ladnun starts at these figures. A static website of up to 100 pages from ₹10,000, taking one to two weeks. A 299+ page SEO website from ₹20,000, over three to five weeks. Android and iOS apps from ₹40,000. AI automation from ₹40,000, over two to four weeks. An online store from ₹50,000, over four to eight weeks. Custom web apps and software from ₹60,000, over six to twelve weeks.",
         "The quote rises with scope: more pages, full Hindi and English versions, big catalogues, payment integration, logins or accounting links. If you provide text and photographs, the price stays close to the starting figure; if we write the content, it appears as its own line.",
         "Quotes from other providers vary widely. Before choosing, ask whose name the domain and hosting will be in, whether mobile testing and basic SEO are included, how many rounds of changes you get and who fixes problems after launch. Our <a href=\"/pricing/\">pricing page</a> lists the starting figures, and you can <a href=\"/contact/\">share your requirement</a> for a written estimate.",
       ],
@@ -211,7 +211,7 @@ const ladnu: CityContent = {
     {
       question: "What is the website cost in Ladnun?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final quote depends on pages, Hindi content, products and integrations, and it is sent itemised and in writing before any work is billed.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final quote depends on pages, Hindi content, products and integrations, and it is sent itemised and in writing before any work is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Ladnun businesses?",
@@ -221,7 +221,7 @@ const ladnu: CityContent = {
     {
       question: "How long does it take to build a website in Ladnun?",
       answer:
-        "A static website usually goes live in one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Sending content early is the biggest thing you can do to speed things up.",
+        "A static website usually goes live in one to two weeks after we receive your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Sending content early is the biggest thing you can do to speed things up.",
     },
     {
       question: "Who is the best website development team in Ladnun?",
@@ -246,7 +246,7 @@ const ladnu: CityContent = {
     {
       question: "Ladnun me website banwane me kitna kharcha aata hai?",
       answer:
-        "Hamare yahan simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein ban jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapki zaroorat ke hisaab se likhit quote milta hai, aur approval se pehle koi paisa nahi liya jaata.",
+        "Hamare yahan simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein ban jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapki zaroorat ke hisaab se likhit quote milta hai, aur approval se pehle koi paisa nahi liya jaata.",
     },
     {
       question: "You have no office in Ladnun. Is working remotely safe?",

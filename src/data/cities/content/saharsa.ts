@@ -35,7 +35,7 @@ const saharsa: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi pages, Maithili welcome", "Sell makhana online", "Clinic and school sites", "WhatsApp order handling"],
   },
   quickAnswer:
-    "For a Saharsa business, a static website with us starts at ₹10,000 and goes live in one to two weeks. A 700+ page SEO site starts at ₹20,000 and an online store at ₹50,000. We are a remote team of three engineers with no Saharsa office, and every site includes five months of free maintenance.",
+    "For a Saharsa business, a static website with us starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000 and an online store at ₹50,000. We are a remote team of three engineers with no Saharsa office, and every site includes five months of free maintenance.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of Saharsa district and of the Kosi division, which also covers Madhepura and Supaul" },
     { label: "Signature produce", value: "Makhana (fox nut) from the ponds and wetlands of the Kosi basin, part of the Mithila makhana belt" },
@@ -73,12 +73,12 @@ const saharsa: CityContent = {
       heading: "What a website costs in Saharsa",
       paragraphs: [
         "Prices for a basic site in Saharsa range from a couple of thousand rupees for a template page to much higher quotes from agencies in Patna, Kolkata or Delhi. The cheapest offers often skip search setup and keep the domain in the developer's name. The expensive ones may include overheads a local business does not need.",
-        "Our prices are on the <a href=\"/pricing/\">pricing page</a> and every figure is a starting price. A static website with up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom software at ₹60,000, AI and WhatsApp automation at ₹40,000, and monthly SEO at ₹10,000.",
+        "Our prices are on the <a href=\"/pricing/\">pricing page</a> and every figure is a starting price. A static website with up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom software at ₹60,000, AI and WhatsApp automation at ₹40,000, and monthly SEO at ₹10,000.",
         "The final figure depends on what you need. A single clinic needs fewer pages than a makhana brand with twenty products in several pack sizes. You get a quote listing every page and feature, and nothing is billed before you approve it in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, map, enquiry form and basic SEO.",
-        "<strong>From ₹20,000:</strong> 700+ pages for businesses targeting many products or services.",
+        "<strong>From ₹20,000:</strong> 299+ pages for businesses targeting many products or services.",
         "<strong>From ₹50,000:</strong> online store with UPI, cards and courier options for makhana and other goods.",
         "<strong>From ₹60,000:</strong> custom registers, portals and dashboards with logins.",
       ],
@@ -227,12 +227,12 @@ const saharsa: CityContent = {
     {
       question: "How much does a website cost in Saharsa?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. The final amount depends on pages and features, and you get an itemised written quote before anything is billed.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. The final amount depends on pages and features, and you get an itemised written quote before anything is billed.",
     },
     {
       question: "Saharsa me website banwane ka kharcha kitna aata hai?",
       answer:
-        "Humare saath simple website ₹10,000 se shuru hoti hai, 700+ page wali SEO website ₹20,000 se aur online store ₹50,000 se. Final rate pages, features aur content par depend karta hai. Kaam shuru hone se pehle aapko likhit itemised quote milta hai, aur aapki manzoori ke baad hi bill banta hai.",
+        "Humare saath simple website ₹10,000 se shuru hoti hai, 299+ page wali SEO website ₹20,000 se aur online store ₹50,000 se. Final rate pages, features aur content par depend karta hai. Kaam shuru hone se pehle aapko likhit itemised quote milta hai, aur aapki manzoori ke baad hi bill banta hai.",
     },
     {
       question: "Do you have an office in Saharsa?",
@@ -257,7 +257,7 @@ const saharsa: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve. Most delays come from waiting for photos and text, so we send a checklist on the first day.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve. Most delays come from waiting for photos and text, so we send a checklist on the first day.",
     },
     {
       question: "What can WhatsApp automation do for my business?",

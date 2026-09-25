@@ -39,7 +39,7 @@ const mhowCantonment: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi and English SEO", "Resort booking pages", "WhatsApp automation"],
   },
   quickAnswer:
-    "For Mhow (Dr. Ambedkar Nagar) businesses, static websites start at ₹10,000 and take one to two weeks, 700+ page SEO sites start at ₹20,000, Android and iOS apps and AI automation start at ₹40,000, ecommerce stores at ₹50,000 and custom software at ₹60,000. We are three engineers working remotely, with no Mhow office.",
+    "For Mhow (Dr. Ambedkar Nagar) businesses, static websites start at ₹10,000 and take one to two weeks, 299+ page SEO sites start at ₹20,000, Android and iOS apps and AI automation start at ₹40,000, ecommerce stores at ₹50,000 and custom software at ₹60,000. We are three engineers working remotely, with no Mhow office.",
   snapshot: [
     { label: "Location", value: "Cantonment town in Indore district, about 23 km south-west of Indore on the old Agra–Mumbai road" },
     { label: "Official name", value: "Dr. Ambedkar Nagar, after B. R. Ambedkar, who was born here; the Bhim Janmabhoomi memorial marks the site" },
@@ -77,7 +77,7 @@ const mhowCantonment: CityContent = {
       heading: "Website cost in Mhow: starting prices without surprises",
       paragraphs: [
         "We publish our starting prices so you can judge us before a call. The <a href=\"/pricing/\">pricing page</a> shows every figure, and after one conversation about your business we send a written quote that lists each page, language and feature separately.",
-        "A static site of up to 100 pages starts at ₹10,000 and is ready in one to two weeks. That includes a design that works well on phones, call and WhatsApp buttons, a map, an enquiry form and basic search setup, in Hindi, English or both. A 700+ page SEO site, which suits businesses wanting enquiries from Indore, Rau, Pithampur, Manpur and Simrol as well as Mhow, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, ecommerce stores at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
+        "A static site of up to 100 pages starts at ₹10,000 and is ready in one to two weeks. That includes a design that works well on phones, call and WhatsApp buttons, a map, an enquiry form and basic search setup, in Hindi, English or both. A 299+ page SEO site, which suits businesses wanting enquiries from Indore, Rau, Pithampur, Manpur and Simrol as well as Mhow, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, ecommerce stores at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
         "Quotes from Indore agencies and local designers vary widely. When comparing, ask who registers the domain, whether text and photographs are included, what support looks like after launch and whether Hindi pages cost extra. We begin only after you approve our quote in writing, and every figure we give is a starting point that your scope can raise.",
       ],
       list: [
@@ -227,7 +227,7 @@ const mhowCantonment: CityContent = {
     {
       question: "How much does a website cost in Mhow?",
       answer:
-        "A static website of up to 100 pages starts at ₹10,000, a 700+ page SEO site at ₹20,000, an Android and iOS app at ₹40,000, AI or WhatsApp automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. The final quote depends on pages, languages and features, and nothing is billed before your written approval.",
+        "A static website of up to 100 pages starts at ₹10,000, a 299+ page SEO site at ₹20,000, an Android and iOS app at ₹40,000, AI or WhatsApp automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. The final quote depends on pages, languages and features, and nothing is billed before your written approval.",
     },
     {
       question: "Mhow me website ya app banwane me kitna kharcha aata hai?",
@@ -252,7 +252,7 @@ const mhowCantonment: CityContent = {
     {
       question: "How long does a website take in Mhow?",
       answer:
-        "Plan on one to two weeks for a static site, three to five weeks for a 700+ page SEO site, four to eight weeks for an online store and six to twelve weeks for custom software. App timelines depend on features. Most delays come from content, so we send a checklist of photographs and details on day one.",
+        "Plan on one to two weeks for a static site, three to five weeks for a 299+ page SEO site, four to eight weeks for an online store and six to twelve weeks for custom software. App timelines depend on features. Most delays come from content, so we send a checklist of photographs and details on day one.",
     },
     {
       question: "My business shows as Mhow, Mhow Cantt and Dr. Ambedkar Nagar on Google Maps. Can you fix it?",

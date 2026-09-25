@@ -35,7 +35,7 @@ const surat: CityContent = {
     pills: ["Sites from ₹10,000", "Gujarati and Hindi SEO", "Saree and fabric catalogues", "WhatsApp order flows", "Custom web apps"],
   },
   quickAnswer:
-    "A website for a Surat business costs from ₹10,000 with us, and a 700+ page SEO website from ₹20,000, typically ready in one to five weeks. B2B catalogues and online stores start at ₹50,000, custom web apps at ₹60,000. We are a remote team of three engineers, and every project comes with five months of free maintenance.",
+    "A website for a Surat business costs from ₹10,000 with us, and a 299+ page SEO website from ₹20,000, typically ready in one to five weeks. B2B catalogues and online stores start at ₹50,000, custom web apps at ₹60,000. We are a remote team of three engineers, and every project comes with five months of free maintenance.",
   snapshot: [
     { label: "Textile trade", value: "Wholesale markets along Ring Road, including New Textile Market and Millennium Textile Market" },
     { label: "Textile production", value: "Weaving, dyeing and processing units in Udhna, Pandesara and Sachin GIDC" },
@@ -73,12 +73,12 @@ const surat: CityContent = {
       heading: "How much does a website cost in Surat?",
       paragraphs: [
         "Surat has website offers for ₹1,999 and agency quotes above ₹50,000. The cheapest usually mean a template, no SEO and a domain registered by the developer. Expensive ones often pay for showrooms and sales staff. Neither tells you clearly what you are getting.",
-        "Our starting prices are public. A static website of up to 100 pages starts from ₹10,000 and goes live in one to two weeks. A 700+ page SEO website with pages for each product category, service and area starts from ₹20,000 and takes three to five weeks. A B2B catalogue or online store with UPI and card payments starts from ₹50,000. Custom web applications, such as reseller portals or order management, start from ₹60,000. Automation starts from ₹40,000, and monthly SEO from ₹10,000.",
+        "Our starting prices are public. A static website of up to 100 pages starts from ₹10,000 and goes live in one to two weeks. A 299+ page SEO website with pages for each product category, service and area starts from ₹20,000 and takes three to five weeks. A B2B catalogue or online store with UPI and card payments starts from ₹50,000. Custom web applications, such as reseller portals or order management, start from ₹60,000. Automation starts from ₹40,000, and monthly SEO from ₹10,000.",
         "For textile firms, the biggest variable is the number of products and how often they change. A trader with forty designs a season needs less than one who launches two hundred a week. You receive an itemised quote in about two working days, and nothing is billed until you approve it in writing.",
       ],
       list: [
         "<strong>Static website, from ₹10,000:</strong> up to 100 pages, enquiry form, mobile layout, basic SEO. For clinics, consultants, CA firms and small shops.",
-        "<strong>SEO website, from ₹20,000:</strong> 700+ pages, schema, sitemap, category and area pages. For firms that want regular search enquiries.",
+        "<strong>SEO website, from ₹20,000:</strong> 299+ pages, schema, sitemap, category and area pages. For firms that want regular search enquiries.",
         "<strong>Catalogue or store, from ₹50,000:</strong> product listings, UPI and card checkout or WhatsApp ordering. For textile traders and brands.",
         "<strong>Web application, from ₹60,000:</strong> logins, roles, dashboards and integrations. For mills, traders and diamond firms.",
       ],
@@ -218,12 +218,12 @@ const surat: CityContent = {
     {
       question: "How much does a website cost in Surat?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO website from ₹20,000, a B2B catalogue or online store from ₹50,000 and a custom web application from ₹60,000. Surat quotes for similar work range from under ₹2,000 to over ₹50,000. Compare what is included, especially SEO, ownership and support after launch.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO website from ₹20,000, a B2B catalogue or online store from ₹50,000 and a custom web application from ₹60,000. Surat quotes for similar work range from under ₹2,000 to over ₹50,000. Compare what is included, especially SEO, ownership and support after launch.",
     },
     {
       question: "Surat ma website banavva no kharch ketlo thay?",
       answer:
-        "Amara paase simple business website ₹10,000 thi sharu thay chhe. 700+ pages ni SEO website ₹20,000 thi ane online store ke catalogue ₹50,000 thi. Ketla pages, kaya features ane content taiyar chhe ke nahi, tena par final kimmat aadhar rakhe chhe. Kaam sharu karta pehla tamne puro itemised quote malse.",
+        "Amara paase simple business website ₹10,000 thi sharu thay chhe. 299+ pages ni SEO website ₹20,000 thi ane online store ke catalogue ₹50,000 thi. Ketla pages, kaya features ane content taiyar chhe ke nahi, tena par final kimmat aadhar rakhe chhe. Kaam sharu karta pehla tamne puro itemised quote malse.",
     },
     {
       question: "Do you have an office in Surat?",
@@ -233,7 +233,7 @@ const surat: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static website takes one to two weeks, a 700+ page SEO site three to five weeks, a catalogue or online store four to eight weeks and a custom application six to twelve weeks. For textile catalogues, the main factor is how quickly product photos and details are ready, so we set up bulk uploading to speed things up.",
+        "A static website takes one to two weeks, a 299+ page SEO site three to five weeks, a catalogue or online store four to eight weeks and a custom application six to twelve weeks. For textile catalogues, the main factor is how quickly product photos and details are ready, so we set up bulk uploading to speed things up.",
     },
     {
       question: "Can you help my shop or firm appear on Google Maps in Surat?",

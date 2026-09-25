@@ -68,7 +68,7 @@ const content: FreelanceContent = {
     note: "A rate means little until you know what it buys. These are the project types we quote, with the parts included at the starting price.",
     cards: [
       { name: "Static business website", note: `From ${P.site}: up to 100 pages, mobile layouts, contact form, WhatsApp button, basic SEO tags and launch on your hosting. 1–2 weeks.`, href: "/services/web-development/", size: "lg" },
-      { name: "SEO website with 700+ pages", note: `From ${P.seoSite}: data-driven service and location pages, schema, sitemaps and Search Console setup. The rate reflects page templates, not per-page typing.`, href: "/seo-website-developer/", size: "lg" },
+      { name: "SEO website with 299+ pages", note: `From ${P.seoSite}: data-driven service and location pages, schema, sitemaps and Search Console setup. The rate reflects page templates, not per-page typing.`, href: "/seo-website-developer/", size: "lg" },
       { name: "Online store", note: `From ${P.shop}: catalogue, cart, UPI and card checkout and order emails. Product entry and photography are separate lines if you need them.`, href: "/freelance-ecommerce-developer/", size: "md" },
       { name: "Custom web app", note: `From ${P.software}: logins, roles, dashboards and APIs. Priced by screens, roles and integrations rather than hours logged.`, href: "/web-application-developer/", size: "md" },
       { name: "Android & iOS app", note: `From ${P.app}: one Flutter or React Native codebase, published in your store accounts. Store fees are paid by you directly.`, href: "/it-services/android-ios-app/", size: "md" },
@@ -157,7 +157,7 @@ const content: FreelanceContent = {
       id: "rates-by-project",
       heading: "Freelance web developer rates by project type",
       paragraphs: [
-        `Here are our own starting rates, so you have firm reference points instead of market guesses. A static website of up to 100 pages starts at ${P.site} and takes 1–2 weeks. An SEO website with 700+ pages starts at ${P.seoSite} and takes 3–5 weeks. An online store starts at ${P.shop} over 4–8 weeks. A custom web app or software starts at ${P.software} over 6–12 weeks. An Android and iOS app starts at ${P.app} over 6–10 weeks, and AI automation from ${P.ai} over 2–4 weeks.`,
+        `Here are our own starting rates, so you have firm reference points instead of market guesses. A static website of up to 100 pages starts at ${P.site} and takes 1–2 weeks. An SEO website with 299+ pages starts at ${P.seoSite} and takes 3–5 weeks. An online store starts at ${P.shop} over 4–8 weeks. A custom web app or software starts at ${P.software} over 6–12 weeks. An Android and iOS app starts at ${P.app} over 6–10 weeks, and AI automation from ${P.ai} over 2–4 weeks.`,
         `Ongoing work is monthly: SEO from ${P.seo} and maintenance from ${P.care}, the latter only after five months of free maintenance post-launch. None of these is a package price; each is the floor from which your itemised quote is built. For a longer explanation by website type, see <a href='/website-making-cost-in-india/'>website making cost in India</a>.`,
       ],
     },
@@ -314,7 +314,7 @@ const content: FreelanceContent = {
       columns: ["Work", "India", "Abroad", "Typical time", "Billing"],
       rows: [
         ["Static website, up to 100 pages", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Project, milestones"],
-        ["SEO website, 700+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Project, milestones"],
+        ["SEO website, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Project, milestones"],
         ["Online store", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Project, milestones"],
         ["Custom web app or software", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Project, milestones"],
         ["Android & iOS app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Project, milestones"],

@@ -179,7 +179,7 @@ const content: CityContent = {
       heading: "SEO in Hindi and English, local SEO and AI-search visibility across UP",
       paragraphs: [
         "SEO for Uttar Pradesh businesses means ranking for the Hindi and English searches your buyers make in the cities and districts you serve, on Google search and Maps, and presenting clear facts that AI assistants can repeat accurately. Monthly SEO with us starts from ₹10,000.",
-        "Local SEO starts with a complete Google Business Profile, consistent contact details, genuine reviews and photos. We then create a separate, useful page for each service and each city you can genuinely serve, rather than one page listing every district. Hindi pages often face less competition and rank faster for local services. Exporters need English product and capability pages targeting buyer searches. For large catalogues, our <a href='/services/seo-services/'>SEO services</a> include 700+ page SEO websites from ₹20,000.",
+        "Local SEO starts with a complete Google Business Profile, consistent contact details, genuine reviews and photos. We then create a separate, useful page for each service and each city you can genuinely serve, rather than one page listing every district. Hindi pages often face less competition and rank faster for local services. Exporters need English product and capability pages targeting buyer searches. For large catalogues, our <a href='/services/seo-services/'>SEO services</a> include 299+ page SEO websites from ₹20,000.",
         "For AI search, we add structured data, FAQ sections and consistent business details across the web. We never promise rankings. Local results commonly improve within three to six months; statewide or export keywords take longer. Monthly reports use Search Console data.",
       ],
     },
@@ -187,7 +187,7 @@ const content: CityContent = {
       id: "up-it-solutions-cost",
       heading: "How much do IT solutions cost in Uttar Pradesh?",
       paragraphs: [
-        "IT solutions in Uttar Pradesh with BtechWaleTech start from ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for ecommerce and ₹60,000 for custom software. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000 a month after five free months.",
+        "IT solutions in Uttar Pradesh with BtechWaleTech start from ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for ecommerce and ₹60,000 for custom software. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000 a month after five free months.",
         "These are starting prices. The final figure depends on the number of screens and user roles, integrations with Tally or other systems, offline requirements, language versions, data migration and content writing. After a free consulting call, you receive an itemised quote in about two working days and can move features into later phases.",
         "Clients pay only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in INR. Payments are split into milestones: an advance, a payment on approving the working preview, and the balance at launch. See all plans on our <a href='/pricing/'>pricing page</a> and previous work in the <a href='/portfolio/'>portfolio</a>.",
       ],

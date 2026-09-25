@@ -34,7 +34,7 @@ const navsari: CityContent = {
     pills: ["Sites from ₹10,000", "Gujarati and English pages", "Chikoo and mango stores with UPI", "WhatsApp order automation", "Domain registered to you"],
   },
   quickAnswer:
-    "For Navsari businesses, our websites start at ₹10,000 and a 700+ page SEO website starts at ₹20,000. Online stores begin from ₹50,000 and custom software from ₹60,000. We are a remote three-engineer team with no Navsari office, and every launch includes five months of free maintenance.",
+    "For Navsari businesses, our websites start at ₹10,000 and a 299+ page SEO website starts at ₹20,000. Online stores begin from ₹50,000 and custom software from ₹60,000. We are a remote three-engineer team with no Navsari office, and every launch includes five months of free maintenance.",
   snapshot: [
     { label: "Where it sits", value: "About 37 km south of Surat, on the Mumbai–Delhi rail line and NH 48" },
     { label: "Known for", value: "Parsi heritage, Jamsetji Tata’s birthplace, and Dandi of the 1930 Salt March" },
@@ -71,7 +71,7 @@ const navsari: CityContent = {
       id: "navsari-website-prices",
       heading: "What a website costs in Navsari with us",
       paragraphs: [
-        "We keep our numbers public so you can budget before a single call. A business website of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks. An SEO website with 700+ pages, where every service, product line and nearby town gets its own page, starts at ₹20,000 and takes three to five weeks. Online stores with UPI and card checkout start at ₹50,000, and custom web applications such as order portals or clinic systems start at ₹60,000.",
+        "We keep our numbers public so you can budget before a single call. A business website of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks. An SEO website with 299+ pages, where every service, product line and nearby town gets its own page, starts at ₹20,000 and takes three to five weeks. Online stores with UPI and card checkout start at ₹50,000, and custom web applications such as order portals or clinic systems start at ₹60,000.",
         "AI and WhatsApp automation projects begin at ₹40,000. Ongoing SEO starts at ₹10,000 a month, and maintenance starts at ₹8,000 a month once the five free months end. The full list sits on our <a href=\"/pricing/\">pricing page</a>.",
         "Scope moves the final figure more than anything else. A tuition class with six pages and a contact form is quick. A fruit trader who wants daily rates, a Gujarati version of every page and a WhatsApp order flow needs more work. Each page and feature is written into the quote, and no invoice is raised until you approve the scope in writing.",
       ],
@@ -217,12 +217,12 @@ const navsari: CityContent = {
     {
       question: "How much does a website cost in Navsari?",
       answer:
-        "With us, a business website starts at ₹10,000 and a 700+ page SEO website starts at ₹20,000. Online stores start from ₹50,000 and custom software from ₹60,000. Local quotes vary widely, so compare what is included, especially domain ownership, basic SEO setup and support after launch.",
+        "With us, a business website starts at ₹10,000 and a 299+ page SEO website starts at ₹20,000. Online stores start from ₹50,000 and custom software from ₹60,000. Local quotes vary widely, so compare what is included, especially domain ownership, basic SEO setup and support after launch.",
     },
     {
       question: "Navsari ma website banavva mate ketlo kharch thay?",
       answer:
-        "Amari sathe saadi business website ₹10,000 thi sharu thay chhe, ane 700+ page ni SEO website ₹20,000 thi sharu thay chhe. Online store ₹50,000 thi sharu thay chhe. Kaam sharu karta pehla tamne lekhit itemised quote malse, ane tamari manjuri vagar koi bill nahi bane.",
+        "Amari sathe saadi business website ₹10,000 thi sharu thay chhe, ane 299+ page ni SEO website ₹20,000 thi sharu thay chhe. Online store ₹50,000 thi sharu thay chhe. Kaam sharu karta pehla tamne lekhit itemised quote malse, ane tamari manjuri vagar koi bill nahi bane.",
     },
     {
       question: "Do you have an office in Navsari?",
@@ -252,7 +252,7 @@ const navsari: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A business website takes one to two weeks, an SEO website of 700+ pages three to five weeks, an online store four to eight weeks, and a custom application six to twelve weeks. Waiting for photos and text is the usual cause of delay, so we draft content for you to correct.",
+        "A business website takes one to two weeks, an SEO website of 299+ pages three to five weeks, an online store four to eight weeks, and a custom application six to twelve weeks. Waiting for photos and text is the usual cause of delay, so we draft content for you to correct.",
     },
     {
       question: "What can WhatsApp automation do for a Navsari trader?",

@@ -39,7 +39,7 @@ const nanpara: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi Google Maps SEO", "Transport and trade software", "Every login in your name"],
   },
   quickAnswer:
-    "Nanpara shops, mills and transporters pay from ₹10,000 for a website, normally ready inside two weeks. Apps for Android and iOS begin at ₹40,000, as does AI or WhatsApp automation. Larger work starts at ₹20,000 for a 700+ page SEO site, ₹50,000 for online selling and ₹60,000 for custom software. Our team is remote, with no Nanpara office.",
+    "Nanpara shops, mills and transporters pay from ₹10,000 for a website, normally ready inside two weeks. Apps for Android and iOS begin at ₹40,000, as does AI or WhatsApp automation. Larger work starts at ₹20,000 for a 299+ page SEO site, ₹50,000 for online selling and ₹60,000 for custom software. Our team is remote, with no Nanpara office.",
   snapshot: [
     { label: "District", value: "Bahraich district, about 36 km north of Bahraich city and roughly 160 km from Lucknow" },
     { label: "Border", value: "Around 16 km from the India–Nepal border; Rupaidiha, facing Nepalgunj, is the main crossing nearby" },
@@ -149,7 +149,7 @@ const nanpara: CityContent = {
       id: "website-cost-nanpara",
       heading: "Website cost in Nanpara: starting prices and how to compare quotes",
       paragraphs: [
-        "Think of our prices as floors. For a Nanpara shop or clinic, a static website of up to 100 pages begins at ₹10,000 and takes one to two weeks. A transporter or distributor that wants a page for every route and village can choose a 700-plus page SEO website from ₹20,000, built over three to five weeks. Apps for Android and iOS, and AI automation, each begin at ₹40,000.",
+        "Think of our prices as floors. For a Nanpara shop or clinic, a static website of up to 100 pages begins at ₹10,000 and takes one to two weeks. A transporter or distributor that wants a page for every route and village can choose a 299-plus page SEO website from ₹20,000, built over three to five weeks. Apps for Android and iOS, and AI automation, each begin at ₹40,000.",
         "Selling through your own online store begins at ₹50,000 with four to eight weeks of work. A trip register, mill stock system or other custom software begins at ₹60,000 and takes six to twelve weeks, while ongoing SEO begins at ₹10,000 a month. The number climbs only for extras you ask for, such as a second language, a big catalogue, GPS, extra payment modes or more staff logins, and each extra sits on a separate line of the quote.",
         "Around Bahraich you will hear very different figures for what sounds like the same job. Line them up by asking five things: in whose name is the domain, has the site been checked on inexpensive phones, is basic SEO part of the price, how many rounds of changes are allowed, and who will pick up the phone next year. The <a href=\"/pricing/\">pricing page</a> has our starting points, and an itemised quote follows in about two working days.",
       ],
@@ -219,7 +219,7 @@ const nanpara: CityContent = {
     {
       question: "What is the website cost in Nanpara?",
       answer:
-        "It depends on scope, but the floors are clear: ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Hindi content, product count and integrations decide the final figure, which you see itemised in writing before paying anything.",
+        "It depends on scope, but the floors are clear: ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Hindi content, product count and integrations decide the final figure, which you see itemised in writing before paying anything.",
     },
     {
       question: "Do you build Android and iOS apps for Nanpara businesses?",
@@ -229,7 +229,7 @@ const nanpara: CityContent = {
     {
       question: "How long does a website take for a Nanpara shop?",
       answer:
-        "Count on one to two weeks for a simple shop site, measured from the day your photos and details reach us. Bigger jobs take longer: three to five weeks for a 700+ page SEO site, four to eight for a store, six to twelve for custom software. Sending content in the first few days is the single best way to finish early.",
+        "Count on one to two weeks for a simple shop site, measured from the day your photos and details reach us. Bigger jobs take longer: three to five weeks for a 299+ page SEO site, four to eight for a store, six to twelve for custom software. Sending content in the first few days is the single best way to finish early.",
     },
     {
       question: "Who is the best website development team in Nanpara?",
@@ -254,7 +254,7 @@ const nanpara: CityContent = {
     {
       question: "Nanpara me website banwane me kitna kharcha aata hai?",
       answer:
-        "Nanpara mein chhoti dukaan ya clinic ki website ₹10,000 se shuru hoti hai, aam taur par ek se do hafte ka kaam. Badi SEO website (700+ page) ₹20,000 se, Android-iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. WhatsApp par apna kaam batayein, pages aur features ke hisaab se likhit quote milega.",
+        "Nanpara mein chhoti dukaan ya clinic ki website ₹10,000 se shuru hoti hai, aam taur par ek se do hafte ka kaam. Badi SEO website (299+ page) ₹20,000 se, Android-iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. WhatsApp par apna kaam batayein, pages aur features ke hisaab se likhit quote milega.",
     },
     {
       question: "You have no office in Nanpara. Is it safe to work with you remotely?",

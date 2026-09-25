@@ -39,7 +39,7 @@ const goalpara: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Assamese and Bengali pages", "Schools and coaching sites", "All logins in your name"],
   },
   quickAnswer:
-    "Goalpara shops, schools and clinics can get a website from ₹10,000, typically finished inside a fortnight. Mobile apps for Android and iPhone begin at ₹40,000, the same entry point as AI automation; SEO sites of 700+ pages begin at ₹20,000, stores at ₹50,000 and bespoke software at ₹60,000. Our team is remote, with no Goalpara office.",
+    "Goalpara shops, schools and clinics can get a website from ₹10,000, typically finished inside a fortnight. Mobile apps for Android and iPhone begin at ₹40,000, the same entry point as AI automation; SEO sites of 299+ pages begin at ₹20,000, stores at ₹50,000 and bespoke software at ₹60,000. Our team is remote, with no Goalpara office.",
   snapshot: [
     { label: "Location", value: "Headquarters of Goalpara district on the Brahmaputra, about 134 km west of Guwahati" },
     { label: "Landscape", value: "Hulukanda Hill in the town centre; Hashila, Kumri and Urpad beels nearby, with migratory birds at Urpad from October to March" },
@@ -161,7 +161,7 @@ const goalpara: CityContent = {
       id: "website-cost-goalpara",
       heading: "Website cost in Goalpara: starting prices and how to compare quotes",
       paragraphs: [
-        "Nearly every Goalpara owner opens with the same question, so the numbers come first. For ₹10,000 onwards you get a static site of up to 100 pages, good for a lodge, tuition centre, pharmacy or clinic, usually built within a week or two. When an institute or dealer wants hundreds of pages, one per course, product or neighbouring town, the 700-plus page SEO build begins at ₹20,000 and needs three to five weeks.",
+        "Nearly every Goalpara owner opens with the same question, so the numbers come first. For ₹10,000 onwards you get a static site of up to 100 pages, good for a lodge, tuition centre, pharmacy or clinic, usually built within a week or two. When an institute or dealer wants hundreds of pages, one per course, product or neighbouring town, the 299-plus page SEO build begins at ₹20,000 and needs three to five weeks.",
         "Mobile apps for both platforms begin at ₹40,000, and WhatsApp or AI automation begins at the same level. A shop that takes payments online starts from ₹50,000; bespoke tools like a retailer credit ledger start from ₹60,000; and a monthly search engine plan begins at ₹10,000. Anything above those floors comes from choices you make, such as a third language, hundreds of products, several payment methods, logins for staff or a Tally bridge, and you can strike any of them off the quote.",
         "Ask two agencies in Guwahati or Bongaigaon for the same job and the figures can be far apart. Look past the total. Check whose name the domain is booked in, whether the source code comes to you, whether anyone tried the site on a cheap entry-level phone, whether the Assamese and Bengali were written by someone who reads them, how many change rounds are allowed and what next year's support costs. Every floor price we charge is listed on the <a href=\"/pricing/\">pricing page</a>; your own line-by-line quote follows within roughly two working days.",
       ],
@@ -222,7 +222,7 @@ const goalpara: CityContent = {
     {
       question: "What is the website cost in Goalpara?",
       answer:
-        "A brochure-style site for a Goalpara shop or clinic begins at ₹10,000. From there, a 700-plus page SEO build begins at ₹20,000, a store that takes payments at ₹50,000 and tailor-made software at ₹60,000. Languages, product count and integrations move the figure up, and every addition is priced separately in writing before we bill anything.",
+        "A brochure-style site for a Goalpara shop or clinic begins at ₹10,000. From there, a 299-plus page SEO build begins at ₹20,000, a store that takes payments at ₹50,000 and tailor-made software at ₹60,000. Languages, product count and integrations move the figure up, and every addition is priced separately in writing before we bill anything.",
     },
     {
       question: "Do you build Android and iOS apps for Goalpara businesses?",
@@ -232,7 +232,7 @@ const goalpara: CityContent = {
     {
       question: "How long does a website take for a Goalpara business?",
       answer:
-        "Once your photos and text reach us, a simple site takes around one to two weeks. Bigger jobs need more time: roughly three to five weeks for a 700-page SEO build, four to eight for a store, six to twelve for custom software. Multilingual sites move quickest when you send checked Assamese or Bengali text early.",
+        "Once your photos and text reach us, a simple site takes around one to two weeks. Bigger jobs need more time: roughly three to five weeks for a 299-page SEO build, four to eight for a store, six to twelve for custom software. Multilingual sites move quickest when you send checked Assamese or Bengali text early.",
     },
     {
       question: "Which is the best website development team in Goalpara?",

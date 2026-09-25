@@ -39,7 +39,7 @@ const ambejogai: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Marathi-first local SEO", "Clinic and college portals", "You hold every login"],
   },
   quickAnswer:
-    "In Ambejogai, a business website with us starts at ₹10,000 and is usually live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, with no Ambejogai office, and you own everything.",
+    "In Ambejogai, a business website with us starts at ₹10,000 and is usually live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, with no Ambejogai office, and you own everything.",
   snapshot: [
     { label: "Location", value: "Taluka headquarters in Beed district, Marathwada, on the Jayawanti river" },
     { label: "Population", value: "74,844 at the 2011 Census, with literacy close to 86%" },
@@ -157,7 +157,7 @@ const ambejogai: CityContent = {
       id: "website-cost-ambejogai",
       heading: "Website cost in Ambejogai: starting prices and how to compare",
       paragraphs: [
-        "Our starting prices in Ambejogai are the same as everywhere else: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 700+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. Monthly SEO starts at ₹10,000 a month.",
+        "Our starting prices in Ambejogai are the same as everywhere else: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 299+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. Monthly SEO starts at ₹10,000 a month.",
         "The quote rises with scope: more pages, both Marathi and English, big product lists, logins, payments, report downloads or links to existing software. If you supply text and photographs, the cost stays near the starting figure. If we write or translate content, that shows as a separate line you can accept or drop.",
         "Local quotes vary widely. When you compare, ask whose name the domain and hosting will be in, whether mobile testing and basic SEO are included, how many rounds of changes you get, and who will fix things after launch.",
         "All starting points are on our <a href=\"/pricing/\">pricing page</a>, and your itemised quote arrives in about two working days.",
@@ -219,7 +219,7 @@ const ambejogai: CityContent = {
     {
       question: "What is the website cost in Ambejogai?",
       answer:
-        "A static website with us starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, Marathi content, products and integrations, and you receive it itemised in writing before any billing.",
+        "A static website with us starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, Marathi content, products and integrations, and you receive it itemised in writing before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Ambejogai businesses?",
@@ -229,7 +229,7 @@ const ambejogai: CityContent = {
     {
       question: "How long does a website take in Ambejogai?",
       answer:
-        "A static website usually goes live one to two weeks after we get your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Quick content and approvals from you speed everything up.",
+        "A static website usually goes live one to two weeks after we get your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Quick content and approvals from you speed everything up.",
     },
     {
       question: "Who is the best website development team in Ambejogai?",
@@ -259,7 +259,7 @@ const ambejogai: CityContent = {
     {
       question: "Ambajogai madhye website banvaylā kiti kharch yeto?",
       answer:
-        "Amchyakade sadhi website ₹10,000 pasun suru hote ani sādharan ek te don athavdyat taiyar hote. 700+ page SEO website ₹20,000 pasun, Android ani iOS app ₹40,000 pasun ani online store ₹50,000 pasun suru aahe. Tumchya garjenusar lekhi quote milto.",
+        "Amchyakade sadhi website ₹10,000 pasun suru hote ani sādharan ek te don athavdyat taiyar hote. 299+ page SEO website ₹20,000 pasun, Android ani iOS app ₹40,000 pasun ani online store ₹50,000 pasun suru aahe. Tumchya garjenusar lekhi quote milto.",
     },
     {
       question: "You have no office in Ambejogai. Is remote work safe?",

@@ -39,7 +39,7 @@ const tura: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Local SEO for Garo Hills", "Homestay and school sites", "You own every account"],
   },
   quickAnswer:
-    "In Tura, Meghalaya, a website with us starts from ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start from ₹40,000, AI automation from ₹40,000, a 700+ page SEO site from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team with no Tura office.",
+    "In Tura, Meghalaya, a website with us starts from ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start from ₹40,000, AI automation from ₹40,000, a 299+ page SEO site from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team with no Tura office.",
   snapshot: [
     { label: "Location", value: "Headquarters of West Garo Hills district, about 220 km from Guwahati and 323 km from Shillong" },
     { label: "Population", value: "About 75,000 in the 2011 Census; Garo is the main language, with Bengali and Hindi also spoken" },
@@ -132,7 +132,7 @@ const tura: CityContent = {
       paragraphs: [
         "When someone searches for “hotel in Tura”, “pharmacy near Tura Super Market” or “doctor in Tura Meghalaya”, Google shows a few map listings before anything else. Many Tura businesses are either missing from the map or show an old number or the wrong location, which in hilly streets can send people well off course.",
         "Our <strong>SEO services in Tura</strong> begin with a proper Google Business Profile: the right category, accurate pin, opening hours, photographs and consistent contact details. We write the description in clear English, mention the localities you serve, such as Araimile, Chandmari or Hawakhana, and help you set up a simple way to collect genuine reviews.",
-        "For organisations that serve the whole region, such as distributors, colleges or tour operators, we can build a larger SEO website of 700+ pages from ₹20,000 in three to five weeks. Monthly SEO starts at ₹10,000 a month with content, technical checks and a short report. We do not promise first place on Google. Details are on our <a href=\"/services/seo-services/\">SEO services page</a>.",
+        "For organisations that serve the whole region, such as distributors, colleges or tour operators, we can build a larger SEO website of 299+ pages from ₹20,000 in three to five weeks. Monthly SEO starts at ₹10,000 a month with content, technical checks and a short report. We do not promise first place on Google. Details are on our <a href=\"/services/seo-services/\">SEO services page</a>.",
       ],
     },
     {
@@ -166,7 +166,7 @@ const tura: CityContent = {
       id: "website-cost-tura",
       heading: "Website cost in Tura: starting prices explained",
       paragraphs: [
-        "Our published starting prices for Tura: a static website of up to 100 pages from ₹10,000, in one to two weeks; an SEO website of 700+ pages from ₹20,000, in three to five weeks; an Android and iOS app from ₹40,000; AI automation from ₹40,000, in two to four weeks; an ecommerce store from ₹50,000, in four to eight weeks; and custom software from ₹60,000, in six to twelve weeks.",
+        "Our published starting prices for Tura: a static website of up to 100 pages from ₹10,000, in one to two weeks; an SEO website of 299+ pages from ₹20,000, in three to five weeks; an Android and iOS app from ₹40,000; AI automation from ₹40,000, in two to four weeks; an ecommerce store from ₹50,000, in four to eight weeks; and custom software from ₹60,000, in six to twelve weeks.",
         "The final <strong>website cost in Tura</strong> depends on scope. Adding Garo content alongside English means more writing and checking. A school with fee and attendance modules is a bigger job than a notice site. An app with payments and logins takes longer than one that shows information. We explain each item so you can drop or delay what is not needed yet.",
         "Quotes in the region vary widely. When comparing, ask who owns the domain and hosting, whether you get the code, what maintenance costs after the free period, and whether the site works on a slow hill connection. You get an itemised quote from us in about two working days, and nothing is billed until you approve it. See <a href=\"/pricing/\">our pricing page</a>.",
       ],
@@ -218,7 +218,7 @@ const tura: CityContent = {
     {
       question: "How much does a website cost in Tura?",
       answer:
-        "A static website of up to 100 pages starts from ₹10,000 and usually takes one to two weeks. An SEO website of 700+ pages starts at ₹20,000, and an online store from ₹50,000. The final amount depends on pages, languages and features. You get an itemised quote in about two working days, and nothing is billed without your written approval.",
+        "A static website of up to 100 pages starts from ₹10,000 and usually takes one to two weeks. An SEO website of 299+ pages starts at ₹20,000, and an online store from ₹50,000. The final amount depends on pages, languages and features. You get an itemised quote in about two working days, and nothing is billed without your written approval.",
     },
     {
       question: "Do you build Android and iOS apps for Tura businesses?",

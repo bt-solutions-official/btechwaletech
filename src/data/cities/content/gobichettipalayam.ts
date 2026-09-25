@@ -39,7 +39,7 @@ const gobichettipalayam: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Tamil and English SEO", "Mill and trader software", "Your name on every account"],
   },
   quickAnswer:
-    "For a Gobichettipalayam business, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are remote, with no Gobi office.",
+    "For a Gobichettipalayam business, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are remote, with no Gobi office.",
   snapshot: [
     { label: "Location", value: "Taluk headquarters in Erode district, about 35 km from Erode, 44 km from Tiruppur and 80 km from Coimbatore" },
     { label: "River", value: "The Bhavani flows through the taluk, with the Eastern Ghats to the north" },
@@ -157,7 +157,7 @@ const gobichettipalayam: CityContent = {
       id: "website-cost-gobichettipalayam",
       heading: "Website cost in Gobichettipalayam: starting prices and what changes them",
       paragraphs: [
-        "Our published starting prices apply in Gobi as anywhere else: a static website of up to 100 pages from ₹10,000, delivered in one to two weeks; a 700+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000; an online store from ₹50,000; and custom software from ₹60,000. Monthly SEO starts at ₹10,000 a month.",
+        "Our published starting prices apply in Gobi as anywhere else: a static website of up to 100 pages from ₹10,000, delivered in one to two weeks; a 299+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000; an online store from ₹50,000; and custom software from ₹60,000. Monthly SEO starts at ₹10,000 a month.",
         "Scope moves the figure. More pages, separate Tamil and English versions, a large product list, payment and courier links, staff logins or a connection to Tally all add lines to the quote. Content matters too: if you supply the text and photographs, the cost stays close to the starting price, while writing and photography by us appear as separate items.",
         "Quotes from local designers vary widely, so compare like with like. Ask whose name the domain and hosting will be registered in, whether mobile testing and basic SEO are included, how many rounds of changes are allowed and who handles problems after launch. Our <a href=\"/pricing/\">pricing page</a> shows the starting points, and your written quote arrives within about two working days.",
         "Nothing is billed until you have approved that quote in writing.",
@@ -221,7 +221,7 @@ const gobichettipalayam: CityContent = {
     {
       question: "What is the website cost in Gobichettipalayam?",
       answer:
-        "A static website with us starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Your final quote depends on page count, Tamil content, products and integrations, and it reaches you itemised in writing before anything is billed.",
+        "A static website with us starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Your final quote depends on page count, Tamil content, products and integrations, and it reaches you itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Gobichettipalayam businesses?",
@@ -231,7 +231,7 @@ const gobichettipalayam: CityContent = {
     {
       question: "How long does a website take for a Gobi shop?",
       answer:
-        "A static site normally goes live one to two weeks after we receive your text and photographs. A 700+ page SEO website takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Getting your content to us early is what speeds things up most.",
+        "A static site normally goes live one to two weeks after we receive your text and photographs. A 299+ page SEO website takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Getting your content to us early is what speeds things up most.",
     },
     {
       question: "Which is the best website development team in Gobichettipalayam?",
@@ -256,12 +256,12 @@ const gobichettipalayam: CityContent = {
     {
       question: "Gobi-la website seyya evvalavu selavu aagum?",
       answer:
-        "Engaludan simple website ₹10,000-il irundhu thodangugiradhu, oru rendu vaarathil ready aagum. 700+ page SEO website ₹20,000 muthal, Android matrum iOS app ₹40,000 muthal, online store ₹50,000 muthal thodangum. Ungal pages matrum features-ai poruthu itemised quote ezhuthil anuppuvom, approval-ukku munbu billing illai.",
+        "Engaludan simple website ₹10,000-il irundhu thodangugiradhu, oru rendu vaarathil ready aagum. 299+ page SEO website ₹20,000 muthal, Android matrum iOS app ₹40,000 muthal, online store ₹50,000 muthal thodangum. Ungal pages matrum features-ai poruthu itemised quote ezhuthil anuppuvom, approval-ukku munbu billing illai.",
     },
     {
       question: "Gobichettipalayam me website banwane me kitna kharcha aata hai?",
       answer:
-        "Hamare saath basic website ₹10,000 se shuru hoti hai aur ek-do hafte mein taiyaar ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Final quote aapke features ke hisaab se likhit mein milta hai.",
+        "Hamare saath basic website ₹10,000 se shuru hoti hai aur ek-do hafte mein taiyaar ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Final quote aapke features ke hisaab se likhit mein milta hai.",
     },
     {
       question: "You have no office in Gobichettipalayam. Is remote work risky?",

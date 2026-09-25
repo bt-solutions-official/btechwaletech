@@ -35,7 +35,7 @@ const sonipat: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi and English content", "Factory and warehouse sites", "PG, hostel and dhaba pages", "WhatsApp automation"],
   },
   quickAnswer:
-    "Sonipat businesses can get a static website from us starting at ₹10,000, ready in one to two weeks. SEO websites with 700+ pages start from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. We are a remote team of three engineers with no office in Sonipat, and five months of maintenance come free after launch.",
+    "Sonipat businesses can get a static website from us starting at ₹10,000, ready in one to two weeks. SEO websites with 299+ pages start from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. We are a remote team of three engineers with no office in Sonipat, and five months of maintenance come free after launch.",
   snapshot: [
     { label: "Location", value: "About 45 km from New Delhi on NH 44, inside the National Capital Region" },
     { label: "Industrial estates", value: "HSIIDC estates at Sonipat city, Kundli, Rai, Barhi and Murthal; industry here began with Atlas Cycle in the 1950s" },
@@ -73,12 +73,12 @@ const sonipat: CityContent = {
       heading: "Website costs in Sonipat compared with Delhi agency quotes",
       paragraphs: [
         "Because Sonipat is part of NCR, owners often receive proposals priced for Delhi or Gurugram offices. At the other end are very cheap offers that reuse a template, skip search setup and keep the domain in the developer's name. Neither tells you what a sensible website for your business should cost.",
-        "Our rates are published and each is a starting price. A static website with up to 100 pages starts from ₹10,000 and takes one to two weeks. A 700+ page SEO website, with a page for every product, service or locality you genuinely serve, starts from ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, custom web applications at ₹60,000 and monthly SEO at ₹10,000. See the full breakdown on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our rates are published and each is a starting price. A static website with up to 100 pages starts from ₹10,000 and takes one to two weeks. A 299+ page SEO website, with a page for every product, service or locality you genuinely serve, starts from ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, custom web applications at ₹60,000 and monthly SEO at ₹10,000. See the full breakdown on our <a href=\"/pricing/\">pricing page</a>.",
         "Scope decides the rest. A physiotherapist near Sector 14 needs far less than a Kundli manufacturer with 150 products and a distributor network. Tell us about your business and within roughly two working days you receive an itemised quote. Nothing is billed until you approve it in writing.",
       ],
       list: [
         "<strong>Static website, from ₹10,000:</strong> up to 100 pages with map, contact form and basic SEO.",
-        "<strong>SEO website, from ₹20,000:</strong> 700+ pages across products, services and NCR areas you serve.",
+        "<strong>SEO website, from ₹20,000:</strong> 299+ pages across products, services and NCR areas you serve.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart and UPI or card checkout with delivery rules.",
         "<strong>Custom web app, from ₹60,000:</strong> dispatch, inventory, dealer and hostel management tools.",
       ],
@@ -210,12 +210,12 @@ const sonipat: CityContent = {
     {
       question: "How much does a website cost in Sonipat?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices; the final figure depends on scope and comes as an itemised quote before any billing.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices; the final figure depends on scope and comes as an itemised quote before any billing.",
     },
     {
       question: "Sonipat mein website banwane mein kitna kharcha aata hai?",
       answer:
-        "Humare saath simple business website ₹10,000 se shuru hoti hai aur 700+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se shuru hota hai. Aakhri kharcha pages, features aur content par nirbhar karta hai, aur kaam se pehle aapko likhit, itemised quote mil jaata hai.",
+        "Humare saath simple business website ₹10,000 se shuru hoti hai aur 299+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se shuru hota hai. Aakhri kharcha pages, features aur content par nirbhar karta hai, aur kaam se pehle aapko likhit, itemised quote mil jaata hai.",
     },
     {
       question: "Do you have an office in Sonipat?",

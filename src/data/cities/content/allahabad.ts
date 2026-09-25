@@ -35,7 +35,7 @@ const allahabad: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi and English pages", "Coaching and legal sites", "Mela-season booking", "5 months free upkeep"],
   },
   quickAnswer:
-    "A business website in Prayagraj costs from ₹10,000 with us for a static site and from ₹20,000 for a 700+ page SEO site, with online stores from ₹50,000. We are a remote three-person team with no local office. Every build includes hosting setup in your name, basic SEO and five months of free maintenance after launch.",
+    "A business website in Prayagraj costs from ₹10,000 with us for a static site and from ₹20,000 for a 299+ page SEO site, with online stores from ₹50,000. We are a remote three-person team with no local office. Every build includes hosting setup in your name, basic SEO and five months of free maintenance after launch.",
   snapshot: [
     { label: "Old names still searched", value: "Allahabad, Ilahabad and Prayag, alongside Prayagraj since the 2018 renaming" },
     { label: "Commercial centres", value: "Civil Lines, Chowk, Katra, George Town, Kidganj and Kareli" },
@@ -73,12 +73,12 @@ const allahabad: CityContent = {
       heading: "How much does a website cost in Prayagraj?",
       paragraphs: [
         "Ask five people in Prayagraj what a website costs and you will hear five answers. Some student freelancers near the MNNIT side of Teliyarganj will make a template site for two or three thousand rupees. Agencies with offices in Civil Lines may quote forty or fifty thousand for a similar page count. The cheap option often leaves hosting and the domain in the developer's name. The expensive one pays for staff you will never speak to.",
-        "Here is what we charge. A static site of up to 100 pages, suited to a clinic, a chartered accountant, a tutor or a single shop, starts at ₹10,000 and usually takes one to two weeks. A 700+ page site planned around real search terms, with separate pages for each course, service or practice area, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications such as test-series portals start at ₹60,000, automation projects start at ₹40,000, and ongoing SEO starts at ₹10,000 a month.",
+        "Here is what we charge. A static site of up to 100 pages, suited to a clinic, a chartered accountant, a tutor or a single shop, starts at ₹10,000 and usually takes one to two weeks. A 299+ page site planned around real search terms, with separate pages for each course, service or practice area, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications such as test-series portals start at ₹60,000, automation projects start at ₹40,000, and ongoing SEO starts at ₹10,000 a month.",
         "Those numbers are floors, not packages. A coaching institute with twelve courses, faculty profiles and a results archive needs more pages than a sweet shop with one menu. You get a written breakdown within about two working days of our first conversation, and we do not bill anything until you have approved it in writing. You can see the full list on our <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> a site of up to 100 pages with enquiry form, map, mobile layout and basic SEO.",
-        "<strong>From ₹20,000:</strong> 700+ pages with course, service or area pages, schema and a sitemap.",
+        "<strong>From ₹20,000:</strong> 299+ pages with course, service or area pages, schema and a sitemap.",
         "<strong>From ₹50,000:</strong> a UPI and card-enabled store with order emails and delivery rules.",
         "<strong>From ₹60,000:</strong> logins, dashboards and databases for portals and internal tools.",
       ],
@@ -209,12 +209,12 @@ const allahabad: CityContent = {
     {
       question: "How much does a website cost in Prayagraj?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom portal or web app at ₹60,000. Other quotes you receive in Prayagraj may range from a couple of thousand to fifty thousand rupees, so compare who owns the domain, what SEO is included and what support you get after launch.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom portal or web app at ₹60,000. Other quotes you receive in Prayagraj may range from a couple of thousand to fifty thousand rupees, so compare who owns the domain, what SEO is included and what support you get after launch.",
     },
     {
       question: "Prayagraj me coaching institute ki website kitne me banegi?",
       answer:
-        "Chhote institute ke liye 100 pages tak ki website ₹10,000 se shuru hoti hai. Agar har course, faculty aur result ka alag page chahiye to 700+ pages wali SEO website ₹20,000 se banti hai. Student login aur mock test portal ₹60,000 se shuru hota hai. Kaam shuru hone se pehle aapko likhit, itemised quote milega.",
+        "Chhote institute ke liye 100 pages tak ki website ₹10,000 se shuru hoti hai. Agar har course, faculty aur result ka alag page chahiye to 299+ pages wali SEO website ₹20,000 se banti hai. Student login aur mock test portal ₹60,000 se shuru hota hai. Kaam shuru hone se pehle aapko likhit, itemised quote milega.",
     },
     {
       question: "Do you have an office in Prayagraj where I can meet you?",

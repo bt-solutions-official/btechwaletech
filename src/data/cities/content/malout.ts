@@ -39,7 +39,7 @@ const malout: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Punjabi and Hindi local SEO", "Mandi and arhtiya tools", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Malout business, a website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 700+ page SEO site at ₹20,000, ecommerce at ₹50,000 and custom software at ₹60,000. We work remotely and have no office in Malout.",
+    "For a Malout business, a website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 299+ page SEO site at ₹20,000, ecommerce at ₹50,000 and custom software at ₹60,000. We work remotely and have no office in Malout.",
   snapshot: [
     { label: "District", value: "Sri Muktsar Sahib district, one of its four subdivisions along with Muktsar, Gidderbaha and Lambi" },
     { label: "Known as", value: "The cotton capital of Punjab, at the centre of the south-west Punjab cotton belt" },
@@ -157,7 +157,7 @@ const malout: CityContent = {
       id: "website-cost-malout",
       heading: "Website cost in Malout: our starting prices and what changes them",
       paragraphs: [
-        "Our starting prices for Malout work are public. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000 over three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 a month. The full list is on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our starting prices for Malout work are public. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000 over three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 a month. The full list is on our <a href=\"/pricing/\">pricing page</a>.",
         "The final figure rises with scope: more pages, both Punjabi and Hindi versions, large catalogues, payment gateways, logins, integration with Tally or Busy, or data migration from an old site. Content is a factor too. If you supply the text and photographs, the price stays close to the starting point; if we write and arrange everything, it appears as a separate item.",
         "Local quotes vary widely. Before you choose, ask each provider in whose name the domain and hosting will be registered, whether mobile testing and basic SEO are included, how many rounds of changes you get, and who will fix problems a year later. Cheap work that disappears with its builder costs more in the end.",
         "You receive our itemised quote in about two working days, and nothing is billed before you approve it.",
@@ -219,7 +219,7 @@ const malout: CityContent = {
     {
       question: "What is the website cost in Malout?",
       answer:
-        "A static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Your final quote depends on pages, Punjabi or Hindi content, products and integrations, and it arrives itemised in writing before anything is billed.",
+        "A static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Your final quote depends on pages, Punjabi or Hindi content, products and integrations, and it arrives itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Malout businesses?",
@@ -229,7 +229,7 @@ const malout: CityContent = {
     {
       question: "How long does a website take for a Malout shop?",
       answer:
-        "A static website usually goes live within one to two weeks of receiving your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having content ready speeds things up more than anything else.",
+        "A static website usually goes live within one to two weeks of receiving your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having content ready speeds things up more than anything else.",
     },
     {
       question: "Which is the best website development team in Malout?",
@@ -254,7 +254,7 @@ const malout: CityContent = {
     {
       question: "Malout me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek se do hafte mein live ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapke pages aur features ke hisaab se likhit quote milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek se do hafte mein live ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapke pages aur features ke hisaab se likhit quote milta hai.",
     },
     {
       question: "You have no office in Malout. How do I trust remote work?",

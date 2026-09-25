@@ -39,7 +39,7 @@ const pattukkottai: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Tamil-first local SEO", "Coconut and coir trade tools", "You own the domain and code"],
   },
   quickAnswer:
-    "For a Pattukkottai business, our websites start at ₹10,000 and usually take one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team without a Pattukkottai office, and every account is registered to you.",
+    "For a Pattukkottai business, our websites start at ₹10,000 and usually take one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team without a Pattukkottai office, and every account is registered to you.",
   snapshot: [
     { label: "Location", value: "Taluk headquarters in Thanjavur district, about 48 km from Thanjavur and 12 km from the coast" },
     { label: "Civic status", value: "Selection grade municipality with 33 wards, formed in 1965" },
@@ -150,7 +150,7 @@ const pattukkottai: CityContent = {
       id: "website-cost-pattukkottai",
       heading: "Website cost in Pattukkottai: what each kind of project starts at",
       paragraphs: [
-        "Think of our prices as floors, not packages. For Pattukkottai, a plain business site with up to a hundred pages begins at ₹10,000 and is normally live inside a fortnight. If you want a large site built to catch hundreds of product and locality searches, the 700+ page version begins at ₹20,000 and needs three to five weeks. Phone apps for Android and iPhone begin at ₹40,000, as does AI automation, which takes two to four weeks.",
+        "Think of our prices as floors, not packages. For Pattukkottai, a plain business site with up to a hundred pages begins at ₹10,000 and is normally live inside a fortnight. If you want a large site built to catch hundreds of product and locality searches, the 299+ page version begins at ₹20,000 and needs three to five weeks. Phone apps for Android and iPhone begin at ₹40,000, as does AI automation, which takes two to four weeks.",
         "Bigger builds cost more and take longer. An online shop begins at ₹50,000 with a four to eight week schedule, and a custom web application, such as a trader's purchase register, begins at ₹60,000 and runs six to twelve weeks. What pushes a quote upward is usually predictable: bilingual Tamil and English content, a long catalogue, online payment, user logins and any sync with Tally.",
         "Local designers quote across a very wide range, so compare the terms rather than just the totals. Find out who will legally hold the domain, whether the site is tested on cheap Android phones, how many revision rounds are included, and what happens when something breaks six months later. Our <a href=\"/pricing/\">pricing page</a> sets out each starting figure, and you can <a href=\"/contact/\">tell us about your project</a> to get a written breakdown.",
       ],
@@ -211,7 +211,7 @@ const pattukkottai: CityContent = {
     {
       question: "What is the website cost in Pattukkottai?",
       answer:
-        "A basic business site with us begins at ₹10,000. From there, a 700+ page SEO build begins at ₹20,000, an online shop at ₹50,000 and a custom web application at ₹60,000. None of these is a package price: Tamil copy, catalogue size and integrations change the total, and you see every line in writing before a rupee is charged.",
+        "A basic business site with us begins at ₹10,000. From there, a 299+ page SEO build begins at ₹20,000, an online shop at ₹50,000 and a custom web application at ₹60,000. None of these is a package price: Tamil copy, catalogue size and integrations change the total, and you see every line in writing before a rupee is charged.",
     },
     {
       question: "Do you build Android and iOS apps for Pattukkottai businesses?",
@@ -221,7 +221,7 @@ const pattukkottai: CityContent = {
     {
       question: "How long does it take to make a website in Pattukkottai?",
       answer:
-        "Most simple sites are ready within two weeks of us receiving the text and photos. Larger builds need longer: roughly three to five weeks for a 700+ page SEO site, four to eight for an online shop and six to twelve for custom software. Content arriving late is the usual cause of delay, not the coding.",
+        "Most simple sites are ready within two weeks of us receiving the text and photos. Larger builds need longer: roughly three to five weeks for a 299+ page SEO site, four to eight for an online shop and six to twelve for custom software. Content arriving late is the usual cause of delay, not the coding.",
     },
     {
       question: "Which is the best website development team in Pattukkottai?",
@@ -246,7 +246,7 @@ const pattukkottai: CityContent = {
     {
       question: "Pattukkottai-la website panna evvalavu selavu aagum?",
       answer:
-        "Engalidam simple website ₹10,000 muthal thodangugiradhu, oru rendu vaarathil ready aagum. 700+ page SEO website ₹20,000 muthal, Android matrum iOS app ₹40,000 muthal, online store ₹50,000 muthal. Ungal pages matrum features parthu ezhuthu moolam quote tharuvom; neengal approve seidha pinbu thaan billing.",
+        "Engalidam simple website ₹10,000 muthal thodangugiradhu, oru rendu vaarathil ready aagum. 299+ page SEO website ₹20,000 muthal, Android matrum iOS app ₹40,000 muthal, online store ₹50,000 muthal. Ungal pages matrum features parthu ezhuthu moolam quote tharuvom; neengal approve seidha pinbu thaan billing.",
     },
     {
       question: "You have no office in Pattukkottai. Is remote work safe?",

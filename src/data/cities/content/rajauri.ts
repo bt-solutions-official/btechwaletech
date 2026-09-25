@@ -150,7 +150,7 @@ const rajauri: CityContent = {
       id: "website-cost-rajouri",
       heading: "Website cost in Rajouri: starting prices and what moves the number",
       paragraphs: [
-        "These are the starting points before any extras. A static site of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. An SEO website of 700 pages or more, the kind a coaching institute or a multi-brand dealer uses to cover every course, product and tehsil, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation also at ₹40,000, an online store at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000 a month.",
+        "These are the starting points before any extras. A static site of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. An SEO website of 299 pages or more, the kind a coaching institute or a multi-brand dealer uses to cover every course, product and tehsil, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation also at ₹40,000, an online store at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000 a month.",
         "Your final figure depends on what you choose: Urdu or Hindi pages as well as English, the length of your product list, courier rate tables, UPI and card checkout, staff logins, reports, or a sync with Tally. Every one of these is a separate line in the quote, so you can drop whatever does not earn its cost. If you write the text yourself and send phone photographs, the number stays close to the starting price.",
         "Local quotes vary widely, even for jobs that sound identical. When comparing, ask who registers the domain, whether you receive the source code, whether basic on-page SEO is included, how many rounds of changes are covered, and what support costs after the first year. Our full list is on the <a href=\"/pricing/\">pricing page</a>, and an itemised written quote reaches you in about two working days.",
       ],
@@ -220,7 +220,7 @@ const rajauri: CityContent = {
     {
       question: "What is the website cost in Rajouri?",
       answer:
-        "With us, a static website starts at ₹10,000 and a 700+ page SEO website at ₹20,000. An online store starts at ₹50,000 and custom software at ₹60,000. Each is a starting price; the final figure depends on pages, languages, products and integrations, and you get it as an itemised written quote before any billing.",
+        "With us, a static website starts at ₹10,000 and a 299+ page SEO website at ₹20,000. An online store starts at ₹50,000 and custom software at ₹60,000. Each is a starting price; the final figure depends on pages, languages, products and integrations, and you get it as an itemised written quote before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Rajouri businesses?",
@@ -230,7 +230,7 @@ const rajauri: CityContent = {
     {
       question: "How long does it take to build a website in Rajouri?",
       answer:
-        "A static site for a shop, clinic or institute usually takes one to two weeks once we have your text and photographs. A 700+ page SEO site needs three to five weeks, an online store four to eight, and custom software six to twelve. Delays mostly come from waiting on content, so sending it early helps most.",
+        "A static site for a shop, clinic or institute usually takes one to two weeks once we have your text and photographs. A 299+ page SEO site needs three to five weeks, an online store four to eight, and custom software six to twelve. Delays mostly come from waiting on content, so sending it early helps most.",
     },
     {
       question: "Which is the best IT services team in Rajouri for a small business?",

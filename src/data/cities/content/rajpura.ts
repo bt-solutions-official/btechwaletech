@@ -39,7 +39,7 @@ const rajpura: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Punjabi, Hindi and English pages", "Factory and dealer catalogues", "WhatsApp replies 7 days"],
   },
   quickAnswer:
-    "In Rajpura, our business websites start at ₹10,000 and take one to two weeks, 700+ page SEO websites start at ₹20,000, and Android and iOS apps start at ₹40,000. Online stores begin at ₹50,000 and AI or WhatsApp automation at ₹40,000. We are a remote three-engineer team with no Rajpura office, and the first five months of maintenance are free.",
+    "In Rajpura, our business websites start at ₹10,000 and take one to two weeks, 299+ page SEO websites start at ₹20,000, and Android and iOS apps start at ₹40,000. Online stores begin at ₹50,000 and AI or WhatsApp automation at ₹40,000. We are a remote three-engineer team with no Rajpura office, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Location", value: "Patiala district, about 26 km from Patiala, 38 km from Chandigarh and 20 km from Ambala" },
     { label: "Origins", value: "A sarai built for Sher Shah Suri's army in the 1540s; the Township was planned after 1947 for families from Bahawalpur" },
@@ -77,12 +77,12 @@ const rajpura: CityContent = {
       heading: "Website cost in Rajpura, and what the price should include",
       paragraphs: [
         "Ask around for a <strong>website development team in Rajpura</strong> and you will hear quotes that vary widely, from a relative's friend who builds a template in an evening to a tricity agency with monthly retainers. Instead of comparing only the total, compare what is included: whose name the domain and hosting are in, whether Punjabi or Hindi text is part of the job, whether a Google Business Profile is set up, and who fixes things after launch.",
-        "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. An SEO website with 700+ pages, built around the products, services and nearby towns you actually serve, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation. Online stores start at ₹50,000 and custom web applications at ₹60,000. Monthly SEO starts at ₹10,000.",
+        "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. An SEO website with 299+ pages, built around the products, services and nearby towns you actually serve, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation. Online stores start at ₹50,000 and custom web applications at ₹60,000. Monthly SEO starts at ₹10,000.",
         "A single-doctor clinic in the Township needs a few pages. A machinery maker with forty models, spec sheets and dealer enquiries needs far more. We talk through what you sell and who buys it, then send a written, itemised quote. Work starts only after you approve it.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> a short site for a shop, clinic, tutor, lawyer or small workshop.",
-        "<strong>From ₹20,000:</strong> 700+ pages covering each product, service and town you supply.",
+        "<strong>From ₹20,000:</strong> 299+ pages covering each product, service and town you supply.",
         "<strong>From ₹40,000:</strong> an Android and iOS app, or WhatsApp and AI automation.",
         "<strong>From ₹50,000:</strong> an online store with UPI, cards, shipping rules and order alerts.",
         "<strong>From ₹60,000:</strong> order, dispatch and stock software built around your process.",
@@ -216,12 +216,12 @@ const rajpura: CityContent = {
     {
       question: "What is the website cost in Rajpura?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an Android and iOS app at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Local quotes vary widely, so compare what is included, especially domain ownership, language versions, map setup and support after launch.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an Android and iOS app at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Local quotes vary widely, so compare what is included, especially domain ownership, language versions, map setup and support after launch.",
     },
     {
       question: "Rajpura me website ya app banwane ka kharcha kitna hai?",
       answer:
-        "Hamari simple website ₹10,000 se shuru hoti hai, 700+ page wali SEO website ₹20,000 se, aur Android aur iOS app ₹40,000 se. Pehle aapko likhit quote milta hai jisme har kaam alag likha hota hai. Aapki manzoori ke baad hi kaam shuru hota hai aur domain aapke naam par rehta hai.",
+        "Hamari simple website ₹10,000 se shuru hoti hai, 299+ page wali SEO website ₹20,000 se, aur Android aur iOS app ₹40,000 se. Pehle aapko likhit quote milta hai jisme har kaam alag likha hota hai. Aapki manzoori ke baad hi kaam shuru hota hai aur domain aapke naam par rehta hai.",
     },
     {
       question: "Which is the best IT services team in Rajpura for a small business?",
@@ -251,7 +251,7 @@ const rajpura: CityContent = {
     {
       question: "How long does it take to build a website or app?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks, AI automation two to four weeks and custom software six to twelve weeks. App timelines depend on screens and store review. Delays usually come from waiting for photos and text.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks, AI automation two to four weeks and custom software six to twelve weeks. App timelines depend on screens and store review. Delays usually come from waiting for photos and text.",
     },
     {
       question: "What can AI or WhatsApp automation do for a Rajpura business?",

@@ -35,7 +35,7 @@ const kurnool: CityContent = {
     pills: ["Websites from ₹10,000", "Telugu, Urdu and English", "Clinic booking pages", "Supplier catalogues", "WhatsApp replies in Telugu"],
   },
   quickAnswer:
-    "A basic business website for a Kurnool business costs from ₹10,000 with our team and goes live in one to two weeks. A 700+ page SEO website starts at ₹20,000, an online store at ₹50,000 and automation at ₹40,000. We are a remote team of three engineers with no office in Kurnool, and five months of maintenance are included free.",
+    "A basic business website for a Kurnool business costs from ₹10,000 with our team and goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and automation at ₹40,000. We are a remote team of three engineers with no office in Kurnool, and five months of maintenance are included free.",
   snapshot: [
     { label: "History", value: "Capital of Andhra State from 1953 to 1956; long known as the gateway to Rayalaseema" },
     { label: "Regional economy", value: "Groundnut oil, granite and stone quarrying, and handloom weaving across Adoni, Yemmiganur and nearby Betamcherla" },
@@ -73,12 +73,12 @@ const kurnool: CityContent = {
       heading: "Website prices in Kurnool, explained plainly",
       paragraphs: [
         "In Kurnool you will hear quotes from around ₹3,000 for a template page to ₹50,000 or more from Hyderabad agencies. The cheap end often means no search setup, a domain registered in the developer's name and no one to call later. The expensive end can be good work, but the price usually carries overheads that a clinic or trading firm does not need to fund.",
-        "Our prices are on the <a href=\"/pricing/\">pricing page</a>. A static website for a shop, clinic, tutor or professional office starts at ₹10,000 and is ready in one to two weeks. A 700+ page SEO website, planned around what people in Kurnool actually search for, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, automation at ₹40,000 and monthly SEO at ₹10,000.",
+        "Our prices are on the <a href=\"/pricing/\">pricing page</a>. A static website for a shop, clinic, tutor or professional office starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO website, planned around what people in Kurnool actually search for, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, automation at ₹40,000 and monthly SEO at ₹10,000.",
         "The final number follows the scope. A dental clinic with six treatments needs less work than a hospital with fifteen departments and forty doctors. You receive a quote listing every page and feature within about two working days, and nothing is billed until you approve it in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form, map and basic SEO. For clinics, shops, tutors and consultants.",
-        "<strong>From ₹20,000:</strong> 700+ pages with separate service or department pages. For hospitals, colleges and service firms.",
+        "<strong>From ₹20,000:</strong> 299+ pages with separate service or department pages. For hospitals, colleges and service firms.",
         "<strong>From ₹50,000:</strong> online store with cart, UPI and card payments. For oil brands, handloom and retail.",
         "<strong>From ₹60,000:</strong> custom systems with logins and dashboards. For distributors, contractors and institutions.",
       ],
@@ -209,12 +209,12 @@ const kurnool: CityContent = {
     {
       question: "How much does a website cost in Kurnool?",
       answer:
-        "With us, a static business website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Other quotes in Kurnool range from about ₹3,000 to ₹50,000. Compare what is included, especially SEO, domain ownership and support after launch, not just the price.",
+        "With us, a static business website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Other quotes in Kurnool range from about ₹3,000 to ₹50,000. Compare what is included, especially SEO, domain ownership and support after launch, not just the price.",
     },
     {
       question: "Kurnool lo website cheyinchadaniki entha kharchu avutundi?",
       answer:
-        "Maa daggara simple business website ₹10,000 nundi modalavutundi, 700+ pages SEO website ₹20,000 nundi. Online store ₹50,000 nundi untundi. Final dhara pages, features, meeru ichhe content meeda aadharapadi untundi. Pani modalupettaka mundu prathi item vivaram tho written quote pampistamu, meeru approve chesina tarvate matrame bill chestamu.",
+        "Maa daggara simple business website ₹10,000 nundi modalavutundi, 299+ pages SEO website ₹20,000 nundi. Online store ₹50,000 nundi untundi. Final dhara pages, features, meeru ichhe content meeda aadharapadi untundi. Pani modalupettaka mundu prathi item vivaram tho written quote pampistamu, meeru approve chesina tarvate matrame bill chestamu.",
     },
     {
       question: "Do you have an office in Kurnool?",
@@ -234,7 +234,7 @@ const kurnool: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. The most common delay is waiting for photos and details, so we draft the text ourselves and you correct it.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. The most common delay is waiting for photos and details, so we draft the text ourselves and you correct it.",
     },
     {
       question: "I am a contractor hoping to work with Orvakal plants. Do I need a website?",

@@ -204,7 +204,7 @@ const content: CityContent = {
       id: "cost-bathinda",
       heading: "How much do freelance software developers in Bathinda cost?",
       paragraphs: [
-        "BtechWaleTech's starting prices for Bathinda are ₹10,000 for a corporate website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI or WhatsApp automation, ₹50,000 for an online store and ₹60,000 for custom software such as a work-order tracker, fleet system or CRM. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000.",
+        "BtechWaleTech's starting prices for Bathinda are ₹10,000 for a corporate website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI or WhatsApp automation, ₹50,000 for an online store and ₹60,000 for custom software such as a work-order tracker, fleet system or CRM. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000.",
         "Final cost depends on modules, users, sites and integrations. A simple purchase register sits near the starting price, while multi-site contractor systems with document storage and supervisor apps cost more. The quote is itemised so you can phase the work.",
         "Clients pay only in INR, by UPI through our QR code or by direct bank transfer to our bank account. Larger projects are paid in milestones after you review working software.",
       ],

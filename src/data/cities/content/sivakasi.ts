@@ -35,7 +35,7 @@ const sivakasi: CityContent = {
     pills: ["Sites from ₹10,000", "Tamil and English", "Print job enquiry forms", "Dealer-only catalogues", "Order and job tracking"],
   },
   quickAnswer:
-    "Sivakasi businesses can get a website from ₹10,000, usually ready in one to two weeks. Search-led sites of 700+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom software such as print job tracking at ₹60,000. We work remotely with no Sivakasi office and include five months of free maintenance.",
+    "Sivakasi businesses can get a website from ₹10,000, usually ready in one to two weeks. Search-led sites of 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom software such as print job tracking at ₹60,000. We work remotely with no Sivakasi office and include five months of free maintenance.",
   snapshot: [
     { label: "District", value: "Virudhunagar district; Sivakasi became a municipal corporation in August 2021" },
     { label: "Three big trades", value: "Fireworks, safety matches and printing, together employing well over 25,000 people" },
@@ -118,12 +118,12 @@ const sivakasi: CityContent = {
       heading: "Website prices for Sivakasi businesses",
       paragraphs: [
         "Sivakasi owners hear everything from ₹3,000 template offers to agency quotes in lakhs. The first usually leaves your domain with the builder and ignores search; the second carries overheads you never see. We publish our starting prices so you can compare honestly.",
-        "A static site of up to 100 pages starts at <strong>₹10,000</strong>, typically live in one to two weeks. A search-led site of 700+ pages, useful for printers with many product and finish combinations, starts at <strong>₹20,000</strong> and takes three to five weeks. Automation starts at <strong>₹40,000</strong>, online stores at <strong>₹50,000</strong> and custom software at <strong>₹60,000</strong>. Monthly SEO is from ₹10,000. Details are on our <a href=\"/pricing/\">pricing page</a>.",
+        "A static site of up to 100 pages starts at <strong>₹10,000</strong>, typically live in one to two weeks. A search-led site of 299+ pages, useful for printers with many product and finish combinations, starts at <strong>₹20,000</strong> and takes three to five weeks. Automation starts at <strong>₹40,000</strong>, online stores at <strong>₹50,000</strong> and custom software at <strong>₹60,000</strong>. Monthly SEO is from ₹10,000. Details are on our <a href=\"/pricing/\">pricing page</a>.",
         "These are the lowest starting points. Large catalogues, dealer logins, file uploads and Tamil translations add to the quote, and each item is spelt out in writing before you commit.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> company site with enquiry form, map and WhatsApp button.",
-        "<strong>From ₹20,000:</strong> 700+ page site covering every print product and finish.",
+        "<strong>From ₹20,000:</strong> 299+ page site covering every print product and finish.",
         "<strong>From ₹50,000:</strong> online store for diaries, notebooks or stationery.",
         "<strong>From ₹60,000:</strong> print job tracking or dealer ordering software.",
       ],
@@ -245,12 +245,12 @@ const sivakasi: CityContent = {
     {
       question: "How much does a website cost in Sivakasi?",
       answer:
-        "Business websites start from ₹10,000, 700+ page SEO sites from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. Your quote depends on products, pages, languages and features. You get an itemised quote first and pay nothing before approving it in writing.",
+        "Business websites start from ₹10,000, 299+ page SEO sites from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. Your quote depends on products, pages, languages and features. You get an itemised quote first and pay nothing before approving it in writing.",
     },
     {
       question: "Sivakasi-la engal printing press-ku website seiya evvalavu aagum?",
       answer:
-        "Saadharana website ₹10,000 muthal aarambam, oru irandu vaarathil ready aagum. Ellaa product-kum thani page venum-na 700+ page site ₹20,000 muthal. Mudhalil ovvoru item-udan quote anuppuvom. Neengal ezhuthil othukkondal mattum thaan velai aarambikkum, athu varai entha kattanamum illai.",
+        "Saadharana website ₹10,000 muthal aarambam, oru irandu vaarathil ready aagum. Ellaa product-kum thani page venum-na 299+ page site ₹20,000 muthal. Mudhalil ovvoru item-udan quote anuppuvom. Neengal ezhuthil othukkondal mattum thaan velai aarambikkum, athu varai entha kattanamum illai.",
     },
     {
       question: "Do you have an office in Sivakasi?",
@@ -285,7 +285,7 @@ const sivakasi: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "Static sites take one to two weeks, 700+ page SEO sites three to five, online stores four to eight and custom software six to twelve. Delays usually come from waiting for photos and product details, so we send a checklist at the start.",
+        "Static sites take one to two weeks, 299+ page SEO sites three to five, online stores four to eight and custom software six to twelve. Delays usually come from waiting for photos and product details, so we send a checklist at the start.",
     },
     {
       question: "What can WhatsApp automation do for my business?",

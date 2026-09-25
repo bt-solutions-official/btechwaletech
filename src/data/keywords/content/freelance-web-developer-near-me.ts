@@ -209,7 +209,7 @@ const content: FreelanceContent = {
       heading: "How much does a freelance web developer near me cost compared with a remote one?",
       paragraphs: [
         `Quotes vary widely between freelancers, and the variation comes from scope, experience and aftercare far more than from the city they live in. A local freelancer in a small town is not automatically cheaper, and a remote one is not automatically pricier.`,
-        `Our starting points are public. A static website of up to 100 pages starts at ${P.site}. An SEO website with 700+ pages starts at ${P.seoSite}. An online store starts at ${P.shop}, a custom web app at ${P.software}, and an Android and iOS app at ${P.app}. Ongoing SEO starts at ${P.seo}, and maintenance, after five free months, starts at ${P.care}.`,
+        `Our starting points are public. A static website of up to 100 pages starts at ${P.site}. An SEO website with 299+ pages starts at ${P.seoSite}. An online store starts at ${P.shop}, a custom web app at ${P.software}, and an Android and iOS app at ${P.app}. Ongoing SEO starts at ${P.seo}, and maintenance, after five free months, starts at ${P.care}.`,
         `To compare fairly, ask each candidate to price the same brief line by line. Then check what is missing: content writing, speed work, schema, backups, support after launch. A cheaper quote that leaves out aftercare often costs more over a year.`,
       ],
       after: [`A detailed breakdown sits on <a href='/website-developer-cost/'>website developer cost</a>.`],
@@ -322,7 +322,7 @@ const content: FreelanceContent = {
       columns: ["Project", "India, from", "Abroad, from", "Usual timeline"],
       rows: [
         ["Static website, up to 100 pages", `${P.site}`, `${P.siteUsd}`, "1–2 weeks"],
-        ["SEO website, 700+ pages", `${P.seoSite}`, `${P.seoSiteUsd}`, "3–5 weeks"],
+        ["SEO website, 299+ pages", `${P.seoSite}`, `${P.seoSiteUsd}`, "3–5 weeks"],
         ["Online store with UPI and cards", `${P.shop}`, `${P.shopUsd}`, "4–8 weeks"],
         ["Custom web app", `${P.software}`, `${P.softwareUsd}`, "6–12 weeks"],
         ["Android and iOS app", `${P.app}`, `${P.appUsd}`, "6–10 weeks"],

@@ -68,7 +68,7 @@ const content: FreelanceContent = {
     heading: "One small team, several kinds of development",
     note: "Most Indian freelancers specialise in one area. We split the work across three people, so a website, app and automation can come from the same team.",
     cards: [
-      { name: "Websites and SEO websites", note: `Business sites from ${P.site} and 700+ page SEO sites from ${P.seoSite}, built mobile-first with schema and sitemaps.`, href: "/services/web-development/", size: "lg" },
+      { name: "Websites and SEO websites", note: `Business sites from ${P.site} and 299+ page SEO sites from ${P.seoSite}, built mobile-first with schema and sitemaps.`, href: "/services/web-development/", size: "lg" },
       { name: "Android & iOS apps", note: `Flutter or React Native apps published on Google Play and the App Store under your own developer accounts, from ${P.app}.`, href: "/it-services/android-ios-app/", size: "lg" },
       { name: "Custom software", note: `Billing, inventory, CRM or portals with roles and reports, from ${P.software}. Scoped carefully before code starts.`, href: "/freelance-software-developer/", size: "md" },
       { name: "AI automation and agents", note: `Document reading, lead sorting, WhatsApp replies and reports connected to tools you already use, from ${P.ai}.`, href: "/freelance-ai-developer/", size: "md" },
@@ -171,7 +171,7 @@ const content: FreelanceContent = {
       heading: "How much does a freelance developer in India charge?",
       paragraphs: [
         `There is no single market rate. Quotes vary widely between freelancers, and the reasons are specific: years of experience, the complexity of the stack, whether design and content are included, how many integrations are needed, and whether maintenance is part of the deal.`,
-        `Our own starting prices give you a reference point. A static business website up to 100 pages starts at ${P.site}. An SEO website with 700+ pages starts at ${P.seoSite}. An online store starts at ${P.shop}. An Android and iOS app starts at ${P.app}. Custom software starts at ${P.software}, AI automation at ${P.ai}. Clients abroad pay the USD equivalents, such as ${P.siteUsd} for a static site and ${P.appUsd} for an app.`,
+        `Our own starting prices give you a reference point. A static business website up to 100 pages starts at ${P.site}. An SEO website with 299+ pages starts at ${P.seoSite}. An online store starts at ${P.shop}. An Android and iOS app starts at ${P.app}. Custom software starts at ${P.software}, AI automation at ${P.ai}. Clients abroad pay the USD equivalents, such as ${P.siteUsd} for a static site and ${P.appUsd} for an app.`,
         `When comparing, line up quotes by deliverable. One developer’s low number may exclude hosting setup and content upload; another’s higher number may include five months of support. The <a href='/freelance-web-developer-rates/'>rates guide</a> explains hourly against project billing, and <a href='/app-development-cost-in-india/'>app development cost in India</a> covers mobile budgets.`,
       ],
     },
@@ -312,7 +312,7 @@ const content: FreelanceContent = {
       columns: ["Work", "From (India)", "From (abroad)", "Typical timeline"],
       rows: [
         ["Static website, up to 100 pages", `${P.site}`, `${P.siteUsd}`, "1–2 weeks"],
-        ["SEO website, 700+ pages", `${P.seoSite}`, `${P.seoSiteUsd}`, "3–5 weeks"],
+        ["SEO website, 299+ pages", `${P.seoSite}`, `${P.seoSiteUsd}`, "3–5 weeks"],
         ["Online store", `${P.shop}`, `${P.shopUsd}`, "4–8 weeks"],
         ["Android & iOS app", `${P.app}`, `${P.appUsd}`, "6–10 weeks"],
         ["Custom software or web app", `${P.software}`, `${P.softwareUsd}`, "6–12 weeks"],

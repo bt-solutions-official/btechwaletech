@@ -35,7 +35,7 @@ const yavatmal: CityContent = {
     pills: ["Websites from ₹10,000", "Marathi, Hindi, English", "Ginning and agri pages", "WhatsApp enquiry bots", "You own the domain"],
   },
   quickAnswer:
-    "For a Yavatmal business, our static website starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site starts at ₹20,000, WhatsApp or AI automation from ₹40,000 and an online store from ₹50,000. We are three remote engineers with no Yavatmal office, and maintenance is free for five months after launch.",
+    "For a Yavatmal business, our static website starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp or AI automation from ₹40,000 and an online store from ₹50,000. We are three remote engineers with no Yavatmal office, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Region", value: "District headquarters in the Amravati division of Vidarbha, about 90 km from Amravati and roughly 150 km from Nagpur" },
     { label: "Farm economy", value: "Cotton and jowar are the traditional crops, with soybean now widely grown; cotton ginning and pressing are the main industry" },
@@ -73,12 +73,12 @@ const yavatmal: CityContent = {
       heading: "What websites cost in Yavatmal, and what each starting price covers",
       paragraphs: [
         "Quotes in Yavatmal range widely. Some offer a single page for very little but register the domain in their own name; agencies from bigger cities may quote several times more for a similar result. Rather than argue about who is cheapest, it helps to know what each level of site includes and what is usually left out.",
-        "Our static websites start at ₹10,000, take one to two weeks and can have up to 100 pages. A search-focused site of 700+ pages, where each product, crop, treatment or service gets its own page, starts at ₹20,000 and takes three to five weeks. WhatsApp and AI automation starts at ₹40,000, online stores at ₹50,000, and custom web applications such as ginning or dealer systems at ₹60,000. Monthly SEO work starts at ₹10,000. The full breakdown sits on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our static websites start at ₹10,000, take one to two weeks and can have up to 100 pages. A search-focused site of 299+ pages, where each product, crop, treatment or service gets its own page, starts at ₹20,000 and takes three to five weeks. WhatsApp and AI automation starts at ₹40,000, online stores at ₹50,000, and custom web applications such as ginning or dealer systems at ₹60,000. Monthly SEO work starts at ₹10,000. The full breakdown sits on our <a href=\"/pricing/\">pricing page</a>.",
         "Because these are starting prices, the final figure moves with scope. A tutor with three batches needs far less than an agri-input dealer listing two hundred products in Marathi and English. We send an itemised quote, usually within two working days, and no invoice is raised until you approve it in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form, Google map and basic SEO. Suits clinics, shops, tutors and CA offices.",
-        "<strong>From ₹20,000:</strong> 700+ pages built around real searches. Suits dealers, hospitals and firms serving the whole district.",
+        "<strong>From ₹20,000:</strong> 299+ pages built around real searches. Suits dealers, hospitals and firms serving the whole district.",
         "<strong>From ₹50,000:</strong> online store with cart, UPI and card payments. Suits food, handloom and cotton-product brands.",
         "<strong>From ₹60,000:</strong> web software with logins and reports. Suits ginners, distributors and multi-branch firms.",
       ],
@@ -218,7 +218,7 @@ const yavatmal: CityContent = {
     {
       question: "How much does a website cost in Yavatmal?",
       answer:
-        "With us, a static business website starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom web software at ₹60,000. These are starting prices; the final figure depends on pages, features and content. You get an itemised written quote within about two working days before anything is billed.",
+        "With us, a static business website starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom web software at ₹60,000. These are starting prices; the final figure depends on pages, features and content. You get an itemised written quote within about two working days before anything is billed.",
     },
     {
       question: "Yavatmal madhe website banvayla kiti paise lagtil?",
@@ -248,7 +248,7 @@ const yavatmal: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Delays mostly come from waiting for photos and details, so we draft the text ourselves and you simply correct it.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Delays mostly come from waiting for photos and details, so we draft the text ourselves and you simply correct it.",
     },
     {
       question: "Can you set up online payments with UPI and Razorpay?",

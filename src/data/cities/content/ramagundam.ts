@@ -34,7 +34,7 @@ const ramagundam: CityContent = {
     pills: ["From ₹10,000", "Vendor and contractor sites", "Telugu local SEO", "Fleet and wage tools", "Your code, your domain"],
   },
   quickAnswer:
-    "In Ramagundam and Godavarikhani we build a website of up to 100 pages from ₹10,000 in one to two weeks and a 700+ page SEO website from ₹20,000 in three to five weeks. Online stores start at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team, you own the domain and code, and maintenance is free for five months.",
+    "In Ramagundam and Godavarikhani we build a website of up to 100 pages from ₹10,000 in one to two weeks and a 299+ page SEO website from ₹20,000 in three to five weeks. Online stores start at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team, you own the domain and code, and maintenance is free for five months.",
   snapshot: [
     { label: "Power", value: "NTPC Ramagundam, 2,600 MW, plus the Telangana Super Thermal Power Project commissioned in 2023" },
     { label: "Coal", value: "Singareni Collieries' Ramagundam areas, with open-cast and underground mines including Adriyala" },
@@ -72,7 +72,7 @@ const ramagundam: CityContent = {
       heading: "What a website costs here, and where the money goes",
       paragraphs: [
         "Quotes in GDK swing between a couple of thousand rupees for a template and several lakhs from a city agency. Neither number tells you much on its own. The useful question is what you are left holding after launch: the domain, the hosting login, the code, and someone who picks up the phone.",
-        "Our figures are starting points that everyone can see. A static site of up to 100 pages is <strong>from ₹10,000</strong> and goes live in one to two weeks. A 700+ page SEO build, where every service, route, department or product gets its own page, is <strong>from ₹20,000</strong> across three to five weeks. A store with UPI and card payments begins at ₹50,000 and needs four to eight weeks, and custom systems such as trip logs or wage software begin at ₹60,000 over six to twelve weeks.",
+        "Our figures are starting points that everyone can see. A static site of up to 100 pages is <strong>from ₹10,000</strong> and goes live in one to two weeks. A 299+ page SEO build, where every service, route, department or product gets its own page, is <strong>from ₹20,000</strong> across three to five weeks. A store with UPI and card payments begins at ₹50,000 and needs four to eight weeks, and custom systems such as trip logs or wage software begin at ₹60,000 over six to twelve weeks.",
         "WhatsApp and AI automation starts at ₹40,000, ongoing SEO at ₹10,000 a month, and upkeep at ₹8,000 a month once the five free months are over. The breakdown for each plan sits on our <a href=\"/pricing/\">pricing page</a>, and an itemised estimate for your project reaches you in roughly two working days.",
       ],
       list: [
@@ -225,12 +225,12 @@ const ramagundam: CityContent = {
     {
       question: "How much does a website cost in Ramagundam or Godavarikhani?",
       answer:
-        "With us, a static site of up to 100 pages starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting figures; your itemised quote depends on pages and features. Whoever you hire, confirm the domain and hosting will be in your name.",
+        "With us, a static site of up to 100 pages starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting figures; your itemised quote depends on pages and features. Whoever you hire, confirm the domain and hosting will be in your name.",
     },
     {
       question: "Godavarikhani lo website cheyinchukovadaniki entha kharchu avutundi?",
       answer:
-        "Maa daggara chinna business website ₹10,000 nunchi modalavutundi, 700+ pages SEO website ₹20,000 nunchi. Contractors kosam trip leka wage software ₹60,000 nunchi. Pani modalupettakamundu poorthi itemised quote pamputamu, meeru raatapurvakamga oppukunna tarvate payment teesukuntamu. Domain, hosting, code anni mee perumeede register chestamu.",
+        "Maa daggara chinna business website ₹10,000 nunchi modalavutundi, 299+ pages SEO website ₹20,000 nunchi. Contractors kosam trip leka wage software ₹60,000 nunchi. Pani modalupettakamundu poorthi itemised quote pamputamu, meeru raatapurvakamga oppukunna tarvate payment teesukuntamu. Domain, hosting, code anni mee perumeede register chestamu.",
     },
     {
       question: "Is there a BtechWaleTech office in Ramagundam?",
@@ -255,7 +255,7 @@ const ramagundam: CityContent = {
     {
       question: "How many weeks until my site is live?",
       answer:
-        "One to two weeks for a static site, three to five for a 700+ page SEO build, four to eight for a store and six to twelve for custom software. The usual hold-up is waiting for photos and details, so we draft your text ourselves and you correct it.",
+        "One to two weeks for a static site, three to five for a 299+ page SEO build, four to eight for a store and six to twelve for custom software. The usual hold-up is waiting for photos and details, so we draft your text ourselves and you correct it.",
     },
     {
       question: "Will the site have Telugu as well as English?",

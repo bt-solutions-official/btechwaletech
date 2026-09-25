@@ -40,7 +40,7 @@ const chaibasa: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Mining supplier websites", "Hindi-first local SEO", "You own every account"],
   },
   quickAnswer:
-    "In Chaibasa, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps and AI or WhatsApp automation each start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, have no Chaibasa office and register everything in your name.",
+    "In Chaibasa, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps and AI or WhatsApp automation each start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, have no Chaibasa office and register everything in your name.",
   snapshot: [
     { label: "Role", value: "Headquarters of West Singhbhum district and the Kolhan division" },
     { label: "Distances", value: "About 65 km from Jamshedpur, 25 km from Chakradharpur and 140 km from Ranchi" },
@@ -221,7 +221,7 @@ const chaibasa: CityContent = {
     {
       question: "What is the website cost in Chaibasa?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices, and your written quote depends on pages, Hindi content, products and integrations. It is itemised, and nothing is billed until you approve it.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices, and your written quote depends on pages, Hindi content, products and integrations. It is itemised, and nothing is billed until you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Chaibasa businesses?",
@@ -231,7 +231,7 @@ const chaibasa: CityContent = {
     {
       question: "How long does it take to build a website in Chaibasa?",
       answer:
-        "A static website usually takes one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve. Sending your content early is the single biggest factor in finishing on time.",
+        "A static website usually takes one to two weeks after we receive your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve. Sending your content early is the single biggest factor in finishing on time.",
     },
     {
       question: "Which is the best website development team in Chaibasa?",
@@ -256,7 +256,7 @@ const chaibasa: CityContent = {
     {
       question: "Chaibasa me website banwane me kitna kharcha aata hai?",
       answer:
-        "Chhoti dukaan ya clinic ke liye basic website ka kharcha ₹10,000 se shuru hota hai, aur content milne ke baad aam taur par do hafte ke andar live ho jaati hai. Bade SEO site (700+ pages) ₹20,000 se, mobile app Android aur iPhone dono ke liye ₹40,000 se, aur online dukaan ₹50,000 se shuru hoti hai. Pehle likhit quote milega, approve karne ke baad hi kaam aur payment.",
+        "Chhoti dukaan ya clinic ke liye basic website ka kharcha ₹10,000 se shuru hota hai, aur content milne ke baad aam taur par do hafte ke andar live ho jaati hai. Bade SEO site (299+ pages) ₹20,000 se, mobile app Android aur iPhone dono ke liye ₹40,000 se, aur online dukaan ₹50,000 se shuru hoti hai. Pehle likhit quote milega, approve karne ke baad hi kaam aur payment.",
     },
     {
       question: "You have no office in Chaibasa. Is working remotely safe?",

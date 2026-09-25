@@ -39,7 +39,7 @@ const charkhiDadri: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi and English pages", "Maps listings for Badhra and Dadri", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Charkhi Dadri business, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, 700+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Dadri office, and you own everything we build.",
+    "For a Charkhi Dadri business, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, 299+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Dadri office, and you own everything we build.",
   snapshot: [
     { label: "Status", value: "Headquarters of Charkhi Dadri district, carved out of Bhiwani district on 1 December 2016" },
     { label: "Administration", value: "Two sub-divisions and tehsils (Charkhi Dadri and Badhra) and a sub-tehsil at Baund Kalan" },
@@ -167,7 +167,7 @@ const charkhiDadri: CityContent = {
       id: "website-cost-charkhi-dadri",
       heading: "Website cost in Charkhi Dadri and what each price includes",
       paragraphs: [
-        "Owners in Dadri usually ask about money first, so here are our entry points. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A large SEO website of 700 pages or more, useful for coaching institutes or dealers covering many villages and products, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and so does AI automation.",
+        "Owners in Dadri usually ask about money first, so here are our entry points. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A large SEO website of 299 pages or more, useful for coaching institutes or dealers covering many villages and products, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and so does AI automation.",
         "An online store starts at ₹50,000, custom software such as a grain market ledger starts at ₹60,000, and monthly SEO starts at ₹10,000 a month. All of these are starting prices. Hindi translation, extra pages, product uploads, payment features and integrations are listed as separate lines, so you can drop what you do not need. Full details are on our <a href=\"/pricing/\">pricing page</a>.",
         "Local quotes for similar work vary widely. When comparing, check who owns the domain and code, how many revisions are included, what happens after launch and whether hosting renewals are quoted in advance. You receive our itemised quote in about two working days, and nothing is charged before you approve it in writing.",
       ],
@@ -210,7 +210,7 @@ const charkhiDadri: CityContent = {
     {
       question: "What is the website cost in Charkhi Dadri?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Your quote depends on pages, Hindi content, products and integrations, and arrives itemised in writing in about two working days before anything is billed.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Your quote depends on pages, Hindi content, products and integrations, and arrives itemised in writing in about two working days before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Charkhi Dadri businesses?",

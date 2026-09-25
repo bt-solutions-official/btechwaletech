@@ -39,7 +39,7 @@ const tumsar: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Marathi-first local SEO", "Rice mill and APMC tools", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Tumsar business, a website from us starts at ₹10,000 and takes one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation. A 700+ page SEO site starts at ₹20,000, an online rice store at ₹50,000 and custom software at ₹60,000. We work remotely and you own every account.",
+    "For a Tumsar business, a website from us starts at ₹10,000 and takes one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation. A 299+ page SEO site starts at ₹20,000, an online rice store at ₹50,000 and custom software at ₹60,000. We work remotely and you own every account.",
   snapshot: [
     { label: "Location", value: "Taluka headquarters in Bhandara district, about 28 km north of Bhandara town, in eastern Vidarbha" },
     { label: "Known as", value: "A rice town, with an APMC grain market and a cluster of rice mills handling paddy from the surrounding taluka" },
@@ -229,7 +229,7 @@ const tumsar: CityContent = {
     {
       question: "How much does a website cost in Tumsar?",
       answer:
-        "With us, a static site of up to 100 pages starts at ₹10,000 and a 700+ page SEO website at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. These are starting prices only; your written quote lists each item, such as Marathi pages or a Tally link, and nothing is billed before you approve it.",
+        "With us, a static site of up to 100 pages starts at ₹10,000 and a 299+ page SEO website at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. These are starting prices only; your written quote lists each item, such as Marathi pages or a Tally link, and nothing is billed before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Tumsar businesses?",
@@ -239,7 +239,7 @@ const tumsar: CityContent = {
     {
       question: "How long does it take to get a website made in Tumsar?",
       answer:
-        "A small business site usually goes live one to two weeks after you send photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software such as a rice mill register six to twelve weeks. The biggest factor is how quickly content and feedback come back to us.",
+        "A small business site usually goes live one to two weeks after you send photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software such as a rice mill register six to twelve weeks. The biggest factor is how quickly content and feedback come back to us.",
     },
     {
       question: "Which is the best IT services team in Tumsar for websites and apps?",

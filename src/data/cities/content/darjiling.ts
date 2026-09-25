@@ -35,7 +35,7 @@ const darjiling: CityContent = {
     pills: ["Sites from ₹10,000", "Direct booking pages", "Tea stores from ₹50,000", "Nepali, Bengali, English", "Pages that load on hill networks"],
   },
   quickAnswer:
-    "Darjeeling businesses can get a website from ₹10,000, usually live within one to two weeks. Search-led sites of 700+ pages start at ₹20,000, WhatsApp and AI booking automation at ₹40,000, tea and gift stores at ₹50,000 and custom software at ₹60,000. We work remotely with no Darjeeling office, and five months of maintenance are free after launch.",
+    "Darjeeling businesses can get a website from ₹10,000, usually live within one to two weeks. Search-led sites of 299+ pages start at ₹20,000, WhatsApp and AI booking automation at ₹40,000, tea and gift stores at ₹50,000 and custom software at ₹60,000. We work remotely with no Darjeeling office, and five months of maintenance are free after launch.",
   snapshot: [
     { label: "Elevation", value: "About 2,045 m, with Kangchenjunga visible to the north on clear days" },
     { label: "Population", value: "Around 1.19 lakh in the municipality (Census 2011); municipality dates from 1850" },
@@ -117,12 +117,12 @@ const darjiling: CityContent = {
       heading: "Website prices for Darjeeling businesses",
       paragraphs: [
         "Darjeeling owners are quoted everything from cheap template sites to agency packages priced for Kolkata firms. The cheaper option often leaves the domain in someone else's name and ignores search; the expensive one pays for overheads you never see. Our starting prices are public so you can compare.",
-        "A static site of up to 100 pages starts at <strong>₹10,000</strong> and takes one to two weeks. A search-led site of 700+ pages, useful for a tour operator with a page per itinerary or a tea seller with a page per garden and flush, starts at <strong>₹20,000</strong> and takes three to five weeks. WhatsApp and AI booking automation begins at <strong>₹40,000</strong>, online stores at <strong>₹50,000</strong> and custom software at <strong>₹60,000</strong>. Monthly SEO starts at ₹10,000. See the <a href=\"/pricing/\">pricing page</a> for more.",
+        "A static site of up to 100 pages starts at <strong>₹10,000</strong> and takes one to two weeks. A search-led site of 299+ pages, useful for a tour operator with a page per itinerary or a tea seller with a page per garden and flush, starts at <strong>₹20,000</strong> and takes three to five weeks. WhatsApp and AI booking automation begins at <strong>₹40,000</strong>, online stores at <strong>₹50,000</strong> and custom software at <strong>₹60,000</strong>. Monthly SEO starts at ₹10,000. See the <a href=\"/pricing/\">pricing page</a> for more.",
         "These figures are starting points. More rooms, more products, extra languages and integrations with booking portals raise the cost, and your quote lists each item clearly.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> homestay, hotel or shop site with WhatsApp and map.",
-        "<strong>From ₹20,000:</strong> 700+ page site for itineraries, tea gardens or courses.",
+        "<strong>From ₹20,000:</strong> 299+ page site for itineraries, tea gardens or courses.",
         "<strong>From ₹50,000:</strong> tea or crafts store with UPI, cards and shipping.",
         "<strong>From ₹60,000:</strong> booking, roster or school software.",
       ],
@@ -242,7 +242,7 @@ const darjiling: CityContent = {
     {
       question: "How much does a website cost in Darjeeling?",
       answer:
-        "Websites start from ₹10,000, 700+ page SEO sites from ₹20,000, online stores from ₹50,000 and custom software such as booking systems from ₹60,000. The quote depends on rooms, products, languages and features. You get an itemised quote first and pay nothing before approving it in writing.",
+        "Websites start from ₹10,000, 299+ page SEO sites from ₹20,000, online stores from ₹50,000 and custom software such as booking systems from ₹60,000. The quote depends on rooms, products, languages and features. You get an itemised quote first and pay nothing before approving it in writing.",
     },
     {
       question: "Darjeeling-ma mero homestay ko website banauna kati kharcha lagcha?",
@@ -277,7 +277,7 @@ const darjiling: CityContent = {
     {
       question: "How long does it take to build a site?",
       answer:
-        "Static sites take one to two weeks, 700+ page SEO sites three to five, online stores four to eight and custom software six to twelve. We aim to launch before the spring and autumn seasons, so starting a few months early is wise.",
+        "Static sites take one to two weeks, 299+ page SEO sites three to five, online stores four to eight and custom software six to twelve. We aim to launch before the spring and autumn seasons, so starting a few months early is wise.",
     },
     {
       question: "What can WhatsApp automation do for a hotel or homestay?",

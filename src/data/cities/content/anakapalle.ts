@@ -39,7 +39,7 @@ const anakapalle: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu and English SEO", "Supplier and vendor catalogues", "WhatsApp replies 7 days a week"],
   },
   quickAnswer:
-    "IT services in Anakapalle from our remote team start at ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website and ₹40,000 for an Android and iOS app or AI automation. Online stores start at ₹50,000 and custom software at ₹60,000. Quotes are itemised in writing, and the domain, code and store accounts stay yours.",
+    "IT services in Anakapalle from our remote team start at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website and ₹40,000 for an Android and iOS app or AI automation. Online stores start at ₹50,000 and custom software at ₹60,000. Quotes are itemised in writing, and the domain, code and store accounts stay yours.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of Anakapalli district, formed in April 2022 from the old Visakhapatnam district; the town itself falls under Greater Visakhapatnam" },
     { label: "Location", value: "On the Sarada river, about 32 km south-west of Visakhapatnam, beside NH 16 and on the Howrah–Chennai main rail line" },
@@ -111,7 +111,7 @@ const anakapalle: CityContent = {
       paragraphs: [
         "With district offices now in the town, Anakapalle's hospitals and diagnostic centres see patients from Kasimkota, Chodavaram, Munagapaka and further inland, as well as workers from the industrial belt who may be new to the area. Families usually decide where to go after searching on a phone, often in Telugu, and they want doctor timings, specialities and directions before they travel.",
         "We build doctor profile pages with qualifications and OPD days, department and test lists with preparation notes, emergency numbers, a map pin and an appointment request that reaches reception on WhatsApp. For labs, sample collection timings and home-collection areas matter most. The writing stays factual: no guaranteed results, no success percentages you cannot support.",
-        "A single clinic usually fits the ₹10,000 static website. Multi-speciality hospitals with many doctors and services are better served by the 700+ page SEO website starting at ₹20,000.",
+        "A single clinic usually fits the ₹10,000 static website. Multi-speciality hospitals with many doctors and services are better served by the 299+ page SEO website starting at ₹20,000.",
       ],
     },
     {
@@ -175,7 +175,7 @@ const anakapalle: CityContent = {
       ],
       list: [
         "<strong>Static website from ₹10,000:</strong> up to 100 pages, mobile design, map and enquiry form; one to two weeks",
-        "<strong>SEO website from ₹20,000:</strong> 700+ pages built around real searches; three to five weeks",
+        "<strong>SEO website from ₹20,000:</strong> 299+ pages built around real searches; three to five weeks",
         "<strong>Android & iOS app from ₹40,000:</strong> login, push notifications, admin panel, store publishing",
         "<strong>AI automation from ₹40,000:</strong> WhatsApp and document workflows; two to four weeks",
         "<strong>Ecommerce store from ₹50,000:</strong> cart, UPI and cards; four to eight weeks",
@@ -230,12 +230,12 @@ const anakapalle: CityContent = {
     {
       question: "How much does a website cost in Anakapalle?",
       answer:
-        "With us, a static website of up to 100 pages starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, features and how much writing we do. Local quotes vary widely, so compare ownership, SEO setup and after-launch support.",
+        "With us, a static website of up to 100 pages starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, features and how much writing we do. Local quotes vary widely, so compare ownership, SEO setup and after-launch support.",
     },
     {
       question: "Anakapalle me website banwane ka kharcha kitna hai?",
       answer:
-        "Humare saath simple business website ₹10,000 se shuru hoti hai aur 1–2 hafte mein ban jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se shuru hota hai. Aapko pehle likhit, item-wise quote milta hai aur approval ke bina koi bill nahi banta.",
+        "Humare saath simple business website ₹10,000 se shuru hoti hai aur 1–2 hafte mein ban jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se shuru hota hai. Aapko pehle likhit, item-wise quote milta hai aur approval ke bina koi bill nahi banta.",
     },
     {
       question: "Do you build Android and iOS apps for Anakapalle businesses?",
@@ -250,7 +250,7 @@ const anakapalle: CityContent = {
     {
       question: "How long does it take to build a website or app?",
       answer:
-        "A static website takes one to two weeks, a 700+ page SEO website three to five weeks, AI automation two to four weeks, an online store four to eight weeks and custom software six to twelve weeks. App timelines depend on features and store review. Delays usually come from waiting for photos and details, so we send a checklist early.",
+        "A static website takes one to two weeks, a 299+ page SEO website three to five weeks, AI automation two to four weeks, an online store four to eight weeks and custom software six to twelve weeks. App timelines depend on features and store review. Delays usually come from waiting for photos and details, so we send a checklist early.",
     },
     {
       question: "Can you get my business onto Google Maps in Anakapalle?",

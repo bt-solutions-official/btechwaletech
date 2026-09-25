@@ -39,7 +39,7 @@ const mangrol: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Gujarati-first local SEO", "Fishery and export tools", "You own every login"],
   },
   quickAnswer:
-    "In Mangrol, a business website with us starts at ₹10,000 and is usually ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely without a Mangrol office, and every account is yours.",
+    "In Mangrol, a business website with us starts at ₹10,000 and is usually ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely without a Mangrol office, and every account is yours.",
   snapshot: [
     { label: "Location", value: "Coastal taluka town in Junagadh district, about 57 km from Junagadh city" },
     { label: "Harbour", value: "Minor port and an important fishing centre, with a further fishing harbour phase planned" },
@@ -80,7 +80,7 @@ const mangrol: CityContent = {
         "Mangrol has long been known as one of Gujarat's important fishing harbours, and many of its fisheries and processing units ship frozen and dried seafood overseas, including to European markets. Importers who have never visited the town judge a supplier first by what they find online, and a missing or outdated website makes a sound business look risky.",
         "A <strong>website development team in Mangrol</strong> serving exporters should build for that overseas reader. The site needs clear English, the species and product forms you handle, processing and freezing capacity in honest terms, packing formats, the certifications and registrations you actually hold, and the ports you ship through. Real photographs of your plant, cold storage and packing hall matter far more than stock images.",
         "We add an enquiry form that asks for product, quantity, packing and destination, so the replies you receive are serious ones. A Gujarati section can serve local suppliers and boat owners who sell to you. We never name a buyer or show a buyer's logo without written permission, and we never claim certifications you do not have, because importers check.",
-        "A factual export website of this kind starts at ₹10,000 for a static build and takes one to two weeks once content is ready. Exporters who want a product page for every species and form, plus pages for each market they serve, usually choose the 700+ page SEO website from ₹20,000.",
+        "A factual export website of this kind starts at ₹10,000 for a static build and takes one to two weeks once content is ready. Exporters who want a product page for every species and form, plus pages for each market they serve, usually choose the 299+ page SEO website from ₹20,000.",
       ],
     },
     {
@@ -220,7 +220,7 @@ const mangrol: CityContent = {
     {
       question: "What is the website cost in Mangrol?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Gujarati content, products and integrations, and you receive it itemised in writing before anything is billed.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Gujarati content, products and integrations, and you receive it itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Mangrol businesses?",
@@ -230,7 +230,7 @@ const mangrol: CityContent = {
     {
       question: "How quickly can a Mangrol business get a website?",
       answer:
-        "A simple static website is usually live within one to two weeks after we receive photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight and custom software six to twelve. The fastest projects are those where content arrives in the first few days.",
+        "A simple static website is usually live within one to two weeks after we receive photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight and custom software six to twelve. The fastest projects are those where content arrives in the first few days.",
     },
     {
       question: "Who is the best website development team in Mangrol?",
@@ -260,7 +260,7 @@ const mangrol: CityContent = {
     {
       question: "Mangrol ma website banavva no ketlo kharch thay?",
       answer:
-        "Amari sathe simple website ₹10,000 thi sharu thay chhe ane ek-be athvadiya ma taiyar thai jay chhe. 700+ page SEO website ₹20,000 thi, Android ane iOS app ₹40,000 thi ane online store ₹50,000 thi sharu thay chhe. Tamara pages ane features pramane puro quote lekhit ma male chhe.",
+        "Amari sathe simple website ₹10,000 thi sharu thay chhe ane ek-be athvadiya ma taiyar thai jay chhe. 299+ page SEO website ₹20,000 thi, Android ane iOS app ₹40,000 thi ane online store ₹50,000 thi sharu thay chhe. Tamara pages ane features pramane puro quote lekhit ma male chhe.",
     },
     {
       question: "You have no office in Mangrol. Is remote work safe?",

@@ -39,7 +39,7 @@ const perinthalmanna: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Malayalam and English pages", "Hospital and college sites", "Domain and code in your name"],
   },
   quickAnswer:
-    "For Perinthalmanna businesses, our websites start at ₹10,000 and a 700+ page SEO website at ₹20,000. Android and iOS apps and AI or WhatsApp automation start at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no local office, quote in writing within about two working days, and register everything to you.",
+    "For Perinthalmanna businesses, our websites start at ₹10,000 and a 299+ page SEO website at ₹20,000. Android and iOS apps and AI or WhatsApp automation start at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no local office, quote in writing within about two working days, and register everything to you.",
   snapshot: [
     { label: "Where it is", value: "Taluk headquarters in Malappuram district, about 23 km from Malappuram town, on the Kozhikode–Palakkad National Highway 966" },
     { label: "Civic status", value: "Grama panchayat from 1933, municipality since 10 February 1990; once headquarters of the old Walluvanad taluk" },
@@ -210,7 +210,7 @@ const perinthalmanna: CityContent = {
     {
       question: "How much does a website cost in Perinthalmanna?",
       answer:
-        "With us, a static website of up to 100 pages starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Your final figure depends on pages, Malayalam content, listings and integrations, and you receive it itemised in writing before any billing.",
+        "With us, a static website of up to 100 pages starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Your final figure depends on pages, Malayalam content, listings and integrations, and you receive it itemised in writing before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Perinthalmanna businesses?",
@@ -230,7 +230,7 @@ const perinthalmanna: CityContent = {
     {
       question: "How long does it take to build a website in Perinthalmanna?",
       answer:
-        "A small business site is usually live in one to two weeks once we have your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Delays almost always come from waiting for content, so gathering photos early helps most.",
+        "A small business site is usually live in one to two weeks once we have your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Delays almost always come from waiting for content, so gathering photos early helps most.",
     },
     {
       question: "Can you help my Perinthalmanna business show up on Google Maps?",

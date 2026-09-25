@@ -35,7 +35,7 @@ const amritsar: CityContent = {
     pills: ["Websites from ₹10,000", "Hotel and guest house sites", "Food and textile stores", "Punjabi, Hindi and English SEO", "Built for NRI customers"],
   },
   quickAnswer:
-    "An Amritsar business website with us starts at ₹10,000 and goes live in one to two weeks. A 700+ page SEO site costs from ₹20,000, an online store from ₹50,000 and a custom web app from ₹60,000. We are a remote team of three engineers with no Amritsar office, and five months of maintenance is included after launch.",
+    "An Amritsar business website with us starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO site costs from ₹20,000, an online store from ₹50,000 and a custom web app from ₹60,000. We are a remote team of three engineers with no Amritsar office, and five months of maintenance is included after launch.",
   snapshot: [
     { label: "Old city trade", value: "Hall Bazaar, Katra Jaimal Singh, Guru Bazaar, Majith Mandi and the Heritage Street leading to the Golden Temple" },
     { label: "Modern commercial areas", value: "Ranjit Avenue, Lawrence Road, Mall Road, Green Avenue and the GT Road corridor" },
@@ -73,7 +73,7 @@ const amritsar: CityContent = {
       heading: "How much does a website cost in Amritsar?",
       paragraphs: [
         "Amritsar quotes run from ₹3,000 for a template page to well over ₹50,000 from agencies in Chandigarh or Delhi. At the low end you often get no SEO, no ownership of the domain and nobody to call later. At the high end you may be paying for an office and a sales team. The number alone says little.",
-        "Our starting prices are public. A static website of up to 100 pages costs from ₹10,000 and takes one to two weeks. A 700+ page SEO site costs from ₹20,000 and takes three to five weeks, the right size for a hotel with several room categories or a trader with many product lines. An online store starts at ₹50,000. Booking systems, client portals and other custom web applications start at ₹60,000, and automation work at ₹40,000.",
+        "Our starting prices are public. A static website of up to 100 pages costs from ₹10,000 and takes one to two weeks. A 299+ page SEO site costs from ₹20,000 and takes three to five weeks, the right size for a hotel with several room categories or a trader with many product lines. An online store starts at ₹50,000. Booking systems, client portals and other custom web applications start at ₹60,000, and automation work at ₹40,000.",
         "Our <a href=\"/pricing/\">pricing page</a> has the full list. Every quote is itemised, and nothing is billed until you approve it in writing.",
       ],
       list: [
@@ -133,7 +133,7 @@ const amritsar: CityContent = {
       heading: "Manufacturers and workshops along GT Road and Mehta Road",
       paragraphs: [
         "Beyond textiles, Amritsar's Focal Point and the GT Road corridor hold smaller manufacturers and workshops: machine parts, agricultural equipment components, packaging, food processing and printing. Many sell to dealers across Punjab and neighbouring states and have never needed a website because orders came through agents.",
-        "That is changing as buyers search IndiaMART and Google for suppliers directly. A 700+ page site with a page per product, specifications, photographs of real parts, and a quote form can bring enquiries from distributors who would never have found you through the old agent network. We add product schema so Google reads your catalogue properly, and we align your IndiaMART listing with the website.",
+        "That is changing as buyers search IndiaMART and Google for suppliers directly. A 299+ page site with a page per product, specifications, photographs of real parts, and a quote form can bring enquiries from distributors who would never have found you through the old agent network. We add product schema so Google reads your catalogue properly, and we align your IndiaMART listing with the website.",
         "For firms with many dealers, a simple ordering portal where dealers see their rates, place orders and check dispatch status can remove dozens of phone calls a day. Custom portals start at ₹60,000.",
         "Most of these owners do not need anything elaborate on day one. A clean site with honest photographs of the shop floor, a list of machines and materials, the districts you already supply and a named person who answers enquiries is enough to start. As enquiries grow, we can add dealer logins, a price list that updates from your spreadsheet, and a dashboard showing which products and regions are growing.",
       ],
@@ -219,12 +219,12 @@ const amritsar: CityContent = {
     {
       question: "How much does a website cost in Amritsar?",
       answer:
-        "With us, static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. A guest house or clinic usually needs the first, a hotel or manufacturer the second. You get an itemised quote first and pay nothing until you approve it.",
+        "With us, static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. A guest house or clinic usually needs the first, a hotel or manufacturer the second. You get an itemised quote first and pay nothing until you approve it.",
     },
     {
       question: "Amritsar vich website banwaun da kharcha kinna aunda hai?",
       answer:
-        "Saade naal simple website ₹10,000 ton shuru hundi hai te ik-do hafteyan vich tayyar ho jaandi hai. 700+ pages wali SEO website ₹20,000 ton, te papad-warian ya suits da online store ₹50,000 ton banda hai. Kamm shuru karan ton pehlan tuhanu likhit quote milda hai.",
+        "Saade naal simple website ₹10,000 ton shuru hundi hai te ik-do hafteyan vich tayyar ho jaandi hai. 299+ pages wali SEO website ₹20,000 ton, te papad-warian ya suits da online store ₹50,000 ton banda hai. Kamm shuru karan ton pehlan tuhanu likhit quote milda hai.",
     },
     {
       question: "Do you have an office in Amritsar?",
@@ -234,7 +234,7 @@ const amritsar: CityContent = {
     {
       question: "Can you build a hotel website that brings direct bookings?",
       answer:
-        "Yes. A 700+ page site from ₹20,000 covers room pages, walking distance to the Golden Temple, parking details and a booking form that confirms on WhatsApp. A full availability calendar starts at ₹60,000. It won't replace booking platforms, but it gives returning guests a commission-free way to book.",
+        "Yes. A 299+ page site from ₹20,000 covers room pages, walking distance to the Golden Temple, parking details and a booking form that confirms on WhatsApp. A full availability calendar starts at ₹60,000. It won't replace booking platforms, but it gives returning guests a commission-free way to book.",
     },
     {
       question: "Can you help my business rank on Google Maps in Amritsar?",

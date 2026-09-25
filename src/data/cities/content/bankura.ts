@@ -35,7 +35,7 @@ const bankura: CityContent = {
     pills: ["Websites from ₹10,000", "Bengali and English", "Terracotta and Baluchari stores", "Rice and oil mill pages", "Homestay booking sites"],
   },
   quickAnswer:
-    "Bankura businesses can get a static website from ₹10,000, built in one to two weeks. Our 700+ page SEO websites start at ₹20,000, craft or product stores at ₹50,000 and custom software at ₹60,000. We are a remote team of three engineers with no Bankura office, and five months of maintenance after launch costs nothing.",
+    "Bankura businesses can get a static website from ₹10,000, built in one to two weeks. Our 299+ page SEO websites start at ₹20,000, craft or product stores at ₹50,000 and custom software at ₹60,000. We are a remote team of three engineers with no Bankura office, and five months of maintenance after launch costs nothing.",
   snapshot: [
     { label: "Location", value: "District headquarters in western West Bengal, on the Dwarakeswar river, between the Damodar plains and the Chota Nagpur edge" },
     { label: "Crafts", value: "Bankura Panchmura terracotta (GI-registered in 2018), Baluchari sarees of Bishnupur, dokra metalwork and tussar silk" },
@@ -73,12 +73,12 @@ const bankura: CityContent = {
       heading: "What a website really costs in Bankura",
       paragraphs: [
         "Bankura businesses usually hear one of two offers. A local computer centre offers a template site for a small sum, but keeps the domain in its own account. An agency in Kolkata or Durgapur quotes several times more, often with a yearly contract that is hard to read. Few offers explain clearly what is included or who owns what.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages, with mobile layout, contact form, WhatsApp button, map and basic search setup, starts at ₹10,000 and takes one to two weeks. A 700+ page site planned around real searches starts at ₹20,000 over three to five weeks. AI and WhatsApp automation begins at ₹40,000, online stores at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages, with mobile layout, contact form, WhatsApp button, map and basic search setup, starts at ₹10,000 and takes one to two weeks. A 299+ page site planned around real searches starts at ₹20,000 over three to five weeks. AI and WhatsApp automation begins at ₹40,000, online stores at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
         "The scope sets the final figure. A tutor or a single clinic needs a handful of pages. A craft cooperative with two hundred products, each with size, weight, finish and packing notes, needs a proper store and careful photography. Send us a short description and we reply with an item-by-item quote. Work begins only after your written approval.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> a compact site for a shop, clinic, tutor, homestay or small mill.",
-        "<strong>From ₹20,000:</strong> 700+ pages for firms that want steady search enquiries.",
+        "<strong>From ₹20,000:</strong> 299+ pages for firms that want steady search enquiries.",
         "<strong>From ₹50,000:</strong> a craft or product store with UPI, cards and courier rules.",
         "<strong>From ₹60,000:</strong> purchase, stock or order-tracking tools shaped around your work.",
       ],
@@ -212,12 +212,12 @@ const bankura: CityContent = {
     {
       question: "How much does a website cost in Bankura?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. The final quote depends on your scope. When comparing offers, check who owns the domain and what support you get after launch.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. The final quote depends on your scope. When comparing offers, check who owns the domain and what support you get after launch.",
     },
     {
       question: "Bankura-y ekta website banate koto khoroch hobe?",
       answer:
-        "Amader sadharon website ₹10,000 theke shuru, 700+ page-er SEO website ₹20,000 theke, ar online store ₹50,000 theke. Kaj shuru korar age protiti item-er daam likhe quote pathai. Apni likhito bhabe raji hole tobei bill kori, ar domain apnar nam-ei thake.",
+        "Amader sadharon website ₹10,000 theke shuru, 299+ page-er SEO website ₹20,000 theke, ar online store ₹50,000 theke. Kaj shuru korar age protiti item-er daam likhe quote pathai. Apni likhito bhabe raji hole tobei bill kori, ar domain apnar nam-ei thake.",
     },
     {
       question: "Do you have an office in Bankura?",
@@ -247,7 +247,7 @@ const bankura: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Collecting product photographs usually takes the longest, so we send a checklist on the first day.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Collecting product photographs usually takes the longest, so we send a checklist on the first day.",
     },
     {
       question: "What can WhatsApp automation do for a Bankura business?",

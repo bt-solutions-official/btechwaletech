@@ -307,7 +307,7 @@ const content: FreelanceContent = {
         ["Online store with order admin", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Storefront, checkout, admin, invoices"],
         ["Android & iOS app with backend", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "App, API, admin panel, push"],
         ["AI feature or automation", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "LLM API, data pipeline, integrations"],
-        ["SEO website, 700+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Static generation, schema, sitemaps"],
+        ["SEO website, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Static generation, schema, sitemaps"],
         ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates, backups, monitoring, fixes"],
       ],
       hideSm: [2],

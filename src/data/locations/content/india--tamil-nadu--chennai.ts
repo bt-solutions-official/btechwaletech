@@ -210,7 +210,7 @@ const content: CityContent = {
       id: "chennai-cost-payment-process",
       heading: "What IT solutions cost in Chennai and how payment works",
       paragraphs: [
-        "IT solutions in Chennai with BtechWaleTech start at ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for ecommerce and ₹60,000 for custom software or SaaS. Monthly SEO is from ₹10,000 and maintenance from ₹8,000 a month after five free months.",
+        "IT solutions in Chennai with BtechWaleTech start at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for ecommerce and ₹60,000 for custom software or SaaS. Monthly SEO is from ₹10,000 and maintenance from ₹8,000 a month after five free months.",
         "These figures are starting points. Scope, integrations, number of user roles, data migration and content writing decide the final price. After the consultation, you receive an itemised estimate in about two working days, and you can move features to a later phase to fit your budget.",
         "Chennai clients pay us only through UPI, by scanning our QR code, or by direct bank transfer to our bank account, in INR. Projects are split into milestones tied to visible progress. We have no office in Chennai and do not work on site; you get a live preview from the first week, weekly updates and WhatsApp replies seven days a week. See the wider state picture on our <a href='/india/tamil-nadu/'>Tamil Nadu page</a> or the <a href='/india/'>India hub</a>.",
       ],

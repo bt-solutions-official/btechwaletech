@@ -35,7 +35,7 @@ const bhimavaram: CityContent = {
     pills: ["Sites from ₹10,000", "Telugu and English pages", "Hatchery and feed catalogues", "Exporter credibility sites", "Your domain, your code"],
   },
   quickAnswer:
-    "For Bhimavaram businesses, our static websites start from ₹10,000 and a simple site usually goes live in one to two weeks. A 700+ page SEO website starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are a remote three-engineer team with no Bhimavaram office, and five months of maintenance are free.",
+    "For Bhimavaram businesses, our static websites start from ₹10,000 and a simple site usually goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are a remote three-engineer team with no Bhimavaram office, and five months of maintenance are free.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of West Godavari district after the 2022 reorganisation, and of Bhimavaram mandal and revenue division" },
     { label: "Population", value: "About 1.42 lakh in the town and 1.64 lakh in the urban area at the 2011 Census, with literacy above 83 percent" },
@@ -73,12 +73,12 @@ const bhimavaram: CityContent = {
       heading: "Website prices in Bhimavaram",
       paragraphs: [
         "Local quotes range from a few thousand rupees for a template to proposals from Hyderabad or Vijayawada agencies several times our starting prices. What matters is what is included: hosting and domain in your name, search setup, mobile speed and support after launch.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages starts from ₹10,000 and usually takes one to two weeks. A 700+ page site built for search, with separate pages for each product, seed variety, service or village you serve, starts at ₹20,000 and takes three to five weeks. Automation starts from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. Monthly SEO starts at ₹10,000.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages starts from ₹10,000 and usually takes one to two weeks. A 299+ page site built for search, with separate pages for each product, seed variety, service or village you serve, starts at ₹20,000 and takes three to five weeks. Automation starts from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. Monthly SEO starts at ₹10,000.",
         "Your quote depends on page count, features and the amount of writing we do. Every item is listed, so you can compare offers fairly.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form, map and WhatsApp button. For shops, clinics, dealers and colleges.",
-        "<strong>From ₹20,000:</strong> 700+ pages for hatcheries, feed dealers, exporters and institutions wanting search enquiries.",
+        "<strong>From ₹20,000:</strong> 299+ pages for hatcheries, feed dealers, exporters and institutions wanting search enquiries.",
         "<strong>From ₹50,000:</strong> online store with UPI and cards for pickles, dry fish, sweets and rice.",
         "<strong>From ₹60,000:</strong> custom tools for pond records, dealer credit, harvest logs and dispatch.",
       ],
@@ -219,12 +219,12 @@ const bhimavaram: CityContent = {
     {
       question: "How much does a website cost in Bhimavaram?",
       answer:
-        "Our static websites start from ₹10,000, 700+ page SEO websites from ₹20,000, automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. These are starting prices; your written quote depends on pages, features and content, and nothing is billed until you approve it.",
+        "Our static websites start from ₹10,000, 299+ page SEO websites from ₹20,000, automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. These are starting prices; your written quote depends on pages, features and content, and nothing is billed until you approve it.",
     },
     {
       question: "Bhimavaram lo website cheyinchadaniki entha kharchu avutundi?",
       answer:
-        "Maa daggara simple business website ₹10,000 nundi modalavutundi, 700+ pages unna SEO website ₹20,000 nundi, online store ₹50,000 nundi. Final dhara pages, features meeda aadharapadi untundi. Pani modalupettaka mundu meeku written quote istamu, mee approval tarvate bill chestamu.",
+        "Maa daggara simple business website ₹10,000 nundi modalavutundi, 299+ pages unna SEO website ₹20,000 nundi, online store ₹50,000 nundi. Final dhara pages, features meeda aadharapadi untundi. Pani modalupettaka mundu meeku written quote istamu, mee approval tarvate bill chestamu.",
     },
     {
       question: "Do you have an office in Bhimavaram?",
@@ -264,7 +264,7 @@ const bhimavaram: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, automation two to four, an online store four to eight and custom software six to twelve. Waiting for photos and details is the usual delay, so we send a checklist on the first day.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, automation two to four, an online store four to eight and custom software six to twelve. Waiting for photos and details is the usual delay, so we send a checklist on the first day.",
     },
     {
       question: "Will I own the domain and code?",

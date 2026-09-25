@@ -39,7 +39,7 @@ const rayachoti: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu and Urdu pages", "Farm dealer and trader tools", "You hold every login"],
   },
   quickAnswer:
-    "A business website for Rayachoti starts at ₹10,000 with us and usually goes live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Rayachoti office, and you own all of it.",
+    "A business website for Rayachoti starts at ₹10,000 with us and usually goes live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Rayachoti office, and you own all of it.",
   snapshot: [
     { label: "Location", value: "Town in the Rayalaseema region, Annamayya district; headquarters of Rayachoti revenue division" },
     { label: "District role", value: "Served as Annamayya district headquarters until the end of 2025, when the headquarters moved to Madanapalle" },
@@ -161,7 +161,7 @@ const rayachoti: CityContent = {
       id: "website-cost-rayachoti",
       heading: "Website cost in Rayachoti: starting prices and fair comparisons",
       paragraphs: [
-        "Our starting prices for Rayachoti are the same published figures we use everywhere. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
+        "Our starting prices for Rayachoti are the same published figures we use everywhere. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
         "The quote rises with scope: more pages, Telugu, Urdu and English versions, large catalogues, payment and shipping, logins or links to Tally. Content is part of the cost. If you provide the text and photographs, the price stays close to the starting figure; if we write and translate everything, that is shown as a separate item.",
         "Quotes from local designers and agencies in Kadapa or Tirupati vary widely. Ask each one whose name the domain and hosting will be in, whether SEO basics and mobile testing are included, how many revisions you get and who fixes problems after launch. Our <a href=\"/pricing/\">pricing page</a> sets out the starting points, and your written quote comes in about two working days.",
       ],
@@ -222,7 +222,7 @@ const rayachoti: CityContent = {
     {
       question: "What is the website cost in Rayachoti?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your final quote depends on pages, Telugu or Urdu content, products and integrations. It comes itemised in writing, and nothing is billed before your approval.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your final quote depends on pages, Telugu or Urdu content, products and integrations. It comes itemised in writing, and nothing is billed before your approval.",
     },
     {
       question: "Do you build Android and iOS apps for Rayachoti businesses?",
@@ -232,7 +232,7 @@ const rayachoti: CityContent = {
     {
       question: "How long does a website take for a Rayachoti business?",
       answer:
-        "A static website usually goes live in one to two weeks after we have your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. The fastest projects are those where content is ready early.",
+        "A static website usually goes live in one to two weeks after we have your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. The fastest projects are those where content is ready early.",
     },
     {
       question: "Which is the best website development team in Rayachoti?",
@@ -257,7 +257,7 @@ const rayachoti: CityContent = {
     {
       question: "Rayachoti lo website cheyinchukovadaniki entha kharchu avutundi?",
       answer:
-        "Maa daggara simple website ₹10,000 nundi modalavutundi, saadharananga okati rendu vaaralalo ready avutundi. 700+ page SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi. Mee pages, features batti final quote raatapoorvakanga istaamu; approve chesina tarvate billing.",
+        "Maa daggara simple website ₹10,000 nundi modalavutundi, saadharananga okati rendu vaaralalo ready avutundi. 299+ page SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi. Mee pages, features batti final quote raatapoorvakanga istaamu; approve chesina tarvate billing.",
     },
     {
       question: "You have no office in Rayachoti. Is remote work safe?",

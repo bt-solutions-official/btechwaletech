@@ -39,7 +39,7 @@ const mahnarBazar: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first local SEO", "Village retailer ordering", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Mahnar Bazar business, a website from us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, and you own everything we build.",
+    "For a Mahnar Bazar business, a website from us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, and you own everything we build.",
   snapshot: [
     { label: "Status", value: "Municipality and headquarters of a sub-division and a block in Vaishali district, Bihar" },
     { label: "Road", value: "State Highway 93, running from Jadhua near Hajipur through Bidupur and Mahnar to Mohiuddinagar" },
@@ -148,7 +148,7 @@ const mahnarBazar: CityContent = {
       id: "website-cost-mahnar",
       heading: "Website cost in Mahnar Bazar and what to check in any quote",
       paragraphs: [
-        "Here is the plain list. A basic business website of up to 100 pages starts at ₹10,000 and is live in one to two weeks. An SEO site of 700 pages or more, useful for a school, a coaching chain or a supplier covering many villages and products, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation also from ₹40,000 over two to four weeks, an online store from ₹50,000 over four to eight weeks, and custom software from ₹60,000 over six to twelve weeks. Monthly SEO is ₹10,000 a month onwards.",
+        "Here is the plain list. A basic business website of up to 100 pages starts at ₹10,000 and is live in one to two weeks. An SEO site of 299 pages or more, useful for a school, a coaching chain or a supplier covering many villages and products, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation also from ₹40,000 over two to four weeks, an online store from ₹50,000 over four to eight weeks, and custom software from ₹60,000 over six to twelve weeks. Monthly SEO is ₹10,000 a month onwards.",
         "The figure goes up only for things you choose to add: Hindi and English versions, a long product list, delivery-zone pricing, retailer logins, UPI checkout or a sync with accounting software. Each one is a separate line. If you write your own text and send photos taken on your phone, the total stays close to the starting price.",
         "Quotes for similar-looking work vary widely across Vaishali district. Before paying any advance, ask who will own the domain, whether the site will be tested on a low-cost Android phone, how many rounds of changes are included and who will answer when something breaks a year later. Our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and a written, itemised quote usually reaches you within two working days.",
       ],
@@ -209,7 +209,7 @@ const mahnarBazar: CityContent = {
     {
       question: "What is the website cost in Mahnar Bazar?",
       answer:
-        "A static website with us starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Your quote depends on pages, Hindi content, products and features, and it reaches you itemised in writing before anything is billed.",
+        "A static website with us starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Your quote depends on pages, Hindi content, products and features, and it reaches you itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Mahnar Bazar businesses?",
@@ -219,7 +219,7 @@ const mahnarBazar: CityContent = {
     {
       question: "How long does it take to make a website in Mahnar?",
       answer:
-        "A simple shop or clinic website is usually live in one to two weeks after you send photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The biggest delay is normally waiting for content, so sending it early helps most.",
+        "A simple shop or clinic website is usually live in one to two weeks after you send photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The biggest delay is normally waiting for content, so sending it early helps most.",
     },
     {
       question: "Which is the best web design team in Mahnar Bazar?",
@@ -234,7 +234,7 @@ const mahnarBazar: CityContent = {
     {
       question: "Mahnar me website ya app banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein taiyaar ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hota hai. Aapke features ke hisaab se poora quote likhit mein do working din mein milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein taiyaar ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hota hai. Aapke features ke hisaab se poora quote likhit mein do working din mein milta hai.",
     },
     {
       question: "Do you offer AI and WhatsApp automation in Mahnar Bazar?",

@@ -34,7 +34,7 @@ const bilaspur: CityContent = {
     pills: ["Sites from ₹10,000", "Advocate and clinic sites", "Mill and supplier portals", "Hindi and English pages", "Code and domain in your name"],
   },
   quickAnswer:
-    "In Bilaspur, Chhattisgarh, our websites start at ₹10,000 and a 700+ page SEO site at ₹20,000, typically delivered in one to five weeks. Ecommerce starts at ₹50,000. We are a remote team of three engineers with no Bilaspur office, and each project comes with hosting setup, basic SEO and five months of free maintenance.",
+    "In Bilaspur, Chhattisgarh, our websites start at ₹10,000 and a 299+ page SEO site at ₹20,000, typically delivered in one to five weeks. Ecommerce starts at ₹50,000. We are a remote team of three engineers with no Bilaspur office, and each project comes with hosting setup, basic SEO and five months of free maintenance.",
   snapshot: [
     { label: "Institutions", value: "Seat of the High Court of Chhattisgarh; headquarters of South East Central Railway and South Eastern Coalfields Ltd" },
     { label: "Industrial areas", value: "Sirgitti, Tifra and Silpahri, with manufacturing, chemical and sponge iron units" },
@@ -72,12 +72,12 @@ const bilaspur: CityContent = {
       heading: "How website pricing works in Bilaspur",
       paragraphs: [
         "Website quotes in Bilaspur range wildly, from ₹3,000 website packages advertised on social media to agency proposals several times that. The cheap packages usually leave out search setup and keep the domain under the developer's control. The costly ones often bundle in things a small business will never use.",
-        "We publish our starting prices so you can plan. A static site of up to 100 pages begins at ₹10,000 and takes one to two weeks. A 700+ page SEO site, with separate pages for each service and each area you serve, begins at ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, automation projects from ₹40,000, custom web applications from ₹60,000, and monthly SEO from ₹10,000. Full details are on our <a href=\"/pricing/\">pricing page</a>.",
+        "We publish our starting prices so you can plan. A static site of up to 100 pages begins at ₹10,000 and takes one to two weeks. A 299+ page SEO site, with separate pages for each service and each area you serve, begins at ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, automation projects from ₹40,000, custom web applications from ₹60,000, and monthly SEO from ₹10,000. Full details are on our <a href=\"/pricing/\">pricing page</a>.",
         "Your quote arrives itemised, usually within two working days of our first conversation. It lists every page, feature and integration, along with the timeline. We start work, and bill, only after you approve it in writing.",
       ],
       list: [
         "<strong>₹10,000 and up:</strong> chamber, clinic, showroom or tuition centre site with enquiry form and SEO basics.",
-        "<strong>₹20,000 and up:</strong> 700+ pages planned around Bilaspur searches in Hindi and English.",
+        "<strong>₹20,000 and up:</strong> 299+ pages planned around Bilaspur searches in Hindi and English.",
         "<strong>₹50,000 and up:</strong> online store for kosa sarees, rice, foods or retail products with UPI checkout.",
         "<strong>₹60,000 and up:</strong> dispatch, billing and dealer portals for mills and contractors.",
       ],
@@ -217,7 +217,7 @@ const bilaspur: CityContent = {
     {
       question: "What does a website cost in Bilaspur, Chhattisgarh?",
       answer:
-        "Our static business websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. The final price depends on pages, features and content, and you receive an itemised quote before we start or bill anything.",
+        "Our static business websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. The final price depends on pages, features and content, and you receive an itemised quote before we start or bill anything.",
     },
     {
       question: "Bilaspur me website banwane ka kharcha kitna hai?",
@@ -247,7 +247,7 @@ const bilaspur: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. Waiting for photos and details is the usual cause of delay, so we write draft content you can correct.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. Waiting for photos and details is the usual cause of delay, so we write draft content you can correct.",
     },
     {
       question: "Can the website be in Hindi?",

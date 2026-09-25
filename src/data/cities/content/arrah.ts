@@ -35,7 +35,7 @@ const arrah: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi and Bhojpuri-friendly copy", "Coaching and school sites", "Rice mill and trade pages", "WhatsApp enquiry handling"],
   },
   quickAnswer:
-    "A basic business website in Arrah costs from ₹10,000 with us and is ready in one to two weeks. A 700+ page site built for Google search starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We work remotely with no Ara office, and maintenance is free for five months after launch.",
+    "A basic business website in Arrah costs from ₹10,000 with us and is ready in one to two weeks. A 299+ page site built for Google search starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We work remotely with no Ara office, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "District role", value: "Arrah (officially Ara) is the headquarters of Bhojpur district in Patna division, about 50 km west of Patna" },
     { label: "Farm economy", value: "Rice, wheat, gram and oilseeds; Bhojpur is often called a rice bowl of Bihar and rice milling is its traditional industry" },
@@ -73,7 +73,7 @@ const arrah: CityContent = {
       heading: "Website prices in Arrah, explained without guesswork",
       paragraphs: [
         "Quotes for a website in Ara swing widely. A computer centre may offer a single page for a couple of thousand rupees, usually on a free builder with the developer's name on the account. A Patna or Delhi agency may ask several times our price for a site that looks polished but carries their office costs. Neither tells you what you are actually getting, which is why our rates are listed openly on the <a href=\"/pricing/\">pricing page</a>.",
-        "A static website with up to 100 pages, a mobile layout, enquiry form, map and basic search setup starts at ₹10,000 and takes one to two weeks. A 700+ page site with separate pages for each service, course or product, planned around real searches, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, WhatsApp and AI automation at ₹40,000, custom web applications at ₹60,000, and ongoing SEO at ₹10,000 a month.",
+        "A static website with up to 100 pages, a mobile layout, enquiry form, map and basic search setup starts at ₹10,000 and takes one to two weeks. A 299+ page site with separate pages for each service, course or product, planned around real searches, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, WhatsApp and AI automation at ₹40,000, custom web applications at ₹60,000, and ongoing SEO at ₹10,000 a month.",
         "Scope decides the final number. A single-doctor clinic needs far less than a coaching institute with twelve batches, a test series and a results archive. We send an itemised quote in about two working days, and nothing is billed until you approve it in writing.",
       ],
       list: [
@@ -209,12 +209,12 @@ const arrah: CityContent = {
     {
       question: "What does a website cost in Arrah?",
       answer:
-        "With us a static site starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. When comparing other Ara quotes, check whether hosting and domain are in your name, whether basic SEO is included and what support you get after launch.",
+        "With us a static site starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. When comparing other Ara quotes, check whether hosting and domain are in your name, whether basic SEO is included and what support you get after launch.",
     },
     {
       question: "Ara me website banwane ka kharcha kitna hai?",
       answer:
-        "Humare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte me taiyaar ho jaati hai. 700+ page wali SEO website ₹20,000 se aur online dukaan ₹50,000 se. Pehle aapko likhit quote milta hai jisme har cheez alag likhi hoti hai, aur aapki manzoori ke bina koi paisa nahi liya jaata.",
+        "Humare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte me taiyaar ho jaati hai. 299+ page wali SEO website ₹20,000 se aur online dukaan ₹50,000 se. Pehle aapko likhit quote milta hai jisme har cheez alag likhi hoti hai, aur aapki manzoori ke bina koi paisa nahi liya jaata.",
     },
     {
       question: "Is your office in Arrah or Patna?",

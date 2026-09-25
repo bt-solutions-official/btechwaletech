@@ -72,7 +72,7 @@ const content: FreelanceContent = {
       { name: "Local SEO", note: "Google Business Profile, reviews, consistent name, address and phone, and location pages for businesses that serve nearby customers.", href: "/local-seo-expert/", size: "lg" },
       { name: "On-page optimisation", note: "Titles, headings, internal links, image alt text and page copy tuned to what searchers actually want on each page.", href: "/services/seo-services/", size: "md" },
       { name: "Content planning and writing", note: "Topic research, content briefs and service or guide pages written to answer real questions, not stuffed with keywords.", href: "/freelance-seo-consultant/", size: "md" },
-      { name: "SEO website builds", note: `When the site itself is the problem, a structured SEO website with 700+ pages starts from ${P.seoSite}.`, href: "/seo-website-developer/", size: "md" },
+      { name: "SEO website builds", note: `When the site itself is the problem, a structured SEO website with 299+ pages starts from ${P.seoSite}.`, href: "/seo-website-developer/", size: "md" },
       { name: "Ecommerce SEO", note: "Category copy, product schema, faceted navigation and duplicate URL control for online stores.", href: "/ecommerce-seo-freelancer/", size: "sm" },
       { name: "Google Business Profile", note: "Profile setup, categories, services, photos, posts and a steady review routine for map listings.", href: "/google-business-profile-expert/", size: "sm" },
       { name: "Migration and redesign SEO", note: "Redirect maps and checks so a new site does not lose the traffic the old one earned.", href: "/website-redesign-freelancer/", size: "sm" },
@@ -275,7 +275,7 @@ const content: FreelanceContent = {
       columns: ["Engagement", "Starts at (India)", "Starts at (abroad)", "Time frame", "Best for"],
       rows: [
         ["Monthly SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Ongoing, month to month", "Steady growth in search enquiries"],
-        ["SEO website, 700+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Businesses covering many services or areas"],
+        ["SEO website, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Businesses covering many services or areas"],
         ["New static website with SEO basics", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Sites too weak to optimise"],
         ["Online store with SEO structure", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Retailers starting fresh"],
         ["Site maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Keeping fixes and updates current"],
@@ -367,7 +367,7 @@ const content: FreelanceContent = {
     { question: "What access does a freelance SEO expert need?", answer: "Usually Google Search Console and analytics access as a user, Google Business Profile manager access for local work, and a way to edit the website, such as a CMS login or code repository. Accounts should stay in your name; add the freelancer as a user and remove them when work ends." },
     { question: "Can you work on SEO for clients outside India?", answer: `Yes. We work with businesses in the USA, UK, Canada, Australia, the UAE and elsewhere, billed in USD from ${P.seoUsd} a month through Wise, bank wire or PayPal. International SEO, including hreflang for multiple countries or languages, is scoped per site.` },
     { question: "SEO expert se kaam karwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath monthly SEO ${P.seo} se shuru hota hai. Isme technical fixes, pages ka sudhaar, content planning aur Search Console report shaamil hai. Bade site ya zyada shehron ke liye kharcha badh sakta hai. Contract mahine dar mahine hai aur ranking ki jhoothi guarantee nahi di jaati.` },
-    { question: "Should I redesign my website before starting SEO?", answer: `Only if the current site blocks progress, for example if it is very slow, not mobile-friendly or impossible to edit. Otherwise SEO can start on the existing site. If a rebuild is needed, a new static site starts from ${P.site} and an SEO website with 700+ pages from ${P.seoSite}, with redirects to protect existing traffic.` },
+    { question: "Should I redesign my website before starting SEO?", answer: `Only if the current site blocks progress, for example if it is very slow, not mobile-friendly or impossible to edit. Otherwise SEO can start on the existing site. If a rebuild is needed, a new static site starts from ${P.site} and an SEO website with 299+ pages from ${P.seoSite}, with redirects to protect existing traffic.` },
   ],
   related: {
     heading: "More on SEO, local search and SEO-ready websites",

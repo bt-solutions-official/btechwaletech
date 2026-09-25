@@ -35,7 +35,7 @@ const srinagarUttarakhand: CityContent = {
     pills: ["Sites from ₹10,000", "Yatra-season booking pages", "Hindi and Garhwali-aware copy", "Coaching and hostel sites", "WhatsApp enquiry routing"],
   },
   quickAnswer:
-    "A simple business website in Srinagar Garhwal starts at ₹10,000 with us and takes one to two weeks. A 700+ page search-focused site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We work remotely with no Srinagar office, and the first five months of maintenance after launch are free.",
+    "A simple business website in Srinagar Garhwal starts at ₹10,000 with us and takes one to two weeks. A 299+ page search-focused site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We work remotely with no Srinagar office, and the first five months of maintenance after launch are free.",
   snapshot: [
     { label: "Where it is", value: "On the left bank of the Alaknanda in Pauri Garhwal district, about 33 km from Pauri and roughly 104 km from Rishikesh by road" },
     { label: "Town size", value: "About 20,000 residents at the 2011 census, with a literacy rate near 92%, plus a large floating student population" },
@@ -73,7 +73,7 @@ const srinagarUttarakhand: CityContent = {
       heading: "What a website costs in Srinagar Garhwal, and what the number includes",
       paragraphs: [
         "Most owners in the valley have heard two kinds of prices: a couple of thousand rupees from someone with a free page builder, or a large number from a Dehradun or Delhi agency. The first usually leaves the domain in someone else's name. The second pays for an office and a sales team. We publish our rates on the <a href=\"/pricing/\">pricing page</a> so you can see what each level covers.",
-        "A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. It includes a mobile layout, a contact form, WhatsApp and call buttons, a map and basic search setup. A larger site of 700+ pages, planned around what people search for, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, automation at ₹40,000, custom web applications at ₹60,000 and monthly SEO at ₹10,000.",
+        "A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. It includes a mobile layout, a contact form, WhatsApp and call buttons, a map and basic search setup. A larger site of 299+ pages, planned around what people search for, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, automation at ₹40,000, custom web applications at ₹60,000 and monthly SEO at ₹10,000.",
         "The final figure depends on scope. A four-room guest house needs far less than a coaching institute with ten batches and a test series. We send an itemised quote in about two working days, and nothing is charged until you approve it in writing.",
       ],
       list: [
@@ -209,7 +209,7 @@ const srinagarUttarakhand: CityContent = {
     {
       question: "How much does a website cost in Srinagar Garhwal?",
       answer:
-        "With us a static site starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. When comparing quotes, check whose name the domain is in, whether basic SEO is included and what support you get after launch.",
+        "With us a static site starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. When comparing quotes, check whose name the domain is in, whether basic SEO is included and what support you get after launch.",
     },
     {
       question: "Srinagar Garhwal me hotel ki website banwane me kitna kharcha aata hai?",

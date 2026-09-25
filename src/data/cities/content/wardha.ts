@@ -35,7 +35,7 @@ const wardha: CityContent = {
     pills: ["Websites from ₹10,000", "Marathi and Hindi pages", "Cotton and MIDC business sites", "Hospital and college sites", "5 months free maintenance"],
   },
   quickAnswer:
-    "In Wardha, our static websites start at ₹10,000 and take one to two weeks. A 700+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000, and an online store with UPI at ₹50,000. We are a remote team with no Wardha office, and every site gets five months of free maintenance.",
+    "In Wardha, our static websites start at ₹10,000 and take one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000, and an online store with UPI at ₹50,000. We are a remote team with no Wardha office, and every site gets five months of free maintenance.",
   snapshot: [
     { label: "Position", value: "District headquarters in Vidarbha, on the Mumbai–Nagpur–Howrah rail route, with Wardha and Sevagram stations" },
     { label: "History", value: "Founded in 1866 on the site of Palakwadi village and planned as a cotton-trade town" },
@@ -214,7 +214,7 @@ const wardha: CityContent = {
     {
       question: "How much does a website cost in Wardha?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. The final price depends on pages, languages and features. We send an itemised written quote within about two working days and bill nothing until you approve it.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. The final price depends on pages, languages and features. We send an itemised written quote within about two working days and bill nothing until you approve it.",
     },
     {
       question: "Wardha madhe website banvaychi aahe, kharcha kiti yeil?",
@@ -244,7 +244,7 @@ const wardha: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. Delays mostly come from waiting for photographs and text, so we send a checklist on day one.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. Delays mostly come from waiting for photographs and text, so we send a checklist on day one.",
     },
     {
       question: "Can you help a hospital or clinic near Sawangi or Sevagram?",

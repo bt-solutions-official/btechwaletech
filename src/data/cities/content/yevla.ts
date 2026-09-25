@@ -39,7 +39,7 @@ const yevla: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Marathi and English pages", "Paithani stores and catalogues", "All logins in your name"],
   },
   quickAnswer:
-    "In Yeola, our business websites start at ₹10,000 and are usually live in one to two weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, 700+ page SEO sites at ₹20,000, Paithani or other online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Yeola office, and you own every account.",
+    "In Yeola, our business websites start at ₹10,000 and are usually live in one to two weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, 299+ page SEO sites at ₹20,000, Paithani or other online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Yeola office, and you own every account.",
   snapshot: [
     { label: "Status", value: "Taluka headquarters and municipal council town in Nashik district" },
     { label: "Location", value: "About 83 km from Nashik on the Nashik–Aurangabad highway, 26 km south of Manmad and about 33 km from Shirdi" },
@@ -210,7 +210,7 @@ const yevla: CityContent = {
     {
       question: "What is the website cost in Yeola?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. All are starting prices. The quote depends on pages, Marathi content, products and integrations, and arrives itemised in about two working days, before anything is billed.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. All are starting prices. The quote depends on pages, Marathi content, products and integrations, and arrives itemised in about two working days, before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Yeola businesses?",

@@ -35,7 +35,7 @@ const pollachi: CityContent = {
     pills: ["Websites from ₹10,000", "Coir export catalogues", "Tamil and English pages", "WhatsApp order flows", "Five months free upkeep"],
   },
   quickAnswer:
-    "For a Pollachi business, our static website starts from ₹10,000 and a 700+ page SEO website from ₹20,000, usually live within one to five weeks. Online stores start from ₹50,000. We are a remote three-person team with no Pollachi office, so you pay for engineering, not rent, and every launch includes five months of free maintenance.",
+    "For a Pollachi business, our static website starts from ₹10,000 and a 299+ page SEO website from ₹20,000, usually live within one to five weeks. Online stores start from ₹50,000. We are a remote three-person team with no Pollachi office, so you pay for engineering, not rent, and every launch includes five months of free maintenance.",
   snapshot: [
     { label: "District and taluk", value: "Pollachi taluk, Coimbatore district; special grade municipality since 1949" },
     { label: "Farm economy", value: "Coconut groves, jaggery, vegetables and one of South India's best-known cattle markets" },
@@ -73,7 +73,7 @@ const pollachi: CityContent = {
       heading: "What a website costs in Pollachi, and what changes the price",
       paragraphs: [
         "Ask around in Pollachi and you will hear quotes from a few thousand rupees to well over fifty thousand for what sounds like the same site. The cheap end often means a copied template, hosting in the developer's name and no SEO at all. The expensive end sometimes pays for a Coimbatore office and a sales executive. We try to be clear about what you are paying for.",
-        "Our static business website starts from ₹10,000 and suits a clinic, a school, a showroom or a small trader. It can run up to 100 pages and is usually ready in one to two weeks. A 700+ page SEO website, planned around real Pollachi and export search terms, starts from ₹20,000 and takes three to five weeks. An online store with UPI checkout starts from ₹50,000. A custom web application, such as a dispatch tracker for a coir unit, starts from ₹60,000. AI and WhatsApp automation begins at ₹40,000, and ongoing monthly SEO from ₹10,000.",
+        "Our static business website starts from ₹10,000 and suits a clinic, a school, a showroom or a small trader. It can run up to 100 pages and is usually ready in one to two weeks. A 299+ page SEO website, planned around real Pollachi and export search terms, starts from ₹20,000 and takes three to five weeks. An online store with UPI checkout starts from ₹50,000. A custom web application, such as a dispatch tracker for a coir unit, starts from ₹60,000. AI and WhatsApp automation begins at ₹40,000, and ongoing monthly SEO from ₹10,000.",
         "The biggest things that move the final figure are the number of product grades or services, whether you already have good photos, whether pages are needed in Tamil as well as English, and how many integrations you want. You see all of that line by line in the quote. Nothing starts, and nothing is billed, until you say yes in writing. See the full list on our <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [
@@ -209,12 +209,12 @@ const pollachi: CityContent = {
     {
       question: "How much does a website cost in Pollachi?",
       answer:
-        "With us, a static business website starts from ₹10,000, a 700+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. The final figure depends on pages, product grades, languages and integrations. You get an itemised quote in about two working days, and nothing is billed before you approve it in writing.",
+        "With us, a static business website starts from ₹10,000, a 299+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. The final figure depends on pages, product grades, languages and integrations. You get an itemised quote in about two working days, and nothing is billed before you approve it in writing.",
     },
     {
       question: "Pollachi-la website seyya evvalavu selavu aagum?",
       answer:
-        "Engaloda simple business website ₹10,000-la irundhu aarambikkudhu. 700+ pages SEO website ₹20,000 mudhal, online store ₹50,000 mudhal. Final vilai pages, features, content-ai poruthu maarum. Velai aarambikkum munnaadi itemised quote anuppuvom, neenga ok sonna piragu thaan velai thodangum.",
+        "Engaloda simple business website ₹10,000-la irundhu aarambikkudhu. 299+ pages SEO website ₹20,000 mudhal, online store ₹50,000 mudhal. Final vilai pages, features, content-ai poruthu maarum. Velai aarambikkum munnaadi itemised quote anuppuvom, neenga ok sonna piragu thaan velai thodangum.",
     },
     {
       question: "Do you have an office in Pollachi or Coimbatore?",
@@ -239,7 +239,7 @@ const pollachi: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static website usually takes one to two weeks, a 700+ page SEO website three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. The most common delay is waiting for photos and product details, so we draft starter text for you to correct instead of waiting on blank pages.",
+        "A static website usually takes one to two weeks, a 299+ page SEO website three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. The most common delay is waiting for photos and product details, so we draft starter text for you to correct instead of waiting on blank pages.",
     },
     {
       question: "Can you build a booking website for my farm stay near Aliyar or Topslip?",

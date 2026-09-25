@@ -181,7 +181,7 @@ const content: CityContent = {
       heading: "SEO and AI-search visibility for Nagpur businesses",
       paragraphs: [
         "SEO for Nagpur businesses means ranking for local searches in areas such as Dharampeth, Sitabuldi and Manish Nagar, reaching buyers across Vidarbha and central India for B2B services, and being described accurately by AI tools like Google AI Overviews and ChatGPT. It depends on fast pages, clear facts, schema and a maintained Google Business Profile.",
-        "Transporters need route and service pages. Contractors need capability pages. Clinics need doctor and treatment pages. Traders need product pages buyers in other states can find. Static sites start at ₹10,000, 700+ page SEO websites at ₹20,000 and monthly SEO at ₹10,000.",
+        "Transporters need route and service pages. Contractors need capability pages. Clinics need doctor and treatment pages. Traders need product pages buyers in other states can find. Static sites start at ₹10,000, 299+ page SEO websites at ₹20,000 and monthly SEO at ₹10,000.",
         "We never guarantee rankings. For local website detail see the separate <a href='/nagpur/'>Nagpur websites page</a>, plus <a href='/services/seo-services/'>SEO services</a> and <a href='/services/web-development/'>web development</a>.",
       ],
     },

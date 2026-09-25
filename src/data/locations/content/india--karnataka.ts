@@ -158,7 +158,7 @@ const content: CityContent = {
       paragraphs: [
         "Local SEO in Karnataka works city by city, because a buyer in Mangaluru searches for Mangaluru results and a family in Belagavi wants a school or hospital nearby. A business serving several cities needs a distinct, genuinely useful page for each, a well-maintained Google Business Profile per location and consistent details across directories.",
         "Language is the next decision. Many Karnataka searches happen in English even when people speak Kannada at home, but Kannada queries are growing, especially for local services, government-related information and agriculture. We build bilingual sites with proper language tags so each version can rank for its own audience. Coastal businesses sometimes add Konkani or Tulu touches for warmth, though search volume there is small.",
-        "Websites start at ₹10,000, SEO-first sites with 700+ pages at ₹20,000 and monthly SEO at ₹10,000. For city-specific detail, see our pages for <a href='/bengaluru/'>Bengaluru</a>, <a href='/mysore/'>Mysuru</a>, <a href='/mangaluru/'>Mangaluru</a> and <a href='/hubli-dharwad/'>Hubballi-Dharwad</a>, or our general <a href='/services/seo-services/'>SEO services</a>.",
+        "Websites start at ₹10,000, SEO-first sites with 299+ pages at ₹20,000 and monthly SEO at ₹10,000. For city-specific detail, see our pages for <a href='/bengaluru/'>Bengaluru</a>, <a href='/mysore/'>Mysuru</a>, <a href='/mangaluru/'>Mangaluru</a> and <a href='/hubli-dharwad/'>Hubballi-Dharwad</a>, or our general <a href='/services/seo-services/'>SEO services</a>.",
       ],
     },
     {
@@ -263,7 +263,7 @@ const content: CityContent = {
     {
       question: "What does it cost to get IT work done by you in Karnataka?",
       answer:
-        "Websites start at ₹10,000, SEO websites of 700+ pages at ₹20,000, ecommerce stores at ₹50,000, Android and iOS apps at ₹40,000, AI automation at ₹40,000, custom software at ₹60,000, monthly SEO at ₹10,000 and maintenance at ₹8,000 a month. These are starting prices. You get an itemised quote in about two working days.",
+        "Websites start at ₹10,000, SEO websites of 299+ pages at ₹20,000, ecommerce stores at ₹50,000, Android and iOS apps at ₹40,000, AI automation at ₹40,000, custom software at ₹60,000, monthly SEO at ₹10,000 and maintenance at ₹8,000 a month. These are starting prices. You get an itemised quote in about two working days.",
     },
     {
       question: "How long do projects usually take?",

@@ -35,7 +35,7 @@ const hindupur: CityContent = {
     pills: ["Sites from ₹10,000", "Telugu, Urdu and English", "Garment and saree stores", "Supplier capability pages", "WhatsApp order routing"],
   },
   quickAnswer:
-    "Hindupur businesses can get a website from ₹10,000 with us, usually ready in one to two weeks. Search-led sites of 700+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom web apps at ₹60,000. We work remotely with no Hindupur office and include five months of free maintenance.",
+    "Hindupur businesses can get a website from ₹10,000 with us, usually ready in one to two weeks. Search-led sites of 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom web apps at ₹60,000. We work remotely with no Hindupur office and include five months of free maintenance.",
   snapshot: [
     { label: "District", value: "Largest town of Sri Sathya Sai district, about 67 km from the headquarters at Puttaparthi" },
     { label: "Connectivity", value: "On NH 44 and the Bengaluru–Guntakal rail line (station code HUP); Bengaluru airport is about 90 km away" },
@@ -103,12 +103,12 @@ const hindupur: CityContent = {
       heading: "Website prices for Hindupur businesses",
       paragraphs: [
         "Hindupur owners get quotes from cheap template builders at one end and Bengaluru agencies asking many times our starting figure at the other. The first usually leaves out search setup and ownership; the second pays for an office and sales team you will never meet. We publish our starting prices so you can compare on facts.",
-        "A static site with up to 100 pages starts at <strong>₹10,000</strong> and is typically live in one to two weeks. A search-first site of 700+ pages, useful when you want Telugu, Urdu and English pages for many products or areas, begins at <strong>₹20,000</strong> and takes three to five weeks. Stores with UPI start at <strong>₹50,000</strong>, WhatsApp and AI automation at <strong>₹40,000</strong>, and custom web apps at <strong>₹60,000</strong>. Monthly SEO is from ₹10,000. Details are on our <a href=\"/pricing/\">pricing page</a>.",
+        "A static site with up to 100 pages starts at <strong>₹10,000</strong> and is typically live in one to two weeks. A search-first site of 299+ pages, useful when you want Telugu, Urdu and English pages for many products or areas, begins at <strong>₹20,000</strong> and takes three to five weeks. Stores with UPI start at <strong>₹50,000</strong>, WhatsApp and AI automation at <strong>₹40,000</strong>, and custom web apps at <strong>₹60,000</strong>. Monthly SEO is from ₹10,000. Details are on our <a href=\"/pricing/\">pricing page</a>.",
         "Every figure is a floor, not a ceiling. A garment wholesaler with 600 designs needs more work than a clinic with six pages, and your quote will say exactly why.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> business site up to 100 pages with map, WhatsApp button and on-page basics.",
-        "<strong>From ₹20,000:</strong> 700+ page multilingual site with schema, sitemap and Search Console.",
+        "<strong>From ₹20,000:</strong> 299+ page multilingual site with schema, sitemap and Search Console.",
         "<strong>From ₹50,000:</strong> online store with catalogue, UPI and card payments and order alerts.",
         "<strong>From ₹60,000:</strong> custom web app for records, orders, dispatch or student data.",
       ],
@@ -230,12 +230,12 @@ const hindupur: CityContent = {
     {
       question: "What does a website cost in Hindupur?",
       answer:
-        "Our business websites start from ₹10,000, 700+ page search sites from ₹20,000, online stores from ₹50,000 and custom web apps from ₹60,000. The quote rises with pages, products, languages and features. When comparing offers, check whether the domain is in your name and whether support after launch is included.",
+        "Our business websites start from ₹10,000, 299+ page search sites from ₹20,000, online stores from ₹50,000 and custom web apps from ₹60,000. The quote rises with pages, products, languages and features. When comparing offers, check whether the domain is in your name and whether support after launch is included.",
     },
     {
       question: "Hindupur lo maa shop ki website cheyyadaniki entha kharchu?",
       answer:
-        "Simple website ₹10,000 nundi start avutundi, sadharananga okati rendu vaaralu padutundi. Online store kavali ante ₹50,000 nundi, 700+ pages SEO site ₹20,000 nundi. Mundu prati item tho quote pamputhamu. Meeru OK cheppina taruvate pani modalupedatamu, appati varaku emi charge ledu.",
+        "Simple website ₹10,000 nundi start avutundi, sadharananga okati rendu vaaralu padutundi. Online store kavali ante ₹50,000 nundi, 299+ pages SEO site ₹20,000 nundi. Mundu prati item tho quote pamputhamu. Meeru OK cheppina taruvate pani modalupedatamu, appati varaku emi charge ledu.",
     },
     {
       question: "Is your office in Hindupur?",
@@ -265,7 +265,7 @@ const hindupur: CityContent = {
     {
       question: "How long does it take to build a site?",
       answer:
-        "Static sites typically take one to two weeks, 700+ page search sites three to five, online stores four to eight and custom web apps six to twelve. The biggest delay is usually waiting for photos and text, so we prepare draft content for you to correct.",
+        "Static sites typically take one to two weeks, 299+ page search sites three to five, online stores four to eight and custom web apps six to twelve. The biggest delay is usually waiting for photos and text, so we prepare draft content for you to correct.",
     },
     {
       question: "What can WhatsApp automation handle for my business?",

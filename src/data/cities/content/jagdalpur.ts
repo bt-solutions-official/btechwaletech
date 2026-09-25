@@ -34,7 +34,7 @@ const jagdalpur: CityContent = {
     pills: ["Sites from ₹10,000", "Tourism and hotel pages", "Hindi, Halbi, English", "Craft stores with UPI", "5 months free upkeep"],
   },
   quickAnswer:
-    "Websites for Jagdalpur businesses begin at ₹10,000 and normally go live within a fortnight. Bigger SEO builds of 700+ pages begin at ₹20,000, WhatsApp or AI automation at ₹40,000 and online shops at ₹50,000. We are a three-person remote team without a Jagdalpur office, and the first five months of upkeep cost nothing.",
+    "Websites for Jagdalpur businesses begin at ₹10,000 and normally go live within a fortnight. Bigger SEO builds of 299+ pages begin at ₹20,000, WhatsApp or AI automation at ₹40,000 and online shops at ₹50,000. We are a three-person remote team without a Jagdalpur office, and the first five months of upkeep cost nothing.",
   snapshot: [
     { label: "Role", value: "Headquarters of Bastar district and Bastar division; former capital of the Bastar princely state" },
     { label: "Population", value: "About 3.25 lakh in the city and 5.67 lakh in the urban area (2011)" },
@@ -72,12 +72,12 @@ const jagdalpur: CityContent = {
       heading: "Website costs in Jagdalpur, listed openly",
       paragraphs: [
         "Business owners in Jagdalpur often receive quotes that are hard to compare: a local shop offering a template for very little, and a Raipur or Hyderabad agency quoting a large sum without explaining the difference. Neither usually says who will own the domain or what changes will cost afterwards.",
-        "So here is the whole ladder, and each rung is a minimum. Simple static sites of up to 100 pages begin at ₹10,000 and are normally online within a fortnight. A large SEO build of 700+ pages, giving each room, tour, product or service a page of its own, begins at ₹20,000 and needs three to five weeks. WhatsApp or AI automation begins at ₹40,000, an online shop at ₹50,000, bespoke software at ₹60,000, and search work on a monthly basis at ₹10,000. Our <a href=\"/pricing/\">pricing page</a> sets them out in one table.",
+        "So here is the whole ladder, and each rung is a minimum. Simple static sites of up to 100 pages begin at ₹10,000 and are normally online within a fortnight. A large SEO build of 299+ pages, giving each room, tour, product or service a page of its own, begins at ₹20,000 and needs three to five weeks. WhatsApp or AI automation begins at ₹40,000, an online shop at ₹50,000, bespoke software at ₹60,000, and search work on a monthly basis at ₹10,000. Our <a href=\"/pricing/\">pricing page</a> sets them out in one table.",
         "Scope decides the final figure. A hotel with online booking and tour packages, or a rice mill that wants paddy and dispatch registers, needs more work than a stationery shop. If the first quote is above your budget, we mark what can move to a later phase.",
       ],
       list: [
         "<strong>Starter site, ₹10,000 onwards:</strong> up to 100 pages, a click-to-WhatsApp button, contact form and your location map.",
-        "<strong>SEO build, ₹20,000 onwards:</strong> 700+ pages, structured data, XML sitemap and Search Console connection.",
+        "<strong>SEO build, ₹20,000 onwards:</strong> 299+ pages, structured data, XML sitemap and Search Console connection.",
         "<strong>Automation from ₹40,000:</strong> WhatsApp replies, enquiry logging, reminders.",
         "<strong>Store from ₹50,000:</strong> catalogue, UPI and card checkout, courier rules, order alerts.",
       ],
@@ -227,7 +227,7 @@ const jagdalpur: CityContent = {
     {
       question: "How much does a website cost in Jagdalpur?",
       answer:
-        "Our cheapest option, a static site, begins at ₹10,000. A 700+ page SEO build begins at ₹20,000, automation at ₹40,000, an online shop at ₹50,000 and custom software at ₹60,000. The figure you finally pay rises with pages and features, and you read the full item-wise list before a single rupee is charged.",
+        "Our cheapest option, a static site, begins at ₹10,000. A 299+ page SEO build begins at ₹20,000, automation at ₹40,000, an online shop at ₹50,000 and custom software at ₹60,000. The figure you finally pay rises with pages and features, and you read the full item-wise list before a single rupee is charged.",
     },
     {
       question: "Jagdalpur me website banwane ka kharcha kitna hai?",

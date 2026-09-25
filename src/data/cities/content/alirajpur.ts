@@ -39,7 +39,7 @@ const alirajpur: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first local SEO", "Mango season order tools", "All accounts in your name"],
   },
   quickAnswer:
-    "In Alirajpur, a static business website with us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely, with no Alirajpur office.",
+    "In Alirajpur, a static business website with us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely, with no Alirajpur office.",
   snapshot: [
     { label: "District", value: "Headquarters of Alirajpur district, carved out of Jhabua on 17 May 2008, in the Indore division" },
     { label: "Tehsils", value: "Alirajpur, Jobat, Sondwa, Udaigarh, Chandrashekhar Azad Nagar (Bhabra) and Kathiwada" },
@@ -174,7 +174,7 @@ const alirajpur: CityContent = {
       heading: "Website cost in Alirajpur: what goes into our quote",
       paragraphs: [
         "Whether you ask “Alirajpur me website banwana kitne ka padega” or search for the <strong>website cost in Alirajpur</strong>, the answer depends on what the site has to do. Local quotes vary widely, so compare what each one includes: domain ownership, hosting renewal, number of revisions, whether Hindi content is written for you, and support after launch.",
-        "Our starting prices are public. A static website of up to 100 pages starts at ₹10,000 (one to two weeks). An SEO website with 700+ pages starts at ₹20,000 (three to five weeks). Online stores start at ₹50,000, Android and iOS apps at ₹40,000, AI automation at ₹40,000 and custom software at ₹60,000. See our <a href=\"/pricing/\">pricing page</a> for the full list.",
+        "Our starting prices are public. A static website of up to 100 pages starts at ₹10,000 (one to two weeks). An SEO website with 299+ pages starts at ₹20,000 (three to five weeks). Online stores start at ₹50,000, Android and iOS apps at ₹40,000, AI automation at ₹40,000 and custom software at ₹60,000. See our <a href=\"/pricing/\">pricing page</a> for the full list.",
         "Share your requirements and you receive an itemised written quote in about two working days. Nothing is billed until you approve it.",
       ],
     },
@@ -225,7 +225,7 @@ const alirajpur: CityContent = {
     {
       question: "What is the website cost in Alirajpur?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The quote depends on pages, Hindi content, products and features, and you receive it itemised in writing before anything is billed.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The quote depends on pages, Hindi content, products and features, and you receive it itemised in writing before anything is billed.",
     },
     {
       question: "How long does it take to make a website for an Alirajpur business?",

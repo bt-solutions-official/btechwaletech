@@ -35,7 +35,7 @@ const ranibennur: CityContent = {
     pills: ["Websites from ₹10,000", "Grower and lot software", "Kannada search pages", "WhatsApp order tools", "Your code, your domain"],
   },
   quickAnswer:
-    "Ranibennur businesses can get a static website from ₹10,000 and a 700+ page SEO website from ₹20,000. AI and WhatsApp automation starts at ₹40,000, online stores at ₹50,000 and custom software, such as grower registers for seed firms, at ₹60,000. We are a remote team with no Ranibennur office, and you own all the code.",
+    "Ranibennur businesses can get a static website from ₹10,000 and a 299+ page SEO website from ₹20,000. AI and WhatsApp automation starts at ₹40,000, online stores at ₹50,000 and custom software, such as grower registers for seed firms, at ₹60,000. We are a remote team with no Ranibennur office, and you own all the code.",
   snapshot: [
     { label: "District role", value: "Largest city of Haveri district; one of its eight taluks, bordered in the south by the Tungabhadra" },
     { label: "Seed economy", value: "Promoted locally as “Asia's first seeds production centre”, with hybrid vegetable seed multiplied on farmers' plots" },
@@ -157,7 +157,7 @@ const ranibennur: CityContent = {
       heading: "What websites and software cost for a Ranibennur business",
       paragraphs: [
         "Quotes for web and software work in the Haveri region vary widely, and the numbers alone tell you little. When comparing offers, ask who will own the domain and hosting account, whether the site is built on a template shared by many clients, whether Kannada pages are included, and who fixes things after launch. Those answers usually explain the difference in price better than the price itself.",
-        "Our figures are published starting points. A static website of up to 100 pages starts from ₹10,000 and takes one to two weeks. A 700+ page SEO website starts from ₹20,000 and takes three to five weeks. Automation starts from ₹40,000, an online store from ₹50,000 and custom software, such as a grower register or trading ledger, from ₹60,000. Monthly SEO starts from ₹10,000.",
+        "Our figures are published starting points. A static website of up to 100 pages starts from ₹10,000 and takes one to two weeks. A 299+ page SEO website starts from ₹20,000 and takes three to five weeks. Automation starts from ₹40,000, an online store from ₹50,000 and custom software, such as a grower register or trading ledger, from ₹60,000. Monthly SEO starts from ₹10,000.",
         "Your quote lists every page, feature and integration. See our <a href=\"/pricing/\">pricing page</a> for detail, or <a href=\"/contact/\">send us your requirement</a> and we will reply with questions before we reply with a number.",
       ],
     },
@@ -217,7 +217,7 @@ const ranibennur: CityContent = {
     {
       question: "What does a website or software project cost in Ranibennur?",
       answer:
-        "A static website starts from ₹10,000 and a 700+ page SEO website from ₹20,000. Automation starts from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices; your itemised quote, sent in about two working days, depends on features, languages and data.",
+        "A static website starts from ₹10,000 and a 299+ page SEO website from ₹20,000. Automation starts from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices; your itemised quote, sent in about two working days, depends on features, languages and data.",
     },
     {
       question: "Ranibennur alli namma seed company ge software maadi kodtira?",
@@ -277,7 +277,7 @@ const ranibennur: CityContent = {
     {
       question: "How long does a project take?",
       answer:
-        "A static website takes one to two weeks, a 700+ page SEO website three to five weeks, automation two to four weeks, an online store four to eight weeks, and custom software six to twelve weeks. For seed firms we plan launches away from peak harvest and arrival periods.",
+        "A static website takes one to two weeks, a 299+ page SEO website three to five weeks, automation two to four weeks, an online store four to eight weeks, and custom software six to twelve weeks. For seed firms we plan launches away from peak harvest and arrival periods.",
     },
     {
       question: "Can you guarantee first place on Google?",

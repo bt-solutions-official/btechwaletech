@@ -39,7 +39,7 @@ const taki: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Bengali local SEO", "WhatsApp room and boat bookings", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Taki business, a website with us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 700+ page SEO site at ₹20,000 and an online store at ₹50,000. We are a remote team with no Taki office, and everything is registered to you.",
+    "For a Taki business, a website with us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 299+ page SEO site at ₹20,000 and an online store at ₹50,000. We are a remote team with no Taki office, and everything is registered to you.",
   snapshot: [
     { label: "Where it is", value: "Municipal town in Basirhat subdivision of North 24 Parganas, under Hasnabad police station, roughly 70–75 km by road from Kolkata" },
     { label: "River and border", value: "On the Ichamati, which forms the India–Bangladesh border here; Satkhira district lies on the opposite bank" },
@@ -210,7 +210,7 @@ const taki: CityContent = {
     {
       question: "How much does a website cost in Taki?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Your final figure depends on pages, Bengali and English content, booking or payment features and integrations, and it arrives itemised in writing before anything is billed.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Your final figure depends on pages, Bengali and English content, booking or payment features and integrations, and it arrives itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Taki businesses?",
@@ -220,7 +220,7 @@ const taki: CityContent = {
     {
       question: "How long does it take to make a website for a Taki lodge?",
       answer:
-        "A lodge or homestay site of a few pages is usually live in one to two weeks once we have your photographs, room details and rates. Adding online advance payment adds a little time. A 700+ page SEO site takes three to five weeks and an online store four to eight. Sending content early is the biggest factor in speed.",
+        "A lodge or homestay site of a few pages is usually live in one to two weeks once we have your photographs, room details and rates. Adding online advance payment adds a little time. A 299+ page SEO site takes three to five weeks and an online store four to eight. Sending content early is the biggest factor in speed.",
     },
     {
       question: "Which is the best website development team in Taki?",
@@ -245,7 +245,7 @@ const taki: CityContent = {
     {
       question: "Taki-te website banate koto khoroch hoy?",
       answer:
-        "Amader kache sadharon website ₹10,000 theke shuru, ar ek theke dui soptaher moddhe toiri hoye jay. 700+ page-er SEO website ₹20,000 theke, Android ar iOS app ₹40,000 theke, online store ₹50,000 theke shuru. Apnar page ar feature onujayi final quote likhito bhabe pathano hoy, approve korar aage kono taka lage na.",
+        "Amader kache sadharon website ₹10,000 theke shuru, ar ek theke dui soptaher moddhe toiri hoye jay. 299+ page-er SEO website ₹20,000 theke, Android ar iOS app ₹40,000 theke, online store ₹50,000 theke shuru. Apnar page ar feature onujayi final quote likhito bhabe pathano hoy, approve korar aage kono taka lage na.",
     },
     {
       question: "You have no office in Taki. How can I trust a remote team?",

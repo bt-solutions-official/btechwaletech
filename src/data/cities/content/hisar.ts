@@ -35,7 +35,7 @@ const hisar: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi and English SEO", "Dealer catalogues", "WhatsApp enquiry flows", "Five months' free upkeep"],
   },
   quickAnswer:
-    "A business website for a Hisar firm costs from ₹10,000 with us and takes one to two weeks; a 700+ page SEO website starts at ₹20,000 and takes three to five weeks. We are three remote engineers with no Hisar office, so quotes carry no rent, and five months of maintenance come free after launch.",
+    "A business website for a Hisar firm costs from ₹10,000 with us and takes one to two weeks; a 299+ page SEO website starts at ₹20,000 and takes three to five weeks. We are three remote engineers with no Hisar office, so quotes carry no rent, and five months of maintenance come free after launch.",
   snapshot: [
     { label: "Known as", value: "The “City of Steel”, home to a Jindal Stainless plant and a long line of galvanised and MS pipe makers" },
     { label: "Universities", value: "CCS Haryana Agricultural University, Guru Jambheshwar University of Science and Technology, LUVAS" },
@@ -73,12 +73,12 @@ const hisar: CityContent = {
       heading: "What a website costs in Hisar, line by line",
       paragraphs: [
         "Ask five people in Hisar what a website costs and you will hear five numbers, from ₹2,500 for a template to ₹50,000 from an agency in Gurugram. The cheap end usually leaves the domain in the developer's name and skips SEO entirely. The expensive end usually includes an office, a salesperson and an account manager you pay for without ever needing.",
-        "Our starting prices are published openly. A static website of up to 100 pages begins at ₹10,000 and is normally live within two weeks. A 700+ page website planned for Google, with a page for each product line or service, starts at ₹20,000 and takes three to five weeks. An online store with UPI checkout starts at ₹50,000. Custom software such as a dealer portal or dispatch tracker starts at ₹60,000, and WhatsApp or AI automation from ₹40,000. Ongoing SEO costs from ₹10,000 a month. See the full table on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our starting prices are published openly. A static website of up to 100 pages begins at ₹10,000 and is normally live within two weeks. A 299+ page website planned for Google, with a page for each product line or service, starts at ₹20,000 and takes three to five weeks. An online store with UPI checkout starts at ₹50,000. Custom software such as a dealer portal or dispatch tracker starts at ₹60,000, and WhatsApp or AI automation from ₹40,000. Ongoing SEO costs from ₹10,000 a month. See the full table on our <a href=\"/pricing/\">pricing page</a>.",
         "What moves the number is scope, not your postcode. Forty pipe sizes with specification tables take longer than a clinic with three doctors. We write the quote as a list of pages and features with a price against each, so you can remove items to fit a budget. Nothing is charged until you approve it in writing.",
       ],
       list: [
         "<strong>Static site from ₹10,000:</strong> up to 100 pages, contact form, WhatsApp button, basic SEO. Suits a CA, lawyer, tutor or single shop.",
-        "<strong>SEO site from ₹20,000:</strong> 700+ pages, schema, sitemap, Search Console. Suits dealers, clinics and institutes.",
+        "<strong>SEO site from ₹20,000:</strong> 299+ pages, schema, sitemap, Search Console. Suits dealers, clinics and institutes.",
         "<strong>Store from ₹50,000:</strong> catalogue, cart, UPI and card payments, shipping rules. Suits dairy, utensil and farm-product brands.",
         "<strong>Web app from ₹60,000:</strong> logins, dealer pricing, order history, reports. Suits pipe and steel traders.",
       ],
@@ -209,12 +209,12 @@ const hisar: CityContent = {
     {
       question: "What does a website cost for a small business in Hisar?",
       answer:
-        "With us, a simple website starts at ₹10,000 and a 700+ page SEO website at ₹20,000. Stores with UPI start at ₹50,000 and custom software at ₹60,000. Local quotes range from a few thousand to fifty thousand, so compare what is included: domain ownership, SEO basics and support after launch matter as much as the headline figure.",
+        "With us, a simple website starts at ₹10,000 and a 299+ page SEO website at ₹20,000. Stores with UPI start at ₹50,000 and custom software at ₹60,000. Local quotes range from a few thousand to fifty thousand, so compare what is included: domain ownership, SEO basics and support after launch matter as much as the headline figure.",
     },
     {
       question: "Hisar me website banwane me kitna kharcha aata hai?",
       answer:
-        "Humare saath chhoti business website ₹10,000 se shuru hoti hai aur 700+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se banta hai. Kitne page chahiye, kaunse features chahiye, isse final rate tay hota hai. Kaam shuru hone se pehle aapko har cheez ka alag rate likh kar milta hai.",
+        "Humare saath chhoti business website ₹10,000 se shuru hoti hai aur 299+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se banta hai. Kitne page chahiye, kaunse features chahiye, isse final rate tay hota hai. Kaam shuru hone se pehle aapko har cheez ka alag rate likh kar milta hai.",
     },
     {
       question: "Is your office in Hisar? Can I visit?",
@@ -239,7 +239,7 @@ const hisar: CityContent = {
     {
       question: "How long does it take to make a website?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Delays almost always come from waiting for photos and text, so we draft the content ourselves and you correct it, which keeps things moving.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Delays almost always come from waiting for photos and text, so we draft the content ourselves and you correct it, which keeps things moving.",
     },
     {
       question: "Do you work with businesses in Hansi, Fatehabad, Bhiwani and Sirsa?",

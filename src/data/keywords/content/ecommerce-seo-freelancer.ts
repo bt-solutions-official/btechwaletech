@@ -327,7 +327,7 @@ const content: FreelanceContent = {
       rows: [
         ["Monthly store SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Ongoing, reviewed monthly"],
         ["New SEO-ready online store", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks"],
-        ["SEO website, 700+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks"],
+        ["SEO website, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks"],
         ["AI-assisted product content workflow", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
         ["Store maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],

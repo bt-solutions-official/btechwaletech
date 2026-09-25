@@ -35,7 +35,7 @@ const rampur: CityContent = {
     pills: ["Sites from ₹10,000", "Urdu, Hindi and English pages", "Zari and appliqué catalogues", "Mentha trade enquiries", "Five months free upkeep"],
   },
   quickAnswer:
-    "A business website in Rampur costs from ₹10,000 with us and is usually live in one to two weeks. A 700+ page SEO website starts at ₹20,000, an online store with UPI at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote three-person team with no Rampur office, and upkeep is free for five months.",
+    "A business website in Rampur costs from ₹10,000 with us and is usually live in one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store with UPI at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote three-person team with no Rampur office, and upkeep is free for five months.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of Rampur district, Moradabad division, on the Lucknow–Moradabad rail line and NH 9" },
     { label: "Tehsils", value: "Rampur, Bilaspur, Suar, Tanda, Shahabad and Milak" },
@@ -73,12 +73,12 @@ const rampur: CityContent = {
       heading: "Website prices for Rampur businesses, stated up front",
       paragraphs: [
         "Ask around in Rampur and you will hear everything from ₹1,500 for a one-page template to ₹40,000 or more from a city agency. The cheap versions are usually built on a free theme, hosted on the developer's account and never touched again. The costly ones may be fine, but part of what you pay covers an office and a sales team.",
-        "Our figures are on the <a href=\"/pricing/\">pricing page</a> for anyone to see. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page site planned around real search phrases starts at ₹20,000 and takes three to five weeks. An online store is from ₹50,000, a custom web application from ₹60,000, WhatsApp and AI automation from ₹40,000 and monthly SEO from ₹10,000.",
+        "Our figures are on the <a href=\"/pricing/\">pricing page</a> for anyone to see. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page site planned around real search phrases starts at ₹20,000 and takes three to five weeks. An online store is from ₹50,000, a custom web application from ₹60,000, WhatsApp and AI automation from ₹40,000 and monthly SEO from ₹10,000.",
         "What moves the number is content and scope. A tailor with twelve designs is quick. A patchwork exporter with four hundred SKUs, each needing sizes and fabric notes, takes longer. We send an itemised quote, usually within two working days, and nothing is billed until you approve it in writing.",
       ],
       list: [
         "<strong>₹10,000 and up:</strong> up to 100 pages, mobile layout, WhatsApp and call buttons, map, basic SEO. Shops, tutors, clinics, small workshops.",
-        "<strong>₹20,000 and up:</strong> 700+ pages, one per product line or service, built for Google. Traders and growing firms.",
+        "<strong>₹20,000 and up:</strong> 299+ pages, one per product line or service, built for Google. Traders and growing firms.",
         "<strong>₹50,000 and up:</strong> online store with UPI, cards and courier settings. Zari, appliqué and craft sellers.",
         "<strong>₹60,000 and up:</strong> custom tools with logins, such as job-work tracking or dealer ordering.",
       ],
@@ -107,7 +107,7 @@ const rampur: CityContent = {
       paragraphs: [
         "Rampur's retail trade still revolves around its old gates and main roads: the market lanes near Shahabad Gate, the shops of Miston Ganj, the showrooms on Civil Lines and along Jail Road and Khas Bagh Road. Tailors, jewellers, furniture sellers, electronics dealers and sweet shops depend on repeat customers and wedding seasons.",
         "Most of these shops do not need a large website. They need their Google Business Profile to show the right category, real opening hours, a working phone number and photographs of the actual shop front, so a customer walking or driving through can find the entrance. A small site with a product range, a WhatsApp catalogue link and festival offers is enough to convert that search into a visit.",
-        "For larger showrooms, such as furniture, bridal wear or electronics, a 20 to 700+ page site with a page per category helps them appear when someone in Milak or Suar searches for a particular item before making the trip to the city.",
+        "For larger showrooms, such as furniture, bridal wear or electronics, a 20 to 299+ page site with a page per category helps them appear when someone in Milak or Suar searches for a particular item before making the trip to the city.",
       ],
     },
     {
@@ -209,12 +209,12 @@ const rampur: CityContent = {
     {
       question: "What does a website cost in Rampur?",
       answer:
-        "With us, a static site starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. When comparing quotes, check whether the domain is in your name, whether basic SEO is included and what support you get after launch, because those are where cheap offers usually cut corners.",
+        "With us, a static site starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. When comparing quotes, check whether the domain is in your name, whether basic SEO is included and what support you get after launch, because those are where cheap offers usually cut corners.",
     },
     {
       question: "Rampur mein website banwane ka kharcha kitna hai?",
       answer:
-        "Humare yahan simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein live ho jaati hai. 700+ page wali SEO website ₹20,000 se aur online store ₹50,000 se banta hai. Kaam shuru karne se pehle aapko likhit, item-wise quote milta hai, aur aapki manzoori ke bina koi bill nahi banta.",
+        "Humare yahan simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein live ho jaati hai. 299+ page wali SEO website ₹20,000 se aur online store ₹50,000 se banta hai. Kaam shuru karne se pehle aapko likhit, item-wise quote milta hai, aur aapki manzoori ke bina koi bill nahi banta.",
     },
     {
       question: "Is your office in Rampur?",
@@ -244,7 +244,7 @@ const rampur: CityContent = {
     {
       question: "How long does it take to build?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. The biggest delay is usually photos and product details, so we send a simple checklist and draft the text for you to approve.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. The biggest delay is usually photos and product details, so we send a simple checklist and draft the text for you to approve.",
     },
     {
       question: "What can WhatsApp automation do for my business?",

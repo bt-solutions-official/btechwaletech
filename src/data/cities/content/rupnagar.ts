@@ -39,7 +39,7 @@ const rupnagar: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Punjabi + English pages", "Local SEO on Google Maps", "Your domain, your code"],
   },
   quickAnswer:
-    "For a Rupnagar (Ropar) business, a website with us starts at ₹10,000 and takes one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation. A 700+ page SEO site is ₹20,000 onwards, an online store ₹50,000 onwards and custom software ₹60,000 onwards. We are fully remote and you own every account.",
+    "For a Rupnagar (Ropar) business, a website with us starts at ₹10,000 and takes one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation. A 299+ page SEO site is ₹20,000 onwards, an online store ₹50,000 onwards and custom software ₹60,000 onwards. We are fully remote and you own every account.",
   snapshot: [
     { label: "Location", value: "District headquarters on the Sutlej, about 47 km north-west of Chandigarh, with the Shivalik hills to the north" },
     { label: "History", value: "Harappan settlement; the first Indus Valley site excavated after Independence, with an archaeological museum opened in 1998" },
@@ -156,7 +156,7 @@ const rupnagar: CityContent = {
       id: "website-cost-ropar",
       heading: "Website cost in Rupnagar and how to read a quote",
       paragraphs: [
-        "The first question is almost always price, so here are our entry points. A simple website of up to 100 pages starts at ₹10,000 and is typically live within one to two weeks. An SEO website of 700 pages or more, the kind a coaching group or a multi-branch business uses to cover every course, service and nearby town, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and so does AI automation. Online stores begin at ₹50,000, custom web apps at ₹60,000, and monthly SEO at ₹10,000.",
+        "The first question is almost always price, so here are our entry points. A simple website of up to 100 pages starts at ₹10,000 and is typically live within one to two weeks. An SEO website of 299 pages or more, the kind a coaching group or a multi-branch business uses to cover every course, service and nearby town, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and so does AI automation. Online stores begin at ₹50,000, custom web apps at ₹60,000, and monthly SEO at ₹10,000.",
         "From those starting points, the amount grows only with what you choose. Punjabi and English versions, a large product list, room or batch calendars, UPI and card checkout, staff logins, or a link to Tally are separate lines. Writing is optional too: if you send your own text and phone photos, the number barely moves.",
         "Quotes from designers in Ropar, Mohali and Chandigarh differ a lot for work that sounds the same. When comparing, ask who registers the domain, whether the site is tested on cheap Android phones, whether basic on-page SEO is included, how many revision rounds you get, and who fixes things a year later. Our starting prices are all on the <a href=\"/pricing/\">pricing page</a>, and your itemised written quote usually arrives within two working days."
       ],
@@ -218,7 +218,7 @@ const rupnagar: CityContent = {
     {
       question: "How much does a website cost in Ropar?",
       answer:
-        "With us, a static website of up to 100 pages starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. These are starting prices. Your quote grows only with features you pick, such as Punjabi pages, payments or logins, and you see each line in writing before approving.",
+        "With us, a static website of up to 100 pages starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. These are starting prices. Your quote grows only with features you pick, such as Punjabi pages, payments or logins, and you see each line in writing before approving.",
     },
     {
       question: "Do you build Android and iOS apps for Rupnagar businesses?",
@@ -228,7 +228,7 @@ const rupnagar: CityContent = {
     {
       question: "How long does it take to build a website for a Ropar business?",
       answer:
-        "A simple static site usually goes live in one to two weeks once we have your photos and details. A 700+ page SEO site needs three to five weeks, an online store four to eight, and custom software six to twelve. Delays almost always come from waiting for content, so sending text and pictures early speeds things up.",
+        "A simple static site usually goes live in one to two weeks once we have your photos and details. A 299+ page SEO site needs three to five weeks, an online store four to eight, and custom software six to twelve. Delays almost always come from waiting for content, so sending text and pictures early speeds things up.",
     },
     {
       question: "Which is the best website development team in Rupnagar?",
@@ -248,7 +248,7 @@ const rupnagar: CityContent = {
     {
       question: "Ropar vich website banwaun da kinna kharcha aunda hai?",
       answer:
-        "Saade naal simple website ₹10,000 ton shuru hundi hai te ik-do hafteyan vich tayyar ho jandi hai. 700+ page wali SEO website ₹20,000 ton, Android te iOS app ₹40,000 ton, te online store ₹50,000 ton shuru hai. Poora quote likhat vich milda hai, te approval ton pehlan koi paisa nahin laiya janda.",
+        "Saade naal simple website ₹10,000 ton shuru hundi hai te ik-do hafteyan vich tayyar ho jandi hai. 299+ page wali SEO website ₹20,000 ton, Android te iOS app ₹40,000 ton, te online store ₹50,000 ton shuru hai. Poora quote likhat vich milda hai, te approval ton pehlan koi paisa nahin laiya janda.",
     },
     {
       question: "You have no office in Ropar. How do I know the work will be done?",

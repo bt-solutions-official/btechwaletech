@@ -201,7 +201,7 @@ const content: CityContent = {
       id: "it-services-cost-india",
       heading: "How much do IT services cost in India in 2026?",
       paragraphs: [
-        "IT services in India cost anywhere from a few thousand rupees for a template site to several lakhs for enterprise software, and the honest answer depends on scope. Our own starting prices are published so you can benchmark: static websites from ₹10,000, SEO websites of 700+ pages from ₹20,000, AI automation from ₹40,000, Android and iOS apps from ₹40,000, ecommerce stores from ₹50,000 and custom software from ₹60,000.",
+        "IT services in India cost anywhere from a few thousand rupees for a template site to several lakhs for enterprise software, and the honest answer depends on scope. Our own starting prices are published so you can benchmark: static websites from ₹10,000, SEO websites of 299+ pages from ₹20,000, AI automation from ₹40,000, Android and iOS apps from ₹40,000, ecommerce stores from ₹50,000 and custom software from ₹60,000.",
         "Ongoing services are monthly: SEO from ₹10,000 a month and maintenance from ₹8,000 a month, with the first five months of maintenance after launch included free. The full breakdown is on our <a href='/pricing/'>pricing page</a>.",
         "What pushes a quote up is usually integrations (Tally, courier APIs, WhatsApp, payment gateways, government portals), the number of user roles, data migration from old systems, and content that is not ready. What keeps it down is a clear first release, ready content and a willingness to launch lean and add features later.",
         "Compared with large agencies, the saving comes from structure rather than cutting corners. We have no office rent, no sales layer and no account managers, so the money goes into engineering time.",
@@ -228,7 +228,7 @@ const content: CityContent = {
       id: "project-timelines-india",
       heading: "Typical timelines for software, app, AI and website projects",
       paragraphs: [
-        "Most projects with us go live between one and twelve weeks after the scope is agreed, depending on type. A static website usually takes one to two weeks, a 700+ page SEO website three to five weeks, an AI automation two to four weeks, an ecommerce store four to eight weeks and custom software six to twelve weeks.",
+        "Most projects with us go live between one and twelve weeks after the scope is agreed, depending on type. A static website usually takes one to two weeks, a 299+ page SEO website three to five weeks, an AI automation two to four weeks, an ecommerce store four to eight weeks and custom software six to twelve weeks.",
         "The biggest delays in Indian projects are rarely technical. They come from content arriving late, approvals waiting for one decision-maker who is travelling, and third-party accounts such as WhatsApp Business, payment gateways or app stores taking time to verify. We flag these on day one and start the verifications early.",
         "Work is shared in stages on a live preview link, so you see progress every few days rather than a big reveal at the end. Feedback goes into one shared list, which keeps changes from getting lost in voice notes.",
       ],

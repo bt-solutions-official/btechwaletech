@@ -137,7 +137,7 @@ const parli: CityContent = {
       ],
       list: [
         "<strong>Static website, up to 100 pages:</strong> from ₹10,000, ready in one to two weeks.",
-        "<strong>SEO website with 700+ pages:</strong> starts at ₹20,000, three to five weeks.",
+        "<strong>SEO website with 299+ pages:</strong> starts at ₹20,000, three to five weeks.",
         "<strong>Android and iOS app:</strong> ₹40,000 onwards.",
         "<strong>AI and WhatsApp automation:</strong> from ₹40,000, two to four weeks.",
         "<strong>Ecommerce store with UPI and Razorpay:</strong> starts at ₹50,000, four to eight weeks.",
@@ -220,7 +220,7 @@ const parli: CityContent = {
     {
       question: "How much does a website cost in Parli Vaijnath?",
       answer:
-        "A static website of up to 100 pages starts at ₹10,000 and is ready in one to two weeks. An SEO website with 700+ pages starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We send an itemised quote in about two working days and charge nothing before your written approval.",
+        "A static website of up to 100 pages starts at ₹10,000 and is ready in one to two weeks. An SEO website with 299+ pages starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We send an itemised quote in about two working days and charge nothing before your written approval.",
     },
     {
       question: "Parli madhye website kiva app banvaycha kharch kiti yeto?",
@@ -250,7 +250,7 @@ const parli: CityContent = {
     {
       question: "How long does it take to build a website or app?",
       answer:
-        "A static website takes one to two weeks, a 700+ page SEO site three to five weeks, WhatsApp or AI automation two to four weeks, an online store four to eight weeks and custom software six to twelve weeks. App timelines depend on features. Having photographs and text ready speeds things up.",
+        "A static website takes one to two weeks, a 299+ page SEO site three to five weeks, WhatsApp or AI automation two to four weeks, an online store four to eight weeks and custom software six to twelve weeks. App timelines depend on features. Having photographs and text ready speeds things up.",
     },
     {
       question: "Can you get my Parli shop or clinic on Google Maps?",

@@ -39,7 +39,7 @@ const uranIslampur: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Marathi-first local SEO", "Dairy and cane records", "Domain and code in your name"],
   },
   quickAnswer:
-    "For an Uran Islampur business, a website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 700+ page SEO site at ₹20,000 and an online store at ₹50,000. We are a remote team with no Islampur office, and you own every account.",
+    "For an Uran Islampur business, a website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 299+ page SEO site at ₹20,000 and an online store at ₹50,000. We are a remote team with no Islampur office, and you own every account.",
   snapshot: [
     { label: "Official name", value: "Ishwarpur since the 2025 renaming, still widely searched as Islampur or Uran Islampur" },
     { label: "Civic body", value: "Urun-Ishwarpur Municipal Council with 30 wards; 2011 population 67,391" },
@@ -167,7 +167,7 @@ const uranIslampur: CityContent = {
       id: "website-cost-islampur",
       heading: "Website cost in Islampur: starting prices and what changes the quote",
       paragraphs: [
-        "Our published starting prices apply in Islampur as everywhere else: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 700+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. Monthly SEO starts at ₹10,000 a month.",
+        "Our published starting prices apply in Islampur as everywhere else: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 299+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. Monthly SEO starts at ₹10,000 a month.",
         "Scope moves the number. More pages, full Marathi and English versions, a large product catalogue, payment and courier links, member logins, or a connection to Tally all add lines to the quote. Content matters too: if you supply text and photographs, the price stays close to the starting figure; if we write, translate and organise everything, that is priced separately.",
         "Local quotes vary widely. When you compare, ask whose name the domain and hosting will be in, whether mobile testing and basic SEO are included, how many rounds of changes are allowed, and who fixes problems after launch. Our <a href=\"/pricing/\">pricing page</a> sets out the starting points, and your itemised quote arrives in about two working days.",
       ],
@@ -228,7 +228,7 @@ const uranIslampur: CityContent = {
     {
       question: "What is the website cost in Islampur?",
       answer:
-        "A static website with us starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. The final figure depends on pages, Marathi content, products and integrations, and you receive it as an itemised written quote before anything is billed.",
+        "A static website with us starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. The final figure depends on pages, Marathi content, products and integrations, and you receive it as an itemised written quote before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Islampur businesses?",
@@ -238,7 +238,7 @@ const uranIslampur: CityContent = {
     {
       question: "How long does a website take for an Islampur shop?",
       answer:
-        "A static website usually goes live one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Having your content, logo and product photos ready is what speeds things up most.",
+        "A static website usually goes live one to two weeks after we receive your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Having your content, logo and product photos ready is what speeds things up most.",
     },
     {
       question: "Which is the best website development team in Islampur?",
@@ -268,7 +268,7 @@ const uranIslampur: CityContent = {
     {
       question: "Islampur madhe website banvaychi aahe, kharcha kiti yeil?",
       answer:
-        "Aamchyakade sadhi website ₹10,000 pasun suru hote ani ek-don aathavdyat tayar hote. 700+ page SEO website ₹20,000 pasun, Android ani iOS app ₹40,000 pasun ani online store ₹50,000 pasun suru aahe. Tumchya pages ani features pramane itemised quote lekhi swarupat milto.",
+        "Aamchyakade sadhi website ₹10,000 pasun suru hote ani ek-don aathavdyat tayar hote. 299+ page SEO website ₹20,000 pasun, Android ani iOS app ₹40,000 pasun ani online store ₹50,000 pasun suru aahe. Tumchya pages ani features pramane itemised quote lekhi swarupat milto.",
     },
     {
       question: "You have no office in Islampur. How is remote work safe for me?",

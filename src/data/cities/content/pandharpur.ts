@@ -39,7 +39,7 @@ const pandharpur: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Marathi-first local SEO", "Lodge and bhakt niwas sites", "Your domain, your code"],
   },
   quickAnswer:
-    "In Pandharpur, a business website with us starts at ₹10,000 and takes one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely without a Pandharpur office, and you own every account.",
+    "In Pandharpur, a business website with us starts at ₹10,000 and takes one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely without a Pandharpur office, and you own every account.",
   snapshot: [
     { label: "Location", value: "Solapur district, on the western bank of the Bhima (Chandrabhaga), about 76 km from Solapur and 210 km from Pune" },
     { label: "Temple", value: "Vitthal (Vithoba) temple, the main centre of the Varkari tradition" },
@@ -152,7 +152,7 @@ const pandharpur: CityContent = {
       id: "website-cost-pandharpur",
       heading: "Website cost in Pandharpur: starting prices and fair comparisons",
       paragraphs: [
-        "Here are our starting prices for Pandharpur: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 700+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000, an online store from ₹50,000 in four to eight weeks and custom software from ₹60,000 over six to twelve weeks. Monthly SEO begins at ₹10,000 a month.",
+        "Here are our starting prices for Pandharpur: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 299+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000, an online store from ₹50,000 in four to eight weeks and custom software from ₹60,000 over six to twelve weeks. Monthly SEO begins at ₹10,000 a month.",
         "What raises a quote is scope: more pages or rooms, Marathi and English versions, booking calendars, online payment, product catalogues, logins and links to accounting. If you supply text and photographs, the price stays close to the starting figure. Content writing and photography, when needed, appear as separate lines.",
         "Local quotes vary widely. When comparing, ask whose name the domain is in, how long hosting is included, whether the site is tested on phones, how many revisions you get and who handles problems during the yatra rush. See our <a href=\"/pricing/\">pricing page</a> for starting points, and expect a written quote in about two working days.",
       ],
@@ -213,7 +213,7 @@ const pandharpur: CityContent = {
     {
       question: "What is the website cost in Pandharpur?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Your final quote depends on pages, Marathi content, booking and payment features, and it is sent itemised in writing before anything is billed.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Your final quote depends on pages, Marathi content, booking and payment features, and it is sent itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Pandharpur businesses?",
@@ -233,7 +233,7 @@ const pandharpur: CityContent = {
     {
       question: "How long does a website take in Pandharpur?",
       answer:
-        "A static website usually takes one to two weeks after we receive your text and photographs. A 700+ page SEO website takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Start at least a month before a yatra if the site matters for bookings.",
+        "A static website usually takes one to two weeks after we receive your text and photographs. A 299+ page SEO website takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Start at least a month before a yatra if the site matters for bookings.",
     },
     {
       question: "Can you help my Pandharpur business appear on Google Maps?",

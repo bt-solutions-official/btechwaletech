@@ -152,7 +152,7 @@ const content: CityContent = {
       paragraphs: [
         "SEO in Mizoram means making sure Google, Maps and AI assistants show accurate, consistent information about your organisation and clear pages that answer what people search. For local businesses the foundation is a verified Google Business Profile; for statewide services it is a page per service and, where genuine, per town.",
         "Search behaviour differs by audience. Tourists and visitors search in English, often from outside the state. Residents may mix English and Mizo. Traders and officials posted to Mizoram sometimes search in Hindi. We write in English as the base and add Mizo content provided or checked by native speakers, never machine output alone.",
-        "Our <a href='/services/seo-services/'>SEO services</a> start at ₹10,000 a month with technical fixes, content, listings and Search Console reports. For organisations wanting many location or service pages, the 700+ page SEO website package starts at ₹20,000. We do not guarantee rankings; we explain each change and track results.",
+        "Our <a href='/services/seo-services/'>SEO services</a> start at ₹10,000 a month with technical fixes, content, listings and Search Console reports. For organisations wanting many location or service pages, the 299+ page SEO website package starts at ₹20,000. We do not guarantee rankings; we explain each change and track results.",
       ],
     },
     {
@@ -201,7 +201,7 @@ const content: CityContent = {
       id: "it-services-mizoram-cost",
       heading: "How much do IT services in Mizoram cost?",
       paragraphs: [
-        "IT services in Mizoram with us start at ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software or a web app. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000.",
+        "IT services in Mizoram with us start at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software or a web app. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000.",
         "Price depends on scope: pages or screens, user roles, integrations, offline capability, data migration and content writing. District does not change the rate, because all work is remote. The estimate is itemised so you can remove or phase features to fit a budget.",
         "Payments are in INR, split into milestones, and accepted only by UPI through our QR code or direct bank transfer to our account. Every milestone follows work you have reviewed, and hosting setup, deployment and five months of maintenance are included.",
       ],

@@ -39,7 +39,7 @@ const samana: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Punjabi + English pages", "Rice mill and mandi tools", "Your name on every account"],
   },
   quickAnswer:
-    "Samana businesses can get a website from us starting at ₹10,000, usually live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI automation; an SEO site of 700+ pages starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, without a Samana office.",
+    "Samana businesses can get a website from us starting at ₹10,000, usually live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI automation; an SEO site of 299+ pages starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, without a Samana office.",
   snapshot: [
     { label: "Location", value: "Municipal town in Patiala district on State Highway 10, roughly 26 km from Patiala" },
     { label: "Population", value: "About 54,000 at the 2011 Census, with literacy near 86%" },
@@ -149,7 +149,7 @@ const samana: CityContent = {
       id: "website-cost-samana",
       heading: "Website cost in Samana: what you pay and what to compare",
       paragraphs: [
-        "Here are our entry points for Samana. A basic website of up to 100 pages starts at ₹10,000 and is usually live in one to two weeks. A large SEO website of 700 pages or more starts at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation each start at ₹40,000. Online stores begin at ₹50,000, custom software and web apps at ₹60,000, and monthly SEO at ₹10,000 a month. The full list is on our <a href=\"/pricing/\">pricing page</a>.",
+        "Here are our entry points for Samana. A basic website of up to 100 pages starts at ₹10,000 and is usually live in one to two weeks. A large SEO website of 299 pages or more starts at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation each start at ₹40,000. Online stores begin at ₹50,000, custom software and web apps at ₹60,000, and monthly SEO at ₹10,000 a month. The full list is on our <a href=\"/pricing/\">pricing page</a>.",
         "Your quote moves above those figures only for items you choose to add: Punjabi and English versions of each page, a large product list, online payments, staff logins, a mill or ledger module, or integration with Tally. Each one appears on its own line so you can remove it. If you send your own text and photographs, writing costs disappear.",
         "Local quotes for similar-sounding jobs vary a great deal around Patiala district. When you compare, ask who registers the domain, whether the site is tested on cheap phones, how many rounds of changes are included, whether basic SEO is part of the work, and who answers the phone six months later. Our quote reaches you in writing within about two working days.",
       ],
@@ -210,7 +210,7 @@ const samana: CityContent = {
     {
       question: "How much does a website cost in Samana?",
       answer:
-        "With us a website for a Samana business starts at ₹10,000 for up to 100 pages. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the written quote lists every extra, such as Punjabi pages or payments, so you can keep or drop each one.",
+        "With us a website for a Samana business starts at ₹10,000 for up to 100 pages. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the written quote lists every extra, such as Punjabi pages or payments, so you can keep or drop each one.",
     },
     {
       question: "Do you build Android and iOS apps for Samana businesses?",
@@ -230,7 +230,7 @@ const samana: CityContent = {
     {
       question: "How long does it take to build a website in Samana?",
       answer:
-        "A simple site is usually ready in one to two weeks once we have your text and photos. A 700+ page SEO website takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content early and reviews previews within a day or two.",
+        "A simple site is usually ready in one to two weeks once we have your text and photos. A 299+ page SEO website takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content early and reviews previews within a day or two.",
     },
     {
       question: "Can you put my Samana shop on Google Maps?",
@@ -245,7 +245,7 @@ const samana: CityContent = {
     {
       question: "Samana me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath Samana mein simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein live ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hai. Poora quote likhit mein, har item alag, do working days mein milta hai.",
+        "Hamare saath Samana mein simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein live ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hai. Poora quote likhit mein, har item alag, do working days mein milta hai.",
     },
     {
       question: "You have no office in Samana. How do I know the work is safe?",

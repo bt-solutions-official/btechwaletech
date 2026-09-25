@@ -34,7 +34,7 @@ const motihari: CityContent = {
     pills: ["Sites from ₹10,000", "Coaching and clinic pages", "Hindi, Bhojpuri, English", "Border-trade enquiries", "5 months free upkeep"],
   },
   quickAnswer:
-    "In Motihari, our websites begin at ₹10,000 and go live in about a fortnight. Large SEO sites of 700+ pages begin at ₹20,000, WhatsApp and AI automation at ₹40,000, and online shops at ₹50,000. The three of us work remotely with no local office, and upkeep costs nothing for the first five months after your site launches.",
+    "In Motihari, our websites begin at ₹10,000 and go live in about a fortnight. Large SEO sites of 299+ pages begin at ₹20,000, WhatsApp and AI automation at ₹40,000, and online shops at ₹50,000. The three of us work remotely with no local office, and upkeep costs nothing for the first five months after your site launches.",
   snapshot: [
     { label: "Role", value: "Headquarters of East Champaran district in the Tirhut division, about 150 km north-west of Patna" },
     { label: "History", value: "Gandhi arrived here in April 1917 to begin the Champaran Satyagraha; George Orwell was born here" },
@@ -72,12 +72,12 @@ const motihari: CityContent = {
       heading: "How much a website costs in Motihari",
       paragraphs: [
         "Website quotes in Motihari range from very cheap templates offered by a local cyber café to expensive packages from Patna or Delhi agencies. The difficulty is that few quotes say what is included, who will own the domain, or what changes will cost after launch. We prefer to itemise everything.",
-        "Here is where our numbers begin. Ten thousand rupees is the entry point for a static site of up to 100 pages, normally finished inside a fortnight. Twenty thousand rupees onwards buys a 700+ page SEO build, where every course, specialty, product line or service gets its own page; allow three to five weeks. Automation on WhatsApp or with AI begins at ₹40,000, a proper online shop at ₹50,000 and bespoke software at ₹60,000, while ongoing monthly SEO begins at ₹10,000. Every one of these is a floor, not a ceiling, and the <a href=\"/pricing/\">pricing page</a> lays them side by side.",
+        "Here is where our numbers begin. Ten thousand rupees is the entry point for a static site of up to 100 pages, normally finished inside a fortnight. Twenty thousand rupees onwards buys a 299+ page SEO build, where every course, specialty, product line or service gets its own page; allow three to five weeks. Automation on WhatsApp or with AI begins at ₹40,000, a proper online shop at ₹50,000 and bespoke software at ₹60,000, while ongoing monthly SEO begins at ₹10,000. Every one of these is a floor, not a ceiling, and the <a href=\"/pricing/\">pricing page</a> lays them side by side.",
         "What you pay depends on scope. A coaching institute with batch registrations and fee payments, or a button unit with a buyer portal, needs more than a mobile shop with one page. If the quote is higher than you expected, we show which items can wait until later.",
       ],
       list: [
         "<strong>Starter site, ₹10,000 onwards:</strong> as many as 100 pages, click-to-WhatsApp, a contact form and your map location.",
-        "<strong>Large SEO site, ₹20,000 onwards:</strong> 700+ pages with structured data, an XML sitemap and Search Console linked.",
+        "<strong>Large SEO site, ₹20,000 onwards:</strong> 299+ pages with structured data, an XML sitemap and Search Console linked.",
         "<strong>WhatsApp automation, ₹40,000 onwards:</strong> instant answers, an enquiry sheet and fee or appointment reminders.",
         "<strong>Online shop, ₹50,000 onwards:</strong> product listings, UPI and card payments, courier charges by pin code, order pings on WhatsApp.",
       ],
@@ -226,7 +226,7 @@ const motihari: CityContent = {
     {
       question: "How much does a website cost in Motihari?",
       answer:
-        "Our entry price is ₹10,000 for a simple static site; bigger SEO builds of 700+ pages begin at ₹20,000. Automation projects begin at ₹40,000, shops at ₹50,000 and bespoke software at ₹60,000. Your own figure depends on how many pages and features you want, and you see it line by line on paper before paying a rupee.",
+        "Our entry price is ₹10,000 for a simple static site; bigger SEO builds of 299+ pages begin at ₹20,000. Automation projects begin at ₹40,000, shops at ₹50,000 and bespoke software at ₹60,000. Your own figure depends on how many pages and features you want, and you see it line by line on paper before paying a rupee.",
     },
     {
       question: "Motihari me website banwane me kitna paisa lagta hai?",

@@ -39,7 +39,7 @@ const dumraon: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first local SEO", "Rice mill and trade tools", "Every account in your name"],
   },
   quickAnswer:
-    "For a Dumraon business, a website with us starts at ₹10,000 and normally goes live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Dumraon office.",
+    "For a Dumraon business, a website with us starts at ₹10,000 and normally goes live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Dumraon office.",
   snapshot: [
     { label: "Location", value: "Nagar parishad town in Buxar district, around 21 km east of Buxar" },
     { label: "History", value: "Founded by Raja Horil Singh and once called Horilnagar; capital of the Dumraon Raj estate" },
@@ -214,7 +214,7 @@ const dumraon: CityContent = {
     {
       question: "What is the website cost in Dumraon?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final amount depends on pages, Hindi content, products and integrations. You get an itemised written quote before anything is billed.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final amount depends on pages, Hindi content, products and integrations. You get an itemised written quote before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Dumraon businesses?",
@@ -224,7 +224,7 @@ const dumraon: CityContent = {
     {
       question: "How long does it take to build a website for a Dumraon shop?",
       answer:
-        "A simple static site is usually live within one to two weeks after we receive your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The fastest projects are those where the owner sends content early.",
+        "A simple static site is usually live within one to two weeks after we receive your photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The fastest projects are those where the owner sends content early.",
     },
     {
       question: "Which is the best website development team in Dumraon?",
@@ -249,7 +249,7 @@ const dumraon: CityContent = {
     {
       question: "Dumraon me website banwane me kitna kharcha aata hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein taiyaar ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Final quote aapke pages aur features ke hisaab se likhit mein milega.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein taiyaar ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Final quote aapke pages aur features ke hisaab se likhit mein milega.",
     },
     {
       question: "You have no office in Dumraon. How is remote work safe?",

@@ -201,7 +201,7 @@ const content: CityContent = {
       id: "cost-software-baghmara",
       heading: "How much do software and websites cost for a Baghmara business?",
       paragraphs: [
-        "For a Baghmara business, websites start at ₹10,000, a 700+ page SEO site at ₹20,000, automation at ₹40,000, Android and iOS apps at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000. These are starting points; the itemised estimate reflects your actual scope.",
+        "For a Baghmara business, websites start at ₹10,000, a 299+ page SEO site at ₹20,000, automation at ₹40,000, Android and iOS apps at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000. These are starting points; the itemised estimate reflects your actual scope.",
         "What moves the price: number of pages or screens, user roles, offline capability, integrations with WhatsApp or accounting data, data migration from old registers, and who writes the content. Because many Baghmara projects are small, we often suggest the phased plan described above so costs are spread across months.",
         "Payment is in INR, split by milestones, and accepted only by UPI through our QR code or direct transfer to our bank account. Each payment follows work you have seen. Hosting setup, deployment and five months of maintenance are included in every project.",
       ],

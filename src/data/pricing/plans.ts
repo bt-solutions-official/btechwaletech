@@ -27,12 +27,12 @@ export const pricingPlans: PricingPlan[] = [
     includes: ["Up to 100 pages", "Responsive design", "Contact form and enquiry setup", "Basic SEO tags and sitemap"],
   },
   {
-    name: "SEO website (700+ pages)",
+    name: "SEO website (299+ pages)",
     timeline: "3 to 5 weeks",
     price: "₹20,000",
-    summary: "A large-scale SEO site of 700+ pages built around search intent, from design through to deployment.",
+    summary: "A large-scale SEO site of 299+ pages built around search intent, from design through to deployment.",
     includes: [
-      "700+ SEO pages",
+      "299+ SEO pages",
       "Keyword and page planning",
       "Schema, sitemap, and internal linking",
       "Design to deployment included",

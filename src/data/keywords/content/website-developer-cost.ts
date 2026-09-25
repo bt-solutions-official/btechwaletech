@@ -48,14 +48,14 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What is the website developer cost in India?",
-    text: `Website developer cost in India depends on page count, features and who writes the content. With BtechWaleTech a static business website of up to 100 pages starts at ${P.site} (${P.siteUsd}), an SEO website with 700+ pages at ${P.seoSite}, and an online store at ${P.shop}. Domain and hosting are paid by you directly to the provider, and maintenance is free for five months.`,
+    text: `Website developer cost in India depends on page count, features and who writes the content. With BtechWaleTech a static business website of up to 100 pages starts at ${P.site} (${P.siteUsd}), an SEO website with 299+ pages at ${P.seoSite}, and an online store at ${P.shop}. Domain and hosting are paid by you directly to the provider, and maintenance is free for five months.`,
     more: `For costs grouped by website type, see <a href='/website-making-cost-in-india/'>website making cost in India</a>; for hourly versus project billing, see <a href='/freelance-web-developer-rates/'>freelance web developer rates</a>.`,
   },
   snapshot: {
     caption: "Website developer cost at a glance",
     rows: [
       { label: "Static site, up to 100 pages", value: `From ${P.site}, 1–2 weeks` },
-      { label: "SEO site, 700+ pages", value: `From ${P.seoSite}, 3–5 weeks` },
+      { label: "SEO site, 299+ pages", value: `From ${P.seoSite}, 3–5 weeks` },
       { label: "Online store", value: `From ${P.shop}, 4–8 weeks` },
       { label: "Web app or portal", value: `From ${P.software}, 6–12 weeks` },
       { label: "Domain, hosting, email", value: "Paid by you to providers, billed yearly or monthly" },
@@ -291,7 +291,7 @@ const content: FreelanceContent = {
       columns: ["Project", "India, from", "Abroad, from", "Build time", "Includes"],
       rows: [
         ["Static website, up to 100 pages", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Responsive pages, forms, basic SEO, sitemap"],
-        ["SEO website, 700+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Page planning, schema, internal linking"],
+        ["SEO website, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Page planning, schema, internal linking"],
         ["Online store", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Catalogue, cart, checkout, order basics"],
         ["Custom web app or portal", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Logins, roles, admin panel, APIs"],
         ["Monthly SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Ongoing", "Technical fixes, content, reporting"],
@@ -367,7 +367,7 @@ const content: FreelanceContent = {
   },
   faqHeading: "Website developer cost: questions people ask",
   faqs: [
-    { question: "How much does a website developer charge in India?", answer: `It depends on page count, features and content work, and quotes across the market vary widely. With BtechWaleTech a static business website of up to 100 pages starts at ${P.site}, an SEO website with 700+ pages at ${P.seoSite} and an online store at ${P.shop}. You receive an itemised estimate before anything is billed.` },
+    { question: "How much does a website developer charge in India?", answer: `It depends on page count, features and content work, and quotes across the market vary widely. With BtechWaleTech a static business website of up to 100 pages starts at ${P.site}, an SEO website with 299+ pages at ${P.seoSite} and an online store at ${P.shop}. You receive an itemised estimate before anything is billed.` },
     { question: "What is included in website developer cost?", answer: "A complete estimate covers planning, design, development, forms and integrations, content handling, SEO setup, launch and a support period. Domain, hosting and email are usually paid directly to providers. Ask for each item as a separate line so you can see what is included, what is optional and what someone else must provide." },
     { question: "Why do website quotes differ so much?", answer: "Different quotes usually assume different scope: more unique layouts, custom features, content writing, integrations or longer support. Experience and overheads also play a part. Put every quote into the same line items, such as pages, features, content, ownership and aftercare, and most of the difference becomes explainable before you compare totals." },
     { question: "What are the yearly costs of a website after it is built?", answer: `After launch you pay domain renewal, hosting and any business email mailboxes to their providers, plus theme or plugin licences if your site uses paid ones. Maintenance is optional; with us it is free for five months after launch and then starts at ${P.care}. Ongoing SEO, if you want it, starts at ${P.seo}.` },

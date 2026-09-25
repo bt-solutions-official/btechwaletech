@@ -34,7 +34,7 @@ const sangli: CityContent = {
     pills: ["Sites from ₹10,000", "Haldi and raisin trade", "Marathi SEO", "Hospital and clinic sites", "You own the code"],
   },
   quickAnswer:
-    "A website for a Sangli or Miraj business starts at ₹10,000 with us and takes one to two weeks. A 700+ page SEO site costs from ₹20,000, a store for raisins or turmeric products from ₹50,000, and automation from ₹40,000. We are three remote engineers, you own the domain and code, and five months of maintenance are free.",
+    "A website for a Sangli or Miraj business starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO site costs from ₹20,000, a store for raisins or turmeric products from ₹50,000, and automation from ₹40,000. We are three remote engineers, you own the domain and code, and five months of maintenance are free.",
   snapshot: [
     { label: "Signature trade", value: "Turmeric, with Sangli one of the country's biggest haldi trading markets and a GI-tagged Sangli turmeric" },
     { label: "Fruit and dry fruit", value: "Grapes and GI-tagged Sangli raisins, with Tasgaon, Miraj, Palus and Kadegaon the main raisin belts" },
@@ -72,12 +72,12 @@ const sangli: CityContent = {
       heading: "What a website costs in Sangli, item by item",
       paragraphs: [
         "In Sangli you can be quoted ₹2,500 by a relative's friend and ₹60,000 by a Pune agency for what sounds like the same website. The cheap version usually means a template shared with dozens of other businesses, hosting in the developer's name and nobody to call later. The expensive one often pays for an office and a sales team rather than for better work.",
-        "Our figures are public and they are starting prices, not teasers. A business website of up to 100 pages is from ₹10,000 and goes live in one to two weeks. A 700+ page site built for search, with a page for each product, treatment, course or service area, starts at ₹20,000 and takes three to five weeks. Online stores with UPI and card payments begin at ₹50,000 and take four to eight weeks. AI and WhatsApp automation starts at ₹40,000, custom software such as a godown ledger or dealer portal at ₹60,000, and ongoing SEO at ₹10,000 a month.",
+        "Our figures are public and they are starting prices, not teasers. A business website of up to 100 pages is from ₹10,000 and goes live in one to two weeks. A 299+ page site built for search, with a page for each product, treatment, course or service area, starts at ₹20,000 and takes three to five weeks. Online stores with UPI and card payments begin at ₹50,000 and take four to eight weeks. AI and WhatsApp automation starts at ₹40,000, custom software such as a godown ledger or dealer portal at ₹60,000, and ongoing SEO at ₹10,000 a month.",
         "What moves the price is scope. Twenty raisin products with good photos cost less to build than two hundred with nothing written. A hospital with twelve departments needs more pages than a single dental clinic. We send an itemised quote in roughly two working days, and you can remove anything you do not need. See the full list on our <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [
         "<strong>Starter site, ₹10,000:</strong> shops, clinics, tutors and small service firms.",
-        "<strong>Search-ready site, ₹20,000:</strong> 700+ pages for traders, hospitals and manufacturers.",
+        "<strong>Search-ready site, ₹20,000:</strong> 299+ pages for traders, hospitals and manufacturers.",
         "<strong>Online store, ₹50,000:</strong> raisins, turmeric, spices and packaged foods with UPI checkout.",
         "<strong>Custom software, ₹60,000:</strong> lot tracking, dealer portals and billing tools.",
       ],
@@ -217,12 +217,12 @@ const sangli: CityContent = {
     {
       question: "How much does a website cost in Sangli?",
       answer:
-        "With us, a basic business website starts at ₹10,000 and a 700+ page SEO website at ₹20,000. An online store starts at ₹50,000, automation at ₹40,000 and custom software at ₹60,000. When comparing local quotes, check who owns the domain and hosting and what support is included after launch.",
+        "With us, a basic business website starts at ₹10,000 and a 299+ page SEO website at ₹20,000. An online store starts at ₹50,000, automation at ₹40,000 and custom software at ₹60,000. When comparing local quotes, check who owns the domain and hosting and what support is included after launch.",
     },
     {
       question: "Sangli madhe website banvun milel ka, ani kharcha kiti?",
       answer:
-        "Ho, milel. Sadhi business website ₹10,000 pasun suru hote ani ek-don athavdyat tayar hote. 700+ pages chi SEO website ₹20,000 pasun aahe, ani bedana kiva haldi vikayla online store ₹50,000 pasun. Kaam suru honyapurvi tumhala saglya goshtincha lekhi quote milel.",
+        "Ho, milel. Sadhi business website ₹10,000 pasun suru hote ani ek-don athavdyat tayar hote. 299+ pages chi SEO website ₹20,000 pasun aahe, ani bedana kiva haldi vikayla online store ₹50,000 pasun. Kaam suru honyapurvi tumhala saglya goshtincha lekhi quote milel.",
     },
     {
       question: "Is your office in Sangli or Miraj?",

@@ -222,7 +222,7 @@ const noorpur: CityContent = {
     {
       question: "What is the website cost in Noorpur?",
       answer:
-        "A static website with us starts at ₹10,000 for up to 100 pages. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. The final amount depends on pages, Hindi or Urdu content, products and integrations, and you get it as an itemised written quote before any billing.",
+        "A static website with us starts at ₹10,000 for up to 100 pages. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. The final amount depends on pages, Hindi or Urdu content, products and integrations, and you get it as an itemised written quote before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Noorpur businesses?",
@@ -232,7 +232,7 @@ const noorpur: CityContent = {
     {
       question: "How long does it take to make a website for a Noorpur shop?",
       answer:
-        "A simple shop or clinic website is usually live within one to two weeks after you send photos and details. A 700+ page SEO site takes about three to five weeks, an online store four to eight, and custom software six to twelve. Delays mostly come from waiting for content, so sending it early is the fastest route.",
+        "A simple shop or clinic website is usually live within one to two weeks after you send photos and details. A 299+ page SEO site takes about three to five weeks, an online store four to eight, and custom software six to twelve. Delays mostly come from waiting for content, so sending it early is the fastest route.",
     },
     {
       question: "Which is the best IT services team in Noorpur for a small business?",
@@ -252,7 +252,7 @@ const noorpur: CityContent = {
     {
       question: "Noorpur me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath ek simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein live ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hai. Pura quote aapke pages aur features ke hisaab se likhit mein milta hai.",
+        "Hamare saath ek simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein live ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hai. Pura quote aapke pages aur features ke hisaab se likhit mein milta hai.",
     },
     {
       question: "You have no office in Noorpur. How does the work happen?",

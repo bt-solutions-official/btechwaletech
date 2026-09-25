@@ -1,0 +1,402 @@
+import { usd } from "@data/countries/international";
+import type { FreelanceContent } from "@data/freelance/types";
+
+const P = {
+  site: usd("Static"), seoSite: usd("SEO website"), shop: usd("Ecommerce"), app: usd("Android"),
+  software: usd("Custom web app"), ai: usd("AI automation"), seo: usd("Monthly SEO"), care: usd("Maintenance"),
+};
+
+const ON_WEB = "https://www.ontario.ca/page/how-make-websites-accessible";
+const ON_REPORT = "https://www.ontario.ca/page/completing-your-accessibility-compliance-report";
+const ON_RULES = "https://www.ontario.ca/page/accessibility-rules-businesses-and-non-profits";
+
+const content: FreelanceContent = {
+  path: "/canada/aoda-compliant-website/",
+  crumb: "AODA compliant website",
+  updated: "2026-09-25",
+  meta: {
+    title: `AODA Compliant Website: WCAG 2.0 AA Builds from ${P.site}`,
+    description: `AODA compliant website builds and fixes for Ontario: WCAG 2.0 AA audits with real screen readers, theme and form remediation, no overlays. From ${P.site}.`,
+    keywords: [
+      "aoda compliant website", "aoda website compliance", "aoda website requirements", "aoda wcag 2.0 aa", "aoda website audit",
+      "is my website aoda compliant", "aoda compliance for small business", "aoda 50 employees website", "aoda website deadline",
+      "aoda accessibility statement", "accessibility overlay aoda", "wcag 2.0 level aa ontario", "aoda compliant wordpress theme",
+      "aoda compliant shopify store", "website accessibility audit ontario", "aoda website remediation", "aoda compliant website cost",
+      "aoda compliant website toronto", "aoda compliant website ottawa", "aoda compliant website mississauga", "aoda compliant website hamilton",
+      "aoda compliant website london ontario", "aoda web developer near me", "accessible website developer ontario", "screen reader testing website",
+      "aoda compliance report 2026",
+    ],
+  },
+  hero: {
+    eyebrow: "Ontario accessibility · WCAG 2.0 AA · audits and rebuilds",
+    h1: "AODA compliant website builds and fixes, tested by hand to WCAG 2.0 AA",
+    lede: `An AODA compliant website, under Ontario's rules, is one whose public pages meet WCAG 2.0 Level AA, apart from two captioning and audio-description criteria. BtechWaleTech is three freelance developers in India who audit Ontario sites with keyboards and real screen readers, then fix the theme, forms, menus and documents in the code itself, without an overlay widget. New accessible business sites start at ${P.site}; audits and remediation are quoted after a look at your pages.`,
+    pills: ["WCAG 2.0 AA target", "Keyboard and screen reader tests", "Fixes in the code, not a widget", "Accessible forms and menus", "PDF and media checks", "Plain-language findings", "Your code and hosting"],
+    origin: "Three freelance developers in India · WhatsApp 7 days a week · calls in Ontario mornings",
+  },
+  facts: [
+    ["Standard in Ontario", "WCAG 2.0 Level AA"],
+    ["Applies to websites of", "Businesses and non-profits with 50+ staff"],
+    ["Testing method", "Automated scan plus manual screen reader passes"],
+    ["Accessible site build from", `${P.site}, 1–2 weeks`],
+    ["Accessible store build from", `${P.shop}, 4–8 weeks`],
+    ["After launch", "5 months of free maintenance"],
+  ],
+  stats: [
+    { value: "3", label: "Freelance developers testing and fixing your pages" },
+    { value: "0", label: "Overlay widgets in our builds" },
+    { value: "2", label: "Working days to an itemised quote" },
+    { value: "5", label: "Months of free maintenance after launch" },
+  ],
+  answer: {
+    heading: "What makes a website AODA compliant?",
+    text: `Under Ontario's AODA rules, businesses and non-profits with 50 or more employees, and designated public sector organizations, must make public websites and web content posted after 1 January 2012 meet WCAG 2.0 Level AA, except live captions and pre-recorded audio descriptions. That means keyboard access, screen-reader support, contrast, labelled forms and captions. We build compliant sites from ${P.site}.`,
+    more: `If your site also serves Quebec, pair this with <a href='/canada/bill-96-website-compliance/'>Bill 96 website requirements</a>. For a site redesign that includes accessibility, see <a href='/canada/website-redesign-services/'>website redesign services in Canada</a>.`,
+  },
+  snapshot: {
+    caption: "An AODA compliant website project at a glance",
+    rows: [
+      { label: "Target", value: "WCAG 2.0 Level AA on public pages" },
+      { label: "Who must", value: "50+ employee businesses and non-profits, public sector" },
+      { label: "Audit", value: "Automated tools plus keyboard and screen reader passes" },
+      { label: "Fixes", value: "Theme code, components, forms, media and documents" },
+      { label: "Deliverable", value: "Issue log with WCAG criterion, page and fix status" },
+      { label: "Overlays", value: "Not used; problems fixed at source" },
+      { label: "Price", value: `New sites from ${P.site}; audits quoted per site` },
+    ],
+  },
+  services: {
+    eyebrow: "Accessibility work for Ontario sites",
+    heading: "What an AODA compliant website project can include",
+    note: "Some clients need a fresh accessible build; most need an audit and a list of fixes on the site they already have.",
+    cards: [
+      { name: "Accessibility audit against WCAG 2.0 AA", note: "Automated scans to catch the obvious, then manual keyboard, zoom and screen reader testing on your key templates and journeys. You get an issue log mapped to WCAG success criteria.", size: "lg" },
+      { name: "Remediation in your theme and code", note: "We fix the failures where they live: heading order, landmarks, focus styles, menu and modal behaviour, contrast and missing labels. No overlay script.", href: "/canada/website-redesign-services/", size: "lg" },
+      { name: "Accessible new build", note: `A site designed and coded to WCAG 2.0 AA from the first component, from ${P.site}.`, href: "/services/web-development/", size: "md" },
+      { name: "Accessible forms and checkout", note: `Labelled fields, clear error messages, focus management and keyboard-friendly checkout steps. Stores from ${P.shop}.`, href: "/canada/ecommerce-website-development/", size: "md" },
+      { name: "WordPress theme remediation", note: "Fixing or replacing themes and page-builder blocks that output inaccessible markup.", href: "/canada/wordpress-website-design/", size: "md" },
+      { name: "PDF and document triage", note: "An inventory of downloadable files with a plan: convert to HTML, fix and tag, or archive.", size: "sm" },
+      { name: "Bilingual accessibility", note: "Correct language tags on English and French pages so screen readers pronounce each language properly.", href: "/canada/bilingual-website-development/", size: "sm" },
+      { name: "Ongoing accessibility checks", note: `Monthly checks on new pages and content, from ${P.care} after five free months.`, href: "/canada/website-maintenance-services/", size: "sm" },
+    ],
+  },
+  comparison: {
+    heading: "Overlay widget, automated scan or a real audit and fix?",
+    note: "Three things sold as accessibility. Only one changes the code people actually use.",
+    columns: ["What happens", "Overlay widget", "Automated scan only", "Manual audit and code fixes"],
+    rows: [
+      ["What it touches", "A script layered over your page", "A report, no changes", "Your theme, components and content"],
+      ["Keyboard traps and menus", "Rarely fixed", "Often not detected", "Found by hand and fixed in code"],
+      ["Screen reader experience", "Can add conflicts", "Partly checked", "Tested with NVDA, VoiceOver and TalkBack"],
+      ["Form errors and labels", "Guessed at runtime", "Missing labels flagged", "Labels, errors and focus fixed"],
+      ["PDFs and documents", "Not covered", "Not covered", "Inventoried and triaged"],
+      ["Evidence for your records", "Vendor statement", "A score", "Issue log mapped to WCAG criteria"],
+      ["Cost pattern", "Ongoing subscription", "Low, but finds only part", "Audit and fix quote, then light upkeep"],
+      ["Result for disabled users", "Uncertain", "Unchanged until someone fixes it", "Pages that work with their tools"],
+    ],
+    fine: "Automated tools are useful and we use them, but they catch only a portion of WCAG issues; judging whether alt text, headings and focus order make sense still needs a person.",
+  },
+  pricing: {
+    heading: "What an AODA compliant website costs",
+    note: `New accessible sites start from the plan prices below, quoted in USD: a business site up to 100 pages from ${P.site}, a large content site from ${P.seoSite}, a store from ${P.shop}. For existing sites, the audit and remediation quote depends on how many unique templates you have, how the theme is built, the number of forms and interactive widgets, and how many PDFs and videos need attention. A site built on a clean theme may need a week of fixes; one built on a heavy page builder may be cheaper to rebuild. Every quote is itemised and starts only after your written approval.`,
+  },
+  guideLabel: "AODA website guide",
+  guide: [
+    {
+      id: "what-aoda-requires",
+      heading: "What does an AODA compliant website need to meet?",
+      paragraphs: [
+        `An AODA compliant website meets WCAG 2.0 Level AA on its public pages and web content, with two exceptions: success criterion 1.2.4 on live captions and 1.2.5 on pre-recorded audio descriptions. That is Ontario's stated rule on its page about <a href='${ON_WEB}' rel='noopener'>how to make websites accessible</a>.`,
+        `The Accessibility for Ontarians with Disabilities Act was passed in 2005, and the website rules sit in its information and communications standard, one of five standards alongside customer service, transportation, employment and design of public spaces. The website rule covers public sites and web content posted after 1 January 2012, and the compliance deadline for covered organizations was 1 January 2021.`,
+        `WCAG 2.0 itself was published by the W3C on 11 December 2008 and is organised around four principles, often shortened to POUR: content must be perceivable, operable and understandable, and its code must be interpreted reliably by browsers and assistive technology. Level AA means meeting all Level A and Level AA success criteria. In daily terms that covers text alternatives for images, captions for pre-recorded video, logical headings, enough colour contrast, everything usable by keyboard, visible focus, no content that flashes dangerously, consistent navigation, labelled forms with clear errors, and code that assistive technology can interpret.`,
+      ],
+    },
+    {
+      id: "who-must-comply",
+      heading: "Who needs an AODA compliant website: does the 50-employee rule apply to me?",
+      paragraphs: [
+        `If you are a business or non-profit with 50 or more employees in Ontario, or a designated public sector organization, your public website must meet the standard. Smaller organizations have other AODA duties but no website rule on Ontario's summary of obligations.`,
+        `Ontario's page on <a href='${ON_RULES}' rel='noopener'>accessibility rules for businesses and non-profits</a> splits obligations by size. With 1 to 19 employees, you must offer accessible ways for the public to give feedback. With 20 to 49, you also file an accessibility compliance report. With 50 or more, you document accessibility policies and tell the public they exist, create a multi-year accessibility plan and post it on your website, and make all public websites accessible.`,
+        `Small organizations often choose an AODA compliant website anyway. Accessible sites work better for older customers and anyone on a phone in bright sunlight, they are easier for search engines to parse, and a business that grows past 50 staff will not have to rebuild. Designing accessibly from the start costs far less than retrofitting.`,
+      ],
+      list: [
+        "1–19 employees: accessible feedback methods; website rule not listed",
+        "20–49 employees: compliance report every three years",
+        "50+ employees: documented policies, multi-year plan posted online, accessible public websites",
+        "Designated public sector: accessible websites and more frequent reporting",
+      ],
+    },
+    {
+      id: "intranet-and-scope",
+      heading: "Which pages and content does AODA website compliance cover?",
+      paragraphs: [
+        `It covers your public website and web content posted after 1 January 2012; internal intranets and extranets are not required to meet WCAG under Ontario's guidance, except for the Government of Ontario and the Legislative Assembly.`,
+        `“Web content” is broader than pages. It includes the documents you post, the videos you embed, the online forms, booking tools and stores your customers use. Ontario notes that the organization controlling the website, directly or by contract, is responsible, so a third-party booking widget embedded on your site is part of what your visitors experience.`,
+        `During scoping we list everything public: page templates, forms, embedded tools, videos and downloadable files. Older content from before 2012 may fall outside the rule, but if it is still visited and still important, we usually recommend fixing it too, because the people using it do not know when it was posted. Your legal adviser can confirm the edges for your organization.`,
+      ],
+    },
+    {
+      id: "audit-method",
+      heading: "How is an AODA website audit done?",
+      paragraphs: [
+        `A proper audit combines automated scanning with manual testing by a person using a keyboard and screen readers. Automated tools find missing alt attributes, low contrast and empty links quickly; they cannot tell whether the alt text makes sense or whether a menu is usable.`,
+        `We start by choosing a representative sample: every unique template (home, service, product, article, contact, checkout), every form, and the journeys that matter most, such as booking an appointment or placing an order. On each we run automated checks with tools such as axe and WAVE, then test by hand: tab through the page to check focus order and visibility, operate menus, tabs and modals with the keyboard, zoom to 200 per cent, turn off CSS, and listen with NVDA on Windows, VoiceOver on Mac and iPhone and TalkBack on Android.`,
+        `Each issue goes into a log with the page, the WCAG 2.0 success criterion it fails, what a user experiences, a severity rating and the recommended fix. Because most issues come from shared templates and components, fixing one component often clears dozens of pages. The log becomes your evidence that the work was done and your to-do list for keeping the site compliant.`,
+      ],
+      subs: [
+        { heading: "What we test by hand", text: "Keyboard order and traps, visible focus, skip links, menu and modal behaviour, form labels and error announcements, heading outline, link purpose, reflow when zoomed, captions and transcripts, and reading order in screen readers." },
+        { heading: "What we do not do", text: "We are developers, not a certification body. We do not issue certificates or legal opinions; we give you an honest log of what we tested, what failed and what we fixed." },
+      ],
+    },
+    {
+      id: "common-failures",
+      heading: "Common reasons a website is not AODA compliant",
+      paragraphs: [
+        `Most Ontario sites that are not yet an AODA compliant website fail on the same handful of issues: poor contrast, images without useful alt text, forms without labels, menus and pop-ups that trap keyboard users, missing focus outlines and videos without captions. Almost all of them live in the theme or page builder, not in the words.`,
+        `Contrast problems come from brand colours used for text: light grey on white, white on pale blue buttons. Heading problems come from choosing heading tags for their size rather than their meaning. Keyboard problems come from custom dropdowns, sliders and modals built with generic elements that do not respond to Tab, Enter and Escape. Form problems come from placeholder text used instead of labels and error messages shown only in red. Media problems come from embedded videos uploaded without captions.`,
+        `Page builders deserve a special mention. Many generate deeply nested markup, duplicate headings and interactive widgets that screen readers struggle with, and fixing them page by page is slow. For sites built that way, a rebuild on a lean theme is often the cheaper route to an AODA compliant website, and we will price both options so you can choose.`,
+      ],
+    },
+    {
+      id: "overlays",
+      heading: "Do accessibility overlay widgets make a website AODA compliant?",
+      paragraphs: [
+        `We do not rely on them, and we do not recommend them as a route to compliance. An overlay adds a script and a toolbar on top of your page; the underlying code, which assistive technology reads, stays the same.`,
+        `Screen reader users already have their own tools configured the way they need. A toolbar offering bigger text or contrast modes duplicates browser features, and automatic fixes applied by script can guess wrong: auto-generated alt text that describes a photo inaccurately, headings reassigned incorrectly, or controls relabelled in confusing ways. Overlays also cannot fix PDFs, third-party embeds or complex forms, and they add another subscription and another script to load.`,
+        `The honest route to an AODA compliant website is to change the code: correct HTML elements, proper labels, working focus management and captions. It is more work upfront and less work later, because accessible components stay accessible as you add pages. If you already pay for an overlay, we can audit the site with it switched off, since that is how many assistive technology users experience it, and plan the real fixes.`,
+      ],
+    },
+    {
+      id: "remediation",
+      heading: "How we fix an existing site to become AODA compliant",
+      paragraphs: [
+        `To turn an existing site into an AODA compliant website, we fix issues in order of impact: shared components first, because one fix repairs every page using them, then templates, then individual content. Each fix is checked against the original issue before it is marked done.`,
+        `Typical component work includes rebuilding the main navigation so it opens and closes by keyboard and announces its state, adding a skip link, restoring visible focus styles, making modals trap focus correctly and return it on close, converting fake buttons to real buttons, and fixing carousels so they can be paused. Template work includes a single H1 per page, a logical heading outline, landmarks for header, navigation, main and footer, and correct language attributes. Content work includes alt text, link wording, table headers and captions.`,
+        `We work in your code repository or theme through access you grant, on a staging copy first. You review changes on staging, then we deploy. Our <a href='/canada/website-redesign-services/'>redesign service</a> is the better fit when the fix list is longer than the site is worth keeping.`,
+      ],
+    },
+    {
+      id: "forms",
+      heading: "Making forms, booking tools and checkout accessible",
+      paragraphs: [
+        `Forms are where inaccessible sites lose customers and where an AODA compliant website most often falls short, so we test every one end to end with a keyboard and a screen reader. Every field needs a visible label tied to it in code, errors must be announced and explained in text, and focus should move to the first error.`,
+        `Common fixes: replacing placeholder-only fields with real labels; grouping radio buttons with a legend; marking required fields in text, not only with an asterisk or colour; describing formatting rules (such as postal code format) before the user types; announcing errors with an alert region; keeping entered data after an error; and making sure a CAPTCHA has an accessible alternative.`,
+        `Third-party tools are harder. Booking widgets, payment pages and chat tools come from vendors, and some are not accessible. We test them, document the problems, and suggest alternatives or configuration changes; where a vendor tool cannot be fixed, you have the evidence to take to the vendor. For stores, our <a href='/canada/ecommerce-website-development/'>ecommerce development page</a> covers checkout builds that we control end to end.`,
+      ],
+    },
+    {
+      id: "documents-media",
+      heading: "PDFs, videos and documents on an AODA compliant website",
+      paragraphs: [
+        `On an AODA compliant website, documents and media count as web content, so PDFs need tags and reading order, and pre-recorded videos need captions. Live captions and audio descriptions for pre-recorded video are the two AA criteria Ontario excludes.`,
+        `Many organisations have hundreds of PDFs, and fixing all of them is rarely the best use of budget. We inventory them and sort each into one of three buckets: convert to an HTML page (best for forms, policies and anything people read often), fix and tag the PDF (for documents that must stay as files), or archive and remove from public pages (for outdated material, with an offer to provide an accessible version on request).`,
+        `For video, we check that captions exist, are accurate rather than raw auto-captions, and that the player itself can be operated by keyboard. Transcripts are a useful addition for podcasts and longer videos. Images of text, such as scanned menus or posters, need real text alternatives or an HTML version.`,
+      ],
+    },
+    {
+      id: "design-and-build",
+      heading: "Building a new AODA compliant website from scratch",
+      paragraphs: [
+        `Building accessibly from the first design is the cheapest way to an AODA compliant website: colours are checked for contrast before approval, components are built with the right HTML elements, and testing happens as each template is coded rather than at the end.`,
+        `We start with a small design system: text and background colour pairs that pass contrast, focus styles that are clearly visible, button and link styles that are distinguishable without colour alone, and type sizes that reflow when zoomed. Components such as navigation, accordions, tabs and modals follow established accessible patterns. Every template is keyboard and screen-reader tested before content goes in.`,
+        `Content editors get guidance too: how to write alt text, how to use headings, how to name links. Accessibility erodes when new content goes in without that care, so the handover includes a short written guide and a recorded screen-share session. New accessible sites start at ${P.site} for up to 100 pages; larger sites and stores are priced on the table above.`,
+      ],
+    },
+    {
+      id: "wcag-versions",
+      heading: "WCAG 2.0, 2.1 or 2.2: which should an AODA compliant website target?",
+      paragraphs: [
+        `Ontario's rule names WCAG 2.0 Level AA, so that is the compliance target. Building to WCAG 2.1 or 2.2 AA is a sensible extra, and the W3C states that content conforming to WCAG 2.2 also conforms to 2.1 and 2.0.`,
+        `WCAG 2.1 was published in June 2018 and WCAG 2.2 in October 2023. The later versions add criteria that matter especially on phones and for people with low vision or cognitive disabilities, such as content that reflows without horizontal scrolling, larger target sizes, and focus that is not hidden by sticky headers.`,
+        `Our default is to build new sites so that they meet the newer criteria where it costs little, and to report audits against WCAG 2.0 AA as the Ontario baseline, noting any 2.1 or 2.2 issues separately. That way you know what the regulation asks for and what would make the site better, and can budget for each.`,
+      ],
+    },
+    {
+      id: "compliance-report",
+      heading: "AODA compliance reports and the December 2026 deadline",
+      paragraphs: [
+        `Ontario businesses and non-profits with 20 or more employees must file an accessibility compliance report every three years, and Ontario lists the next deadline for them as 31 December 2026. Reports are filed through the Accessibility Compliance Reporting Portal.`,
+        `The report covers your organisation's AODA obligations broadly, not only the website, and Ontario's <a href='${ON_REPORT}' rel='noopener'>compliance reporting page</a> warns that not completing it can lead to enforcement measures including financial penalties. Filing is your organisation's task; we do not file on your behalf.`,
+        `Where we help is in making the website part of the report something you can answer with confidence. Our audit log shows which pages and templates were tested, against which criteria, what failed and what was fixed, with dates. If the report deadline is close, tell us in the first message and we will scope the audit to your highest-traffic templates and journeys first.`,
+      ],
+    },
+    {
+      id: "seo-benefits",
+      heading: "Does an AODA compliant website rank better?",
+      paragraphs: [
+        `Accessibility is not a direct ranking promise, but many accessibility fixes overlap with good SEO: clear headings, descriptive link text, alt text, fast lean pages and proper HTML all help search engines and AI assistants understand your content.`,
+        `The overlap is practical. A logical heading outline gives Google a clear structure. Captions and transcripts turn video into indexable text. Descriptive link text helps both screen reader users and crawlers understand where links go. Lean themes that pass accessibility tests also tend to load faster, which helps Core Web Vitals. None of it guarantees rankings, and nobody can honestly guarantee them, but you are not trading search visibility for accessibility.`,
+        `If you want search work alongside accessibility, our <a href='/canada/technical-seo-services/'>technical SEO service for Canadian sites</a> starts at ${P.seo} a month, and we coordinate so changes for one do not undo the other.`,
+      ],
+    },
+    {
+      id: "checklist",
+      heading: "AODA compliant website checklist you can run in 20 minutes",
+      paragraphs: [
+        `This quick check will not replace an audit, but it shows whether your site has obvious problems. Use your homepage, one inner page and your main form.`,
+      ],
+      list: [
+        "Unplug the mouse and press Tab: can you reach and see every link, button and field?",
+        "Open the menu and any pop-up with the keyboard; can you close it with Escape?",
+        "Zoom the browser to 200 per cent: does text reflow without cutting off?",
+        "Check light grey or coloured text against its background with a contrast checker",
+        "Submit your form with errors: are they explained in words, not only colour?",
+        "Turn on VoiceOver or NVDA: do images and buttons announce something meaningful?",
+        "Play a video: are there accurate captions?",
+        "Open a PDF: can you select text, and does it have headings?",
+        "If you have 50+ employees, is your multi-year accessibility plan posted on the site?",
+      ],
+      after: [
+        `If more than two of these fail, a full audit is worth it. Send us your site address and we will quote one within about two working days.`,
+      ],
+    },
+    {
+      id: "working-from-ontario",
+      heading: "Working with a team in India on AODA website compliance",
+      paragraphs: [
+        `For AODA compliant website projects, our evenings in India overlap Ontario mornings, so calls happen early in your day and work continues while you sleep. Findings and fixes are shared on a staging site and a shared issue log you can open any time.`,
+        `The first two weeks usually look like this. Days one and two: a video call to agree scope, then access to your site and a list of templates and journeys to test. Within about two working days you get an itemised quote. Once approved, days three to eight are the audit; you receive the issue log and a short summary call. Remediation starts straight after, on staging, with progress updates on WhatsApp or email.`,
+        `You keep ownership of the domain, hosting, code and accounts, and you can remove our access at any time. We invoice from India in USD, payable in USD or CAD by Wise, wire or PayPal; tax treatment is for your accountant. We do not visit offices or run in-person user testing sessions. If you need testing with disabled participants, we can work alongside a local testing partner you choose. Our page on <a href='/offshore-web-development-team/'>working with an offshore web team</a> explains the model in more depth.`,
+      ],
+    },
+    {
+      id: "worked-example",
+      heading: "Example: a Hamilton home-care provider fixing its site",
+      paragraphs: [
+        `This is a hypothetical scenario to illustrate the process. Say a Hamilton home-care provider with 80 staff has a WordPress site on a page-builder theme, a job application form, a service enquiry form and 60 PDFs, and needs confidence in its website before filing its compliance report.`,
+        `The audit would cover 8 templates, both forms and the PDF inventory. Likely findings: a mega-menu that cannot be closed by keyboard, low-contrast grey body text, form fields labelled only with placeholders, a slider that auto-plays with no pause button, headings used for styling, and untagged PDFs. The issue log maps each to its WCAG criterion.`,
+        `Remediation would rebuild the menu and slider components, adjust the colour palette with the provider's approval, relabel both forms with proper error handling, fix the heading outline in the templates, and split the PDFs: care policies converted to HTML pages, forms rebuilt online, old newsletters archived. After retesting, the provider has a site that works with screen readers and keyboards, an issue log with dates and a short editing guide for staff. Its multi-year accessibility plan is posted on a new accessibility page.`,
+      ],
+    },
+  ],
+  tables: [
+    {
+      id: "obligations-table",
+      eyebrow: "Obligations by size",
+      heading: "AODA duties by organisation size in Ontario",
+      note: `Summarised from Ontario's page on <a href='${ON_RULES}' rel='noopener'>rules for businesses and non-profits</a>. Confirm your obligations with your own adviser.`,
+      columns: ["Employees", "Public website rule", "Compliance report", "Policies and plan"],
+      rows: [
+        ["1–19", "Not listed", "Not required", "Accessible feedback methods; documenting policies recommended"],
+        ["20–49", "Not listed", "Every three years; next by 31 December 2026", "Accessible feedback; documenting policies recommended"],
+        ["50+", "Public websites must meet WCAG 2.0 AA", "Every three years; next by 31 December 2026", "Documented policies and a multi-year plan posted online"],
+        ["Designated public sector", "Must meet WCAG 2.0 AA", "Every two years", "Policies and plans required"],
+      ],
+      hideSm: [3],
+    },
+    {
+      id: "failures-table",
+      eyebrow: "Fixes",
+      heading: "Frequent WCAG 2.0 AA failures and how we fix them",
+      note: "Criteria numbers are from WCAG 2.0. The fixes are applied in your theme or components so they carry to every page.",
+      columns: ["Problem users hit", "WCAG 2.0 criterion", "Typical cause", "Our fix"],
+      rows: [
+        ["Text hard to read", "1.4.3 Contrast (Minimum)", "Light brand colours for text", "Adjusted palette approved by you"],
+        ["Image meaning lost", "1.1.1 Non-text Content", "Empty or file-name alt text", "Meaningful alt text; decorative images marked"],
+        ["Cannot use menu by keyboard", "2.1.1 Keyboard", "Hover-only dropdowns", "Keyboard-operable menu with states announced"],
+        ["Lost on the page", "2.4.7 Focus Visible", "Focus outline removed in CSS", "Clear focus styles on every control"],
+        ["Form fields unexplained", "3.3.2 Labels or Instructions", "Placeholder instead of label", "Visible labels tied to inputs"],
+        ["Errors not understood", "3.3.1 Error Identification", "Red border only", "Errors in text, announced and linked to fields"],
+        ["Video without text", "1.2.2 Captions (Prerecorded)", "Uploads without captions", "Accurate captions added or requested"],
+        ["Structure unclear", "1.3.1 Info and Relationships", "Headings chosen for size", "Logical heading outline and landmarks"],
+      ],
+      hideSm: [2],
+    },
+    {
+      id: "scope-cost-table",
+      eyebrow: "Starting prices",
+      heading: "AODA compliant website work by scope",
+      note: "Starting prices in USD. Audits and remediation of existing sites are quoted after we review your templates.",
+      columns: ["Scope", "When it fits", "Starting price", "Typical time"],
+      rows: [
+        ["New accessible business site", "Up to 100 pages, built to WCAG 2.0 AA", `From ${P.site}`, "1–2 weeks"],
+        ["New accessible content site", "299+ pages", `From ${P.seoSite}`, "3–5 weeks"],
+        ["Accessible online store", "Product, cart and checkout tested", `From ${P.shop}`, "4–8 weeks"],
+        ["Accessible portal or web app", "Logins, dashboards, forms", `From ${P.software}`, "6–12 weeks"],
+        ["Audit and remediation of existing site", "Clean theme, fixable components", "Quoted per site", "1–4 weeks"],
+        ["Ongoing accessibility checks", "New pages and content each month", `From ${P.care}`, "After 5 free months"],
+      ],
+    },
+  ],
+  areas: {
+    eyebrow: "Across Ontario",
+    heading: "Ontario organisations that need AODA compliant websites",
+    note: "We work remotely for clients anywhere in the province. These are the places we hear from most about accessibility.",
+    cards: [
+      { name: "Toronto", note: "Head offices, retailers, clinics and non-profits with 50+ staff whose public sites, stores and careers pages must meet WCAG 2.0 AA." },
+      { name: "Ottawa", note: "Organisations working with public sector clients, who often expect accessible and bilingual websites from their suppliers and partners." },
+      { name: "Mississauga", note: "Corporate offices, logistics and manufacturing firms with large workforces, where careers portals and supplier forms need accessible fields." },
+      { name: "Brampton", note: "Growing service businesses and distributors passing the 50-employee mark, needing an accessible site before the next compliance report." },
+      { name: "Hamilton", note: "Healthcare, home-care, education and community organisations whose users include older adults and people using assistive technology daily." },
+      { name: "London", note: "Insurance, education and health services with large document libraries that need PDF triage alongside page fixes." },
+      { name: "Markham", note: "Technology companies with product dashboards and customer portals that need keyboard and screen reader support in the app, not just the marketing site." },
+      { name: "Vaughan", note: "Construction, manufacturing and retail firms with product catalogues and quote forms that need accessible filters and labels." },
+      { name: "Kitchener-Waterloo", note: "Software and education organisations wanting to build accessibility into design systems so every new page ships compliant." },
+      { name: "Windsor", note: "Manufacturers and service firms with cross-border customers, updating older sites built on page builders that struggle with keyboard use." },
+      { name: "Oshawa and Durham Region", note: "Healthcare, education and municipal suppliers needing accessible sites to match the expectations of the organisations they serve." },
+      { name: "Kingston", note: "Universities, hospitals and tourism businesses where visitors rely on accessible booking, event and information pages." },
+      { name: "Barrie", note: "Regional retailers and service firms with online booking that must be usable by keyboard and screen reader." },
+      { name: "Sudbury", note: "Mining services, health and education organisations with bilingual audiences, needing correct language tags and accessible forms in both languages." },
+      { name: "Thunder Bay", note: "Health, education and community services across Northwestern Ontario serving users who rely on online information and forms over long distances." },
+    ],
+  },
+  process: {
+    heading: "From first call to an accessible site",
+    steps: [
+      ["Scope call", "A video call in your morning to agree which templates, forms, journeys and documents are in scope, and whether we audit, fix, rebuild or all three."],
+      ["Quote in two days", "An itemised USD quote marked as a starting point, with the sample of pages to test listed. Nothing is billed before your written approval."],
+      ["Audit", "Automated scans, then manual keyboard, zoom and screen reader testing. Every issue logged against its WCAG 2.0 criterion with severity and fix."],
+      ["Fix on staging", "Components first, then templates and content. You review each batch on staging before it goes live on your site."],
+      ["Retest", "Each fixed issue is retested with the same method that found it, and the log is updated with dates so you have a record."],
+      ["Handover", "An editing guide for staff, a recorded screen-share session and a list of what to check when new content or tools are added."],
+    ],
+  },
+  faqHeading: "AODA compliant website: frequent questions",
+  faqs: [
+    { question: "What is an AODA compliant website?", answer: "It is a website whose public pages and web content meet WCAG 2.0 Level AA, the standard Ontario sets under the Accessibility for Ontarians with Disabilities Act, with two exceptions: live captions and audio descriptions for pre-recorded video. In practice that means keyboard access, screen reader support, enough contrast, labelled forms and captioned video." },
+    { question: "Does my business need an AODA compliant website?", answer: "Ontario's rules require it for businesses and non-profits with 50 or more employees and for designated public sector organizations. Smaller organisations have other AODA duties, such as accessible feedback methods, but the website rule is not listed for them. Many choose accessibility anyway because it helps customers and avoids a rebuild later." },
+    { question: "What WCAG level does AODA require?", answer: "WCAG 2.0 Level AA, excluding success criteria 1.2.4 (live captions) and 1.2.5 (pre-recorded audio descriptions). Building to WCAG 2.1 or 2.2 AA is a sensible extra, and the W3C says content conforming to WCAG 2.2 also conforms to 2.1 and 2.0." },
+    { question: "What was the AODA website deadline?", answer: "Ontario lists 1 January 2021 as the compliance deadline for covered organisations, applying to public websites and web content posted after 1 January 2012. If your organisation has 50 or more employees and your site has not been audited since, it is worth checking now, especially before the next compliance report." },
+    { question: "How much does it cost to make a website AODA compliant?", answer: `A new accessible business site with us starts at ${P.site}, a store at ${P.shop}, quoted in USD. Fixing an existing site is quoted after we review it, because the cost depends on the theme, number of unique templates, forms and documents. Sites on heavy page builders are sometimes cheaper to rebuild than to fix.` },
+    { question: "How long does an AODA website audit take?", answer: "For a typical business site, testing a representative sample of templates and journeys takes about a week after scope is agreed. Larger sites with many templates, stores or portals take longer. Remediation follows, usually one to four weeks depending on how many shared components need rebuilding." },
+    { question: "Are accessibility overlays enough for AODA compliance?", answer: "We do not recommend relying on them. An overlay adds a script on top of your page but does not change the code assistive technology reads. It cannot fix PDFs, third-party embeds or complex forms, and automatic guesses can make things worse. Fixing the HTML, labels and focus behaviour is the dependable route." },
+    { question: "Can automated tools tell me if my website is AODA compliant?", answer: "Only partly. Tools such as axe, WAVE and Lighthouse quickly find missing alt attributes, low contrast and empty links, and we use them. They cannot judge whether alt text is meaningful, whether focus order is logical or whether a menu works with a screen reader. That needs manual testing by a person." },
+    { question: "Which screen readers do you test with?", answer: "We test with NVDA on Windows, VoiceOver on Mac and iPhone, and TalkBack on Android, alongside keyboard-only use and browser zoom. That covers the main combinations people use on desktop and mobile. If your users rely on other assistive technology, tell us during scoping and we will plan around it." },
+    { question: "Do PDFs have to be accessible under AODA?", answer: "Documents you post are web content, so yes, plan for it. We inventory your PDFs and sort them: convert frequently used ones to HTML pages, fix and tag those that must stay as files, and archive outdated ones while offering accessible versions on request. This is usually cheaper than fixing every file." },
+    { question: "Do I need an accessibility statement on my website?", answer: "Organisations with 50 or more employees must document accessibility policies, tell the public they are available and post a multi-year accessibility plan on their website, according to Ontario. A clear accessibility page that links those, explains how to request accessible formats and gives contact details is good practice for any size." },
+    { question: "What is the AODA compliance report and when is it due?", answer: "Businesses and non-profits with 20 or more employees file an accessibility compliance report every three years through Ontario's online portal; Ontario lists the next deadline as 31 December 2026. It covers your AODA duties broadly. Filing is your task; our audit log helps you answer the website questions accurately." },
+    { question: "What are the penalties for not being AODA compliant?", answer: "Ontario's compliance reporting page says organisations that do not complete their report could face enforcement measures, which can include financial penalties. For specific penalty amounts and how they apply to your organisation, ask your legal adviser. We focus on making the website itself work." },
+    { question: "Can you make a WordPress site AODA compliant?", answer: "Usually, yes. We fix accessible markup in the theme or a child theme, repair menus, forms and focus styles, and check plugins. Page-builder themes are the hardest because of the markup they generate; for those we price both a fix and a rebuild on a lean theme so you can compare." },
+    { question: "Can a Shopify store be AODA compliant?", answer: `Yes, with care. The theme, product filters, cart drawer and apps all need testing, and apps are often the weak spot. We fix theme code, replace or configure inaccessible apps and test checkout by keyboard and screen reader. Accessible store builds start at ${P.shop}.` },
+    { question: "Does AODA apply to my intranet?", answer: "Ontario's guidance says internal intranets and extranets do not have to meet WCAG 2.0 A or AA, except for the Government of Ontario and the Legislative Assembly. Accessible internal tools still help your staff, especially under the employment standard, so we build new internal tools accessibly by default." },
+    { question: "Does an accessible website help SEO?", answer: "Many fixes overlap: clear headings, descriptive links, alt text, captions and lean HTML help search engines and AI assistants understand your pages. It is not a ranking guarantee, and nobody can promise rankings, but accessibility work does not cost you search visibility and often helps page speed." },
+    { question: "Can you certify that my website is AODA compliant?", answer: "No. There is no certificate we can issue, and we are developers, not lawyers or a certification body. We give you an issue log showing what was tested, against which WCAG 2.0 criteria, what failed and what was fixed, with dates. Your legal adviser can use it when reviewing your obligations." },
+    { question: "Why hire a team in India for AODA website work?", answer: "Accessibility testing and code fixes can be done remotely with the same tools and screen readers, our starting prices are lower than typical local rates, and our evenings overlap Ontario mornings. You keep ownership of all code and accounts. If you want in-person testing with disabled users, pair us with a local testing partner." },
+    { question: "How do I keep my website AODA compliant after launch?", answer: `Train editors and check new content. Our handover includes a short guide on alt text, headings and links, plus a recorded session. After five free months of maintenance, care from ${P.care} can include monthly checks on new pages and any new plugins or tools.` },
+    { question: "Should a bilingual Ontario website be tested in both languages?", answer: "Yes. Each language version needs the correct lang attribute so screen readers pronounce it properly, and French labels and error messages need the same checks as English ones. We test both, and our bilingual development page covers the rest of the English and French setup." },
+  ],
+  related: {
+    heading: "Related pages for Canadian organisations",
+    links: [
+      { name: "Bill 96 website requirements", href: "/canada/bill-96-website-compliance/" },
+      { name: "Bilingual English–French website development", href: "/canada/bilingual-website-development/" },
+      { name: "How much a website costs in Canada", href: "/canada/website-design-cost/" },
+      { name: "Web developer for Toronto businesses", href: "/canada/web-developer-for-toronto-businesses/" },
+      { name: "Website redesign services in Canada", href: "/canada/website-redesign-services/" },
+      { name: "WordPress website design in Canada", href: "/canada/wordpress-website-design/" },
+      { name: "Website maintenance services in Canada", href: "/canada/website-maintenance-services/" },
+      { name: "Nonprofit website design in Canada", href: "/canada/nonprofit-website-design/" },
+      { name: "Physiotherapy clinic website design", href: "/canada/physiotherapy-clinic-website-design/" },
+      { name: "Technical SEO services in Canada", href: "/canada/technical-seo-services/" },
+      { name: "Web services for Canada", href: "/canada/" },
+      { name: "Offshore web development team", href: "/offshore-web-development-team/" },
+      { name: "Contact the team", href: "/contact/" },
+    ],
+  },
+  cta: {
+    heading: "Find out where your site stands",
+    note: "Send your site address and your approximate staff count in Ontario. You will get a scope and an itemised USD quote for an audit, fixes or a rebuild in about two working days, and nothing is billed until you approve it.",
+  },
+};
+
+export default content;

@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "@layouts/BaseLayout.astro";
+import { countryPageLinks } from "@data/keywords/page-links";
 import { createPageSeo } from "@lib/seo/seo-config";
 import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
 import { breadcrumbListSchema, faqSchema } from "@lib/schema/schema";
@@ -20,7 +21,7 @@ const faqs = [
   },
   {
     question: "What does a website cost for a business in the Netherlands?",
-    answer: `Our starting prices for Dutch clients are in US dollars: a static website of up to 100 pages from ${usd("Static")}, a 700+ page SEO website from ${usd("SEO website")}, AI automation from ${usd("AI automation")}, a webshop from ${usd("Ecommerce")} and a custom web app from ${usd("Custom web app")}. Monthly SEO starts from ${usd("Monthly SEO")}. These are starting prices; the final quote depends on your requirements.`,
+    answer: `Our starting prices for Dutch clients are in US dollars: a static website of up to 100 pages from ${usd("Static")}, a 299+ page SEO website from ${usd("SEO website")}, AI automation from ${usd("AI automation")}, a webshop from ${usd("Ecommerce")} and a custom web app from ${usd("Custom web app")}. Monthly SEO starts from ${usd("Monthly SEO")}. These are starting prices; the final quote depends on your requirements.`,
   },
   {
     question: "Can we pay in euros?",
@@ -76,7 +77,7 @@ const faqs = [
   },
   {
     question: "How long does a project take?",
-    answer: "A static website usually takes one to two weeks, a 700+ page SEO website three to five weeks, AI automation two to four weeks, a webshop four to eight weeks and a custom web app six to twelve weeks. Bilingual Dutch and English sites add time for translation and review, so plan the copy early.",
+    answer: "A static website usually takes one to two weeks, a 299+ page SEO website three to five weeks, AI automation two to four weeks, a webshop four to eight weeks and a custom web app six to twelve weeks. Bilingual Dutch and English sites add time for translation and review, so plan the copy early.",
   },
   {
     question: "Who owns the website, domain and code?",
@@ -458,7 +459,7 @@ const guide: GuideArticle[] = [
     paragraphs: [
       "Our prices are lower than typical Dutch agency rates because our costs are in India, not because we leave things out. A starting price is a starting point, though, and the final quote depends on requirements. These are the factors that move it most:",
       "<strong>Languages.</strong> Each extra language adds structure, templates, hreflang, testing and content handling. A Dutch-only site is simpler than a Dutch, English and German site, even when the translations come from you.",
-      "<strong>Pages and content.</strong> A compact company site with supplied text is at the low end. Large sites with many product or location pages, migrations from an old CMS and redirects for existing URLs take more time. Our 700+ page SEO website plan starts from " + usd("SEO website") + " because such sites are generated from structured data, but the data model and quality checks remain real work.",
+      "<strong>Pages and content.</strong> A compact company site with supplied text is at the low end. Large sites with many product or location pages, migrations from an old CMS and redirects for existing URLs take more time. Our 299+ page SEO website plan starts from " + usd("SEO website") + " because such sites are generated from structured data, but the data model and quality checks remain real work.",
       "<strong>Integrations.</strong> Linking Exact Online, Moneybird, AFAS, a CRM, Sendcloud or a bol.com channel tool each adds build and test time. The quality of the other system's API often determines the effort more than the website itself.",
       "<strong>Webshop complexity.</strong> A shop with a few simple products differs from one with variants, B2B price agreements, subscriptions, multiple warehouses and several countries.",
       "<strong>Running costs.</strong> Budget for the .nl domain, hosting, platform subscriptions such as Shopify, payment provider fees per transaction, email and any paid plugins. We list expected running costs in the quote so the total cost of ownership is clear from the start.",
@@ -578,6 +579,7 @@ const webPageSchema = {
   about: { "@id": `${url}#service` },
   speakable: { "@type": "SpeakableSpecification", cssSelector: ["#quick-answer", "h1"] },
 };
+const servicePages = countryPageLinks("netherlands");
 ---
 
 <BaseLayout meta={page} schema={[webPageSchema, professionalServiceSchema, breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs)]}>
@@ -879,6 +881,21 @@ const webPageSchema = {
       </div>
     </div>
   </section>
+
+  <!-- ===================== SERVICE PAGES ===================== -->
+  {servicePages.length > 0 && (
+    <section class="locations" aria-labelledby="service-pages-heading">
+      <div class="section-wrap">
+        <div class="section-head">
+          <p class="eyebrow">Services and guides</p>
+          <h2 id="service-pages-heading">Everything we build for Dutch businesses</h2>
+        </div>
+        <div class="city-cloud">
+          {servicePages.map((p) => <a class="city-chip" href={p.href}>{p.name}</a>)}
+        </div>
+      </div>
+    </section>
+  )}
 
   <!-- ===================== RELATED ===================== -->
   <section class="locations" aria-labelledby="related-heading">

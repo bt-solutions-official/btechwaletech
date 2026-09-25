@@ -35,7 +35,7 @@ const varanasi: CityContent = {
     pills: ["Sites from ₹10,000", "Banarasi saree stores", "Hotel and guest house booking", "Hindi and Bhojpuri-aware SEO", "5 months free maintenance"],
   },
   quickAnswer:
-    "In Varanasi, a static business website with us starts at ₹10,000 and a 700+ page SEO website at ₹20,000, delivered in one to five weeks. Online stores for sarees and handicrafts start at ₹50,000. We are a remote three-engineer team without a Varanasi office, you own the domain and code, and five months of maintenance is free.",
+    "In Varanasi, a static business website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000, delivered in one to five weeks. Online stores for sarees and handicrafts start at ₹50,000. We are a remote three-engineer team without a Varanasi office, you own the domain and code, and five months of maintenance is free.",
   snapshot: [
     { label: "Old city markets", value: "Godowlia, Chowk, Vishwanath Gali and the lanes leading to Dashashwamedh Ghat" },
     { label: "Weaving neighbourhoods", value: "Madanpura, Bajardiha, Pilikothi and Lohta, centres of Banarasi silk and brocade" },
@@ -73,12 +73,12 @@ const varanasi: CityContent = {
       heading: "How much does a website cost in Varanasi?",
       paragraphs: [
         "Website quotes in Varanasi range from ₹2,000 offers on social media to ₹50,000 or more from agencies in Lucknow, Delhi or local firms with offices and sales staff. The cheapest usually reuse a template, include no search work and keep the domain in the developer's name. The most expensive often pay for things you don't need.",
-        "We publish our starting prices. A static website of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. A 700+ page SEO website, with separate pages for your services, products and the areas you serve, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications such as booking engines and order trackers at ₹60,000, automation projects at ₹40,000 and monthly SEO at ₹10,000.",
+        "We publish our starting prices. A static website of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO website, with separate pages for your services, products and the areas you serve, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications such as booking engines and order trackers at ₹60,000, automation projects at ₹40,000 and monthly SEO at ₹10,000.",
         "The number of products is often the biggest variable for saree and handicraft sellers, since each design needs photographs and a description. You receive an itemised quote before any work starts, and nothing is billed until you approve it in writing. Full details are on our <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> a compact site for a clinic, guest house, tutor or shop with an enquiry form and search basics.",
-        "<strong>From ₹20,000:</strong> a 700+ page SEO website for hotels, hospitals and service firms that want Google enquiries.",
+        "<strong>From ₹20,000:</strong> a 299+ page SEO website for hotels, hospitals and service firms that want Google enquiries.",
         "<strong>From ₹50,000:</strong> an online store for sarees and handicrafts with UPI, cards and shipping rules.",
         "<strong>From ₹60,000:</strong> custom software such as booking engines, weaver order tracking or student portals.",
       ],
@@ -210,12 +210,12 @@ const varanasi: CityContent = {
     {
       question: "How much does a website cost in Varanasi?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. In Varanasi you will see quotes from ₹2,000 to ₹50,000 or more for similar work. Compare domain ownership, SEO setup and after-launch support as well as the price.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. In Varanasi you will see quotes from ₹2,000 to ₹50,000 or more for similar work. Compare domain ownership, SEO setup and after-launch support as well as the price.",
     },
     {
       question: "Banaras me website banwane me kitna paisa lagta hai?",
       answer:
-        "Humare yahan simple business website ₹10,000 se shuru hoti hai aur 700+ pages wali SEO website ₹20,000 se. Saree ya handicraft ka online store ₹50,000 se shuru hota hai. Final kharcha pages, products aur features par depend karta hai, aur kaam shuru hone se pehle aapko poora likhit quote milta hai.",
+        "Humare yahan simple business website ₹10,000 se shuru hoti hai aur 299+ pages wali SEO website ₹20,000 se. Saree ya handicraft ka online store ₹50,000 se shuru hota hai. Final kharcha pages, products aur features par depend karta hai, aur kaam shuru hone se pehle aapko poora likhit quote milta hai.",
     },
     {
       question: "Do you have an office in Varanasi?",
@@ -240,7 +240,7 @@ const varanasi: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "One to two weeks for a static site, three to five weeks for a 700+ page SEO site, four to eight weeks for an online store and six to twelve weeks for custom software. Photographing a large saree range is often the slowest part, so we can launch with your best designs first.",
+        "One to two weeks for a static site, three to five weeks for a 299+ page SEO site, four to eight weeks for an online store and six to twelve weeks for custom software. Photographing a large saree range is often the slowest part, so we can launch with your best designs first.",
     },
     {
       question: "How long does SEO take in Varanasi?",

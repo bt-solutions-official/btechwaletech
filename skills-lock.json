@@ -60,6 +60,18 @@
       "skillPath": "skills/blog-seo-check/SKILL.md",
       "computedHash": "a552301d2ed9c3e43bde8d1f88eac3a7e827b54b8b7ef19a6770dbd3c2ccaa0e"
     },
+    "competitor-analysis": {
+      "source": "every-app/open-seo",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/competitor-analysis/SKILL.md",
+      "computedHash": "68ffdeed7d261cc31dc194085566bffee5ea1b0036e76ea4ca326b2b18fce594"
+    },
+    "competitors": {
+      "source": "coreyhaines31/marketingskills",
+      "sourceType": "github",
+      "skillPath": "skills/competitors/SKILL.md",
+      "computedHash": "28d933d676811df76d1c59ccbb99d8768b107ac9f17a721a67dd5a239847984e"
+    },
     "fal-3d": {
       "source": "nexu-io/open-design",
       "sourceType": "github",
@@ -209,6 +221,12 @@
       "sourceType": "github",
       "skillPath": "skills/seo-local/SKILL.md",
       "computedHash": "8890fb1c32bf48ba1c432c5420af4f5ac67aa30637cb8568c2454862e1f67c66"
+    },
+    "seo-meta-optimizer": {
+      "source": "sickn33/agentic-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/seo-meta-optimizer/SKILL.md",
+      "computedHash": "274bfd6e2f9a998e10e787f97bcbb8b37754c58e9f14c495e90c4888ae43e0f4"
     },
     "seo-optimizer": {
       "source": "ailabs-393/ai-labs-claude-skills",

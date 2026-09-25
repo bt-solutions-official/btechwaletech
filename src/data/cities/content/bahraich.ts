@@ -34,7 +34,7 @@ const bahraich: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi and English pages", "Google Maps clean-up", "WhatsApp enquiry flows", "Nepal border trade pages"],
   },
   quickAnswer:
-    "For a Bahraich business, a static website with us starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team with no Bahraich office, you own the domain and code, and five months of maintenance are free.",
+    "For a Bahraich business, a static website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team with no Bahraich office, you own the domain and code, and five months of maintenance are free.",
   snapshot: [
     { label: "Location", value: "On the Saryu river, about 125 km north-east of Lucknow, district headquarters in the Devipatan division" },
     { label: "Border", value: "The district touches Nepal; the Rupaidiha land port, Uttar Pradesh's first, links to Nepalgunj over NH 927" },
@@ -72,7 +72,7 @@ const bahraich: CityContent = {
       heading: "What a website costs in Bahraich, and what you should get for it",
       paragraphs: [
         "Local quotes in Bahraich vary wildly. Some shops offer a ₹3,000 or ₹4,000 site that turns out to be a free template on a subdomain, with the domain registered to them and no search setup. Agencies in Lucknow may quote several times our rate for similar work. Before comparing numbers, ask what is included and in whose name the domain sits.",
-        "With us, a static website of up to 100 pages, with mobile layout, Hindi and English text, contact form, map, WhatsApp button and basic SEO, starts at ₹10,000 and is usually live in one to two weeks. A larger SEO website of 700+ pages, with a page for every service, department, product or locality you serve, starts at ₹20,000 and takes three to five weeks. Our <a href=\"/pricing/\">pricing page</a> lists every tier.",
+        "With us, a static website of up to 100 pages, with mobile layout, Hindi and English text, contact form, map, WhatsApp button and basic SEO, starts at ₹10,000 and is usually live in one to two weeks. A larger SEO website of 299+ pages, with a page for every service, department, product or locality you serve, starts at ₹20,000 and takes three to five weeks. Our <a href=\"/pricing/\">pricing page</a> lists every tier.",
         "Online stores start at ₹50,000, WhatsApp and AI automation at ₹40,000, custom software such as billing or stock systems at ₹60,000, and monthly SEO at ₹10,000. All of these are starting points. A hospital with twelve departments needs more work than a single clinic, and bilingual writing adds time. You get an itemised quote in about two working days.",
       ],
       list: [
@@ -208,7 +208,7 @@ const bahraich: CityContent = {
     {
       question: "How much does a website cost in Bahraich?",
       answer:
-        "With us a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, languages and features. When comparing local offers, check whether the domain will be in your name and whether search setup is included.",
+        "With us a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, languages and features. When comparing local offers, check whether the domain will be in your name and whether search setup is included.",
     },
     {
       question: "Bahraich me website banwane me kitna kharcha aata hai?",

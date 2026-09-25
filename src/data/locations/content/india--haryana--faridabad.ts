@@ -184,19 +184,19 @@ const content: CityContent = {
       paragraphs: [
         "SEO for Faridabad businesses means ranking for the product, process and sector searches buyers and residents use, and being described accurately when people ask AI assistants for suppliers or services. Procurement teams search by process and material, such as CNC machining, sheet metal or forgings plus Faridabad, while residents search by sector and service.",
         "We build capability and product pages with real machine lists, tolerances and materials, sector pages for local services, accurate Google Business Profiles and structured data. Monthly SEO starts from ₹10,000; results are never guaranteed. More on our <a href='/services/seo-services/'>SEO services page</a>.",
-        "A useful exercise for any Faridabad supplier, even before hiring anyone: search for your three main processes plus the city name on a phone, then ask ChatGPT or Google's AI Mode which suppliers it would suggest. Note who appears and what their pages say about machines, materials and certifications. Those are the details your own site must state more clearly and more accurately. Firms with a large part range can go further with a 700+ page SEO website from ₹20,000, giving each product family and application its own page.",
+        "A useful exercise for any Faridabad supplier, even before hiring anyone: search for your three main processes plus the city name on a phone, then ask ChatGPT or Google's AI Mode which suppliers it would suggest. Note who appears and what their pages say about machines, materials and certifications. Those are the details your own site must state more clearly and more accurately. Firms with a large part range can go further with a 299+ page SEO website from ₹20,000, giving each product family and application its own page.",
       ],
     },
     {
       id: "faridabad-it-cost",
       heading: "How much do IT solutions cost in Faridabad?",
       paragraphs: [
-        "IT solutions in Faridabad start from ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000. These are starting prices.",
+        "IT solutions in Faridabad start from ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000. These are starting prices.",
         "Costs rise with departments, users, integrations and data migration; they stay manageable when each phase is focused. Every roadmap item is itemised within about two working days. See our <a href='/pricing/'>pricing page</a>.",
       ],
       list: [
         "Static website: from ₹10,000, 1 to 2 weeks",
-        "700+ page SEO website: from ₹20,000, 3 to 5 weeks",
+        "299+ page SEO website: from ₹20,000, 3 to 5 weeks",
         "Android and iOS app: from ₹40,000, 6 to 10 weeks",
         "AI automation: from ₹40,000, 2 to 4 weeks",
         "Online store: from ₹50,000, 4 to 8 weeks",

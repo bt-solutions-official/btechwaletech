@@ -35,7 +35,7 @@ const buxar: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi-first pages", "Rice and grain trade sites", "School and clinic pages", "WhatsApp auto-replies"],
   },
   quickAnswer:
-    "A basic business website in Buxar starts at ₹10,000 with us and is ready in one to two weeks. Search-focused sites of 700+ pages start at ₹20,000, online stores at ₹50,000 and WhatsApp or AI automation at ₹40,000. We work remotely with no Buxar office, and maintenance is free for five months after launch.",
+    "A basic business website in Buxar starts at ₹10,000 with us and is ready in one to two weeks. Search-focused sites of 299+ pages start at ₹20,000, online stores at ₹50,000 and WhatsApp or AI automation at ₹40,000. We work remotely with no Buxar office, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "District role", value: "Buxar is the headquarters of Buxar district, carved out in 1991, with Buxar and Dumraon as its two subdivisions" },
     { label: "Border trade", value: "The town sits on the Ganga opposite Uttar Pradesh, bordering Ballia and Ghazipur districts, roughly 125 km from Patna" },
@@ -73,7 +73,7 @@ const buxar: CityContent = {
       heading: "Website charges in Buxar, and what our starting prices cover",
       paragraphs: [
         "When a Buxar shop owner asks around, he usually hears two kinds of numbers: a very low one from someone who builds pages on a free tool and keeps the login, and a large one from an agency in a bigger city. Neither explains what is included. We list our starting prices openly on the <a href=\"/pricing/\">pricing page</a>, so you know the floor before the first call.",
-        "A static site of up to 100 pages, with mobile layout, contact form, map, Hindi or English text and basic search setup, starts from ₹10,000 and takes one to two weeks. A 700+ page site, with a separate page for every product, course, service or village you serve, planned around real searches, starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, AI and WhatsApp automation from ₹40,000, custom web software from ₹60,000 and monthly SEO from ₹10,000.",
+        "A static site of up to 100 pages, with mobile layout, contact form, map, Hindi or English text and basic search setup, starts from ₹10,000 and takes one to two weeks. A 299+ page site, with a separate page for every product, course, service or village you serve, planned around real searches, starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, AI and WhatsApp automation from ₹40,000, custom web software from ₹60,000 and monthly SEO from ₹10,000.",
         "Your final cost depends on how much you need. A single-doctor clinic is a small job; a school with admissions, fee pages, transport routes and a notice board is bigger; a rice brand selling across India is bigger still. We send an itemised quote in about two working days, and no money is taken until you approve it in writing.",
       ],
       list: [
@@ -208,7 +208,7 @@ const buxar: CityContent = {
     {
       question: "What does a website cost in Buxar?",
       answer:
-        "With us a static website starts from ₹10,000, a 700+ page SEO site from ₹20,000, an online store from ₹50,000 and custom web software from ₹60,000. When you compare other offers in Buxar, check whose name the domain is in, whether search setup is included and what support comes after launch.",
+        "With us a static website starts from ₹10,000, a 299+ page SEO site from ₹20,000, an online store from ₹50,000 and custom web software from ₹60,000. When you compare other offers in Buxar, check whose name the domain is in, whether search setup is included and what support comes after launch.",
     },
     {
       question: "Buxar me website banwane me kitna paisa lagta hai?",

@@ -35,7 +35,7 @@ const ahmedabad: CityContent = {
     pills: ["Sites from ₹10,000", "Gujarati and English SEO", "B2B catalogues for GIDC", "UPI and Razorpay stores", "WhatsApp automation"],
   },
   quickAnswer:
-    "An Ahmedabad business can get a static website from us starting at ₹10,000, or a 700+ page SEO website from ₹20,000, usually within one to five weeks. Online stores begin at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three engineers with no Ahmedabad office, and five months of maintenance are free.",
+    "An Ahmedabad business can get a static website from us starting at ₹10,000, or a 299+ page SEO website from ₹20,000, usually within one to five weeks. Online stores begin at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three engineers with no Ahmedabad office, and five months of maintenance are free.",
   snapshot: [
     { label: "Commercial roads", value: "CG Road, Ashram Road, SG Highway, Prahladnagar, Sindhu Bhavan Road and Satellite" },
     { label: "Old city markets", value: "Kalupur cloth market, Ratanpole, Manek Chowk, Relief Road and Bhadra, within the UNESCO-listed historic city" },
@@ -74,13 +74,13 @@ const ahmedabad: CityContent = {
       heading: "How much does a website cost in Ahmedabad?",
       paragraphs: [
         "In Ahmedabad you will find website offers from around ₹3,000 to agency quotes well above ₹50,000 for similar work. The cheap offers often come with an annual “renewal” that quietly costs more than the build, a template shared with dozens of other businesses, and hosting you don't control. Expensive agencies may deliver good work, but you pay for their office on SG Highway and their sales process.",
-        "Our starting prices are published openly. A static website of up to 100 pages starts at ₹10,000 and is ready in one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. An online store starts at ₹50,000, a custom web application at ₹60,000, AI and WhatsApp automation at ₹40,000, and monthly SEO at ₹10,000 a month. Hosting and domain renewals are paid directly by you to the provider, at the provider's price, with no markup from us.",
+        "Our starting prices are published openly. A static website of up to 100 pages starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. An online store starts at ₹50,000, a custom web application at ₹60,000, AI and WhatsApp automation at ₹40,000, and monthly SEO at ₹10,000 a month. Hosting and domain renewals are paid directly by you to the provider, at the provider's price, with no markup from us.",
         "It also helps to separate what you pay once from what you pay every year. The build is a one-time cost. The domain renewal is usually a few hundred rupees a year, and hosting for a static site can cost very little. If a quote bundles these into a large annual “package”, ask for the breakdown before you sign.",
         "Every quote is itemised: each page, each feature and each integration listed with its cost, usually within two working days. Nothing is billed until you approve it in writing. You can see each tier in detail on our <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [
         "<strong>Static site, from ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form, SEO basics. For CAs, clinics, consultants and showrooms.",
-        "<strong>SEO site, from ₹20,000:</strong> 700+ pages including product or service pages. For suppliers and service firms wanting search enquiries.",
+        "<strong>SEO site, from ₹20,000:</strong> 299+ pages including product or service pages. For suppliers and service firms wanting search enquiries.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart, UPI and card checkout. For textile, food and handicraft brands.",
         "<strong>Custom web app, from ₹60,000:</strong> dealer portals, dashboards, integrations. For distributors and manufacturers.",
       ],
@@ -212,12 +212,12 @@ const ahmedabad: CityContent = {
     {
       question: "How much does a website cost in Ahmedabad?",
       answer:
-        "With us, a static site starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. Ahmedabad quotes for similar work vary widely. Check whether the price includes SEO basics, domain and hosting in your name, and support after launch, and ask what the yearly renewal costs.",
+        "With us, a static site starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. Ahmedabad quotes for similar work vary widely. Check whether the price includes SEO basics, domain and hosting in your name, and support after launch, and ask what the yearly renewal costs.",
     },
     {
       question: "Ahmedabad ma website banavva no kharcho ketlo thay?",
       answer:
-        "Amari saathe simple business website ₹10,000 thi sharu thay chhe, ane 700+ page ni SEO website ₹20,000 thi. Online store ₹50,000 thi sharu thay chhe. Final kimat pages, features ane content par aadhar rakhe chhe, ane kaam sharu karta pehla tamne itemised quote male chhe.",
+        "Amari saathe simple business website ₹10,000 thi sharu thay chhe, ane 299+ page ni SEO website ₹20,000 thi. Online store ₹50,000 thi sharu thay chhe. Final kimat pages, features ane content par aadhar rakhe chhe, ane kaam sharu karta pehla tamne itemised quote male chhe.",
     },
     {
       question: "Do you have an office in Ahmedabad?",
@@ -242,7 +242,7 @@ const ahmedabad: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom web app six to twelve weeks. Content is the usual delay, so we draft starter text for you to correct.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom web app six to twelve weeks. Content is the usual delay, so we draft starter text for you to correct.",
     },
     {
       question: "Can you build a product catalogue for a chemical manufacturer?",

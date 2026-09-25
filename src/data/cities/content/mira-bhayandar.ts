@@ -35,7 +35,7 @@ const miraBhayandar: CityContent = {
     pills: ["Sites from ₹10,000", "Mira Road map searches", "UPI stores", "Gala and B2B catalogues", "WhatsApp replies"],
   },
   quickAnswer:
-    "For a business in Mira-Bhayandar, our static website starts at ₹10,000 and takes one to two weeks, while a 700+ page SEO site starts at ₹20,000 over three to five weeks. We are a three-person remote team with no local office, so you pay for engineering rather than rent, and maintenance is free for five months.",
+    "For a business in Mira-Bhayandar, our static website starts at ₹10,000 and takes one to two weeks, while a 299+ page SEO site starts at ₹20,000 over three to five weeks. We are a three-person remote team with no local office, so you pay for engineering rather than rent, and maintenance is free for five months.",
   snapshot: [
     { label: "Civic body", value: "Mira-Bhayandar Municipal Corporation, Thane district, part of the Mumbai Metropolitan Region" },
     { label: "Main areas", value: "Mira Road East, Shanti Nagar, Naya Nagar, Kashimira, Bhayandar West and Bhayandar East" },
@@ -73,12 +73,12 @@ const miraBhayandar: CityContent = {
       heading: "What a website costs in Mira-Bhayandar",
       paragraphs: [
         "Ask five designers in Mira Road for a price and you may hear anything from ₹2,500 for a single page to more than ₹50,000 for a small company site. The cheapest offers are usually a template on the designer's own hosting, with no search setup and no clear handover. The expensive ones often include the cost of a sales person, a rented office and several rounds of meetings that add little to the finished site.",
-        "We publish our starting points so you can compare fairly. A static site of up to 100 pages starts at ₹10,000 and is normally ready in one to two weeks. A 700+ page site built around real search terms, with a page for each service and each area you actually cover, starts at ₹20,000 and takes three to five weeks. An online store with UPI, cards and delivery rules begins at ₹50,000. Custom web applications such as ordering portals or job-tracking systems start at ₹60,000, AI and WhatsApp automation at ₹40,000, and ongoing SEO at ₹10,000 a month.",
+        "We publish our starting points so you can compare fairly. A static site of up to 100 pages starts at ₹10,000 and is normally ready in one to two weeks. A 299+ page site built around real search terms, with a page for each service and each area you actually cover, starts at ₹20,000 and takes three to five weeks. An online store with UPI, cards and delivery rules begins at ₹50,000. Custom web applications such as ordering portals or job-tracking systems start at ₹60,000, AI and WhatsApp automation at ₹40,000, and ongoing SEO at ₹10,000 a month.",
         "The final figure depends on the details. A caterer with twelve menu photos costs less than a steel utensil maker with three hundred products and no descriptions. You receive a written, line-by-line quote in about two working days, see our <a href=\"/pricing/\">full pricing</a> in advance, and pay nothing until you approve the scope in writing.",
       ],
       list: [
         "<strong>Static website, from ₹10,000:</strong> up to 100 pages, enquiry form, WhatsApp button, basic SEO. Good for doctors, tutors, beauty parlours and consultants.",
-        "<strong>SEO website, from ₹20,000:</strong> 700+ pages for services and localities such as Mira Road East, Kashimira and Bhayandar West.",
+        "<strong>SEO website, from ₹20,000:</strong> 299+ pages for services and localities such as Mira Road East, Kashimira and Bhayandar West.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart, UPI and card payments, delivery pin codes across the MMR.",
         "<strong>Custom web app, from ₹60,000:</strong> logins, dashboards and order or job tracking for traders and gala units.",
       ],
@@ -209,12 +209,12 @@ const miraBhayandar: CityContent = {
     {
       question: "How much does a website cost in Mira-Bhayandar?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Local quotes range much wider than that. When comparing, check whether SEO setup, hosting in your name and post-launch support are included, since those are where cheap quotes usually cut corners.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Local quotes range much wider than that. When comparing, check whether SEO setup, hosting in your name and post-launch support are included, since those are where cheap quotes usually cut corners.",
     },
     {
       question: "Mira Road me website banwane ka kitna kharcha aata hai?",
       answer:
-        "Humare saath simple business website ₹10,000 se shuru hoti hai aur 700+ pages wali SEO website ₹20,000 se. Online dukaan ₹50,000 se banti hai. Aapke pages, features aur content ke hisaab se final amount tay hota hai, aur kaam shuru karne se pehle aapko har cheez ka alag-alag quote likhit mein milta hai.",
+        "Humare saath simple business website ₹10,000 se shuru hoti hai aur 299+ pages wali SEO website ₹20,000 se. Online dukaan ₹50,000 se banti hai. Aapke pages, features aur content ke hisaab se final amount tay hota hai, aur kaam shuru karne se pehle aapko har cheez ka alag-alag quote likhit mein milta hai.",
     },
     {
       question: "Do you have an office in Mira Road or Bhayandar?",
@@ -239,7 +239,7 @@ const miraBhayandar: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks, and a custom application six to twelve weeks. Waiting for photos and text is the most common delay, so we draft starter content for you to correct rather than waiting for you to write from scratch.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks, and a custom application six to twelve weeks. Waiting for photos and text is the most common delay, so we draft starter content for you to correct rather than waiting for you to write from scratch.",
     },
     {
       question: "Can my website be in Hindi, Gujarati or Marathi as well as English?",

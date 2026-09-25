@@ -157,7 +157,7 @@ const content: CityContent = {
       id: "seo-panaji-software-and-services",
       heading: "SEO and AI-search visibility for Panaji firms",
       paragraphs: [
-        "SEO for a Panaji firm means ranking in Google's map pack and organic results for searches made in and around the capital, and increasingly being named in answers from Google AI Overviews, ChatGPT and Perplexity. Our <a href='/services/seo-services/'>SEO services</a> start from ₹10,000 a month, and 700+ page SEO websites start from ₹20,000.",
+        "SEO for a Panaji firm means ranking in Google's map pack and organic results for searches made in and around the capital, and increasingly being named in answers from Google AI Overviews, ChatGPT and Perplexity. Our <a href='/services/seo-services/'>SEO services</a> start from ₹10,000 a month, and 299+ page SEO websites start from ₹20,000.",
         "The local work starts with a complete Google Business Profile, consistent name, address and phone across listings, and separate service pages for the neighbourhoods and nearby towns you serve, such as Taleigao, Merces, Ribandar, Porvorim and Old Goa. For firms selling beyond Goa, we build topic pages that answer the questions buyers ask before they call.",
         "For AI search, we write clear, factual passages near the top of each page, add FAQ and organisation schema, and keep business facts identical everywhere they appear. We report from Search Console every month. We do not guarantee rankings, and anyone who does should be treated with caution.",
       ],
@@ -189,7 +189,7 @@ const content: CityContent = {
       ],
       list: [
         "<strong>Business website:</strong> from ₹10,000, one to two weeks",
-        "<strong>700+ page SEO website:</strong> from ₹20,000, three to five weeks",
+        "<strong>299+ page SEO website:</strong> from ₹20,000, three to five weeks",
         "<strong>AI agent or WhatsApp automation:</strong> from ₹40,000, two to four weeks",
         "<strong>Android and iOS app:</strong> from ₹40,000, six to ten weeks",
         "<strong>Online store:</strong> from ₹50,000, four to eight weeks",
@@ -309,7 +309,7 @@ const content: CityContent = {
     {
       question: "Do you build websites too, or only software?",
       answer:
-        "Both. Business websites start from ₹10,000 and 700+ page SEO websites from ₹20,000, and many Panaji clients combine a website with a booking tool, portal or automation. Building both together means enquiries flow straight into the software without copying and pasting. The full scope is on our web development and pricing pages.",
+        "Both. Business websites start from ₹10,000 and 299+ page SEO websites from ₹20,000, and many Panaji clients combine a website with a booking tool, portal or automation. Building both together means enquiries flow straight into the software without copying and pasting. The full scope is on our web development and pricing pages.",
     },
     {
       question: "Is my customer data safe in cloud software?",

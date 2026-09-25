@@ -39,7 +39,7 @@ const namakkal: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Tamil and English SEO", "Fleet and farm software", "Code and domain in your name"],
   },
   quickAnswer:
-    "Namakkal poultry farms, fleet owners, schools and shops can get a website from ₹10,000, often ready within two weeks. An Android and iOS app is ₹40,000 onwards, and AI or WhatsApp automation begins at the same figure. SEO sites with 700+ pages start at ₹20,000, stores at ₹50,000 and custom software at ₹60,000. We are remote, with no Namakkal office.",
+    "Namakkal poultry farms, fleet owners, schools and shops can get a website from ₹10,000, often ready within two weeks. An Android and iOS app is ₹40,000 onwards, and AI or WhatsApp automation begins at the same figure. SEO sites with 299+ pages start at ₹20,000, stores at ₹50,000 and custom software at ₹60,000. We are remote, with no Namakkal office.",
   snapshot: [
     { label: "Status", value: "District headquarters and municipal corporation, roughly 360 km from Chennai" },
     { label: "Known as", value: "Egg City, one of India's largest egg-producing areas" },
@@ -164,7 +164,7 @@ const namakkal: CityContent = {
       id: "website-cost-namakkal",
       heading: "Website cost in Namakkal: starting prices and how to judge quotes",
       paragraphs: [
-        "Starting figures first, since that is what most Namakkal owners ask. A static website of up to 100 pages costs from ₹10,000 and is typically done in one to two weeks. For a body builder or school that wants a page for every body type, class or visiting district, an SEO website of 700-plus pages costs from ₹20,000 and takes three to five weeks. Apps for Android and iPhone start at ₹40,000, as do AI automation projects. Stores begin at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
+        "Starting figures first, since that is what most Namakkal owners ask. A static website of up to 100 pages costs from ₹10,000 and is typically done in one to two weeks. For a body builder or school that wants a page for every body type, class or visiting district, an SEO website of 299-plus pages costs from ₹20,000 and takes three to five weeks. Apps for Android and iPhone start at ₹40,000, as do AI automation projects. Stores begin at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
         "The cost rises only with extras you choose: Tamil and English versions, a large product range, freight tables, UPI checkout, staff logins, GPS links or a Tally connection. If you supply your own text and photographs, it barely changes.",
         "Quotes in Namakkal, Salem, Erode and online can differ hugely for similar-sounding work. Ask who registers the domain, whether the site is tested on cheap phones, whether on-page SEO is included, how many revisions are covered and what support costs after the first year. Our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and an itemised written quote reaches you in about two working days.",
       ],
@@ -225,7 +225,7 @@ const namakkal: CityContent = {
     {
       question: "What is the website cost in Namakkal?",
       answer:
-        "For Namakkal clients, a static site starts from ₹10,000, a 700+ page SEO site from ₹20,000, an online store from ₹50,000 and custom software such as farm or fleet tools from ₹60,000. These are opening figures; Tamil content, product counts and integrations appear as separate items in a written quote, and billing waits for your approval.",
+        "For Namakkal clients, a static site starts from ₹10,000, a 299+ page SEO site from ₹20,000, an online store from ₹50,000 and custom software such as farm or fleet tools from ₹60,000. These are opening figures; Tamil content, product counts and integrations appear as separate items in a written quote, and billing waits for your approval.",
     },
     {
       question: "Do you build Android and iOS apps for Namakkal businesses?",
@@ -235,7 +235,7 @@ const namakkal: CityContent = {
     {
       question: "How long will my Namakkal website take?",
       answer:
-        "Expect a simple site for a shop, hospital or workshop to be live around two weeks after your photos and details arrive. SEO builds of 700+ pages need three to five weeks, stores four to eight and fleet or farm software six to twelve. The biggest delays come from waiting for content, so gathering it early helps.",
+        "Expect a simple site for a shop, hospital or workshop to be live around two weeks after your photos and details arrive. SEO builds of 299+ pages need three to five weeks, stores four to eight and fleet or farm software six to twelve. The biggest delays come from waiting for content, so gathering it early helps.",
     },
     {
       question: "Which is the best website development team in Namakkal?",

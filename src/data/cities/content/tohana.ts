@@ -39,7 +39,7 @@ const tohana: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi and Punjabi search", "Rice mill and mandi tools", "Accounts registered to you"],
   },
   quickAnswer:
-    "With us, a Tohana business website costs ₹10,000 onwards and is ready in about one to two weeks. Android and iOS apps begin at ₹40,000, AI and WhatsApp automation at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and bespoke software at ₹60,000. We are fully remote, with no office in Tohana.",
+    "With us, a Tohana business website costs ₹10,000 onwards and is ready in about one to two weeks. Android and iOS apps begin at ₹40,000, AI and WhatsApp automation at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and bespoke software at ₹60,000. We are fully remote, with no office in Tohana.",
   snapshot: [
     { label: "District", value: "Fatehabad, Haryana; part of Hisar district until Fatehabad was carved out in 1997" },
     { label: "Population", value: "About 63,900 in the town at the 2011 Census, with a much larger rural catchment" },
@@ -157,7 +157,7 @@ const tohana: CityContent = {
       id: "website-cost-tohana",
       heading: "Website cost in Tohana: starting prices and fair comparisons",
       paragraphs: [
-        "Here are the base figures for Tohana. A static website, up to 100 pages, starts at ₹10,000 and is typically finished in one to two weeks. An SEO website of 700+ pages starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000. AI automation also begins at ₹40,000, over two to four weeks. Online stores start at ₹50,000 and need four to eight weeks, while custom software starts at ₹60,000 and needs six to twelve. Ongoing SEO is ₹10,000 a month onwards.",
+        "Here are the base figures for Tohana. A static website, up to 100 pages, starts at ₹10,000 and is typically finished in one to two weeks. An SEO website of 299+ pages starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000. AI automation also begins at ₹40,000, over two to four weeks. Online stores start at ₹50,000 and need four to eight weeks, while custom software starts at ₹60,000 and needs six to twelve. Ongoing SEO is ₹10,000 a month onwards.",
         "The figure climbs with scope: more pages, separate Hindi and English versions, large catalogues, payment and courier links, staff logins or Tally integration. Content is part of it too. Hand us ready text and photographs and the price stays near the base; ask us to write, translate and photograph-edit, and that is shown as a separate charge.",
         "Local quotes vary widely, so line them up on the same questions: in whose name is the domain, is mobile testing included, is basic on-page SEO done, how many change rounds are allowed, and who picks up the phone after launch? Our <a href=\"/pricing/\">pricing page</a> gives the base numbers, and your written quote comes within about two working days.",
       ],
@@ -218,7 +218,7 @@ const tohana: CityContent = {
     {
       question: "What is the website cost in Tohana?",
       answer:
-        "Our base prices are ₹10,000 for a static site, ₹20,000 for a 700+ page SEO site, ₹50,000 for an online store and ₹60,000 for custom software. They are starting figures only; Hindi and English versions, product count and integrations change the total. The itemised quote reaches you in about two working days, and billing waits for your approval.",
+        "Our base prices are ₹10,000 for a static site, ₹20,000 for a 299+ page SEO site, ₹50,000 for an online store and ₹60,000 for custom software. They are starting figures only; Hindi and English versions, product count and integrations change the total. The itemised quote reaches you in about two working days, and billing waits for your approval.",
     },
     {
       question: "Do you build Android and iOS apps for Tohana businesses?",
@@ -228,7 +228,7 @@ const tohana: CityContent = {
     {
       question: "How quickly can I get a website for my Tohana shop?",
       answer:
-        "Once your wording and photographs are with us, a simple site is usually live inside two weeks. A 700+ page SEO site needs three to five weeks, a store four to eight and custom software six to twelve. Most delays come from waiting for content, so gathering it early helps.",
+        "Once your wording and photographs are with us, a simple site is usually live inside two weeks. A 299+ page SEO site needs three to five weeks, a store four to eight and custom software six to twelve. Most delays come from waiting for content, so gathering it early helps.",
     },
     {
       question: "Which is the best website development team in Tohana?",
@@ -253,7 +253,7 @@ const tohana: CityContent = {
     {
       question: "Tohana me website banwane me kitna kharcha aata hai?",
       answer:
-        "Hamare yahan simple website ₹10,000 se shuru hoti hai aur lagbhag ek-do hafte me ban jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hota hai. Aapki zaroorat ke hisaab se likhit quote do din me bhejte hain.",
+        "Hamare yahan simple website ₹10,000 se shuru hoti hai aur lagbhag ek-do hafte me ban jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hota hai. Aapki zaroorat ke hisaab se likhit quote do din me bhejte hain.",
     },
     {
       question: "You have no office in Tohana. How can I trust remote work?",

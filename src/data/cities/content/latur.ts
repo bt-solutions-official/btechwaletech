@@ -34,7 +34,7 @@ const latur: CityContent = {
     pills: ["Websites from ₹10,000", "Dal mill catalogues", "Marathi and English SEO", "Admission enquiry bots", "Everything in your name"],
   },
   quickAnswer:
-    "A Latur business can launch a website with us from ₹10,000 in one to two weeks. A 700+ page SEO website starts at ₹20,000, WhatsApp and AI automation at ₹40,000, and an online store for dal, oil or food products at ₹50,000. We are a remote team, you own the domain and code, and maintenance is free for five months.",
+    "A Latur business can launch a website with us from ₹10,000 in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp and AI automation at ₹40,000, and an online store for dal, oil or food products at ₹50,000. We are a remote team, you own the domain and code, and maintenance is free for five months.",
   snapshot: [
     { label: "Trade", value: "India's largest soybean trading centre, with a strong market in tur, urad, moong and chana" },
     { label: "Industrial areas", value: "Latur MIDC of about 263 hectares and Additional MIDC Latur of about 1,077 hectares, plus estates at Ausa, Ahmedpur and Nilanga" },
@@ -107,7 +107,7 @@ const latur: CityContent = {
       ],
       list: [
         "<strong>₹10,000 upward, 1–2 weeks:</strong> a small website for a shop, clinic, tutor or professional.",
-        "<strong>₹20,000 upward, 3–5 weeks:</strong> 700+ SEO pages for mills, traders, classes and hospitals.",
+        "<strong>₹20,000 upward, 3–5 weeks:</strong> 299+ SEO pages for mills, traders, classes and hospitals.",
         "<strong>₹40,000 upward, 2–4 weeks:</strong> WhatsApp and AI automation for rates, admissions and orders.",
         "<strong>₹50,000 upward, 4–8 weeks:</strong> an online store for dal, oil, spices or packaged food with UPI.",
         "<strong>₹60,000 upward, 6–12 weeks:</strong> custom software such as lot tracking or dealer portals.",
@@ -215,7 +215,7 @@ const latur: CityContent = {
     {
       question: "How much does a website cost in Latur?",
       answer:
-        "A small website starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. You receive an itemised written quote in about two working days, and we bill nothing until you approve it.",
+        "A small website starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. You receive an itemised written quote in about two working days, and we bill nothing until you approve it.",
     },
     {
       question: "Latur madhye amchya dukanachi website banvaychi aahe, kiti kharcha yeil?",
@@ -275,7 +275,7 @@ const latur: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A small site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having product details, photos and basic text ready before we start is the biggest thing that speeds a project up.",
+        "A small site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having product details, photos and basic text ready before we start is the biggest thing that speeds a project up.",
     },
     {
       question: "Do you promise to rank my website first on Google?",

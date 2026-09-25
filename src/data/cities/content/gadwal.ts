@@ -39,7 +39,7 @@ const gadwal: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Gadwal saree web stores", "Seed and ginning records", "Every login in your name"],
   },
   quickAnswer:
-    "A Gadwal business website from us begins at ₹10,000 and normally takes one to two weeks. Android and iOS apps start at ₹40,000, the same as AI automation. SEO sites with 700+ pages begin at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We have no Gadwal office; our remote team registers every account in your name.",
+    "A Gadwal business website from us begins at ₹10,000 and normally takes one to two weeks. Android and iOS apps start at ₹40,000, the same as AI automation. SEO sites with 299+ pages begin at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We have no Gadwal office; our remote team registers every account in your name.",
   snapshot: [
     { label: "Status", value: "Headquarters of Jogulamba Gadwal district, about 188 km from Hyderabad and 59 km from Kurnool" },
     { label: "River", value: "Stands near the Krishna, with the Priyadarshini Jurala Project roughly 11 km away" },
@@ -168,7 +168,7 @@ const gadwal: CityContent = {
       heading: "Website cost in Gadwal: what the starting prices cover",
       paragraphs: [
         "Asking three people about <strong>website cost in Gadwal</strong> can produce three wildly different answers. Local quotes vary widely, and the gap usually comes from what is quietly left out. Check who owns the domain, whether hosting renews at your cost after year one, how many pages and product photos are included, whether Telugu writing is part of the job, and who you call when something breaks.",
-        "Our floor prices are published so you can compare. Static sites of up to 100 pages begin at ₹10,000 with delivery in one to two weeks. SEO sites running to 700+ pages begin at ₹20,000 over three to five weeks, useful for saree sellers with large catalogues. Apps for Android and iOS and AI automation each begin at ₹40,000. Ecommerce begins at ₹50,000 and custom software at ₹60,000. The <a href=\"/pricing/\">pricing page</a> has the breakdown.",
+        "Our floor prices are published so you can compare. Static sites of up to 100 pages begin at ₹10,000 with delivery in one to two weeks. SEO sites running to 299+ pages begin at ₹20,000 over three to five weeks, useful for saree sellers with large catalogues. Apps for Android and iOS and AI automation each begin at ₹40,000. Ecommerce begins at ₹50,000 and custom software at ₹60,000. The <a href=\"/pricing/\">pricing page</a> has the breakdown.",
         "Extra cost comes from product volume, bilingual content, payment and courier links, Tally sync, user logins and app screens. Savings come from supplying your own content and launching a smaller first version.",
         "The itemised quote reaches you in around two working days, and we bill only after your written approval.",
       ],
@@ -222,7 +222,7 @@ const gadwal: CityContent = {
     {
       question: "What is the website cost in Gadwal?",
       answer:
-        "Static sites begin at ₹10,000, SEO sites of 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. Each figure is a starting point. Saree photo counts, Telugu copy, integrations and logins change the total. You receive the quote line by line in writing, and nothing is invoiced before you approve.",
+        "Static sites begin at ₹10,000, SEO sites of 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. Each figure is a starting point. Saree photo counts, Telugu copy, integrations and logins change the total. You receive the quote line by line in writing, and nothing is invoiced before you approve.",
     },
     {
       question: "Do you build Android and iOS apps for Gadwal businesses?",

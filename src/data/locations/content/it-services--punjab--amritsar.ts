@@ -173,7 +173,7 @@ const content: CityContent = {
       paragraphs: [
         "SEO for an Amritsar business means showing up when pilgrims, tourists and buyers search for what you offer, and being named correctly when they ask AI assistants for recommendations. Travel searches in particular are increasingly answered by AI Overviews, so clear, factual pages with distances, timings and prices matter more than ever.",
         "We build pages for each room type, tour, product or service, and for the areas you serve, each with a short direct answer at the top and structured data underneath. Local SEO covers your Google Business Profile, consistent contact details across listings and review requests after each stay or trip.",
-        "Monthly SEO starts at ₹10,000, and a 700+ page SEO website starts at ₹20,000. Results usually build over three to six months, and we never guarantee rankings. For a website-and-SEO focused view, see our <a href='/amritsar/'>Amritsar page</a> and our <a href='/services/seo-services/'>SEO services</a>.",
+        "Monthly SEO starts at ₹10,000, and a 299+ page SEO website starts at ₹20,000. Results usually build over three to six months, and we never guarantee rankings. For a website-and-SEO focused view, see our <a href='/amritsar/'>Amritsar page</a> and our <a href='/services/seo-services/'>SEO services</a>.",
       ],
     },
     {
@@ -189,7 +189,7 @@ const content: CityContent = {
       id: "cost-amritsar",
       heading: "How much do freelance software developers in Amritsar cost?",
       paragraphs: [
-        "BtechWaleTech's starting prices for Amritsar clients are ₹60,000 for custom software or a web app, ₹40,000 for AI or WhatsApp automation, ₹50,000 for an online store, ₹10,000 for a website and ₹20,000 for a 700+ page SEO website. Monthly SEO is from ₹10,000 and maintenance from ₹8,000 a month after five free months.",
+        "BtechWaleTech's starting prices for Amritsar clients are ₹60,000 for custom software or a web app, ₹40,000 for AI or WhatsApp automation, ₹50,000 for an online store, ₹10,000 for a website and ₹20,000 for a 299+ page SEO website. Monthly SEO is from ₹10,000 and maintenance from ₹8,000 a month after five free months.",
         "The final figure depends on features, integrations and how much content and data are ready. A small guest-house system sits near the starting price; a hotel with a booking engine, housekeeping app and channel tracking costs more. The quote is itemised so you can phase work over time.",
         "Clients pay us in INR, only by UPI through our QR code or by direct bank transfer to our bank account. Bigger projects are split into milestones paid after you review working software.",
       ],
@@ -199,7 +199,7 @@ const content: CityContent = {
         "Online store: from ₹50,000, four to eight weeks",
         "Android and iOS app: from ₹40,000, six to ten weeks",
         "Website: from ₹10,000, one to two weeks",
-        "700+ page SEO website: from ₹20,000, three to five weeks",
+        "299+ page SEO website: from ₹20,000, three to five weeks",
       ],
     },
     {

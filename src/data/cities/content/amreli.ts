@@ -35,7 +35,7 @@ const amreli: CityContent = {
     pills: ["Websites from ₹10,000", "Gujarati and English pages", "Trader and oil mill sites", "Clinic and school sites", "5 months free maintenance"],
   },
   quickAnswer:
-    "An Amreli business can get a static website from us starting at ₹10,000, usually ready in one to two weeks. SEO websites of 700+ pages start at ₹20,000, WhatsApp or AI automation at ₹40,000, and online stores at ₹50,000. We are a remote team with no Amreli office, and maintenance is free for the first five months.",
+    "An Amreli business can get a static website from us starting at ₹10,000, usually ready in one to two weeks. SEO websites of 299+ pages start at ₹20,000, WhatsApp or AI automation at ₹40,000, and online stores at ₹50,000. We are a remote team with no Amreli office, and maintenance is free for the first five months.",
   snapshot: [
     { label: "Position", value: "District headquarters in Saurashtra, Gujarat; the city had about 1.18 lakh people in 2011" },
     { label: "History", value: "Developed under Gaekwad rule of Baroda; introduced free, compulsory education in 1886" },
@@ -160,7 +160,7 @@ const amreli: CityContent = {
       heading: "Budgeting for a website in Amreli",
       paragraphs: [
         "For most Amreli shops and clinics, the first step is a static website of up to 100 pages, which costs from ₹10,000 and goes live in one to two weeks. That covers the essentials: who you are, what you sell or treat, your timings, a map and a WhatsApp button.",
-        "Traders and manufacturers with long product lists, such as a Savarkundla scale maker with many models or a dealer with stockists in several talukas, usually need the SEO website of 700+ pages, from ₹20,000 over three to five weeks. An online store with UPI and Razorpay starts at ₹50,000, and custom software, for example an oil mill register or a diamond lot tracker, starts at ₹60,000.",
+        "Traders and manufacturers with long product lists, such as a Savarkundla scale maker with many models or a dealer with stockists in several talukas, usually need the SEO website of 299+ pages, from ₹20,000 over three to five weeks. An online store with UPI and Razorpay starts at ₹50,000, and custom software, for example an oil mill register or a diamond lot tracker, starts at ₹60,000.",
         "WhatsApp or AI automation is priced from ₹40,000, and ongoing SEO from ₹10,000 per month. Once the five free maintenance months end, care continues from ₹8,000 a month, or you pay only when you ask for a change. The <a href=\"/pricing/\">pricing page</a> lays these out side by side.",
         "What moves the number is scope: extra languages, more products, links to Tally or a billing system, special features. We put every item in a written quote, usually within two working days, and nothing is charged until you sign off. If a cheaper option meets your need, we recommend it first.",
       ],
@@ -214,7 +214,7 @@ const amreli: CityContent = {
     {
       question: "How much does a website cost in Amreli?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. The final price depends on pages, languages and features. We send an itemised written quote within about two working days and bill nothing until you approve it.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. The final price depends on pages, languages and features. We send an itemised written quote within about two working days and bill nothing until you approve it.",
     },
     {
       question: "Amreli ma website banavvano kharch ketlo thay?",
@@ -244,7 +244,7 @@ const amreli: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. Most delays come from waiting for photographs and content, so we send a checklist on the first day.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. Most delays come from waiting for photographs and content, so we send a checklist on the first day.",
     },
     {
       question: "Do you build software for diamond polishing units?",

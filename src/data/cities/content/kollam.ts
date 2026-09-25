@@ -35,7 +35,7 @@ const kollam: CityContent = {
     pills: ["Sites from ₹10,000", "Export-ready catalogues", "Malayalam and English pages", "WhatsApp enquiry flows", "5 months free upkeep"],
   },
   quickAnswer:
-    "A business website in Kollam costs from ₹10,000 with us, and a 700+ page SEO website from ₹20,000, usually live in one to five weeks. Online stores start at ₹50,000. We are a remote three-person engineering team with no Kollam office, and every build includes hosting setup, basic SEO and five months of free maintenance.",
+    "A business website in Kollam costs from ₹10,000 with us, and a 299+ page SEO website from ₹20,000, usually live in one to five weeks. Online stores start at ₹50,000. We are a remote three-person engineering team with no Kollam office, and every build includes hosting setup, basic SEO and five months of free maintenance.",
   snapshot: [
     { label: "Commercial core", value: "Chinnakada and the clock tower junction, Main Road, Kadappakada, Asramam and Polayathode" },
     { label: "Signature industry", value: "Cashew processing and export; the Cashew Export Promotion Council of India is headquartered at Mundakkal" },
@@ -73,12 +73,12 @@ const kollam: CityContent = {
       heading: "Website prices in Kollam, explained line by line",
       paragraphs: [
         "Ask five developers in Kollam for a quote on a small business site and the numbers will likely range from a few thousand rupees to fifty thousand or more. The cheapest offers often rely on a borrowed template hosted on the developer's own account, with no search setup at all. The expensive ones frequently include office overheads and sales commission that add nothing to the finished site.",
-        "Our starting prices are published openly. A static site of up to 100 pages begins at ₹10,000 and takes one to two weeks. A search-focused site of 700+ pages, with a page for each service and each area you genuinely serve, begins at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, automation projects at ₹40,000 and custom web applications at ₹60,000. Ongoing SEO is from ₹10,000 a month. See the <a href=\"/pricing/\">pricing page</a> for what each tier includes.",
+        "Our starting prices are published openly. A static site of up to 100 pages begins at ₹10,000 and takes one to two weeks. A search-focused site of 299+ pages, with a page for each service and each area you genuinely serve, begins at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, automation projects at ₹40,000 and custom web applications at ₹60,000. Ongoing SEO is from ₹10,000 a month. See the <a href=\"/pricing/\">pricing page</a> for what each tier includes.",
         "The final figure depends on things you can control: how many pages, how many products, whether copy and photos exist, and whether you need Malayalam versions. You receive an itemised quote within about two working days, and nothing is charged until you approve it in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> a clean a site of up to 100 pages for a clinic, lawyer, tuition centre or showroom, with enquiry form and basic SEO.",
-        "<strong>From ₹20,000:</strong> a 700+ page site built around real Kollam searches, with schema, sitemap and service pages.",
+        "<strong>From ₹20,000:</strong> a 299+ page site built around real Kollam searches, with schema, sitemap and service pages.",
         "<strong>From ₹50,000:</strong> an online store for cashew packs, bakery items, handloom or dried fish with UPI checkout.",
         "<strong>From ₹60,000:</strong> portals and dashboards for processors, exporters and distributors.",
       ],
@@ -209,7 +209,7 @@ const kollam: CityContent = {
     {
       question: "How much does a website cost in Kollam?",
       answer:
-        "With us, a static business website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Quotes around Kollam vary widely for similar work, so compare what is included: search setup, who owns the hosting, and how long support lasts after launch.",
+        "With us, a static business website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Quotes around Kollam vary widely for similar work, so compare what is included: search setup, who owns the hosting, and how long support lasts after launch.",
     },
     {
       question: "Kollathu oru website undakkan ethra chilavakum?",
@@ -239,7 +239,7 @@ const kollam: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. The biggest delays usually come from waiting for photos and product details, so we draft starter text you can correct rather than waiting for blank pages.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. The biggest delays usually come from waiting for photos and product details, so we draft starter text you can correct rather than waiting for blank pages.",
     },
     {
       question: "Can you set up online payments for customers in the Gulf?",

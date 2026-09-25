@@ -34,7 +34,7 @@ const roorkee: CityContent = {
     pills: ["Static sites from ₹10,000", "Instrument catalogues", "Pharma vendor profiles", "Hindi and English pages", "Replies seven days a week"],
   },
   quickAnswer:
-    "A basic business website for a Roorkee shop, clinic or workshop starts at ₹10,000 with us and usually goes live in one to two weeks. A 700+ page SEO site starts at ₹20,000, AI automation at ₹40,000 and an online store at ₹50,000. We are three engineers working remotely, with no Roorkee office, and include five months of free maintenance.",
+    "A basic business website for a Roorkee shop, clinic or workshop starts at ₹10,000 with us and usually goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, AI automation at ₹40,000 and an online store at ₹50,000. We are three engineers working remotely, with no Roorkee office, and include five months of free maintenance.",
   snapshot: [
     { label: "Where it sits", value: "A city in Haridwar district, Uttarakhand, about 31 km from Haridwar on the road towards Delhi and Saharanpur" },
     { label: "Engineering heritage", value: "Thomason College, formally constituted in 1847, became IIT Roorkee in 2001; CSIR-CBRI also works from the city" },
@@ -72,12 +72,12 @@ const roorkee: CityContent = {
       heading: "What a website costs in Roorkee, and what the price should cover",
       paragraphs: [
         "Quotes in Roorkee range widely. Students and freelancers from the campuses will sometimes offer a site for a few thousand rupees, and agencies in Dehradun or Delhi may ask several times our price. The cheap version is often a template with no search setup, hosted on the builder's own account. The expensive version may be fine, but you should know what you are paying for.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website, where each product, service or area gets its own page, starts at ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts at ₹40,000, an ecommerce store at ₹50,000 and a custom web application at ₹60,000. Monthly SEO work starts at ₹10,000 a month.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website, where each product, service or area gets its own page, starts at ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts at ₹40,000, an ecommerce store at ₹50,000 and a custom web application at ₹60,000. Monthly SEO work starts at ₹10,000 a month.",
         "Every one of these is a floor, not a fixed figure. An instrument maker with 40 products and good photographs needs less work than one with 400 items and only a printed price list. You get an itemised quote in about two working days, you can remove anything you don't need, and billing starts only after you approve it in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form, map, basic on-page SEO. Suits shops, clinics, tutors, PGs and small workshops.",
-        "<strong>From ₹20,000:</strong> 700+ pages built around real searches. Suits instrument catalogues, pharma vendors and multi-service firms.",
+        "<strong>From ₹20,000:</strong> 299+ pages built around real searches. Suits instrument catalogues, pharma vendors and multi-service firms.",
         "<strong>From ₹50,000:</strong> online store with cart, UPI and card payments through Razorpay. Suits instrument and lab-supply sellers.",
         "<strong>From ₹60,000:</strong> custom software with logins and dashboards. Suits manufacturers, institutes and contractors.",
       ],
@@ -217,12 +217,12 @@ const roorkee: CityContent = {
     {
       question: "How much does a website cost in Roorkee?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO site at ₹20,000, an ecommerce store at ₹50,000 and a custom web application at ₹60,000. These are starting prices; the final quote depends on pages, products and features. Compare other quotes on whether they include SEO basics, hosting in your name and support after launch.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO site at ₹20,000, an ecommerce store at ₹50,000 and a custom web application at ₹60,000. These are starting prices; the final quote depends on pages, products and features. Compare other quotes on whether they include SEO basics, hosting in your name and support after launch.",
     },
     {
       question: "Roorkee me website banwane ka kharcha kitna hai?",
       answer:
-        "Humare saath simple business website ₹10,000 se shuru hoti hai aur 1–2 hafte mein ban jaati hai. 700+ page wali SEO website ₹20,000 se aur online store ₹50,000 se shuru hota hai. Aapko pehle likhit, item-wise quote milta hai, aur aapki manzoori ke bina koi bill nahi banta.",
+        "Humare saath simple business website ₹10,000 se shuru hoti hai aur 1–2 hafte mein ban jaati hai. 299+ page wali SEO website ₹20,000 se aur online store ₹50,000 se shuru hota hai. Aapko pehle likhit, item-wise quote milta hai, aur aapki manzoori ke bina koi bill nahi banta.",
     },
     {
       question: "Do you have an office in Roorkee?",
@@ -247,7 +247,7 @@ const roorkee: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, AI automation two to four weeks, an online store four to eight weeks and custom software six to twelve. The biggest delays are usually photos and product details, so we send a simple checklist and draft text for you to review.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, AI automation two to four weeks, an online store four to eight weeks and custom software six to twelve. The biggest delays are usually photos and product details, so we send a simple checklist and draft text for you to review.",
     },
     {
       question: "Can my website be in Hindi as well as English?",

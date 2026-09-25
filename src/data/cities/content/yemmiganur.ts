@@ -35,7 +35,7 @@ const yemmiganur: CityContent = {
     pills: ["Websites from ₹10,000", "Handloom product stores", "Telugu and English", "UPI and Razorpay payments", "WhatsApp order replies"],
   },
   quickAnswer:
-    "In Yemmiganur, a static business website with us starts at ₹10,000 and is ready in one to two weeks. A 700+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000, a handloom store at ₹50,000 and custom software at ₹60,000. We work remotely with no local office and include five months of free maintenance.",
+    "In Yemmiganur, a static business website with us starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000, a handloom store at ₹50,000 and custom software at ₹60,000. We work remotely with no local office and include five months of free maintenance.",
   snapshot: [
     { label: "Where it is", value: "Municipal town in Kurnool district, Adoni revenue division, in the Rayalaseema region of Andhra Pradesh" },
     { label: "Signature product", value: "Yemmiganur handloom, Kurnool district's product under the One District One Product programme" },
@@ -73,12 +73,12 @@ const yemmiganur: CityContent = {
       heading: "What websites, apps and automation cost in Yemmiganur",
       paragraphs: [
         "Quotes for a website in and around Kurnool district range from very cheap templates to agency proposals from Kurnool, Anantapur or Hyderabad. The number on the quote tells you little by itself. Compare what you actually receive: whose name the domain is in, how many pages are written, whether search basics are set up and what support costs after launch.",
-        "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static website with up to 100 pages starts at ₹10,000 and is usually live in one to two weeks. An SEO site with 700+ pages starts at ₹20,000 and takes three to five weeks. Automation starts at ₹40,000, an online store at ₹50,000 and custom web software at ₹60,000. Monthly SEO work starts from ₹10,000.",
+        "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static website with up to 100 pages starts at ₹10,000 and is usually live in one to two weeks. An SEO site with 299+ pages starts at ₹20,000 and takes three to five weeks. Automation starts at ₹40,000, an online store at ₹50,000 and custom web software at ₹60,000. Monthly SEO work starts from ₹10,000.",
         "A unit showing twelve towel designs needs far less work than a trader listing four hundred items across sizes and colours, so your quote will reflect your scope, written line by line.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> static site for shops, clinics, tutors and small weaving units.",
-        "<strong>From ₹20,000:</strong> 700+ page SEO site for traders and manufacturers.",
+        "<strong>From ₹20,000:</strong> 299+ page SEO site for traders and manufacturers.",
         "<strong>From ₹40,000:</strong> WhatsApp and AI automation for enquiries and reorders.",
         "<strong>From ₹50,000:</strong> online store with UPI, cards and courier options.",
         "<strong>From ₹60,000:</strong> custom software for production, stock and billing.",
@@ -229,12 +229,12 @@ const yemmiganur: CityContent = {
     {
       question: "How much does a website cost in Yemmiganur?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices and your quote depends on scope. When comparing other quotes, check domain ownership, SEO basics and after-launch support, not just the price.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices and your quote depends on scope. When comparing other quotes, check domain ownership, SEO basics and after-launch support, not just the price.",
     },
     {
       question: "Yemmiganur lo website cheyinchukovadaniki entha kharchu avutundi?",
       answer:
-        "Maa daggara simple website ₹10,000 nundi modalavutundi, 700+ pages unna SEO website ₹20,000 nundi, online store ₹50,000 nundi. Final dhara mee pages, features batti untundi. Pani modalupettadaniki mundu raatha poorvakamga itemised quote istamu, meeru approve chesina tarvate bill chestamu.",
+        "Maa daggara simple website ₹10,000 nundi modalavutundi, 299+ pages unna SEO website ₹20,000 nundi, online store ₹50,000 nundi. Final dhara mee pages, features batti untundi. Pani modalupettadaniki mundu raatha poorvakamga itemised quote istamu, meeru approve chesina tarvate bill chestamu.",
     },
     {
       question: "Do you have an office in Yemmiganur?",
@@ -269,7 +269,7 @@ const yemmiganur: CityContent = {
     {
       question: "How long does a project take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, automation two to four weeks, an online store four to eight weeks and custom software six to twelve weeks. The biggest delay is usually photos and text, so we help you prepare both.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, automation two to four weeks, an online store four to eight weeks and custom software six to twelve weeks. The biggest delay is usually photos and text, so we help you prepare both.",
     },
     {
       question: "Will I own the domain and website code?",

@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "@layouts/BaseLayout.astro";
+import { countryPageLinks } from "@data/keywords/page-links";
 import { createPageSeo } from "@lib/seo/seo-config";
 import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
 import { breadcrumbListSchema, faqSchema } from "@lib/schema/schema";
@@ -29,7 +30,7 @@ const faqs = [
   },
   {
     question: "How much does it cost to hire a web developer for a US business?",
-    answer: `With us, a static business website starts from ${P.site}, a 700+ page SEO website from ${P.seoSite}, AI automation from ${P.ai}, an ecommerce store from ${P.shop} and a custom web app from ${P.app}. Monthly SEO starts from ${P.seo} and maintenance from ${P.care}. These are all starting prices in US dollars; the final quote depends on your requirements and arrives itemized before any work begins.`,
+    answer: `With us, a static business website starts from ${P.site}, a 299+ page SEO website from ${P.seoSite}, AI automation from ${P.ai}, an ecommerce store from ${P.shop} and a custom web app from ${P.app}. Monthly SEO starts from ${P.seo} and maintenance from ${P.care}. These are all starting prices in US dollars; the final quote depends on your requirements and arrives itemized before any work begins.`,
   },
   {
     question: "Why are your prices so much lower than a US agency?",
@@ -85,7 +86,7 @@ const faqs = [
   },
   {
     question: "How long does a website project take?",
-    answer: "A static website usually takes one to two weeks, a 700+ page SEO website three to five weeks, AI automation two to four weeks, an ecommerce store four to eight weeks and a custom web app six to twelve weeks. Content arriving on time and quick approvals on your side are the biggest factors in hitting these timelines.",
+    answer: "A static website usually takes one to two weeks, a 299+ page SEO website three to five weeks, AI automation two to four weeks, an ecommerce store four to eight weeks and a custom web app six to twelve weeks. Content arriving on time and quick approvals on your side are the biggest factors in hitting these timelines.",
   },
   {
     question: "Can you work alongside our in-house developers or marketing agency?",
@@ -369,7 +370,7 @@ const guide = [
     ],
     list: [
       `<strong>From ${P.site}, static website:</strong> a service business, practice or consultancy with a home page, service pages, about, contact and a gallery, up to 100 pages, using content you supply, with forms, basic SEO tags and a sitemap.`,
-      `<strong>From ${P.seoSite}, SEO website of 700+ pages:</strong> a structured site built around search intent, such as a home services company with many service and suburb combinations, or a catalog of product types, planned with keywords, schema and internal linking.`,
+      `<strong>From ${P.seoSite}, SEO website of 299+ pages:</strong> a structured site built around search intent, such as a home services company with many service and suburb combinations, or a catalog of product types, planned with keywords, schema and internal linking.`,
       `<strong>From ${P.ai}, AI automation:</strong> one well-defined workflow, for example inbound leads from your site and ads qualified, routed into the CRM and followed up automatically, with a person approving anything customer-facing.`,
       `<strong>From ${P.shop}, ecommerce store:</strong> product and category pages, cart, checkout, payment setup, sales tax configuration, order and inventory basics and performance tuning, for a catalog you supply in a structured sheet.`,
       `<strong>From ${P.app}, custom web app:</strong> a focused first version of a portal, dashboard, booking tool or SaaS MVP with user accounts, roles, an admin panel and deployment.`,
@@ -590,6 +591,7 @@ const webPageSchema = {
   about: { "@id": `${url}#service` },
   speakable: { "@type": "SpeakableSpecification", cssSelector: ["#quick-answer", "h1"] },
 };
+const servicePages = countryPageLinks("usa");
 ---
 
 <BaseLayout meta={page} schema={[webPageSchema, professionalServiceSchema, breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs)]}>
@@ -928,6 +930,21 @@ const webPageSchema = {
       </div>
     </div>
   </section>
+
+  <!-- ===================== SERVICE PAGES ===================== -->
+  {servicePages.length > 0 && (
+    <section class="locations" aria-labelledby="service-pages-heading">
+      <div class="section-wrap">
+        <div class="section-head">
+          <p class="eyebrow">Services and guides</p>
+          <h2 id="service-pages-heading">Everything we build for US businesses</h2>
+        </div>
+        <div class="city-cloud">
+          {servicePages.map((p) => <a class="city-chip" href={p.href}>{p.name}</a>)}
+        </div>
+      </div>
+    </section>
+  )}
 
   <!-- ===================== RELATED ===================== -->
   <section class="locations" aria-labelledby="related-heading">

@@ -35,7 +35,7 @@ const nandurbar: CityContent = {
     pills: ["Websites from ₹10,000", "Chilli and amchur sellers", "Marathi, Hindi and Gujarati", "WhatsApp order capture", "All code handed over"],
   },
   quickAnswer:
-    "In Nandurbar, a business website with us starts at ₹10,000 and is ready in one to two weeks. A 700+ page SEO site starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team, you own the domain and code, and five months of maintenance after launch are free.",
+    "In Nandurbar, a business website with us starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team, you own the domain and code, and five months of maintenance after launch are free.",
   snapshot: [
     { label: "Location", value: "North-west Maharashtra; the district borders Gujarat and Madhya Pradesh, with the Narmada on its northern edge and the Tapi close to the city" },
     { label: "District", value: "Formed on 1 July 1998 from Dhule; six talukas: Nandurbar, Shahada, Navapur, Taloda, Akkalkuwa and Dhadgaon" },
@@ -107,7 +107,7 @@ const nandurbar: CityContent = {
       ],
       list: [
         "<strong>Business website — from ₹10,000, 1–2 weeks.</strong> Shops, clinics, schools and professionals.",
-        "<strong>SEO website with 700+ pages — from ₹20,000, 3–5 weeks.</strong> Traders, hospitals and organisations serving the whole district.",
+        "<strong>SEO website with 299+ pages — from ₹20,000, 3–5 weeks.</strong> Traders, hospitals and organisations serving the whole district.",
         "<strong>AI and WhatsApp automation — from ₹40,000, 2–4 weeks.</strong> Rate broadcasts, order capture and admission replies.",
         "<strong>Online store — from ₹50,000, 4–8 weeks.</strong> Chilli powder, amchur and masalas with UPI payments.",
         "<strong>Custom software or field app — from ₹60,000, 6–12 weeks.</strong> Purchase ledgers and offline data collection.",
@@ -218,7 +218,7 @@ const nandurbar: CityContent = {
     {
       question: "How much does a website cost in Nandurbar?",
       answer:
-        "A business website starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. We send an itemised quote in about two working days and bill nothing until you approve it in writing.",
+        "A business website starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. We send an itemised quote in about two working days and bill nothing until you approve it in writing.",
     },
     {
       question: "Nandurbar madhe maza mirchi cha dhandha aahe, website banvayla kiti kharcha yeil?",

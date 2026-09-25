@@ -1,0 +1,490 @@
+import { usd } from "@data/countries/international";
+import type { FreelanceContent } from "@data/freelance/types";
+
+const P = {
+  site: usd("Static"), seoSite: usd("SEO website"), shop: usd("Ecommerce"), app: usd("Android"),
+  software: usd("Custom web app"), ai: usd("AI automation"), seo: usd("Monthly SEO"), care: usd("Maintenance"),
+};
+
+const content: FreelanceContent = {
+  path: "/netherlands/b2b-webshop-development/",
+  crumb: "B2B webshop development",
+  updated: "2026-09-25",
+  meta: {
+    title: `B2B Webshop Development for Wholesalers from ${P.shop}`,
+    description: `B2B webshop development for Dutch wholesalers: customer price lists, staffel pricing, ordering on account, Exact or AFAS sync, UBL export. From ${P.shop}.`,
+    keywords: [
+      "b2b webshop development", "b2b webshop development netherlands", "b2b webshop laten maken", "b2b webshop groothandel",
+      "wholesale webshop netherlands", "b2b ordering portal", "customer specific pricing webshop", "staffelprijzen webshop",
+      "staffel pricing b2b", "ordering on account webshop", "op rekening bestellen b2b", "b2b webshop credit limit",
+      "b2b webshop exact online koppeling", "b2b webshop afas koppeling", "ubl invoice export webshop", "shopify b2b netherlands",
+      "woocommerce b2b plugin", "custom b2b portal development", "how much does a b2b webshop cost", "b2b vs b2c webshop difference",
+      "b2b webshop amsterdam", "b2b webshop rotterdam", "b2b webshop eindhoven", "b2b webshop utrecht",
+      "b2b ecommerce for manufacturers", "b2b webshop developer india",
+    ],
+  },
+  hero: {
+    eyebrow: "Wholesale and manufacturer ordering, built remotely",
+    h1: "B2B webshop development for Dutch wholesalers who still take orders by phone",
+    lede: `B2B webshop development turns the orders your sales desk types in from calls, emails and PDFs into a portal where trade customers log in, see their own prices and order on account. BtechWaleTech is three freelance developers in India building these for Dutch groothandels and manufacturers: customer price lists, staffel pricing, credit limits, stock from <a href='/netherlands/exact-online-integration/'>Exact Online</a> or AFAS, and UBL invoices. Webshop builds start from ${P.shop}; portals with heavier logic from ${P.software}.`,
+    pills: ["Customer-specific prices", "Staffel (tiered) pricing", "Order op rekening", "Credit limits", "Exact or AFAS sync", "UBL invoice export", "Quick order and CSV upload"],
+    origin: "Small freelance team in India · English on calls, WhatsApp any day · your platform, your data",
+  },
+  facts: [
+    ["B2B webshop on Shopify or WooCommerce from", `${P.shop}, 4–8 weeks`],
+    ["Custom B2B portal from", `${P.software}, 6–12 weeks`],
+    ["Pricing logic", "Per customer, per group and by quantity (staffels)"],
+    ["Payment", "On account with terms, or iDEAL and cards for new buyers"],
+    ["Back office", "Exact Online, AFAS or another ERP with an API"],
+    ["After go-live", `5 free months, then care from ${P.care}`],
+  ],
+  stats: [
+    { value: "3", label: "Developers who know the whole portal" },
+    { value: "2", label: "Working days to an itemised quote" },
+    { value: "5", label: "Months of free care after launch" },
+    { value: "0", label: "Invoices before written approval" },
+  ],
+  answer: {
+    heading: "What does B2B webshop development involve for a Dutch wholesaler?",
+    text: `B2B webshop development builds a login-only shop where each trade customer sees its own price list and staffel discounts, orders on account within a credit limit, and gets stock and invoices synced from Exact or AFAS. Choose Shopify B2B, WooCommerce B2B or a custom portal by pricing complexity. BtechWaleTech builds start from ${P.shop}; custom portals from ${P.software}.`,
+    more: `The ERP side has its own guide: <a href='/netherlands/exact-online-integration/'>Exact Online integration</a>. Selling on marketplaces too? See <a href='/netherlands/bol-com-api-integration/'>bol.com API integration</a>.`,
+  },
+  snapshot: {
+    caption: "A wholesale webshop project in seven lines",
+    rows: [
+      { label: "Who it is for", value: "Groothandels, manufacturers and importers selling to shops, installers, horeca or other businesses" },
+      { label: "Platform webshop", value: `Shopify B2B or WooCommerce with B2B logic, from ${P.shop}` },
+      { label: "Custom portal", value: `For complex price rules or ERP-driven catalogues, from ${P.software}` },
+      { label: "Prices", value: "Price list per customer or group, staffels by quantity, net prices after login" },
+      { label: "Payment", value: "Invoice on account with terms and credit limit; iDEAL or card for first orders" },
+      { label: "Integrations", value: "Stock, orders, relations and invoices with Exact Online or AFAS" },
+      { label: "Timeline", value: "4–8 weeks on a platform, 6–12 weeks for a custom portal" },
+    ],
+  },
+  services: {
+    eyebrow: "Scope options",
+    heading: "What B2B webshop development can cover for a Dutch groothandel",
+    note: "Pick the parts that remove the most manual work from your order desk first. Everything else can come in a second phase.",
+    cards: [
+      { name: "B2B webshop on Shopify", note: `Companies, locations, catalogues, quantity rules and payment terms configured on Shopify's B2B features, with your theme adjusted for trade buyers, from ${P.shop}.`, href: "/netherlands/shopify-developer/", size: "lg" },
+      { name: "Custom B2B ordering portal", note: `A login-only portal driven by your ERP: price agreements, credit checks, order approval flows and multiple delivery addresses per customer, from ${P.software}.`, href: "/netherlands/custom-software-development/", size: "lg" },
+      { name: "WooCommerce B2B build", note: "Role-based pricing, hidden prices for guests, tax-exempt handling where valid and quote requests, on WordPress hosting you own.", href: "/netherlands/woocommerce-developer/", size: "md" },
+      { name: "ERP and accounting sync", note: "Articles, stock, customers, orders and invoices exchanged with Exact Online or AFAS on a schedule you can see and audit.", href: "/netherlands/exact-online-integration/", size: "md" },
+      { name: "UBL invoice export", note: "Invoices generated as UBL XML files alongside the PDF, so buyers and your accounting software can process them without retyping.", size: "md" },
+      { name: "Quick order and reorder tools", note: "Order by article number, upload a CSV, reuse a saved order list, or reorder last month's delivery in two clicks.", size: "sm" },
+      { name: "Sales rep ordering", note: "Your reps log in on behalf of a customer and place an order during a visit or call, with the customer's own prices.", size: "sm" },
+      { name: "Maintenance and changes", note: `Five months free after launch, then care from ${P.care}: updates, sync checks, price-list imports.`, size: "sm" },
+    ],
+  },
+  comparison: {
+    heading: "Your current order desk versus a B2B webshop",
+    note: "An honest view of what changes. A webshop does not replace your account managers; it removes the typing.",
+    columns: ["Aspect", "Phone, email and PDF orders", "Your ERP vendor's portal module", "B2B webshop by BtechWaleTech"],
+    rows: [
+      ["Who enters the order", "Your staff, by hand", "Customer, in the ERP's interface", "Customer, in a portal designed for buyers"],
+      ["Customer prices", "Looked up per order", "Straight from the ERP", "Synced from the ERP or managed in the shop"],
+      ["Product content and photos", "In catalogues and PDFs", "Often minimal", "Full product pages with specs and downloads"],
+      ["Opening hours", "Office hours only", "24/7", "24/7"],
+      ["Order errors", "Typos and misread handwriting", "Few", "Few; article numbers validated at entry"],
+      ["Design control", "Not applicable", "Limited to vendor options", "Built around your catalogue and buyers"],
+      ["Cost pattern", "Staff time on every order", "Licence per the vendor's terms", `Build from ${P.shop}; portal from ${P.software}`],
+      ["Found on Google", "No", "Rarely", "Public catalogue pages can be indexed; prices stay behind login"],
+    ],
+    fine: "If your ERP vendor's portal already does what your buyers need, extending it may be cheaper than a new webshop; we will say so if we think that is the case.",
+  },
+  pricing: {
+    heading: "B2B webshop development pricing",
+    note: `All prices are starting prices in USD and are itemised in writing before anything is billed. A B2B webshop on Shopify or WooCommerce with customer groups, price lists, staffels, ordering on account and a standard theme adaptation starts from ${P.shop}. A custom portal, needed when prices depend on contract rules, when the ERP must approve every order, or when catalogues differ per customer, starts from ${P.software}. ERP sync is quoted per data flow: stock, orders, customers and invoices each count as a line. Platform subscriptions, plugin licences, ERP API access and hosting are paid by you to those providers. Care after the five free months starts from ${P.care}.`,
+  },
+  guideLabel: "B2B webshop guide",
+  guide: [
+    {
+      id: "b2b-vs-b2c",
+      heading: "What is B2B webshop development, and how is it different from a normal webshop?",
+      paragraphs: [
+        `B2B webshop development is building an online shop for business buyers, where prices, payment and catalogue depend on who is logged in. A consumer webshop shows one price to everyone and asks for payment now; a wholesale webshop shows a customer's agreed price and usually sends an invoice later.`,
+        `The differences show up in almost every screen. A trade buyer at a bakery supply shop does not browse; they know the article number and want thirty boxes by Thursday. They expect the price they negotiated with your account manager, a delivery to one of several addresses, and an invoice with their purchase-order number on it. Guests who are not logged in may see the catalogue but no prices at all.`,
+      ],
+      list: [
+        "<strong>Accounts:</strong> companies with several users, each with rights such as ‘may order’ or ‘needs approval’.",
+        "<strong>Prices:</strong> per customer or group, plus staffels (tiered quantity prices), usually excluding VAT.",
+        "<strong>Payment:</strong> on account with terms, a credit limit, and sometimes iDEAL for first orders.",
+        "<strong>Ordering:</strong> quick order by article number, CSV upload, saved lists and reorders.",
+        "<strong>Back office:</strong> orders flow into the ERP; stock and invoices flow back.",
+      ],
+      after: [
+        `If your buyers are consumers, you need a different project; our <a href='/netherlands/shopify-developer/'>Shopify developer page</a> covers consumer webshops for Dutch brands.`,
+      ],
+    },
+    {
+      id: "ready",
+      heading: "When is a groothandel ready to move phone and email orders into a B2B webshop?",
+      paragraphs: [
+        `You are ready for B2B webshop development when your order desk spends most of its day retyping orders that customers could have entered themselves, and when your article and price data are clean enough to publish. If your prices live only in an account manager's head, fix that first.`,
+        `Some signs are obvious: orders arrive as photos of handwritten lists, the same customer phones three times a week for stock levels, and the order desk is the bottleneck every Monday morning. Others are hidden: mistakes in article numbers that lead to returns, credit notes for wrong prices, and new customers waiting days for an account.`,
+        `A B2B webshop development project also forces useful housekeeping. Every article needs a unique number, a unit (piece, box, pallet), a minimum order quantity and a product description. Every customer needs a price agreement that can be expressed as a rule. That cleanup is often half the value of the project, and it helps even if the webshop takes a while to be adopted.`,
+      ],
+      subs: [
+        { heading: "Ready now", text: "Clean article list in Exact or AFAS, price agreements as groups or lists, customers who already email orders." },
+        { heading: "Ready after cleanup", text: "Prices partly in spreadsheets, duplicate articles, units that differ between purchase and sale." },
+        { heading: "Not yet", text: "Every order is negotiated individually, or you have only a handful of customers placing large, rare orders." },
+      ],
+    },
+    {
+      id: "pricing-logic",
+      heading: "How should a B2B webshop handle customer price lists and staffel pricing?",
+      paragraphs: [
+        `In good B2B webshop development, each logged-in customer sees exactly the net price your agreement gives them, including quantity breaks, without any manual step. The usual structure is a base price list, customer groups with discounts, customer-specific exceptions, and staffels on top.`,
+        `Staffelprijzen are quantity tiers: one price per unit from 1, a lower price from 10, lower again from 50. In B2B webshop development the tricky part is combining rules. Does a customer discount apply before or after the staffel? Does a promotion override a contract price? Is the staffel counted per article or across a product family? We write these rules down as a small table with you before building, and test them against real orders you have already invoiced, so the webshop calculates what your invoices already say.`,
+        `Where prices live matters too. If Exact Online or AFAS already hold the customer prices, the webshop should read them from there rather than keep a second copy that drifts. If the ERP cannot express your staffels cleanly, the webshop can own the price logic and push the final price with the order.`,
+      ],
+      list: [
+        "Base list price per article, excluding VAT.",
+        "Group discount per customer category, such as installers or retailers.",
+        "Customer-specific net prices for key articles.",
+        "Staffels per article or per product family.",
+        "Date-limited promotions with a clear priority order.",
+      ],
+      after: [
+        `Before quoting we ask for five real invoices with tricky prices; if the webshop can reproduce them, the logic is right.`,
+      ],
+    },
+    {
+      id: "on-account",
+      heading: "Ordering op rekening: credit limits, payment terms and blocked accounts",
+      paragraphs: [
+        `Most trade buyers expect to order on account, so B2B webshop development always covers credit rules: they receive goods and pay the invoice within agreed terms. The webshop must know each customer's terms and credit limit, and stop or flag orders that exceed it.`,
+        `In practice the credit status comes from your accounting system. The webshop reads the open balance and limit for each customer on a schedule, and at checkout compares the new order plus the open balance against the limit. Over the limit, three responses are common: block the order, let it through as ‘pending approval’ for your credit controller, or ask the buyer to pay this order by iDEAL. You choose; we build it.`,
+        `New customers are a special case. Many wholesalers let a new account's first orders be paid upfront by iDEAL or card, then switch the account to invoice terms after a check. That check, and deciding what terms to offer, is your business decision; the webshop simply enforces what you set. Blocked accounts, for example after an unpaid invoice, should still be able to log in and see their invoices, but not order.`,
+      ],
+      subs: [
+        { heading: "Payment terms", text: "Stored per customer or group and printed on the invoice; the webshop never overrides the ERP." },
+        { heading: "Approval queue", text: "Orders over the limit wait in a list for your credit controller, with one-click release." },
+      ],
+    },
+    {
+      id: "platforms",
+      heading: "Shopify B2B, WooCommerce B2B or a custom portal: which should you choose?",
+      paragraphs: [
+        `For B2B webshop development in the Netherlands, choose Shopify B2B when your price rules fit its companies, catalogues and quantity rules; WooCommerce when you want self-hosting and plugin freedom; a custom portal when prices, approvals or catalogues are too specific for either.`,
+        `Shopify's own help centre states that <a href='https://help.shopify.com/en/manual/b2b/getting-started/plan-features' rel='noopener'>B2B is available on the Basic, Grow, Advanced and Plus plans</a>. On the plans below Plus you can assign up to three active catalogues across your B2B markets; Plus adds unlimited catalogues, catalogues assigned directly to companies, and deposits with partial payments. Quantity rules, volume pricing, net payment terms and vaulted cards are listed as available on all plans. So a wholesaler with a few customer groups may manage on a lower plan, while one with hundreds of customer-specific price lists will need Plus or a custom route.`,
+        `WooCommerce itself is consumer-first; B2B behaviour comes from plugins or custom code for roles, hidden prices, quote requests and tiered pricing. That is flexible but means more to maintain. A custom portal, built in a modern web framework against your ERP, costs more upfront but mirrors your business exactly and carries no plugin stack.`,
+      ],
+      after: [
+        `The comparison table further down lays the three options side by side. For the consumer-side debate, see our <a href='/shopify-vs-woocommerce/'>Shopify vs WooCommerce breakdown</a>.`,
+      ],
+    },
+    {
+      id: "erp-sync",
+      heading: "Syncing stock, orders and invoices with Exact Online or AFAS",
+      paragraphs: [
+        `In B2B webshop development, the webshop should never become a second administration. Articles, stock, customers and prices come from the ERP; orders go back into it; invoices and open balances come out of it for the customer's account page.`,
+        `With Exact Online, we connect through its REST API: sales orders are created in the right administration, customers are matched on their relation code, and stock is read from the item and warehouse records. With AFAS, the connection runs through the connectors AFAS provides for its software, configured in your environment. In both cases we agree which system is the master for each field, how often each flow runs, and what happens when a sync fails.`,
+        `Sync frequency is a trade-off. Stock every few minutes during office hours is usually enough for wholesale; prices can sync nightly; orders should go across within a minute of being placed. We log every sync run so your staff can see when an order reached the ERP and, if it did not, why.`,
+      ],
+      list: [
+        "Articles and descriptions: ERP to webshop, nightly or on change.",
+        "Stock per warehouse: ERP to webshop, every few minutes.",
+        "Customers, terms and credit limits: ERP to webshop, hourly.",
+        "Orders: webshop to ERP, within a minute.",
+        "Invoices and open balance: ERP to webshop account page, daily.",
+      ],
+      after: [
+        `The detailed version, including rate limits and error handling, is on the <a href='/netherlands/exact-online-integration/'>Exact Online integration page</a>.`,
+      ],
+    },
+    {
+      id: "ubl",
+      heading: "Does a B2B webshop need UBL invoice export and Peppol?",
+      paragraphs: [
+        `If some of your buyers ask for e-invoices, yes: exporting invoices as UBL XML lets their accounting software read them without retyping. If you supply the Dutch central government, the <a href='https://business.gov.nl/regulation/e-invoicing/' rel='noopener'>government's business portal says you must send an e-invoice</a>, for example through a Peppol service provider or accounting software.`,
+        `UBL (Universal Business Language) is the XML format used for most Dutch e-invoices. In many setups your accounting system already creates UBL files; then the webshop just offers them as a download next to the PDF on the customer's invoice page. When the webshop itself invoices, for instance on a custom portal, we generate the UBL file from the order and send it to your accounting software or a Peppol access provider you contract.`,
+        `Keep the division of roles clear. We build the file export and the connection; your accountant confirms the invoice content and any obligations that apply to your business. We do not give tax or invoicing advice, and we are not a Peppol access point.`,
+      ],
+      subs: [
+        { heading: "Simplest route", text: "Your ERP creates UBL invoices; the webshop shows them in the account area for download." },
+        { heading: "Portal route", text: "The portal builds UBL from each invoice and passes it to your accounting software or Peppol provider." },
+      ],
+    },
+    {
+      id: "buyer-features",
+      heading: "Which B2B webshop features do trade buyers actually use?",
+      paragraphs: [
+        `Speed features, not browsing features, are what B2B webshop development should prioritise. Buyers who order every week want to enter an article number and a quantity, repeat last week's order, and upload a list from their own system. Product pages matter for new articles; for regular purchases, the quick-order screen is the whole shop.`,
+        `When we plan B2B webshop development, we watch how your order desk receives orders today. If half arrive as emailed spreadsheets, CSV upload goes to the top of the list. If installers order from a van, the mobile quick-order screen gets the most attention. If buyers need their manager's approval, a simple approval flow saves a lot of email.`,
+      ],
+      list: [
+        "Quick order: article number and quantity, validated as you type.",
+        "Order lists: saved sets such as ‘weekly café order’ with editable quantities.",
+        "Reorder: repeat any past order, with current prices and stock.",
+        "CSV or Excel upload with a preview and error report before adding to the cart.",
+        "Purchase-order number and delivery address per order.",
+        "Multiple users per company with approval limits.",
+        "Downloads: datasheets, safety sheets and invoices per order.",
+      ],
+      after: [
+        `Features we usually leave out at first: wish lists, product reviews and consumer-style recommendations. They add screens without helping a buyer who already knows what to order.`,
+      ],
+    },
+    {
+      id: "onboarding",
+      heading: "How do new trade customers get an account?",
+      paragraphs: [
+        `Through a request form that your staff approve. The buyer enters company details, KvK number, VAT number and delivery address; your team checks them, links the account to a customer record in the ERP and assigns a price group. Only then do prices appear.`,
+        `We can pre-check part of this automatically. A VAT number from another EU country can be validated against the European Commission's VIES service before your staff see the request, and duplicate companies can be flagged by matching address and email domain. The decision to accept a customer, and on what terms, stays with you.`,
+        `For existing customers, we import the accounts from the ERP and send an invitation email with a set-password link, in Dutch or English, with text you approve. Rolling that out in waves, starting with friendly regular customers, gives you feedback before everyone gets access.`,
+      ],
+      list: [
+        "Request form with KvK and VAT fields.",
+        "Automatic VAT format and EU validation where available.",
+        "Approval screen for staff, linking the account to an ERP relation.",
+        "Invitation emails for existing customers, sent in batches.",
+      ],
+    },
+    {
+      id: "cost",
+      heading: "How much does B2B webshop development cost?",
+      paragraphs: [
+        `With BtechWaleTech, B2B webshop development starts from ${P.shop} on Shopify or WooCommerce and from ${P.software} for a custom portal. ERP sync, UBL export and approval flows are itemised as separate lines. These are starting prices; a written quote follows your scope.`,
+        `Four things drive most of the cost: how complex your price rules are, how many data flows run to and from the ERP, how many articles need cleaning and importing, and how many buyer tools you want at launch. A wholesaler with one price list per group, stock sync and quick order is at the low end. One with contract prices per customer, three warehouses, approval flows and UBL generation sits much higher.`,
+        `Running costs are separate and paid by you: the Shopify plan or WordPress hosting, plugin licences, ERP API or connector fees where your ERP vendor charges them, and a Peppol provider if you use one. Quotes from other developers and bureaus vary a lot, largely because they handle ERP sync differently; ask each one exactly which flows are included.`,
+      ],
+      after: [
+        `The cost table below breaks this into typical scopes. For consumer webshop budgets, see <a href='/netherlands/webshop-cost/'>webshop cost in the Netherlands</a>.`,
+      ],
+    },
+    {
+      id: "timeline",
+      heading: "How long does B2B webshop development take?",
+      paragraphs: [
+        `B2B webshop development takes four to eight weeks for a Shopify or WooCommerce B2B webshop and six to twelve weeks for a custom portal, counted from written approval. The biggest variable is data: clean articles and price agreements make the timeline; messy ones stretch it.`,
+        `We work in phases you can see. First comes data: an export of articles, customers and price agreements, cleaned together with you. Then the catalogue and account structure on a test environment. Then pricing and checkout logic, tested against real past invoices. Then ERP sync in a test administration. Last, a pilot with a few customers before invitations go to everyone.`,
+      ],
+      after: [
+        `The timeline table below shows each phase with its typical length. Ask for a pilot phase even if you are in a hurry; a week of real orders from friendly customers catches more than any test script.`,
+      ],
+    },
+    {
+      id: "seo",
+      heading: "Can a login-only B2B webshop still be found on Google and in AI search?",
+      paragraphs: [
+        `Yes, if the catalogue is public and only prices and ordering sit behind the login. Product pages with specifications, datasheets and categories can rank for the searches installers and shop owners actually type, and AI search tools can cite them.`,
+        `A fully closed portal is invisible to search engines, which is fine for some wholesalers who only serve existing accounts. But if you want new trade customers, publish the catalogue: a clear page per article or product family, structured data for products without public prices, and a visible ‘request a trade account’ button. Keep the pages fast, because many buyers search from a phone on site.`,
+        `We handle the technical side: crawlable categories, canonical URLs for product variants, sitemaps, Google Search Console setup and Core Web Vitals. Nobody can guarantee rankings; what you can do is make sure every article is described well enough to answer a buyer's question.`,
+      ],
+      after: [
+        `Ongoing work starts from ${P.seo} a month; details on the <a href='/netherlands/technical-seo-services/'>technical SEO services page</a>.`,
+      ],
+    },
+    {
+      id: "remote-team",
+      heading: "How does a Dutch wholesaler work with a B2B webshop team in India?",
+      paragraphs: [
+        `Mostly asynchronously, with one or two calls a week. India runs three and a half hours ahead of Dutch summer time and four and a half ahead in winter, so from your late morning onwards we are both at work, and whatever you send in the afternoon is being worked on by our next morning.`,
+        `A typical pattern for a wholesale project: a weekly video call with your order-desk lead and whoever manages the ERP, a shared sheet for price-rule decisions, and WhatsApp for quick questions. Quotes are in USD. Payments go in milestones by Wise, bank wire or PayPal, with invoices issued from India. Nothing is billed before you approve the quote in writing, and contract terms such as confidentiality are agreed in that written quote.`,
+      ],
+      list: [
+        "First two weeks: data exports reviewed, price rules written up, platform decision confirmed.",
+        "Test environment on a URL you control, from the first week of building.",
+        "ERP connection only to a test administration until you sign off.",
+        "Access to ERP and platform through accounts you create and can revoke.",
+      ],
+      after: [
+        `Who does what: Ankur builds the shop and portal, Santosh handles hosting, data and search, and Vedansh runs planning and the sync automation. We do not visit your warehouse or sit in on sales meetings. For how remote teams in India usually work, see <a href='/outsource-web-development-to-india/'>outsourcing web development to India</a>.`,
+      ],
+    },
+    {
+      id: "ownership",
+      heading: "Who owns the B2B webshop, the data and the integrations?",
+      paragraphs: [
+        `After B2B webshop development with us, you own all of it: the platform account, domain, hosting, the source code of custom parts and the integration scripts. We work through access you grant, and a new developer could take over from the repository and the documentation we hand over.`,
+        `B2B data still contains personal data: names, emails and phone numbers of your customers' buyers. Under the AVG you are the controller for that data. The build supports your obligations with role-based access, encrypted connections, logs of who changed what, and no copies of customer data on our own machines beyond what a task requires. Your own adviser decides what agreements and privacy texts you need.`,
+      ],
+      list: [
+        "Shopify or WordPress accounts in your company's name.",
+        "Git repository for custom code, owned by you.",
+        "ERP API credentials created by your administrator.",
+        "Written notes on every sync flow: what, when, and how to restart it.",
+      ],
+      after: [
+        `More on privacy-aware builds: <a href='/netherlands/gdpr-compliant-website-development/'>GDPR-compliant website development</a>.`,
+      ],
+    },
+    {
+      id: "risks",
+      heading: "What goes wrong in B2B webshop projects, and how to prevent it",
+      paragraphs: [
+        `The most common failure in B2B webshop development is not technical: buyers keep phoning because nobody told them the webshop exists, or because it shows different prices from their last invoice. Price accuracy and a planned rollout prevent most of it.`,
+        `Other risks follow a pattern. Syncs that fail silently leave stock wrong for days. A plugin update breaks tiered pricing just before a busy season. A credit limit check that reads yesterday's balance lets a blocked customer order. Each has a simple guard: monitored syncs with alerts, a staging site where updates are tested, and credit checks that read fresh data at checkout.`,
+      ],
+      list: [
+        "Prices tested against real invoices before launch.",
+        "Sync failures sent as alerts to a named person, not only logged.",
+        "Staging environment for every update.",
+        "A rollout plan: pilot group, then invitations in waves, with the order desk briefed.",
+        "A fallback: the order desk can still take phone orders into the same system.",
+      ],
+      after: [
+        `Red flag when comparing offers: anyone who promises the webshop will replace your order desk entirely. It reduces the typing; your people still handle exceptions.`,
+      ],
+    },
+    {
+      id: "example",
+      heading: "Worked example: a hypothetical installation wholesaler in Zwolle",
+      paragraphs: [
+        `This is an illustration, not a client. Picture a wholesaler of plumbing and heating parts near Zwolle selling to around two hundred installation companies. Orders arrive by phone before 8:00, by email with photos of lists, and by WhatsApp from installers standing in a boiler room. Prices come from Exact Online, with group discounts and staffels on fittings.`,
+        `B2B webshop development here would start with the data: about four thousand articles, three customer groups, forty customers with contract prices on key items. Because the price structure fits Shopify's catalogue and quantity rules but the number of customer-specific catalogues would exceed three, the choice is between Shopify Plus and a custom portal. We would price both and let the running costs decide.`,
+        `The launch scope: quick order by article number on mobile, CSV upload for larger installers, order lists per van, credit check against Exact at checkout, orders into Exact within a minute, and invoices shown in the account area. A pilot with ten installers runs for two weeks. The order desk then invites the rest in groups of thirty, with a short how-to video in Dutch that the wholesaler records itself.`,
+      ],
+    },
+    {
+      id: "checklist",
+      heading: "B2B webshop development checklist for Dutch wholesalers",
+      paragraphs: [
+        `Prepare these before B2B webshop development starts, and your quote will be accurate, your timeline shorter and your launch calmer.`,
+      ],
+      list: [
+        "Article export from your ERP with numbers, units, minimum quantities and descriptions.",
+        "Price structure written down: list prices, groups, customer exceptions, staffels, promotions.",
+        "Five real invoices with complicated prices, to test the logic.",
+        "Payment terms and credit limit policy per customer group.",
+        "Which ERP (Exact Online, AFAS or other) and who administers it.",
+        "Whether any buyers need UBL invoices or you invoice government customers.",
+        "How orders arrive today, with a rough share per channel.",
+        "Product photos and datasheets, or a plan to collect them.",
+        "A named person on your side who decides on price and rollout questions.",
+      ],
+      after: [
+        `Send what you have through <a href='/contact/'>our contact page</a>; gaps are normal and we will help fill them.`,
+      ],
+    },
+  ],
+  tables: [
+    {
+      id: "platform-choice",
+      eyebrow: "Platforms",
+      heading: "Shopify B2B vs WooCommerce B2B vs custom portal",
+      note: `Shopify plan details from Shopify's help centre; check current terms before deciding. For custom builds see <a href='/netherlands/custom-software-development/'>custom software development</a>.`,
+      columns: ["Consideration", "Shopify B2B", "WooCommerce with B2B logic", "Custom portal"],
+      rows: [
+        ["Customer price lists", "Catalogues; three active on non-Plus plans, unlimited on Plus", "Via plugins or custom code", "Any rule you can describe"],
+        ["Staffel pricing", "Quantity rules and volume pricing on all plans", "Via plugins", "Built in"],
+        ["Payment terms", "Net terms per company location", "Plugin or custom", "Read from your ERP"],
+        ["Hosting", "Shopify-hosted", "Your own server", "Your own cloud account"],
+        ["ERP sync", "Apps or custom integration", "Plugins or custom integration", "Custom integration"],
+        ["Starts from with us", P.shop, P.shop, P.software],
+        ["Best when", "Price rules fit catalogues", "You already run WordPress", "Rules are contract-specific or ERP-driven"],
+      ],
+      hideSm: [2],
+    },
+    {
+      id: "cost-scope",
+      eyebrow: "Budget",
+      heading: "B2B webshop development cost by scope",
+      note: `Starting prices in USD. Full plan list on the <a href='/pricing/'>pricing page</a>.`,
+      columns: ["Scope", "Typical buyer", "Includes", "Starts from"],
+      rows: [
+        ["Platform B2B webshop", "Wholesaler with price groups", "Accounts, price lists, staffels, order on account, quick order", P.shop],
+        ["Platform webshop plus ERP sync", "Wholesaler on Exact or AFAS", "The above plus stock, orders and customers synced", P.shop],
+        ["Custom B2B portal", "Contract prices, approvals, several warehouses", "Portal, credit checks, approval flow, ERP-driven catalogue", P.software],
+        ["Order automation add-on", "Order desk flooded with emailed lists", "AI reading of emailed order lists into draft orders for review", P.ai],
+        ["Public catalogue SEO", "Wholesaler seeking new trade buyers", "Monthly technical and content SEO", P.seo],
+        ["Care plan", "Any live B2B webshop", "Updates, sync monitoring, price imports", P.care],
+      ],
+    },
+    {
+      id: "phases",
+      eyebrow: "Timeline",
+      heading: "B2B webshop project phases",
+      note: "Typical durations; they overlap where possible.",
+      columns: ["Phase", "What happens", "Typical length"],
+      rows: [
+        ["Data cleanup", "Articles, customers and price agreements exported and corrected", "1–2 weeks"],
+        ["Catalogue and accounts", "Structure, categories, company accounts on a test site", "1–2 weeks"],
+        ["Pricing and checkout", "Price rules, staffels, on-account checkout, credit checks", "1–3 weeks"],
+        ["ERP integration", "Sync flows built against a test administration", "1–3 weeks"],
+        ["Pilot", "Ten or so customers order for real; fixes applied", "1–2 weeks"],
+        ["Rollout", "Invitations in waves, order desk supports buyers", "2–4 weeks, after launch"],
+      ],
+    },
+  ],
+  areas: {
+    eyebrow: "Wholesale regions",
+    heading: "Where Dutch wholesalers and manufacturers need B2B webshops",
+    note: "Remote work for businesses across the Netherlands. The notes describe typical regional trade, not clients.",
+    cards: [
+      { name: "Rotterdam", note: "Importers and distributors around the port handle large article ranges and trade customers across Europe, making customer-specific pricing and stock per warehouse central to any webshop." },
+      { name: "Venlo", note: "A logistics hub near the German border where distributors ship to buyers in several countries; multilingual catalogues and clear delivery terms matter." },
+      { name: "Eindhoven", note: "Technical suppliers serving the Brainport region's manufacturers need datasheets per part, quantity breaks and ordering by part number." },
+      { name: "Amsterdam", note: "Food, beverage and hospitality suppliers serve dense horeca networks with early daily orders, where reorder lists and cut-off times help most." },
+      { name: "Utrecht", note: "Central location makes it a base for national wholesalers delivering across the country, often with several price groups for retail and trade." },
+      { name: "Zwolle", note: "Regional wholesalers in building and installation supply serve installers who order from vans, so mobile quick order matters more than browsing." },
+      { name: "Tilburg", note: "Distribution centres and textile or packaging suppliers benefit from CSV order upload and stock sync from their warehouse systems." },
+      { name: "Breda", note: "Food and consumer-goods distributors supplying retail chains need contract prices per customer and invoices that match purchase-order numbers." },
+      { name: "Den Bosch", note: "Mixed wholesale and manufacturing firms serving southern provinces often run Exact or AFAS and want orders to land there without retyping." },
+      { name: "Groningen", note: "Agricultural and technical suppliers in the north serve widely spread customers, making a public catalogue and account requests useful for new buyers." },
+      { name: "Westland", note: "Horticulture suppliers selling to growers deal with seasonal peaks and large repeat orders, where saved order lists save the most time." },
+      { name: "Aalsmeer", note: "Floriculture-related traders work to tight daily timelines; fast reorder and clear cut-off times suit their buyers." },
+      { name: "Apeldoorn", note: "Central-east wholesalers serving retailers and installers benefit from staffel pricing and credit checks linked to their accounting system." },
+      { name: "Enschede", note: "Manufacturers near the German border selling to trade buyers in both countries need bilingual product pages and VAT handling set up with their accountant." },
+    ],
+  },
+  process: {
+    heading: "How a B2B webshop project runs with us",
+    steps: [
+      ["Discovery call", "We look at how orders arrive today, your ERP, your price structure and five tricky invoices. You leave the call knowing which platform we would suggest and why."],
+      ["Itemised quote", "An itemised quote in USD arrives in about two working days, split into webshop, pricing logic, each ERP flow and buyer tools, with a timeline per phase."],
+      ["Data and rules", "Articles, customers and price agreements are exported, cleaned with your team and written into a rules table that both sides sign off."],
+      ["Build and test", "The shop or portal is built on a test environment, with pricing tested against real invoices and ERP sync against a test administration."],
+      ["Pilot group", "A small group of friendly customers orders for real. Your order desk watches, we fix what they find, and you decide when to widen access."],
+      ["Rollout and care", "Invitations go out in waves. Five months of free maintenance follow, then care plans, with sync monitoring and price-list imports included."],
+    ],
+  },
+  faqHeading: "B2B webshop development: questions from Dutch wholesalers",
+  faqs: [
+    { question: "What is a B2B webshop?", answer: "A B2B webshop is an online shop for business buyers, where prices, payment terms and sometimes the catalogue depend on the logged-in company. Trade customers see their agreed net prices and staffels, order on account within a credit limit, and receive invoices later. It replaces orders that would otherwise arrive by phone, email or PDF and be typed in by your staff." },
+    { question: "How much does B2B webshop development cost?", answer: `With BtechWaleTech, B2B webshop development starts from ${P.shop} on Shopify or WooCommerce and from ${P.software} for a custom portal. ERP sync, UBL export and approval flows are separate quote lines. Platform plans, hosting, plugin licences and ERP connector fees are paid by you. You get an itemised written quote within about two working days.` },
+    { question: "How long does it take to build a B2B webshop?", answer: "Usually four to eight weeks on Shopify or WooCommerce and six to twelve weeks for a custom portal, from written approval. Clean article and price data shorten the project; scattered spreadsheets lengthen it. We recommend a pilot of a week or two with a few friendly customers before inviting everyone." },
+    { question: "Can each customer see their own prices?", answer: "Yes. Prices can come from a base list, customer groups, customer-specific agreements and staffels, combined in an order you define. Where the ERP already holds the prices, the webshop reads them from there. We test the logic against real invoices before launch so buyers see exactly the prices they already pay." },
+    { question: "What are staffelprijzen and can a webshop handle them?", answer: "Staffelprijzen are tiered quantity prices: a lower unit price once an order passes set quantities. A B2B webshop can calculate them per article or across a product family, and combine them with customer discounts. The key is agreeing the order of rules, for example whether a group discount applies before or after the staffel." },
+    { question: "Can customers order on account instead of paying upfront?", answer: "Yes. The webshop reads each customer's payment terms, open balance and credit limit from your accounting system. Orders within the limit go through on account; orders over it can be blocked, sent to an approval queue, or paid by iDEAL or card instead. You decide which rule applies to which customers." },
+    { question: "Is Shopify B2B good enough for a Dutch wholesaler?", answer: "Often, yes. Shopify's help centre lists B2B on the Basic, Grow, Advanced and Plus plans, with companies, catalogues, quantity rules, volume pricing and payment terms on all of them. Non-Plus plans allow three active B2B catalogues; Plus removes that limit. If you need many customer-specific price lists, compare Plus with a custom portal." },
+    { question: "Should I use WooCommerce for B2B?", answer: "WooCommerce suits wholesalers who already run WordPress, want their own hosting and are comfortable with plugins for B2B roles, hidden prices and tiered pricing. The trade-off is maintenance: every plugin must be updated and tested. For complex contract pricing, a custom portal usually ends up simpler to run." },
+    { question: "Can the webshop connect to Exact Online?", answer: "Yes. Orders can be created in Exact Online through its API, with stock, articles, customers and invoices synced back. Each flow runs on a schedule suited to it, and every run is logged so staff can see whether an order reached Exact. Failures trigger an alert to a named person rather than hiding in a log." },
+    { question: "Can you integrate with AFAS?", answer: "Yes, through the connectors AFAS provides for its software, configured in your environment by or with your AFAS administrator. The same approach applies: agree which system owns each field, how often each flow runs, and how errors are reported. We build against a test environment before touching live data." },
+    { question: "Do we need UBL invoices?", answer: "If buyers ask for e-invoices, or you supply the Dutch central government, which the government's business portal says requires an e-invoice, then UBL export is worth including. Often your accounting system already creates UBL; the webshop then offers it as a download. Your accountant should confirm what applies to your business." },
+    { question: "Will our B2B webshop show up on Google?", answer: "The public parts can. If the catalogue is visible without login and only prices and ordering are protected, product and category pages can rank for searches trade buyers make. Nobody can guarantee rankings. A fully closed portal is invisible to search engines, which suits wholesalers who only serve existing accounts." },
+    { question: "How do we get existing customers to use the webshop?", answer: "Plan the rollout. Start with a pilot group, then invite customers in waves with a clear email and a short how-to video. Make sure prices match their last invoices, brief your order desk to guide callers to the webshop, and keep taking phone orders into the same system for those who need time." },
+    { question: "Can sales reps place orders for customers?", answer: "Yes. Reps can log in on behalf of a customer and place orders with that customer's prices, terms and delivery addresses. This is useful during visits or calls, and it keeps every order in one system, so reporting shows all orders regardless of who entered them." },
+    { question: "Can buyers upload an order list from Excel?", answer: "Yes, and in B2B webshop development it is often a priority. Buyers upload a CSV or Excel file with article numbers and quantities, see a preview with unknown articles or stock problems highlighted, and add the valid lines to their cart. It is often the feature that moves the largest customers online first, because it matches how they already work." },
+    { question: "Who owns the webshop and the code?", answer: "You do. Platform accounts, domain, hosting and the repository for custom code are in your company's name, and ERP credentials are created by your own administrator. We hand over written documentation of every sync flow, so another developer could take over without depending on us." },
+    { question: "How is our customer data protected?", answer: "The build uses role-based access, encrypted connections, audit logs and minimal copies of data outside your systems. Under the AVG you remain the controller for buyers' personal data, and your own adviser decides which agreements and privacy texts you need. We support those obligations in the build but do not give legal advice." },
+    { question: "Why hire a remote team in India for B2B webshop development?", answer: "Because the work is mostly data, logic and integration, which suits remote collaboration, and starting prices are clear. You get three developers who share the codebase, working hours that overlap with yours from late morning, WhatsApp replies seven days a week and milestone payments by Wise, wire or PayPal. We do not visit warehouses or offices." },
+    { question: "Can you migrate our old B2B webshop?", answer: "Yes. We export articles, customers, price lists and order history from the old system where it allows, map old URLs to new ones so search visibility carries over, and reconnect the ERP. Customers keep their logins only if the old platform allows password migration; otherwise they get an invitation to set a new password." },
+    { question: "What happens after launch?", answer: `The first five months of maintenance are free: updates, fixes and sync monitoring. After that, care plans start from ${P.care}. New features, such as an approval flow or a second warehouse, are quoted separately in writing before any work starts, so costs never surprise you.` },
+  ],
+  related: {
+    heading: "Related pages for Dutch wholesalers",
+    links: [
+      { name: "Exact Online integration", href: "/netherlands/exact-online-integration/" },
+      { name: "bol.com API integration", href: "/netherlands/bol-com-api-integration/" },
+      { name: "Shopify developer Netherlands", href: "/netherlands/shopify-developer/" },
+      { name: "WooCommerce developer Netherlands", href: "/netherlands/woocommerce-developer/" },
+      { name: "Custom software development", href: "/netherlands/custom-software-development/" },
+      { name: "Webshop cost in the Netherlands", href: "/netherlands/webshop-cost/" },
+      { name: "Logistics software development", href: "/netherlands/logistics-software-development/" },
+      { name: "iDEAL payment integration", href: "/netherlands/ideal-payment-integration/" },
+      { name: "Magento to Shopify migration", href: "/netherlands/magento-to-shopify-migration/" },
+      { name: "Technical SEO services", href: "/netherlands/technical-seo-services/" },
+      { name: "Netherlands overview", href: "/netherlands/" },
+      { name: "Outsource web development to India", href: "/outsource-web-development-to-india/" },
+      { name: "Pricing", href: "/pricing/" },
+    ],
+  },
+  cta: {
+    heading: "Show us how orders reach your desk today",
+    note: "Send an article export, your price structure and five tricky invoices on WhatsApp. We will suggest a platform, explain why, and send an itemised quote in about two working days.",
+  },
+};
+
+export default content;

@@ -34,7 +34,7 @@ const baramula: CityContent = {
     pills: ["Sites from ₹10,000", "Apple and walnut stores", "Gulmarg stay bookings", "Urdu, Hindi, English pages", "5 months' free upkeep"],
   },
   quickAnswer:
-    "A Baramulla business website starts at ₹10,000 with us and takes one to two weeks. A 700+ page SEO website starts at ₹20,000, an online store for apples, walnuts or dry fruit at ₹50,000, and WhatsApp automation at ₹40,000. We are a remote team with no Baramulla office, and maintenance is free for five months.",
+    "A Baramulla business website starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store for apples, walnuts or dry fruit at ₹50,000, and WhatsApp automation at ₹40,000. We are a remote team with no Baramulla office, and maintenance is free for five months.",
   snapshot: [
     { label: "Setting", value: "On the Jhelum in north Kashmir, at the foot of the Pir Panjal, about 55 km from Srinagar" },
     { label: "Called", value: "Historically the “Gateway of Kashmir Valley” on the old route in from the west" },
@@ -72,12 +72,12 @@ const baramula: CityContent = {
       heading: "What a website costs for a Baramulla business",
       paragraphs: [
         "Most businesses in Baramulla either get a website through a Srinagar agency or through someone they know. Prices vary widely, and support after launch is often missing, which hurts more here because fixing problems remotely during a winter power or network outage takes planning.",
-        "Our figures are starting prices. A static website of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks. A 700+ page SEO website, with pages for each product, room type or service, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom software at ₹60,000 and AI or WhatsApp automation at ₹40,000. Monthly SEO starts at ₹10,000. Everything is listed on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our figures are starting prices. A static website of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks. A 299+ page SEO website, with pages for each product, room type or service, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom software at ₹60,000 and AI or WhatsApp automation at ₹40,000. Monthly SEO starts at ₹10,000. Everything is listed on our <a href=\"/pricing/\">pricing page</a>.",
         "What moves the total is the work involved. An orchard store with three apple varieties, two grades, several box sizes and delivery rules across states takes longer than a four-page clinic site. We show which parts can wait, so you can launch before the harvest and add features in the off-season.",
       ],
       list: [
         "<strong>Static site from ₹10,000:</strong> up to 100 pages, enquiry form, WhatsApp button, SEO basics.",
-        "<strong>SEO site from ₹20,000:</strong> 700+ pages, schema, sitemap and Search Console.",
+        "<strong>SEO site from ₹20,000:</strong> 299+ pages, schema, sitemap and Search Console.",
         "<strong>Store from ₹50,000:</strong> products by variety and grade, UPI and card checkout, shipping zones.",
         "<strong>Custom app from ₹60,000:</strong> grower ledgers, bookings, logins and reports.",
       ],
@@ -217,12 +217,12 @@ const baramula: CityContent = {
     {
       question: "How much does a website cost in Baramulla?",
       answer:
-        "With us, a static website starts at ₹10,000 and a 700+ page SEO website starts at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. Your final quote depends on the pages and features you need, and you receive it itemised before anything is billed.",
+        "With us, a static website starts at ₹10,000 and a 299+ page SEO website starts at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. Your final quote depends on the pages and features you need, and you receive it itemised before anything is billed.",
     },
     {
       question: "Baramulla mein website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath chhoti business website ₹10,000 se shuru hoti hai, aur 700+ pages wali SEO website ₹20,000 se. Seb ya akhrot bechne ke liye online store ₹50,000 se shuru hota hai. Kitne pages aur features chahiye, usi se final rate banta hai. Kaam se pehle har cheez ka rate likh kar milta hai.",
+        "Hamare saath chhoti business website ₹10,000 se shuru hoti hai, aur 299+ pages wali SEO website ₹20,000 se. Seb ya akhrot bechne ke liye online store ₹50,000 se shuru hota hai. Kitne pages aur features chahiye, usi se final rate banta hai. Kaam se pehle har cheez ka rate likh kar milta hai.",
     },
     {
       question: "Do you have an office in Baramulla or Srinagar?",
@@ -277,7 +277,7 @@ const baramula: CityContent = {
     {
       question: "How long does it take to build and to see SEO results?",
       answer:
-        "A static site takes one to two weeks and a 700+ page SEO site three to five weeks. Map results for nearby searches often improve within six to ten weeks. Broader searches from outside Kashmir can take four to eight months. We report monthly and never guarantee a first-page ranking.",
+        "A static site takes one to two weeks and a 299+ page SEO site three to five weeks. Map results for nearby searches often improve within six to ten weeks. Broader searches from outside Kashmir can take four to eight months. We report monthly and never guarantee a first-page ranking.",
     },
     {
       question: "What do you need from me to prepare a quote?",

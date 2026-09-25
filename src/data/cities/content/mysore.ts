@@ -34,7 +34,7 @@ const mysore: CityContent = {
     pills: ["Sites from ₹10,000", "Kannada and English SEO", "Hotel and homestay booking", "Silk and incense stores", "Automation from ₹40,000"],
   },
   quickAnswer:
-    "A business website in Mysuru costs from ₹10,000 with us, and a 700+ page SEO site from ₹20,000. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote three-engineer team without a Mysuru office, and each launch comes with five months of free maintenance.",
+    "A business website in Mysuru costs from ₹10,000 with us, and a 299+ page SEO site from ₹20,000. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote three-engineer team without a Mysuru office, and each launch comes with five months of free maintenance.",
   snapshot: [
     { label: "Known as", value: "City of Palaces and the cultural capital of Karnataka" },
     { label: "Commercial core", value: "Sayyaji Rao Road, Devaraja Market, Devaraj Urs Road and the palace area" },
@@ -72,7 +72,7 @@ const mysore: CityContent = {
       heading: "How much a website costs in Mysuru",
       paragraphs: [
         "Mysuru prices are influenced by Bengaluru, and some local agencies quote Bengaluru rates for work that does not need them. At the other end, very cheap offers often mean a reused template on hosting you do not control. We publish our numbers so you have a fair reference.",
-        "A simple business site of up to 100 pages starts at ₹10,000 and usually launches in one to two weeks. A 700+ page SEO website, with pages for each service, room type or product line, starts at ₹20,000 and takes three to five weeks. Online stores with UPI and card payment start at ₹50,000. Custom web applications, such as booking engines or training portals, start at ₹60,000. Automation starts at ₹40,000, monthly SEO at ₹10,000 a month, and maintenance at ₹8,000 a month after the five free months. See the full breakdown on our <a href=\"/pricing/\">pricing page</a>.",
+        "A simple business site of up to 100 pages starts at ₹10,000 and usually launches in one to two weeks. A 299+ page SEO website, with pages for each service, room type or product line, starts at ₹20,000 and takes three to five weeks. Online stores with UPI and card payment start at ₹50,000. Custom web applications, such as booking engines or training portals, start at ₹60,000. Automation starts at ₹40,000, monthly SEO at ₹10,000 a month, and maintenance at ₹8,000 a month after the five free months. See the full breakdown on our <a href=\"/pricing/\">pricing page</a>.",
         "Your quote lists each page and feature separately, and nothing is billed until you approve it in writing. If your needs are simpler than you expected, we say so.",
       ],
       list: [
@@ -218,12 +218,12 @@ const mysore: CityContent = {
     {
       question: "How much does a website cost in Mysuru?",
       answer:
-        "With us, a small business website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Mysuru quotes vary widely, so compare what is included, especially domain ownership, SEO basics and after-launch support.",
+        "With us, a small business website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Mysuru quotes vary widely, so compare what is included, especially domain ownership, SEO basics and after-launch support.",
     },
     {
       question: "Mysuru alli website maadisalu eshtu kharchu aagutte?",
       answer:
-        "Namma jothe saamanya business website ₹10,000 inda shuru aagutte, mattu 700+ page SEO website ₹20,000 inda. Online store ₹50,000 inda shuru. Kelasa shuru maaduva modalu nimage itemised quote kodtivi, mattu nimma written approval illade yaavude bill illa.",
+        "Namma jothe saamanya business website ₹10,000 inda shuru aagutte, mattu 299+ page SEO website ₹20,000 inda. Online store ₹50,000 inda shuru. Kelasa shuru maaduva modalu nimage itemised quote kodtivi, mattu nimma written approval illade yaavude bill illa.",
     },
     {
       question: "Do you have an office in Mysuru?",
@@ -253,7 +253,7 @@ const mysore: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A simple site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Waiting for photos and text causes most delays, so we draft starter content for you to edit.",
+        "A simple site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Waiting for photos and text causes most delays, so we draft starter content for you to edit.",
     },
     {
       question: "How long before SEO brings results?",

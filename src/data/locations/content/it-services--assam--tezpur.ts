@@ -97,7 +97,7 @@ const content: CityContent = {
       paragraphs: [
         "Local landing pages help Tezpur businesses appear in searches from nearby towns such as Dhekiajuli, Rangapara, Balipara and Jamugurihat by giving each area it genuinely serves a page with specific, useful information: delivery or visit schedules, travel time, local contact options and relevant services. They work only when the business really serves those places.",
         "A diagnostic lab offering home sample collection in Dhekiajuli, a school bus service covering Balipara, or a hardware distributor delivering to Rangapara each has a real reason for a local page. Google and AI search tools increasingly ignore pages that just swap the town name into identical text, so each page must say something true and different about that area.",
-        "We plan the page list with you, write distinct content for each area, add the right internal links and schema, and keep your Google Business Profile consistent with your actual location. Sites with many local pages fall under our 700+ page SEO website plan from ₹20,000, while smaller sets fit within a ₹10,000 static site.",
+        "We plan the page list with you, write distinct content for each area, add the right internal links and schema, and keep your Google Business Profile consistent with your actual location. Sites with many local pages fall under our 299+ page SEO website plan from ₹20,000, while smaller sets fit within a ₹10,000 static site.",
       ],
     },
     {

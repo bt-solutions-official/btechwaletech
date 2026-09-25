@@ -39,7 +39,7 @@ const amalapuram: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu Google Maps SEO", "Coconut and aqua trade tools", "Every login in your name"],
   },
   quickAnswer:
-    "An Amalapuram business website with us starts at ₹10,000 and a simple one takes one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 700+ page SEO site at ₹20,000 and an online store at ₹50,000. We work remotely without a Konaseema office, and you own every account and line of code.",
+    "An Amalapuram business website with us starts at ₹10,000 and a simple one takes one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 299+ page SEO site at ₹20,000 and an online store at ₹50,000. We work remotely without a Konaseema office, and you own every account and line of code.",
   snapshot: [
     { label: "Status", value: "Headquarters of Dr. B. R. Ambedkar Konaseema district and Amalapuram revenue division" },
     { label: "Geography", value: "Godavari delta at about 3 m elevation; largest town of the Konaseema island region" },
@@ -150,7 +150,7 @@ const amalapuram: CityContent = {
       id: "website-cost-amalapuram",
       heading: "Website cost in Amalapuram: starting prices and how to compare quotes",
       paragraphs: [
-        "Price is usually the first question, so here is where each kind of job begins. A static site with anything up to 100 pages suits most shops, clinics, colleges and resorts; it begins at ₹10,000 and goes live in roughly one to two weeks. When you need 700 pages or more, say for a feed distributor listing every product or a coaching brand naming every mandal it serves, the SEO build begins at ₹20,000 and runs three to five weeks. Mobile apps for Android and iPhone, and AI automation, each begin at ₹40,000.",
+        "Price is usually the first question, so here is where each kind of job begins. A static site with anything up to 100 pages suits most shops, clinics, colleges and resorts; it begins at ₹10,000 and goes live in roughly one to two weeks. When you need 299 pages or more, say for a feed distributor listing every product or a coaching brand naming every mandal it serves, the SEO build begins at ₹20,000 and runs three to five weeks. Mobile apps for Android and iPhone, and AI automation, each begin at ₹40,000.",
         "Stores begin at ₹50,000, bespoke software at ₹60,000 and ongoing SEO at ₹10,000 per month. Treat all of these as floors, never as bundles. The amount climbs only with choices you make, such as a Telugu version beside the English one, a large product list, room booking, courier tables, staff accounts, online payment or a Tally connection. Supplying your own write-up and pictures keeps it close to the floor.",
         "Designers in Amalapuram, Kakinada and Rajahmundry quote very differently for jobs that look alike. Line them up against one checklist: whose name is on the domain and hosting, has the site been opened on an inexpensive phone, is basic on-page SEO part of the work, how many rounds of changes are allowed, and who answers the phone a year on. Every starting figure sits on our <a href=\"/pricing/\">pricing page</a>, and a written quote broken into items reaches you in about two working days.",
       ],
@@ -211,7 +211,7 @@ const amalapuram: CityContent = {
     {
       question: "How much does a website cost in Amalapuram?",
       answer:
-        "A static site starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and bespoke software at ₹60,000. All are floors, not final figures. Telugu pages, product count and integrations decide where your number lands, and the written, item-by-item quote comes in about two working days with nothing charged beforehand.",
+        "A static site starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and bespoke software at ₹60,000. All are floors, not final figures. Telugu pages, product count and integrations decide where your number lands, and the written, item-by-item quote comes in about two working days with nothing charged beforehand.",
     },
     {
       question: "Do you build Android and iOS apps for Amalapuram businesses?",
@@ -221,7 +221,7 @@ const amalapuram: CityContent = {
     {
       question: "How many days does a website take in Amalapuram?",
       answer:
-        "Most static sites go live in one to two weeks from the day your photos and details arrive. Bigger builds need longer: three to five weeks for a 700+ page SEO site, four to eight for a store and six to twelve for bespoke software. Owners who hand over text and pictures early see the quickest launches.",
+        "Most static sites go live in one to two weeks from the day your photos and details arrive. Bigger builds need longer: three to five weeks for a 299+ page SEO site, four to eight for a store and six to twelve for bespoke software. Owners who hand over text and pictures early see the quickest launches.",
     },
     {
       question: "Which is the best website development team in Amalapuram?",
@@ -246,7 +246,7 @@ const amalapuram: CityContent = {
     {
       question: "Amalapuram lo website cheyinchadaniki entha kharchu avutundi?",
       answer:
-        "Chinna business website ₹10,000 nundi modalu, rendu varalalopu live cheyochu. Pedda SEO website (700 pages kanna ekkuva) ₹20,000 nundi, Android, iPhone app ₹40,000 nundi, online store ₹50,000 nundi untayi. Meeku kavalsina features telusukunna tarvata, prati item vidividiga raasina quote WhatsApp lo pamputamu.",
+        "Chinna business website ₹10,000 nundi modalu, rendu varalalopu live cheyochu. Pedda SEO website (299 pages kanna ekkuva) ₹20,000 nundi, Android, iPhone app ₹40,000 nundi, online store ₹50,000 nundi untayi. Meeku kavalsina features telusukunna tarvata, prati item vidividiga raasina quote WhatsApp lo pamputamu.",
     },
     {
       question: "You have no office in Amalapuram. Is remote work safe?",

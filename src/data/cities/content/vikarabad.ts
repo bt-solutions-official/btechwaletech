@@ -39,7 +39,7 @@ const vikarabad: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu and Urdu pages", "Resort and homestay bookings", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Vikarabad business, a website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, and you own everything we build.",
+    "For a Vikarabad business, a website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, and you own everything we build.",
   snapshot: [
     { label: "Status", value: "Headquarters of Vikarabad district, formed on 11 October 2016 with Vikarabad and Tandur revenue divisions" },
     { label: "Population", value: "53,143 in the town at the 2011 census; about 9.27 lakh across today's district" },
@@ -87,7 +87,7 @@ const vikarabad: CityContent = {
       paragraphs: [
         "Education is one of the town's quieter growth stories. The government medical college opened in 2023, and Vikarabad already had a government polytechnic, a DIET for teacher training, Sai Dental College, the Anwar-ul-Uloom engineering college at Yennepally, and degree and B.Ed colleges in areas such as Alampally. Around them sit hostels, bookshops, photocopy counters, tuition centres and coaching classes for competitive exams.",
         "Parents and students compare institutions online long before they visit. A <strong>website development team in Vikarabad</strong> serving this sector should publish what families actually ask: courses and affiliation, fee structure or fee range, faculty, hostel and transport, results, admission dates and the documents to bring. Telugu and English versions both matter, and for some families Urdu does too.",
-        "We build college and school sites that office staff can update without calling a developer: notices, exam timetables, photo galleries and downloadable forms. Coaching centres get batch schedules, demo class booking and a results page. A standard site starts at ₹10,000. A larger build with a page for every course, subject and nearby mandal, the sort that picks up many small searches, starts at ₹20,000 for 700 pages or more.",
+        "We build college and school sites that office staff can update without calling a developer: notices, exam timetables, photo galleries and downloadable forms. Coaching centres get batch schedules, demo class booking and a results page. A standard site starts at ₹10,000. A larger build with a page for every course, subject and nearby mandal, the sort that picks up many small searches, starts at ₹20,000 for 299 pages or more.",
       ],
     },
     {
@@ -155,7 +155,7 @@ const vikarabad: CityContent = {
       ],
       list: [
         "Static website, up to 100 pages: from ₹10,000, typically one to two weeks",
-        "SEO website of 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website of 299+ pages: from ₹20,000, three to five weeks",
         "Android and iOS app: from ₹40,000",
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Ecommerce store: from ₹50,000, four to eight weeks",
@@ -219,7 +219,7 @@ const vikarabad: CityContent = {
     {
       question: "What is the website cost in Vikarabad?",
       answer:
-        "A static website of up to 100 pages starts at ₹10,000. A 700+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; Telugu or Urdu content, payments, bookings and logins are listed separately in a written quote before any billing.",
+        "A static website of up to 100 pages starts at ₹10,000. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; Telugu or Urdu content, payments, bookings and logins are listed separately in a written quote before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Vikarabad businesses?",
@@ -229,7 +229,7 @@ const vikarabad: CityContent = {
     {
       question: "How long does it take to make a website in Vikarabad?",
       answer:
-        "A simple static site usually goes live in one to two weeks once we have your text and photos. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Delays almost always come from waiting for content, so sending it early speeds everything up.",
+        "A simple static site usually goes live in one to two weeks once we have your text and photos. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Delays almost always come from waiting for content, so sending it early speeds everything up.",
     },
     {
       question: "Which is the best IT services team in Vikarabad for a small business?",
@@ -254,7 +254,7 @@ const vikarabad: CityContent = {
     {
       question: "Vikarabad me website banwane ka kitna kharcha hai?",
       answer:
-        "Simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein live ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hai. Aapko pehle likhit, itemised quote milta hai, aur approval se pehle koi bill nahi banta.",
+        "Simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein live ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hai. Aapko pehle likhit, itemised quote milta hai, aur approval se pehle koi bill nahi banta.",
     },
     {
       question: "You have no office in Vikarabad. How do we agree on the work?",

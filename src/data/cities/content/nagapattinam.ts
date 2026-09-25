@@ -35,7 +35,7 @@ const nagapattinam: CityContent = {
     pills: ["Sites from ₹10,000", "Tamil and English pages", "Pilgrim lodge booking", "Seafood trade catalogues", "WhatsApp replies in Tamil"],
   },
   quickAnswer:
-    "In Nagapattinam, a basic business website with us starts at ₹10,000 and takes one to two weeks. A 700+ page search-focused site starts at ₹20,000, an online store at ₹50,000 and AI or WhatsApp automation at ₹40,000. We are a remote team with no Nagai office, and the first five months of maintenance are free.",
+    "In Nagapattinam, a basic business website with us starts at ₹10,000 and takes one to two weeks. A 299+ page search-focused site starts at ₹20,000, an online store at ₹50,000 and AI or WhatsApp automation at ₹40,000. We are a remote team with no Nagai office, and the first five months of maintenance are free.",
   snapshot: [
     { label: "District role", value: "Headquarters of Nagapattinam district, on the Bay of Bengal in the Cauvery delta, roughly 350 km south of Chennai" },
     { label: "Sea economy", value: "Fishing is the main livelihood; the district has a major fishing harbour at Akkaraipettai and a medium harbour at Nambiyar Nagar" },
@@ -73,7 +73,7 @@ const nagapattinam: CityContent = {
       heading: "What a website costs in Nagapattinam, with our starting rates",
       paragraphs: [
         "Most owners here have heard two very different numbers. A browsing centre may offer a single page for a small fee, often built on a free platform where the account belongs to the person who made it. A Chennai agency may quote a large sum that includes their office and sales staff. Our starting prices sit on the <a href=\"/pricing/\">pricing page</a> so you can see exactly what each level includes before we speak.",
-        "A static website of up to 100 pages, with a mobile layout, enquiry form, map, Tamil or English text and basic search setup, starts at ₹10,000 and takes one to two weeks. A larger site of 700+ pages, with separate pages for every room type, product, course or service planned around real searches, starts at ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, AI and WhatsApp automation from ₹40,000, custom web applications from ₹60,000 and monthly SEO from ₹10,000.",
+        "A static website of up to 100 pages, with a mobile layout, enquiry form, map, Tamil or English text and basic search setup, starts at ₹10,000 and takes one to two weeks. A larger site of 299+ pages, with separate pages for every room type, product, course or service planned around real searches, starts at ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, AI and WhatsApp automation from ₹40,000, custom web applications from ₹60,000 and monthly SEO from ₹10,000.",
         "The final figure depends on scope. A single-pharmacy page is far lighter than a lodge group with forty rooms across Velankanni and Nagore, or a trader who needs an export catalogue in two languages. We send an itemised quote in about two working days and bill nothing until you approve it in writing.",
       ],
       list: [
@@ -217,12 +217,12 @@ const nagapattinam: CityContent = {
     {
       question: "How much does a website cost in Nagapattinam?",
       answer:
-        "With us, a static site starts from ₹10,000, a 700+ page SEO site from ₹20,000, an online store from ₹50,000 and a custom web application from ₹60,000. When comparing other quotes in Nagai, check whose name the domain is in, whether basic SEO is included and what support you get after launch.",
+        "With us, a static site starts from ₹10,000, a 299+ page SEO site from ₹20,000, an online store from ₹50,000 and a custom web application from ₹60,000. When comparing other quotes in Nagai, check whose name the domain is in, whether basic SEO is included and what support you get after launch.",
     },
     {
       question: "Nagapattinam-la oru website seyya evvalavu aagum?",
       answer:
-        "Engaloda simple website ₹10,000-la irundhu start aagudhu, oru-rendu vaarathula ready aagum. 700+ page SEO website ₹20,000-la irundhu, online store ₹50,000-la irundhu. Munnadiye ezhuthu moolama itemised quote anuppuvom. Neenga approve pannaama edhukkum bill panna maattom.",
+        "Engaloda simple website ₹10,000-la irundhu start aagudhu, oru-rendu vaarathula ready aagum. 299+ page SEO website ₹20,000-la irundhu, online store ₹50,000-la irundhu. Munnadiye ezhuthu moolama itemised quote anuppuvom. Neenga approve pannaama edhukkum bill panna maattom.",
     },
     {
       question: "Do you have an office in Nagapattinam?",

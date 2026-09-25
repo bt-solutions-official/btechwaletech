@@ -206,7 +206,7 @@ const content: CityContent = {
       id: "cost-it-solutions-wokha",
       heading: "What do IT solutions in Wokha cost?",
       paragraphs: [
-        "IT solutions in Wokha start from ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000. Full inclusions are listed on the <a href=\"/pricing/\">pricing page</a>.",
+        "IT solutions in Wokha start from ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000. Full inclusions are listed on the <a href=\"/pricing/\">pricing page</a>.",
         "Costs rise with screens, user roles, offline features, integrations and data migration. A homestay site with a booking form is close to the website starting price; a produce trading system with grower payments, lots and buyer invoices is a custom software project. Phasing the work spreads payments and reduces risk.",
         "We accept payment only in INR, by UPI through our QR code or by direct transfer to our bank account, against milestones agreed in writing before work begins. The estimate shows every item, so nothing appears later as a surprise.",
       ],

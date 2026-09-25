@@ -195,7 +195,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does a freelance website developer charge for a complete site?",
       paragraphs: [
-        `With BtechWaleTech, a complete static business website of up to 100 pages starts at ${P.site}, including design, page setup, basic SEO and launch. An SEO website with 700+ pages starts at ${P.seoSite}, and a store that takes UPI and card payments starts at ${P.shop}. For clients abroad the same static plan starts at ${P.siteUsd}.`,
+        `With BtechWaleTech, a complete static business website of up to 100 pages starts at ${P.site}, including design, page setup, basic SEO and launch. An SEO website with 299+ pages starts at ${P.seoSite}, and a store that takes UPI and card payments starts at ${P.shop}. For clients abroad the same static plan starts at ${P.siteUsd}.`,
         `Across the market, quotes from freelance website developers for the same brief can vary a great deal, and the gap usually hides a difference in what is included. One quote covers content, email and five months of support; another covers a bought theme and nothing after launch. Put quotes side by side only after listing the same items in each.`,
         `Running costs are separate and paid by you to the providers: the yearly domain renewal, hosting if your site needs a server, and any paid email plan. We list likely running costs in the quote so the first renewal is not a surprise. After the five free months, optional maintenance starts at ${P.care} per month.`,
       ],
@@ -336,7 +336,7 @@ const content: FreelanceContent = {
       columns: ["If your business needs", "Plan", "Starts at", "Abroad", "Typical time"],
       rows: [
         ["Enquiries and calls from a clear profile", "Static website, up to 100 pages", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks"],
-        ["Leads from many services or areas in search", "SEO website, 700+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks"],
+        ["Leads from many services or areas in search", "SEO website, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks"],
         ["Customers paying online", "Online store", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks"],
         ["Bookings, logins or a customer portal", "Custom web app", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks"],
         ["Regular search visibility work", "Monthly SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Ongoing"],
@@ -382,7 +382,7 @@ const content: FreelanceContent = {
   faqHeading: "Freelance website developer: questions business owners ask",
   faqs: [
     { question: "What is a freelance website developer?", answer: "A freelance website developer is an independent professional or small team that builds websites for clients on a project basis instead of working as an employee. For a business owner, the useful kind handles the whole job: planning pages, design, writing content, setting up domain, hosting and email, launching the site and fixing things afterwards, so you deal with one party instead of several." },
-    { question: "How much does a freelance website developer charge for a business website?", answer: `With BtechWaleTech, a complete static business website of up to 100 pages starts at ${P.site}, an SEO website with 700+ pages at ${P.seoSite}, and an online store at ${P.shop}. The quote rises with the amount of content we write, the number of unique layouts and extra features. Domain and hosting are paid by you directly to the providers.` },
+    { question: "How much does a freelance website developer charge for a business website?", answer: `With BtechWaleTech, a complete static business website of up to 100 pages starts at ${P.site}, an SEO website with 299+ pages at ${P.seoSite}, and an online store at ${P.shop}. The quote rises with the amount of content we write, the number of unique layouts and extra features. Domain and hosting are paid by you directly to the providers.` },
     { question: "Does the price include domain and hosting?", answer: "The setup work is included; the domain and any paid hosting are bought in your name and paid from your account directly to the provider. This keeps ownership clear and lets you renew without depending on anyone. Many static sites need only very cheap or free hosting, and we estimate running costs in the quote so there are no surprises." },
     { question: "Will you write the content for my website?", answer: "Yes. Content writing or editing is part of the complete package and appears as a line in the quote. We run a short interview call about your services, customers and common questions, then write clear pages from your answers. You review everything before launch. If you prefer to write yourself, we edit and structure your drafts." },
     { question: "Can I get a website in Hindi or a regional language?", answer: "Yes. Key pages can be prepared in Hindi, Marathi, Tamil, Telugu, Bengali, Kannada, Malayalam or another language your customers prefer, alongside English. Each version gets proper language tags so search engines show it to the right people. The text is written or checked by someone fluent, and you approve it before it goes live." },

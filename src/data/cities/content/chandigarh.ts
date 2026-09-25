@@ -36,7 +36,7 @@ const chandigarh: CityContent = {
     pills: ["From ₹10,000", "Sector-level local SEO", "UPI and card stores", "Lead handling for consultancies", "Custom portals and dashboards"],
   },
   quickAnswer:
-    "Our websites for Chandigarh businesses start at ₹10,000 for a static site and ₹20,000 for a 700+ page SEO site, with online stores from ₹50,000 and custom apps from ₹60,000. We are a remote team of three engineers, not a Sector 17 agency, and five months of maintenance after launch is included free.",
+    "Our websites for Chandigarh businesses start at ₹10,000 for a static site and ₹20,000 for a 299+ page SEO site, with online stores from ₹50,000 and custom apps from ₹60,000. We are a remote team of three engineers, not a Sector 17 agency, and five months of maintenance after launch is included free.",
   snapshot: [
     { label: "Commercial sectors", value: "Sector 17 plaza, Sector 22, Sector 35 and the Sector 34 institutional area" },
     { label: "IT hub", value: "Rajiv Gandhi Chandigarh Technology Park, about 250 acres near Sukhna Lake, with SEZ status since 2006; Mohali's IT City nearby" },
@@ -74,12 +74,12 @@ const chandigarh: CityContent = {
       heading: "How much does a website cost in Chandigarh?",
       paragraphs: [
         "Tricity prices for a basic business site run from about ₹4,000 to well over ₹70,000. At the bottom end you usually get a reused theme, no search setup and hosting that stays with the developer. At the top end, part of your money pays for a smart office, business development staff and several layers of management before your message reaches a developer.",
-        "Our prices are published on our <a href=\"/pricing/\">pricing page</a> and summarised here. A static site starts at ₹10,000 and typically launches in one to two weeks. A 700+ page site designed around real tricity searches starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, automation at ₹40,000 and monthly SEO at ₹10,000 a month.",
+        "Our prices are published on our <a href=\"/pricing/\">pricing page</a> and summarised here. A static site starts at ₹10,000 and typically launches in one to two weeks. A 299+ page site designed around real tricity searches starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, automation at ₹40,000 and monthly SEO at ₹10,000 a month.",
         "Every figure is a starting point. A consultancy with six services and ready text costs less than a builder with ten projects, floor plans and no copy. You get an itemised quote listing each page and feature, and we bill nothing until you approve it in writing.",
       ],
       list: [
         "<strong>₹10,000 and up:</strong> static site with up to 100 pages, mobile design, contact form and SEO basics, for clinics, lawyers, tutors and consultants.",
-        "<strong>₹20,000 and up:</strong> 700+ page SEO site with service and sector pages, schema and sitemap, for firms that want enquiries from Google.",
+        "<strong>₹20,000 and up:</strong> 299+ page SEO site with service and sector pages, schema and sitemap, for firms that want enquiries from Google.",
         "<strong>₹50,000 and up:</strong> online store with catalogue, cart, UPI and cards, for boutiques, bakeries and lifestyle brands.",
         "<strong>₹60,000 and up:</strong> web app with logins, dashboards and integrations, for consultancies, builders and manufacturers.",
       ],
@@ -219,12 +219,12 @@ const chandigarh: CityContent = {
     {
       question: "How much does a website cost in Chandigarh?",
       answer:
-        "With us, static sites start at ₹10,000, 700+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom applications at ₹60,000. Tricity quotes vary from about ₹4,000 to over ₹70,000 for similar-sounding work, so compare whether SEO, hosting in your name and post-launch support are included.",
+        "With us, static sites start at ₹10,000, 299+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom applications at ₹60,000. Tricity quotes vary from about ₹4,000 to over ₹70,000 for similar-sounding work, so compare whether SEO, hosting in your name and post-launch support are included.",
     },
     {
       question: "Chandigarh vich website banaun da kinna kharcha aunda hai?",
       answer:
-        "Saade naal ik simple business website ₹10,000 ton shuru hundi hai, 700+ pages di SEO website ₹20,000 ton, te online store ₹50,000 ton. Final keemat pages, features te content te nirbhar kardi hai. Kamm shuru karan ton pehlan tuhanu poora itemised quote milda hai.",
+        "Saade naal ik simple business website ₹10,000 ton shuru hundi hai, 299+ pages di SEO website ₹20,000 ton, te online store ₹50,000 ton. Final keemat pages, features te content te nirbhar kardi hai. Kamm shuru karan ton pehlan tuhanu poora itemised quote milda hai.",
     },
     {
       question: "Do you have an office in Chandigarh or Mohali?",
@@ -244,7 +244,7 @@ const chandigarh: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "Static sites take one to two weeks, 700+ page SEO sites three to five, online stores four to eight and custom applications six to twelve. Waiting for content is the most common delay, so we draft starter copy for you to review instead of leaving pages empty.",
+        "Static sites take one to two weeks, 299+ page SEO sites three to five, online stores four to eight and custom applications six to twelve. Waiting for content is the most common delay, so we draft starter copy for you to review instead of leaving pages empty.",
     },
     {
       question: "Can you build real estate project websites with lead tracking?",

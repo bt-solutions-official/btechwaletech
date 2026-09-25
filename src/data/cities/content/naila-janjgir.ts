@@ -39,7 +39,7 @@ const nailaJanjgir: CityContent = {
     pills: ["Sites starting ₹10,000", "Android & iOS apps from ₹40,000", "Hindi and English content", "Rice mill and trader software", "Accounts registered to you"],
   },
   quickAnswer:
-    "In Naila Janjgir, our websites start at ₹10,000 and 700+ page SEO websites at ₹20,000. Android and iOS apps start at ₹40,000, as does AI and WhatsApp automation; online stores start at ₹50,000 and custom software for rice mills or traders at ₹60,000. We work remotely, with no office in Janjgir, and you own everything.",
+    "In Naila Janjgir, our websites start at ₹10,000 and 299+ page SEO websites at ₹20,000. Android and iOS apps start at ₹40,000, as does AI and WhatsApp automation; online stores start at ₹50,000 and custom software for rice mills or traders at ₹60,000. We work remotely, with no office in Janjgir, and you own everything.",
   snapshot: [
     { label: "Status", value: "Headquarters of Janjgir-Champa district since it was carved out of Bilaspur district on 25 May 1998" },
     { label: "Population", value: "About 40,600 in Janjgir town (2011 census); the district had about 16.2 lakh people before Sakti district was separated" },
@@ -158,7 +158,7 @@ const nailaJanjgir: CityContent = {
       id: "website-cost-janjgir",
       heading: "Website cost in Janjgir: starting prices and a checklist before you pay",
       paragraphs: [
-        "Here is where each type of project begins. A static website of up to 100 pages is ₹10,000 onwards, typically ready in one to two weeks. A 700+ page SEO website, for an institute or supplier that wants a page for every course, product or nearby town, is ₹20,000 onwards and takes three to five weeks. Android and iOS apps and AI automation each start at ₹40,000. Online stores begin at ₹50,000, custom software such as a mill register at ₹60,000, and monthly SEO at ₹10,000.",
+        "Here is where each type of project begins. A static website of up to 100 pages is ₹10,000 onwards, typically ready in one to two weeks. A 299+ page SEO website, for an institute or supplier that wants a page for every course, product or nearby town, is ₹20,000 onwards and takes three to five weeks. Android and iOS apps and AI automation each start at ₹40,000. Online stores begin at ₹50,000, custom software such as a mill register at ₹60,000, and monthly SEO at ₹10,000.",
         "The quote rises only for features you pick: Hindi translation, a bigger catalogue, courier rate tables, payment checkout, staff logins, reports or a link to Tally. Each is listed separately, so you can remove any line and see the new total. Sending your own photos and write-up keeps content costs low.",
         "Quotes in the Bilaspur region vary widely for work that sounds similar. Before you pay anyone, ask whose name the domain is registered in, whether the source code is handed over, how the site is tested on low-cost phones, what basic SEO is included, how many revision rounds you get and who responds when something breaks a year later. Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>, and a detailed quote comes within about two working days.",
       ],
@@ -219,7 +219,7 @@ const nailaJanjgir: CityContent = {
     {
       question: "What is the website cost in Janjgir?",
       answer:
-        "Our websites start at ₹10,000 for up to 100 static pages, ₹20,000 for a 700+ page SEO website, ₹50,000 for an online store and ₹60,000 for custom software. These are starting prices; the final figure depends on pages, Hindi content, products and features, and you receive it as an itemised written quote before any payment.",
+        "Our websites start at ₹10,000 for up to 100 static pages, ₹20,000 for a 299+ page SEO website, ₹50,000 for an online store and ₹60,000 for custom software. These are starting prices; the final figure depends on pages, Hindi content, products and features, and you receive it as an itemised written quote before any payment.",
     },
     {
       question: "Do you build Android and iOS apps for Naila Janjgir businesses?",
@@ -244,7 +244,7 @@ const nailaJanjgir: CityContent = {
     {
       question: "How long does a website take in Janjgir?",
       answer:
-        "A static business website usually goes live in one to two weeks after we receive your content. A 700+ page SEO website takes three to five weeks, an online store four to eight, AI automation two to four, and custom software six to twelve. Projects move fastest when photos and text arrive in the first week.",
+        "A static business website usually goes live in one to two weeks after we receive your content. A 299+ page SEO website takes three to five weeks, an online store four to eight, AI automation two to four, and custom software six to twelve. Projects move fastest when photos and text arrive in the first week.",
     },
     {
       question: "Can you help my Janjgir business show on Google Maps?",

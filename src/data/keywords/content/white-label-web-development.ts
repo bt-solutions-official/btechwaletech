@@ -56,7 +56,7 @@ const content: FreelanceContent = {
     rows: [
       { label: "Who the end client sees", value: "Your agency only" },
       { label: "Static site, up to 100 pages", value: `From ${P.siteUsd} · ${P.site}` },
-      { label: "SEO website, 700+ pages", value: `From ${P.seoSiteUsd} · ${P.seoSite}` },
+      { label: "SEO website, 299+ pages", value: `From ${P.seoSiteUsd} · ${P.seoSite}` },
       { label: "Online store", value: `From ${P.shopUsd} · ${P.shop}` },
       { label: "Apps and web apps", value: `App from ${P.appUsd}; web app from ${P.softwareUsd}` },
       { label: "Payment", value: "Wise, bank wire or PayPal abroad; UPI or bank transfer in India" },
@@ -225,7 +225,7 @@ const content: FreelanceContent = {
       heading: "White label web development pricing and agency margins",
       paragraphs: [
         `Most agencies buy white label web development per project and add their own margin for strategy, design, account management and risk. Because our estimates are itemised, you can see exactly which lines drive cost and price your proposal accordingly.`,
-        `Starting points: a static site from ${P.siteUsd} (${P.site}), an SEO website with 700+ pages from ${P.seoSiteUsd}, an online store from ${P.shopUsd}, an app from ${P.appUsd}, a custom web app from ${P.softwareUsd}, and AI automation from ${P.aiUsd}. Care plans after the five free months start at ${P.careUsd}.`,
+        `Starting points: a static site from ${P.siteUsd} (${P.site}), an SEO website with 299+ pages from ${P.seoSiteUsd}, an online store from ${P.shopUsd}, an app from ${P.appUsd}, a custom web app from ${P.softwareUsd}, and AI automation from ${P.aiUsd}. Care plans after the five free months start at ${P.careUsd}.`,
         `Across the market, white label quotes vary widely. The difference usually comes from the level of design fidelity expected, whether content loading and image preparation are included, the testing depth, and support after launch. Ask every partner to price the same written brief so you compare like with like.`,
       ],
     },
@@ -292,7 +292,7 @@ const content: FreelanceContent = {
       columns: ["Build", "Abroad, from", "India, from", "Timeline", "Typical agency use"],
       rows: [
         ["Static site, up to 100 pages", `From ${P.siteUsd}`, `From ${P.site}`, "1–2 weeks", "Brochure sites from agency designs"],
-        ["SEO website, 700+ pages", `From ${P.seoSiteUsd}`, `From ${P.seoSite}`, "3–5 weeks", "Location and service sites for SEO clients"],
+        ["SEO website, 299+ pages", `From ${P.seoSiteUsd}`, `From ${P.seoSite}`, "3–5 weeks", "Location and service sites for SEO clients"],
         ["Online store", `From ${P.shopUsd}`, `From ${P.shop}`, "4–8 weeks", "WooCommerce, Shopify or custom stores"],
         ["Custom web app or portal", `From ${P.softwareUsd}`, `From ${P.software}`, "6–12 weeks", "Client dashboards and booking systems"],
         ["Android & iOS app", `From ${P.appUsd}`, `From ${P.app}`, "6–10 weeks", "Companion apps for agency clients"],
@@ -369,7 +369,7 @@ const content: FreelanceContent = {
   faqHeading: "White label web development: agency questions",
   faqs: [
     { question: "What is white label web development?", answer: "White label web development is an arrangement where a development team builds websites or apps that an agency sells to its clients under its own brand. The builder stays invisible: no credits on the site, no contact with the client unless requested, and handover documents carry the agency's name. The agency keeps the client relationship and sets the resale price." },
-    { question: "How much does white label web development cost?", answer: `With BtechWaleTech a static site starts at ${P.siteUsd} (${P.site}), an SEO website with 700+ pages at ${P.seoSiteUsd}, an online store at ${P.shopUsd} and a custom web app at ${P.softwareUsd}. Each project gets an itemised estimate, so you can add your margin line by line. Your resale price is entirely your decision.` },
+    { question: "How much does white label web development cost?", answer: `With BtechWaleTech a static site starts at ${P.siteUsd} (${P.site}), an SEO website with 299+ pages at ${P.seoSiteUsd}, an online store at ${P.shopUsd} and a custom web app at ${P.softwareUsd}. Each project gets an itemised estimate, so you can add your margin line by line. Your resale price is entirely your decision.` },
     { question: "Will my clients know you built their website?", answer: "Not from us. We add no footer credits, code comments or branded admin screens, never publish your clients in our portfolio, and host staging on your domain. If your client needs to speak to a developer, we join calls only when you ask, introduced as part of your team." },
     { question: "Do you sign an NDA for white label work?", answer: "Confidentiality terms, including any NDA your agency uses, are agreed in the written quote before you share client details. Ask us for what you need. Until terms are in place, you can brief us with anonymised information such as the industry, page list and features, without naming the client." },
     { question: "Who owns the code and accounts in a white label project?", answer: "The end client or your agency, depending on your own contracts, never us. We work as invited users on hosting, domain and repository accounts. That way, if the client changes agencies or you change partners, nothing has to be recovered from the developer and the work can continue without delay." },

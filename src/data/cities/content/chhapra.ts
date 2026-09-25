@@ -34,7 +34,7 @@ const chhapra: CityContent = {
     pills: ["From ₹10,000", "Hindi-first pages", "Google Maps setup", "WhatsApp enquiry tracking", "Your domain, your code"],
   },
   quickAnswer:
-    "In Chhapra, we build a business website of up to 100 pages from ₹10,000 in one to two weeks and a 700+ page SEO website from ₹20,000 in three to five weeks. Online stores cost from ₹50,000 and custom software from ₹60,000. We are a remote team of three engineers, you own the domain and code, and the first five months of maintenance are free.",
+    "In Chhapra, we build a business website of up to 100 pages from ₹10,000 in one to two weeks and a 299+ page SEO website from ₹20,000 in three to five weeks. Online stores cost from ₹50,000 and custom software from ₹60,000. We are a remote team of three engineers, you own the domain and code, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Role", value: "Headquarters of Saran district and Saran division, about 70 km west of Patna" },
     { label: "Geography", value: "Near the meeting of the Ghaghara and the Ganga in north-western Bihar" },
@@ -72,12 +72,12 @@ const chhapra: CityContent = {
       heading: "Website prices in Chhapra, and what you should get for them",
       paragraphs: [
         "Offers in Chhapra range from ₹2,000 packages to quotes from Patna firms that run into lakhs. A very cheap site is often a template on the designer's hosting, and it vanishes when you stop paying him. A very expensive one may include things you do not need. Ask for a list of what the price includes, in writing.",
-        "Our starting prices are published. A static site of up to 100 pages is from ₹10,000 and takes one to two weeks. A 700+ page SEO site, with a page for each department, course, product range or service, is from ₹20,000 over three to five weeks. An online store with UPI and card payments via Razorpay starts at ₹50,000 and takes four to eight weeks. Custom software starts at ₹60,000 and takes six to twelve weeks.",
+        "Our starting prices are published. A static site of up to 100 pages is from ₹10,000 and takes one to two weeks. A 299+ page SEO site, with a page for each department, course, product range or service, is from ₹20,000 over three to five weeks. An online store with UPI and card payments via Razorpay starts at ₹50,000 and takes four to eight weeks. Custom software starts at ₹60,000 and takes six to twelve weeks.",
         "WhatsApp and AI automation starts at ₹40,000, monthly SEO at ₹10,000, and paid maintenance at ₹8,000 a month after five free months. Details are on our <a href=\"/pricing/\">pricing page</a>. You get an itemised quote in about two working days after we understand your business.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> a site of up to 100 pages for a shop, clinic, advocate, tutor or tent house.",
-        "<strong>From ₹20,000:</strong> 700+ page site for schools, hospitals and multi-service firms.",
+        "<strong>From ₹20,000:</strong> 299+ page site for schools, hospitals and multi-service firms.",
         "<strong>From ₹50,000:</strong> online store with UPI, cards and delivery rules.",
         "<strong>From ₹60,000:</strong> admissions, fee, billing or dealer order software.",
       ],
@@ -216,12 +216,12 @@ const chhapra: CityContent = {
     {
       question: "How much does a website cost in Chhapra?",
       answer:
-        "Our prices start at ₹10,000 for a static site of up to 100 pages, ₹20,000 for a 700+ page SEO site, ₹50,000 for an online store and ₹60,000 for custom software. Quotes around Chhapra vary widely, so check whether the domain is in your name, whether you get the hosting login and what support follows launch.",
+        "Our prices start at ₹10,000 for a static site of up to 100 pages, ₹20,000 for a 299+ page SEO site, ₹50,000 for an online store and ₹60,000 for custom software. Quotes around Chhapra vary widely, so check whether the domain is in your name, whether you get the hosting login and what support follows launch.",
     },
     {
       question: "Chhapra me hospital ya coaching ki website banwane ka kharcha kitna hai?",
       answer:
-        "Simple website ₹10,000 se shuru hoti hai aur 700+ page wali SEO website ₹20,000 se. Coaching ya school ke liye admission aur fee system ₹60,000 se banta hai. Pehle pura itemised quote milega, aur jab tak aap likh kar haan nahi kehte, tab tak koi paisa nahi lagta.",
+        "Simple website ₹10,000 se shuru hoti hai aur 299+ page wali SEO website ₹20,000 se. Coaching ya school ke liye admission aur fee system ₹60,000 se banta hai. Pehle pura itemised quote milega, aur jab tak aap likh kar haan nahi kehte, tab tak koi paisa nahi lagta.",
     },
     {
       question: "Do you have an office in Chhapra?",
@@ -241,7 +241,7 @@ const chhapra: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. The usual delay is waiting for photos and text, so we write the first draft ourselves.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. The usual delay is waiting for photos and text, so we write the first draft ourselves.",
     },
     {
       question: "Can my website be in Hindi?",

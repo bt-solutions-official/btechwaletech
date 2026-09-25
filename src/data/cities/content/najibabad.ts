@@ -39,7 +39,7 @@ const najibabad: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi and Urdu-friendly pages", "Cane and timber trade tools", "Domain and code in your name"],
   },
   quickAnswer:
-    "A Najibabad business website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps and AI or WhatsApp automation start at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, with no Najibabad office.",
+    "A Najibabad business website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps and AI or WhatsApp automation start at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, with no Najibabad office.",
   snapshot: [
     { label: "Location", value: "Town in Bijnor district of western Uttar Pradesh, close to the Uttarakhand border" },
     { label: "Founded", value: "1751 by the Rohilla chief Najib-ud-Daula, after whom the town is named" },
@@ -87,7 +87,7 @@ const najibabad: CityContent = {
       paragraphs: [
         "Timber has been part of Najibabad's trade since its early years, and today the town has saw mills, plywood and board sellers, furniture workshops and building-material shops. Their buyers are contractors and families building houses in the surrounding villages and in the foothill towns, and those buyers increasingly shortlist dealers on their phones.",
         "A useful dealer website is not a brochure. It lists the timber species and board grades you stock, thickness and size options, whether you cut to size, delivery distance and a WhatsApp button that opens a message with the product already named. For a <strong>website development team in Najibabad</strong>, the real task is keeping that catalogue easy for the owner to update after launch, so we add a simple admin panel.",
-        "Static sites with up to 100 pages start at ₹10,000 and take one to two weeks. If you want every product and every nearby town to have its own page, an SEO website with 700+ pages starts at ₹20,000 and takes three to five weeks. See the full range under <a href=\"/services/web-development/\">web development</a>.",
+        "Static sites with up to 100 pages start at ₹10,000 and take one to two weeks. If you want every product and every nearby town to have its own page, an SEO website with 299+ pages starts at ₹20,000 and takes three to five weeks. See the full range under <a href=\"/services/web-development/\">web development</a>.",
       ],
     },
     {
@@ -157,7 +157,7 @@ const najibabad: CityContent = {
       id: "website-cost-najibabad",
       heading: "Website cost in Najibabad and what drives the quote",
       paragraphs: [
-        "People asking about the <strong>website cost in Najibabad</strong> usually want one number. The honest answer is a starting price plus a list of what moves it. Our static websites with up to 100 pages start at ₹10,000 and take one to two weeks. SEO websites with 700+ pages start at ₹20,000, online stores at ₹50,000, Android and iOS apps and AI automation at ₹40,000, and custom software at ₹60,000.",
+        "People asking about the <strong>website cost in Najibabad</strong> usually want one number. The honest answer is a starting price plus a list of what moves it. Our static websites with up to 100 pages start at ₹10,000 and take one to two weeks. SEO websites with 299+ pages start at ₹20,000, online stores at ₹50,000, Android and iOS apps and AI automation at ₹40,000, and custom software at ₹60,000.",
         "The things that change a quote are predictable: the number of pages or products, whether content is in Hindi, English or both, whether we write the text or you supply it, payment and courier integrations, and how many app screens there are. We list each item separately, so you can drop the ones you do not need.",
         "Local quotes in Bijnor district vary widely, so compare like with like. Ask who owns the domain and hosting, how many pages are included, whether maintenance is extra, and how updates will be handled. Our full price list is on the <a href=\"/pricing/\">pricing page</a>.",
       ],
@@ -209,7 +209,7 @@ const najibabad: CityContent = {
     {
       question: "What is the website cost in Najibabad?",
       answer:
-        "Static websites start at ₹10,000, SEO websites with 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The quote depends on pages, Hindi or bilingual content, products and integrations, and we send it itemised in writing before any billing.",
+        "Static websites start at ₹10,000, SEO websites with 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The quote depends on pages, Hindi or bilingual content, products and integrations, and we send it itemised in writing before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Najibabad businesses?",
@@ -219,7 +219,7 @@ const najibabad: CityContent = {
     {
       question: "How long does a website take for a Najibabad shop?",
       answer:
-        "A static website usually goes live within one to two weeks once we have your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Content arriving late is the most common cause of delay.",
+        "A static website usually goes live within one to two weeks once we have your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Content arriving late is the most common cause of delay.",
     },
     {
       question: "Which is the best website development team in Najibabad?",
@@ -234,7 +234,7 @@ const najibabad: CityContent = {
     {
       question: "Najibabad me website banwane me kitna kharcha aata hai?",
       answer:
-        "Simple website ₹10,000 se shuru hoti hai aur aam taur par 1–2 hafte me ban jaati hai. 700+ page wali SEO website ₹20,000 se, online store ₹50,000 se aur Android–iOS app ₹40,000 se shuru hota hai. Final quote pages aur features par depend karta hai, aur approval se pehle kuch bill nahi hota.",
+        "Simple website ₹10,000 se shuru hoti hai aur aam taur par 1–2 hafte me ban jaati hai. 299+ page wali SEO website ₹20,000 se, online store ₹50,000 se aur Android–iOS app ₹40,000 se shuru hota hai. Final quote pages aur features par depend karta hai, aur approval se pehle kuch bill nahi hota.",
     },
     {
       question: "Do you offer AI and WhatsApp automation in Najibabad?",

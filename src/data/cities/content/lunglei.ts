@@ -39,7 +39,7 @@ const lunglei: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Mizo and English pages", "Homestay and tourism listings", "All accounts in your name"],
   },
   quickAnswer:
-    "In Lunglei, a website with us starts at ₹10,000 and a 700+ page SEO site at ₹20,000. Android and iOS apps and AI or WhatsApp automation start at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely with no office in Lunglei or Mizoram, and you own the domain, code and app store accounts.",
+    "In Lunglei, a website with us starts at ₹10,000 and a 299+ page SEO site at ₹20,000. Android and iOS apps and AI or WhatsApp automation start at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely with no office in Lunglei or Mizoram, and you own the domain, code and app store accounts.",
   snapshot: [
     { label: "Status", value: "Headquarters of Lunglei district and the second-largest town in Mizoram, run by the Lunglei Municipal Council" },
     { label: "Setting", value: "Built on a ridge at around 1,200 m; the name means “bridge of rock” in Mizo" },
@@ -149,7 +149,7 @@ const lunglei: CityContent = {
       id: "website-cost-lunglei",
       heading: "Website cost in Lunglei: starting prices and what to check",
       paragraphs: [
-        "Here are our entry points for Lunglei. A static website of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks. A 700+ page SEO site, suited to a college with many courses or a business covering many products, starts at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation each start at ₹40,000. Online stores start at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
+        "Here are our entry points for Lunglei. A static website of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks. A 299+ page SEO site, suited to a college with many courses or a business covering many products, starts at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation each start at ₹40,000. Online stores start at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
         "The quote rises only for things you choose, such as Mizo and English versions, a large catalogue, online payments, staff logins or software integration. Each appears as a separate line you can accept or remove. Supplying your own text and photographs keeps the cost close to the starting figure.",
         "Quotes for similar work vary widely, whether from Aizawl, Guwahati or further away. Compare who will own the domain and hosting, whether the site is tested on mobile data, whether basic SEO is included, how many rounds of changes are covered and what support costs after the first year. Our full list is on the <a href=\"/pricing/\">pricing page</a>, and an itemised written quote reaches you in about two working days.",
       ],
@@ -210,7 +210,7 @@ const lunglei: CityContent = {
     {
       question: "What is the website cost in Lunglei?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, Mizo and English content, products and integrations, and it arrives itemised in writing before anything is billed.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, Mizo and English content, products and integrations, and it arrives itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Lunglei businesses?",
@@ -220,7 +220,7 @@ const lunglei: CityContent = {
     {
       question: "How long does a website take for a Lunglei organisation?",
       answer:
-        "A simple static site is normally ready in one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve. Sending content early, including approved Mizo text, keeps things moving.",
+        "A simple static site is normally ready in one to two weeks after we receive your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve. Sending content early, including approved Mizo text, keeps things moving.",
     },
     {
       question: "Which is the best website development team in Lunglei?",
@@ -245,7 +245,7 @@ const lunglei: CityContent = {
     {
       question: "Lunglei me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte me ban jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapke features ke hisaab se likhit quote bhejte hain.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte me ban jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapke features ke hisaab se likhit quote bhejte hain.",
     },
     {
       question: "You have no office in Lunglei. Is it safe to work remotely with you?",

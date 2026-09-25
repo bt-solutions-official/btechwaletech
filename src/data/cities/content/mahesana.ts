@@ -35,7 +35,7 @@ const mahesana: CityContent = {
     pills: ["Websites from ₹10,000", "Gujarati and English pages", "Supplier sites for GIDC units", "Trader catalogues for Unjha", "WhatsApp enquiry handling"],
   },
   quickAnswer:
-    "For a Mehsana business, a static website with us starts at ₹10,000 and is usually live in one to two weeks. A 700+ page SEO website starts at ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team with no Mehsana office, and the first five months of maintenance are free.",
+    "For a Mehsana business, a static website with us starts at ₹10,000 and is usually live in one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team with no Mehsana office, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of Mehsana district in north Gujarat, about 75 km north of Ahmedabad; a municipal corporation since January 2025" },
     { label: "Dairy", value: "Home of Dudhsagar Dairy, the Mehsana district cooperative milk union and one of Asia's largest dairies by volume handled" },
@@ -73,12 +73,12 @@ const mahesana: CityContent = {
       heading: "What a website costs in Mehsana, and what the price should include",
       paragraphs: [
         "Quotes around Mehsana swing widely. A local freelancer may offer a template for a few thousand rupees; an Ahmedabad agency might ask for a lakh. The cheaper option usually leaves out search setup and keeps the domain in the builder's own account. The expensive one often pays for an office and a sales team you never meet.",
-        "Our prices are published on the <a href=\"/pricing/\">pricing page</a> and every one of them is a starting point. A static site of up to 100 pages, which suits most shops, clinics, tuition classes and small GIDC units, starts at ₹10,000 and takes one to two weeks. An SEO website of 700+ pages, planned around real search terms, starts from ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts at ₹40,000, ecommerce stores from ₹50,000, custom web applications from ₹60,000, and monthly SEO from ₹10,000 a month.",
+        "Our prices are published on the <a href=\"/pricing/\">pricing page</a> and every one of them is a starting point. A static site of up to 100 pages, which suits most shops, clinics, tuition classes and small GIDC units, starts at ₹10,000 and takes one to two weeks. An SEO website of 299+ pages, planned around real search terms, starts from ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts at ₹40,000, ecommerce stores from ₹50,000, custom web applications from ₹60,000, and monthly SEO from ₹10,000 a month.",
         "Where your project lands depends on content and features. A dental clinic with six services needs far less than a spice exporter listing grades, origins, moisture levels and packing sizes in two languages. We list every page and feature in writing, so you can remove what you don't need before approving.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form, map and basic on-page SEO, for shops, clinics and small units.",
-        "<strong>From ₹20,000:</strong> 700+ pages built around searches, for manufacturers, traders and institutes that want steady enquiries.",
+        "<strong>From ₹20,000:</strong> 299+ pages built around searches, for manufacturers, traders and institutes that want steady enquiries.",
         "<strong>From ₹50,000:</strong> a store with catalogue, cart and UPI or card payments, for packaged spices, dairy sweets or crafts.",
         "<strong>From ₹60,000:</strong> logins, dashboards and workflows, for contractors, distributors and schools.",
       ],
@@ -209,12 +209,12 @@ const mahesana: CityContent = {
     {
       question: "How much does a website cost in Mehsana?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO website from ₹20,000, an online store from ₹50,000 and a custom web application from ₹60,000. These are starting prices. Your written quote depends on pages, features and content, and nothing is billed until you approve it.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO website from ₹20,000, an online store from ₹50,000 and a custom web application from ₹60,000. These are starting prices. Your written quote depends on pages, features and content, and nothing is billed until you approve it.",
     },
     {
       question: "Mehsana ma website banavva no kharch ketlo thay?",
       answer:
-        "Amari sathe simple website ₹10,000 thi sharu thay chhe, 700+ page ni SEO website ₹20,000 thi, ane online store ₹50,000 thi. Final kimat pages, features ane content par aadhar rakhe chhe. Kaam sharu karta pehla tamne lekhit, itemised quote male chhe, ane tamari manjuri pachhi j bill bane chhe.",
+        "Amari sathe simple website ₹10,000 thi sharu thay chhe, 299+ page ni SEO website ₹20,000 thi, ane online store ₹50,000 thi. Final kimat pages, features ane content par aadhar rakhe chhe. Kaam sharu karta pehla tamne lekhit, itemised quote male chhe, ane tamari manjuri pachhi j bill bane chhe.",
     },
     {
       question: "Do you have an office in Mehsana?",
@@ -244,7 +244,7 @@ const mahesana: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks, and custom software six to twelve. Delays mostly come from waiting for photos and text, so we draft content for you to correct.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks, and custom software six to twelve. Delays mostly come from waiting for photos and text, so we draft content for you to correct.",
     },
     {
       question: "What can WhatsApp automation do for a Mehsana shop or institute?",

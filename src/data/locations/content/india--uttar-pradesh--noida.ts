@@ -187,7 +187,7 @@ const content: CityContent = {
       heading: "SEO and AI-search visibility for Noida businesses",
       paragraphs: [
         "SEO for Noida businesses means ranking for sector-level local searches, B2B and SaaS keywords, and export buyer queries, and ensuring AI assistants find consistent, accurate information about your business to cite. Monthly SEO with BtechWaleTech starts from ₹10,000.",
-        "Noida's sector-based addressing makes local SEO distinctive: people search for services in Sector 18, Sector 62 or Greater Noida West, and genuinely helpful sector-level pages can rank well when backed by a strong Google Business Profile. B2B firms need capability, industry and case-style pages; SaaS products need use-case, integration and comparison pages. Our <a href='/services/seo-services/'>SEO services</a> include 700+ page SEO websites from ₹20,000 for large structures, built with our <a href='/services/web-development/'>web development</a> stack.",
+        "Noida's sector-based addressing makes local SEO distinctive: people search for services in Sector 18, Sector 62 or Greater Noida West, and genuinely helpful sector-level pages can rank well when backed by a strong Google Business Profile. B2B firms need capability, industry and case-style pages; SaaS products need use-case, integration and comparison pages. Our <a href='/services/seo-services/'>SEO services</a> include 299+ page SEO websites from ₹20,000 for large structures, built with our <a href='/services/web-development/'>web development</a> stack.",
         "For AI search we add structured data, FAQ content and consistent facts across listings. We never guarantee rankings. Local results often move within three to six months; competitive B2B terms take longer. For a website-first project, see our <a href='/noida/'>Noida websites and SEO page</a>.",
       ],
     },
@@ -195,7 +195,7 @@ const content: CityContent = {
       id: "noida-cost-payment-remote",
       heading: "What IT solutions cost in Noida and how our remote process works",
       paragraphs: [
-        "IT solutions in Noida with BtechWaleTech start from ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for ecommerce and ₹60,000 for custom software or product builds. Monthly SEO starts from ₹10,000, and maintenance from ₹8,000 a month after five free months.",
+        "IT solutions in Noida with BtechWaleTech start from ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for ecommerce and ₹60,000 for custom software or product builds. Monthly SEO starts from ₹10,000, and maintenance from ₹8,000 a month after five free months.",
         "Final cost depends on features, roles, integrations, data migration, content and languages. The process: free consultation, itemised estimate in about two working days, milestone plan, working preview in the first week, weekly updates, testing with your users, launch on infrastructure in your name, and documented handover with recorded walkthroughs.",
         "Noida clients pay only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in INR, in milestones tied to visible progress. We have no Noida office and do not work on site. See our <a href='/portfolio/'>portfolio</a>, meet the team on the <a href='/about/'>about page</a>, or read the wider <a href='/india/uttar-pradesh/'>Uttar Pradesh overview</a>.",
       ],

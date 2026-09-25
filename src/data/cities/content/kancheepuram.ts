@@ -35,7 +35,7 @@ const kancheepuram: CityContent = {
     pills: ["Sites from ₹10,000", "Tamil and English pages", "Silk saree stores", "Hotel and pilgrim bookings", "Vendor sites for auto hubs"],
   },
   quickAnswer:
-    "In Kancheepuram, a static business website with us starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site starts from ₹20,000, and an online silk saree store from ₹50,000. We are a remote three-engineer team with no Kancheepuram office, and every site gets five months of free maintenance.",
+    "In Kancheepuram, a static business website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts from ₹20,000, and an online silk saree store from ₹50,000. We are a remote three-engineer team with no Kancheepuram office, and every site gets five months of free maintenance.",
   snapshot: [
     { label: "Location", value: "On the Vegavathi river, about 72 km south-west of Chennai" },
     { label: "Signature product", value: "Kanchipuram silk sarees, among the first products in India to receive a Geographical Indication tag" },
@@ -73,7 +73,7 @@ const kancheepuram: CityContent = {
       heading: "What a website costs in Kancheepuram, and what drives the price",
       paragraphs: [
         "Quotes here can range from a few thousand rupees for a template page to large sums from Chennai agencies. The cheapest options often skip search setup and keep hosting in the developer's name. The priciest include overheads that a weaving family or small lodge should not be paying for.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages starts at ₹10,000 and is ready in one to two weeks. A 700+ page SEO site starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, custom web applications from ₹60,000, WhatsApp and AI automation from ₹40,000, and monthly SEO from ₹10,000.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO site starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, custom web applications from ₹60,000, WhatsApp and AI automation from ₹40,000, and monthly SEO from ₹10,000.",
         "The final figure depends on the number of pages and products, the features you need and how much content is ready. We send an itemised quote in about two working days, and billing begins only after your written approval.",
       ],
       list: [
@@ -222,7 +222,7 @@ const kancheepuram: CityContent = {
     {
       question: "How much does a website cost in Kancheepuram?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website from ₹20,000, an online store from ₹50,000 and a custom web application from ₹60,000. The final price depends on pages, products and features. When comparing quotes, check that the domain will be in your name and that SEO and support after launch are included.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website from ₹20,000, an online store from ₹50,000 and a custom web application from ₹60,000. The final price depends on pages, products and features. When comparing quotes, check that the domain will be in your name and that SEO and support after launch are included.",
     },
     {
       question: "Kanchipuram la website panna evvalavu selavu aagum?",
@@ -257,7 +257,7 @@ const kancheepuram: CityContent = {
     {
       question: "How long does it take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve. For saree stores, product photography is usually the slowest part, so we send a simple phone photography guide.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve. For saree stores, product photography is usually the slowest part, so we send a simple phone photography guide.",
     },
     {
       question: "I supply parts to Sriperumbudur plants. Do I need a website?",

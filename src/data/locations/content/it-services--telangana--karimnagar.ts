@@ -123,7 +123,7 @@ const content: CityContent = {
       paragraphs: [
         "Proper SEO setup for a Karimnagar business means connecting Google Search Console, submitting a sitemap, adding schema markup, writing a unique title and description for every page, linking a verified Google Business Profile, and building a page for each real service or product. Without these basics, even a good-looking website stays invisible.",
         "We then build content that answers the questions people in Karimnagar actually search, such as specialties, treatments, granite colours, courses or services near Mukarampura, Jyothi Nagar or Tower Circle, in Telugu and English where useful. FAQs are written so AI assistants can quote them accurately.",
-        "Websites with SEO setup start at ₹10,000; 700+ page SEO websites at ₹20,000; monthly SEO at ₹10,000. We never guarantee rankings but report monthly from Search Console. Details are on our <a href=\"/services/seo-services/\">SEO services page</a>.",
+        "Websites with SEO setup start at ₹10,000; 299+ page SEO websites at ₹20,000; monthly SEO at ₹10,000. We never guarantee rankings but report monthly from Search Console. Details are on our <a href=\"/services/seo-services/\">SEO services page</a>.",
       ],
     },
     {
@@ -218,7 +218,7 @@ const content: CityContent = {
       ],
       list: [
         "Business website with SEO setup, up to 100 pages: from ₹10,000, one to two weeks",
-        "SEO website with 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website with 299+ pages: from ₹20,000, three to five weeks",
         "WhatsApp and AI automation: from ₹40,000, two to four weeks",
         "Android and iOS app: from ₹40,000, six to ten weeks",
         "Online store: from ₹50,000, four to eight weeks",

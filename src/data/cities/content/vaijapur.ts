@@ -163,7 +163,7 @@ const vaijapur: CityContent = {
       id: "website-cost-vaijapur",
       heading: "Website cost in Vaijapur: starting prices and a fair comparison",
       paragraphs: [
-        "Most calls start with the price, so here it is. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website, useful for a dealer covering every village or an institution listing every course, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and so does AI automation, which usually takes two to four weeks.",
+        "Most calls start with the price, so here it is. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website, useful for a dealer covering every village or an institution listing every course, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and so does AI automation, which usually takes two to four weeks.",
         "An online store starts at ₹50,000 and takes four to eight weeks; custom software such as a fleet or credit ledger starts at ₹60,000 and takes six to twelve. Monthly SEO starts at ₹10,000 a month. Your quote goes up only for what you choose, such as Marathi and English versions, more products, staff logins, online payment or a Tally link, and each choice appears as its own line.",
         "Local and online quotes for similar-looking work differ a great deal, so compare on more than the headline figure. Ask whose name the domain is in, whether you receive the code, how many rounds of changes are included, whether the site is tested on cheap phones, and what the second year costs. Our entry prices are on the <a href=\"/pricing/\">pricing page</a>, and your itemised quote normally arrives within two working days.",
       ],
@@ -215,7 +215,7 @@ const vaijapur: CityContent = {
     {
       question: "What is the website cost in Vaijapur?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices only. The final quote depends on pages, Marathi content, products and features, and it reaches you itemised and in writing before anything is billed.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices only. The final quote depends on pages, Marathi content, products and features, and it reaches you itemised and in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Vaijapur businesses?",
@@ -230,7 +230,7 @@ const vaijapur: CityContent = {
     {
       question: "How long does a website take for a Vaijapur business?",
       answer:
-        "A simple business site is usually live in one to two weeks once we have your details and photos. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Sending content in the first few days is the biggest thing that speeds things up.",
+        "A simple business site is usually live in one to two weeks once we have your details and photos. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Sending content in the first few days is the biggest thing that speeds things up.",
     },
     {
       question: "Can you get my Vaijapur shop onto Google Maps?",

@@ -39,7 +39,7 @@ const taliparamba: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Malayalam local SEO", "Spice and hill produce trade", "Your name on every account"],
   },
   quickAnswer:
-    "For a Taliparamba business, a website with us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, have no Taliparamba office, and you own everything built.",
+    "For a Taliparamba business, a website with us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, have no Taliparamba office, and you own everything built.",
   snapshot: [
     { label: "Location", value: "Municipality and taluk headquarters in Kannur district, about 22 km north of Kannur town on NH 66" },
     { label: "Rivers", value: "The Kuppam river to the north and the Valapattanam river to the south" },
@@ -154,7 +154,7 @@ const taliparamba: CityContent = {
       id: "website-cost-taliparamba",
       heading: "Website cost in Taliparamba: starting prices and what changes the quote",
       paragraphs: [
-        "Our starting prices for Taliparamba are published openly. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Monthly SEO begins at ₹10,000 a month.",
+        "Our starting prices for Taliparamba are published openly. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Monthly SEO begins at ₹10,000 a month.",
         "The figure rises with scope: more pages, full Malayalam and English versions, large product catalogues, payment and courier integration, user logins or connections to Tally. Content is a real cost too. If you supply text and photographs, the price stays close to the starting figure; if we write, translate and organise everything, that appears as a separate line.",
         "Quotes from local designers and larger firms in Kannur vary widely. When you compare them, ask whose name the domain and hosting will be in, whether basic SEO and mobile testing are included, how many rounds of changes you get, and who fixes problems after launch. Our <a href=\"/pricing/\">pricing page</a> lists the starting points, and your itemised quote normally arrives within two working days.",
       ],
@@ -224,7 +224,7 @@ const taliparamba: CityContent = {
     {
       question: "What is the website cost in Taliparamba?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, Malayalam content, products and integrations. You get it itemised in writing, and nothing is billed before you approve.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, Malayalam content, products and integrations. You get it itemised in writing, and nothing is billed before you approve.",
     },
     {
       question: "Do you build Android and iOS apps for Taliparamba businesses?",
@@ -234,7 +234,7 @@ const taliparamba: CityContent = {
     {
       question: "How long does a website take for a Taliparamba shop?",
       answer:
-        "A static website usually goes live in one to two weeks once we have your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having your content and Malayalam text ready is the biggest factor.",
+        "A static website usually goes live in one to two weeks once we have your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having your content and Malayalam text ready is the biggest factor.",
     },
     {
       question: "Which is the best website development team in Taliparamba?",
@@ -259,7 +259,7 @@ const taliparamba: CityContent = {
     {
       question: "Taliparambil oru website undakkan ethra chilavakum?",
       answer:
-        "Njangalude simple website ₹10,000 muthal thudangunnu, sadharana onnu-randu aazhchayil theerum. 700+ page SEO website ₹20,000 muthal, Android, iOS app ₹40,000 muthal, online store ₹50,000 muthal. Pages, features ennivayanusarichu final quote ezhuthi tharum; approve cheyyunnathinu munpu onnum bill cheyyilla.",
+        "Njangalude simple website ₹10,000 muthal thudangunnu, sadharana onnu-randu aazhchayil theerum. 299+ page SEO website ₹20,000 muthal, Android, iOS app ₹40,000 muthal, online store ₹50,000 muthal. Pages, features ennivayanusarichu final quote ezhuthi tharum; approve cheyyunnathinu munpu onnum bill cheyyilla.",
     },
     {
       question: "You have no office in Taliparamba. Is working remotely safe?",

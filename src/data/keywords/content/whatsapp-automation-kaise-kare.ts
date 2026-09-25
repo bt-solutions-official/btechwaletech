@@ -1,0 +1,510 @@
+import { inr, usd } from "@data/countries/international";
+import type { FreelanceContent } from "@data/freelance/types";
+
+const P = {
+  site: inr("Static"), siteUsd: usd("Static"), seoSite: inr("SEO website"), seoSiteUsd: usd("SEO website"),
+  shop: inr("Ecommerce"), shopUsd: usd("Ecommerce"), app: inr("Android"), appUsd: usd("Android"),
+  software: inr("Custom web app"), softwareUsd: usd("Custom web app"), ai: inr("AI automation"), aiUsd: usd("AI automation"),
+  seo: inr("Monthly SEO"), seoUsd: usd("Monthly SEO"), care: inr("Maintenance"), careUsd: usd("Maintenance"),
+};
+
+const content: FreelanceContent = {
+  path: "/whatsapp-automation-kaise-kare/",
+  crumb: "WhatsApp automation kaise kare",
+  updated: "2026-09-25",
+  meta: {
+    title: `WhatsApp Automation Kaise Kare: App vs API, ${P.ai} se`,
+    description: `WhatsApp automation kaise kare? Free Business App ki auto-reply, API se order updates, Google Sheets aur CRM sync, aur Meta ka kharcha. Setup ${P.ai} se.`,
+    keywords: [
+      "whatsapp automation kaise kare", "whatsapp automation kaise karte hain", "whatsapp par auto reply kaise lagaye",
+      "whatsapp business automation", "whatsapp automation for business india", "whatsapp business api kya hai",
+      "whatsapp business app vs api", "whatsapp chatbot kaise banaye", "whatsapp automation cost india",
+      "whatsapp automation price", "whatsapp order update automation", "whatsapp payment reminder automatic",
+      "whatsapp google sheets integration", "whatsapp crm integration", "whatsapp away message kaise set kare",
+      "whatsapp greeting message kaise lagaye", "whatsapp quick reply kaise banaye", "whatsapp automation tool free",
+      "whatsapp automation for small business", "whatsapp automation expert near me", "whatsapp template message approval",
+      "whatsapp automation for shop", "whatsapp automation for clinic", "whatsapp automation surat", "whatsapp automation jaipur",
+      "whatsapp bulk message ban se kaise bache", "whatsapp cloud api setup",
+    ],
+  },
+  hero: {
+    eyebrow: "Dukaan, clinic, coaching aur D2C brands ke liye",
+    h1: "WhatsApp automation kaise kare: free app se shuru kijiye, API tab lijiye jab sach mein zaroorat ho",
+    lede: `WhatsApp automation kaise kare, iska jawab aapke message volume par tikta hai: roz 20–30 chats hain toh free WhatsApp Business App ke greeting message, away message aur quick replies kaafi hain; roz sau se zyada orders, reminders ya leads hain toh WhatsApp Business API aur ek chhota backend chahiye. Hum teen freelance developers hain aur API wala automation setup ${P.ai} se banate hain, Google Sheets, CRM ya aapki website se jod kar. Neeche poora rasta hai, bina ban ke risk ke. Pehle tulna padhni ho toh <a href='/whatsapp-business-app-vs-api/'>Business App vs API</a> dekhiye.`,
+    pills: ["Free app ki automation pehle", `API setup ${P.ai} se`, "Order aur payment updates", "Google Sheets aur CRM sync", "Official Meta API, koi jugaad nahi", "Number aur account aapke naam", "Hindi aur English flows"],
+    origin: "Teen freelance developers, India se remote · WhatsApp par saaton din jawab (IST)",
+  },
+  facts: [
+    ["AI / WhatsApp automation", `${P.ai} se · 2–4 hafte`],
+    ["International quote", `${P.aiUsd} se, USD mein`],
+    ["Meta ka billing model", "1 July 2025 se per delivered template message"],
+    ["Customer service window", "User ke message ke baad 24 ghante"],
+    ["Business account kiske naam", "Aapke Meta business portfolio mein"],
+    ["Quote", "Line-by-line, lagbhag 2 working din"],
+  ],
+  stats: [
+    { value: "24", label: "Ghante ki service window jisme free-form reply bina template ke ja sakta hai" },
+    { value: "2", label: "Working din mein itemised automation quote" },
+    { value: "5", label: "Mahine free maintenance launch ke baad" },
+    { value: "7", label: "Din hafte mein WhatsApp par hamara jawab" },
+  ],
+  answer: {
+    heading: "WhatsApp automation kaise kare aur kitna kharcha aata hai?",
+    text: `Chhote business ke liye pehla kadam free WhatsApp Business App hai: greeting message, away message, quick replies aur labels bina kisi kharche ke set ho jaate hain. Order updates, reminders, chatbot ya Google Sheets sync ke liye official WhatsApp Business API chahiye. Hamara API automation setup ${P.ai} se shuru hota hai, aur Meta har delivered template message ka alag charge leta hai.`,
+    more: `Meta ke charges ka detail <a href='/whatsapp-business-api-cost-in-india/'>WhatsApp Business API cost in India</a> par hai, aur API account lene ka tareeka <a href='/whatsapp-business-api-kaise-le/'>WhatsApp Business API kaise le</a> par.`,
+  },
+  snapshot: {
+    caption: "WhatsApp automation ek nazar mein",
+    rows: [
+      { label: "Free raasta", value: "WhatsApp Business App: greeting, away, quick replies, labels, catalogue" },
+      { label: "Paid raasta", value: "WhatsApp Business Platform (Cloud API) + aapka backend" },
+      { label: "API kab chahiye", value: "Kai staff, system se auto messages, bade volume" },
+      { label: "Meta ka charge", value: "Template message deliver hone par, category ke hisaab se" },
+      { label: "Hamara setup", value: `${P.ai} se, 2–4 hafte` },
+      { label: "Sabse bada risk", value: "Unofficial bulk sender tools se number ban" },
+      { label: "Pehli zaroorat", value: "Customer ka opt-in, uske bina message nahi" },
+    ],
+  },
+  services: {
+    eyebrow: "Hum kya automate karte hain",
+    heading: "WhatsApp par kaunsa kaam machine kare, kaunsa insaan",
+    note: "Har flow ke end mein ek asli insaan tak pahunchne ka raasta hota hai. Automation repeat hone wale sawaalon aur updates ke liye hai; naraz customer ya bada order hamesha staff ke paas jaata hai.",
+    cards: [
+      { name: "Order aur delivery updates", note: "Order confirm, dispatch, out-for-delivery aur delivered, har status badalte hi approved utility template apne aap jaata hai. Website, Shopify ya Google Sheet, jahan se bhi order aata ho.", href: "/whatsapp-ordering-system/", size: "lg" },
+      { name: "Payment reminders", note: "Due date se pehle, due date par aur baad mein, teen reminder ek hi schedule se. Payment milte hi reminder band. Distributors, coaching fees aur rent collection ke liye kaam ka flow.", href: "/whatsapp-payment-reminder-automation/", size: "lg" },
+      { name: "Menu wala chatbot", note: "1 dabaiye price ke liye, 2 timing ke liye, 3 staff se baat ke liye. Simple, sasta aur galti kam; zyada tar dukaan aur clinic ke liye yahi kaafi hota hai.", href: "/whatsapp-chatbot-developer/", size: "md" },
+      { name: "AI chatbot Hindi aur English mein", note: "Jab sawaal bahut alag-alag hon, tab aapke apne FAQ aur price list se jawab dene wala AI bot, jo jawab na jaane toh staff ko de de.", href: "/hindi-ai-chatbot/", size: "md" },
+      { name: "Google Sheets se WhatsApp", note: "Sheet mein nayi row aayi, customer ko message gaya. Jo team pehle se Sheets par chalti hai uske liye sabse chhota aur sasta automation.", href: "/google-sheets-to-whatsapp/", size: "md" },
+      { name: "CRM aur lead sync", note: "Website form, IndiaMART ya ads se aayi lead ka naam, number aur sawaal CRM mein, aur pehla WhatsApp message turant.", href: "/whatsapp-crm-for-small-business/", size: "sm" },
+      { name: "API account setup", note: "Meta business verification, number registration, display name aur pehle templates ki approval, aapke naam par.", href: "/whatsapp-business-api-integration/", size: "sm" },
+      { name: "Store integrations", note: "WooCommerce aur Shopify orders se abandoned cart aur order messages.", href: "/shopify-whatsapp-integration/", size: "sm" },
+    ],
+  },
+  comparison: {
+    heading: "WhatsApp automation ke teen raaste: kya milta hai, kya chhootta hai",
+    note: "Sabse sasta raasta hamesha sabse sahi nahi, aur sabse mehenga bhi nahi. Apne roz ke chats ki ginti se faisla kijiye.",
+    columns: ["Sawaal", "Sirf free Business App", "Ready-made monthly tool", "BtechWaleTech custom setup"],
+    rows: [
+      ["Kharcha", "App free hai", "Tool ki monthly fee + Meta charges", `Setup ${P.ai} se + Meta charges`],
+      ["Auto-reply", "Greeting, away message, quick replies", "Flow builder, templates", "Aapke data se jude flows"],
+      ["System se message (order, fees)", "Nahi, haath se bhejna padta hai", "Haan, tool ke integrations tak", "Haan, kisi bhi system se jo API deta ho"],
+      ["Google Sheets / CRM", "Nahi", "Kuch ready connectors", "Jo aap use karte hain usi se"],
+      ["Kitne staff ek number par", "Linked devices tak simit", "Shared inbox, per-seat fee aam", "Shared inbox ya aapka CRM"],
+      ["Data kahan rehta hai", "Staff ke phones par", "Tool ke server par", "Aapke account aur aapke server par"],
+      ["Chhodna ho toh", "Kuch nahi chhodna", "Flows tool ke andar reh jaate hain", "Code aur flows aapke paas"],
+      ["Setup ka time", "Ek ghanta", "Kuch din", "2–4 hafte"],
+      ["Kiske liye sahi", "Roz kuch dozen chats", "Standard flows, bina custom data", "Aapke software se juda kaam"],
+    ],
+    fine: "Agar aapka kaam ek ready-made tool ke standard flows se chal jaata hai, toh custom setup par paisa lagana zaroori nahi; hum yeh pehli baat mein hi bata dete hain.",
+  },
+  pricing: {
+    heading: "WhatsApp automation ka kharcha: do alag bill samajhiye",
+    note: `WhatsApp automation mein do bill hote hain aur dono ko alag rakhna zaroori hai. Pehla, setup ka: flows, templates, backend aur integrations banana. Hamare saath yeh AI automation plan ${P.ai} se shuru hota hai aur 2–4 hafte lagte hain. Doosra, Meta ka: har delivered template message ka charge, jo category (marketing, utility, authentication) aur desh ke hisaab se badalta hai aur seedha aapke Meta account se kat-ta hai. Hum Meta ke charge par kuch nahi jodte. Launch ke baad 5 mahine maintenance free hai, phir ${P.care} se monthly. Neeche wali table baaki plans ki starting prices dikhati hai.`,
+  },
+  guideLabel: "WhatsApp automation ki step-by-step guide",
+  guide: [
+    {
+      id: "do-raaste",
+      heading: "WhatsApp automation kaise kare: pehle do raaston ko pehchaniye",
+      paragraphs: [
+        `WhatsApp automation ke sirf do official raaste hain: free WhatsApp Business App ke andar ke tools, aur Meta ka WhatsApp Business Platform, jise log aam taur par "API" kehte hain. Teesra raasta, yaani unofficial software jo aapke normal WhatsApp ko browser se chalata hai, automation nahi, risk hai.`,
+        `Business App ek phone app hai. Isme aap business profile, catalogue, labels, greeting message, away message aur quick replies set karte hain. Yeh sab tab kaam aata hai jab customer aapko message karta hai. App khud se kisi system ke kehne par message nahi bhejta, jaise "order dispatch ho gaya" wala message.`,
+        `API mein koi app nahi hota. Aapka software, jaise website, billing system, Google Sheet ya CRM, Meta ke server se baat karta hai aur approved templates bhejta hai. Isi se order updates, fee reminders, OTP aur chatbot bante hain. Iske liye ek developer chahiye jo backend likhe, ya ek ready-made tool jo yeh kaam kare.`,
+      ],
+      list: [
+        `<strong>Roz 30 se kam chats, ek-do log sambhalte hain:</strong> Business App se shuru kijiye.`,
+        `<strong>Kai staff ek number par, ya system se automatic messages:</strong> API chahiye.`,
+        `<strong>Beech ki haalat:</strong> App par teen mahine chalaiye, chats gin kar faisla kijiye.`,
+      ],
+      after: [
+        `Dono raaston ki line-by-line tulna <a href='/whatsapp-business-app-vs-api/'>WhatsApp Business App vs API</a> par hai.`,
+      ],
+    },
+    {
+      id: "free-app",
+      heading: "Free WhatsApp Business App mein automation kaise set karein?",
+      paragraphs: [
+        `Business App ki Settings mein "Business tools" ke andar teen automatic cheezein milti hain: greeting message, away message aur quick replies. Inhe set karne mein ek ghanta lagta hai aur paisa zero.`,
+        `WhatsApp ki apni site kehti hai ki app se aap log ko conversation shuru hote hi greet kar sakte hain aur door rehne par bhi jawab de sakte hain. Seedhi bhasha mein: naya customer message kare toh greeting jaati hai, aur band hone ke time ke baad ya chhutti par away message.`,
+      ],
+      subs: [
+        { heading: "Greeting message", text: "Chhota rakhiye: aapka naam, timing, aur 2–3 cheezein jo log sabse zyada poochte hain, jaise catalogue ka link ya location. Lamba paragraph koi nahi padhta." },
+        { heading: "Away message", text: "Schedule set kijiye, jaise raat 9 se subah 10. Message mein likhiye kab jawab milega. \"Hum jaldi reply karenge\" se behtar hai \"kal subah 10 baje ke baad\"." },
+        { heading: "Quick replies", text: "Price list, bank details, address, delivery charges jaise jawab ek shortcut se. Staff \"/rate\" type kare aur poora message aa jaaye. Galti bhi kam, time bhi bachta hai." },
+        { heading: "Labels aur catalogue", text: "Labels se chats ko \"naya order\", \"payment baaki\", \"delivered\" mein baantiye. Catalogue mein products, price aur photo daaliye taaki har baar photo bhejni na pade." },
+      ],
+      after: [
+        `Yeh setup khud kijiye; iske liye kisi ko paisa dene ki zaroorat nahi. Jab yeh sab chal raha ho aur phir bhi staff din bhar same kaam haath se kar raha ho, tab API ka waqt aata hai. Catalogue aur website ki tulna <a href='/whatsapp-catalogue-vs-website/'>WhatsApp catalogue vs website</a> par hai.`,
+      ],
+    },
+    {
+      id: "api-kab",
+      heading: "WhatsApp Business API kab lena chahiye? Paanch saaf signal",
+      paragraphs: [
+        `API tab lijiye jab messages aapke system se apne aap jaane chahiye, ya ek number par kai log kaam karte hain. Agar sirf auto-reply chahiye, toh API zaroori nahi.`,
+        `Hum aam taur par yeh paanch signal dekhte hain. Inme se do bhi sach hain, toh API ka paisa wasool hota hai:`,
+      ],
+      list: [
+        `Staff roz ek jaisa message 50 se zyada logon ko haath se bhejta hai (order confirm, fee reminder, appointment).`,
+        `Ek hi number par teen ya zyada log chat sambhalte hain aur pata nahi chalta ki kisne kya jawab diya.`,
+        `Leads website, ads ya IndiaMART se aati hain aur pehla reply ghanton baad jaata hai.`,
+        `Aapko jaanna hai ki kitne messages gaye, padhe gaye, aur kitno ne jawab diya.`,
+        `Aap Click-to-WhatsApp ads chalate hain aur un chats ko CRM mein chahte hain.`,
+      ],
+      after: [
+        `API account Meta ke business portfolio se banta hai; number, display name aur templates wahi approve hote hain. Poora setup process <a href='/whatsapp-business-api-kaise-le/'>WhatsApp Business API kaise le</a> par samjhaya hai. Ek baat dhyaan rakhiye: Meta ka "coexistence" option ek maujooda Business App number ko Cloud API se bhi jodne deta hai, par tab kuch app features, jaise broadcast lists aur disappearing messages, band ho jaate hain. Isliye hum pehle dekhte hain ki aapke case mein purana number jodna theek hai ya naya number.`,
+      ],
+    },
+    {
+      id: "kharcha",
+      heading: "WhatsApp automation ka kharcha kaise banta hai?",
+      paragraphs: [
+        `Kharcha do hisson mein hai: ek baar ka setup, aur Meta ko har delivered template message ka charge. Business App wala automation free hai; API wale mein dono bill lagte hain.`,
+        `Meta ki developer documentation ke mutabiq 1 July 2025 se WhatsApp Business Platform per-message pricing par chalta hai: charge tab lagta hai jab template message deliver hota hai. Marketing templates hamesha charge hote hain. Utility templates, jaise order update, agar customer ki 24 ghante wali service window khuli ho toh free hain. Customer ke message ke jawab mein bheje gaye normal text ya image messages bhi us window mein free hain.`,
+        `Ek aur kaam ki baat: Click-to-WhatsApp ads ya Facebook Page button se shuru hui chat par 72 ghante ki free entry point window milti hai. Aur India ke liye Meta ne 1 January 2026 se INR billing shuru ki hai.`,
+      ],
+      list: [
+        `<strong>Setup kharcha badhata hai:</strong> kitne systems jodne hain, kitne flows, AI chahiye ya menu kaafi hai, kitni bhashaein.`,
+        `<strong>Meta kharcha badhata hai:</strong> marketing messages ki ginti, aur window ke bahar bheje gaye utility messages.`,
+        `<strong>Meta kharcha ghatata hai:</strong> updates ko window ke andar bhejna, aur promotion ki jagah kaam ke messages.`,
+      ],
+      after: [
+        `Hamara setup ${P.ai} se shuru hota hai. Rate card ke saath Meta ka hisaab <a href='/whatsapp-business-api-cost-in-india/'>WhatsApp Business API cost in India</a> par hai, aur chatbot ka alag budget <a href='/whatsapp-chatbot-price-in-india/'>WhatsApp chatbot price in India</a> par.`,
+      ],
+    },
+    {
+      id: "auto-reply",
+      heading: "WhatsApp par auto reply kaise lagaye: menu bot ya AI bot?",
+      paragraphs: [
+        `Zyada tar chhote business ke liye menu wala bot kaafi hai: customer number dabata hai, bot tay jawab deta hai. AI bot tab lijiye jab sawaal itne alag-alag hon ki menu mein samaa na sakein.`,
+        `Menu bot ka fayda yeh hai ki woh kabhi galat price nahi batata, kyunki har jawab aapne khud likha hai. Nuksaan yeh ki customer "kal wala order kab aayega" jaisa seedha sawaal type kare toh menu use samajh nahi paata. Isliye har menu mein "staff se baat karein" ka option hona chahiye.`,
+        `AI bot aapke FAQ, price list aur policies padh kar jawab banata hai. Hum ise hamesha aapke apne documents tak simit rakhte hain, taaki bot internet se kuch galat na utha laaye. Jab bot ko jawab pakka na pata ho, woh chat staff ko de deta hai.`,
+      ],
+      after: [
+        `WhatsApp ki Business Messaging Policy bhi kehti hai ki automated experience mein insaan tak pahunchne ka saaf raasta hona chahiye, jaise in-chat human transfer, phone number ya email. Toh human handover sirf achhi aadat nahi, policy ki zaroorat bhi hai. AI bot ki tulna <a href='/custom-chatbot-vs-chatgpt/'>custom chatbot vs ChatGPT</a> aur <a href='/whatsapp-chatbot-vs-app/'>WhatsApp chatbot vs app</a> par hai.`,
+      ],
+    },
+    {
+      id: "orders",
+      heading: "Order aur delivery updates WhatsApp par automatic kaise bhejein?",
+      paragraphs: [
+        `Order updates ke liye aapke order system mein har status change par ek trigger lagta hai jo WhatsApp API ko approved utility template bhejta hai. Customer ko kuch install nahi karna padta, aur staff ko kuch type nahi karna padta.`,
+        `Ek aam flow mein chaar message hote hain: order mila, pack ho gaya, courier ko diya (tracking link ke saath), aur deliver ho gaya. Kuch business paanchvaan bhi jodte hain: delivery ke do din baad ek chhota feedback sawaal. Har template Meta approve karta hai, isliye unhe saaf, kaam ke aur bina promotion ke rakhiye; order update mein "aaj 20% off" jodne se template marketing category mein ja sakta hai aur charge badal jaata hai.`,
+        `Order kahan se aata hai, isse kaam badalta hai. WooCommerce aur Shopify mein order events milte hain. Agar aap orders Google Sheet ya Excel mein likhte hain, toh Sheet se bhi trigger ban jaata hai. Agar billing Tally mein hoti hai, toh invoice banne par message bhejna bhi mumkin hai.`,
+      ],
+      after: [
+        `Store ke hisaab se detail: <a href='/woocommerce-whatsapp-integration/'>WooCommerce WhatsApp integration</a>, <a href='/shopify-whatsapp-integration/'>Shopify WhatsApp integration</a> aur <a href='/tally-whatsapp-integration/'>Tally WhatsApp integration</a>. Poora order lene wala system chahiye toh <a href='/whatsapp-ordering-system/'>WhatsApp ordering system</a> dekhiye.`,
+      ],
+    },
+    {
+      id: "payments",
+      heading: "Payment reminders and UPI links on WhatsApp",
+      paragraphs: [
+        `Payment reminders are the automation that pays for itself fastest, because a polite, on-time nudge replaces an awkward phone call. The flow reads due dates from your records and sends a template with the amount, the due date and a payment link or UPI details.`,
+        `A sensible schedule is three messages: a few days before the due date, on the day, and a few days after. The moment a payment is marked received, the remaining reminders stop. That last rule matters more than people think; one reminder sent after a customer has paid does more damage than ten missed ones.`,
+        `Where does "marked received" come from? The simplest version is a column in a Google Sheet that your accounts person updates. A better version reads the payment status from your billing software or payment page, so nobody has to remember. For coaching institutes and schools the same flow sends fee reminders to parents; for distributors it chases dealer outstanding.`,
+      ],
+      list: [
+        `Keep the tone neutral and give the exact amount and date.`,
+        `Always include a way to reply or call, since some customers will dispute the figure.`,
+        `Send reminders inside working hours, not at midnight.`,
+      ],
+      after: [
+        `A full build for this is described on <a href='/whatsapp-payment-reminder-automation/'>WhatsApp payment reminder automation</a>.`,
+      ],
+    },
+    {
+      id: "sheets-crm",
+      heading: "Connecting WhatsApp to Google Sheets and a CRM",
+      paragraphs: [
+        `If your team already lives in Google Sheets, connect WhatsApp to the Sheet first and postpone the CRM. A Sheet with a trigger and a WhatsApp template often does 80% of the job at a fraction of the effort, and your staff do not have to learn new software.`,
+        `The pattern works in both directions. A new row in the Sheet (a booking, an order, a lead) sends a WhatsApp message. An incoming WhatsApp message, or a button tap on a template, writes a row back, so you have a log of who replied "Yes, confirm" and who asked to reschedule. We build this with Google Apps Script or a small server, depending on volume.`,
+        `A CRM becomes worth it when you have several salespeople, follow-up stages and a need to see who handled which lead. Then every WhatsApp conversation attaches to a contact record, and the first reply to a new lead goes out automatically within seconds.`,
+      ],
+      list: [
+        `<strong>Sheets-first:</strong> bookings, small order books, fee lists, service reminders.`,
+        `<strong>CRM:</strong> sales teams, long follow-up cycles, B2B leads from IndiaMART and ads.`,
+        `<strong>Your own software:</strong> when orders, stock or billing already sit in a system that has an API.`,
+      ],
+      after: [
+        `Related builds: <a href='/google-sheets-to-whatsapp/'>Google Sheets to WhatsApp</a>, <a href='/whatsapp-crm-for-small-business/'>WhatsApp CRM for small business</a> and <a href='/zoho-crm-whatsapp-integration/'>Zoho CRM WhatsApp integration</a>.`,
+      ],
+    },
+    {
+      id: "templates-optin",
+      heading: "Templates, opt-in and the rules that keep your number safe",
+      paragraphs: [
+        `Every message you start through the API must use a template Meta has approved, and you may only message people who have agreed to hear from you. Break either rule and your quality rating drops, then your sending limits and eventually your number.`,
+        `WhatsApp's Business Messaging Policy says you may contact people only if they have given you their number and you have received opt-in permission confirming they want messages from you. It also says you must respect any request to stop or opt out, even one made outside WhatsApp. So a "Reply STOP to stop" line, and actually honouring it, is not optional.`,
+        `Practical opt-in points we add during a build: a tick box on your website form, a line on the bill or admission form, and a first message after a customer contacts you that explains what updates they will receive. Opt-ins are stored with a date so you can show where each one came from.`,
+      ],
+      subs: [
+        { heading: "Marketing template", text: "Offers, new arrivals, festival sales. Always charged and watched closely for blocks and reports. Send less often than you think." },
+        { heading: "Utility template", text: "Order, booking, payment and account updates tied to something the customer did. Free inside the 24-hour service window." },
+        { heading: "Authentication template", text: "One-time passwords for login or verification. Short and strictly formatted." },
+      ],
+      after: [
+        `If you want to send to a large list, read <a href='/whatsapp-bulk-message-kaise-bheje/'>WhatsApp bulk message kaise bheje</a> first; the right way and the risky way look similar from the outside.`,
+      ],
+    },
+    {
+      id: "ban-risk",
+      heading: "Why unofficial WhatsApp automation tools get numbers banned",
+      paragraphs: [
+        `Browser extensions and desktop tools that "automate" your normal WhatsApp by clicking through WhatsApp Web are not official, and WhatsApp's own Terms of Service prohibit bulk messaging, auto-messaging and auto-dialling through its regular service. The number that gets blocked is yours, not the seller's.`,
+        `These tools sell well because they need no approval, no templates and no Meta account. That is exactly the problem. There is no opt-in record, no quality rating you can watch, and no warning before a ban. Businesses usually find out on a busy morning when the number that is printed on every bill and board stops working.`,
+        `The official route has more steps: business verification, a display name, template approval. Those steps are the reason it is stable. If someone offers you "unlimited WhatsApp messages without API", ask them one question: whose number will be blocked if it goes wrong?`,
+      ],
+      list: [
+        `Red flag: "no template approval needed" for messages to people who never messaged you.`,
+        `Red flag: a tool that asks you to keep a phone or laptop open all day to send.`,
+        `Red flag: a promise of no ban risk.`,
+      ],
+      after: [
+        `If a number has already been restricted, recovery depends on the reason and is not always possible; prevention is far cheaper.`,
+      ],
+    },
+    {
+      id: "tech",
+      heading: "Which tools we use to build WhatsApp automation",
+      paragraphs: [
+        `For most builds we connect directly to Meta's WhatsApp Cloud API and write a small backend in Node.js or Python that receives webhooks, stores conversations and sends templates. Where a client prefers low-code, we use n8n; for teams already on Google Workspace, Apps Script covers light flows.`,
+        `Direct Cloud API means no middle layer charging per seat or per contact, and the conversations live in a database you control. The trade-off is that someone has to maintain the code, which is what the free maintenance period and the later maintenance plan are for.`,
+        `For AI replies we use a language model restricted to your own content (a technique called retrieval), with a hard rule to hand over when unsure. For dashboards, we pull message and reply counts into a Google Sheet or a small web page so you can see what the automation is doing.`,
+      ],
+      list: [
+        `<strong>Messaging:</strong> WhatsApp Cloud API through your Meta business portfolio.`,
+        `<strong>Backend:</strong> Node.js or Python, hosted on a cloud account in your name.`,
+        `<strong>Low-code option:</strong> n8n workflows, self-hosted or cloud.`,
+        `<strong>Data:</strong> Google Sheets, a database, or your existing CRM.`,
+      ],
+      after: [
+        `Tool-specific pages: <a href='/n8n-automation-expert/'>n8n automation expert</a> and <a href='/google-apps-script-developer/'>Google Apps Script developer</a>.`,
+      ],
+    },
+    {
+      id: "business-flows",
+      heading: "WhatsApp automation kaise kare alag-alag business mein?",
+      paragraphs: [
+        `Har business ka "sabse pehla flow" alag hota hai. Galti yeh hoti hai ki log sab kuch ek saath automate karna chahte hain. Hum ek flow se shuru karte hain jo roz sabse zyada staff ka time khaata hai.`,
+      ],
+      subs: [
+        { heading: "Kirana ya general store", text: "Business App ka catalogue aur quick replies pehle. API tab jab home delivery orders roz itne hon ki haath se confirm karna mushkil ho jaaye." },
+        { heading: "Clinic aur diagnostic centre", text: "Appointment confirm aur ek din pehle reminder. Report ready hone ka message. Medical sawaalon par bot kabhi salah nahi deta; woh clinic ka number deta hai." },
+        { heading: "Coaching institute", text: "Fee reminder, class timing change aur test result. Naye enquiry par course aur batch ki jaankari. App bhi chahiye toh coaching app wala page dekhiye." },
+        { heading: "D2C brand", text: "Order updates, COD confirmation aur abandoned cart. Marketing messages kam aur soch-samajh kar, kyunki har message ka charge lagta hai." },
+        { heading: "Distributor aur wholesaler", text: "Dealer outstanding reminder, naya rate list aur order acknowledgement. Aksar Tally ya Excel se juda hota hai." },
+        { heading: "Real estate broker", text: "Ad se aayi lead ko turant project details, site visit booking aur CRM mein entry." },
+      ],
+      after: [
+        `Coaching ke liye app ka poora sawaal <a href='/coaching-app-kaise-banaye/'>coaching app kaise banaye</a> par hai. Dukaan online le jaani ho toh <a href='/online-dukan-kaise-khole/'>online dukan kaise khole</a> padhiye.`,
+      ],
+    },
+    {
+      id: "ownership",
+      heading: "Who owns the WhatsApp number, the account and the chats?",
+      paragraphs: [
+        `You should own everything: the phone number, the Meta business portfolio, the WhatsApp Business Account inside it, the templates and the conversation data. We work with admin access that you grant and can remove.`,
+        `This matters because the WhatsApp Business Account carries your verified business name, your message quality history and your approved templates. If it sits in a provider's portfolio, moving away later is slow and sometimes means starting again with a fresh quality history. We have seen businesses discover this only when they wanted to switch tools.`,
+        `Our handover includes the backend code in a repository you own, a short document listing every flow and template, the webhook URLs, and where each credential lives. Cloud hosting is billed to your card. If you ever move to another developer, they start from the same place we would.`,
+      ],
+      list: [
+        `Meta business portfolio: you are the admin.`,
+        `Phone number: a SIM or landline in the business's name.`,
+        `Code and database: in your cloud account.`,
+        `Template text: documented, so it can be resubmitted anywhere.`,
+      ],
+    },
+    {
+      id: "example",
+      heading: "A worked example: a Surat saree wholesaler automates dealer orders",
+      paragraphs: [
+        `This is a hypothetical example to show how a plan comes together, not a client story. Say a Surat saree wholesaler sells to about 200 retailers across Gujarat and Maharashtra. Orders come by WhatsApp photo and voice note, the stock list is an Excel file, and two staff spend their afternoons sending "your parcel is booked" messages and chasing payments.`,
+        `Week one, we would move the product list into a catalogue and set quick replies on the Business App, which costs nothing. Weeks two and three, a new number goes on the WhatsApp API with three utility templates: order received, parcel booked with the transport receipt photo, and payment reminder. Orders are still entered by staff into a Google Sheet, but the moment a row's status changes, the message goes out by itself. Week four, a weekly outstanding summary goes to the owner.`,
+        `What this plan does not do is equally useful to say. It does not replace the salesperson's calls to retailers, it does not send daily promotional blasts, and it does not read voice notes. The build would sit in the AI automation plan starting at ${P.ai}, and Meta's charges stay small because most messages are utility updates sent while a chat window is open.`,
+      ],
+      after: [
+        `For a wholesaler that also wants dealers to order through an app, see <a href='/b2b-ordering-app/'>B2B ordering app</a>.`,
+      ],
+    },
+    {
+      id: "timeline",
+      heading: "WhatsApp automation kitne din mein ban jaata hai?",
+      paragraphs: [
+        `Business App wala setup ek din mein ho jaata hai. API wala automation hamare saath aam taur par 2–4 hafte leta hai, aur isme sabse zyada waqt Meta ki approvals ka hota hai, code ka nahi.`,
+        `Pehle hafte mein Meta business verification ke documents aur number taiyaar hote hain. Business verification mein aapke business ka naam, pata aur dastavez match hone chahiye; GST certificate ya Udyam registration jaise documents aksar kaam aate hain, par exact list Meta hi tay karta hai. Saath mein hum flows kaagaz par likhte hain: kaunsa message, kab, kisko.`,
+        `Doosre hafte templates submit hote hain aur backend banta hai. Teesre hafte test: aapke staff ke numbers par har flow chalta hai, galat trigger pakde jaate hain. Chauthe hafte asli customers ke saath dheere shuruaat, pehle ek flow, phir baaki.`,
+      ],
+      after: [
+        `Agar AI chatbot bhi chahiye, toh uske jawab test karne mein ek hafta aur lag sakta hai. Doosre automation kaamon ka budget <a href='/ai-automation-cost-for-small-business/'>AI automation cost for small business</a> par hai.`,
+      ],
+    },
+    {
+      id: "measure",
+      heading: "How to tell whether your WhatsApp automation is working",
+      paragraphs: [
+        `Measure three numbers from the first week: how many messages were delivered and read, how many customers replied or tapped a button, and how much staff time the flow removed. If a flow shows none of these improving after a month, change it or switch it off.`,
+        `Delivery and read counts come from the API's status webhooks, which we log. Reply rates tell you whether a template reads like a message from a person or like spam. Watch the quality rating Meta shows in WhatsApp Manager; a drop is an early warning that people are blocking or reporting you, usually because a marketing message went to people who did not expect it.`,
+        `The staff-time number is the one owners care about, and it is the hardest to fake. Ask the people who used to send messages by hand how their afternoon changed. If the answer is "not much", the automation is solving the wrong problem.`,
+      ],
+      list: [
+        `Delivered, read and failed counts per template.`,
+        `Replies and button taps per flow.`,
+        `Handovers to staff, and how fast staff answered them.`,
+        `Opt-outs and blocks, week by week.`,
+      ],
+    },
+    {
+      id: "checklist",
+      heading: "WhatsApp automation kaise kare: shuru karne se pehle 10-point checklist",
+      paragraphs: [
+        `Kisi ko bhi paisa dene se pehle yeh list apne saath check kijiye. Jitne zyada jawab "haan", utna saaf project.`,
+      ],
+      list: [
+        `Kya free Business App ke greeting, away message aur quick replies pehle se lage hain?`,
+        `Kaunsa ek kaam sabse zyada staff time khaata hai, likh liya?`,
+        `API ke liye alag number taiyaar hai jo business ke naam par ho?`,
+        `Meta business verification ke documents haath mein hain?`,
+        `Customers ka opt-in kahan se aayega, tay hai?`,
+        `Har flow mein staff tak pahunchne ka raasta hai?`,
+        `Meta portfolio aur WhatsApp account ke admin aap hain?`,
+        `Code aur data aapke account mein rahega, likhit mein hai?`,
+        `Setup ka quote aur Meta ka charge alag-alag samajh aaya?`,
+        `Launch ke baad kaun dekhega aur kitne din tak, quote mein likha hai?`,
+      ],
+      after: [
+        `Hamare terms aapke written quote mein hote hain; general niyam <a href='/terms/'>terms</a> par hain. Yeh sab Hindi mein baat karke samajhna ho toh <a href='/contact/'>contact page</a> se WhatsApp kijiye.`,
+      ],
+    },
+  ],
+  tables: [
+    {
+      id: "app-api-features",
+      eyebrow: "Feature comparison",
+      heading: "Business App vs API: kaunsa kaam kahan hota hai",
+      note: `Official features ke hisaab se. API wale kaam ke liye ek backend ya tool chahiye; hamara setup ${P.ai} se.`,
+      columns: ["Kaam", "WhatsApp Business App (free)", "WhatsApp Business API", "Kab zaroori"],
+      rows: [
+        ["Greeting aur away message", "Haan, built-in", "Haan, flow ke roop mein", "Har business"],
+        ["Quick replies aur labels", "Haan", "Inbox tool ya CRM mein", "Jab repeat sawaal zyada hon"],
+        ["System se order / fee update", "Nahi", "Haan, approved templates se", "Roz dozens updates"],
+        ["Chatbot (menu ya AI)", "Nahi", "Haan", "Sawaal repeat hote hain"],
+        ["Kai staff ek number par", "Simit", "Haan, shared inbox se", "3+ log chat sambhalte hain"],
+        ["Google Sheets / CRM sync", "Nahi", "Haan", "Data pehle se kisi system mein"],
+        ["Delivery / read reports", "Basic", "Har message ka status", "Result naapna ho"],
+      ],
+      hideSm: [3],
+    },
+    {
+      id: "meta-charges",
+      eyebrow: "Meta charges",
+      heading: "Kaunsa message kab charge hota hai",
+      note: "Meta ki WhatsApp Business Platform pricing documentation par aadharit (per-message model, 1 July 2025 se). Rates desh aur category se badalte hain; current rate card Meta ki site par dekhiye.",
+      columns: ["Message ka type", "Example", "Charge"],
+      rows: [
+        ["Customer ke message ka jawab (free-form)", "\"Haan, blue saree stock mein hai\"", "24 ghante ki window mein free"],
+        ["Utility template, window ke andar", "Order dispatch update", "Free"],
+        ["Utility template, window ke bahar", "Teen din baad delivery update", "Charged"],
+        ["Marketing template", "Diwali sale ka message", "Hamesha charged"],
+        ["Authentication template", "Login OTP", "Window ke bahar charged"],
+        ["Click-to-WhatsApp ad se shuru chat", "Ad dekh kar aaya customer", "72 ghante ki free entry window"],
+      ],
+    },
+    {
+      id: "timeline",
+      eyebrow: "Timeline",
+      heading: "API automation: hafte ke hisaab se kaam",
+      note: `Aam project ka dhaancha. Meta approvals mein kabhi-kabhi zyada din lagte hain. <a href='/pricing/'>Saare starting prices</a> ek jagah.`,
+      columns: ["Hafta", "Hamara kaam", "Aapka kaam"],
+      rows: [
+        ["0", "Free Business App tools set karne mein madad", "Greeting, quick replies, catalogue bharna"],
+        ["1", "Flows likhna, Meta portfolio aur number setup", "Documents aur number dena, flows approve karna"],
+        ["2", "Templates submit, backend aur integrations", "Template text ki bhasha check karna"],
+        ["3", "Staff numbers par testing, fixes", "Test messages dekh kar feedback"],
+        ["4", "Asli customers par dheere launch, reporting", "Opt-in lena, handover chats ka jawab"],
+        ["Launch ke baad", "5 mahine free maintenance", "Naye flows ki zaroorat batana"],
+      ],
+    },
+  ],
+  areas: {
+    eyebrow: "WhatsApp automation across India",
+    heading: "Shehar ke hisaab se WhatsApp automation ki zaroorat",
+    note: "Hum remote kaam karte hain, isliye setup ka starting price har shehar mein same hai. Neeche har shehar ke business ki alag zaroorat hai.",
+    cards: [
+      { name: "Dealer order updates in Surat", note: "Surat’s textile and diamond traders run their dealer networks on WhatsApp, so automated order acknowledgements and outstanding reminders save hours of manual messaging every week.", href: "/surat/" },
+      { name: "Fee reminders in Sikar", note: "Sikar has grown into a coaching town for entrance-exam students, and institutes there need fee reminders, batch changes and test results sent to parents without phone calls.", href: "/sikar/" },
+      { name: "Appointment reminders in Lucknow", note: "Lucknow’s clinics and diagnostic labs juggle walk-ins and bookings, so confirmations and day-before reminders on WhatsApp cut no-shows and front-desk calls.", href: "/lucknow/" },
+      { name: "D2C order messages in Bengaluru", note: "Bengaluru’s direct-to-consumer brands ship nationwide, and dispatch updates, COD confirmations and cart reminders over WhatsApp reduce returns and support tickets.", href: "/bengaluru/" },
+      { name: "Wholesale rate lists in Ludhiana", note: "Ludhiana’s hosiery and cycle-parts wholesalers send revised rate lists to retailers often, which works better as an opt-in utility flow than as forwarded images.", href: "/ludhiana/" },
+      { name: "Lead replies in Gurgaon", note: "Gurgaon’s real estate brokers and interior studios pay for ad leads, so an instant first WhatsApp reply with project details matters before a competitor calls.", href: "/gurgaon/" },
+      { name: "Restaurant orders in Kochi", note: "Kochi’s cloud kitchens and cafés take direct orders on WhatsApp, where a menu bot and order-ready messages keep lunch-hour chats under control.", href: "/kochi/" },
+      { name: "Distributor reminders in Indore", note: "Indore’s FMCG distributors and traders chase retailer payments across Madhya Pradesh, and scheduled reminders tied to their billing records keep collections regular.", href: "/indore/" },
+      { name: "Service bookings in Hyderabad", note: "Hyderabad’s home-service, salon and repair businesses book slots by chat, so confirmation, technician-assigned and job-done messages reduce back-and-forth calls.", href: "/hyderabad/" },
+      { name: "Travel enquiries in Dehradun", note: "Dehradun’s tour operators answer the same itinerary and price questions all season, which a menu bot with a human handover handles well.", href: "/dehradun/" },
+      { name: "Hospital updates in Patna", note: "Patna’s hospitals and pathology labs serve patients from surrounding districts, and report-ready and appointment messages in Hindi save them wasted trips.", href: "/patna/" },
+      { name: "Handicraft orders in Jaipur", note: "Jaipur’s block-print and handicraft sellers take orders from other states on WhatsApp, where catalogue links and dispatch updates build trust with distant buyers.", href: "/jaipur/" },
+      { name: "School notices in Guwahati", note: "Guwahati’s schools and tuition centres send notices, fee dues and holiday updates to parents, a job suited to opt-in utility templates instead of broadcast groups.", href: "/guwahati/" },
+      { name: "Machinery enquiries in Coimbatore", note: "Coimbatore’s pump and textile machinery makers get enquiries from IndiaMART and their websites, and routing them into a CRM with an instant WhatsApp reply shortens follow-up.", href: "/coimbatore/" },
+      { name: "Pharmacy orders in Nagpur", note: "Nagpur’s pharmacies and medical stores receive prescription photos on WhatsApp, and order-ready and delivery messages keep regular customers from calling repeatedly.", href: "/nagpur/" },
+    ],
+  },
+  process: {
+    heading: "WhatsApp automation hamare saath kaise shuru hota hai",
+    steps: [
+      ["Ek message mein apna kaam bataiye", "WhatsApp par likhiye ki staff roz kaunse messages haath se bhejta hai, orders ya leads kahan aati hain, aur kaunsa software use hota hai."],
+      ["Free tools pehle", "Agar Business App ke tools abhi set nahi hain, toh hum pehle unhe lagwate hain. Kai baar yahin kaam ho jaata hai aur API ki zaroorat nahi padti."],
+      ["Flow map aur quote", "Har flow ka trigger, message aur human handover kaagaz par. Lagbhag 2 working din mein itemised quote; likhit approval se pehle koi billing nahi."],
+      ["Meta setup aapke naam", "Business portfolio, verification, number aur templates aapke account mein. Hum sirf admin access se kaam karte hain jo aap kabhi bhi hata sakte hain."],
+      ["Build aur test", "Backend, integrations aur templates banakar staff ke numbers par har flow chalate hain, galat triggers aur bhasha theek karte hain."],
+      ["Launch aur dekhbhaal", "Ek-ek flow asli customers par chalu hota hai. Reports set hoti hain, aur 5 mahine tak maintenance free rehti hai."],
+    ],
+  },
+  faqHeading: "WhatsApp automation kaise kare: aam sawaal",
+  faqs: [
+    { question: "WhatsApp automation kaise kare bina paise ke?", answer: "Free WhatsApp Business App download kijiye aur Settings ke Business tools mein greeting message, away message aur quick replies set kijiye. Labels se chats ko baantiye aur catalogue mein products daaliye. Yeh sab bilkul free hai aur chhote business ke liye kaafi hota hai. System se automatic messages, jaise order update, ke liye API chahiye jisme kharcha lagta hai." },
+    { question: "WhatsApp automation mein kitna kharcha aata hai?", answer: `Do kharche hain. Setup ka, jo hamare saath AI automation plan mein ${P.ai} se shuru hota hai aur 2–4 hafte leta hai. Aur Meta ka, jo har delivered template message par category aur desh ke hisaab se lagta hai. Customer ke message ke 24 ghante ke andar bheje gaye jawab aur utility updates free rehte hain, jisse kharcha kaafi kam rakha ja sakta hai.` },
+    { question: "WhatsApp Business App aur API mein kya farak hai?", answer: "Business App ek phone app hai jo free hai aur greeting, away message, quick replies, labels aur catalogue deta hai, par messages aapko ya auto-reply ko bhejne padte hain. API ek connection hai jisse aapka software, jaise website ya Google Sheet, apne aap approved messages bhejta hai. Kai staff, chatbot aur order updates ke liye API chahiye." },
+    { question: "WhatsApp par auto reply kaise set kare?", answer: "WhatsApp Business App kholiye, Settings mein Business tools par jaiye. Greeting message chalu kijiye taaki naye customer ko turant jawab mile. Away message mein apna schedule daaliye, jaise raat 9 se subah 10. Quick replies mein aam jawab save kijiye aur unhe shortcut se bhejiye. Poore chatbot ke liye API par menu ya AI bot banana padta hai." },
+    { question: "Kya WhatsApp automation se number ban ho sakta hai?", answer: "Official tareeke se, yaani Business App ke tools aur WhatsApp Business API, ban ka risk bahut kam hai agar aap sirf opt-in logon ko message karein. Unofficial tools jo normal WhatsApp ko browser se chala kar bulk messages bhejte hain, WhatsApp ke Terms of Service ke khilaaf hain, aur unse number block ho sakta hai. Nuksaan aapke number ka hota hai, tool bechne wale ka nahi." },
+    { question: "WhatsApp automation ko Google Sheets se kaise jode?", answer: "WhatsApp Business API ke saath Google Apps Script ya ek chhota server lagta hai. Sheet mein nayi row ya status badalte hi approved template customer ko jaata hai, aur customer ka jawab ya button tap wapas Sheet mein likha jaata hai. Jo team pehle se Sheets par kaam karti hai, uske liye yeh sabse chhota aur sasta automation hai." },
+    { question: "Order update WhatsApp par automatic kaise bheje?", answer: "Apne order system, jaise WooCommerce, Shopify, Google Sheet ya billing software, mein har status change par trigger lagaiye jo WhatsApp API ko ek approved utility template bhejta hai. Order mila, dispatch hua, deliver hua, har step par message apne aap jaata hai. Template mein promotion mat jodiye, warna uski category badal sakti hai." },
+    { question: "How long does it take to set up WhatsApp automation?", answer: "The free Business App tools take about an hour. An API-based automation with us usually takes 2–4 weeks: the first week for Meta business verification, the number and flow planning, the second for templates and the backend, the third for testing on staff numbers, and the fourth for a gradual launch. Meta approvals are the most variable part of the timeline." },
+    { question: "Do I need a new phone number for the WhatsApp API?", answer: "Not always. Meta's coexistence option lets an existing WhatsApp Business App number also connect to the Cloud API, with chats kept in sync, but some app features such as broadcast lists, view-once and disappearing messages stop working on that number. Many businesses still prefer a fresh number for automated updates. We check which route suits your volume before setup." },
+    { question: "Who owns the WhatsApp Business Account after setup?", answer: "You do. The Meta business portfolio, the WhatsApp Business Account, the phone number, the approved templates, the backend code and the conversation data all sit in accounts in your name. We work with admin access you grant and can remove at any time, and the handover includes a document listing every flow and template." },
+    { question: "Can a WhatsApp chatbot reply in Hindi?", answer: "Yes. A menu bot replies in whatever language you write its answers in, so Hindi, Hinglish or a regional language all work. An AI bot can also understand and answer in Hindi when it is limited to your own FAQ and price list. Either way, every bot should hand the chat to a person when it cannot answer confidently." },
+    { question: "What is a WhatsApp template and why does it need approval?", answer: "A template is a pre-written message format that Meta reviews before a business can use it to start a conversation through the API. Templates fall into marketing, utility and authentication categories, and the category decides how the message is charged. Approval keeps promotional spam in check, so clear, useful wording without unexpected offers is approved more reliably." },
+    { question: "Is it legal to send WhatsApp messages to my customer list?", answer: "WhatsApp's Business Messaging Policy allows you to contact people only if they gave you their number and opted in to receive messages from you, and you must honour any request to stop. We build opt-in collection into forms and first messages and store the date and source of each opt-in. For legal questions specific to your business, check with your own lawyer." },
+    { question: "Should I use a ready-made WhatsApp tool or get a custom setup?", answer: "Choose a ready-made tool when its standard flows (broadcasts, a basic bot, a shared inbox) match your work and you are comfortable with a per-month fee. Choose a custom setup when messages must come from your own software, Sheets, Tally or CRM, or when you want the code and data in your own accounts. We tell you honestly which fits." },
+    { question: "WhatsApp chatbot banana hai, kya AI zaroori hai?", answer: "Zyada tar chhote business ke liye nahi. Menu wala bot, jisme customer 1, 2 ya 3 dabata hai, sasta hai aur kabhi galat price nahi batata. AI bot tab lijiye jab sawaal itne alag-alag hon ki menu mein na samayein. Dono mein staff tak pahunchne ka option hona chahiye, jo WhatsApp ki policy bhi maangti hai." },
+    { question: "Can WhatsApp automation send payment reminders with a UPI link?", answer: "Yes. A reminder template can include the amount, due date and a payment link or UPI details. The usual schedule is before the due date, on the day and a few days after, and the flow stops the moment the payment is marked received. That status can come from a Google Sheet column or directly from your billing records." },
+    { question: "Do you set up the WhatsApp Business API account for us?", answer: "Yes, in your name. We prepare the Meta business portfolio, guide you through business verification, register the number, set the display name and submit your first templates. Meta decides approvals, so we cannot promise a date, but we make sure your documents and business details match to avoid the most common rejections." },
+    { question: "Kya aap Shopify ya WooCommerce store ke liye WhatsApp automation karte ho?", answer: "Haan. Store ke order events se order confirm, dispatch aur delivery messages banate hain, aur COD orders ke liye confirmation ka flow bhi. Abandoned cart message marketing category mein aata hai, isliye hum use soch-samajh kar aur opt-in wale customers tak hi rakhte hain. Store nahi hai toh ecommerce store ka setup bhi hota hai." },
+    { question: "What happens after launch? Who maintains the automation?", answer: `We maintain it free for 5 months after launch, fixing broken triggers, updating templates and adjusting flows as your process changes. After that, maintenance continues from ${P.care} per month if you want it. Because the code and accounts are yours, another developer can also take over with the handover document.` },
+    { question: "How do I pay for WhatsApp automation work?", answer: "Businesses in India pay by UPI or bank transfer against an invoice; clients abroad pay in USD through Wise, bank wire or PayPal. Nothing is billed before you approve the itemised written quote. Meta's own message charges are paid directly by you to Meta through your WhatsApp Business Account, not through us." },
+    { question: "WhatsApp automation ke liye office aana padega?", answer: "Nahi. Hum poori tarah remote kaam karte hain, isliye saari baat WhatsApp, phone ya video call par hoti hai, Hindi ya English mein. Meta verification ke documents aap upload karte hain, hum screen share par step batate hain. Testing aapke staff ke phones par hoti hai, isliye kisi ke aane ki zaroorat nahi padti." },
+  ],
+  related: {
+    heading: "WhatsApp automation se jude pages",
+    links: [
+      { name: "WhatsApp Business App vs API", href: "/whatsapp-business-app-vs-api/" },
+      { name: "WhatsApp Business API kaise le", href: "/whatsapp-business-api-kaise-le/" },
+      { name: "WhatsApp Business API cost in India", href: "/whatsapp-business-api-cost-in-india/" },
+      { name: "WhatsApp bulk message kaise bheje", href: "/whatsapp-bulk-message-kaise-bheje/" },
+      { name: "WhatsApp chatbot developer", href: "/whatsapp-chatbot-developer/" },
+      { name: "WhatsApp automation expert", href: "/whatsapp-automation-expert/" },
+      { name: "WhatsApp payment reminder automation", href: "/whatsapp-payment-reminder-automation/" },
+      { name: "Google Sheets to WhatsApp", href: "/google-sheets-to-whatsapp/" },
+      { name: "Business me AI kaise use kare", href: "/business-me-ai-kaise-use-kare/" },
+      { name: "Google Map par dukan kaise dale", href: "/google-map-par-dukan-kaise-dale/" },
+      { name: "SEO karwana hai", href: "/seo-karwana-hai/" },
+      { name: "IT services", href: "/it-services/" },
+      { name: "All starting prices", href: "/pricing/" },
+    ],
+  },
+  cta: {
+    heading: "WhatsApp par kaunsa kaam roz haath se ho raha hai? Humein bataiye",
+    note: "Ek message mein likhiye ki staff kaunse messages baar-baar bhejta hai aur orders ya leads kahan aati hain. Hum batayenge ki free app kaafi hai ya API chahiye, aur itemised quote lagbhag do working din mein denge.",
+  },
+};
+
+export default content;

@@ -39,7 +39,7 @@ const gokak: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Kannada-first local SEO", "Karadantu and toy stores", "You own every login"],
   },
   quickAnswer:
-    "In Gokak, a business website with us starts at ₹10,000 and is usually ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Gokak office, and you own everything.",
+    "In Gokak, a business website with us starts at ₹10,000 and is usually ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Gokak office, and you own everything.",
   snapshot: [
     { label: "Location", value: "Taluk headquarters in Belagavi district, about 70 km from Belagavi city" },
     { label: "Rivers", value: "Confluence of the Ghataprabha and Markandeya, with Gokak Falls (about 52 m) on the Ghataprabha" },
@@ -149,7 +149,7 @@ const gokak: CityContent = {
       id: "website-cost-gokak",
       heading: "Website cost in Gokak: starting prices and how to compare quotes",
       paragraphs: [
-        "Gokak owners usually ask for a number before anything else, so here are the entry points. A simple site for a shop or clinic, anything up to 100 pages, is ₹10,000 onwards and tends to be ready in a week or two. A content-heavy SEO build of 700 pages or more, the kind a sweet brand or coaching centre uses to cover every product, course and nearby taluk, is ₹20,000 onwards and takes three to five weeks. Apps for Android and iPhone start at ₹40,000, as does AI automation. A karadantu or crafts store starts at ₹50,000, custom software at ₹60,000, and a monthly SEO retainer at ₹10,000.",
+        "Gokak owners usually ask for a number before anything else, so here are the entry points. A simple site for a shop or clinic, anything up to 100 pages, is ₹10,000 onwards and tends to be ready in a week or two. A content-heavy SEO build of 299 pages or more, the kind a sweet brand or coaching centre uses to cover every product, course and nearby taluk, is ₹20,000 onwards and takes three to five weeks. Apps for Android and iPhone start at ₹40,000, as does AI automation. A karadantu or crafts store starts at ₹50,000, custom software at ₹60,000, and a monthly SEO retainer at ₹10,000.",
         "Your own figure rises from there only for things you choose. Kannada pages alongside English, a big catalogue of pack sizes, courier rate tables, UPI checkout, staff logins, or a sync with Tally each become a separate line you can accept or strike out. Copywriting is also optional: send us your own write-up and phone photos and the number barely moves.",
         "Designers in Belagavi district quote very differently for jobs that look alike on paper. Before choosing, find out who will legally own the domain, whether the site is checked on low-cost phones, whether basic on-page SEO is part of the job, how many revision rounds are covered and what support looks like a year later. All our starting points are on the <a href=\"/pricing/\">pricing page</a>, and your written, itemised quote arrives within about two working days.",
       ],
@@ -210,7 +210,7 @@ const gokak: CityContent = {
     {
       question: "What is the website cost in Gokak?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices, and the final quote depends on pages, Kannada content, products and integrations. You receive it itemised in writing before anything is billed.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices, and the final quote depends on pages, Kannada content, products and integrations. You receive it itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Gokak businesses?",
@@ -220,7 +220,7 @@ const gokak: CityContent = {
     {
       question: "How quickly can a Gokak shop get a website?",
       answer:
-        "For a shop, a simple static site is normally live within one to two weeks of getting your photos and details. Larger jobs take longer: about three to five weeks for a 700+ page SEO site, four to eight for an online store, and six to twelve for custom software. The quickest projects are the ones where the owner sends content in the first few days.",
+        "For a shop, a simple static site is normally live within one to two weeks of getting your photos and details. Larger jobs take longer: about three to five weeks for a 299+ page SEO site, four to eight for an online store, and six to twelve for custom software. The quickest projects are the ones where the owner sends content in the first few days.",
     },
     {
       question: "Who is the best website development team in Gokak?",
@@ -245,7 +245,7 @@ const gokak: CityContent = {
     {
       question: "Gokak me website banwane me kitna kharcha lagega?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein ban jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Final quote aapke pages aur features ke hisaab se likhit mein milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein ban jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Final quote aapke pages aur features ke hisaab se likhit mein milta hai.",
     },
     {
       question: "You have no office in Gokak. Is remote work safe for me?",

@@ -40,7 +40,7 @@ const khambhat: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Gujarati-first local SEO", "Agate export catalogues", "Your name on every account"],
   },
   quickAnswer:
-    "For a Khambhat business, our websites start at ₹10,000 and take one to two weeks. Android and iOS apps and AI or WhatsApp automation start at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are fully remote with no Khambhat office, and you own every account.",
+    "For a Khambhat business, our websites start at ₹10,000 and take one to two weeks. Android and iOS apps and AI or WhatsApp automation start at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are fully remote with no Khambhat office, and you own every account.",
   snapshot: [
     { label: "Location", value: "Anand district, at the northern head of the Gulf of Khambhat, on alluvial plains close to the sea" },
     { label: "Population", value: "About 2.02 lakh in the 2011 Census" },
@@ -159,7 +159,7 @@ const khambhat: CityContent = {
       id: "website-cost-khambhat",
       heading: "Website cost in Khambhat: starting prices and what changes them",
       paragraphs: [
-        "Here are our starting points for Khambhat: a static website of up to 100 pages from ₹10,000 in one to two weeks; a 700+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000; an online store from ₹50,000; and custom software from ₹60,000. Monthly SEO starts at ₹10,000 a month.",
+        "Here are our starting points for Khambhat: a static website of up to 100 pages from ₹10,000 in one to two weeks; a 299+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000; an online store from ₹50,000; and custom software from ₹60,000. Monthly SEO starts at ₹10,000 a month.",
         "The figure grows with scope: more pages, full Gujarati and English versions, large catalogues with many photographs, trade logins, payments, courier integration or a link with your accounting. If you supply text and photographs, the quote stays close to the starting price; if we write and photograph-edit everything, that appears as a separate line.",
         "Local quotes vary widely. When you compare, ask whose name holds the domain and hosting, whether mobile testing and basic SEO are included, how many rounds of changes you get and who fixes problems after launch. Our <a href=\"/pricing/\">pricing page</a> lists the starting points, and your written quote arrives in about two working days.",
       ],
@@ -211,7 +211,7 @@ const khambhat: CityContent = {
     {
       question: "What is the website cost in Khambhat?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Gujarati and English content, catalogue size and integrations. You get it itemised in writing before anything is billed.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Gujarati and English content, catalogue size and integrations. You get it itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Khambhat businesses?",
@@ -221,12 +221,12 @@ const khambhat: CityContent = {
     {
       question: "Can you build an export website for agate beads?",
       answer:
-        "Yes. We build English catalogue sites with clear photographs, stone names buyers recognise, sizes, minimum order quantities, packing details and an enquiry form that asks for country, quantity and date. Trade prices can sit behind a login. Sites start at ₹10,000, or ₹20,000 for a 700+ page range.",
+        "Yes. We build English catalogue sites with clear photographs, stone names buyers recognise, sizes, minimum order quantities, packing details and an enquiry form that asks for country, quantity and date. Trade prices can sit behind a login. Sites start at ₹10,000, or ₹20,000 for a 299+ page range.",
     },
     {
       question: "How long does a website take for a Khambhat shop?",
       answer:
-        "A static website is usually live in one to two weeks once we have your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having content ready is the biggest factor in speed.",
+        "A static website is usually live in one to two weeks once we have your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having content ready is the biggest factor in speed.",
     },
     {
       question: "Which is the best website development team in Khambhat?",
@@ -251,7 +251,7 @@ const khambhat: CityContent = {
     {
       question: "Khambhat me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek se do hafte mein taiyar ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Poora quote likhit mein, har item alag dikhakar milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek se do hafte mein taiyar ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Poora quote likhit mein, har item alag dikhakar milta hai.",
     },
     {
       question: "You have no office in Khambhat. How does remote work stay safe?",

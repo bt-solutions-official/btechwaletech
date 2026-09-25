@@ -39,7 +39,7 @@ const tuensang: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Pages that open on weak signal", "Shawl and craft stores", "Accounts in your name"],
   },
   quickAnswer:
-    "For a Tuensang business, school or church, a website with us starts at ₹10,000 and is ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, and you own every account.",
+    "For a Tuensang business, school or church, a website with us starts at ₹10,000 and is ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, and you own every account.",
   snapshot: [
     { label: "Location", value: "Headquarters of Tuensang district in eastern Nagaland, at about 1,371 m above sea level" },
     { label: "People", value: "Chang, Sangtam, Yimkhiung and Khiamniungan communities; 36,774 residents in the 2011 census" },
@@ -167,7 +167,7 @@ const tuensang: CityContent = {
       heading: "How much does a website cost in Tuensang?",
       paragraphs: [
         "A simple website for a Tuensang shop, school or church starts at ₹10,000 and covers up to 100 pages, with delivery in one to two weeks. That is the most common starting point, and for many organisations it is all they need.",
-        "Other entry points: a 700+ page SEO website, useful for a college with many courses or a travel business covering routes and villages, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation. An online store for shawls or crafts starts at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000 a month.",
+        "Other entry points: a 299+ page SEO website, useful for a college with many courses or a travel business covering routes and villages, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation. An online store for shawls or crafts starts at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000 a month.",
         "The <strong>website cost in Tuensang</strong> rises only for things you choose: a second language, extra copywriting, UPI or card checkout, member logins, offline features in an app, or links to existing records. Each appears as its own line so you can drop what you do not need. Local quotes for similar-looking work vary widely, so compare on substance: who registers the domain, whether pages are tested on low-end phones and weak networks, what SEO basics are included, how many revision rounds you get and who answers when something breaks a year later.",
         "All starting prices are on our <a href=\"/pricing/\">pricing page</a>. Your itemised quote usually arrives within two working days, and nothing is billed before you approve it.",
       ],
@@ -221,7 +221,7 @@ const tuensang: CityContent = {
     {
       question: "How much does a website cost in Tuensang?",
       answer:
-        "In Tuensang, our websites start at ₹10,000 for up to 100 pages, and a 700+ page SEO site starts at ₹20,000. Apps and AI automation start at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your written, itemised quote depends on pages, language, payments and features.",
+        "In Tuensang, our websites start at ₹10,000 for up to 100 pages, and a 299+ page SEO site starts at ₹20,000. Apps and AI automation start at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your written, itemised quote depends on pages, language, payments and features.",
     },
     {
       question: "Do you build Android and iOS apps for Tuensang businesses?",
@@ -231,7 +231,7 @@ const tuensang: CityContent = {
     {
       question: "How long does it take to build a website for a Tuensang shop or school?",
       answer:
-        "A standard site for a Tuensang shop, school or clinic is usually live in one to two weeks after we receive photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Delays usually come from waiting for content, so sending it early helps most.",
+        "A standard site for a Tuensang shop, school or clinic is usually live in one to two weeks after we receive photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Delays usually come from waiting for content, so sending it early helps most.",
     },
     {
       question: "Which is the best IT services team in Tuensang for a small business?",
@@ -281,7 +281,7 @@ const tuensang: CityContent = {
     {
       question: "Tuensang me website banwane me kitna kharcha aayega?",
       answer:
-        "Tuensang me simple website ka kharcha ₹10,000 se shuru hota hai aur aam taur par ek se do hafte me taiyaar ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hai. Poora quote likhit me milta hai, approval ke baad hi kaam shuru hota hai.",
+        "Tuensang me simple website ka kharcha ₹10,000 se shuru hota hai aur aam taur par ek se do hafte me taiyaar ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hai. Poora quote likhit me milta hai, approval ke baad hi kaam shuru hota hai.",
     },
     {
       question: "Can you make a page for the Poanglüm festival or a Naknyulem event in Tuensang?",

@@ -35,7 +35,7 @@ const tiruchengode: CityContent = {
     pills: ["Sites from ₹10,000", "Rig and body-building catalogues", "Tamil and English pages", "Fleet and job tracking tools", "WhatsApp lead handling"],
   },
   quickAnswer:
-    "A basic website for a Tiruchengode workshop, loom unit, shop or clinic starts at ₹10,000 with us and usually goes live in one to two weeks. A 700+ page SEO site starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and custom fleet or job software at ₹60,000. We are a remote team with no Tiruchengode office, and maintenance is free for five months.",
+    "A basic website for a Tiruchengode workshop, loom unit, shop or clinic starts at ₹10,000 with us and usually goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and custom fleet or job software at ₹60,000. We are a remote team with no Tiruchengode office, and maintenance is free for five months.",
   snapshot: [
     { label: "Location", value: "Largest town in Namakkal district, about 25 km from Erode and 63 km from Salem" },
     { label: "Population", value: "95,335 at the 2011 census" },
@@ -74,12 +74,12 @@ const tiruchengode: CityContent = {
       heading: "What websites cost in Tiruchengode, and what really matters",
       paragraphs: [
         "Website quotes around Tiruchengode, Erode and Namakkal vary widely, from local freelancers with templates to agencies in Coimbatore with long proposals. Comparing totals alone is misleading. Ask who owns the domain, whether search setup is included, how quickly the site opens on a phone, whether you can update specifications and photos yourself, and what support costs later.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. That fits most workshops, loom units, shops, clinics and small institutions. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. It suits rig builders or spare-part sellers who want each model, part and state-level service page found in search.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. That fits most workshops, loom units, shops, clinics and small institutions. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. It suits rig builders or spare-part sellers who want each model, part and state-level service page found in search.",
         "WhatsApp and AI automation starts at ₹40,000, an online store at ₹50,000 and custom software such as rig fleet or job tracking at ₹60,000. Monthly SEO starts at ₹10,000. Every quote is itemised in writing, so you can see what each part costs and drop what you do not need.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, Tamil and English, gallery, enquiry form, map and search basics.",
-        "<strong>From ₹20,000:</strong> 700+ pages for models, spares, services and the states you work in.",
+        "<strong>From ₹20,000:</strong> 299+ pages for models, spares, services and the states you work in.",
         "<strong>From ₹40,000:</strong> WhatsApp automation for spec sheets, availability and lead logging.",
         "<strong>From ₹50,000:</strong> online store for textiles, spares or food products with UPI checkout.",
         "<strong>From ₹60,000:</strong> fleet, job, diesel and crew tracking software for rig operators.",
@@ -200,7 +200,7 @@ const tiruchengode: CityContent = {
     { name: "Sankagiri", note: "Neighbouring town on the Salem side. Transport and trade businesses." },
   ],
   industries: [
-    { name: "Borewell rig builders", need: "Out-of-state buyers, specification clarity, trust", build: "Model catalogue, spec sheets, quote request form, 700+ page SEO" },
+    { name: "Borewell rig builders", need: "Out-of-state buyers, specification clarity, trust", build: "Model catalogue, spec sheets, quote request form, 299+ page SEO" },
     { name: "Rig operators and drilling contractors", need: "Fleet control across states, job and diesel tracking", build: "Fleet dashboard, crew daily reports on WhatsApp, billing records" },
     { name: "Spares, compressor and lathe workshops", need: "Dealer orders and part searches", build: "Part-number catalogue, gated dealer prices, WhatsApp ordering" },
     { name: "Lorry body builders", need: "Transport owners comparing workmanship and delivery time", build: "Body-type galleries, chassis compatibility pages, order status page" },
@@ -213,12 +213,12 @@ const tiruchengode: CityContent = {
     {
       question: "How much does a website cost in Tiruchengode?",
       answer:
-        "With us, a static website of up to 100 pages starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Other quotes may be lower or much higher, so compare domain ownership, search basics, mobile speed and support after launch.",
+        "With us, a static website of up to 100 pages starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Other quotes may be lower or much higher, so compare domain ownership, search basics, mobile speed and support after launch.",
     },
     {
       question: "Tiruchengode la website panna evvalavu aagum?",
       answer:
-        "Enga kitta simple business website ₹10,000-la irundhu aarambikkudhu. 700+ page SEO website ₹20,000-la irundhu, online store ₹50,000-la irundhu, rig fleet software ₹60,000-la irundhu. Final vilai pages, features, content ellam paarthu mudivaagum. Velai aarambikkum munnaadi ezhuthu moolama itemised quote tharuvom, neenga approve panna apram thaan bill.",
+        "Enga kitta simple business website ₹10,000-la irundhu aarambikkudhu. 299+ page SEO website ₹20,000-la irundhu, online store ₹50,000-la irundhu, rig fleet software ₹60,000-la irundhu. Final vilai pages, features, content ellam paarthu mudivaagum. Velai aarambikkum munnaadi ezhuthu moolama itemised quote tharuvom, neenga approve panna apram thaan bill.",
     },
     {
       question: "Do you have an office in Tiruchengode?",
@@ -243,7 +243,7 @@ const tiruchengode: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static website usually takes one to two weeks, a 700+ page SEO site three to five weeks, AI automation two to four weeks, an online store four to eight weeks and custom software six to twelve weeks. Most delays come from waiting for photos and specifications, so we send drafts for you to check.",
+        "A static website usually takes one to two weeks, a 299+ page SEO site three to five weeks, AI automation two to four weeks, an online store four to eight weeks and custom software six to twelve weeks. Most delays come from waiting for photos and specifications, so we send drafts for you to check.",
     },
     {
       question: "What can WhatsApp automation do for my business?",

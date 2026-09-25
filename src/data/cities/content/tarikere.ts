@@ -167,7 +167,7 @@ const tarikere: CityContent = {
       id: "website-cost-tarikere",
       heading: "Website cost in Tarikere: starting prices and what changes them",
       paragraphs: [
-        "Here are the entry points. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 700 pages or more, the kind a travel operator or coaching institute uses to cover every village, route and course, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and AI automation also starts at ₹40,000. Online stores begin at ₹50,000, custom software at ₹60,000, and monthly SEO at ₹10,000 a month.",
+        "Here are the entry points. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 299 pages or more, the kind a travel operator or coaching institute uses to cover every village, route and course, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and AI automation also starts at ₹40,000. Online stores begin at ₹50,000, custom software at ₹60,000, and monthly SEO at ₹10,000 a month.",
         "Your quote moves up only for things you choose: Kannada and English versions, a large product or room catalogue, booking forms, UPI and card checkout, staff logins, or a Tally link. Each one is a separate line you can keep or drop. If you write your own content and send phone photos, the figure stays close to the starting point.",
         "Quotes from designers in Shivamogga, Chikkamagaluru and Bengaluru vary widely for work that sounds similar. Compare who registers the domain, whether hosting is in your name, how many revision rounds are included, whether basic on-page SEO is done, and what support costs after a year. Our starting figures are on the <a href=\"/pricing/\">pricing page</a>, and your itemised quote reaches you in about two working days.",
       ],
@@ -228,7 +228,7 @@ const tarikere: CityContent = {
     {
       question: "How much does a website cost in Tarikere?",
       answer:
-        "A static website for a Tarikere business starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Your written quote lists pages, Kannada content, booking or payment features and integrations separately, and nothing is billed until you approve it.",
+        "A static website for a Tarikere business starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Your written quote lists pages, Kannada content, booking or payment features and integrations separately, and nothing is billed until you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Tarikere businesses?",
@@ -238,7 +238,7 @@ const tarikere: CityContent = {
     {
       question: "How long does it take to build a website in Tarikere?",
       answer:
-        "A simple Tarikere shop or clinic website usually goes live in one to two weeks once we have your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Sending content early is the biggest thing that speeds a project up.",
+        "A simple Tarikere shop or clinic website usually goes live in one to two weeks once we have your photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Sending content early is the biggest thing that speeds a project up.",
     },
     {
       question: "Which is the best IT services team in Tarikere for a small business?",
@@ -263,7 +263,7 @@ const tarikere: CityContent = {
     {
       question: "Tarikere me website banwane ka kharcha kitna hai?",
       answer:
-        "Tarikere mein hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek se do hafte mein taiyaar ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hai. Poora quote har item ke saath likhit mein milta hai.",
+        "Tarikere mein hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek se do hafte mein taiyaar ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hai. Poora quote har item ke saath likhit mein milta hai.",
     },
     {
       question: "You have no office in Tarikere. How is remote work safe?",

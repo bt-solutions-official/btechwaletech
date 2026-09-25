@@ -39,7 +39,7 @@ const dhuri: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Punjabi and English pages", "Mandi and workshop software", "Logins handed to you"],
   },
   quickAnswer:
-    "Dhuri shops, arhtiyas and workshops can have a website built from ₹10,000, usually inside two weeks. Apps for Android and iPhone begin at ₹40,000, and WhatsApp or AI automation also starts at ₹40,000. A 700+ page SEO site is ₹20,000 onwards, an online store ₹50,000 onwards and custom software ₹60,000 onwards. We work remotely, without a Dhuri office.",
+    "Dhuri shops, arhtiyas and workshops can have a website built from ₹10,000, usually inside two weeks. Apps for Android and iPhone begin at ₹40,000, and WhatsApp or AI automation also starts at ₹40,000. A 299+ page SEO site is ₹20,000 onwards, an online store ₹50,000 onwards and custom software ₹60,000 onwards. We work remotely, without a Dhuri office.",
   snapshot: [
     { label: "Location", value: "Town in Sangrur district, about 14 km from Sangrur and 18 km from Malerkotla" },
     { label: "Rail", value: "Dhuri Junction, on the Bathinda–Rajpura and Ludhiana–Jakhal lines, Ambala division" },
@@ -155,7 +155,7 @@ const dhuri: CityContent = {
       id: "website-cost-dhuri",
       heading: "Website cost in Dhuri: starting prices and what to check in any quote",
       paragraphs: [
-        "Owners in Dhuri usually want the number first. A simple static website, up to 100 pages, begins at ₹10,000 and takes one to two weeks. A large SEO site of 700 pages or more, the kind a coaching group or implement maker uses to cover every course, model and nearby village, begins at ₹20,000 and takes three to five weeks. Mobile apps for Android and iPhone and AI automation each begin at ₹40,000, online stores at ₹50,000, custom software at ₹60,000, and monthly SEO at ₹10,000.",
+        "Owners in Dhuri usually want the number first. A simple static website, up to 100 pages, begins at ₹10,000 and takes one to two weeks. A large SEO site of 299 pages or more, the kind a coaching group or implement maker uses to cover every course, model and nearby village, begins at ₹20,000 and takes three to five weeks. Mobile apps for Android and iPhone and AI automation each begin at ₹40,000, online stores at ₹50,000, custom software at ₹60,000, and monthly SEO at ₹10,000.",
         "The amount rises only for the extras you pick: Punjabi and English versions, a big spare parts list, freight tables, UPI checkout, staff logins or a Tally link. If you write your own text and take your own photographs, the price hardly changes.",
         "Quotes from designers in Sangrur, Ludhiana, Patiala and online can be far apart for work that sounds the same. Before choosing, ask who owns the domain, whether the site is tested on low-cost phones, whether on-page SEO is included, how many revision rounds you get and what support costs in the second year. Our starting points are on the <a href=\"/pricing/\">pricing page</a>, and the written quote with every item listed arrives in about two working days.",
       ],
@@ -216,7 +216,7 @@ const dhuri: CityContent = {
     {
       question: "What is the website cost in Dhuri?",
       answer:
-        "A static site for a Dhuri business begins at ₹10,000, an SEO site with 700+ pages at ₹20,000, an online store at ₹50,000 and custom software such as an arhtiya ledger at ₹60,000. All are starting figures; Punjabi pages, product counts and integrations are priced as separate lines in a written quote that you approve before billing.",
+        "A static site for a Dhuri business begins at ₹10,000, an SEO site with 299+ pages at ₹20,000, an online store at ₹50,000 and custom software such as an arhtiya ledger at ₹60,000. All are starting figures; Punjabi pages, product counts and integrations are priced as separate lines in a written quote that you approve before billing.",
     },
     {
       question: "Do you build Android and iOS apps for Dhuri businesses?",
@@ -226,7 +226,7 @@ const dhuri: CityContent = {
     {
       question: "How soon can a Dhuri shop have its website?",
       answer:
-        "A straightforward shop or clinic site usually goes live within a fortnight of us getting your photos and details. A 700+ page SEO build takes three to five weeks, a store four to eight and custom software six to twelve. Arhtiya software is best started between harvests so your staff can learn it without pressure.",
+        "A straightforward shop or clinic site usually goes live within a fortnight of us getting your photos and details. A 299+ page SEO build takes three to five weeks, a store four to eight and custom software six to twelve. Arhtiya software is best started between harvests so your staff can learn it without pressure.",
     },
     {
       question: "Who is the best website development team in Dhuri?",

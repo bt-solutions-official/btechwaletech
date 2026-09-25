@@ -39,7 +39,7 @@ const nellikuppam: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Tamil and English pages", "Cane and transport software", "Domain and code in your name"],
   },
   quickAnswer:
-    "Nellikuppam shops, clinics and factory suppliers can get a Tamil-English website from ₹10,000, usually live in one to two weeks, or an Android and iOS app from ₹40,000 through our remote three-engineer team. SEO sites with 700+ pages start at ₹20,000, stores at ₹50,000 and custom software at ₹60,000, each quoted item by item in writing.",
+    "Nellikuppam shops, clinics and factory suppliers can get a Tamil-English website from ₹10,000, usually live in one to two weeks, or an Android and iOS app from ₹40,000 through our remote three-engineer team. SEO sites with 299+ pages start at ₹20,000, stores at ₹50,000 and custom software at ₹60,000, each quoted item by item in writing.",
   snapshot: [
     { label: "Location", value: "Municipality in Cuddalore district, on the road between Cuddalore and Panruti" },
     { label: "Civic status", value: "Third-grade municipality from 1966, second grade since 1983; 30 wards over 21.49 sq km" },
@@ -155,7 +155,7 @@ const nellikuppam: CityContent = {
       ],
       list: [
         "Static website, up to 100 pages: from ₹10,000, one to two weeks",
-        "SEO website with 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website with 299+ pages: from ₹20,000, three to five weeks",
         "Android and iOS app: from ₹40,000",
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Ecommerce store: from ₹50,000, four to eight weeks",
@@ -220,7 +220,7 @@ const nellikuppam: CityContent = {
     {
       question: "What is the website cost in Nellikuppam?",
       answer:
-        "With us, a static website of up to 100 pages starts at ₹10,000 and a 700+ page SEO website at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. These are starting prices: Tamil content, product count, checkout and integrations decide the final figure, which you see line by line in a written quote before anything is billed.",
+        "With us, a static website of up to 100 pages starts at ₹10,000 and a 299+ page SEO website at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. These are starting prices: Tamil content, product count, checkout and integrations decide the final figure, which you see line by line in a written quote before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Nellikuppam businesses?",
@@ -230,7 +230,7 @@ const nellikuppam: CityContent = {
     {
       question: "How long does a website take for a Nellikuppam shop?",
       answer:
-        "A simple shop or clinic site is usually live one to two weeks after we receive your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve, built in stages. Projects move fastest when the owner sends text, prices and pictures in the first few days.",
+        "A simple shop or clinic site is usually live one to two weeks after we receive your photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve, built in stages. Projects move fastest when the owner sends text, prices and pictures in the first few days.",
     },
     {
       question: "Which is the best IT services team in Nellikuppam?",
@@ -275,7 +275,7 @@ const nellikuppam: CityContent = {
     {
       question: "Nellikuppam me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein live ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hota hai. Aapke pages aur features ke hisaab se poora quote likhit mein, har item alag karke milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein live ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hota hai. Aapke pages aur features ke hisaab se poora quote likhit mein, har item alag karke milta hai.",
     },
     {
       question: "Nellikuppathil oru website seiya evvalavu selavaagum?",

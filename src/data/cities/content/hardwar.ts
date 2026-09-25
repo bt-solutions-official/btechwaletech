@@ -35,7 +35,7 @@ const hardwar: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi and English pages", "Hotel and dharamshala booking", "Ayurveda product stores", "WhatsApp automation"],
   },
   quickAnswer:
-    "In Haridwar, our static websites start from ₹10,000 and take one to two weeks. A 700+ page SEO website starts from ₹20,000, an online store for Ayurveda or puja products from ₹50,000, and AI automation from ₹40,000. We are a remote three-engineer team with no Haridwar office, and every site gets five months of free maintenance.",
+    "In Haridwar, our static websites start from ₹10,000 and take one to two weeks. A 299+ page SEO website starts from ₹20,000, an online store for Ayurveda or puja products from ₹50,000, and AI automation from ₹40,000. We are a remote three-engineer team with no Haridwar office, and every site gets five months of free maintenance.",
   snapshot: [
     { label: "Pilgrimage", value: "Har Ki Pauri and the Ganga Aarti; Mansa Devi, Chandi Devi and Maya Devi temples; Kumbh and Ardh Kumbh fairs" },
     { label: "Industrial estate", value: "SIDCUL Haridwar, about 2,034 acres beside Shivalik Nagar, with 650+ companies" },
@@ -73,12 +73,12 @@ const hardwar: CityContent = {
       heading: "What a website costs in Haridwar",
       paragraphs: [
         "Quotes in Haridwar swing widely. Some offers are cheap because they use a recycled theme, skip search setup and keep the domain in the developer's account. Others are high because they carry the overheads of a Dehradun or Delhi agency. Neither tells you what the work is worth.",
-        "Our starting prices are open. A static website with up to 100 pages starts from ₹10,000 and takes one to two weeks. An SEO website of 700+ pages, with pages for each room type, product, service or locality you genuinely serve, starts from ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, custom web applications at ₹60,000 and monthly SEO at ₹10,000. You can compare everything on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our starting prices are open. A static website with up to 100 pages starts from ₹10,000 and takes one to two weeks. An SEO website of 299+ pages, with pages for each room type, product, service or locality you genuinely serve, starts from ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, custom web applications at ₹60,000 and monthly SEO at ₹10,000. You can compare everything on our <a href=\"/pricing/\">pricing page</a>.",
         "A small puja shop near the ghats needs much less than a 60-room hotel with seasonal rates or an Ayurveda company with 200 products. Tell us what you run and who your customers are, and you will receive an itemised quote within about two working days. We bill nothing until you approve it in writing.",
       ],
       list: [
         "<strong>Static website, from ₹10,000:</strong> up to 100 pages with map, contact form and basic SEO.",
-        "<strong>SEO website, from ₹20,000:</strong> 700+ pages across rooms, services, products and areas.",
+        "<strong>SEO website, from ₹20,000:</strong> 299+ pages across rooms, services, products and areas.",
         "<strong>Online store, from ₹50,000:</strong> product catalogue with UPI and card checkout and shipping rules.",
         "<strong>Custom web app, from ₹60,000:</strong> room allocation, vendor portals and production trackers.",
       ],
@@ -210,12 +210,12 @@ const hardwar: CityContent = {
     {
       question: "How much does a website cost in Haridwar?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices. Your final amount depends on scope and arrives as an itemised quote before any billing.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices. Your final amount depends on scope and arrives as an itemised quote before any billing.",
     },
     {
       question: "Haridwar mein hotel ya dharamshala ki website banwane ka kharcha kitna hai?",
       answer:
-        "Humare saath ek simple website ₹10,000 se shuru hoti hai, jisme room pages, photos, map aur WhatsApp booking form aa jaata hai. 700+ pages wali SEO website ₹20,000 se aur online payment wala booking system alag quote par banta hai. Kaam shuru karne se pehle aapko likhit, itemised quote milta hai aur approval ke bina kuch bill nahi hota.",
+        "Humare saath ek simple website ₹10,000 se shuru hoti hai, jisme room pages, photos, map aur WhatsApp booking form aa jaata hai. 299+ pages wali SEO website ₹20,000 se aur online payment wala booking system alag quote par banta hai. Kaam shuru karne se pehle aapko likhit, itemised quote milta hai aur approval ke bina kuch bill nahi hota.",
     },
     {
       question: "Do you have an office in Haridwar?",

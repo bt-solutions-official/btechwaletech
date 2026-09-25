@@ -39,7 +39,7 @@ const firozpurCantt: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Cantt-accurate map pins", "Pages for posting families", "Accounts registered to you"],
   },
   quickAnswer:
-    "A business in Firozpur Cantt can get a website from us starting at ₹10,000, usually ready within one to two weeks. Android and iOS apps and AI or WhatsApp automation begin at ₹40,000, a 700+ page SEO site at ₹20,000 and an online store at ₹50,000. We are fully remote, with no cantonment office, and you hold every account.",
+    "A business in Firozpur Cantt can get a website from us starting at ₹10,000, usually ready within one to two weeks. Android and iOS apps and AI or WhatsApp automation begin at ₹40,000, a 299+ page SEO site at ₹20,000 and an online store at ₹50,000. We are fully remote, with no cantonment office, and you hold every account.",
   snapshot: [
     { label: "Founded", value: "1839, under Captain H. M. Lawrence; a major base during the First Anglo-Sikh War" },
     { label: "Military", value: "Headquarters of the Indian Army's 7th Infantry Division" },
@@ -160,7 +160,7 @@ const firozpurCantt: CityContent = {
       id: "website-cost-firozpur-cantt",
       heading: "Website cost in Firozpur Cantt: floors, add-ons and a fair comparison",
       paragraphs: [
-        "Here are the entry prices. A static site of up to 100 pages, enough for nearly every shop, clinic, school or guest house in the Cantt, starts at ₹10,000 and usually takes one to two weeks. A 700+ page SEO site, meant for a coaching brand or a distributor with a big catalogue, begins at ₹20,000 over three to five weeks. Apps for Android and iPhone start at ₹40,000, and AI automation starts at the same figure.",
+        "Here are the entry prices. A static site of up to 100 pages, enough for nearly every shop, clinic, school or guest house in the Cantt, starts at ₹10,000 and usually takes one to two weeks. A 299+ page SEO site, meant for a coaching brand or a distributor with a big catalogue, begins at ₹20,000 over three to five weeks. Apps for Android and iPhone start at ₹40,000, and AI automation starts at the same figure.",
         "Online stores begin at ₹50,000, bespoke software at ₹60,000 and a monthly SEO plan at ₹10,000. These are minimums, not bundles. Your quote grows only with what you add, for example Hindi or Punjabi versions next to English, a large product range, delivery-slot rules, student logins, online payment or a billing link. Sending your own copy and photographs keeps it low.",
         "Prices for similar work in Ferozepur, Faridkot and Ludhiana vary a great deal, so test every quote on the same points: who owns the domain and hosting, whether it is tested on a budget phone, whether basic on-page SEO is part of it, how many revision rounds are covered, and who fixes things a year from now. See our <a href=\"/pricing/\">pricing page</a>; your itemised quote follows in writing within roughly two working days.",
       ],
@@ -212,7 +212,7 @@ const firozpurCantt: CityContent = {
     {
       question: "What does a website cost in Firozpur Cantt?",
       answer:
-        "Static sites begin at ₹10,000, 700+ page SEO sites at ₹20,000, online stores at ₹50,000 and bespoke software at ₹60,000. These are minimums. Language versions, product count and integrations set your final figure, which arrives as an item-by-item written quote in about two working days, with no charge before you approve it.",
+        "Static sites begin at ₹10,000, 299+ page SEO sites at ₹20,000, online stores at ₹50,000 and bespoke software at ₹60,000. These are minimums. Language versions, product count and integrations set your final figure, which arrives as an item-by-item written quote in about two working days, with no charge before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Firozpur Cantt businesses?",
@@ -222,7 +222,7 @@ const firozpurCantt: CityContent = {
     {
       question: "How soon can a Sadar Bazar shop have a website?",
       answer:
-        "Usually within one to two weeks of sending us photographs, timings and a list of what you sell. Larger jobs need more time: three to five weeks for a 700+ page SEO site, four to eight for an online store, six to twelve for custom software. Shops that send material quickly go live quickest.",
+        "Usually within one to two weeks of sending us photographs, timings and a list of what you sell. Larger jobs need more time: three to five weeks for a 299+ page SEO site, four to eight for an online store, six to twelve for custom software. Shops that send material quickly go live quickest.",
     },
     {
       question: "Who is the best website development team in Firozpur Cantt?",

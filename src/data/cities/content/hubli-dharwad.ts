@@ -35,7 +35,7 @@ const hubliDharwad: CityContent = {
     pills: ["Sites from ₹10,000", "Kannada and English pages", "UPI stores for sweets and snacks", "Dealer and order portals", "WhatsApp lead handling"],
   },
   quickAnswer:
-    "For businesses in Hubballi and Dharwad, our static websites start at ₹10,000 and usually go live in one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. We are a remote three-engineer team with no local office, and five months of maintenance come free.",
+    "For businesses in Hubballi and Dharwad, our static websites start at ₹10,000 and usually go live in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. We are a remote three-engineer team with no local office, and five months of maintenance come free.",
   snapshot: [
     { label: "Twin-city character", value: "Hubballi as the commercial and railway centre, Dharwad as the district seat and education hub, linked by a BRTS corridor" },
     { label: "Industrial areas", value: "Gokul Road and Tarihal in Hubballi, with more than a thousand small and medium units; KIADB Belur near Dharwad" },
@@ -73,12 +73,12 @@ const hubliDharwad: CityContent = {
       heading: "How much does a website cost in Hubli-Dharwad?",
       paragraphs: [
         "Local quotes for a small business website in the twin cities range from roughly ₹3,000 to ₹45,000, and Bengaluru agencies selling into the region often go higher. Cheap offers usually mean a reused template, no search setup and hosting kept on the developer's account. Expensive ones often include overheads you never see the benefit of.",
-        "Our figures are fixed starting points, published on our <a href=\"/pricing/\">pricing page</a>. A static site for a clinic, consultant or small shop begins at ₹10,000 and goes live in one to two weeks. A 700+ page site built around real north Karnataka search terms starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, automation at ₹40,000 and monthly SEO at ₹10,000.",
+        "Our figures are fixed starting points, published on our <a href=\"/pricing/\">pricing page</a>. A static site for a clinic, consultant or small shop begins at ₹10,000 and goes live in one to two weeks. A 299+ page site built around real north Karnataka search terms starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, automation at ₹40,000 and monthly SEO at ₹10,000.",
         "Scope decides the rest. A peda maker with a dozen products and good photos pays less than a hardware distributor with eight hundred items and no descriptions. You see every page and feature listed in the quote, and nothing is billed until you approve it in writing.",
       ],
       list: [
         "<strong>Static, from ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form, basic SEO. For clinics, lawyers, tutors and shops.",
-        "<strong>SEO site, from ₹20,000:</strong> 700+ pages, service and area pages, schema, sitemap. For firms wanting steady Google enquiries.",
+        "<strong>SEO site, from ₹20,000:</strong> 299+ pages, service and area pages, schema, sitemap. For firms wanting steady Google enquiries.",
         "<strong>Store, from ₹50,000:</strong> catalogue, cart, UPI and cards, order alerts. For sweets, snacks, textiles and agri products.",
         "<strong>Web app, from ₹60,000:</strong> logins, dashboards, integrations. For manufacturers, distributors and institutions.",
       ],
@@ -218,12 +218,12 @@ const hubliDharwad: CityContent = {
     {
       question: "How much does a website cost in Hubli-Dharwad?",
       answer:
-        "With us, static sites start at ₹10,000, 700+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. Local quotes range from about ₹3,000 to ₹45,000 for similar-sounding work, so check whether SEO, hosting in your name and support after launch are included.",
+        "With us, static sites start at ₹10,000, 299+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. Local quotes range from about ₹3,000 to ₹45,000 for similar-sounding work, so check whether SEO, hosting in your name and support after launch are included.",
     },
     {
       question: "Hubballi-dalli website maadisalu eshtu kharchu aagutte?",
       answer:
-        "Namma jothe simple business website ₹10,000 inda shuru aagutte. 700+ page SEO website ₹20,000 inda, online store ₹50,000 inda. Pages, features mattu content mele final bele nirdhara aagutte. Kelsa shuru maaduva modalu itemised quote kalisuttheve, neevu opkonda mele maatra bill.",
+        "Namma jothe simple business website ₹10,000 inda shuru aagutte. 299+ page SEO website ₹20,000 inda, online store ₹50,000 inda. Pages, features mattu content mele final bele nirdhara aagutte. Kelsa shuru maaduva modalu itemised quote kalisuttheve, neevu opkonda mele maatra bill.",
     },
     {
       question: "Do you have an office in Hubballi or Dharwad?",
@@ -243,7 +243,7 @@ const hubliDharwad: CityContent = {
     {
       question: "How long does building a website take?",
       answer:
-        "Static sites take one to two weeks, 700+ page SEO sites three to five, online stores four to eight and custom applications six to twelve. The usual delay is waiting for photos and text, so we draft starter content for you to correct rather than waiting on empty pages.",
+        "Static sites take one to two weeks, 299+ page SEO sites three to five, online stores four to eight and custom applications six to twelve. The usual delay is waiting for photos and text, so we draft starter content for you to correct rather than waiting on empty pages.",
     },
     {
       question: "Can I sell Dharwad peda online?",

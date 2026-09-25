@@ -39,7 +39,7 @@ const tindivanam: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Tamil-first local SEO", "Highway and SIPCOT businesses", "Your domain, your code"],
   },
   quickAnswer:
-    "For a Tindivanam business, a website with us starts at ₹10,000 and typically takes one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and you own every account.",
+    "For a Tindivanam business, a website with us starts at ₹10,000 and typically takes one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and you own every account.",
   snapshot: [
     { label: "Location", value: "Second-largest town in Viluppuram district, about 120 km south-west of Chennai and roughly 38 km from Puducherry" },
     { label: "Civic status", value: "Selection grade municipality covering about 22 sq km" },
@@ -167,7 +167,7 @@ const tindivanam: CityContent = {
       id: "website-cost-in-tindivanam",
       heading: "Website cost in Tindivanam and how we price each job",
       paragraphs: [
-        "The most common first question is simple: what is the <strong>website cost in Tindivanam</strong>? Our starting prices are published so you know where a conversation begins. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website with 700+ pages starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000. AI automation starts at ₹40,000 and takes two to four weeks.",
+        "The most common first question is simple: what is the <strong>website cost in Tindivanam</strong>? Our starting prices are published so you know where a conversation begins. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website with 299+ pages starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000. AI automation starts at ₹40,000 and takes two to four weeks.",
         "Ecommerce stores start at ₹50,000 and usually take four to eight weeks. Custom web apps and software start at ₹60,000 and take six to twelve weeks. Monthly SEO starts at ₹10,000 a month. After five months of free maintenance following launch, maintenance starts at ₹8,000 a month.",
         "These are starting points, not fixed amounts. The final figure depends on page count, whether content is in Tamil, English or both, how many products or services need their own page, app screens, payment and delivery rules, and any integration with billing software. We send an itemised quote within about two working days of understanding the brief, and nothing is billed before you approve it in writing.",
         "Local quotes in Tindivanam and Viluppuram vary widely. When you compare, check who owns the domain and hosting, whether source code is handed over, how many revisions are included, what maintenance costs after launch and whether Tamil content is written or only pasted in. Our full list is on the <a href=\"/pricing/\">pricing page</a>.",
@@ -222,7 +222,7 @@ const tindivanam: CityContent = {
     {
       question: "How much does a website cost in Tindivanam?",
       answer:
-        "A static website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. An SEO website with 700+ pages starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. The final amount depends on pages, Tamil or bilingual content and features. You get an itemised quote first, and billing starts only after your written approval.",
+        "A static website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. An SEO website with 299+ pages starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. The final amount depends on pages, Tamil or bilingual content and features. You get an itemised quote first, and billing starts only after your written approval.",
     },
     {
       question: "How long does it take to build a website for a Tindivanam business?",

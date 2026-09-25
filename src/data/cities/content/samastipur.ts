@@ -40,7 +40,7 @@ const samastipur: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Coaching and school apps", "Hindi and Maithili-aware SEO", "You hold every login"],
   },
   quickAnswer:
-    "A Samastipur business can start with a website from ₹10,000, usually built inside two weeks. Android and iOS apps start at ₹40,000, AI automation also at ₹40,000, SEO sites of 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. Our team is remote, has no Samastipur office, and registers everything to you.",
+    "A Samastipur business can start with a website from ₹10,000, usually built inside two weeks. Android and iOS apps start at ₹40,000, AI automation also at ₹40,000, SEO sites of 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. Our team is remote, has no Samastipur office, and registers everything to you.",
   snapshot: [
     { label: "Status", value: "Headquarters of Samastipur district, Darbhanga division; a separate district since 1972" },
     { label: "River", value: "The Burhi Gandak flows through the city; the Bagmati and Ganga bound the district" },
@@ -151,7 +151,7 @@ const samastipur: CityContent = {
       id: "website-cost-samastipur",
       heading: "Website cost in Samastipur: starting prices and fair comparison",
       paragraphs: [
-        "Starting figures for Samastipur work: a static site of up to 100 pages from ₹10,000, delivered in one to two weeks; an SEO site of 700+ pages from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000; an online store from ₹50,000 in four to eight weeks; and custom software from ₹60,000 over six to twelve weeks. Ongoing SEO starts at ₹10,000 a month.",
+        "Starting figures for Samastipur work: a static site of up to 100 pages from ₹10,000, delivered in one to two weeks; an SEO site of 299+ pages from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000; an online store from ₹50,000 in four to eight weeks; and custom software from ₹60,000 over six to twelve weeks. Ongoing SEO starts at ₹10,000 a month.",
         "What raises a quote is scope: Hindi and English versions, larger catalogues, payments and courier links, student or staff logins, and Tally connections. If you provide the text and photographs, the cost stays close to the starting figure; content writing or a photo shoot is listed as its own item.",
         "Rates from other designers in the area vary widely, so compare terms rather than totals. Check who will own the domain and hosting, whether mobile testing and basic SEO are part of the work, how many rounds of edits are included, and who handles problems after launch. Our <a href=\"/pricing/\">pricing page</a> lists every starting price, and a written quote reaches you in about two working days.",
       ],
@@ -212,7 +212,7 @@ const samastipur: CityContent = {
     {
       question: "What is the website cost in Samastipur?",
       answer:
-        "A static website from us starts at ₹10,000, an SEO website of 700+ pages at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. All are starting figures; Hindi content, page count, products and integrations change the total. The quote is written and itemised, and nothing is billed before you approve it.",
+        "A static website from us starts at ₹10,000, an SEO website of 299+ pages at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. All are starting figures; Hindi content, page count, products and integrations change the total. The quote is written and itemised, and nothing is billed before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Samastipur businesses?",
@@ -227,7 +227,7 @@ const samastipur: CityContent = {
     {
       question: "How long does a website take for a Samastipur business?",
       answer:
-        "Expect one to two weeks for a static website, counted from when your content reaches us. SEO sites of 700+ pages take three to five weeks, online stores four to eight weeks and custom software six to twelve weeks. Late content is the most common cause of delay, so gather it early.",
+        "Expect one to two weeks for a static website, counted from when your content reaches us. SEO sites of 299+ pages take three to five weeks, online stores four to eight weeks and custom software six to twelve weeks. Late content is the most common cause of delay, so gather it early.",
     },
     {
       question: "Which is the best website development team in Samastipur?",
@@ -247,7 +247,7 @@ const samastipur: CityContent = {
     {
       question: "Samastipur me website banwane ka kharcha kitna hota hai?",
       answer:
-        "Hamare saath chhoti website ₹10,000 se shuru hoti hai aur aam taur par do hafte ke andar ready ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapki zaroorat ke hisaab se har kaam ka daam alag likhkar bhejte hain.",
+        "Hamare saath chhoti website ₹10,000 se shuru hoti hai aur aam taur par do hafte ke andar ready ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapki zaroorat ke hisaab se har kaam ka daam alag likhkar bhejte hain.",
     },
     {
       question: "You have no office in Samastipur. How does the work stay safe?",

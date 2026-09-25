@@ -39,7 +39,7 @@ const gumia: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first Google Maps SEO", "Trip and hours registers", "Domain and code in your name"],
   },
   quickAnswer:
-    "Gumia (Gomia) businesses can get a basic website from ₹10,000, typically finished in one to two weeks, and Android and iOS apps from ₹40,000. AI or WhatsApp automation begins at ₹40,000, a 700+ page SEO site at ₹20,000, an online shop at ₹50,000 and bespoke contractor software at ₹60,000. Our three engineers work remotely; there is no Gomia office.",
+    "Gumia (Gomia) businesses can get a basic website from ₹10,000, typically finished in one to two weeks, and Android and iOS apps from ₹40,000. AI or WhatsApp automation begins at ₹40,000, a 299+ page SEO site at ₹20,000, an online shop at ₹50,000 and bespoke contractor software at ₹60,000. Our three engineers work remotely; there is no Gomia office.",
   snapshot: [
     { label: "Location", value: "Census town and block headquarters in Bermo subdivision of Bokaro district, on the Chota Nagpur plateau; PIN codes 829111 and 829112" },
     { label: "Population", value: "48,141 residents in the 2011 census, with literacy of about 92%" },
@@ -163,7 +163,7 @@ const gumia: CityContent = {
       ],
       list: [
         "Static website, up to 100 pages: from ₹10,000, one to two weeks",
-        "SEO website with 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website with 299+ pages: from ₹20,000, three to five weeks",
         "Android and iOS app: from ₹40,000",
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Online store: from ₹50,000, four to eight weeks",
@@ -236,7 +236,7 @@ const gumia: CityContent = {
     {
       question: "What is the website cost in Gumia?",
       answer:
-        "A static site of up to 100 pages begins at ₹10,000 and a 700-plus page SEO site at ₹20,000. Online stores start from ₹50,000, custom software from ₹60,000 and Android or iOS apps from ₹40,000. These are starting figures; the written quote lists pages, Hindi content and extras line by line, and nothing is charged before you approve it.",
+        "A static site of up to 100 pages begins at ₹10,000 and a 299-plus page SEO site at ₹20,000. Online stores start from ₹50,000, custom software from ₹60,000 and Android or iOS apps from ₹40,000. These are starting figures; the written quote lists pages, Hindi content and extras line by line, and nothing is charged before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Gumia businesses?",
@@ -271,7 +271,7 @@ const gumia: CityContent = {
     {
       question: "Gomia me website ya app banwane ka kharcha kitna hai?",
       answer:
-        "Simple website ka kharcha ₹10,000 se shuru hota hai aur aam taur par ek se do hafte lagte hain. Android aur iOS app ₹40,000 se, 700+ page wali SEO website ₹20,000 se aur online dukaan ₹50,000 se shuru hoti hai. WhatsApp par apna kaam bataiye, do working din mein likhit quote mil jayega.",
+        "Simple website ka kharcha ₹10,000 se shuru hota hai aur aam taur par ek se do hafte lagte hain. Android aur iOS app ₹40,000 se, 299+ page wali SEO website ₹20,000 se aur online dukaan ₹50,000 se shuru hoti hai. WhatsApp par apna kaam bataiye, do working din mein likhit quote mil jayega.",
     },
     {
       question: "You have no office in Gumia. How do I know remote work is safe?",

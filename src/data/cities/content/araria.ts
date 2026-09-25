@@ -39,7 +39,7 @@ const araria: CityContent = {
     pills: ["Websites ₹10,000 onwards", "Android & iOS apps ₹40,000 onwards", "Hindi and Urdu pages", "Makhana and farm trade stores", "Every login in your name"],
   },
   quickAnswer:
-    "Araria businesses can get a website from ₹10,000, typically ready within a fortnight. SEO sites of 700+ pages begin at ₹20,000; Android and iOS apps, like AI automation, begin at ₹40,000; online stores at ₹50,000; custom software at ₹60,000. Our team is remote, has no Araria office, and registers everything in your name.",
+    "Araria businesses can get a website from ₹10,000, typically ready within a fortnight. SEO sites of 299+ pages begin at ₹20,000; Android and iOS apps, like AI automation, begin at ₹40,000; online stores at ₹50,000; custom software at ₹60,000. Our team is remote, has no Araria office, and registers everything in your name.",
   snapshot: [
     { label: "Location", value: "District headquarters in north-east Bihar, bordering Nepal to the north and Kishanganj to the east" },
     { label: "District formed", value: "Carved out of Purnia district in 1990, with Araria and Forbesganj sub-divisions and nine blocks" },
@@ -159,7 +159,7 @@ const araria: CityContent = {
       id: "website-cost-araria",
       heading: "Website cost in Araria: starting prices and how to compare quotes",
       paragraphs: [
-        "Here is what each kind of project costs to begin with in Araria. A static site of up to 100 pages is ₹10,000 onwards and is usually live inside two weeks. A large SEO site with 700+ pages starts at ₹20,000 and needs three to five weeks. Android and iOS apps start at ₹40,000, and so does AI or WhatsApp automation, which takes two to four weeks. An online store begins at ₹50,000; custom software at ₹60,000. Ongoing SEO is ₹10,000 a month onwards.",
+        "Here is what each kind of project costs to begin with in Araria. A static site of up to 100 pages is ₹10,000 onwards and is usually live inside two weeks. A large SEO site with 299+ pages starts at ₹20,000 and needs three to five weeks. Android and iOS apps start at ₹40,000, and so does AI or WhatsApp automation, which takes two to four weeks. An online store begins at ₹50,000; custom software at ₹60,000. Ongoing SEO is ₹10,000 a month onwards.",
         "Several things push a quote above the starting figure: extra pages, both Hindi and Urdu versions, a long product list, payment and courier links, user logins, or a connection to Tally. Content counts too. Owners who send their own text and photos pay close to the base; if our team writes and arranges the content, you see that as a separate line.",
         "Rates offered by local designers differ a lot, so compare carefully. Find out who will hold the domain and hosting, whether phone testing and basic SEO are part of the price, how many revision rounds are allowed, and who will pick up when something breaks next year. The <a href=\"/pricing/\">pricing page</a> has our base figures, and an itemised quote for Araria reaches you in roughly two working days.",
       ],
@@ -210,7 +210,7 @@ const araria: CityContent = {
     {
       question: "How much does a website cost in Araria?",
       answer:
-        "With us, a basic static site in Araria begins at ₹10,000. Bigger jobs start higher: ₹20,000 for a 700+ page SEO site, ₹50,000 for an online shop and ₹60,000 for custom software. Your real figure depends on page count, languages, products and integrations, and you see it line by line before paying anything.",
+        "With us, a basic static site in Araria begins at ₹10,000. Bigger jobs start higher: ₹20,000 for a 299+ page SEO site, ₹50,000 for an online shop and ₹60,000 for custom software. Your real figure depends on page count, languages, products and integrations, and you see it line by line before paying anything.",
     },
     {
       question: "Do you build Android and iOS apps for Araria businesses?",

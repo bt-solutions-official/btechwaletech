@@ -227,7 +227,7 @@ const content: CityContent = {
       id: "software-cost-thrissur",
       heading: "What does a software development team in Thrissur charge compared with us?",
       paragraphs: [
-        "A software development team in Thrissur has rent, salaried sales staff and managers to cover, and those costs sit inside every estimate. We publish our starting points instead: ₹10,000 for a website, ₹20,000 for a 700+ page SEO site, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for a store, ₹60,000 for custom software, ₹10,000 a month for SEO and ₹8,000 a month for upkeep.",
+        "A software development team in Thrissur has rent, salaried sales staff and managers to cover, and those costs sit inside every estimate. We publish our starting points instead: ₹10,000 for a website, ₹20,000 for a 299+ page SEO site, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for a store, ₹60,000 for custom software, ₹10,000 a month for SEO and ₹8,000 a month for upkeep.",
         "Branches, modules, integrations and moving old data decide where your quote lands above those figures; the <a href='/pricing/'>pricing page</a> lists every plan. We invoice in rupees and accept only a UPI QR scan or a bank transfer, one milestone at a time, after you have checked the work.",
       ],
     },

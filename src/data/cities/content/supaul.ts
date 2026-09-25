@@ -39,7 +39,7 @@ const supaul: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi and Maithili-friendly pages", "Makhana and grain trade stores", "Everything in your name"],
   },
   quickAnswer:
-    "Supaul businesses can get a website from ₹10,000, normally delivered within a fortnight, and Android and iOS apps from ₹40,000. AI automation also begins at ₹40,000, SEO sites of 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. Our remote team has no Supaul office, and every account is registered to you.",
+    "Supaul businesses can get a website from ₹10,000, normally delivered within a fortnight, and Android and iOS apps from ₹40,000. AI automation also begins at ₹40,000, SEO sites of 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. Our remote team has no Supaul office, and every account is registered to you.",
   snapshot: [
     { label: "Role", value: "Headquarters of Supaul district, separated from Saharsa district in 1991" },
     { label: "Population", value: "About 65,400 in the town at the 2011 Census; around 22 lakh in the district, mostly rural" },
@@ -100,7 +100,7 @@ const supaul: CityContent = {
         "Education is one of Supaul's biggest local businesses. The town has B.S.S. College on College Road, a constituent of B.N. Mandal University, and Supaul College of Engineering, set up in 2017 under Bihar Engineering University. Around them are coaching institutes for board exams, competitive exams, banking, railway and defence recruitment, along with hostels, lodges, libraries and stationery shops.",
         "Good <strong>web design in Supaul</strong> for a coaching institute is about trust and clarity: courses, batch timings, fee ranges, faculty with real qualifications, honest results with student consent, a location map and a form that sends the student's name, class and village to WhatsApp. Hindi comes first, with English for courses where students expect it.",
         "Schools need admission dates, classes, fee structure, transport routes and a notice section. Hostels and libraries do well with real photographs, rules, prices and a map pin that parents can share.",
-        "Where an institute runs dozens of courses, a larger build of 700 pages or more (₹20,000 onwards) gives every exam, subject and batch a page of its own for students who search by name.",
+        "Where an institute runs dozens of courses, a larger build of 299 pages or more (₹20,000 onwards) gives every exam, subject and batch a page of its own for students who search by name.",
       ],
     },
     {
@@ -166,7 +166,7 @@ const supaul: CityContent = {
       id: "website-cost-supaul",
       heading: "Website cost in Supaul: starting prices and how to compare quotes",
       paragraphs: [
-        "Every figure here is a floor, not a ceiling. Simple sites for a shop, clinic or school, anything under 100 pages, begin at ₹10,000 and take about a fortnight. Big SEO builds of 700+ pages, the kind a coaching institute uses to cover every exam or a trader uses to cover every product and block, begin at ₹20,000 and need three to five weeks. Apps for Android and iPhone begin at ₹40,000, and so does AI automation. A makhana or retail store begins at ₹50,000, bespoke software at ₹60,000, and an ongoing SEO plan at ₹10,000 per month.",
+        "Every figure here is a floor, not a ceiling. Simple sites for a shop, clinic or school, anything under 100 pages, begin at ₹10,000 and take about a fortnight. Big SEO builds of 299+ pages, the kind a coaching institute uses to cover every exam or a trader uses to cover every product and block, begin at ₹20,000 and need three to five weeks. Apps for Android and iPhone begin at ₹40,000, and so does AI automation. A makhana or retail store begins at ₹50,000, bespoke software at ₹60,000, and an ongoing SEO plan at ₹10,000 per month.",
         "Only the extras you pick raise that number: a second language, a long product list, online UPI payment, logins for staff, a Tally link or custom reports. You see each one priced on its own line and can cross any of them out. Writing your own page text and shooting your own photographs keeps the bill near the entry figure.",
         "Quotes from different designers around the Kosi region can be far apart for jobs that sound identical. Put the same five questions to everyone: whose name goes on the domain, will the site be checked on a ₹7,000 phone, how many rounds of changes are included, is on-page SEO covered, and what does year two cost. See our <a href=\"/pricing/\">pricing page</a> for every entry figure; your line-by-line quote follows within roughly two working days.",
       ],
@@ -227,7 +227,7 @@ const supaul: CityContent = {
     {
       question: "What is the website cost in Supaul?",
       answer:
-        "A basic site of up to 100 pages begins at ₹10,000. Larger SEO builds of 700+ pages begin at ₹20,000, online shops at ₹50,000 and tailor-made software at ₹60,000. None of these is a final figure: Hindi text, product count and add-ons shape the quote, which reaches you line by line in writing before any payment.",
+        "A basic site of up to 100 pages begins at ₹10,000. Larger SEO builds of 299+ pages begin at ₹20,000, online shops at ₹50,000 and tailor-made software at ₹60,000. None of these is a final figure: Hindi text, product count and add-ons shape the quote, which reaches you line by line in writing before any payment.",
     },
     {
       question: "Do you build Android and iOS apps for Supaul businesses?",
@@ -237,7 +237,7 @@ const supaul: CityContent = {
     {
       question: "How quickly can a Supaul shop get a website?",
       answer:
-        "Around one to two weeks for a simple shop site, counted from the day your photographs and details arrive. Bigger jobs need longer: three to five weeks for a 700+ page SEO build, four to eight for an online shop, six to twelve for custom software. Sending content promptly is the single biggest thing that speeds things up.",
+        "Around one to two weeks for a simple shop site, counted from the day your photographs and details arrive. Bigger jobs need longer: three to five weeks for a 299+ page SEO build, four to eight for an online shop, six to twelve for custom software. Sending content promptly is the single biggest thing that speeds things up.",
     },
     {
       question: "Who is the best website development team in Supaul?",
@@ -262,7 +262,7 @@ const supaul: CityContent = {
     {
       question: "Supaul me website banwane me kitna kharcha lagta hai?",
       answer:
-        "Chhoti dukaan ya clinic ki website hamare yahan ₹10,000 se shuru hoti hai, aur lagbhag do hafte lagte hain. Bade SEO site (700+ page) ₹20,000 se, Android-iPhone app ₹40,000 se, aur online dukaan ₹50,000 se shuru hoti hai. Kaunse page aur feature chahiye, us hisaab se har cheez ka alag daam likh kar bhejte hain.",
+        "Chhoti dukaan ya clinic ki website hamare yahan ₹10,000 se shuru hoti hai, aur lagbhag do hafte lagte hain. Bade SEO site (299+ page) ₹20,000 se, Android-iPhone app ₹40,000 se, aur online dukaan ₹50,000 se shuru hoti hai. Kaunse page aur feature chahiye, us hisaab se har cheez ka alag daam likh kar bhejte hain.",
     },
     {
       question: "You have no office in Supaul. Can I trust remote work?",

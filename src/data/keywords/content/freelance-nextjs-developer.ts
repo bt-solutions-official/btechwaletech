@@ -34,7 +34,7 @@ const content: FreelanceContent = {
   },
   facts: [
     ["Next.js site from", `${P.site} · ${P.siteUsd}`],
-    ["SEO build, 700+ pages", `From ${P.seoSite}`],
+    ["SEO build, 299+ pages", `From ${P.seoSite}`],
     ["Web app or SaaS", `From ${P.software}, 6–12 weeks`],
     ["Hosting", "Vercel, AWS, Netlify or your own server"],
     ["Repository", "Your GitHub or GitLab account"],
@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What does a freelance Next.js developer do, and what does it cost?",
-    text: `A freelance Next.js developer plans, codes and deploys React-based websites and apps that render on the server or at build time, which makes them fast and easy for Google to index. With BtechWaleTech, a Next.js business site starts at ${P.site}, a 700+ page SEO build at ${P.seoSite} and a web app at ${P.software}. Hosting choice and features decide the final quote.`,
+    text: `A freelance Next.js developer plans, codes and deploys React-based websites and apps that render on the server or at build time, which makes them fast and easy for Google to index. With BtechWaleTech, a Next.js business site starts at ${P.site}, a 299+ page SEO build at ${P.seoSite} and a web app at ${P.software}. Hosting choice and features decide the final quote.`,
     more: `Moving an older site across? Read <a href='/wordpress-to-nextjs-migration/'>WordPress to Next.js migration</a>. For plain React single-page apps, see <a href='/freelance-react-developer/'>freelance React developer</a>.`,
   },
   snapshot: {
@@ -166,7 +166,7 @@ const content: FreelanceContent = {
       id: "cost-drivers",
       heading: "How much does a freelance Next.js developer cost in India?",
       paragraphs: [
-        `With us, a Next.js website starts at ${P.site} for up to 100 pages, a programmatic SEO build of 700+ pages at ${P.seoSite}, an online store at ${P.shop} and a web app or SaaS at ${P.software}. Those are floors; the final number follows the scope.`,
+        `With us, a Next.js website starts at ${P.site} for up to 100 pages, a programmatic SEO build of 299+ pages at ${P.seoSite}, an online store at ${P.shop} and a web app or SaaS at ${P.software}. Those are floors; the final number follows the scope.`,
         `Across the market, quotes from other freelancers vary widely, and the gap usually comes from what is included rather than hourly rate. One quote may cover design, CMS setup, SEO metadata, schema, hosting setup and handover notes; another may cover only converting a design into pages. Line up quotes by deliverable, not by total.`,
       ],
       list: [
@@ -305,7 +305,7 @@ const content: FreelanceContent = {
       columns: ["Project", "India, from", "Abroad, from", "Typical time", "Rendering mix"],
       rows: [
         ["Business site, up to 100 pages", `${P.site}`, `${P.siteUsd}`, "1–2 weeks", "Mostly static export"],
-        ["Programmatic SEO site, 700+ pages", `${P.seoSite}`, `${P.seoSiteUsd}`, "3–5 weeks", "SSG plus ISR for changing data"],
+        ["Programmatic SEO site, 299+ pages", `${P.seoSite}`, `${P.seoSiteUsd}`, "3–5 weeks", "SSG plus ISR for changing data"],
         ["Headless online store", `${P.shop}`, `${P.shopUsd}`, "4–8 weeks", "ISR catalogue, SSR cart and checkout"],
         ["SaaS or web app", `${P.software}`, `${P.softwareUsd}`, "6–12 weeks", "SSR dashboards, server actions"],
         ["AI feature in a Next.js app", `${P.ai}`, `${P.aiUsd}`, "2–4 weeks", "Streaming route handlers"],
@@ -381,9 +381,9 @@ const content: FreelanceContent = {
   faqHeading: "Freelance Next.js developer: common questions",
   faqs: [
     { question: "What does a freelance Next.js developer do?", answer: "A freelance Next.js developer builds websites and web apps with Next.js, the React framework that renders pages on the server or at build time. The work covers route planning, choosing static or server rendering per page, connecting a CMS or database, setting up SEO metadata and sitemaps, deploying to hosting such as Vercel or AWS, and maintaining the code afterwards." },
-    { question: "How much does it cost to hire a freelance Next.js developer in India?", answer: `With BtechWaleTech, a Next.js business website starts at ${P.site}, a programmatic SEO site of 700+ pages at ${P.seoSite}, an online store at ${P.shop} and a web app or SaaS at ${P.software}. The final quote depends on templates, CMS setup, integrations and logins. Hosting is billed separately by the provider directly to you.` },
+    { question: "How much does it cost to hire a freelance Next.js developer in India?", answer: `With BtechWaleTech, a Next.js business website starts at ${P.site}, a programmatic SEO site of 299+ pages at ${P.seoSite}, an online store at ${P.shop} and a web app or SaaS at ${P.software}. The final quote depends on templates, CMS setup, integrations and logins. Hosting is billed separately by the provider directly to you.` },
     { question: "Is Next.js better than WordPress for SEO?", answer: "Neither wins automatically. Both can send Google complete HTML. Next.js tends to be faster and easier to scale to thousands of structured pages, while WordPress is easier for non-technical staff to edit. If speed, large page counts or an attached web app matter most, Next.js usually has the edge; if daily visual editing matters most, WordPress may suit you better." },
-    { question: "How long does a Next.js website take to build?", answer: "A business site of up to 100 pages usually takes one to two weeks, an SEO build with 700+ pages three to five weeks, an online store four to eight weeks and a web app six to twelve weeks. The biggest cause of delay is content arriving late, so having text, photos and product data ready speeds everything up." },
+    { question: "How long does a Next.js website take to build?", answer: "A business site of up to 100 pages usually takes one to two weeks, an SEO build with 299+ pages three to five weeks, an online store four to eight weeks and a web app six to twelve weeks. The biggest cause of delay is content arriving late, so having text, photos and product data ready speeds everything up." },
     { question: "What is the difference between SSR, SSG and ISR in Next.js?", answer: "SSG builds pages once at deploy time and serves them as static files, ideal for content that rarely changes. ISR keeps pages static but regenerates them after a set time or when your CMS signals a change. SSR builds a page fresh on every request, needed for personalised or real-time data. Good Next.js sites mix all three by page." },
     { question: "Do I have to host Next.js on Vercel?", answer: "No. Vercel is the easiest option, but Next.js also runs on Netlify, AWS Amplify, containers on AWS, a VPS with Docker, or any static host if you use static export. The right choice depends on which rendering features you use, your traffic and your budget. Whatever host you pick, the account should be in your name." },
     { question: "Is Vercel free for a business website?", answer: "Vercel's Hobby tier is intended for personal, non-commercial projects, so a business or client site generally needs a paid plan under its terms. Check Vercel's current pricing page because plans change. If you want to avoid a monthly platform fee, a static export on a low-cost host or a small VPS may be a better fit for your site." },

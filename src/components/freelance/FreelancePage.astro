@@ -1,5 +1,5 @@
 ---
-// Shared layout for the freelance landing pages: /freelancers/ and /freelancing/.
+// Shared layout for the freelance landing pages: /freelancers/, /freelancing/, /{keyword}/ and /{country}/{service}/.
 // Sections and styles mirror the country pages (src/pages/usa/index.astro).
 import BaseLayout from "@layouts/BaseLayout.astro";
 import { createPageSeo } from "@lib/seo/seo-config";
@@ -8,14 +8,17 @@ import { breadcrumbListSchema, faqSchema } from "@lib/schema/schema";
 import { canonicalUrl } from "@lib/urls/url-utils";
 import { siteBrand, siteContact, teamSocialProfiles } from "@data/site/site-config";
 import { pricingPlans, pricingNote, usdPrice } from "@data/pricing/plans";
-import { countryOgImage, priceRows, regions } from "@data/countries/international";
+import { countryOgImage, priceRows, regions, usd } from "@data/countries/international";
 import type { FreelanceContent } from "@data/freelance/types";
+import type { Market } from "@data/keywords/markets";
 
 interface Props {
   content: FreelanceContent;
+  /** Set on /{country}/{service}/ pages: the one country the page is written for (USD prices, its locale and areaServed). */
+  market?: Market;
 }
 
-const { content: c } = Astro.props;
+const { content: c, market } = Astro.props;
 const url = canonicalUrl(c.path);
 
 const page = createPageSeo({
@@ -24,7 +27,10 @@ const page = createPageSeo({
   canonicalPath: c.path,
   h1: c.hero.h1,
   keywords: c.meta.keywords,
-  breadcrumbs: createBreadcrumbs([{ label: c.crumb, href: c.path }]),
+  breadcrumbs: createBreadcrumbs(market
+    ? [{ label: "Countries", href: "/countries/" }, { label: market.name, href: `/${market.slug}/` }, { label: c.crumb, href: c.path }]
+    : [{ label: c.crumb, href: c.path }]),
+  locale: market?.locale,
   ogImage: countryOgImage(`${siteBrand.name}: IT freelancers in India building websites, apps, SEO and AI automation for clients worldwide`),
 });
 
@@ -51,13 +57,13 @@ const serviceSchema = {
   image: new URL("/banner_logo.png", siteBrand.domain).toString(),
   email: siteContact.email,
   telephone: siteContact.phone,
-  priceRange: "₹8,000 - ₹60,000+",
-  currenciesAccepted: "INR, USD",
+  priceRange: market ? `${usd("Maintenance")} - ${usd("Custom web app")}+` : "₹8,000 - ₹60,000+",
+  currenciesAccepted: market ? "USD" : "INR, USD",
   paymentAccepted: "UPI, Bank transfer, Wise, PayPal",
   address: { "@type": "PostalAddress", addressCountry: "IN" },
   knowsLanguage: ["en", "hi"],
   employee: team,
-  areaServed: [
+  areaServed: market ? [{ "@type": "Country", name: market.name }] : [
     { "@type": "Country", name: "India" },
     ...["United States", "United Kingdom", "Canada", "Australia", "New Zealand", "United Arab Emirates", "Saudi Arabia", "Singapore", "Japan", "Germany", "Netherlands"]
       .map((name) => ({ "@type": "Country", name })),
@@ -70,8 +76,8 @@ const serviceSchema = {
       itemOffered: { "@type": "Service", name: plan.name, description: plan.summary },
       priceSpecification: {
         "@type": "PriceSpecification",
-        minPrice: Number(plan.price.replace(/[^\d]/g, "")),
-        priceCurrency: "INR",
+        minPrice: Number((market ? usdPrice(plan.price) : plan.price).replace(/[^\d]/g, "")),
+        priceCurrency: market ? "USD" : "INR",
         ...(plan.unit ? { unitText: plan.unit } : {}),
       },
     })),
@@ -85,7 +91,7 @@ const webPageSchema = {
   url,
   name: page.title,
   description: page.description,
-  inLanguage: "en-IN",
+  inLanguage: market?.lang ?? "en-IN",
   dateModified: c.updated,
   about: { "@id": `${url}#service` },
   speakable: { "@type": "SpeakableSpecification", cssSelector: ["#quick-answer", "h1"] },
@@ -128,13 +134,13 @@ const webPageSchema = {
       </div>
 
       <aside class="quote-card" aria-label="Starting prices">
-        <p class="quote-kicker">Starting prices · India &amp; worldwide</p>
+        <p class="quote-kicker">{market ? `Starting prices for ${market.name}` : "Starting prices · India & worldwide"}</p>
         <ul class="quote-rows">
           {pricingPlans.slice(0, 5).map((plan) => (
-            <li><span>{plan.name}</span><strong><small>from </small>{plan.price} <small>/ {usdPrice(plan.price)}</small></strong></li>
+            <li><span>{plan.name}</span><strong><small>from </small>{market ? usdPrice(plan.price) : <>{plan.price} <small>/ {usdPrice(plan.price)}</small></>}</strong></li>
           ))}
         </ul>
-        <p class="quote-foot">INR for India, USD for international clients. 5 months maintenance free after launch. Itemised quote in 2 working days.</p>
+        <p class="quote-foot">{market ? "Quoted in US dollars." : "INR for India, USD for international clients."} 5 months maintenance free after launch. Itemised quote in 2 working days.</p>
         <a class="btn-primary btn-block" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
           <span>Get my quote on WhatsApp</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
         </a>

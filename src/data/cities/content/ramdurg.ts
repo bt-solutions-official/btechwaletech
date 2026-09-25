@@ -40,7 +40,7 @@ const ramdurg: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Kannada and English pages", "Temple-route local SEO", "Domain and code in your name"],
   },
   quickAnswer:
-    "A Ramdurg business can get a website from us starting at ₹10,000, usually live within one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; SEO sites of 700+ pages start at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely, and every account stays in your name.",
+    "A Ramdurg business can get a website from us starting at ₹10,000, usually live within one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; SEO sites of 299+ pages start at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely, and every account stays in your name.",
   snapshot: [
     { label: "Location", value: "Taluk headquarters in the east of Belagavi district, on the Malaprabha river" },
     { label: "History", value: "Seat of the Ramdurg princely state from 1799 until it joined India in 1948, ruled by the Bhave family; hill fort linked to Shivaji" },
@@ -150,7 +150,7 @@ const ramdurg: CityContent = {
       id: "website-cost-ramdurg",
       heading: "How much does a website cost in Ramdurg?",
       paragraphs: [
-        "Short answer: a basic business website with us starts at ₹10,000 and covers anything up to 100 pages, usually ready in one to two weeks. That suits most Ramdurg shops, clinics and lodges. A larger SEO site of 700 pages or more, useful for a college covering every course or a dealer covering every village, starts at ₹20,000 and takes three to five weeks.",
+        "Short answer: a basic business website with us starts at ₹10,000 and covers anything up to 100 pages, usually ready in one to two weeks. That suits most Ramdurg shops, clinics and lodges. A larger SEO site of 299 pages or more, useful for a college covering every course or a dealer covering every village, starts at ₹20,000 and takes three to five weeks.",
         "Beyond websites, Android and iOS apps start at ₹40,000, AI automation at ₹40,000, an online store at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000 a month. The <strong>website cost in Ramdurg</strong> for your project then depends on choices you make: Kannada and English versions, product count, UPI checkout, staff logins or a Tally link.",
         "Quotes from designers in Belagavi and Hubballi vary widely for work that sounds identical. Compare them on who owns the domain and code, whether the site is tested on cheap Android phones, what SEO basics are included, how many revisions you get and who answers the phone a year later. Our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and an itemised written quote reaches you in about two working days.",
       ],
@@ -211,7 +211,7 @@ const ramdurg: CityContent = {
     {
       question: "What is the website cost in Ramdurg?",
       answer:
-        "With us, a Ramdurg business website starts at ₹10,000 for up to 100 pages, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Your written quote lists Kannada content, products, payments and integrations separately, and nothing is billed before you approve it.",
+        "With us, a Ramdurg business website starts at ₹10,000 for up to 100 pages, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Your written quote lists Kannada content, products, payments and integrations separately, and nothing is billed before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Ramdurg businesses?",
@@ -221,7 +221,7 @@ const ramdurg: CityContent = {
     {
       question: "How long does it take to build a website in Ramdurg?",
       answer:
-        "A simple Ramdurg shop or clinic website usually goes live one to two weeks after we receive your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content and Kannada text early.",
+        "A simple Ramdurg shop or clinic website usually goes live one to two weeks after we receive your photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content and Kannada text early.",
     },
     {
       question: "Which is the best website development team in Ramdurg?",
@@ -246,7 +246,7 @@ const ramdurg: CityContent = {
     {
       question: "Ramdurgadalli website maadisalu eshtu kharchu aagutte?",
       answer:
-        "Namma hattira saamanya website ₹10,000 inda shuru aagutte, mattu ondu-eradu vaaradalli ready aagutte. 700+ page SEO website ₹20,000 inda, Android mattu iOS app ₹40,000 inda shuru. Final quote nimma pages mattu features nodi barahadalli kodtivi. Hechchina maahitigaagi namage WhatsApp nalli message maadi.",
+        "Namma hattira saamanya website ₹10,000 inda shuru aagutte, mattu ondu-eradu vaaradalli ready aagutte. 299+ page SEO website ₹20,000 inda, Android mattu iOS app ₹40,000 inda shuru. Final quote nimma pages mattu features nodi barahadalli kodtivi. Hechchina maahitigaagi namage WhatsApp nalli message maadi.",
     },
     {
       question: "You have no office in Ramdurg. How do I know the work is safe?",

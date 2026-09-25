@@ -39,7 +39,7 @@ const siddipet: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu local SEO", "Handloom online stores", "Domain and code stay yours"],
   },
   quickAnswer:
-    "In Siddipet, our websites start at ₹10,000 and typically launch within one to two weeks. Android and iOS apps and AI automation each start at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team without a Siddipet office, and you own all accounts.",
+    "In Siddipet, our websites start at ₹10,000 and typically launch within one to two weeks. Android and iOS apps and AI automation each start at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team without a Siddipet office, and you own all accounts.",
   snapshot: [
     { label: "Location", value: "Headquarters of Siddipet district, about 100 km north of Hyderabad" },
     { label: "Population", value: "111,358 at the 2011 census, municipality since 1952" },
@@ -152,7 +152,7 @@ const siddipet: CityContent = {
       id: "website-cost-siddipet",
       heading: "Website cost in Siddipet: starting prices and fair comparison",
       paragraphs: [
-        "Our Siddipet starting prices are public: a static website of up to 100 pages from ₹10,000 in one to two weeks; a 700+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; an online store from ₹50,000 in four to eight weeks; custom software from ₹60,000 in six to twelve weeks; and monthly SEO from ₹10,000.",
+        "Our Siddipet starting prices are public: a static website of up to 100 pages from ₹10,000 in one to two weeks; a 299+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; an online store from ₹50,000 in four to eight weeks; custom software from ₹60,000 in six to twelve weeks; and monthly SEO from ₹10,000.",
         "The final amount depends on scope: Telugu and English versions, many products, payment and courier set-up, logins for staff or customers, and links to Tally or other software. If you provide the text and photographs, costs stay close to the starting figure. Content writing, when needed, appears as its own line.",
         "Local quotes vary widely. Ask each provider who will own the domain and hosting, whether mobile testing and basic SEO are included, how many revision rounds you get and who handles fixes after launch. Our <a href=\"/pricing/\">pricing page</a> lists all starting points, and your written quote usually arrives within two working days.",
       ],
@@ -215,7 +215,7 @@ const siddipet: CityContent = {
     {
       question: "What is the website cost in Siddipet?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices, and the final quote depends on pages, Telugu content, products and integrations. It comes itemised and in writing, and nothing is billed before you approve.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices, and the final quote depends on pages, Telugu content, products and integrations. It comes itemised and in writing, and nothing is billed before you approve.",
     },
     {
       question: "Do you build Android and iOS apps for Siddipet businesses?",
@@ -225,7 +225,7 @@ const siddipet: CityContent = {
     {
       question: "How long does it take to build a website in Siddipet?",
       answer:
-        "A static website usually goes live in one to two weeks after we receive content. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Timely text, photographs and approvals from your side keep the schedule short.",
+        "A static website usually goes live in one to two weeks after we receive content. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Timely text, photographs and approvals from your side keep the schedule short.",
     },
     {
       question: "Which is the best IT services team in Siddipet?",
@@ -250,7 +250,7 @@ const siddipet: CityContent = {
     {
       question: "Siddipet lo website cheyinchalante entha kharchu avutundi?",
       answer:
-        "Maa daggara simple website ₹10,000 nundi modalavutundi, sadharananga okati rendu varalalo ready avutundi. 700+ pages SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalu. Final quote mee pages, features batti rasi pamputamu.",
+        "Maa daggara simple website ₹10,000 nundi modalavutundi, sadharananga okati rendu varalalo ready avutundi. 299+ pages SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalu. Final quote mee pages, features batti rasi pamputamu.",
     },
     {
       question: "You have no office in Siddipet. How does the work happen?",

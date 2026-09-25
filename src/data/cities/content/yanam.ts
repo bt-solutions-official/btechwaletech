@@ -39,7 +39,7 @@ const yanam: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu and English pages", "Maps listings for river visitors", "Accounts in your name"],
   },
   quickAnswer:
-    "For a Yanam business, a website with us starts at ₹10,000 and is typically live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Yanam office.",
+    "For a Yanam business, a website with us starts at ₹10,000 and is typically live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Yanam office.",
   snapshot: [
     { label: "Administration", value: "One of the four regions of the Union Territory of Puducherry, surrounded by Andhra Pradesh" },
     { label: "Setting", value: "Where the Koringa branches from the Gautami Godavari, about 9 km from the Bay of Bengal" },
@@ -216,7 +216,7 @@ const yanam: CityContent = {
     {
       question: "What is the website cost in Yanam?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, Telugu content, products and integrations, and it reaches you itemised in writing before anything is billed.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, Telugu content, products and integrations, and it reaches you itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Yanam businesses?",
@@ -226,7 +226,7 @@ const yanam: CityContent = {
     {
       question: "How long does a website take for a Yanam shop?",
       answer:
-        "A simple shop website is usually live one to two weeks after we receive your photographs and details. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve. Projects move fastest when the owner sends content in the first few days.",
+        "A simple shop website is usually live one to two weeks after we receive your photographs and details. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve. Projects move fastest when the owner sends content in the first few days.",
     },
     {
       question: "Which is the best website development team in Yanam?",
@@ -251,7 +251,7 @@ const yanam: CityContent = {
     {
       question: "Yanam lo website cheyinchadaniki entha kharchu avutundi?",
       answer:
-        "Maa daggara simple website ₹10,000 nundi modalavutundi, sadharananga okati rendu varalalo ready avutundi. 700+ pages SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalu. Mee pages, features batti final quote raatapurvakanga pampistamu.",
+        "Maa daggara simple website ₹10,000 nundi modalavutundi, sadharananga okati rendu varalalo ready avutundi. 299+ pages SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalu. Mee pages, features batti final quote raatapurvakanga pampistamu.",
     },
     {
       question: "Yanam me website banwane ka kharcha kitna hai?",

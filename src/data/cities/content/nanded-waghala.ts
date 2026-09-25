@@ -34,7 +34,7 @@ const nanded: CityContent = {
     pills: ["Sites from ₹10,000", "Marathi and Hindi search", "Hotel and yatri bookings", "WhatsApp enquiry flows", "Class and clinic tools"],
   },
   quickAnswer:
-    "In Nanded, a basic business website with us starts at ₹10,000 and usually goes live in one to two weeks. A 700+ page SEO website starts at ₹20,000 and an online store at ₹50,000. We are a remote team without a Nanded office, and every site includes five months of free maintenance after launch.",
+    "In Nanded, a basic business website with us starts at ₹10,000 and usually goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000 and an online store at ₹50,000. We are a remote team without a Nanded office, and every site includes five months of free maintenance after launch.",
   snapshot: [
     { label: "Pilgrimage", value: "Takht Sachkhand Sri Hazur Sahib on the Godavari, one of the five Sikh takhts" },
     { label: "Commercial areas", value: "Vazirabad, Shivaji Nagar, Doctor Lane, Taroda Naka and CIDCO New Nanded" },
@@ -72,12 +72,12 @@ const nanded: CityContent = {
       heading: "Website prices in Nanded, explained plainly",
       paragraphs: [
         "Small businesses in Nanded are often quoted anything from ₹3,000 to ₹45,000 for a basic site. The lowest quotes tend to skip search setup, reuse a template seen on a hundred other sites and keep the domain in the developer's name. The highest often cover agency travel, sales staff and a person whose job is to pass your messages along.",
-        "Our starting prices are published openly. A static business website costs from <strong>₹10,000</strong> and is usually ready in one to two weeks. A 700+ page SEO website, with separate pages for each service and the areas you cover, starts at <strong>₹20,000</strong> and takes three to five weeks. Online stores begin at ₹50,000, automation projects at ₹40,000, custom applications at ₹60,000, and ongoing SEO at ₹10,000 a month. See our <a href=\"/pricing/\">pricing page</a> for the details.",
+        "Our starting prices are published openly. A static business website costs from <strong>₹10,000</strong> and is usually ready in one to two weeks. A 299+ page SEO website, with separate pages for each service and the areas you cover, starts at <strong>₹20,000</strong> and takes three to five weeks. Online stores begin at ₹50,000, automation projects at ₹40,000, custom applications at ₹60,000, and ongoing SEO at ₹10,000 a month. See our <a href=\"/pricing/\">pricing page</a> for the details.",
         "Every quote is itemised: pages, features, hosting and what is included after launch. Nothing is billed until you approve it in writing, and if your needs are small, we will recommend the smaller option.",
       ],
       list: [
         "<strong>Static site from ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form and basic SEO, suited to clinics, lawyers and shops.",
-        "<strong>SEO site from ₹20,000:</strong> 700+ pages, useful for classes, hospitals and service firms chasing Google enquiries.",
+        "<strong>SEO site from ₹20,000:</strong> 299+ pages, useful for classes, hospitals and service firms chasing Google enquiries.",
         "<strong>Store from ₹50,000:</strong> catalogue, cart, UPI and card payments and order emails.",
         "<strong>Web app from ₹60,000:</strong> logins, admin panel, reports and integrations.",
       ],
@@ -216,7 +216,7 @@ const nanded: CityContent = {
     {
       question: "What does a website cost in Nanded?",
       answer:
-        "With us, a static business website starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom application at ₹60,000. Other Nanded quotes may range from ₹3,000 to ₹45,000. The real difference is usually in SEO setup, who owns the domain, and what support you get after launch.",
+        "With us, a static business website starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom application at ₹60,000. Other Nanded quotes may range from ₹3,000 to ₹45,000. The real difference is usually in SEO setup, who owns the domain, and what support you get after launch.",
     },
     {
       question: "Nanded madhye website banvayla kiti kharch yeto?",
@@ -246,7 +246,7 @@ const nanded: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, a store four to eight weeks and a custom application six to twelve weeks. The most common delay is waiting for text and photos, so we prepare draft content for you to correct.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, a store four to eight weeks and a custom application six to twelve weeks. The most common delay is waiting for text and photos, so we prepare draft content for you to correct.",
     },
     {
       question: "Can you build an online store with UPI payments?",

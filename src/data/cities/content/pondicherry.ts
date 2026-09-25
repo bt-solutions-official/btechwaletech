@@ -34,7 +34,7 @@ const pondicherry: CityContent = {
     pills: ["Sites from ₹10,000", "Direct room bookings", "Tamil, English, French", "Craft and pottery stores", "You own everything"],
   },
   quickAnswer:
-    "A website for a Pondicherry business starts at ₹10,000 with us and takes one to two weeks. A 700+ page SEO site costs from ₹20,000, a guesthouse booking or online store setup from ₹50,000 and automation from ₹40,000. We are three remote engineers, you own the domain and code, and maintenance is free for five months.",
+    "A website for a Pondicherry business starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO site costs from ₹20,000, a guesthouse booking or online store setup from ₹50,000 and automation from ₹40,000. We are three remote engineers, you own the domain and code, and maintenance is free for five months.",
   snapshot: [
     { label: "Character", value: "Former French territory with a planned French Quarter and Tamil Quarter, once divided by a canal" },
     { label: "Visitors", value: "Promenade Beach, Sri Aurobindo Ashram, Manakula Vinayagar Temple, and Auroville about 8 km to the north-west" },
@@ -72,12 +72,12 @@ const pondicherry: CityContent = {
       heading: "What websites cost in Pondicherry",
       paragraphs: [
         "In Pondicherry you may be offered a website for ₹3,000 by a freelancer using a template, or quoted ₹80,000 by a Chennai design studio. The cheap option often leaves the domain in someone else's hands. The expensive one may look beautiful but still miss basics like fast loading, clear booking steps and search setup.",
-        "Our starting prices are published. A simple site of up to 100 pages costs from ₹10,000 and goes live in one to two weeks. A 700+ page site built for search, with separate pages for each room type, service, product line or course, begins at ₹20,000 and takes three to five weeks. An online store or a guesthouse site with payments starts at ₹50,000 and needs four to eight weeks. Automation starts at ₹40,000, custom software such as a room inventory or order system at ₹60,000, and monthly SEO at ₹10,000.",
+        "Our starting prices are published. A simple site of up to 100 pages costs from ₹10,000 and goes live in one to two weeks. A 299+ page site built for search, with separate pages for each room type, service, product line or course, begins at ₹20,000 and takes three to five weeks. An online store or a guesthouse site with payments starts at ₹50,000 and needs four to eight weeks. Automation starts at ₹40,000, custom software such as a room inventory or order system at ₹60,000, and monthly SEO at ₹10,000.",
         "The final price depends on scope. A three-room homestay needs far less work than a hotel with a restaurant and event space, and a potter with twenty pieces is quicker to set up than a studio with four hundred. The breakdown is on our <a href=\"/pricing/\">pricing page</a>, and we send an itemised quote in about two working days.",
       ],
       list: [
         "<strong>Starter site, ₹10,000:</strong> homestays, cafés, clinics and tutors.",
-        "<strong>Search-ready site, ₹20,000:</strong> 700+ pages for hotels, hospitals and institutes.",
+        "<strong>Search-ready site, ₹20,000:</strong> 299+ pages for hotels, hospitals and institutes.",
         "<strong>Store or booking site, ₹50,000:</strong> crafts, clothing, rooms and workshops with online payment.",
         "<strong>Custom software, ₹60,000:</strong> room inventory, order and production systems.",
       ],
@@ -217,12 +217,12 @@ const pondicherry: CityContent = {
     {
       question: "How much does a website cost in Pondicherry?",
       answer:
-        "Our websites start at ₹10,000 for a simple site and ₹20,000 for a 700+ page SEO site. Online stores and booking websites with payments start at ₹50,000, automation at ₹40,000 and custom software at ₹60,000. Compare quotes carefully on domain ownership, booking features and support after launch.",
+        "Our websites start at ₹10,000 for a simple site and ₹20,000 for a 299+ page SEO site. Online stores and booking websites with payments start at ₹50,000, automation at ₹40,000 and custom software at ₹60,000. Compare quotes carefully on domain ownership, booking features and support after launch.",
     },
     {
       question: "Pondicherry-la oru business website-ku evvalavu selavu aagum?",
       answer:
-        "Saadharana business website ₹10,000-la irundhu aarambikkudhu, oru rendu vaarathula ready aagidum. 700+ pages SEO website ₹20,000-la irundhu, online store ₹50,000-la irundhu. Velai aarambikkaradhukku munnadi ezhuthu moolama mulu quote kudupom, domain unga peyarla dhaan irukkum.",
+        "Saadharana business website ₹10,000-la irundhu aarambikkudhu, oru rendu vaarathula ready aagidum. 299+ pages SEO website ₹20,000-la irundhu, online store ₹50,000-la irundhu. Velai aarambikkaradhukku munnadi ezhuthu moolama mulu quote kudupom, domain unga peyarla dhaan irukkum.",
     },
     {
       question: "Do you have an office in Pondicherry?",

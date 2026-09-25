@@ -35,7 +35,7 @@ const raipur: CityContent = {
     pills: ["From ₹10,000", "Industrial product pages", "Dealer and order portals", "Hindi and English SEO", "WhatsApp automation"],
   },
   quickAnswer:
-    "In Raipur, our static business websites start at ₹10,000 and take one to two weeks. A 700+ page SEO website starts at ₹20,000, an online store at ₹50,000, and dealer portals or other custom web apps at ₹60,000. We are a remote three-engineer team without a Raipur office, and five months of free maintenance follows every launch.",
+    "In Raipur, our static business websites start at ₹10,000 and take one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000, and dealer portals or other custom web apps at ₹60,000. We are a remote three-engineer team without a Raipur office, and five months of free maintenance follows every launch.",
   snapshot: [
     { label: "Markets", value: "Pandri cloth market, Gol Bazaar, Malviya Road, Sadar Bazar and Jaistambh Chowk" },
     { label: "Newer business areas", value: "Shankar Nagar, Telibandha, Civil Lines, Samta Colony, Devendra Nagar and VIP Road" },
@@ -73,7 +73,7 @@ const raipur: CityContent = {
       heading: "How much does a website cost in Raipur?",
       paragraphs: [
         "Website quotes in Raipur can range from ₹2,500 for a template page to ₹60,000 or more from agencies. The cheap option usually skips SEO and keeps the domain in the developer's name. The expensive one may include an office and sales staff you never meet. Without an itemised quote you cannot compare them fairly.",
-        "Our starting prices are public. A static site of up to 100 pages costs from ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks, which suits a manufacturer with several product lines or a hospital with many departments. An online store starts at ₹50,000. Dealer portals, dispatch systems and other custom web applications start at ₹60,000, and automation projects at ₹40,000.",
+        "Our starting prices are public. A static site of up to 100 pages costs from ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks, which suits a manufacturer with several product lines or a hospital with many departments. An online store starts at ₹50,000. Dealer portals, dispatch systems and other custom web applications start at ₹60,000, and automation projects at ₹40,000.",
         "Full details are on our <a href=\"/pricing/\">pricing page</a>. You get an itemised quote listing every page and feature, and we bill nothing until you approve it in writing.",
       ],
       list: [
@@ -219,12 +219,12 @@ const raipur: CityContent = {
     {
       question: "How much does a website cost in Raipur?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications such as dealer portals at ₹60,000. A clinic or consultant usually needs the first, a manufacturer or hospital the second. You get an itemised quote and pay nothing before approving it in writing.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications such as dealer portals at ₹60,000. A clinic or consultant usually needs the first, a manufacturer or hospital the second. You get an itemised quote and pay nothing before approving it in writing.",
     },
     {
       question: "Raipur me website banwane me kitna paisa lagta hai?",
       answer:
-        "Humare saath simple website ₹10,000 se shuru hoti hai aur 1-2 hafte me ready ho jaati hai. 700+ pages wali SEO website ₹20,000 se, online store ₹50,000 se aur dealer portal jaisa custom software ₹60,000 se. Kaam shuru hone se pehle aapko likhit quote milta hai.",
+        "Humare saath simple website ₹10,000 se shuru hoti hai aur 1-2 hafte me ready ho jaati hai. 299+ pages wali SEO website ₹20,000 se, online store ₹50,000 se aur dealer portal jaisa custom software ₹60,000 se. Kaam shuru hone se pehle aapko likhit quote milta hai.",
     },
     {
       question: "Do you have an office in Raipur?",

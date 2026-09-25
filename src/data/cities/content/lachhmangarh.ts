@@ -39,7 +39,7 @@ const lachhmangarh: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first Google Maps SEO", "Haveli and homestay pages", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Lachhmangarh business, a website with us starts at ₹10,000 and is usually live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation, while a 700+ page SEO site starts at ₹20,000 and an online store at ₹50,000. We work remotely, with no local office, and you own everything.",
+    "For a Lachhmangarh business, a website with us starts at ₹10,000 and is usually live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation, while a 299+ page SEO site starts at ₹20,000 and an online store at ₹50,000. We work remotely, with no local office, and you own everything.",
   snapshot: [
     { label: "Location", value: "Town in Sikar district, Shekhawati region of north-east Rajasthan" },
     { label: "Founded", value: "Early nineteenth century by Rao Raja Lakshman Singh of Sikar, who also built the hill fort" },
@@ -152,7 +152,7 @@ const lachhmangarh: CityContent = {
       id: "website-cost-lachhmangarh",
       heading: "Website cost in Lachhmangarh: starting prices and what changes them",
       paragraphs: [
-        "Most conversations begin with price, so here are the starting points. A static website of up to 100 pages, the usual choice for a shop, clinic, school or haveli stay, starts at ₹10,000 and is ready in one to two weeks. A large SEO website of 700 pages or more, useful for a coaching brand covering many courses and towns, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and so does AI automation.",
+        "Most conversations begin with price, so here are the starting points. A static website of up to 100 pages, the usual choice for a shop, clinic, school or haveli stay, starts at ₹10,000 and is ready in one to two weeks. A large SEO website of 299 pages or more, useful for a coaching brand covering many courses and towns, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and so does AI automation.",
         "An online store starts at ₹50,000, custom software such as a dealer ledger or school portal starts at ₹60,000, and monthly SEO starts at ₹10,000 a month. None of these is a package price. Your quote rises only for items you choose: Hindi and English versions, room booking, product count, courier rules, logins for staff or students, online payment, or a Tally link. Send your own text and photographs and the figure stays near the start.",
         "Quotes for similar work around Sikar vary widely, so compare on the same points: who owns the domain and hosting, whether the site is tested on cheap phones, whether basic on-page SEO is included, how many revision rounds you get, and what happens a year after launch. Our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and you receive an itemised written quote within about two working days.",
       ],
@@ -213,7 +213,7 @@ const lachhmangarh: CityContent = {
     {
       question: "What is the website cost in Lachhmangarh?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, Hindi and English versions, products, bookings and integrations. You get it itemised in writing within about two working days, before any billing.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, Hindi and English versions, products, bookings and integrations. You get it itemised in writing within about two working days, before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Lachhmangarh businesses?",
@@ -223,7 +223,7 @@ const lachhmangarh: CityContent = {
     {
       question: "How long does a website take for a Lachhmangarh shop?",
       answer:
-        "A simple static site is usually live one to two weeks after you send photographs and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The fastest projects are those where the owner sends text and pictures in the first few days.",
+        "A simple static site is usually live one to two weeks after you send photographs and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The fastest projects are those where the owner sends text and pictures in the first few days.",
     },
     {
       question: "Which is the best website development team in Lachhmangarh?",

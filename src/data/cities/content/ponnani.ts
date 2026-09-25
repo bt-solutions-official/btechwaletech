@@ -39,7 +39,7 @@ const ponnani: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Malayalam local SEO", "Harbour and fish trade tools", "Ownership stays with you"],
   },
   quickAnswer:
-    "Ponnani businesses can get a website from us starting at ₹10,000, typically finished in one to two weeks. Android and iOS apps and AI automation begin at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Ponnani office, and all accounts are yours.",
+    "Ponnani businesses can get a website from us starting at ₹10,000, typically finished in one to two weeks. Android and iOS apps and AI automation begin at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Ponnani office, and all accounts are yours.",
   snapshot: [
     { label: "Location", value: "Municipality and taluk headquarters in Malappuram district, on the southern bank of the Bharathappuzha estuary" },
     { label: "Population", value: "About 90,500 in 2011, the most densely populated municipality in the district" },
@@ -129,7 +129,7 @@ const ponnani: CityContent = {
       paragraphs: [
         "People in Ponnani and nearby towns mostly search on phones, in Malayalam and English, and voice search in Malayalam is growing. Typical queries are “Ponnani hospital”, “textile shop Edappal”, “fish market near me” or “bakery Ponnani”. Map listings appear first, and in a dense town where many shops sit close together, a wrong pin can send a customer to a competitor next door.",
         "Our <strong>SEO services in Ponnani</strong> start with the Google Business Profile: the right category, an exact pin, correct hours including Friday timings and festival closures, real photos, a services list and a steady method for asking happy customers for genuine reviews. Duplicate and outdated listings are merged or removed.",
-        "Next, we add website pages that match real questions, in both languages, and connect them to the listing. A hospital might have a page per department, a textile shop pages for bridal and everyday ranges, and an institution pages for each course. For businesses aiming beyond the town, a 700+ page SEO website starts at ₹20,000.",
+        "Next, we add website pages that match real questions, in both languages, and connect them to the listing. A hospital might have a page per department, a textile shop pages for bridal and everyday ranges, and an institution pages for each course. For businesses aiming beyond the town, a 299+ page SEO website starts at ₹20,000.",
         "Ongoing SEO starts at ₹10,000 a month and includes new content, listing care and a readable report. We do not promise first position, because map rankings depend on distance, competition and reviews that nobody controls. Read more about <a href=\"/services/seo-services/\">our SEO method</a>.",
       ],
     },
@@ -219,7 +219,7 @@ const ponnani: CityContent = {
     {
       question: "What does a website cost in Ponnani?",
       answer:
-        "With us, a static website begins at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Your actual quote depends on pages, Malayalam content, products and integrations. It is written and itemised, and we bill nothing before you approve it.",
+        "With us, a static website begins at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Your actual quote depends on pages, Malayalam content, products and integrations. It is written and itemised, and we bill nothing before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Ponnani businesses?",
@@ -229,7 +229,7 @@ const ponnani: CityContent = {
     {
       question: "How long does it take to make a website for a Ponnani shop?",
       answer:
-        "Once we have your text and photos, a static site normally goes live in one to two weeks. A 700+ page SEO site needs three to five weeks, a store four to eight weeks and custom software six to twelve weeks. Content that is ready early makes the biggest difference.",
+        "Once we have your text and photos, a static site normally goes live in one to two weeks. A 299+ page SEO site needs three to five weeks, a store four to eight weeks and custom software six to twelve weeks. Content that is ready early makes the biggest difference.",
     },
     {
       question: "Which is the best website development team in Ponnani?",
@@ -259,7 +259,7 @@ const ponnani: CityContent = {
     {
       question: "Ponnaniyil oru website undakkan ethra chelavakum?",
       answer:
-        "Njangalude aduthu saadharana website ₹10,000 muthal thudangunnu, saadharanayaayi onno rando aazhchakkullil ready aakum. 700+ page SEO website ₹20,000 muthal, Android, iOS app ₹40,000 muthal, online store ₹50,000 muthal aanu. Ningalude pages, features anusarichu ezhuthiya quote tharum.",
+        "Njangalude aduthu saadharana website ₹10,000 muthal thudangunnu, saadharanayaayi onno rando aazhchakkullil ready aakum. 299+ page SEO website ₹20,000 muthal, Android, iOS app ₹40,000 muthal, online store ₹50,000 muthal aanu. Ningalude pages, features anusarichu ezhuthiya quote tharum.",
     },
     {
       question: "You have no office in Ponnani. Why is remote work safe?",

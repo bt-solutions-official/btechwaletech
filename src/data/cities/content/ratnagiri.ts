@@ -39,7 +39,7 @@ const ratnagiri: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Marathi-first local SEO", "Hapus season stores", "Accounts in your name"],
   },
   quickAnswer:
-    "For a Ratnagiri business, a website with us starts at ₹10,000 and is usually ready in one to two weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, a 700+ page SEO site at ₹20,000, an online mango or produce store at ₹50,000 and custom software at ₹60,000. We work remotely, with no Ratnagiri office.",
+    "For a Ratnagiri business, a website with us starts at ₹10,000 and is usually ready in one to two weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, a 299+ page SEO site at ₹20,000, an online mango or produce store at ₹50,000 and custom software at ₹60,000. We work remotely, with no Ratnagiri office.",
   snapshot: [
     { label: "Location", value: "Port city and district headquarters on the Arabian Sea, in Maharashtra's Konkan division" },
     { label: "Known for", value: "Hapus (Alphonso) mangoes, with a GI tag and a harvest running roughly February to May; Ratnagiri kokum also holds a GI tag" },
@@ -157,7 +157,7 @@ const ratnagiri: CityContent = {
       id: "website-cost-ratnagiri",
       heading: "Website cost in Ratnagiri: starting prices and what to compare",
       paragraphs: [
-        "Our starting prices for Ratnagiri are published. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000 over three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 a month. See our <a href=\"/pricing/\">pricing page</a> for more.",
+        "Our starting prices for Ratnagiri are published. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000 over three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 a month. See our <a href=\"/pricing/\">pricing page</a> for more.",
         "The quote rises with more pages, Marathi and English versions, large product ranges, pre-booking and delivery-date logic, payment gateways, logins or Tally integration. If you supply text and photographs, the figure stays close to the starting price; if we write and arrange everything, it appears as its own line.",
         "Quotes vary widely. Ask each provider whose name the domain and hosting go under, whether mobile testing and basic SEO are included, how many revisions you get and who handles problems in the middle of the season.",
         "Our itemised quote reaches you in about two working days, and nothing is billed before written approval.",
@@ -219,7 +219,7 @@ const ratnagiri: CityContent = {
     {
       question: "What is the website cost in Ratnagiri?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Your final quote depends on pages, Marathi content, products and features, and it comes itemised in writing before anything is billed.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Your final quote depends on pages, Marathi content, products and features, and it comes itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Ratnagiri businesses?",
@@ -254,7 +254,7 @@ const ratnagiri: CityContent = {
     {
       question: "Ratnagirit website banvayla kiti kharcha yeto?",
       answer:
-        "Amchyakade sadhi website ₹10,000 pasun suru hote ani sadharan ek te don athavdyat tayar hote. 700+ page SEO website ₹20,000 pasun, Android ani iOS app ₹40,000 pasun ani online store ₹50,000 pasun suru hoto. Tumchya pages ani features pramane lekhi quote milte.",
+        "Amchyakade sadhi website ₹10,000 pasun suru hote ani sadharan ek te don athavdyat tayar hote. 299+ page SEO website ₹20,000 pasun, Android ani iOS app ₹40,000 pasun ani online store ₹50,000 pasun suru hoto. Tumchya pages ani features pramane lekhi quote milte.",
     },
     {
       question: "You have no office in Ratnagiri. Can remote work be trusted?",

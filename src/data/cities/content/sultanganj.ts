@@ -39,7 +39,7 @@ const sultanganj: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first pages", "Shravani Mela ready", "Everything registered to you"],
   },
   quickAnswer:
-    "In Sultanganj, a website with us starts at ₹10,000 and a 700+ page SEO site at ₹20,000. Android and iOS apps start at ₹40,000, as does AI and WhatsApp automation; online stores start at ₹50,000 and custom software at ₹60,000. We work remotely with no Sultanganj office, and you own the domain, code and app accounts.",
+    "In Sultanganj, a website with us starts at ₹10,000 and a 299+ page SEO site at ₹20,000. Android and iOS apps start at ₹40,000, as does AI and WhatsApp automation; online stores start at ₹50,000 and custom software at ₹60,000. We work remotely with no Sultanganj office, and you own the domain, code and app accounts.",
   snapshot: [
     { label: "Where", value: "Bhagalpur district, Bihar, on the southern bank of the Ganga about 25 km west of Bhagalpur city" },
     { label: "Population", value: "52,892 at the 2011 Census" },
@@ -155,7 +155,7 @@ const sultanganj: CityContent = {
       ],
       list: [
         "Static website, up to 100 pages: from ₹10,000, one to two weeks",
-        "SEO website, 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website, 299+ pages: from ₹20,000, three to five weeks",
         "Android and iOS app: from ₹40,000",
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Ecommerce store: from ₹50,000, four to eight weeks",
@@ -219,7 +219,7 @@ const sultanganj: CityContent = {
     {
       question: "What does a website cost in Sultanganj?",
       answer:
-        "Our websites start at ₹10,000 for a static site of up to 100 pages and ₹20,000 for a 700+ page SEO site. Online stores start at ₹50,000 and custom software at ₹60,000. These are starting prices; Hindi content, bookings, products and payments can raise the total, and you see every item in writing first.",
+        "Our websites start at ₹10,000 for a static site of up to 100 pages and ₹20,000 for a 299+ page SEO site. Online stores start at ₹50,000 and custom software at ₹60,000. These are starting prices; Hindi content, bookings, products and payments can raise the total, and you see every item in writing first.",
     },
     {
       question: "Do you build Android and iOS apps for Sultanganj businesses?",

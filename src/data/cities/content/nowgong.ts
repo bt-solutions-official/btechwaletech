@@ -39,7 +39,7 @@ const nowgong: CityContent = {
     pills: ["Hindi websites from ₹10,000", "Android & iOS apps from ₹40,000", "Maps listings on NH 39", "Mill and trader software", "All accounts in your name"],
   },
   quickAnswer:
-    "A Nowgong business website with us starts at ₹10,000 and a simple one is ready in about one to two weeks. Android and iOS apps and AI or WhatsApp automation each start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, and you own everything we build.",
+    "A Nowgong business website with us starts at ₹10,000 and a simple one is ready in about one to two weeks. Android and iOS apps and AI or WhatsApp automation each start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, and you own everything we build.",
   snapshot: [
     { label: "Location", value: "Tehsil town in Chhatarpur district on NH 39, roughly 30 km from Chhatarpur and 110 km from Jhansi" },
     { label: "Population", value: "40,580 in the 2011 census, up from about 11,500 in 1952" },
@@ -76,7 +76,7 @@ const nowgong: CityContent = {
       id: "website-cost-nowgong",
       heading: "Website cost in Nowgong: what the starting price covers",
       paragraphs: [
-        "Most Nowgong owners ask about money first, so here it is plainly. A static website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. That covers a shop, clinic, hotel or coaching centre with a home page, services, photos, a map, contact details and a WhatsApp button. An SEO website of 700 pages or more starts at ₹20,000 and takes three to five weeks; it suits a business that serves many villages or offers many courses and wants a page for each.",
+        "Most Nowgong owners ask about money first, so here it is plainly. A static website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. That covers a shop, clinic, hotel or coaching centre with a home page, services, photos, a map, contact details and a WhatsApp button. An SEO website of 299 pages or more starts at ₹20,000 and takes three to five weeks; it suits a business that serves many villages or offers many courses and wants a page for each.",
         "Android and iOS apps start at ₹40,000, and so does AI or WhatsApp automation, which takes two to four weeks. An online store starts at ₹50,000 over four to eight weeks. Custom software for a mill, trader or institute starts at ₹60,000 and takes six to twelve weeks. Monthly SEO is ₹10,000 a month onwards.",
         "The number goes up only for things you ask for: more pages, both Hindi and English, a product catalogue, online payment, staff logins, or a link to Tally or other billing software. Every addition is its own line in the quote and can be dropped. Before comparing providers in Chhatarpur, Jhansi or online, ask each one who will own the domain, whether you get the code, how many rounds of changes are included and what yearly support costs. See the full list on our <a href=\"/pricing/\">pricing page</a>; an itemised quote reaches you in about two working days.",
       ],
@@ -210,7 +210,7 @@ const nowgong: CityContent = {
     {
       question: "What is the website cost in Nowgong?",
       answer:
-        "With us, a static website starts at ₹10,000, an SEO website of 700+ pages at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Your written quote lists pages, Hindi content, products and features separately, and nothing is billed until you approve it.",
+        "With us, a static website starts at ₹10,000, an SEO website of 299+ pages at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Your written quote lists pages, Hindi content, products and features separately, and nothing is billed until you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Nowgong businesses?",
@@ -225,7 +225,7 @@ const nowgong: CityContent = {
     {
       question: "How long does it take to make a website in Nowgong?",
       answer:
-        "A simple static site takes one to two weeks once we receive your photos and details. An SEO site of 700+ pages takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. The fastest projects are those where the owner sends content early.",
+        "A simple static site takes one to two weeks once we receive your photos and details. An SEO site of 299+ pages takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. The fastest projects are those where the owner sends content early.",
     },
     {
       question: "Which is the best IT services team in Nowgong?",

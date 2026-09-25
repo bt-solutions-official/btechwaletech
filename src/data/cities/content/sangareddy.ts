@@ -40,7 +40,7 @@ const sangareddy: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu, Urdu and English pages", "Vendor and RFQ websites", "You own code and domain"],
   },
   quickAnswer:
-    "In Sangareddy, a business website with us starts at ₹10,000 and a 700+ page SEO site at ₹20,000. Android and iOS apps and AI or WhatsApp automation start at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely with no Sangareddy office, and the domain, code and store accounts are yours.",
+    "In Sangareddy, a business website with us starts at ₹10,000 and a 299+ page SEO site at ₹20,000. Android and iOS apps and AI or WhatsApp automation start at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely with no Sangareddy office, and the domain, code and store accounts are yours.",
   snapshot: [
     { label: "Status", value: "District headquarters of Sangareddy district; first-grade municipality created in 1954, with 38 wards" },
     { label: "Population", value: "72,344 in the municipality at the 2011 census" },
@@ -159,7 +159,7 @@ const sangareddy: CityContent = {
       id: "website-cost-sangareddy",
       heading: "Website cost in Sangareddy: starting prices and what to compare",
       paragraphs: [
-        "Our entry points for Sangareddy are as follows. A static site of up to 100 pages starts at ₹10,000 and is typically live in one to two weeks. A 700+ page SEO build, useful for a supplier with a large catalogue or a builder with many projects, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, online stores at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
+        "Our entry points for Sangareddy are as follows. A static site of up to 100 pages starts at ₹10,000 and is typically live in one to two weeks. A 299+ page SEO build, useful for a supplier with a large catalogue or a builder with many projects, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, online stores at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
         "The quote grows only with what you choose: extra languages, large catalogues, RFQ uploads, payment collection, staff logins or ERP integration. Each is a separate line you can accept or remove. If you supply your own text and photographs, the cost stays close to the starting figure.",
         "Quotes in and around Hyderabad vary widely for similar work. Compare who owns the domain and hosting, whether the site is tested on mobile phones, whether basic SEO is included, how many revision rounds are covered and what support costs after the first year. All our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and your itemised written quote arrives in about two working days.",
       ],
@@ -220,7 +220,7 @@ const sangareddy: CityContent = {
     {
       question: "What is the website cost in Sangareddy?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final amount depends on pages, languages, catalogue size and integrations, and you receive an itemised written quote before anything is billed.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final amount depends on pages, languages, catalogue size and integrations, and you receive an itemised written quote before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Sangareddy businesses?",
@@ -230,7 +230,7 @@ const sangareddy: CityContent = {
     {
       question: "How long does a website take for a Sangareddy business?",
       answer:
-        "A simple static site is usually ready in one to two weeks once we have your content and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve. Sending content early is the easiest way to speed things up.",
+        "A simple static site is usually ready in one to two weeks once we have your content and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve. Sending content early is the easiest way to speed things up.",
     },
     {
       question: "Which is the best IT services team in Sangareddy for a small business?",
@@ -255,7 +255,7 @@ const sangareddy: CityContent = {
     {
       question: "Sangareddy me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare yahan basic website ₹10,000 se shuru hoti hai aur lagbhag ek se do hafte lagte hain. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapki zaroorat ke hisaab se har item ka likhit quote bhejte hain.",
+        "Hamare yahan basic website ₹10,000 se shuru hoti hai aur lagbhag ek se do hafte lagte hain. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapki zaroorat ke hisaab se har item ka likhit quote bhejte hain.",
     },
     {
       question: "You have no office in Sangareddy. How does remote work protect me?",

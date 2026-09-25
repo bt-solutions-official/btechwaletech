@@ -39,7 +39,7 @@ const koyilandy: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Malayalam-first local SEO", "Harbour and seafood trade", "Everything in your name"],
   },
   quickAnswer:
-    "For a Koyilandy business, a website with us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps start at ₹40,000, and so does AI or WhatsApp automation. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are remote, and you own all accounts.",
+    "For a Koyilandy business, a website with us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps start at ₹40,000, and so does AI or WhatsApp automation. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are remote, and you own all accounts.",
   snapshot: [
     { label: "Location", value: "Municipal town and taluk headquarters on NH-66, about 24 km north of Kozhikode city on the Malabar coast" },
     { label: "Taluk", value: "Koyilandy taluk is the largest in Kozhikode district, covering 34 revenue villages" },
@@ -222,7 +222,7 @@ const koyilandy: CityContent = {
     {
       question: "How much does a website cost in Koyilandy?",
       answer:
-        "Brochure sites of up to 100 pages are ₹10,000 onwards and are ready in about one to two weeks. Search-focused sites with 700+ pages begin at ₹20,000, online stores at ₹50,000 and bespoke software at ₹60,000. Malayalam content, extra features and product count raise the figure. We send each cost as a separate line, and no invoice goes out until you agree in writing.",
+        "Brochure sites of up to 100 pages are ₹10,000 onwards and are ready in about one to two weeks. Search-focused sites with 299+ pages begin at ₹20,000, online stores at ₹50,000 and bespoke software at ₹60,000. Malayalam content, extra features and product count raise the figure. We send each cost as a separate line, and no invoice goes out until you agree in writing.",
     },
     {
       question: "How long does a website take for a Koyilandy business?",

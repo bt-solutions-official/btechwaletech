@@ -117,7 +117,7 @@ const content: CityContent = {
       paragraphs: [
         "Meghalaya businesses appear in Google and AI trip planners by publishing clear, accurate pages that answer travellers' and customers' real questions, keeping their Google Business Profile current, and earning genuine reviews. AI assistants pull from specific, well-structured pages, so vague promotional text rarely gets cited.",
         "For tourism, that means one page per experience or stay: how to reach it from Shillong or Guwahati, best season, duration, difficulty, what it costs to start with and what to bring. For schools, clinics and shops, it means one page per service with address, timings and contact details. We add structured data, fast loading and internal links, and write in English with Khasi or Garo where useful. More on our <a href='/services/seo-services/'>SEO services</a> page.",
-        "We never guarantee rankings. Monthly SEO starts at ₹10,000 and 700+ page SEO websites start at ₹20,000, with progress shared from Search Console.",
+        "We never guarantee rankings. Monthly SEO starts at ₹10,000 and 299+ page SEO websites start at ₹20,000, with progress shared from Search Console.",
       ],
       list: [
         "How to reach, from Shillong and Guwahati",
@@ -209,7 +209,7 @@ const content: CityContent = {
       id: "cost-it-services-meghalaya",
       heading: "How much do IT services in Meghalaya cost?",
       paragraphs: [
-        "IT services in Meghalaya from BtechWaleTech start at ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months.",
+        "IT services in Meghalaya from BtechWaleTech start at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months.",
         "These are starting prices; the final figure depends on pages, features, integrations and content. You receive an itemised quote in about two working days, and nothing is billed until you approve it. Payments are made only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in rupees. See the full table on our <a href='/pricing/'>pricing page</a>.",
         "When comparing quotes, check whether hosting, deployment, source code, training and post-launch fixes are included; cheaper quotes often leave them out.",
       ],
@@ -261,7 +261,7 @@ const content: CityContent = {
     {
       question: "How much does a website cost in Meghalaya?",
       answer:
-        "From ₹10,000 for a static website of up to 100 pages, usually ready in one to two weeks. A 700+ page SEO website starts at ₹20,000 and an online store at ₹50,000. The final price depends on pages, features and content, and you receive an itemised quote before any work starts.",
+        "From ₹10,000 for a static website of up to 100 pages, usually ready in one to two weeks. A 299+ page SEO website starts at ₹20,000 and an online store at ₹50,000. The final price depends on pages, features and content, and you receive an itemised quote before any work starts.",
     },
     {
       question: "Do you build Android and iOS apps for Meghalaya businesses?",

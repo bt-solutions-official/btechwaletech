@@ -35,7 +35,7 @@ const chikkamagaluru: CityContent = {
     pills: ["Sites from ₹10,000", "Estate coffee stores", "Kannada and English", "Homestay direct bookings", "Pages for Malnad networks"],
   },
   quickAnswer:
-    "Chikkamagaluru businesses can get a website from ₹10,000, usually live in one to two weeks. SEO sites of 700+ pages start at ₹20,000, WhatsApp and AI booking automation at ₹40,000, estate coffee stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Chikkamagaluru office, and five months of maintenance are free after launch.",
+    "Chikkamagaluru businesses can get a website from ₹10,000, usually live in one to two weeks. SEO sites of 299+ pages start at ₹20,000, WhatsApp and AI booking automation at ₹40,000, estate coffee stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Chikkamagaluru office, and five months of maintenance are free after launch.",
   snapshot: [
     { label: "Region", value: "Malnad foothills of the Western Ghats, about 1,090 m above sea level" },
     { label: "Coffee heritage", value: "Baba Budangiri, nearby, is traditionally credited as where coffee was first grown in India" },
@@ -117,12 +117,12 @@ const chikkamagaluru: CityContent = {
       heading: "What a website costs in Chikkamagaluru",
       paragraphs: [
         "Quotes here range from very cheap templates to Bengaluru agency prices. The cheap option often leaves the domain in someone else's name and skips search setup; the expensive one pays for an office and sales team. We publish starting prices so you can compare fairly.",
-        "A static site of up to 100 pages starts at <strong>₹10,000</strong> and takes one to two weeks. A search-led site of 700+ pages, useful for a homestay network or a coffee brand with guides on brewing and origin, starts at <strong>₹20,000</strong> and takes three to five weeks. Automation starts at <strong>₹40,000</strong>, online stores at <strong>₹50,000</strong> and custom software at <strong>₹60,000</strong>. Monthly SEO starts at ₹10,000. Details are on the <a href=\"/pricing/\">pricing page</a>.",
+        "A static site of up to 100 pages starts at <strong>₹10,000</strong> and takes one to two weeks. A search-led site of 299+ pages, useful for a homestay network or a coffee brand with guides on brewing and origin, starts at <strong>₹20,000</strong> and takes three to five weeks. Automation starts at <strong>₹40,000</strong>, online stores at <strong>₹50,000</strong> and custom software at <strong>₹60,000</strong>. Monthly SEO starts at ₹10,000. Details are on the <a href=\"/pricing/\">pricing page</a>.",
         "Every figure is a starting point. Subscriptions, several languages, booking calendars and estate apps add work, and your quote spells out each item.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> homestay, estate or shop site with WhatsApp and map.",
-        "<strong>From ₹20,000:</strong> 700+ page site for stays, guides or products.",
+        "<strong>From ₹20,000:</strong> 299+ page site for stays, guides or products.",
         "<strong>From ₹50,000:</strong> coffee or spice store with UPI, cards and shipping.",
         "<strong>From ₹60,000:</strong> estate records app or booking calendar.",
       ],
@@ -252,7 +252,7 @@ const chikkamagaluru: CityContent = {
     {
       question: "How much does a website cost in Chikkamagaluru?",
       answer:
-        "Websites start from ₹10,000, 700+ page SEO sites from ₹20,000, online stores from ₹50,000 and custom software such as booking calendars or estate apps from ₹60,000. Your quote depends on pages, products, languages and features, and nothing is billed before you approve it in writing.",
+        "Websites start from ₹10,000, 299+ page SEO sites from ₹20,000, online stores from ₹50,000 and custom software such as booking calendars or estate apps from ₹60,000. Your quote depends on pages, products, languages and features, and nothing is billed before you approve it in writing.",
     },
     {
       question: "Chikkamagaluru-nalli nanna homestay-ge website maadisalu eshtu kharchu aagutte?",
@@ -287,7 +287,7 @@ const chikkamagaluru: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "Static sites take one to two weeks, 700+ page SEO sites three to five, online stores four to eight and custom software six to twelve. For homestays, launching a few months before the October to March season is ideal.",
+        "Static sites take one to two weeks, 299+ page SEO sites three to five, online stores four to eight and custom software six to twelve. For homestays, launching a few months before the October to March season is ideal.",
     },
     {
       question: "What can WhatsApp automation do for my homestay?",

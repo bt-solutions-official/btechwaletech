@@ -34,7 +34,7 @@ const anand: CityContent = {
     pills: ["Sites from ₹10,000", "Gujarati and English SEO", "GIDC supplier catalogues", "Student and NRI enquiries", "Free upkeep for five months"],
   },
   quickAnswer:
-    "An Anand business website starts at ₹10,000 with us and is usually live in one to two weeks. A 700+ page SEO website starts at ₹20,000, an online store at ₹50,000, AI or WhatsApp automation at ₹40,000 and custom software at ₹60,000. We are remote, with no Anand office, and you own the domain and code.",
+    "An Anand business website starts at ₹10,000 with us and is usually live in one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000, AI or WhatsApp automation at ₹40,000 and custom software at ₹60,000. We are remote, with no Anand office, and you own the domain and code.",
   snapshot: [
     { label: "Known as", value: "The milk capital of India, home to Amul, GCMMF headquarters, NDDB and Vidya Dairy" },
     { label: "Education hub", value: "Vallabh Vidyanagar with Sardar Patel University, CVM University and BVM, Gujarat's first engineering college" },
@@ -72,12 +72,12 @@ const anand: CityContent = {
       heading: "How much a website costs in Anand",
       paragraphs: [
         "Website prices in Anand range from a few thousand rupees quoted by a student freelancer to large agency figures from Ahmedabad. The cheap end often leaves the domain on someone else's account and no one to call later. The expensive end often pays for account managers and offices. We aim for clear starting prices and honest scope.",
-        "A static website of up to 100 pages starts at ₹10,000 and is typically ready in one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI or WhatsApp automation at ₹40,000 and custom software such as a GIDC order portal or hostel management system at ₹60,000. Monthly SEO starts at ₹10,000. Everything is listed on our <a href=\"/pricing/\">pricing page</a>.",
+        "A static website of up to 100 pages starts at ₹10,000 and is typically ready in one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI or WhatsApp automation at ₹40,000 and custom software such as a GIDC order portal or hostel management system at ₹60,000. Monthly SEO starts at ₹10,000. Everything is listed on our <a href=\"/pricing/\">pricing page</a>.",
         "The final amount depends on pages, features, languages and how much content we prepare. The quote lists each part separately so you can trim or phase the work. There is no charge for a quote and nothing is billed until you approve it in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> a clear site for a clinic, CA, advocate, tutor or shop with WhatsApp button and basic SEO.",
-        "<strong>From ₹20,000:</strong> a 700+ page site for manufacturers, institutes, hospitals and builders.",
+        "<strong>From ₹20,000:</strong> a 299+ page site for manufacturers, institutes, hospitals and builders.",
         "<strong>From ₹50,000:</strong> an online store for food, farm, gift or stationery products with UPI and card payments.",
         "<strong>From ₹60,000:</strong> custom software for order handling, admissions, hostels or dispatch.",
       ],
@@ -217,7 +217,7 @@ const anand: CityContent = {
     {
       question: "How much does a website cost in Anand?",
       answer:
-        "With us, a simple business website starts at ₹10,000 and a 700+ page SEO website at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. The final price depends on pages, features and languages, and you receive an itemised quote in about two working days before anything is billed.",
+        "With us, a simple business website starts at ₹10,000 and a 299+ page SEO website at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. The final price depends on pages, features and languages, and you receive an itemised quote in about two working days before anything is billed.",
     },
     {
       question: "Anand ma website banavva no kharcho ketlo aave?",
@@ -252,7 +252,7 @@ const anand: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static website usually takes one to two weeks, a 700+ page SEO website three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Waiting for content is the usual delay, so we can draft text for you to correct.",
+        "A static website usually takes one to two weeks, a 299+ page SEO website three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Waiting for content is the usual delay, so we can draft text for you to correct.",
     },
     {
       question: "Do you work with businesses in Nadiad, Petlad, Khambhat or Vadodara?",

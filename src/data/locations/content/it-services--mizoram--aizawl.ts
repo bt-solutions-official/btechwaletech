@@ -209,7 +209,7 @@ const content: CityContent = {
       id: "software-development-cost-aizawl",
       heading: "How much does software development in Aizawl cost?",
       paragraphs: [
-        "Software development in Aizawl with us starts at ₹60,000 for custom software or a web app, ₹40,000 for AI agents and workflow automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store, ₹10,000 for a static website and ₹20,000 for a 700+ page SEO site. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month.",
+        "Software development in Aizawl with us starts at ₹60,000 for custom software or a web app, ₹40,000 for AI agents and workflow automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store, ₹10,000 for a static website and ₹20,000 for a 299+ page SEO site. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month.",
         "Scope sets the final figure: number of roles, screens and reports, approval workflows, integrations with Tally or WhatsApp, data migration, offline features and content writing. The estimate is itemised, so you can phase features and control spend.",
         "Payment is in INR, split into milestones, and accepted only by UPI through our QR code or direct bank transfer to our account. Every milestone follows work you have seen. Details of each service are on our <a href='/services/'>services page</a>.",
       ],

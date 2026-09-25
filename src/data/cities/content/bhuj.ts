@@ -35,7 +35,7 @@ const bhuj: CityContent = {
     pills: ["Sites from ₹10,000", "Gujarati and English pages", "Craft stores with UPI", "Tour and stay booking", "WhatsApp enquiry replies"],
   },
   quickAnswer:
-    "A business website in Bhuj starts at ₹10,000 with us and is usually ready in one to two weeks. Larger 700+ page SEO sites start at ₹20,000, craft or product stores at ₹50,000 and AI or WhatsApp automation at ₹40,000. We are a remote team with no Bhuj office, and the first five months of maintenance are free.",
+    "A business website in Bhuj starts at ₹10,000 with us and is usually ready in one to two weeks. Larger 299+ page SEO sites start at ₹20,000, craft or product stores at ₹50,000 and AI or WhatsApp automation at ₹40,000. We are a remote team with no Bhuj office, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Role", value: "Administrative headquarters of Kutch, India's largest district by area, near its geographic centre" },
     { label: "Founded", value: "1549 by Rao Khengarji I; the walled city grew around Hamirsar Lake below Bhujia Hill" },
@@ -73,12 +73,12 @@ const bhuj: CityContent = {
       heading: "What a website costs in Bhuj, and what the price covers",
       paragraphs: [
         "In Bhuj you will hear two very different numbers. A local freelancer may offer a site for very little, often built on a template, with the domain registered in his account and no search setup. An Ahmedabad or Rajkot agency may quote several times more for a polished site that still misses what Kutch buyers look for. Neither is wrong in every case, but it helps to know exactly what you are paying for.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages starts at ₹10,000 and is ready in one to two weeks, with mobile layout, Gujarati and English text, a map, a WhatsApp button and basic search setup. An SEO site of 700+ pages, planned around real Kutch searches, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, AI and WhatsApp automation at ₹40,000, and monthly SEO at ₹10,000.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages starts at ₹10,000 and is ready in one to two weeks, with mobile layout, Gujarati and English text, a map, a WhatsApp button and basic search setup. An SEO site of 299+ pages, planned around real Kutch searches, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, AI and WhatsApp automation at ₹40,000, and monthly SEO at ₹10,000.",
         "The final figure depends on scope. A single-doctor clinic in Bhuj needs a handful of pages. A craft workshop selling two hundred Ajrakh pieces with size charts, dye notes and international shipping questions needs much more. We listen first, then send an itemised quote, and nothing is billed until you approve it in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> a compact Gujarati and English site for a shop, clinic, school or guide.",
-        "<strong>From ₹20,000:</strong> 700+ pages covering every product, route, service or village you serve.",
+        "<strong>From ₹20,000:</strong> 299+ pages covering every product, route, service or village you serve.",
         "<strong>From ₹50,000:</strong> a store with UPI, cards, courier rules and order alerts on WhatsApp.",
         "<strong>From ₹60,000:</strong> custom registers, portals and dashboards for workshops and suppliers.",
       ],
@@ -209,7 +209,7 @@ const bhuj: CityContent = {
     {
       question: "How much does a website cost in Bhuj?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. Your written quote lists every item. When comparing offers, ask whose name the domain is in and whether search setup is included.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. Your written quote lists every item. When comparing offers, ask whose name the domain is in and whether search setup is included.",
     },
     {
       question: "Bhuj ma website banavva ketlo kharch thay?",
@@ -249,7 +249,7 @@ const bhuj: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. If you want a site live before the Rann season, it is best to start by early autumn.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. If you want a site live before the Rann season, it is best to start by early autumn.",
     },
     {
       question: "What can WhatsApp automation do during the tourist season?",

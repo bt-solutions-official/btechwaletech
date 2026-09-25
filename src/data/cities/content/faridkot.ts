@@ -39,7 +39,7 @@ const faridkot: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Punjabi and English pages", "Arhtiya and mandi tools", "Everything registered to you"],
   },
   quickAnswer:
-    "In Faridkot, our websites start at ₹10,000 and a simple site is usually live in one to two weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Faridkot office, and you own every account.",
+    "In Faridkot, our websites start at ₹10,000 and a simple site is usually live in one to two weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Faridkot office, and you own every account.",
   snapshot: [
     { label: "Status", value: "Headquarters of Faridkot district and Faridkot division in south-west Punjab" },
     { label: "History", value: "Princely state from the 18th century; Qila Mubarak, Raj Mahal and Darbar Gunj survive from that period" },
@@ -158,7 +158,7 @@ const faridkot: CityContent = {
       id: "website-cost-faridkot",
       heading: "Website cost in Faridkot: starting prices and what to compare",
       paragraphs: [
-        "Our starting prices for Faridkot clients are published: a static website of up to 100 pages from ₹10,000 in one to two weeks; a 700+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; an online store from ₹50,000 in four to eight weeks; and custom software from ₹60,000 in six to twelve weeks.",
+        "Our starting prices for Faridkot clients are published: a static website of up to 100 pages from ₹10,000 in one to two weeks; a 299+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; an online store from ₹50,000 in four to eight weeks; and custom software from ₹60,000 in six to twelve weeks.",
         "Scope moves the quote. More pages, Punjabi, Hindi and English versions, large catalogues, payment and courier setup, logins or accounting links all add work. If you supply text and photographs the figure stays close to the starting price; if we write, translate and photograph-edit everything, that appears as a separate line.",
         "Local quotes vary widely, so compare what is included rather than the headline figure. Ask whose name the domain and hosting are registered in, whether mobile testing and basic SEO are part of the job, how many rounds of changes you get and who fixes things after launch. Our <a href=\"/pricing/\">pricing page</a> has every starting point, and your itemised quote arrives in about two working days.",
       ],
@@ -210,7 +210,7 @@ const faridkot: CityContent = {
     {
       question: "What is the website cost in Faridkot?",
       answer:
-        "A static website with us starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Your quote depends on pages, languages, products and integrations, and you receive it itemised in writing before anything is billed.",
+        "A static website with us starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Your quote depends on pages, languages, products and integrations, and you receive it itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Faridkot businesses?",
@@ -220,7 +220,7 @@ const faridkot: CityContent = {
     {
       question: "How long does a website take for a Faridkot business?",
       answer:
-        "A static website is usually ready one to two weeks after we receive your content. A 700+ page SEO website takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having your text, photographs and logo ready at the start saves the most time.",
+        "A static website is usually ready one to two weeks after we receive your content. A 299+ page SEO website takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having your text, photographs and logo ready at the start saves the most time.",
     },
     {
       question: "Which is the best website development team in Faridkot?",
@@ -245,7 +245,7 @@ const faridkot: CityContent = {
     {
       question: "Faridkot me website banwane ka kharcha kitna aata hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein ban jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Pura quote likhit mein milta hai, har cheez ka alag hisaab ke saath.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein ban jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Pura quote likhit mein milta hai, har cheez ka alag hisaab ke saath.",
     },
     {
       question: "You have no office in Faridkot. Is remote work safe?",

@@ -312,7 +312,7 @@ const content: FreelanceContent = {
       columns: ["Project", "Starts at (India)", "Starts at (abroad)", "Typical timeline", "Good for"],
       rows: [
         ["Standard blog website", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "New bloggers, professionals, company blogs"],
-        ["Large content site, 700+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Niche publishers and topic hubs"],
+        ["Large content site, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Niche publishers and topic hubs"],
         ["Blog with store for products", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Creators selling physical products"],
         ["Membership or custom features", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Paid content, portals, tools"],
         ["Monthly blog SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Monthly", "Technical checks, topic plans, reports"],
@@ -397,7 +397,7 @@ const content: FreelanceContent = {
     links: [
       { name: "News portal developer for daily publishing", href: "/news-portal-developer/" },
       { name: "Personal website developer", href: "/personal-website-developer/" },
-      { name: "SEO-first websites with 700+ pages", href: "/seo-website-developer/" },
+      { name: "SEO-first websites with 299+ pages", href: "/seo-website-developer/" },
       { name: "Static website developer", href: "/static-website-developer/" },
       { name: "Freelance WordPress developer", href: "/freelance-wordpress-developer/" },
       { name: "Hire a WordPress developer", href: "/hire-wordpress-developer/" },

@@ -35,7 +35,7 @@ const tirupati: CityContent = {
     pills: ["Websites from ₹10,000", "Telugu, English, Tamil", "Hotel and travel bookings", "Supplier sites for EMC and Sri City", "WhatsApp automation"],
   },
   quickAnswer:
-    "In Tirupati, a static business website with us starts at ₹10,000 and a 700+ page SEO website at ₹20,000, with online stores from ₹50,000 and booking or custom web apps from ₹60,000. We are a remote team of three engineers with no Tirupati office, and each project comes with five months of free maintenance.",
+    "In Tirupati, a static business website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000, with online stores from ₹50,000 and booking or custom web apps from ₹60,000. We are a remote team of three engineers with no Tirupati office, and each project comes with five months of free maintenance.",
   snapshot: [
     { label: "Pilgrimage economy", value: "Sri Venkateswara Temple at Tirumala, run by Tirumala Tirupati Devasthanams (TTD), draws devotees from across India" },
     { label: "Electronics and industry", value: "APIIC Electronics Manufacturing Cluster (home to a Foxlink facility), Renigunta, and Sri City SEZ in the district" },
@@ -73,12 +73,12 @@ const tirupati: CityContent = {
       heading: "What a website costs in Tirupati",
       paragraphs: [
         "A lodge owner in Tirupati might hear three quotes for the same small site that differ by a factor of ten. The cheapest often means a copied template, no search setup and a domain registered to the developer. The most expensive frequently includes the costs of an agency office and sales team, with little more actual work on your site.",
-        "Our starting prices are published. A static business website starts from ₹10,000 and is usually live in one to two weeks. A 700+ page SEO website, with pages for each service, room type or course, starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000. Custom web applications, including booking engines and vendor portals, start from ₹60,000. AI and WhatsApp automation starts from ₹40,000, and monthly SEO from ₹10,000. Full details are on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our starting prices are published. A static business website starts from ₹10,000 and is usually live in one to two weeks. A 299+ page SEO website, with pages for each service, room type or course, starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000. Custom web applications, including booking engines and vendor portals, start from ₹60,000. AI and WhatsApp automation starts from ₹40,000, and monthly SEO from ₹10,000. Full details are on our <a href=\"/pricing/\">pricing page</a>.",
         "Scope drives the price. A six-room guest house needs much less than a hotel with online deposits and three languages. You receive a written, itemised quote in about two working days, and we charge nothing until you approve it in writing.",
       ],
       list: [
         "<strong>Static site, from ₹10,000:</strong> up to 100 pages, map, enquiry form, basic SEO. For small lodges, clinics, consultants and shops.",
-        "<strong>SEO site, from ₹20,000:</strong> 700+ pages across rooms, services, routes or courses. For businesses that want steady Google enquiries.",
+        "<strong>SEO site, from ₹20,000:</strong> 299+ pages across rooms, services, routes or courses. For businesses that want steady Google enquiries.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart, UPI and card checkout. For Kalamkari, handloom and food sellers.",
         "<strong>Custom web app, from ₹60,000:</strong> bookings, logins, dashboards. For hotels, institutes and industrial suppliers.",
       ],
@@ -209,12 +209,12 @@ const tirupati: CityContent = {
     {
       question: "How much does a website cost in Tirupati?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. When you compare quotes in Tirupati, also compare who owns the domain, whether search basics are included and what support continues after launch.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. When you compare quotes in Tirupati, also compare who owns the domain, whether search basics are included and what support continues after launch.",
     },
     {
       question: "Tirupatilo website cheyinchukovalante entha kharchu avutundi?",
       answer:
-        "Maa daggara simple business website ₹10,000 nundi modalavutundi, 700+ pages SEO website ₹20,000 nundi. Online store ₹50,000 nundi modalavutundi. Final dhara pages, features, content meeda aadharapadi untundi. Pani modalu pettakamunde meeku itemised quote raatapurvakamga istamu.",
+        "Maa daggara simple business website ₹10,000 nundi modalavutundi, 299+ pages SEO website ₹20,000 nundi. Online store ₹50,000 nundi modalavutundi. Final dhara pages, features, content meeda aadharapadi untundi. Pani modalu pettakamunde meeku itemised quote raatapurvakamga istamu.",
     },
     {
       question: "Do you have an office in Tirupati?",
@@ -244,7 +244,7 @@ const tirupati: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks, and a custom web application six to twelve weeks. The usual delay is waiting for photographs and text, so we prepare draft content for you to correct.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks, and a custom web application six to twelve weeks. The usual delay is waiting for photographs and text, so we prepare draft content for you to correct.",
     },
     {
       question: "What can WhatsApp automation do for a Tirupati business?",

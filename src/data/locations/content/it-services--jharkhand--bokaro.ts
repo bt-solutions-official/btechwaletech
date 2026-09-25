@@ -181,7 +181,7 @@ const content: CityContent = {
       paragraphs: [
         "SEO for a Bokaro business means being found when people search for your service in their sector, in Chas or in nearby towns like Bermo, Phusro and Chandrapura, with pages that answer their questions clearly. Local searches here often include sector numbers or landmarks such as City Centre, so pages that mention them naturally perform better.",
         "Schools need pages on admissions, fees, transport routes and facilities that parents compare. Clinics and diagnostics need service and test pages with timings. Contractors and Balidih suppliers need capability pages that purchase teams find credible. We add structured data, help complete your Google Business Profile, and write factual passages that Google's AI Overviews and assistants such as ChatGPT can quote.",
-        "Monthly <a href='/services/seo-services/'>SEO services</a> start from ₹10,000 and a 700+ page SEO website from ₹20,000. No one can guarantee rankings. For specific local searches, early movement usually shows within two to four months, and we share Search Console reports each month.",
+        "Monthly <a href='/services/seo-services/'>SEO services</a> start from ₹10,000 and a 299+ page SEO website from ₹20,000. No one can guarantee rankings. For specific local searches, early movement usually shows within two to four months, and we share Search Console reports each month.",
       ],
     },
     {
@@ -197,7 +197,7 @@ const content: CityContent = {
       id: "cost-bokaro-software",
       heading: "Software development cost in Bokaro: what do freelance developers charge?",
       paragraphs: [
-        "Our starting prices for Bokaro are ₹10,000 for a website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store, ₹60,000 for school, contractor, inventory or other custom software, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after five free months.",
+        "Our starting prices for Bokaro are ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store, ₹60,000 for school, contractor, inventory or other custom software, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after five free months.",
         "Costs depend on modules, users, data migration and integrations. A school system for one campus with fees and attendance is simpler than a multi-branch system with transport, exams and a parent app. Starting with the module that saves the most time, then adding others, spreads cost and lets staff adjust gradually.",
         "You receive an itemised quote in about two working days, and work begins only after written approval. Payment to us is only by UPI (scan our QR code) or direct bank transfer to our bank account in INR, usually in milestones tied to approved deliverables.",
       ],

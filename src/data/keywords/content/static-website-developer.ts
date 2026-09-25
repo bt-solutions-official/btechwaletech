@@ -28,7 +28,7 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Static website developer · Fast, secure, low-cost hosting",
     h1: "Static website developer for fast, hard-to-hack sites that cost little to host",
-    lede: `A static website developer builds your site as ready-made pages that load instantly from a CDN, with no database or server code for attackers to target and hosting that often costs next to nothing. BtechWaleTech is three freelance developers in India who build static business sites of up to 100 pages from ${P.site} in 1–2 weeks, and SEO sites of 700+ pages from ${P.seoSite}. Everything is hosted on accounts in your name, and this very site is built the same way.`,
+    lede: `A static website developer builds your site as ready-made pages that load instantly from a CDN, with no database or server code for attackers to target and hosting that often costs next to nothing. BtechWaleTech is three freelance developers in India who build static business sites of up to 100 pages from ${P.site} in 1–2 weeks, and SEO sites of 299+ pages from ${P.seoSite}. Everything is hosted on accounts in your name, and this very site is built the same way.`,
     pills: ["Up to 100 pages", "Loads fast on budget phones", "No database to hack", "Low-cost or free hosting", "Forms and WhatsApp", "Astro, HTML, Eleventy", "You own the code"],
     origin: "Three freelance developers · Remote from India · Static sites built with Astro and plain HTML",
   },
@@ -36,7 +36,7 @@ const content: FreelanceContent = {
     ["Static website from", `${P.site} · ${P.siteUsd}`],
     ["Pages included", "Up to 100"],
     ["Build time", "1–2 weeks"],
-    ["SEO static site, 700+ pages", `From ${P.seoSite}`],
+    ["SEO static site, 299+ pages", `From ${P.seoSite}`],
     ["Hosting", "CDN hosting in your own account"],
     ["After launch", "5 months of free maintenance"],
   ],
@@ -56,7 +56,7 @@ const content: FreelanceContent = {
     rows: [
       { label: "Best for", value: "Brochure, service, portfolio, clinic, school and event sites" },
       { label: "Static website", value: `From ${P.site}, up to 100 pages, 1–2 weeks` },
-      { label: "SEO static site", value: `From ${P.seoSite}, 700+ pages, 3–5 weeks` },
+      { label: "SEO static site", value: `From ${P.seoSite}, 299+ pages, 3–5 weeks` },
       { label: "Tools", value: "Astro, Eleventy or hand-written HTML and CSS" },
       { label: "Hosting", value: "Cloudflare Pages, Netlify, GitHub Pages or AWS, in your name" },
       { label: "Dynamic bits", value: "Forms, WhatsApp, maps, bookings via small add-ons" },
@@ -69,7 +69,7 @@ const content: FreelanceContent = {
     note: "Static does not mean plain or unchanging. It means pages are built ahead of time, which makes them fast, cheap to host and difficult to break.",
     cards: [
       { name: "Static business website", note: `Home, services, about, gallery, contact and up to 100 pages in total, with a WhatsApp button and enquiry form, from ${P.site}.`, href: "/services/web-development/", size: "lg" },
-      { name: "SEO static site, 700+ pages", note: `Service and location pages generated from a spreadsheet or data file at build time, with schema and sitemaps, from ${P.seoSite}.`, href: "/seo-website-developer/", size: "lg" },
+      { name: "SEO static site, 299+ pages", note: `Service and location pages generated from a spreadsheet or data file at build time, with schema and sitemaps, from ${P.seoSite}.`, href: "/seo-website-developer/", size: "lg" },
       { name: "Landing pages for ads", note: "Single fast pages that load before an impatient visitor leaves, with tracking and a lead form that goes straight to your inbox or sheet.", href: "/landing-page-developer/", size: "md" },
       { name: "Portfolio and personal sites", note: "For doctors, lawyers, designers, photographers and consultants who want a quick, low-maintenance presence they fully own.", href: "/portfolio-website-developer/", size: "md" },
       { name: "Moving off WordPress or Wix", note: "Rebuild a slow or frequently hacked site as static pages, keep URLs or add redirects, and cut hosting bills.", href: "/wix-to-custom-website/", size: "md" },
@@ -285,7 +285,7 @@ const content: FreelanceContent = {
       rows: [
         ["Static website, up to 100 pages", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Often a free CDN tier"],
         ["Landing page or single-page site", `Within the static plan, from ${P.site}`, `From ${P.siteUsd}`, "Under 2 weeks", "Often a free CDN tier"],
-        ["Static SEO site, 700+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Free or low-cost CDN tier"],
+        ["Static SEO site, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Free or low-cost CDN tier"],
         ["WordPress or Wix to static rebuild", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks for up to 100 pages", "Replaces paid PHP hosting"],
         ["Dynamic site or web app instead", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Server and database hosting"],
         ["Maintenance after free period", `From ${P.care}`, `From ${P.careUsd}`, "Monthly, after 5 free months", "Unchanged"],
@@ -372,7 +372,7 @@ const content: FreelanceContent = {
       { name: "Website speed optimisation freelancer", href: "/website-speed-optimization-freelancer/" },
       { name: "Moving off Wix or Google Sites", href: "/wix-to-custom-website/" },
       { name: "WordPress to Next.js migration", href: "/wordpress-to-nextjs-migration/" },
-      { name: "SEO website developer for 700+ pages", href: "/seo-website-developer/" },
+      { name: "SEO website developer for 299+ pages", href: "/seo-website-developer/" },
       { name: "Landing page developer", href: "/landing-page-developer/" },
       { name: "Portfolio website developer", href: "/portfolio-website-developer/" },
       { name: "Website security freelancer", href: "/website-security-freelancer/" },

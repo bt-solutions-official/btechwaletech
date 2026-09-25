@@ -39,7 +39,7 @@ const dhamtari: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Rice mill and trade software", "Hindi and Chhattisgarhi reach", "Accounts opened in your name"],
   },
   quickAnswer:
-    "For Dhamtari firms, our websites cost ₹10,000 onwards and normally launch within one to two weeks. Android plus iOS apps, and AI or WhatsApp bots, cost ₹40,000 onwards; a 700+ page SEO site ₹20,000 onwards, a UPI shop ₹50,000 onwards and tailored software ₹60,000 onwards. We are a remote team, and the domain, code and store accounts stay yours.",
+    "For Dhamtari firms, our websites cost ₹10,000 onwards and normally launch within one to two weeks. Android plus iOS apps, and AI or WhatsApp bots, cost ₹40,000 onwards; a 299+ page SEO site ₹20,000 onwards, a UPI shop ₹50,000 onwards and tailored software ₹60,000 onwards. We are a remote team, and the domain, code and store accounts stay yours.",
   snapshot: [
     { label: "Status", value: "Municipal corporation and headquarters of Dhamtari district; tehsils of Dhamtari, Kurud and Nagri" },
     { label: "Population", value: "About 1.02 lakh in the city and about 8 lakh in the district, 2011 census" },
@@ -87,7 +87,7 @@ const dhamtari: CityContent = {
       paragraphs: [
         "With roughly half the district under forest, timber has long been part of Dhamtari's economy. Sawmills, timber depots, plywood and hardware dealers, door and window makers and furniture workshops supply builders across the region. Their buyers, often contractors from Raipur, Durg or Bhilai, now look a supplier up online before they drive down, and a missing or out-of-date listing costs them the call.",
         "A <strong>website development team in Dhamtari</strong> should give such a business a clear, sober site: the wood species and sizes you actually stock, cutting and seasoning services, ready furniture ranges with real photographs, doors and frames made to order, delivery area, licence and GST details you hold, and named people to call. An enquiry form asking for item, size, quantity and site location means each lead arrives ready for a quote.",
-        "A trade catalogue site begins at ₹10,000. We never claim a forest department permission, certification or client name that you cannot show in writing. For firms that want to be found on every product and size, a 700+ page SEO site begins at ₹20,000. More on this at our <a href=\"/services/web-development/\">web development page</a>.",
+        "A trade catalogue site begins at ₹10,000. We never claim a forest department permission, certification or client name that you cannot show in writing. For firms that want to be found on every product and size, a 299+ page SEO site begins at ₹20,000. More on this at our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
     {
@@ -173,7 +173,7 @@ const dhamtari: CityContent = {
       ],
       list: [
         "Static site of up to 100 pages: ₹10,000 onwards, roughly 1–2 weeks",
-        "SEO site with 700+ pages: ₹20,000 onwards, roughly 3–5 weeks",
+        "SEO site with 299+ pages: ₹20,000 onwards, roughly 3–5 weeks",
         "Android and iOS app: ₹40,000 onwards",
         "AI or WhatsApp bot: ₹40,000 onwards, roughly 2–4 weeks",
         "UPI ecommerce shop: ₹50,000 onwards, roughly 4–8 weeks",
@@ -228,7 +228,7 @@ const dhamtari: CityContent = {
     {
       question: "What is the website cost in Dhamtari?",
       answer:
-        "Our basic websites begin at ₹10,000. For more, a 700+ page SEO site begins at ₹20,000, a UPI store at ₹50,000 and custom software at ₹60,000. What you finally pay follows the scope you choose, and every item appears in a written quote before you are asked for any money.",
+        "Our basic websites begin at ₹10,000. For more, a 299+ page SEO site begins at ₹20,000, a UPI store at ₹50,000 and custom software at ₹60,000. What you finally pay follows the scope you choose, and every item appears in a written quote before you are asked for any money.",
     },
     {
       question: "Do you build Android and iOS apps for Dhamtari businesses?",
@@ -238,7 +238,7 @@ const dhamtari: CityContent = {
     {
       question: "How many days does a Dhamtari website take?",
       answer:
-        "Around ten days for a straightforward site, counted from when your photos and text reach us. A 700+ page SEO build needs three to five weeks, an online shop one to two months and custom software up to three months. Waiting for content is what usually pushes launch dates back.",
+        "Around ten days for a straightforward site, counted from when your photos and text reach us. A 299+ page SEO build needs three to five weeks, an online shop one to two months and custom software up to three months. Waiting for content is what usually pushes launch dates back.",
     },
     {
       question: "Who is the best IT services team in Dhamtari?",

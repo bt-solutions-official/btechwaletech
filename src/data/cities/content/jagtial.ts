@@ -35,7 +35,7 @@ const jagtial: CityContent = {
     pills: ["Websites from ₹10,000", "Telugu and English pages", "Trader and mill websites", "Hospital and clinic pages", "WhatsApp replies and lead logs"],
   },
   quickAnswer:
-    "A static website for a Jagtial business starts from ₹10,000 with us and is usually live in one to two weeks. A 700+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely without a Jagtial office, and you get five months of free maintenance after launch.",
+    "A static website for a Jagtial business starts from ₹10,000 with us and is usually live in one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely without a Jagtial office, and you get five months of free maintenance after launch.",
   snapshot: [
     { label: "Role", value: "Headquarters of Jagtial district, with revenue divisions at Jagtial, Korutla and Metpally and 18 mandals" },
     { label: "Location", value: "About 190 km north of Hyderabad, on NH 61, NH 63 and NH 563, with the Godavari along the district's edge" },
@@ -74,12 +74,12 @@ const jagtial: CityContent = {
       heading: "Website costs in Jagtial and what to look for in a quote",
       paragraphs: [
         "Website quotes in and around Jagtial range widely, and the cheapest option is often the costliest in the long run. Before comparing, ask whether the domain will be in your name, whether you can change prices and photos yourself, whether Google profile and search basics are included, and what changes cost after launch.",
-        "Our figures are on the <a href=\"/pricing/\">pricing page</a>, and each is a starting price. A static site of up to 100 pages, suitable for most shops, clinics, schools, traders and small firms, starts from ₹10,000 and takes one to two weeks. A 700+ page SEO website planned around real searches starts from ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts from ₹40,000, online stores from ₹50,000, custom software from ₹60,000 and monthly SEO from ₹10,000 a month.",
+        "Our figures are on the <a href=\"/pricing/\">pricing page</a>, and each is a starting price. A static site of up to 100 pages, suitable for most shops, clinics, schools, traders and small firms, starts from ₹10,000 and takes one to two weeks. A 299+ page SEO website planned around real searches starts from ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts from ₹40,000, online stores from ₹50,000, custom software from ₹60,000 and monthly SEO from ₹10,000 a month.",
         "The final number depends on scope. A hospital with twelve departments and doctor profiles is more work than a pharmacy. Telugu and English versions, online payments and booking forms each add time. Every item appears separately in the quote, so you can remove what you do not need.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form, map and search basics.",
-        "<strong>From ₹20,000:</strong> 700+ pages for hospitals, schools, institutes and traders with wide product lists.",
+        "<strong>From ₹20,000:</strong> 299+ pages for hospitals, schools, institutes and traders with wide product lists.",
         "<strong>From ₹50,000:</strong> an online store with cart, UPI and card payments.",
         "<strong>From ₹60,000:</strong> custom tools for mills, cold storages and distributors.",
       ],
@@ -228,7 +228,7 @@ const jagtial: CityContent = {
     {
       question: "What does a website cost in Jagtial?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices. Your written quote depends on pages, features and content, and nothing is billed before your approval.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices. Your written quote depends on pages, features and content, and nothing is billed before your approval.",
     },
     {
       question: "Jagtial lo website cheyinchukovadaniki entha kharchu avutundi?",
@@ -263,7 +263,7 @@ const jagtial: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve. Most delays come from waiting for photos and text, so we draft the content for you to correct.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve. Most delays come from waiting for photos and text, so we draft the content for you to correct.",
     },
     {
       question: "What can WhatsApp automation do for my business?",

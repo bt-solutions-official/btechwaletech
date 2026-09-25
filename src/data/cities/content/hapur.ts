@@ -35,7 +35,7 @@ const hapur: CityContent = {
     pills: ["Sites from ₹10,000", "B2B product catalogues", "Hindi and English pages", "Bulk enquiry to WhatsApp", "Stores for home textiles"],
   },
   quickAnswer:
-    "A website for a Hapur business starts at ₹10,000 with us and takes one to two weeks. A 700+ page SEO site for a manufacturer or trader starts at ₹20,000, an online store at ₹50,000 and WhatsApp automation at ₹40,000. We are a remote team with no Hapur office, and maintenance is free for five months after launch.",
+    "A website for a Hapur business starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO site for a manufacturer or trader starts at ₹20,000, an online store at ₹50,000 and WhatsApp automation at ₹40,000. We are a remote team with no Hapur office, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Location", value: "About 60 km east of New Delhi in the National Capital Region, on National Highway 9 between Delhi and Moradabad" },
     { label: "District", value: "Hapur district, formed in 2011 as Panchsheel Nagar and renamed in 2012; the smallest district in Uttar Pradesh" },
@@ -74,12 +74,12 @@ const hapur: CityContent = {
       heading: "What a website costs for a Hapur business",
       paragraphs: [
         "Prices you hear in Hapur range from ₹2,000 for a site built on a free template to ₹50,000 or more from Delhi or Noida agencies. The cheap option often has no search setup and the domain sits in the developer's account. The expensive one usually pays for office space and sales staff in the NCR.",
-        "Our figures are published. A static website for a shop, clinic, school or small firm starts at <strong>₹10,000</strong> and is usually live in one to two weeks. A 700+ page site with product and category pages built around buyer searches starts at <strong>₹20,000</strong> and takes three to five weeks. An online store with UPI checkout begins at <strong>₹50,000</strong>, automation at <strong>₹40,000</strong> and custom software such as a dealer portal at <strong>₹60,000</strong>. Monthly SEO is from ₹10,000. All of it is on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our figures are published. A static website for a shop, clinic, school or small firm starts at <strong>₹10,000</strong> and is usually live in one to two weeks. A 299+ page site with product and category pages built around buyer searches starts at <strong>₹20,000</strong> and takes three to five weeks. An online store with UPI checkout begins at <strong>₹50,000</strong>, automation at <strong>₹40,000</strong> and custom software such as a dealer portal at <strong>₹60,000</strong>. Monthly SEO is from ₹10,000. All of it is on our <a href=\"/pricing/\">pricing page</a>.",
         "These are starting points. A tube manufacturer with forty sizes and grades needs more pages than a coaching centre with four courses. You receive a written quote naming every page and feature, and we bill nothing until you approve it.",
       ],
       list: [
         "<strong>Starter site from ₹10,000:</strong> up to 100 pages, mobile layout, map, WhatsApp button and basic SEO.",
-        "<strong>Product catalogue site from ₹20,000:</strong> 700+ pages for products, grades, sizes and applications.",
+        "<strong>Product catalogue site from ₹20,000:</strong> 299+ pages for products, grades, sizes and applications.",
         "<strong>Online store from ₹50,000:</strong> products, variants, UPI and card payments, shipping and order alerts.",
         "<strong>Dealer or order portal from ₹60,000:</strong> logins, rate lists, repeat orders and outstanding balances.",
       ],
@@ -212,12 +212,12 @@ const hapur: CityContent = {
     {
       question: "How much does a website cost in Hapur?",
       answer:
-        "Our static business sites start at ₹10,000, 700+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. Hapur quotes range from about ₹2,000 to over ₹50,000, so check what is included: search setup, domain in your name and support after launch.",
+        "Our static business sites start at ₹10,000, 299+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. Hapur quotes range from about ₹2,000 to over ₹50,000, so check what is included: search setup, domain in your name and support after launch.",
     },
     {
       question: "Hapur me factory ki website banwane me kitna kharcha aata hai?",
       answer:
-        "Chhoti factory ya dukaan ki website ₹10,000 se shuru hoti hai. Agar aapko products, sizes aur grades ke alag pages chahiye to 700+ page wali SEO website ₹20,000 se shuru hoti hai. Kaam shuru karne se pehle har page ka likhit quote milta hai aur aapki manzoori ke bina koi payment nahi.",
+        "Chhoti factory ya dukaan ki website ₹10,000 se shuru hoti hai. Agar aapko products, sizes aur grades ke alag pages chahiye to 299+ page wali SEO website ₹20,000 se shuru hoti hai. Kaam shuru karne se pehle har page ka likhit quote milta hai aur aapki manzoori ke bina koi payment nahi.",
     },
     {
       question: "Do you have an office in Hapur?",
@@ -247,7 +247,7 @@ const hapur: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "Static sites usually take one to two weeks, 700+ page SEO sites three to five weeks, online stores four to eight weeks and custom applications six to twelve. Delays mostly come from waiting for photos and product details, so we draft content for you to correct.",
+        "Static sites usually take one to two weeks, 299+ page SEO sites three to five weeks, online stores four to eight weeks and custom applications six to twelve. Delays mostly come from waiting for photos and product details, so we draft content for you to correct.",
     },
     {
       question: "What can WhatsApp automation do for my business?",

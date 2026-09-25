@@ -39,7 +39,7 @@ const sheikhpura: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first local SEO", "Crusher dispatch registers", "Your name on every account"],
   },
   quickAnswer:
-    "For Sheikhpura and Barbigha businesses we build websites from ₹10,000, usually live within two weeks, and Android and iOS apps from ₹40,000. AI or WhatsApp automation also starts at ₹40,000, SEO sites of 700+ pages at ₹20,000 and online stores at ₹50,000. We are a remote team with no Sheikhpura office; domain, code and accounts stay in your name.",
+    "For Sheikhpura and Barbigha businesses we build websites from ₹10,000, usually live within two weeks, and Android and iOS apps from ₹40,000. AI or WhatsApp automation also starts at ₹40,000, SEO sites of 299+ pages at ₹20,000 and online stores at ₹50,000. We are a remote team with no Sheikhpura office; domain, code and accounts stay in your name.",
   snapshot: [
     { label: "Where it is", value: "Headquarters of Sheikhpura district in south Bihar, bordered by Nalanda, Lakhisarai, Nawada and Jamui, with Patna district to the north-west" },
     { label: "District formed", value: "Separated from Munger district on 31 July 1994; the town itself is traced to the Sufi saint Hazrat Makhdum Shah Shoeb about six centuries ago" },
@@ -157,7 +157,7 @@ const sheikhpura: CityContent = {
       id: "website-cost-sheikhpura",
       heading: "Website cost in Sheikhpura: starting prices and what to ask",
       paragraphs: [
-        "Here is where our work starts. A static website of up to 100 pages begins at ₹10,000 and takes one to two weeks. An SEO website of 700 pages or more begins at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation, which usually runs two to four weeks. Ecommerce stores start at ₹50,000, custom web apps and software at ₹60,000, and monthly SEO at ₹10,000 a month.",
+        "Here is where our work starts. A static website of up to 100 pages begins at ₹10,000 and takes one to two weeks. An SEO website of 299 pages or more begins at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation, which usually runs two to four weeks. Ecommerce stores start at ₹50,000, custom web apps and software at ₹60,000, and monthly SEO at ₹10,000 a month.",
         "The <strong>website cost in Sheikhpura</strong> quoted by different people varies widely, so compare the details rather than the headline figure. Ask whose name the domain and hosting will sit in, whether Hindi pages cost extra, how many rounds of changes are included, who writes the text and takes photographs, what support follows launch and whether the Google Business Profile is part of the job. Ask to see two live sites they built more than a year ago.",
         "Our written, itemised estimate usually reaches you within about two working days. Every figure in it is a starting point tied to the scope listed, and no bill is raised until you approve. The <a href=\"/pricing/\">pricing page</a> has the complete list.",
       ],

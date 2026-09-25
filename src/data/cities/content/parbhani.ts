@@ -35,7 +35,7 @@ const parbhani: CityContent = {
     pills: ["Sites from ₹10,000", "Marathi, Hindi and English", "Agri dealer catalogues", "Clinic appointment flows", "WhatsApp order logging"],
   },
   quickAnswer:
-    "A simple business website in Parbhani starts at ₹10,000 with us and goes live in one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote team of three engineers with no Parbhani office, and maintenance is free for five months after launch.",
+    "A simple business website in Parbhani starts at ₹10,000 with us and goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote team of three engineers with no Parbhani office, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Regional role", value: "Headquarters of Parbhani district in Marathwada, with nine talukas including Purna, Sailu, Pathri, Jintur and Gangakhed" },
     { label: "Farm economy", value: "Cotton, soybean, tur, jowar and sugarcane; the local economy depends largely on agriculture and agribusiness" },
@@ -73,7 +73,7 @@ const parbhani: CityContent = {
       heading: "Website prices for Parbhani businesses, stated plainly",
       paragraphs: [
         "Website quotes in Parbhani vary from a couple of thousand rupees for a template page to agency proposals from Aurangabad or Pune that run many times higher. Cheap offers often leave out search setup and register the domain under the developer; expensive ones include overheads that a Parbhani dealer or clinic does not need. Our rates are listed on the <a href=\"/pricing/\">pricing page</a>.",
-        "A static website of up to 100 pages, with mobile layout, enquiry form, map and basic search setup, starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site with separate pages for each product, crop category, department or course starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, WhatsApp and AI automation at ₹40,000, custom web applications at ₹60,000, and monthly SEO at ₹10,000.",
+        "A static website of up to 100 pages, with mobile layout, enquiry form, map and basic search setup, starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site with separate pages for each product, crop category, department or course starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, WhatsApp and AI automation at ₹40,000, custom web applications at ₹60,000, and monthly SEO at ₹10,000.",
         "A bilingual or trilingual site takes a little longer to write and check, and a dealer listing two hundred products needs more work than a single clinic. We send an itemised quote in about two working days, and you pay nothing until you approve it in writing.",
       ],
       list: [
@@ -211,7 +211,7 @@ const parbhani: CityContent = {
     {
       question: "How much does a website cost in Parbhani?",
       answer:
-        "With us a static website starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. When you compare other Parbhani quotes, check whether the domain and hosting will be in your name and whether search setup and after-launch support are included.",
+        "With us a static website starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. When you compare other Parbhani quotes, check whether the domain and hosting will be in your name and whether search setup and after-launch support are included.",
     },
     {
       question: "Parbhani madhye website banvayla kiti kharch yeto?",

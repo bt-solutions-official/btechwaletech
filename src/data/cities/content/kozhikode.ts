@@ -34,7 +34,7 @@ const kozhikode: CityContent = {
     pills: ["Sites from ₹10,000", "Malayalam and English SEO", "Food and footwear stores", "WhatsApp automation", "Full ownership"],
   },
   quickAnswer:
-    "A website for a Kozhikode business starts at ₹10,000 with us and is usually live in one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store for halwa, spices or footwear at ₹50,000 and a custom web app at ₹60,000. We work remotely in Malayalam and English, you own everything and maintenance is free for five months.",
+    "A website for a Kozhikode business starts at ₹10,000 with us and is usually live in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store for halwa, spices or footwear at ₹50,000 and a custom web app at ₹60,000. We work remotely in Malayalam and English, you own everything and maintenance is free for five months.",
   snapshot: [
     { label: "Trade centre", value: "The main commercial city of north Kerala, with S.M. Street (Mittai Theruvu) and Valiyangadi as its historic markets" },
     { label: "Industry", value: "A major non-leather footwear manufacturing hub, plus timber along the Kallai river and roof tiles at Feroke" },
@@ -72,12 +72,12 @@ const kozhikode: CityContent = {
       heading: "Website costs in Kozhikode, published in advance",
       paragraphs: [
         "Kozhikode has plenty of website designers, and quotes range from a few thousand rupees to amounts that match Kochi agencies. Cheap offers often leave the domain in the developer's name; expensive ones sometimes pay for features you will never use. Our prices are published so you can compare fairly.",
-        "A basic business website of up to 100 pages starts at <strong>₹10,000</strong> and takes one to two weeks. A 700+ page SEO site with separate pages for each product, service or location starts at <strong>₹20,000</strong> and takes three to five weeks. AI and WhatsApp automation begins at ₹40,000, an online store with UPI and card payments at ₹50,000, and custom web applications at ₹60,000. Monthly SEO is from ₹10,000. See our <a href=\"/pricing/\">pricing page</a> for the details of each plan.",
+        "A basic business website of up to 100 pages starts at <strong>₹10,000</strong> and takes one to two weeks. A 299+ page SEO site with separate pages for each product, service or location starts at <strong>₹20,000</strong> and takes three to five weeks. AI and WhatsApp automation begins at ₹40,000, an online store with UPI and card payments at ₹50,000, and custom web applications at ₹60,000. Monthly SEO is from ₹10,000. See our <a href=\"/pricing/\">pricing page</a> for the details of each plan.",
         "The final cost depends on the number of pages and products, whether you need both Malayalam and English, and features such as payments, bookings or logins. We send an itemised quote in about two working days and bill nothing until you give written approval.",
       ],
       list: [
         "<strong>Starter site, from ₹10,000:</strong> clinics, consultants, cafés and small shops.",
-        "<strong>SEO site, from ₹20,000:</strong> 700+ pages for hospitals, schools and traders.",
+        "<strong>SEO site, from ₹20,000:</strong> 299+ pages for hospitals, schools and traders.",
         "<strong>Online store, from ₹50,000:</strong> halwa, spices, footwear and textiles with UPI checkout.",
         "<strong>Custom web app, from ₹60,000:</strong> dealer portals, booking systems and dashboards.",
       ],
@@ -219,12 +219,12 @@ const kozhikode: CityContent = {
     {
       question: "How much does a website cost in Kozhikode?",
       answer:
-        "Our basic websites start at ₹10,000 and 700+ page SEO sites at ₹20,000. Online stores start at ₹50,000 and custom web applications at ₹60,000. When comparing quotes in Kozhikode or Calicut, check who owns the domain and hosting and what support is included after launch.",
+        "Our basic websites start at ₹10,000 and 299+ page SEO sites at ₹20,000. Online stores start at ₹50,000 and custom web applications at ₹60,000. When comparing quotes in Kozhikode or Calicut, check who owns the domain and hosting and what support is included after launch.",
     },
     {
       question: "Kozhikode il oru website undakkan ethra chilavakum?",
       answer:
-        "Oru cheriya business website ₹10,000 muthal thudangum, randu aazhchakkullil ready aakum. 700+ page ulla SEO website ₹20,000 muthal aanu. Online store ₹50,000 muthal. Pani thudangunnathinu munpu ezhuthi itemised quote tharum, ningal sammathikkathe bill cheyyilla.",
+        "Oru cheriya business website ₹10,000 muthal thudangum, randu aazhchakkullil ready aakum. 299+ page ulla SEO website ₹20,000 muthal aanu. Online store ₹50,000 muthal. Pani thudangunnathinu munpu ezhuthi itemised quote tharum, ningal sammathikkathe bill cheyyilla.",
     },
     {
       question: "Do you have an office in Kozhikode?",

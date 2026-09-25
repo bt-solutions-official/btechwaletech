@@ -1,0 +1,503 @@
+import { inr, usd } from "@data/countries/international";
+import type { FreelanceContent } from "@data/freelance/types";
+
+const P = {
+  site: inr("Static"), siteUsd: usd("Static"), seoSite: inr("SEO website"), seoSiteUsd: usd("SEO website"),
+  shop: inr("Ecommerce"), shopUsd: usd("Ecommerce"), app: inr("Android"), appUsd: usd("Android"),
+  software: inr("Custom web app"), softwareUsd: usd("Custom web app"), ai: inr("AI automation"), aiUsd: usd("AI automation"),
+  seo: inr("Monthly SEO"), seoUsd: usd("Monthly SEO"), care: inr("Maintenance"), careUsd: usd("Maintenance"),
+};
+
+const content: FreelanceContent = {
+  path: "/3d-website-design/",
+  crumb: "3D website design",
+  updated: "2026-09-25",
+  meta: {
+    title: `3D Website Design: Spline & Three.js from ${P.site}`,
+    description: `3D website design for brands, real-estate launches and products, from ${P.site}. Honest price bands, Spline vs Three.js, mobile speed and SEO trade-offs.`,
+    keywords: [
+      "3d website design", "3d website designer", "3d website development", "3d website design cost", "3d website design price in India",
+      "how much does a 3d website cost", "3d website design company alternative", "3d website freelancer", "immersive website design",
+      "interactive 3d website", "3d hero section", "scroll storytelling website", "spline website design", "three.js website developer",
+      "spline vs three.js", "webgl website design", "3d website for real estate", "3d website for product launch", "3d product viewer website",
+      "is a 3d website bad for seo", "do 3d websites slow down mobile", "3d website design near me", "3d website design Mumbai",
+      "3d website design Bengaluru", "3d website design Pune", "3d website kaise banaye", "3d landing page design",
+    ],
+  },
+  hero: {
+    eyebrow: "Spline · Three.js · WebGL · glTF",
+    h1: "3D website design that earns its load time: priced honestly, built to sell",
+    lede: `3D website design makes sense when the thing you sell is hard to understand from photos: a tower that is not built yet, a product with parts that move, a material that changes under light. We are three freelance developers in India who build 3D hero sections, scroll-driven stories and product viewers with Spline or Three.js, and we tell you plainly when a flat page would convert better. Sites with a 3D section start at ${P.site} (${P.siteUsd}); fully custom WebGL experiences start at ${P.software}. See the <a href='#3d-cost-bands'>price bands</a> before you brief anyone.`,
+    pills: ["3D hero sections", "Scroll-driven storytelling", "Product and floor-plan viewers", "Spline or Three.js, chosen per brief", "Mobile fallback included", "Crawlable HTML text", "Reduced-motion support"],
+    origin: "Three freelance developers in India · WhatsApp replies 7 days a week, IST",
+  },
+  facts: [
+    ["Website with a 3D hero from", `${P.site} · ${P.siteUsd}`],
+    ["3D product viewer in a store from", `${P.shop} · ${P.shopUsd}`],
+    ["Custom Three.js experience from", `${P.software} · ${P.softwareUsd}`],
+    ["Tools", "Spline, Three.js, model-viewer, GSAP"],
+    ["Model format we ship", "glTF / GLB, compressed"],
+    ["After launch", "5 months of free maintenance"],
+  ],
+  stats: [
+    { value: "3", label: "Developers who scope, build and test your 3D pages" },
+    { value: "2", label: "Working days from brief to itemised quote" },
+    { value: "5", label: "Months of free fixes after launch" },
+    { value: "0", label: "Platform commission on your project" },
+  ],
+  answer: {
+    heading: "What does 3D website design cost, and is it worth it?",
+    text: `3D website design is worth it when buyers need to see shape, scale or movement to decide: off-plan property, engineered products, furniture, jewellery or a launch built around one object. A site with one 3D hero section starts at ${P.site}; a 3D product viewer inside an online store starts at ${P.shop}; a fully custom Three.js experience starts at ${P.software}. Price depends mostly on the models, interactions and mobile fallback.`,
+    more: `Motion without real 3D may be enough: compare with <a href='/animated-website-design/'>animated website design</a>. Need a configurator where buyers change colours and parts? See <a href='/3d-product-configurator/'>3D product configurator</a>.`,
+  },
+  snapshot: {
+    caption: "3D website design at a glance",
+    rows: [
+      { label: "Best for", value: "Off-plan real estate, products with moving parts, launches, premium brands" },
+      { label: "Weak fit", value: "Service businesses, clinics, blogs, local shops that sell on trust and speed" },
+      { label: "Lightweight option", value: "Spline scene in the hero, rest of the page normal HTML" },
+      { label: "Heavy option", value: "Custom Three.js scene with scroll timeline and shaders" },
+      { label: "Mobile plan", value: "Lighter model, capped pixel ratio, or a still image fallback" },
+      { label: "SEO plan", value: "All selling text in HTML, never only inside the canvas" },
+      { label: "Typical timeline", value: "2 to 8 weeks depending on models and interactions" },
+    ],
+  },
+  services: {
+    eyebrow: "What we build",
+    heading: "3D website design work, from one hero scene to a full experience",
+    note: "Each card is a scope we quote separately, so you can start small and add depth later.",
+    cards: [
+      { name: "3D hero section", note: "One interactive scene above the fold that reacts to cursor or tilt, with normal HTML headline, buttons and copy around it so the page still reads well if the scene loads late.", href: "/landing-page-developer/", size: "lg" },
+      { name: "Scroll storytelling", note: "A product or building that rotates, opens up or explodes into parts as the visitor scrolls, with text panels pinned alongside each stage of the story.", href: "/animated-website-design/", size: "lg" },
+      { name: "Product viewer", note: "Rotate, zoom and view-in-your-room on product pages, using a compressed GLB model and an AR option on supported phones.", href: "/3d-product-configurator/", size: "md" },
+      { name: "Real-estate walkthroughs", note: "Massing model of the tower, clickable floors, unit plans in 3D and a sun-path view, next to the RERA details the page must show.", href: "/real-estate-website-developer/", size: "md" },
+      { name: "Custom Three.js builds", note: "Shaders, particles, physics or data-driven scenes when a no-code tool cannot do what the brief needs.", href: "/hire-threejs-developer/", size: "md" },
+      { name: "3D inside Webflow or WordPress", note: "Spline or Three.js scenes embedded in a CMS site your team edits, so the 3D part stays fixed and the content stays editable.", href: "/figma-to-webflow/", size: "sm" },
+      { name: "Speed rescue for 3D pages", note: "An existing 3D site that feels heavy: we trim models, textures and scripts and fix the loading order.", href: "/website-speed-optimization-freelancer/", size: "sm" },
+      { name: "Launch-day landing pages", note: "A single 3D launch page with a waitlist or enquiry form, built to go live on a fixed date.", href: "/landing-page-developer/", size: "sm" },
+    ],
+  },
+  comparison: {
+    heading: "Three ways to get a 3D website built",
+    note: "Pick based on how much of the value sits in the 3D itself, and who will look after the site after launch.",
+    columns: ["Aspect", "Creative 3D studio", "No-code 3D builder or template", "BtechWaleTech"],
+    rows: [
+      ["Strength", "Original art direction and high-end modelling", "Fast start, drag-and-drop scenes", "Developer-led build with speed, SEO and fallback planned"],
+      ["3D models", "Usually modelled in-house", "Whatever the template includes", "Your supplied models, or simple scenes built in Spline"],
+      ["Mobile behaviour", "Varies; showpiece sites can be heavy", "Often same scene for all devices", "Separate mobile budget and still-image fallback"],
+      ["Search visibility", "Depends on the team", "Text often trapped in the scene", "Selling copy kept in crawlable HTML"],
+      ["Editing later", "Often needs the studio again", "Locked to the builder", "Content editable in your CMS; scene files handed over"],
+      ["Code ownership", "Agreed per contract", "Stays on the builder platform", "Code, models and accounts in your name"],
+      ["Best for", "Award-style brand campaigns", "Quick demos and experiments", "Sales pages where 3D has to convert and still load fast"],
+      ["Communication", "Account manager", "Self-serve help docs", "Direct WhatsApp with the three developers"],
+      ["Payment", "Studio retainers or project fees", "Monthly subscription", "Itemised quote, milestones, nothing billed before approval"],
+    ],
+    fine: "If your brief is mainly art direction and photoreal modelling, a specialist 3D studio or artist is the better first hire; we are strongest on the web build around those assets.",
+  },
+  pricing: {
+    heading: "3D website design price bands",
+    note: "Our 3D work sits on top of the normal website plans below. A static site with one Spline or Three.js hero scene starts from the static plan. A store that adds a rotating product viewer starts from the ecommerce plan. A scene with custom shaders, scroll timelines across many sections, or a configurator where buyers change parts is a custom web app and starts from that plan. The biggest swing factors are whether you already have clean 3D models, how many interactive states the scene needs, and how much work goes into the mobile version. Your quote lists each of these separately, so you can drop an item and see the price change.",
+  },
+  guideLabel: "3D website design guide",
+  guide: [
+    {
+      id: "what-is-3d-website-design",
+      heading: "What is 3D website design, and what counts as “3D”?",
+      paragraphs: [
+        `3D website design means a page that renders real three-dimensional objects in the browser, so the visitor can rotate, zoom or scroll through them, instead of looking at flat photos or a video. The rendering usually happens through WebGL, drawn onto a <code>canvas</code> element by a library such as Three.js or a tool such as Spline.`,
+        `Plenty of things get called 3D that are not. A parallax background, a tilted card on hover or a pre-rendered video of a product spinning all look three-dimensional but are flat media. They are cheaper, lighter and sometimes the smarter choice. Real 3D website design earns its extra cost only when interactivity matters: the visitor chooses the angle, opens the product, walks along the floor plan or changes a finish.`,
+        `On most commercial projects, 3D is one layer of a normal website rather than the whole site. The headline, prices, specifications, enquiry form and legal details stay in ordinary HTML. The 3D scene sits in the hero, in a product gallery or in a scroll section that tells one story. Keeping that split is what lets a 3D site load acceptably, rank in search and stay editable by your team.`,
+      ],
+      list: [
+        "<strong>Real-time 3D:</strong> the model is rendered live in the browser and reacts to the user.",
+        "<strong>Pre-rendered 3D:</strong> a video or image sequence exported from 3D software; no interaction beyond play and scroll.",
+        "<strong>Faux 3D:</strong> CSS perspective, parallax and shadows on flat images.",
+      ],
+    },
+    {
+      id: "when-3d-lifts-conversions",
+      heading: "When does 3D website design actually lift conversions?",
+      paragraphs: [
+        `3D website design helps conversions when it removes a question a buyer would otherwise ask before paying: how big is it, what does it look like from the back, how does the balcony face, what is inside. If the 3D answers a real buying question, it earns its weight. If it only decorates, it usually costs you speed and attention.`,
+        `We have no study to quote you, and you should be wary of anyone who claims a universal uplift percentage for 3D. The honest way to know is to test: run the 3D hero against a strong still image for a few weeks and compare enquiries, not time on page. Time on page often rises with 3D simply because people play with the model.`,
+      ],
+      subs: [
+        { heading: "Strong cases", text: "Off-plan apartments and villas, where the building does not exist yet; machinery, EV parts, drones and gadgets with parts worth exploring; furniture and décor where scale matters; jewellery and watches where light and angle sell; a product launch built around one hero object." },
+        { heading: "Weak cases", text: "Clinics, CA and law practices, coaching institutes, restaurants and most service businesses. Their visitors want trust signals, prices, location and a phone number fast. A 3D scene delays those answers." },
+      ],
+      after: [
+        `If your case sits in between, start with one 3D section on a normal page. Our <a href='/landing-page-developer/'>landing page developer</a> page explains how we set up simple A/B tests around a single hero.`,
+      ],
+    },
+    {
+      id: "when-3d-hurts",
+      heading: "When a flat page beats 3D website design",
+      paragraphs: [
+        `A flat, fast page wins whenever most of your traffic arrives on budget Android phones over mobile data and wants to act quickly. A heavy WebGL scene on a low-memory phone can stutter, heat the device or fail to render at all, and a visitor who sees a blank box leaves.`,
+        `Other warning signs: your team cannot supply accurate models and would be launching with a generic stock object; the page must rank for many informational keywords; your ad landing pages are judged on load speed; or you need the site live in under two weeks. In each case, well-shot photos, a short product video and clear copy will usually do more.`,
+        `There is also a maintenance angle. A 3D scene is a small piece of software. When the product changes colour or the builder revises the elevation, someone has to update the model and re-export it. If nobody on your side will own that, choose a lighter pattern such as a 360° image spin or a looped video.`,
+      ],
+      list: [
+        "Most visitors on entry-level Android phones and slow networks",
+        "No reliable 3D models of the actual product or project",
+        "Page is meant to rank for many long, text-heavy queries",
+        "Deadline shorter than two weeks",
+        "Nobody to update the model when the product changes",
+      ],
+    },
+    {
+      id: "3d-website-design-cost-india",
+      heading: "How much does 3D website design cost in India?",
+      paragraphs: [
+        `With us, 3D website design starts at ${P.site} (${P.siteUsd}) for a website with one 3D hero scene, ${P.shop} (${P.shopUsd}) for an online store with 3D product viewers, and ${P.software} (${P.softwareUsd}) for a custom Three.js experience or configurator. Those are starting points; your quote itemises everything above them.`,
+        `Quotes for 3D work vary widely between freelancers, studios and agencies, and the spread comes from a handful of drivers rather than from the word “3D” itself:`,
+      ],
+      list: [
+        "<strong>Models:</strong> clean, web-ready GLB files cost little to integrate; raw CAD or architectural files need cleanup and decimation; building models from photos or sketches is separate modelling work.",
+        "<strong>Interactivity:</strong> auto-rotate is cheap; hotspots, exploded views, floor selection and colour swaps each add states to design and test.",
+        "<strong>Scroll timeline:</strong> each scroll-driven stage needs camera paths, text sync and mobile tuning.",
+        "<strong>Custom shaders and effects:</strong> glass, liquids, particles and post-processing are developer time, not tool settings.",
+        "<strong>Mobile version:</strong> a lighter model, separate textures and a still fallback are planned work.",
+        "<strong>CMS integration:</strong> embedding scenes into Webflow, WordPress or Shopify so the rest stays editable.",
+      ],
+      after: [
+        `Our full plan list is on the <a href='/pricing/'>pricing page</a>. If your budget is tight, the cheapest high-impact option is usually a single Spline hero on an otherwise normal, fast site.`,
+      ],
+    },
+    {
+      id: "spline-vs-threejs",
+      heading: "Spline vs Three.js: which should your 3D website use?",
+      paragraphs: [
+        `Choose Spline when the scene is simple to moderate, a designer wants to keep editing it visually, and the site runs on Webflow, Framer or a plain HTML build. Choose Three.js when you need fine control over loading, performance, custom shaders, data-driven geometry or complex scroll logic.`,
+        `Spline is a browser-based 3D design tool with its own editor, materials, states and events; scenes can be published to a URL or embedded in a site. That makes iteration fast, and a non-developer can adjust colours and camera angles. The trade-off is less control over exactly what loads and when, which matters most on mobile.`,
+        `Three.js is an open-source JavaScript 3D library released under the MIT licence; its repository describes current builds as including WebGL and WebGPU renderers. Everything is code, so a developer decides the loading order, pixel ratio, level of detail and fallback. It takes longer to build and needs a developer to change later.`,
+        `For product pages, Google’s open-source <code>&lt;model-viewer&gt;</code> web component, released under the Apache 2.0 licence, is often a third option: a simple tag that shows a GLB model with rotate, zoom and AR on supported devices. We compare all three in the table further down this page.`,
+      ],
+      after: [
+        `If you already know you need a code-first build, our <a href='/hire-threejs-developer/'>Three.js developer</a> page covers skills, scope and how we work on longer engagements.`,
+      ],
+    },
+    {
+      id: "3d-patterns",
+      heading: "3D hero, scroll story or product viewer: picking the pattern",
+      paragraphs: [
+        `Most 3D website design briefs fit one of three patterns, and choosing the right one early saves more money than any tool decision.`,
+      ],
+      subs: [
+        { heading: "3D hero section", text: "One scene at the top of the page that responds to the cursor, scroll or phone tilt. It sets the tone and costs least. The headline and call to action sit in HTML over or beside it, so the page works even before the scene has loaded. Good for brand sites, SaaS launches and portfolios." },
+        { heading: "Scroll-driven storytelling", text: "The object changes as the visitor scrolls: a phone rotates to show each feature, a building rises floor by floor, a machine separates into parts with labels. It explains a lot in one page but needs careful pacing, pinned text panels and a mobile version that does not hijack scrolling." },
+        { heading: "Product viewer", text: "A contained box on a product page where buyers rotate, zoom and optionally view the item in their room through AR. It is the most commercially direct pattern because it sits right next to the price and buy button." },
+      ],
+      after: [
+        `You can combine them, but each extra pattern multiplies testing. A launch page usually needs a hero plus one scroll story; a store usually needs only product viewers. For stores, our <a href='/3d-product-configurator/'>3D product configurator</a> page covers the next step up, where buyers change options and see the price update.`,
+      ],
+    },
+    {
+      id: "3d-website-design-real-estate",
+      heading: "3D website design for real-estate projects",
+      paragraphs: [
+        `For a real-estate launch, 3D website design is most useful when the tower or township is still under construction and buyers cannot visit a finished flat. A massing model with clickable floors, 3D unit plans, a sun and view direction per tower and an amenities fly-through answer questions that brochures handle poorly.`,
+        `The model usually starts with your architect. Exports from SketchUp, Revit or 3ds Max are far too heavy for a phone, so we simplify geometry, bake lighting into textures and split the scene so the unit plans load only when someone opens them. Interior walkthroughs rendered by a visualiser can sit alongside as video, which is lighter than a live interior scene.`,
+        `The legal text matters as much as the visuals. Section 11(2) of the Real Estate (Regulation and Development) Act, 2016 requires a promoter’s advertisements to show the project’s registration number and the website address of the state RERA authority. On a 3D project page we keep those details in plain HTML near the enquiry form rather than inside the scene, so they are always visible and readable. Your lawyer should confirm the exact wording for your state.`,
+      ],
+      after: [
+        `For the rest of the site, including listings and lead routing, see our <a href='/real-estate-website-developer/'>real-estate website developer</a> page and <a href='/real-estate-seo-services/'>real-estate SEO services</a>.`,
+      ],
+    },
+    {
+      id: "3d-website-design-product-launch",
+      heading: "3D website design for product launches and D2C brands",
+      paragraphs: [
+        `For a product launch, 3D website design lets you show the product before stock photos exist, and lets buyers inspect it from every angle once it ships. Hardware startups, EV and e-bike makers, audio brands, furniture and décor labels and jewellers get the most from it.`,
+        `The ideal source is the CAD file your product team already has. We convert it to glTF, the royalty-free 3D format maintained by the Khronos Group, which describes it as “the JPEG of 3D”; glTF 2.0 is also published as the international standard ISO/IEC 12113:2022. From the same model we can drive a hero animation, a scroll story on the launch page and a viewer on the product page, so you pay for the asset once.`,
+        `On iPhone and iPad, Apple’s AR Quick Look can show a USDZ version of the model in the buyer’s room from Safari, and Google’s model-viewer component supports AR through WebXR on compatible Android browsers. For furniture and décor, that room view is often more persuasive than the 3D spin itself.`,
+      ],
+      list: [
+        "Launch page: waitlist or pre-order form in HTML, 3D hero above it",
+        "Product page: viewer next to price, AR button on supported phones",
+        "Comparison page: variants shown from the same model with different materials",
+      ],
+      after: [
+        `Selling online as well? Our store builds start at ${P.shop}; product viewers slot into those templates.`,
+      ],
+    },
+    {
+      id: "3d-website-mobile-speed",
+      heading: "Will a 3D website be slow on mobile?",
+      paragraphs: [
+        `It will be if nobody plans for it. A well-built 3D website loads its text and buttons first, then streams the scene, and serves a lighter model or a still image to weaker phones. A badly built one blocks the page until a large model has downloaded.`,
+        `Google’s web.dev guidance defines “good” Core Web Vitals as Largest Contentful Paint within 2.5 seconds, Interaction to Next Paint of 200 milliseconds or less and Cumulative Layout Shift of 0.1 or less, measured at the 75th percentile of page loads. A 3D page can meet those numbers, but only if the largest visible element is HTML or an image rather than a canvas that paints late, and if the scene does not hog the main thread while people tap buttons.`,
+      ],
+      list: [
+        "Reserve the scene’s space with fixed dimensions so nothing jumps when it appears",
+        "Show a poster image instantly; start the scene only when it scrolls into view",
+        "Compress meshes and textures; KTX 2.0 textures with Basis Universal compression reduce download and GPU memory, per the Khronos Group",
+        "Cap device pixel ratio on phones and pause rendering when the tab is hidden",
+        "Detect weak devices and serve the still fallback instead of struggling",
+      ],
+      after: [
+        `If an existing 3D site already fails these checks, our <a href='/core-web-vitals-assessment-failed/'>Core Web Vitals assessment failed</a> page explains how we diagnose it from Search Console data.`,
+      ],
+    },
+    {
+      id: "3d-website-seo",
+      heading: "Is a 3D website bad for SEO?",
+      paragraphs: [
+        `A 3D website is not bad for SEO by itself; hiding your content inside the 3D scene is. Search engines read text, headings and links. Words painted onto a WebGL canvas are pixels, not text, so they cannot be indexed or quoted.`,
+        `Google Search Central explains that Google renders JavaScript pages with a headless Chromium before indexing, but it also notes that not all bots can run JavaScript, and that Google can only discover links that are <code>&lt;a&gt;</code> elements with an <code>href</code>. So on every 3D page we build, the headline, descriptions, specifications, prices, FAQs and navigation are real HTML, and scene hotspots that lead to other pages also exist as normal links.`,
+        `AI search tools follow the same logic. They quote short, self-contained passages under clear headings. A launch page that is only a spinning object gives them nothing to quote; the same page with a plain one-paragraph description of the product and a spec table gives them an answer.`,
+      ],
+      list: [
+        "One H1 in HTML, not inside the scene",
+        "Descriptive alt text on the poster image",
+        "Product or place structured data where it applies",
+        "Fast first paint, so the page is not judged by the 3D load",
+      ],
+      after: [
+        `Nobody can honestly guarantee rankings for a 3D site or any other. Ongoing SEO help starts at ${P.seo} a month through <a href='/services/seo-services/'>our SEO services</a>.`,
+      ],
+    },
+    {
+      id: "3d-accessibility",
+      heading: "Accessibility and motion: keeping 3D usable for everyone",
+      paragraphs: [
+        `Motion that is fun for one visitor can make another feel sick. People with vestibular disorders often switch on a reduced-motion setting on their phone or computer, and MDN documents how a site can read that through the <code>prefers-reduced-motion</code> media query. When it is set to <code>reduce</code>, our 3D pages stop auto-rotation, shorten camera moves and swap scroll-driven animation for simple fades or a still image.`,
+        `WCAG 2.2 success criterion 2.2.2, Pause, Stop, Hide (Level A), asks that moving content which starts automatically, lasts more than five seconds and sits alongside other content can be paused, stopped or hidden. An auto-rotating hero falls under that, so we add a visible pause control.`,
+        `Keyboard and screen-reader users need the same information as everyone else. Every hotspot in a scene has an HTML equivalent: a list of features, a table of unit sizes, or buttons that move the camera and can be reached with the Tab key. Colour contrast still applies to any text over a 3D background.`,
+      ],
+    },
+    {
+      id: "3d-models-prep",
+      heading: "Where 3D models come from and how we prepare them",
+      paragraphs: [
+        `Every 3D website design stands or falls on its models. There are three usual sources, and your quote depends heavily on which one applies.`,
+      ],
+      subs: [
+        { heading: "You already have them", text: "Product CAD files, architect’s exports or a 3D artist’s delivery. We clean up geometry, reduce polygon count, bake lighting, compress textures and export GLB. This is the cheapest and most accurate route." },
+        { heading: "Simple scenes built for the web", text: "Abstract shapes, stylised devices, logos in 3D and simple rooms can be built directly in Spline or in code. We confirm in your quote whether your brief fits this." },
+        { heading: "Detailed modelling from scratch", text: "Photoreal products, full interiors and character work are 3D artist territory. We tell you honestly when that is the case, and work with the artist you hire so the files arrive in a web-ready state." },
+      ],
+      after: [
+        `We agree a download budget for each scene up front and share the exported file sizes during review, so there are no surprises on launch day.`,
+      ],
+    },
+    {
+      id: "3d-website-design-timeline",
+      heading: "How long does a 3D website design project take?",
+      paragraphs: [
+        `A site with one 3D hero typically takes 2 to 3 weeks once models and copy are ready. A launch page with a scroll story takes 3 to 5 weeks. A store with product viewers follows our ecommerce timeline of 4 to 8 weeks, and a custom Three.js experience or configurator usually needs 6 to 12 weeks.`,
+        `The usual cause of delay is not code; it is models. Waiting for a final CAD export, a revised elevation or approved materials can stall the scene while everything else is finished. We therefore build the HTML page and a placeholder scene in parallel, so the site is reviewable from the first week.`,
+      ],
+      list: [
+        "Week 1: brief, model review, scene sketch, HTML page structure",
+        "Week 2: first scene on staging with poster image and mobile fallback",
+        "Middle weeks: interactions, scroll timeline, hotspots, CMS content",
+        "Final week: device testing, speed pass, reduced-motion checks, launch",
+      ],
+      after: [
+        `For platform-by-platform timelines beyond 3D work, see <a href='/how-long-to-build-a-website/'>how long it takes to build a website</a>.`,
+      ],
+    },
+    {
+      id: "choose-3d-website-designer",
+      heading: "How to choose a 3D website designer or developer",
+      paragraphs: [
+        `Choose the person or team who asks about your buyers and your models before they talk about effects. A good 3D website designer will want to know which phones your visitors use, what question the 3D should answer and who will update the scene later.`,
+        `Showreels can mislead. Many award-style 3D sites are built for desktop showcases and are slow or broken on mid-range phones. Open their live work on an ordinary Android phone over mobile data, not on their laptop in a meeting.`,
+      ],
+      list: [
+        "Ask for a live link, not a video capture, of a past 3D page",
+        "Check the page on a mid-range phone and with reduced motion switched on",
+        "View source: is the headline and copy real HTML?",
+        "Ask what happens on a device that cannot run WebGL",
+        "Confirm model files, scene files and code are handed to you",
+        "Get an itemised quote that separates models, interactions and mobile work",
+      ],
+      after: [
+        `Marketplaces such as Upwork and Fiverr list many 3D and WebGL freelancers; vetting them with the same checklist works well. If you are also weighing a no-code route, our <a href='/framer-website-developer/'>Framer website developer</a> page covers where Framer’s built-in effects are enough.`,
+      ],
+    },
+    {
+      id: "3d-ownership-handover",
+      heading: "Who owns the 3D scene, and can your team edit it later?",
+      paragraphs: [
+        `You do. The code, the exported GLB models, the Spline project or Three.js source, the domain and the hosting all sit in your accounts. We work inside them rather than holding anything back on our side.`,
+        `Editing depends on the pattern. Text, prices, specs and FAQs live in your CMS, so your team edits them like any page. Spline scenes can be adjusted by a designer in Spline and republished. Three.js scenes are code; small changes such as a new colour or a swapped model are documented in a short handover note, but larger changes need a developer.`,
+        `The handover pack includes the source models, the web-ready exports, a list of every scene with its file size, and a recorded walk-through of how to replace a model. The first 5 months after launch include free fixes; after that, maintenance starts at ${P.care} (${P.careUsd}). Our <a href='/terms/'>terms</a> set out the general basis of work, and anything specific is agreed in your written quote.`,
+      ],
+    },
+    {
+      id: "3d-worked-example",
+      heading: "Worked example: a 3D launch page for an off-plan tower in Pune",
+      paragraphs: [
+        `This is a hypothetical scenario, not a client story. Say a developer in Pune is launching a single tower of 2 and 3 BHK flats, with sales starting before the structure is up. Buyers keep asking the same things on calls: which side gets morning sun, what the view is from the 14th floor, and how big the balcony really is.`,
+        `The architect supplies a Revit export. We simplify it into a light massing model of the tower and podium, bake daylight into textures and export two GLB files: one for the exterior and one for the unit plans, loaded only when a buyer opens a unit. The page opens with an HTML headline, starting price text supplied by the developer, the RERA registration number and authority website, and a WhatsApp enquiry button. Below it, the tower rotates slowly; tapping a floor highlights it and opens the matching 3D plan with room sizes in an HTML table beside it.`,
+        `On budget phones the tower is replaced by a still render with the same floor buttons. With reduced motion on, rotation stops. The whole build falls within our static plan from ${P.site} plus the itemised model work, over roughly 3 to 4 weeks from receiving the files.`,
+      ],
+    },
+    {
+      id: "3d-website-design-india",
+      heading: "3D website design across India",
+      paragraphs: [
+        `We work remotely with clients across India over WhatsApp and video calls, in English or Hindi. Demand for 3D website design follows what a city makes and sells.`,
+        `Real-estate launches drive most enquiries from <a href='/mumbai/'>Mumbai</a>, <a href='/pune/'>Pune</a>, <a href='/gurgaon/'>Gurgaon</a> and <a href='/hyderabad/'>Hyderabad</a>, where off-plan towers are common. Hardware and deep-tech startups in <a href='/bengaluru/'>Bengaluru</a> want product viewers for launches. Jewellers in <a href='/surat/'>Surat</a> and <a href='/jaipur/'>Jaipur</a> use 3D to show stones under light, engineering exporters in <a href='/coimbatore/'>Coimbatore</a> and <a href='/ludhiana/'>Ludhiana</a> use exploded views for buyers abroad, and villa projects around <a href='/kochi/'>Kochi</a> and <a href='/panaji/'>Panaji</a> use 3D to reach buyers who cannot visit.`,
+        `Across all of these, the same India-specific points apply: many visitors are on mid-range Android phones and mobile data, enquiries arrive on WhatsApp more than through forms, and GST invoices and UPI payments are expected. We plan the mobile fallback and WhatsApp buttons from day one.`,
+      ],
+    },
+    {
+      id: "3d-launch-checklist",
+      heading: "3D website design checklist before launch",
+      paragraphs: [
+        `Run through this before any 3D page goes live. It catches most of the problems we see on 3D sites that were built for a showreel rather than for buyers.`,
+      ],
+      list: [
+        "Headline, copy, prices and forms are HTML and visible before the scene loads",
+        "Poster image shows instantly; the scene starts only when in view",
+        "Each scene has a download budget and the final file sizes are recorded",
+        "Tested on a mid-range Android phone over mobile data, and on an iPhone",
+        "Still-image fallback works when WebGL is unavailable",
+        "Reduced-motion setting stops auto-rotation and scroll animation",
+        "A visible pause control on any motion lasting more than five seconds",
+        "Hotspots have HTML equivalents reachable by keyboard",
+        "Core Web Vitals checked in PageSpeed Insights, then watched in Search Console",
+        "Legal details such as RERA numbers sit in HTML, not inside the scene",
+        "Model and scene source files handed over to your accounts",
+      ],
+      after: [
+        `Moving an older static site to an editable CMS at the same time? Our <a href='/html-to-wordpress-conversion/'>HTML to WordPress conversion</a> and <a href='/figma-to-wordpress/'>Figma to WordPress</a> pages cover that part.`,
+      ],
+    },
+  ],
+  tables: [
+    {
+      id: "3d-cost-bands",
+      eyebrow: "Price bands",
+      heading: "3D website design cost by scope",
+      note: `Starting prices from our <a href='/pricing/'>pricing page</a>. Model cleanup or modelling work is itemised separately in your quote.`,
+      columns: ["Scope", "What it usually includes", "Starts at", "Typical time"],
+      rows: [
+        ["Website with one 3D hero", "Spline or Three.js scene, poster fallback, normal HTML pages", `${P.site} · ${P.siteUsd}`, "2–3 weeks"],
+        ["3D launch page with scroll story", "Hero plus one scroll-driven sequence, waitlist or enquiry form", `${P.site} · ${P.siteUsd}`, "3–5 weeks"],
+        ["Content site with 3D sections", "Large SEO site where key pages carry a 3D block", `${P.seoSite} · ${P.seoSiteUsd}`, "3–5 weeks"],
+        ["Online store with 3D viewers", "Product viewer, AR button on supported phones, checkout", `${P.shop} · ${P.shopUsd}`, "4–8 weeks"],
+        ["Custom Three.js experience", "Shaders, multi-scene scroll, data-driven or configurable scenes", `${P.software} · ${P.softwareUsd}`, "6–12 weeks"],
+        ["Care after the free period", "Model swaps, library updates, speed checks", `${P.care} · ${P.careUsd}`, "Ongoing"],
+      ],
+      hideSm: [1],
+    },
+    {
+      id: "3d-tool-comparison",
+      eyebrow: "Tools",
+      heading: "Spline, Three.js, model-viewer or a video: side by side",
+      note: `Licences as stated by each project: Three.js (MIT) and model-viewer (Apache 2.0). Spline is a commercial tool with its own plans.`,
+      columns: ["Factor", "Spline", "Three.js", "model-viewer", "Pre-rendered video"],
+      rows: [
+        ["Interaction", "States, events, cursor and scroll", "Anything you can code", "Rotate, zoom, AR", "Play and scroll only"],
+        ["Who edits it", "Designer, visually", "Developer, in code", "Swap the GLB file", "Re-render in 3D software"],
+        ["Control over loading", "Limited", "Full", "Good, with poster and lazy load", "Standard video loading"],
+        ["Best use", "Hero scenes on Webflow or Framer", "Scroll stories, configurators, effects", "Product pages", "Budget launches, slow audiences"],
+        ["Mobile risk", "Medium", "Low to high, depends on build", "Low", "Low"],
+        ["AR in the room", "No built-in web AR", "Possible with WebXR work", "Yes on supported devices", "No"],
+        ["Build effort", "Low to medium", "Medium to high", "Low", "Depends on the render"],
+      ],
+      hideSm: [4],
+    },
+    {
+      id: "3d-performance-budget",
+      eyebrow: "Performance",
+      heading: "Mobile performance targets for a 3D page",
+      note: `Core Web Vitals thresholds are from Google’s web.dev guidance; the rest are the working targets we set with you before building.`,
+      columns: ["Check", "Target", "Why it matters"],
+      rows: [
+        ["Largest Contentful Paint", "2.5 s or less at the 75th percentile", "Google’s “good” threshold; keep the largest element HTML or an image"],
+        ["Interaction to Next Paint", "200 ms or less", "Scene rendering must not block taps on buttons and forms"],
+        ["Cumulative Layout Shift", "0.1 or less", "Reserve the canvas size so content does not jump"],
+        ["Scene start", "Only when scrolled into view", "Saves data for visitors who never reach it"],
+        ["Pixel ratio on phones", "Capped", "High ratios multiply GPU work on small screens"],
+        ["Weak devices", "Still-image fallback", "A blank canvas loses the visitor"],
+        ["Reduced motion", "Auto-rotation and scroll animation off", "Respects the device setting documented by MDN"],
+      ],
+    },
+  ],
+  areas: {
+    eyebrow: "Across India",
+    heading: "3D website design for businesses in these cities",
+    note: "We work remotely with every city below; there are no site visits, and all reviews happen on staging links and video calls.",
+    cards: [
+      { name: "3D real-estate websites in Mumbai", note: "Redevelopment projects and high-rise launches where buyers compare sea views, floor heights and carpet areas before a single flat is ready to visit.", href: "/mumbai/" },
+      { name: "3D launch pages in Bengaluru", note: "Hardware, drone, robotics and consumer-tech startups that need to show a product from every side on launch day, often before final photography exists.", href: "/bengaluru/" },
+      { name: "3D tower walkthroughs in Pune", note: "Township and tower developers selling off-plan to IT professionals who research online, compare unit plans and expect to see sun direction and views.", href: "/pune/" },
+      { name: "3D project sites in Gurgaon", note: "Luxury residential and commercial office launches where brokers share a single link on WhatsApp and the 3D model does the first site visit.", href: "/gurgaon/" },
+      { name: "3D real-estate pages in Hyderabad", note: "Gated communities and high-rise projects on the western side of the city where buyers want to compare towers, amenities and floor plans remotely.", href: "/hyderabad/" },
+      { name: "3D jewellery viewers in Surat", note: "Diamond cutting and polishing businesses and jewellery exporters who want buyers abroad to see stones and settings rotate under light before ordering.", href: "/surat/" },
+      { name: "3D jewellery and décor sites in Jaipur", note: "Gem traders, jewellers and handicraft exporters showing pieces in 3D to overseas buyers, where detail and finish decide whether an enquiry is sent.", href: "/jaipur/" },
+      { name: "3D product pages in Chennai", note: "Automotive component makers and manufacturers explaining assemblies to international buyers with exploded views instead of long PDF catalogues.", href: "/chennai/" },
+      { name: "3D exploded views in Coimbatore", note: "Pump, motor and textile machinery makers who need buyers to understand internal parts and fittings without shipping a sample first.", href: "/coimbatore/" },
+      { name: "3D catalogues in Ludhiana", note: "Bicycle, auto-part and machinery manufacturers showing export buyers component details and variants from one set of models.", href: "/ludhiana/" },
+      { name: "3D villa showcases in Kochi", note: "Villa and apartment projects marketed to Keralite families working in the Gulf, who shortlist homes online long before they can fly in to visit.", href: "/kochi/" },
+      { name: "3D holiday-home sites in Panaji", note: "Holiday villas and boutique stays around Goa where a 3D walkthrough of the layout and pool area helps investors and guests decide remotely.", href: "/panaji/" },
+      { name: "3D furniture pages in Ahmedabad", note: "Furniture makers and interior brands letting buyers rotate a sofa or wardrobe and check scale in their room using AR on supported phones.", href: "/ahmedabad/" },
+      { name: "3D product showcases in Noida", note: "Electronics and appliance brands with manufacturing in the region that want launch pages showing ports, internals and colour options in 3D.", href: "/noida/" },
+      { name: "3D brand sites in Delhi", note: "Fashion, lifestyle and premium D2C labels using a single 3D hero to stand out in paid campaigns, with the rest of the site kept light and fast.", href: "/delhi/" },
+    ],
+  },
+  process: {
+    heading: "From brief to a live 3D page in six steps",
+    steps: [
+      ["Share the brief and models", "Send references you like, the product or project details, and any CAD, architect or 3D artist files on WhatsApp. Tell us which phones most of your buyers use."],
+      ["Quote with model notes", "Within about two working days you get an itemised quote that separates HTML pages, model cleanup, interactions, mobile fallback and any CMS work. Nothing is billed before you approve it in writing."],
+      ["Scene sketch and download budget", "We agree the pattern (hero, scroll story or viewer), the tool (Spline, Three.js or model-viewer) and a file-size budget for each scene before building."],
+      ["Build on staging", "The HTML page goes up first with a poster image, then the live scene replaces the placeholder. You review on your own phone from the first week."],
+      ["Device, speed and access testing", "We test on mid-range Android and iPhone, with reduced motion on and off, check Core Web Vitals and confirm every hotspot has an HTML equivalent."],
+      ["Launch and hand over", "The site goes live in your hosting, models and source files move to your accounts, and five months of free fixes begin."],
+    ],
+  },
+  faqHeading: "3D website design: questions buyers ask",
+  faqs: [
+    { question: "How much does 3D website design cost in India?", answer: `With us, a website with one 3D hero section starts at ${P.site}, an online store with 3D product viewers starts at ${P.shop}, and a custom Three.js experience or configurator starts at ${P.software}. The final quote depends on whether you have web-ready models, how many interactive states the scene needs and how much work the mobile version needs. Each item is listed separately in the quote.` },
+    { question: "Is a 3D website worth it for a small business?", answer: "Usually only if the product or property is hard to understand from photos. A clinic, consultant or local shop gains more from speed, clear prices and reviews than from a 3D scene. A furniture maker, jeweller or developer selling off-plan flats often gains a lot, because 3D answers questions buyers would otherwise ask on the phone. A single 3D hero is a low-risk way to test it." },
+    { question: "Do 3D websites load slowly on phones?", answer: "They can, but they do not have to. A well-built 3D page shows its text, buttons and a poster image first, starts the scene only when it scrolls into view, uses compressed models and serves a still image to weak devices. Problems come from pages that block everything until a large model has downloaded, or run the same heavy scene on every device." },
+    { question: "Can Google index a 3D website?", answer: "Google can index the HTML parts of a 3D website, and Google Search Central says it renders JavaScript pages before indexing. Anything painted inside a WebGL canvas, though, is pixels rather than text, so it cannot be indexed or quoted. That is why we keep headlines, descriptions, specs, prices and navigation links in normal HTML beside or over the scene." },
+    { question: "Spline or Three.js: which is better for my website?", answer: "Spline suits simple to moderate scenes that a designer wants to keep editing visually, especially on Webflow or Framer sites. Three.js suits projects that need full control over loading, custom shaders, scroll logic or data-driven scenes, and a developer maintains it. For plain product rotation with AR, Google's model-viewer component is often the simplest and lightest choice." },
+    { question: "How long does it take to build a 3D website?", answer: "A site with one 3D hero typically takes 2 to 3 weeks once models and copy are ready, a launch page with a scroll story 3 to 5 weeks, and a custom Three.js experience 6 to 12 weeks. Delays usually come from waiting for final models or revised drawings, so we build the HTML page and a placeholder scene in parallel from week one." },
+    { question: "Do you create the 3D models too?", answer: "We prepare models for the web: cleaning up CAD or architectural exports, reducing polygons, baking lighting, compressing textures and exporting GLB. Simple stylised scenes can be built directly in Spline or code. Photoreal products, full interiors and character work need a 3D artist; we say so in the quote and can work with the artist you hire." },
+    { question: "What files should I send for a 3D website quote?", answer: "Send links to sites you like, a short note on what the 3D should show, and any existing models: product CAD files, architect exports from SketchUp or Revit, or GLB files from a 3D artist. Also tell us which phones your buyers mostly use and your launch date. That is enough for an itemised quote in about two working days." },
+    { question: "Will a 3D website work on cheap Android phones?", answer: "It should still work, but not always with the full scene. We detect weaker devices and serve a lighter model or a still image with the same buttons and information. Many Indian visitors browse on mid-range and entry-level Android phones over mobile data, so we test on that class of device, not only on a laptop and a flagship phone." },
+    { question: "Is 3D website design good for real-estate projects?", answer: "It is one of the strongest uses, especially for off-plan projects where buyers cannot visit a finished flat. Clickable floors, 3D unit plans and a view of sun direction answer common buyer questions. The RERA registration number and state authority website, which Section 11(2) of the RERA Act requires in advertisements, should sit in plain HTML on the page, not inside the scene." },
+    { question: "Can I add 3D to my existing Webflow, WordPress or Shopify site?", answer: "Yes. A Spline scene or a Three.js component can be embedded into an existing Webflow, WordPress or Shopify theme, so the 3D part is fixed while your team keeps editing text and products in the CMS. We check that the embed does not slow down other pages and that it loads only where it is used." },
+    { question: "Freelancer or agency for a 3D website?", answer: "A specialist 3D studio is the better first hire when the brief is mostly art direction and photoreal modelling. A freelance developer team is often the better fit when the models exist and the work is making them load fast, sit inside a real sales page and stay editable. Whoever you pick, check their live work on a mid-range phone." },
+    { question: "Does a 3D website help with AI search visibility?", answer: "The 3D scene itself does not; AI search tools quote text. What helps is the HTML around it: a clear one-paragraph description of the product or project, a spec table, FAQs with direct answers and descriptive headings. A launch page that is only a spinning model gives AI tools nothing to cite, so we always pair the scene with plain written answers." },
+    { question: "Can visitors see the product in their room with AR?", answer: "On supported devices, yes. Apple's AR Quick Look can show a USDZ model from Safari on iPhone and iPad, and Google's model-viewer component supports AR through WebXR on compatible Android browsers. We export both formats from the same source model and show the AR button only where the device supports it." },
+    { question: "How do you make 3D websites accessible?", answer: "We respect the reduced-motion setting on the visitor's device by stopping auto-rotation and scroll animation, add a visible pause control for motion lasting more than five seconds as WCAG 2.2 asks, give every scene hotspot an HTML equivalent reachable by keyboard, and keep text contrast readable over 3D backgrounds. The information never lives only inside the scene." },
+    { question: "Who owns the 3D website and models after launch?", answer: "You do. The domain, hosting, code, Spline project or Three.js source and the exported models all sit in your accounts. We hand over the source models, web-ready files, a list of scenes with their sizes and a recorded walk-through of replacing a model, so another developer could continue the work if needed." },
+    { question: "What happens after the 3D website goes live?", answer: `The first 5 months after launch include free fixes for anything in the agreed scope. After that, maintenance starts at ${P.care} and covers model swaps, library updates and speed checks. Your team edits text, prices and products in the CMS without us; changes to Three.js scenes themselves need a developer.` },
+    { question: "How do I pay for a 3D website project?", answer: "You get an itemised quote first and nothing is billed until you approve it in writing. Payments follow milestones you can see on staging. Clients in India pay by UPI or bank transfer and receive GST invoices where applicable; international clients pay in USD by Wise, bank wire or PayPal. The exact milestone split is written into your quote." },
+    { question: "Do you sign an NDA for an unreleased product launch?", answer: "Ask us when you get in touch. Many launch briefs involve products that are not public yet, and confidentiality terms can be agreed in writing before you share CAD files or launch dates. Our terms page describes the general basis we work on, and anything specific to your launch goes into the written quote." },
+    { question: "Can a 3D website be updated when the product changes?", answer: "Yes, but plan for it. Text, prices and specifications update in the CMS like any other page. A new colour or finish in the model means re-exporting the GLB; in Spline a designer can change materials and republish. Larger changes to Three.js scenes, such as new interactions or a redesigned camera path, need developer time." },
+    { question: "3D website kaise banaye aur kitna kharcha aata hai?", answer: `Pehle tay kariye ki 3D se buyer ka kaunsa sawaal solve hoga, jaise flat ka view ya product ke andar ke parts. Phir apne CAD ya architect ke models bhejiye. Hum Spline ya Three.js mein scene banate hain, text HTML mein rakhte hain aur phone ke liye halka version dete hain. 3D hero wali website ${P.site} se shuru hoti hai.` },
+  ],
+  related: {
+    heading: "Related 3D, motion and design-to-code guides",
+    links: [
+      { name: "Animated website design", href: "/animated-website-design/" },
+      { name: "3D product configurator", href: "/3d-product-configurator/" },
+      { name: "Hire a Three.js developer", href: "/hire-threejs-developer/" },
+      { name: "Figma to Webflow", href: "/figma-to-webflow/" },
+      { name: "Figma to WordPress", href: "/figma-to-wordpress/" },
+      { name: "Convert HTML to WordPress", href: "/html-to-wordpress-conversion/" },
+      { name: "Framer website developer", href: "/framer-website-developer/" },
+      { name: "Real-estate website developer", href: "/real-estate-website-developer/" },
+      { name: "Landing page developer", href: "/landing-page-developer/" },
+      { name: "Core Web Vitals assessment failed", href: "/core-web-vitals-assessment-failed/" },
+      { name: "Website speed optimisation", href: "/website-speed-optimization-freelancer/" },
+      { name: "Web development services", href: "/services/web-development/" },
+      { name: "Starting prices", href: "/pricing/" },
+    ],
+  },
+  cta: {
+    heading: "Send your 3D idea and any models you have",
+    note: "Share reference sites and your CAD or architect files on WhatsApp. In about two working days you get an itemised quote that shows model work, interactions and the mobile fallback as separate lines.",
+  },
+};
+
+export default content;

@@ -35,7 +35,7 @@ const vadodara: CityContent = {
     pills: ["Sites from ₹10,000", "Gujarati and English SEO", "UPI and card stores", "WhatsApp automation", "Custom portals"],
   },
   quickAnswer:
-    "Vadodara businesses can get a static website from us from ₹10,000 and a 700+ page SEO website from ₹20,000, usually within one to five weeks. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote freelance team of three engineers, you own everything, and the first five months of maintenance are free.",
+    "Vadodara businesses can get a static website from us from ₹10,000 and a 299+ page SEO website from ₹20,000, usually within one to five weeks. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote freelance team of three engineers, you own everything, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Business areas", value: "Alkapuri, Sayajigunj, Race Course, Akota, Fatehgunj, and the old-city markets of Mandvi, Raopura and Mangal Bazaar" },
     { label: "Industrial estates", value: "Makarpura GIDC, Nandesari, Waghodia, Savli and Por, with large units such as the Gujarat Refinery at Koyali" },
@@ -65,7 +65,7 @@ const vadodara: CityContent = {
       paragraphs: [
         "Vadodara has a character of its own among Gujarat's big cities. The Gaekwad rulers left it palaces, gardens and a university, and the decades after independence added a refinery, fertiliser and chemical plants, and a deep bench of engineering workshops. Today the city's business is a mix of heavy industry on the outskirts, trading in the old-city markets, professional services in Alkapuri and Race Course, and a large student population drawn by MSU and the private universities around Waghodia.",
         "That mix shapes what a website has to do. An engineering unit's customers are EPC contractors and purchase teams who want specifications. A shop in Mandvi sells to families who want to know what is in stock and whether you deliver. A physiotherapy clinic in Vasna-Bhayli needs to appear when someone nearby searches at night. Most websites we audit in the city were built as if all three were the same customer.",
-        "We begin with the buyer, not the template. Once we know who reads your site and what they must see before they call, the page plan, the language mix and the calls to action follow. Sometimes that points to a lean five-page site; sometimes to 700+ pages built around specific products and neighbourhoods.",
+        "We begin with the buyer, not the template. Once we know who reads your site and what they must see before they call, the page plan, the language mix and the calls to action follow. Sometimes that points to a lean five-page site; sometimes to 299+ pages built around specific products and neighbourhoods.",
       ],
     },
     {
@@ -73,12 +73,12 @@ const vadodara: CityContent = {
       heading: "How much does a website cost in Vadodara?",
       paragraphs: [
         "Vadodara quotes for a small business site can run from ₹3,000 to ₹50,000 and more. The lowest usually means a reused theme, no search groundwork and hosting in the designer's own account. The highest often carries an agency's rent, a sales team and a project manager who relays messages to a developer you never meet.",
-        "We publish our rates instead. A static site of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks. A 700+ page SEO site, built around the terms Baroda customers actually search, starts at ₹20,000 and takes three to five weeks. An online store with UPI and card payments begins at ₹50,000 and needs four to eight weeks. A custom web application such as a dealer portal or job-work tracker starts at ₹60,000 and runs six to twelve weeks. Automation projects start at ₹40,000, and monthly SEO at ₹10,000.",
+        "We publish our rates instead. A static site of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks. A 299+ page SEO site, built around the terms Baroda customers actually search, starts at ₹20,000 and takes three to five weeks. An online store with UPI and card payments begins at ₹50,000 and needs four to eight weeks. A custom web application such as a dealer portal or job-work tracker starts at ₹60,000 and runs six to twelve weeks. Automation projects start at ₹40,000, and monthly SEO at ₹10,000.",
         "Scope decides the rest: number of pages and products, whether we write the content, and what the site has to connect with. Each quote breaks these out line by line, so you can trim before approving.",
       ],
       list: [
         "<strong>₹10,000 upwards:</strong> site of up to 100 pages for clinics, consultants, shops and small offices, with mobile layout, contact form and on-page basics.",
-        "<strong>₹20,000 upwards:</strong> 700+ page site with product or service pages, locality pages, schema and Search Console setup.",
+        "<strong>₹20,000 upwards:</strong> 299+ page site with product or service pages, locality pages, schema and Search Console setup.",
         "<strong>₹50,000 upwards:</strong> online store with catalogue, cart, UPI and card payments, shipping rules and order alerts.",
         "<strong>₹60,000 upwards:</strong> custom web app with logins, roles and dashboards for manufacturers, distributors and institutes.",
       ],
@@ -209,12 +209,12 @@ const vadodara: CityContent = {
     {
       question: "How much does it cost to build a website in Vadodara?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO website from ₹20,000, an online store from ₹50,000 and a custom web application from ₹60,000. Other Baroda quotes vary widely, so compare what is included: SEO basics, ownership of the domain and hosting, and support after launch.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO website from ₹20,000, an online store from ₹50,000 and a custom web application from ₹60,000. Other Baroda quotes vary widely, so compare what is included: SEO basics, ownership of the domain and hosting, and support after launch.",
     },
     {
       question: "Vadodara ma website banavva ketlo kharch thay?",
       answer:
-        "Amara sathe saadi business website ₹10,000 thi sharu thay chhe, ane 700+ page ni SEO website ₹20,000 thi. Online store ₹50,000 thi bane chhe. Final kimat pages ane features par aadhar rakhe chhe, ane kaam sharu karta pehla tamne itemised quote male chhe. Tamari manjuri vagar koi charge nathi.",
+        "Amara sathe saadi business website ₹10,000 thi sharu thay chhe, ane 299+ page ni SEO website ₹20,000 thi. Online store ₹50,000 thi bane chhe. Final kimat pages ane features par aadhar rakhe chhe, ane kaam sharu karta pehla tamne itemised quote male chhe. Tamari manjuri vagar koi charge nathi.",
     },
     {
       question: "Is there a BtechWaleTech office in Vadodara?",
@@ -234,7 +234,7 @@ const vadodara: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom app six to twelve weeks. Content is the usual source of delay, so we prepare draft text for you to correct instead of waiting for every page to be written.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom app six to twelve weeks. Content is the usual source of delay, so we prepare draft text for you to correct instead of waiting for every page to be written.",
     },
     {
       question: "Can my website be in Gujarati?",

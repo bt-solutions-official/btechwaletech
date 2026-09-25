@@ -35,7 +35,7 @@ const zirakpur: CityContent = {
     pills: ["Sites from ₹10,000", "Property listing sites", "Map-first SEO", "Hindi, Punjabi and English", "WhatsApp lead routing"],
   },
   quickAnswer:
-    "A basic website for a Zirakpur business starts at ₹10,000 with us and is usually live in one to two weeks. A 700+ page SEO site starts at ₹20,000, which suits property firms listing many projects, and WhatsApp or AI automation starts at ₹40,000. We are a remote team with no Zirakpur office, and five months of maintenance come free.",
+    "A basic website for a Zirakpur business starts at ₹10,000 with us and is usually live in one to two weeks. A 299+ page SEO site starts at ₹20,000, which suits property firms listing many projects, and WhatsApp or AI automation starts at ₹40,000. We are a remote team with no Zirakpur office, and five months of maintenance come free.",
   snapshot: [
     { label: "Location", value: "Municipal town in SAS Nagar (Mohali) district, Punjab, on the southern edge of the Chandigarh tricity" },
     { label: "Population", value: "95,553 at the 2011 census, with rapid growth since then through high-rise and builder-floor projects" },
@@ -74,12 +74,12 @@ const zirakpur: CityContent = {
       heading: "Website costs in Zirakpur, compared honestly",
       paragraphs: [
         "In the tricity you can be quoted almost anything for a website: a subscription from a directory company, a template from a local freelancer, or a sizeable proposal from a Chandigarh agency. The totals vary widely, and the headline figure rarely tells you what matters. Compare who owns the domain, whether search basics are done, how fast the site opens on mobile, whether you can update listings yourself and what support costs after launch.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts at ₹10,000 and typically takes one to two weeks. That suits clinics, salons, gyms, coaching centres, restaurants and service businesses. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. It suits property consultants listing many projects and localities, or service firms covering the whole tricity.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts at ₹10,000 and typically takes one to two weeks. That suits clinics, salons, gyms, coaching centres, restaurants and service businesses. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. It suits property consultants listing many projects and localities, or service firms covering the whole tricity.",
         "Automation with WhatsApp and AI starts at ₹40,000, online stores at ₹50,000 and custom web applications at ₹60,000. Monthly SEO starts at ₹10,000. Each quote is written line by line so you can see where the money goes and remove anything you do not need.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form, map, WhatsApp button, search basics.",
-        "<strong>From ₹20,000:</strong> 700+ pages for projects, localities, services and nearby towns.",
+        "<strong>From ₹20,000:</strong> 299+ pages for projects, localities, services and nearby towns.",
         "<strong>From ₹40,000:</strong> WhatsApp and AI automation for leads, bookings and follow-ups.",
         "<strong>From ₹50,000:</strong> online store with UPI, cards and tricity delivery options.",
         "<strong>From ₹60,000:</strong> custom tools such as lead CRMs, rent trackers or venue booking systems.",
@@ -91,7 +91,7 @@ const zirakpur: CityContent = {
       paragraphs: [
         "Real estate defines Zirakpur's economy. Builders, channel partners, property dealers and rental agents are everywhere on VIP Road, Patiala Road, Dhakoli and Baltana, and most rely on large property portals for leads. Those portals charge heavily, send the same lead to several competitors and own the relationship with the buyer.",
         "Your own website changes that. Each project you sell or rent can have its own page with location, configuration, carpet area, amenities, possession status, RERA registration where applicable, floor plans, real photographs and a map. Each locality can have a page explaining what it is like to live there, which schools and hospitals are close, and what kind of units are available. Over time, these pages attract buyers searching specific phrases like “3BHK on Patiala Road Zirakpur” directly.",
-        "We build property sites with filterable listings you can update yourself, enquiry forms that ask for budget and timeline, and WhatsApp buttons that send the lead to the right salesperson. For firms with many listings, a 700+ page SEO site starting at ₹20,000 is usually the right base. We will not publish price claims, returns or possession dates you cannot stand behind, because in property one false claim can cost you far more than a lost lead.",
+        "We build property sites with filterable listings you can update yourself, enquiry forms that ask for budget and timeline, and WhatsApp buttons that send the lead to the right salesperson. For firms with many listings, a 299+ page SEO site starting at ₹20,000 is usually the right base. We will not publish price claims, returns or possession dates you cannot stand behind, because in property one false claim can cost you far more than a lost lead.",
       ],
     },
     {
@@ -199,7 +199,7 @@ const zirakpur: CityContent = {
     { name: "Airport road side", note: "Hotels and transit services for Chandigarh airport travellers. Stay and taxi booking pages." },
   ],
   industries: [
-    { name: "Builders and property consultants", need: "Direct buyer leads, project credibility, fewer portal fees", build: "Project and locality pages, listing manager, lead routing, 700+ page SEO" },
+    { name: "Builders and property consultants", need: "Direct buyer leads, project credibility, fewer portal fees", build: "Project and locality pages, listing manager, lead routing, 299+ page SEO" },
     { name: "Banquet halls and wedding venues", need: "Date enquiries, capacity details, trust", build: "Hall pages, galleries, date request form, shared booking calendar" },
     { name: "Hotels and guest houses", need: "Direct bookings from airport and highway travellers", build: "Room pages, booking enquiry, map SEO, WhatsApp booking" },
     { name: "Restaurants, cafés and bakeries", need: "Map visibility, menus, direct orders", build: "Menu pages, profile cleanup, WhatsApp ordering, review setup" },
@@ -212,12 +212,12 @@ const zirakpur: CityContent = {
     {
       question: "How much does a website cost in Zirakpur?",
       answer:
-        "With us, a static website of up to 100 pages starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Tricity quotes range widely, so compare domain ownership, SEO basics, mobile speed, self-editing and support after launch, not just the total.",
+        "With us, a static website of up to 100 pages starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Tricity quotes range widely, so compare domain ownership, SEO basics, mobile speed, self-editing and support after launch, not just the total.",
     },
     {
       question: "Zirakpur mein website banwane ka kharcha kitna hai?",
       answer:
-        "Humare saath simple business website ₹10,000 se shuru hoti hai, 700+ page wali SEO website ₹20,000 se aur online store ₹50,000 se. Final price pages, listings, features aur content par depend karta hai. Kaam shuru hone se pehle aapko likhit, itemised quote milta hai aur aapki approval ke baad hi bill banta hai.",
+        "Humare saath simple business website ₹10,000 se shuru hoti hai, 299+ page wali SEO website ₹20,000 se aur online store ₹50,000 se. Final price pages, listings, features aur content par depend karta hai. Kaam shuru hone se pehle aapko likhit, itemised quote milta hai aur aapki approval ke baad hi bill banta hai.",
     },
     {
       question: "Do you have an office in Zirakpur or Chandigarh?",
@@ -232,7 +232,7 @@ const zirakpur: CityContent = {
     {
       question: "Can you build a real estate website with many project listings?",
       answer:
-        "Yes. We build property sites where each project and locality has its own page with configuration, area, amenities, RERA details where applicable, photos and a map, plus listings you can add or update yourself. For many listings, a 700+ page SEO site starting at ₹20,000 is usually the right base.",
+        "Yes. We build property sites where each project and locality has its own page with configuration, area, amenities, RERA details where applicable, photos and a map, plus listings you can add or update yourself. For many listings, a 299+ page SEO site starting at ₹20,000 is usually the right base.",
     },
     {
       question: "Can a banquet hall website show available dates?",
@@ -242,7 +242,7 @@ const zirakpur: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static website usually takes one to two weeks, a 700+ page SEO site three to five weeks, AI automation two to four weeks, an online store four to eight weeks and a custom application six to twelve weeks. Most delays come from waiting for photos and listing details, so we draft content for you to check.",
+        "A static website usually takes one to two weeks, a 299+ page SEO site three to five weeks, AI automation two to four weeks, an online store four to eight weeks and a custom application six to twelve weeks. Most delays come from waiting for photos and listing details, so we draft content for you to check.",
     },
     {
       question: "What can WhatsApp automation do for property or venue leads?",

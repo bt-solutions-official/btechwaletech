@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Website design freelancer", value: "Custom layout, you own it, direct contact with the designer" },
       { label: "Agency", value: "Many specialists and formal process, highest overheads" },
       { label: "Our starting price", value: `From ${P.site} for a static site, 1–2 weeks` },
-      { label: "SEO-led design", value: `From ${P.seoSite} for 700+ pages, 3–5 weeks` },
+      { label: "SEO-led design", value: `From ${P.seoSite} for 299+ pages, 3–5 weeks` },
       { label: "Online store design", value: `From ${P.shop}, 4–8 weeks` },
       { label: "After launch", value: `5 months free care, then from ${P.care}` },
     ],
@@ -160,7 +160,7 @@ const content: FreelanceContent = {
       id: "cost-drivers",
       heading: "How much does a website design freelancer cost, and what changes the price?",
       paragraphs: [
-        `Most freelancers quote per project. With us, a custom designed static site of up to 100 pages starts at ${P.site} (${P.siteUsd} for clients abroad), an SEO website of 700+ pages starts at ${P.seoSite}, and an online store starts at ${P.shop}. Those are floors, not package prices.`,
+        `Most freelancers quote per project. With us, a custom designed static site of up to 100 pages starts at ${P.site} (${P.siteUsd} for clients abroad), an SEO website of 299+ pages starts at ${P.seoSite}, and an online store starts at ${P.shop}. Those are floors, not package prices.`,
         `Quotes from different freelancers vary widely, and the gap is rarely about talent alone. Four things move a design quote more than anything else:`,
       ],
       list: [
@@ -330,7 +330,7 @@ const content: FreelanceContent = {
       columns: ["Design project", "From (India)", "From (abroad)", "Typical time", "Who it suits"],
       rows: [
         ["Custom static site, up to 100 pages", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Shops, clinics, consultants leaving a builder"],
-        ["SEO-led site, 700+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Service firms targeting many areas"],
+        ["SEO-led site, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Service firms targeting many areas"],
         ["Online store design and build", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Brands selling with UPI and cards"],
         ["Web app or portal screens", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Bookings, dashboards, member areas"],
         ["Monthly SEO after launch", `From ${P.seo}`, `From ${P.seoUsd}`, "Ongoing", "Sites that need steady content and fixes"],
@@ -405,7 +405,7 @@ const content: FreelanceContent = {
   faqHeading: "Website design freelancer: common questions",
   faqs: [
     { question: "Is it better to hire a website design freelancer or use Wix or another builder?", answer: "Use a builder for a temporary or hobby page when you have spare time and a small budget. Hire a website design freelancer when the site must bring enquiries or sales, needs custom features, or should load fast on phones. A freelancer also gives you ownership of the code, which a builder cannot, so moving host later is simple." },
-    { question: "How much does a website design freelancer charge in India?", answer: `Most quote per project. BtechWaleTech designs and builds a custom static site of up to 100 pages from ${P.site}, an SEO website of 700+ pages from ${P.seoSite} and an online store from ${P.shop}. The final quote depends on unique layouts, content work, features and languages, and is itemised before you approve anything.` },
+    { question: "How much does a website design freelancer charge in India?", answer: `Most quote per project. BtechWaleTech designs and builds a custom static site of up to 100 pages from ${P.site}, an SEO website of 299+ pages from ${P.seoSite} and an online store from ${P.shop}. The final quote depends on unique layouts, content work, features and languages, and is itemised before you approve anything.` },
     { question: "Is a freelancer cheaper than a web design agency?", answer: "Usually yes, for the same scope. An agency’s price includes account managers, office costs and specialists you may not need. A freelancer or small freelance team charges for the design and build work itself. An agency can still be worth it for large rebrands, photo shoots or big campaign teams." },
     { question: "Is a website builder cheaper than a freelancer in the long run?", answer: "Not always. A builder is cheaper to start, but the plan renews every year and paid add-ons for forms, bookings or stores add up. Over three years, a one-time custom design plus hosting you pay directly often costs about the same or less, and you own the result. Very small, static pages can stay cheaper on a builder." },
     { question: "How long does a website design freelancer take to design a site?", answer: "A custom static site of up to 100 pages takes about 1–2 weeks with our team, an SEO website 3–5 weeks and an online store 4–8 weeks. The first days go on the page map and wireframes. Most delays come from waiting for text and photos, so preparing content early shortens the timeline." },

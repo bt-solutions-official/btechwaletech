@@ -35,7 +35,7 @@ const kishanganj: CityContent = {
     pills: ["Websites from ₹10,000", "Tea and pineapple trade pages", "Hindi, Urdu and Bangla options", "Clinic and coaching sites", "5 months free maintenance"],
   },
   quickAnswer:
-    "In Kishanganj, a static website from our team starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and an online store at ₹50,000. We work remotely with no Kishanganj office, and the first five months of maintenance after launch cost nothing.",
+    "In Kishanganj, a static website from our team starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and an online store at ₹50,000. We work remotely with no Kishanganj office, and the first five months of maintenance after launch cost nothing.",
   snapshot: [
     { label: "Position", value: "Easternmost district of Bihar, bordering Nepal and West Bengal, in Purnia division" },
     { label: "Tea", value: "The only tea-producing district in Bihar, with gardens in Pothia, Thakurganj, Bahadurganj, Dighalbank and Kishanganj blocks" },
@@ -214,7 +214,7 @@ const kishanganj: CityContent = {
     {
       question: "How much does a website cost in Kishanganj?",
       answer:
-        "A static website from us starts at ₹10,000, a 700+ page SEO website starts at ₹20,000, an online store starts at ₹50,000 and a custom web app starts at ₹60,000. The final amount depends on pages, languages and features, and you get an itemised written quote before anything is billed.",
+        "A static website from us starts at ₹10,000, a 299+ page SEO website starts at ₹20,000, an online store starts at ₹50,000 and a custom web app starts at ₹60,000. The final amount depends on pages, languages and features, and you get an itemised written quote before anything is billed.",
     },
     {
       question: "Kishanganj me website banwane ka kharcha kitna aata hai?",
@@ -249,7 +249,7 @@ const kishanganj: CityContent = {
     {
       question: "How long will my website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. Waiting for photographs and text causes most delays, so we send a checklist on the first day.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. Waiting for photographs and text causes most delays, so we send a checklist on the first day.",
     },
     {
       question: "What can WhatsApp automation do for a Kishanganj business?",

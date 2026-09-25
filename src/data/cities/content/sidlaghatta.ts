@@ -39,7 +39,7 @@ const sidlaghatta: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Kannada, Telugu and Urdu pages", "Reeling and lot records", "Accounts in your name"],
   },
   quickAnswer:
-    "For a Sidlaghatta business, a website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are remote, with no local office.",
+    "For a Sidlaghatta business, a website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are remote, with no local office.",
   snapshot: [
     { label: "Location", value: "Taluk headquarters in Chikkaballapur district, Karnataka; the district was carved out of Kolar in 2007" },
     { label: "Population", value: "51,159 in the town at the 2011 census" },
@@ -158,7 +158,7 @@ const sidlaghatta: CityContent = {
       id: "website-cost-sidlaghatta",
       heading: "Website cost in Sidlaghatta: the starting figures and what changes them",
       paragraphs: [
-        "Here are our entry points. A static website of up to 100 pages starts at ₹10,000 and is typically ready in one or two weeks. An SEO website of 700 pages or more starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation also at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO is ₹10,000 onwards.",
+        "Here are our entry points. A static website of up to 100 pages starts at ₹10,000 and is typically ready in one or two weeks. An SEO website of 299 pages or more starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation also at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO is ₹10,000 onwards.",
         "What moves your number is scope you control: extra languages, a long product list, a logged-in rate page for traders, courier tables, staff accounts, or importing years of old purchase records. Each appears as a separate line, so you can drop what you do not need. If you write your own text and send phone photos, the cost stays close to the starting figure.",
         "Local quotes vary widely for work that sounds the same, so compare carefully. Ask who registers the domain, whether the code is handed over, whether basic SEO is included, how many revision rounds you get, and who fixes things a year later. Our <a href=\"/pricing/\">pricing page</a> lists every starting price, and an itemised quote reaches you in about two working days.",
       ],
@@ -219,7 +219,7 @@ const sidlaghatta: CityContent = {
     {
       question: "What is the website cost in Sidlaghatta?",
       answer:
-        "A static site with us starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices only. Your written quote lists every item, such as extra languages or a trader rate page, and nothing is billed until you approve it.",
+        "A static site with us starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices only. Your written quote lists every item, such as extra languages or a trader rate page, and nothing is billed until you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Sidlaghatta businesses?",
@@ -234,7 +234,7 @@ const sidlaghatta: CityContent = {
     {
       question: "How long does a website take for a Sidlaghatta shop or clinic?",
       answer:
-        "A simple site is usually live one to two weeks after we receive your photos, timings and details. A 700+ page SEO site takes three to five weeks, a store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content in the first few days.",
+        "A simple site is usually live one to two weeks after we receive your photos, timings and details. A 299+ page SEO site takes three to five weeks, a store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content in the first few days.",
     },
     {
       question: "Who is the best website development team in Sidlaghatta?",
@@ -254,7 +254,7 @@ const sidlaghatta: CityContent = {
     {
       question: "Sidlaghatta me website banwane me kitna kharcha aata hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein live ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Poora quote har item ke saath likhit mein milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein live ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Poora quote har item ke saath likhit mein milta hai.",
     },
     {
       question: "You have no office in Sidlaghatta. How do I know the work is safe?",

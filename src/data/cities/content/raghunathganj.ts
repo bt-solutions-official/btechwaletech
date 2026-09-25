@@ -34,7 +34,7 @@ const raghunathganj: CityContent = {
     pills: ["Websites from ₹10,000", "Bengali and English pages", "Google Maps setup", "WhatsApp replies", "No lock-in"],
   },
   quickAnswer:
-    "For a Raghunathganj or Jangipur business, a simple website with us costs from ₹10,000 and a 700+ page SEO site from ₹20,000, delivered in one to five weeks. We are a three-engineer remote team without a local office, so you pay for the work only. Hosting setup, basic SEO and five months of free maintenance are included.",
+    "For a Raghunathganj or Jangipur business, a simple website with us costs from ₹10,000 and a 299+ page SEO site from ₹20,000, delivered in one to five weeks. We are a three-engineer remote team without a local office, so you pay for the work only. Hosting setup, basic SEO and five months of free maintenance are included.",
   snapshot: [
     { label: "Where it sits", value: "Twin town of Jangipur across the Bhagirathi, in Jangipur subdivision of Murshidabad district" },
     { label: "Main trade", value: "Beedi manufacturing and home-based beedi rolling across the subdivision, plus farm trade and retail" },
@@ -72,7 +72,7 @@ const raghunathganj: CityContent = {
       heading: "What a website costs for a Raghunathganj business",
       paragraphs: [
         "Most people in Raghunathganj have no reference point for website prices. Some have been quoted ₹2,000 by a local operator, others ₹40,000 by an agency in Kolkata, for what looks like the same thing. The difference is usually hidden: whether the domain is in your name, whether the site is set up for Google, and whether anyone will fix it later.",
-        "Our starting prices are published openly. A static website of up to 100 pages starts at ₹10,000 and is ready in one to two weeks, which suits most clinics, shops and tutors. A search-focused site of 700+ pages starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, automation at ₹40,000, and custom web applications at ₹60,000. If you want ongoing search work, it costs from ₹10,000 a month. The <a href=\"/pricing/\">pricing page</a> breaks each tier down.",
+        "Our starting prices are published openly. A static website of up to 100 pages starts at ₹10,000 and is ready in one to two weeks, which suits most clinics, shops and tutors. A search-focused site of 299+ pages starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, automation at ₹40,000, and custom web applications at ₹60,000. If you want ongoing search work, it costs from ₹10,000 a month. The <a href=\"/pricing/\">pricing page</a> breaks each tier down.",
         "You receive an itemised quote in about two working days after we understand your business. Everything is listed: pages, features, content writing, hosting setup. Nothing is billed until you say yes in writing, and you can remove items to fit your budget.",
       ],
       list: [
@@ -217,7 +217,7 @@ const raghunathganj: CityContent = {
     {
       question: "How much does a website cost in Raghunathganj or Jangipur?",
       answer:
-        "A simple business website with us starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online shop at ₹50,000 and a custom web application at ₹60,000. The price you pay depends on pages, features and content, and you get an itemised quote before any work begins.",
+        "A simple business website with us starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online shop at ₹50,000 and a custom web application at ₹60,000. The price you pay depends on pages, features and content, and you get an itemised quote before any work begins.",
     },
     {
       question: "Raghunathganj e website banate koto khoroch hoy?",
@@ -252,7 +252,7 @@ const raghunathganj: CityContent = {
     {
       question: "How long will my website take?",
       answer:
-        "A simple site usually takes one to two weeks, a 700+ page site three to five weeks, an online shop four to eight weeks and a custom application six to twelve weeks. Delays usually come from waiting for photos and details, so we write draft text for you to correct.",
+        "A simple site usually takes one to two weeks, a 299+ page site three to five weeks, an online shop four to eight weeks and a custom application six to twelve weeks. Delays usually come from waiting for photos and details, so we write draft text for you to correct.",
     },
     {
       question: "What can WhatsApp automation do for my business?",

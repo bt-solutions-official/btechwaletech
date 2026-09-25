@@ -39,7 +39,7 @@ const pilkhuwa: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Bedsheet catalogues and stores", "Hindi and English SEO", "Every account in your name"],
   },
   quickAnswer:
-    "Pilkhuwa businesses can get a website from us starting at ₹10,000, usually built in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, SEO websites of 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely without a Pilkhuwa office, and all accounts stay in your name.",
+    "Pilkhuwa businesses can get a website from us starting at ₹10,000, usually built in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, SEO websites of 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely without a Pilkhuwa office, and all accounts stay in your name.",
   snapshot: [
     { label: "Location", value: "Town in Hapur district on NH-9, about 12 km from Hapur and roughly 50 km from the Delhi border" },
     { label: "Population", value: "About 83,700 at the 2011 Census, governed by a municipal council" },
@@ -164,7 +164,7 @@ const pilkhuwa: CityContent = {
       id: "website-cost-pilkhuwa",
       heading: "Website cost in Pilkhuwa: starting prices and how to compare quotes",
       paragraphs: [
-        "People often ask what the <strong>website cost in Pilkhuwa</strong> is before they have decided what the site should do. Our starting prices are published: a static website of up to 100 pages from ₹10,000, a 700+ page SEO website from ₹20,000, an Android and iOS app from ₹40,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000.",
+        "People often ask what the <strong>website cost in Pilkhuwa</strong> is before they have decided what the site should do. Our starting prices are published: a static website of up to 100 pages from ₹10,000, a 299+ page SEO website from ₹20,000, an Android and iOS app from ₹40,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000.",
         "The figure rises with the number of designs to upload, content in two languages, payment integration, retailer logins or a connection to Tally. Product photography, if you want us to arrange it, is listed as a separate item so you can decide.",
         "Local quotes vary widely. When comparing them, ask who owns the domain and hosting, whether you receive the source code, how many rounds of changes are included, how long free support lasts and what renewal will cost each year. The lowest price is not always the cheapest over three years.",
         "We send an itemised quote in about two working days, and nothing is billed until you approve it. See the complete list on our <a href=\"/pricing/\">pricing page</a>.",
@@ -229,7 +229,7 @@ const pilkhuwa: CityContent = {
     {
       question: "What is the website cost in Pilkhuwa?",
       answer:
-        "Our static websites start at ₹10,000 and 700+ page SEO websites at ₹20,000. Online stores start at ₹50,000, Android and iOS apps and AI automation at ₹40,000, and custom software at ₹60,000. These are starting prices; your quote depends on designs, pages, languages and integrations, and every item is shown separately.",
+        "Our static websites start at ₹10,000 and 299+ page SEO websites at ₹20,000. Online stores start at ₹50,000, Android and iOS apps and AI automation at ₹40,000, and custom software at ₹60,000. These are starting prices; your quote depends on designs, pages, languages and integrations, and every item is shown separately.",
     },
     {
       question: "How long does a website take for a Pilkhuwa textile business?",

@@ -35,7 +35,7 @@ const jhansi: CityContent = {
     pills: ["Websites from ₹10,000", "Coaching and hospitals", "Hindi and Bundeli-friendly SEO", "Soft toy stores", "Full ownership"],
   },
   quickAnswer:
-    "A website for a Jhansi business costs from ₹10,000 with us and takes one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp automation at ₹40,000. We are three remote engineers with no Jhansi office; you own the domain and code, and maintenance is free for five months.",
+    "A website for a Jhansi business costs from ₹10,000 with us and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp automation at ₹40,000. We are three remote engineers with no Jhansi office; you own the domain and code, and maintenance is free for five months.",
   snapshot: [
     { label: "Region", value: "Gateway to Bundelkhand, on the UP–MP border near the Betwa and Pahuj rivers" },
     { label: "Transport hub", value: "Jhansi Junction, headquarters of a North Central Railway division, and a meeting point of NH 27, 44, 75 and 39" },
@@ -73,12 +73,12 @@ const jhansi: CityContent = {
       heading: "How much a website costs in Jhansi",
       paragraphs: [
         "In Jhansi, website quotes can range from ₹3,000 from a local computer shop to ₹50,000 from an agency in Lucknow or Delhi. The cheapest often use a copied template with the domain booked in someone else's name, and the most expensive usually include costs that do nothing for your business.",
-        "Our prices are published starting points, shown openly. A website of up to 100 pages costs from ₹10,000 and is ready in one to two weeks. A 700+ page SEO website, with a page for each course, department, product or service, starts at ₹20,000 and takes three to five weeks. An online store with UPI and card payments starts at ₹50,000 and takes four to eight weeks. Automation starts at ₹40,000, custom software such as a coaching management system at ₹60,000, and monthly SEO at ₹10,000.",
+        "Our prices are published starting points, shown openly. A website of up to 100 pages costs from ₹10,000 and is ready in one to two weeks. A 299+ page SEO website, with a page for each course, department, product or service, starts at ₹20,000 and takes three to five weeks. An online store with UPI and card payments starts at ₹50,000 and takes four to eight weeks. Automation starts at ₹40,000, custom software such as a coaching management system at ₹60,000, and monthly SEO at ₹10,000.",
         "The final quote depends on what you need. A single-doctor clinic needs far fewer pages than a multi-speciality hospital, and a soft toy store with thirty designs costs less than one with three hundred. Full details are on our <a href=\"/pricing/\">pricing page</a>, and we send an itemised quote within about two working days.",
       ],
       list: [
         "<strong>Basic site, from ₹10,000:</strong> shops, clinics, tutors and service providers.",
-        "<strong>SEO site, from ₹20,000:</strong> 700+ pages for institutes, hospitals and suppliers.",
+        "<strong>SEO site, from ₹20,000:</strong> 299+ pages for institutes, hospitals and suppliers.",
         "<strong>Online store, from ₹50,000:</strong> soft toys, food products and local brands.",
         "<strong>Custom software, from ₹60,000:</strong> coaching management, order and dealer systems.",
       ],
@@ -218,12 +218,12 @@ const jhansi: CityContent = {
     {
       question: "How much does a website cost in Jhansi?",
       answer:
-        "Our websites start at ₹10,000 for a basic business site and ₹20,000 for a 700+ page SEO site. Online stores begin at ₹50,000, automation at ₹40,000 and custom software at ₹60,000. When comparing quotes, check who owns the domain and hosting and what support you get after launch.",
+        "Our websites start at ₹10,000 for a basic business site and ₹20,000 for a 299+ page SEO site. Online stores begin at ₹50,000, automation at ₹40,000 and custom software at ₹60,000. When comparing quotes, check who owns the domain and hosting and what support you get after launch.",
     },
     {
       question: "Jhansi mein website banwane mein kitna kharcha aayega?",
       answer:
-        "Seedhi-saadi business website ₹10,000 se shuru hoti hai aur ek-do hafte mein taiyar ho jaati hai. 700+ pages wali SEO website ₹20,000 se aur online store ₹50,000 se shuru hota hai. Kaam shuru hone se pehle aapko likhit mein poora hisaab milega, aur domain aapke naam par rahega.",
+        "Seedhi-saadi business website ₹10,000 se shuru hoti hai aur ek-do hafte mein taiyar ho jaati hai. 299+ pages wali SEO website ₹20,000 se aur online store ₹50,000 se shuru hota hai. Kaam shuru hone se pehle aapko likhit mein poora hisaab milega, aur domain aapke naam par rahega.",
     },
     {
       question: "Do you have an office in Jhansi?",

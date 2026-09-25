@@ -39,7 +39,7 @@ const padrauna: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first local SEO", "Banana fibre craft stores", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Padrauna business, a website with us starts at ₹10,000 and is typically live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and you own everything.",
+    "For a Padrauna business, a website with us starts at ₹10,000 and is typically live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and you own everything.",
   snapshot: [
     { label: "Role", value: "Headquarters of Kushinagar district; Padrauna Sadar is one of its six tehsils" },
     { label: "Population", value: "49,723 in the 2011 census, on the bank of the Bansi river in the Terai plain" },
@@ -167,7 +167,7 @@ const padrauna: CityContent = {
       ],
       list: [
         "Static website up to 100 pages: from ₹10,000, one to two weeks",
-        "SEO website of 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website of 299+ pages: from ₹20,000, three to five weeks",
         "Android and iOS app: from ₹40,000",
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Ecommerce store with UPI and card checkout: from ₹50,000, four to eight weeks",
@@ -221,7 +221,7 @@ const padrauna: CityContent = {
     {
       question: "How much does a website cost in Padrauna?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Your quote depends on pages, Hindi and English content, products and integrations, and arrives itemised in writing before anything is billed.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Your quote depends on pages, Hindi and English content, products and integrations, and arrives itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Padrauna businesses?",
@@ -231,7 +231,7 @@ const padrauna: CityContent = {
     {
       question: "How long does a Padrauna website take to build?",
       answer:
-        "A simple static site usually goes live in one to two weeks once we have your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends text and pictures in the first few days.",
+        "A simple static site usually goes live in one to two weeks once we have your photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends text and pictures in the first few days.",
     },
     {
       question: "Which is the best IT services team in Padrauna for a small business?",

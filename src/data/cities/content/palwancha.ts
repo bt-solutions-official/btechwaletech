@@ -40,7 +40,7 @@ const palwancha: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Plant contractor websites", "Telugu and English SEO", "You keep every login"],
   },
   quickAnswer:
-    "Websites for Palwancha businesses start at ₹10,000 with us and usually take one to two weeks. Android and iOS apps and AI or WhatsApp automation start at ₹40,000 each, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Palwancha office.",
+    "Websites for Palwancha businesses start at ₹10,000 with us and usually take one to two weeks. Android and iOS apps and AI or WhatsApp automation start at ₹40,000 each, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Palwancha office.",
   snapshot: [
     { label: "Location", value: "Bhadradri Kothagudem district, about 11 km from Kothagudem, 28 km from Bhadrachalam and roughly 290 km east of Hyderabad" },
     { label: "Power", value: "Kothagudem Thermal Power Station (KTPS) of the state power generation corporation, the reason for the Power City name" },
@@ -158,7 +158,7 @@ const palwancha: CityContent = {
       id: "website-cost-palwancha",
       heading: "Website cost in Palwancha: starting prices and how quotes differ",
       paragraphs: [
-        "Our starting prices in Palwancha are the same as those we publish nationally. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation each start at ₹40,000, online stores at ₹50,000 and custom web apps or software at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
+        "Our starting prices in Palwancha are the same as those we publish nationally. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation each start at ₹40,000, online stores at ₹50,000 and custom web apps or software at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
         "What increases a quote is scope: more pages, both Telugu and English versions, large catalogues, logins for staff or vendors, payment features, offline entry and links to Tally. If you provide text and photographs, the cost stays close to the starting figure; writing by us is a separate line.",
         "Quotes in the Kothagudem area vary widely. Compare them by asking who owns the domain and hosting, whether mobile testing and basic SEO are included, how many rounds of changes you get, and who supports you after launch.",
         "Our <a href=\"/pricing/\">pricing page</a> shows every starting price, and you receive a written itemised quote in about two working days.",
@@ -221,7 +221,7 @@ const palwancha: CityContent = {
     {
       question: "What is the website cost in Palwancha?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the written quote depends on pages, Telugu content, products and features. It is itemised, and nothing is billed before you approve it.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the written quote depends on pages, Telugu content, products and features. It is itemised, and nothing is billed before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Palwancha businesses?",
@@ -231,7 +231,7 @@ const palwancha: CityContent = {
     {
       question: "How long does a website take in Palwancha?",
       answer:
-        "A static website usually takes one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight and custom software six to twelve. Having your content ready early is the biggest factor in speed.",
+        "A static website usually takes one to two weeks after we receive your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight and custom software six to twelve. Having your content ready early is the biggest factor in speed.",
     },
     {
       question: "Which is the best website development team in Palwancha?",
@@ -256,7 +256,7 @@ const palwancha: CityContent = {
     {
       question: "Palwancha me website banwane me kitna kharcha hoga?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein ban jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapki zaroorat ke hisaab se likhit quote lagbhag do working days mein milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein ban jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapki zaroorat ke hisaab se likhit quote lagbhag do working days mein milta hai.",
     },
     {
       question: "You have no office in Palwancha. Is remote work safe?",

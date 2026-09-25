@@ -35,7 +35,7 @@ const baharampur: CityContent = {
     pills: ["Websites from ₹10,000", "Bengali and English pages", "Silk and sweet shop stores", "Clinic and tutor sites", "5 months free maintenance"],
   },
   quickAnswer:
-    "A Baharampur business can have a static website built by us from ₹10,000, usually within two weeks. SEO sites of 700+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores for silk or sweets at ₹50,000 and custom software at ₹60,000. We are remote, with no office in Berhampore.",
+    "A Baharampur business can have a static website built by us from ₹10,000, usually within two weeks. SEO sites of 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores for silk or sweets at ₹50,000 and custom software at ₹60,000. We are remote, with no office in Berhampore.",
   snapshot: [
     { label: "Position", value: "Headquarters of Murshidabad district, on the east bank of the Bhagirathi, roughly 186 km north of Kolkata by rail" },
     { label: "Crafts", value: "Khagra is known for bell-metal (kansa) and brass utensils; ivory and wood carving were traditional trades" },
@@ -100,12 +100,12 @@ const baharampur: CityContent = {
       heading: "What websites cost in Baharampur",
       paragraphs: [
         "Quotes in Berhampore range from a few thousand rupees at a local computer centre to large figures from Kolkata agencies. The low end often means a template, no search setup and a domain booked in someone else's name. The high end is priced for companies with marketing teams.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages starts at ₹10,000 and is ready in one to two weeks; it suits shops, doctors, tutors and small traders. A 700+ page SEO site starts at ₹20,000, for hospitals, schools and businesses with many services or products. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, custom web software at ₹60,000 and monthly SEO at ₹10,000.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages starts at ₹10,000 and is ready in one to two weeks; it suits shops, doctors, tutors and small traders. A 299+ page SEO site starts at ₹20,000, for hospitals, schools and businesses with many services or products. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, custom web software at ₹60,000 and monthly SEO at ₹10,000.",
         "You receive a written quote that lists each page and feature separately. Remove whatever you do not need before approving; nothing is billed until you say yes in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, Bengali or English, map, enquiry form and basic SEO.",
-        "<strong>From ₹20,000:</strong> 700+ pages for departments, courses, doctors or products.",
+        "<strong>From ₹20,000:</strong> 299+ pages for departments, courses, doctors or products.",
         "<strong>From ₹50,000:</strong> online store with UPI, cards, courier rules and order alerts.",
         "<strong>From ₹60,000:</strong> registers, booking systems or portals with staff logins.",
       ],
@@ -228,7 +228,7 @@ const baharampur: CityContent = {
     {
       question: "How much does a website cost in Baharampur?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom web software at ₹60,000. The final amount depends on what you need, and you see an itemised written quote before any work starts or any bill is raised.",
+        "Our static websites start at ₹10,000, 299+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom web software at ₹60,000. The final amount depends on what you need, and you see an itemised written quote before any work starts or any bill is raised.",
     },
     {
       question: "Berhampore-e website banate koto khoroch hobe?",
@@ -263,7 +263,7 @@ const baharampur: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Waiting for photographs and product details is the usual cause of delay, so we send a checklist on the first day.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Waiting for photographs and product details is the usual cause of delay, so we send a checklist on the first day.",
     },
     {
       question: "Can a sweet shop take festival orders online?",

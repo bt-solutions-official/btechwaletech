@@ -39,7 +39,7 @@ const samalkot: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu local SEO", "Oil, food and spice units", "You hold every login"],
   },
   quickAnswer:
-    "A website for a Samalkot business starts at ₹10,000 with us and is usually live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, without a Samalkot office.",
+    "A website for a Samalkot business starts at ₹10,000 with us and is usually live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, without a Samalkot office.",
   snapshot: [
     { label: "Location", value: "Municipal town in Kakinada district, part of the Kakinada Urban Development Authority area" },
     { label: "Also called", value: "Samarlakota; the municipality has 18 wards" },
@@ -222,7 +222,7 @@ const samalkot: CityContent = {
     {
       question: "What is the website cost in Samalkot?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. All are starting prices; the final quote depends on pages, Telugu content, products and integrations. You receive it itemised in writing before any billing.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. All are starting prices; the final quote depends on pages, Telugu content, products and integrations. You receive it itemised in writing before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Samalkot businesses?",
@@ -232,7 +232,7 @@ const samalkot: CityContent = {
     {
       question: "How quickly can a Samalkot business get a website?",
       answer:
-        "A static site is normally live within one to two weeks after we receive your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner shares content in the first few days.",
+        "A static site is normally live within one to two weeks after we receive your photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner shares content in the first few days.",
     },
     {
       question: "Who is the best website development team in Samalkot?",
@@ -257,7 +257,7 @@ const samalkot: CityContent = {
     {
       question: "Samalkot lo website cheyinchalante entha kharchu avutundi?",
       answer:
-        "Maa daggara simple website ₹10,000 nundi modalavutundi, sadharananga okati rendu vaaralalo ready avutundi. 700+ pages SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalu. Final quote mee pages, features batti rathapoorvakanga istaamu.",
+        "Maa daggara simple website ₹10,000 nundi modalavutundi, sadharananga okati rendu vaaralalo ready avutundi. 299+ pages SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalu. Final quote mee pages, features batti rathapoorvakanga istaamu.",
     },
     {
       question: "You have no office in Samalkot. Is working remotely safe?",

@@ -35,7 +35,7 @@ const dharmavaram: CityContent = {
     pills: ["Websites from ₹10,000", "Saree stores from ₹50,000", "Telugu and English pages", "Handloom proof pages", "WhatsApp order desk"],
   },
   quickAnswer:
-    "A Dharmavaram business website with us starts from ₹10,000 and usually goes live in one to two weeks. Online saree stores start at ₹50,000, 700+ page SEO sites at ₹20,000, WhatsApp and AI automation at ₹40,000 and custom software at ₹60,000. We are a remote team with no Dharmavaram office, and launch includes five months of free maintenance.",
+    "A Dharmavaram business website with us starts from ₹10,000 and usually goes live in one to two weeks. Online saree stores start at ₹50,000, 299+ page SEO sites at ₹20,000, WhatsApp and AI automation at ₹40,000 and custom software at ₹60,000. We are a remote team with no Dharmavaram office, and launch includes five months of free maintenance.",
   snapshot: [
     { label: "Known as", value: "The Silk City of Andhra Pradesh, in Sri Sathya Sai district" },
     { label: "GI product", value: "Dharmavaram handloom pattu sarees and paavadas hold a Geographical Indication" },
@@ -109,12 +109,12 @@ const dharmavaram: CityContent = {
       heading: "What a Dharmavaram website actually costs",
       paragraphs: [
         "Quotes in town range from a few thousand rupees for a template to big numbers from city agencies. The cheap option rarely includes your own domain or any search setup, and the expensive one often includes an office and sales team you are paying for indirectly. We publish our starting prices so you can compare without guessing.",
-        "A static business site of up to 100 pages starts at <strong>₹10,000</strong> and takes one to two weeks. A search-focused site of 700+ pages, useful when you want a page for each saree style, colour family or buyer question in Telugu and English, starts at <strong>₹20,000</strong> and takes three to five weeks. Automation starts at <strong>₹40,000</strong>, online stores at <strong>₹50,000</strong> and custom software at <strong>₹60,000</strong>. Monthly SEO is from ₹10,000. The full breakdown is on our <a href=\"/pricing/\">pricing page</a>.",
+        "A static business site of up to 100 pages starts at <strong>₹10,000</strong> and takes one to two weeks. A search-focused site of 299+ pages, useful when you want a page for each saree style, colour family or buyer question in Telugu and English, starts at <strong>₹20,000</strong> and takes three to five weeks. Automation starts at <strong>₹40,000</strong>, online stores at <strong>₹50,000</strong> and custom software at <strong>₹60,000</strong>. Monthly SEO is from ₹10,000. The full breakdown is on our <a href=\"/pricing/\">pricing page</a>.",
         "These are floors. Photography help, large catalogues, a login for wholesale buyers or a third language all move the figure upward, and the quote will say exactly by how much.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> showroom or business site with WhatsApp button, map and basic SEO.",
-        "<strong>From ₹20,000:</strong> 700+ page bilingual site with schema, sitemap and Search Console.",
+        "<strong>From ₹20,000:</strong> 299+ page bilingual site with schema, sitemap and Search Console.",
         "<strong>From ₹50,000:</strong> saree store with UPI, cards, shipping rules and order alerts.",
         "<strong>From ₹60,000:</strong> loom, yarn and wage records or a wholesale order system.",
       ],
@@ -227,7 +227,7 @@ const dharmavaram: CityContent = {
     {
       question: "How much does a website cost in Dharmavaram?",
       answer:
-        "A business website starts from ₹10,000, a 700+ page SEO site from ₹20,000, a saree store from ₹50,000 and custom software from ₹60,000. The final quote depends on how many products, pages and languages you need. You get an itemised quote first and pay nothing until you approve it in writing.",
+        "A business website starts from ₹10,000, a 299+ page SEO site from ₹20,000, a saree store from ₹50,000 and custom software from ₹60,000. The final quote depends on how many products, pages and languages you need. You get an itemised quote first and pay nothing until you approve it in writing.",
     },
     {
       question: "Dharmavaram lo maa pattu cheerala shop ki online store kavali, entha avutundi?",
@@ -262,7 +262,7 @@ const dharmavaram: CityContent = {
     {
       question: "How long does a saree store take to build?",
       answer:
-        "Usually four to eight weeks, depending on how many sarees you list and how quickly photos arrive. A simple showroom site takes one to two weeks, and 700+ page SEO sites take three to five. We give you a photo guide early so shooting does not hold things up.",
+        "Usually four to eight weeks, depending on how many sarees you list and how quickly photos arrive. A simple showroom site takes one to two weeks, and 299+ page SEO sites take three to five. We give you a photo guide early so shooting does not hold things up.",
     },
     {
       question: "What can WhatsApp automation do for a saree seller?",

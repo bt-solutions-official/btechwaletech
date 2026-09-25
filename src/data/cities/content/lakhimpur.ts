@@ -35,7 +35,7 @@ const lakhimpur: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi and English pages", "Dudhwa stay bookings", "Agri dealer catalogues", "WhatsApp auto-replies"],
   },
   quickAnswer:
-    "For Lakhimpur Kheri businesses, our websites begin at ₹10,000 and usually take one to two weeks. SEO sites with 700+ pages start at ₹20,000, AI and WhatsApp automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely without a Lakhimpur office, send itemised quotes, and give five months of free maintenance.",
+    "For Lakhimpur Kheri businesses, our websites begin at ₹10,000 and usually take one to two weeks. SEO sites with 299+ pages start at ₹20,000, AI and WhatsApp automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely without a Lakhimpur office, send itemised quotes, and give five months of free maintenance.",
   snapshot: [
     { label: "District", value: "Lakhimpur is headquarters of Lakhimpur Kheri, the largest district in Uttar Pradesh by area, on the Nepal border" },
     { label: "Distance", value: "About 124 km from Lucknow, with broad-gauge rail and UPSRTC buses; Lucknow airport roughly 135 km away" },
@@ -79,7 +79,7 @@ const lakhimpur: CityContent = {
       ],
       list: [
         "<strong>From ₹10,000:</strong> business website up to 100 pages with map, WhatsApp button and basic SEO.",
-        "<strong>From ₹20,000:</strong> 700+ page Hindi and English site with schema, sitemap and Search Console.",
+        "<strong>From ₹20,000:</strong> 299+ page Hindi and English site with schema, sitemap and Search Console.",
         "<strong>From ₹50,000:</strong> online store with catalogue, UPI and card payments, shipping and order alerts.",
         "<strong>From ₹60,000:</strong> custom software such as dealer ledgers, school portals or booking systems.",
       ],
@@ -228,12 +228,12 @@ const lakhimpur: CityContent = {
     {
       question: "How much does a website cost in Lakhimpur Kheri?",
       answer:
-        "Our business websites start at ₹10,000, 700+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. The final quote depends on pages, products, languages and features. Compare offers on what is included, especially whether the domain is in your name and whether support continues after launch.",
+        "Our business websites start at ₹10,000, 299+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. The final quote depends on pages, products, languages and features. Compare offers on what is included, especially whether the domain is in your name and whether support continues after launch.",
     },
     {
       question: "Lakhimpur me apni dukan ki website banwane me kitna kharcha aayega?",
       answer:
-        "Hamari simple business website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte me taiyaar ho jaati hai. 700+ pages wali SEO website ₹20,000 se aur online store ₹50,000 se shuru hota hai. Kaam shuru karne se pehle har cheez ka alag quote bhejte hain, aur aapki likhit manzoori se pehle koi paisa nahi lete.",
+        "Hamari simple business website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte me taiyaar ho jaati hai. 299+ pages wali SEO website ₹20,000 se aur online store ₹50,000 se shuru hota hai. Kaam shuru karne se pehle har cheez ka alag quote bhejte hain, aur aapki likhit manzoori se pehle koi paisa nahi lete.",
     },
     {
       question: "Do you have an office in Lakhimpur?",
@@ -263,7 +263,7 @@ const lakhimpur: CityContent = {
     {
       question: "How long does it take to make a website?",
       answer:
-        "Static sites usually take one to two weeks, 700+ page SEO sites three to five weeks, online stores four to eight weeks and custom software six to twelve. Delays mostly come from waiting for photos and text, so we prepare draft content in Hindi or English for you to correct.",
+        "Static sites usually take one to two weeks, 299+ page SEO sites three to five weeks, online stores four to eight weeks and custom software six to twelve. Delays mostly come from waiting for photos and text, so we prepare draft content in Hindi or English for you to correct.",
     },
     {
       question: "What can WhatsApp automation do for my business?",

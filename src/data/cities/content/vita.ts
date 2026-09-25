@@ -39,7 +39,7 @@ const vita: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Marathi-first local SEO", "Refinery and jeweller software", "You own domain and code"],
   },
   quickAnswer:
-    "Vita shops, refiners and colleges can get a website from us starting at ₹10,000, normally delivered within a fortnight. Apps for Android and iPhone begin at ₹40,000, the same entry point as AI automation. SEO sites of 700+ pages begin at ₹20,000, stores at ₹50,000 and bespoke software at ₹60,000. Work is remote; there is no Vita office.",
+    "Vita shops, refiners and colleges can get a website from us starting at ₹10,000, normally delivered within a fortnight. Apps for Android and iPhone begin at ₹40,000, the same entry point as AI automation. SEO sites of 299+ pages begin at ₹20,000, stores at ₹50,000 and bespoke software at ₹60,000. Work is remote; there is no Vita office.",
   snapshot: [
     { label: "Administration", value: "Municipal council town and headquarters of Khanapur taluka, Sangli district" },
     { label: "Distances", value: "About 27 km to Palus, 32 km to Tasgaon, 42 km to Karad and 53 km to Sangli railway station" },
@@ -158,7 +158,7 @@ const vita: CityContent = {
       id: "website-cost-vita",
       heading: "Website cost in Vita: starting prices and how to compare quotes",
       paragraphs: [
-        "People in Vita usually want the number first, so here it is by project type. Small business site, up to 100 pages: ₹10,000 onwards, one to two weeks. Large SEO site with 700 pages or more, say a jeweller with a page per collection or a supplier with a page per machine: ₹20,000 onwards, three to five weeks. Android plus iOS app: ₹40,000 onwards. AI or WhatsApp automation: ₹40,000 onwards, two to four weeks.",
+        "People in Vita usually want the number first, so here it is by project type. Small business site, up to 100 pages: ₹10,000 onwards, one to two weeks. Large SEO site with 299 pages or more, say a jeweller with a page per collection or a supplier with a page per machine: ₹20,000 onwards, three to five weeks. Android plus iOS app: ₹40,000 onwards. AI or WhatsApp automation: ₹40,000 onwards, two to four weeks.",
         "Further up the scale, a store with checkout begins at ₹50,000 and needs four to eight weeks, while a bespoke system such as a refining lot register or branch dashboard begins at ₹60,000 and is delivered over six to twelve weeks in stages. Ongoing SEO is ₹10,000 a month onwards. Marathi copy, product photography sessions, extra logins or Tally links only get added if you ask.",
         "Local quotes for work that sounds identical differ a lot, so ask sharper questions than price. Whose email is the domain registered on? Has the site been opened on a ₹7,000 phone? Is the on-page SEO part of the job or an extra? How many rounds of changes? Who fixes it in the second year? See the <a href=\"/pricing/\">pricing page</a>, then message us; the written, line-by-line quote reaches you in roughly two working days.",
       ],
@@ -219,7 +219,7 @@ const vita: CityContent = {
     {
       question: "What is the website cost in Vita?",
       answer:
-        "Entry prices: ₹10,000 for a site of up to 100 pages, ₹20,000 for an SEO build of 700 pages or more, ₹50,000 for a store with checkout and ₹60,000 for bespoke software. Marathi content, catalogue size and integrations move the figure up from there, and each addition is priced on its own line before you commit.",
+        "Entry prices: ₹10,000 for a site of up to 100 pages, ₹20,000 for an SEO build of 299 pages or more, ₹50,000 for a store with checkout and ₹60,000 for bespoke software. Marathi content, catalogue size and integrations move the figure up from there, and each addition is priced on its own line before you commit.",
     },
     {
       question: "Do you build Android and iOS apps for Vita businesses?",
@@ -229,7 +229,7 @@ const vita: CityContent = {
     {
       question: "How many days does a Vita website take?",
       answer:
-        "Seven to fourteen days is normal for a small business site once your photos and text reach us. Allow three to five weeks for a 700-page SEO site, four to eight weeks for an online store and six to twelve weeks for custom software, which we hand over in usable stages rather than all at the end.",
+        "Seven to fourteen days is normal for a small business site once your photos and text reach us. Allow three to five weeks for a 299-page SEO site, four to eight weeks for an online store and six to twelve weeks for custom software, which we hand over in usable stages rather than all at the end.",
     },
     {
       question: "Who is the best website developer in Vita for a jeweller or refiner?",
@@ -254,7 +254,7 @@ const vita: CityContent = {
     {
       question: "Vita madhye website banvayla kiti kharch yeto?",
       answer:
-        "Aamchyakade sadhi website ₹10,000 pasun suru hote ani sadharan ek-don athavdyat tayar hote. 700+ pages SEO website ₹20,000 pasun, Android ani iOS app ₹40,000 pasun ani online store ₹50,000 pasun suru hote. Tumchya garjepramane likhit quote pathavto.",
+        "Aamchyakade sadhi website ₹10,000 pasun suru hote ani sadharan ek-don athavdyat tayar hote. 299+ pages SEO website ₹20,000 pasun, Android ani iOS app ₹40,000 pasun ani online store ₹50,000 pasun suru hote. Tumchya garjepramane likhit quote pathavto.",
     },
     {
       question: "Vita me app ya website banwana ho to kitna lagega?",

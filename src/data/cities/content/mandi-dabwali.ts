@@ -38,7 +38,7 @@ const mandiDabwali: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi and Punjabi local SEO", "Jeep build catalogues", "Owned by you, not us"],
   },
   quickAnswer:
-    "For a Mandi Dabwali business, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, and the domain, code and accounts are yours.",
+    "For a Mandi Dabwali business, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, and the domain, code and accounts are yours.",
   snapshot: [
     { label: "Location", value: "Town on the Haryana–Punjab border in Sirsa district, about 60 km from Sirsa and 40 km from Bathinda" },
     { label: "Population", value: "About 62,000 at the 2011 census, with a municipal council and its own police district" },
@@ -79,7 +79,7 @@ const mandiDabwali: CityContent = {
         "Since the early 2000s Mandi Dabwali has built a name for customised open jeeps. Workshops and dealers, many of them along Sirsa Road, rebuild and restyle old jeeps and Gypsies with new bodies, lift kits, alloy wheels, paint and lighting, and sell them to buyers from Punjab, Haryana, Rajasthan and further. Much of this trade already runs on Instagram, Facebook and WhatsApp.",
         "Social media shows the builds but loses them within a week. Good <strong>web design in Dabwali</strong> for a jeep workshop gives each finished build a permanent page with photographs, the base vehicle, the work done, and a price range or “price on request”. Buyers can filter by type, see what is in stock, and send a WhatsApp enquiry that already names the vehicle they are looking at.",
         "We also add plain pages that answer the questions buyers keep asking: how long a custom build takes, what documents come with the vehicle, what the buyer should check about registration and road use in their own state, and how delivery to another state works. We do not give legal advice, but a clear page that tells buyers what to verify saves both sides trouble later.",
-        "A site like this starts at ₹10,000 and is usually ready in one to two weeks once photographs arrive. For workshops with many builds, a 700+ page SEO site from ₹20,000 can give every vehicle and every service its own searchable page.",
+        "A site like this starts at ₹10,000 and is usually ready in one to two weeks once photographs arrive. For workshops with many builds, a 299+ page SEO site from ₹20,000 can give every vehicle and every service its own searchable page.",
       ],
     },
     {
@@ -156,7 +156,7 @@ const mandiDabwali: CityContent = {
       id: "website-cost-dabwali",
       heading: "Website cost in Mandi Dabwali: starting prices and how to compare",
       paragraphs: [
-        "Dabwali traders ask “kitne ka padega?” before anything else, so the ladder is simple. Up to 100 static pages for a workshop, shop, clinic or arhtiya firm: ₹10,000 onwards, ready in a week or two. A 700-plus page SEO build, the kind a jeep dealer with hundreds of past builds or an IELTS centre with many batches would use: ₹20,000 onwards, three to five weeks. Mobile apps for Android and iPhone, and AI automation jobs, each begin at ₹40,000. An online shop begins at ₹50,000, bespoke software at ₹60,000, and a search retainer at ₹10,000 per month.",
+        "Dabwali traders ask “kitne ka padega?” before anything else, so the ladder is simple. Up to 100 static pages for a workshop, shop, clinic or arhtiya firm: ₹10,000 onwards, ready in a week or two. A 299-plus page SEO build, the kind a jeep dealer with hundreds of past builds or an IELTS centre with many batches would use: ₹20,000 onwards, three to five weeks. Mobile apps for Android and iPhone, and AI automation jobs, each begin at ₹40,000. An online shop begins at ₹50,000, bespoke software at ₹60,000, and a search retainer at ₹10,000 per month.",
         "Your figure grows only with what you pick. Hindi, Punjabi and English versions, a large catalogue, booking or order forms, online payment, staff logins or a Tally or Busy link are each separate lines you can accept or remove. Sending your own text and photographs keeps the quote close to the starting price.",
         "Offers from Sirsa, Bathinda and freelance designers can be far apart for what sounds like the same job. Line them up against five questions: in whose name is the domain booked, which budget handsets were the pages checked on, are page titles and meta descriptions part of the price, how many rounds of edits are allowed, and what will support cost in year two. All our entry prices sit on the <a href=\"/pricing/\">pricing page</a>, and a written breakdown for your own job normally follows in two working days.",
       ],
@@ -217,7 +217,7 @@ const mandiDabwali: CityContent = {
     {
       question: "What is the website cost in Mandi Dabwali?",
       answer:
-        "A static site of up to 100 pages is ₹10,000 onwards; a 700-plus page SEO build ₹20,000 onwards; an online shop ₹50,000 onwards; bespoke software ₹60,000 onwards. Where your figure lands depends on languages, catalogue size and integrations such as Busy or Tally. A written line-by-line estimate follows in about two working days, with no invoice before you agree.",
+        "A static site of up to 100 pages is ₹10,000 onwards; a 299-plus page SEO build ₹20,000 onwards; an online shop ₹50,000 onwards; bespoke software ₹60,000 onwards. Where your figure lands depends on languages, catalogue size and integrations such as Busy or Tally. A written line-by-line estimate follows in about two working days, with no invoice before you agree.",
     },
     {
       question: "Do you build Android and iOS apps for Mandi Dabwali businesses?",
@@ -227,7 +227,7 @@ const mandiDabwali: CityContent = {
     {
       question: "How long does it take to build a website in Dabwali?",
       answer:
-        "A simple static site for a shop, workshop or clinic is usually live one to two weeks after we get photographs and details. Larger projects take longer: about three to five weeks for a 700+ page SEO site, four to eight for an online store and six to twelve for custom software. Quick content from you shortens every timeline.",
+        "A simple static site for a shop, workshop or clinic is usually live one to two weeks after we get photographs and details. Larger projects take longer: about three to five weeks for a 299+ page SEO site, four to eight for an online store and six to twelve for custom software. Quick content from you shortens every timeline.",
     },
     {
       question: "Which is the best website development team in Mandi Dabwali?",

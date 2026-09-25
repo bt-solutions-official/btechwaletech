@@ -34,7 +34,7 @@ const ahmednagar: CityContent = {
     pills: ["Sites from ₹10,000", "Marathi and English search", "MIDC capability pages", "Pilgrim hotel bookings", "Full ownership handed over"],
   },
   quickAnswer:
-    "In Ahilyanagar (Ahmednagar), a business website with us starts at ₹10,000 and a 700+ page SEO website at ₹20,000. Online stores begin at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three engineers with no Nagar office, and every launch includes five months of free maintenance.",
+    "In Ahilyanagar (Ahmednagar), a business website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000. Online stores begin at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three engineers with no Nagar office, and every launch includes five months of free maintenance.",
   snapshot: [
     { label: "Name", value: "Officially renamed Ahilyanagar in October 2024; Ahmednagar and Nagar are still widely searched" },
     { label: "Industry", value: "MIDC estate outside the city with over 200 units, plus MIDC areas at Supa, Shrirampur and Sangamner" },
@@ -71,7 +71,7 @@ const ahmednagar: CityContent = {
       id: "website-cost-nagar",
       heading: "Website costs in Ahilyanagar, stated upfront",
       paragraphs: [
-        "Our prices are published so you have a clear reference before any meeting. A basic website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. A 700+ page SEO website, with a page for each service, product or area you serve, starts at ₹20,000 and takes three to five weeks. Online stores with UPI and card payment start at ₹50,000. Custom applications, such as supplier portals or booking systems, start at ₹60,000.",
+        "Our prices are published so you have a clear reference before any meeting. A basic website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. A 299+ page SEO website, with a page for each service, product or area you serve, starts at ₹20,000 and takes three to five weeks. Online stores with UPI and card payment start at ₹50,000. Custom applications, such as supplier portals or booking systems, start at ₹60,000.",
         "Automation projects start at ₹40,000, monthly SEO at ₹10,000 a month, and maintenance at ₹8,000 a month after the five free months. The complete list is on our <a href=\"/pricing/\">pricing page</a>.",
         "Scope decides the final figure. A clinic with three doctors is a small project. An engineering unit with twelve processes, certifications and downloadable datasheets is a bigger one. Your quote lists every item so you can remove what you do not need.",
       ],
@@ -219,7 +219,7 @@ const ahmednagar: CityContent = {
     {
       question: "How much does a website cost in Ahmednagar?",
       answer:
-        "With us, a basic business website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Local quotes vary a lot, so compare what is included, especially domain ownership, SEO setup and support after launch.",
+        "With us, a basic business website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Local quotes vary a lot, so compare what is included, especially domain ownership, SEO setup and support after launch.",
     },
     {
       question: "Ahilyanagar madhe website banvayla kiti kharch yeto?",
@@ -254,7 +254,7 @@ const ahmednagar: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A basic site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Waiting for photos and content causes most delays, so we write drafts for you to correct.",
+        "A basic site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Waiting for photos and content causes most delays, so we write drafts for you to correct.",
     },
     {
       question: "How long before SEO shows results?",

@@ -171,7 +171,7 @@ const content: CityContent = {
       paragraphs: [
         "SEO for Sikkim businesses means being found by travellers planning trips from other states and countries, by pilgrims and trekkers searching specific places, and by locals searching on Google Maps, plus being described accurately when someone asks an AI assistant which homestay, travel agent or shop to choose.",
         "We plan pages around real searches: routes like Gangtok to Lachung, places like Yuksom or Ravangla, activities like the Goecha La trek, and products like organic cardamom. Each page answers one need clearly, with schema for lodging, tours and products. We also guide you through setting up and maintaining Google Business Profiles for each location.",
-        "Our SEO website plan from ₹20,000 builds 700+ pages, ideal for travel operators covering many routes. Monthly SEO from ₹10,000 includes technical fixes, content and reporting. OTAs and large travel portals dominate broad searches, so we target the specific and local searches where a Sikkim business can realistically win. More on our <a href='/services/seo-services/'>SEO services</a>.",
+        "Our SEO website plan from ₹20,000 builds 299+ pages, ideal for travel operators covering many routes. Monthly SEO from ₹10,000 includes technical fixes, content and reporting. OTAs and large travel portals dominate broad searches, so we target the specific and local searches where a Sikkim business can realistically win. More on our <a href='/services/seo-services/'>SEO services</a>.",
       ],
     },
     {
@@ -187,7 +187,7 @@ const content: CityContent = {
       id: "sikkim-cost-guide",
       heading: "How much do IT services in Sikkim cost?",
       paragraphs: [
-        "IT services in Sikkim with BtechWaleTech start at ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an ecommerce store and ₹60,000 for custom software, with monthly SEO from ₹10,000 and maintenance from ₹8,000 a month.",
+        "IT services in Sikkim with BtechWaleTech start at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an ecommerce store and ₹60,000 for custom software, with monthly SEO from ₹10,000 and maintenance from ₹8,000 a month.",
         "These are starting prices. A homestay website with five pages sits at the lower end; a statewide travel operator's package builder with permits, driver app and dashboard is a larger project. Every quote is itemised so you can choose what to build first.",
         "Payments are in INR, by UPI QR code or direct bank transfer only, split into milestones. See the full <a href='/pricing/'>pricing page</a> for what each plan includes.",
       ],

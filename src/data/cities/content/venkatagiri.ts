@@ -39,7 +39,7 @@ const venkatagiri: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "GI saree online stores", "Telugu-first local SEO", "All accounts in your name"],
   },
   quickAnswer:
-    "In Venkatagiri, a website with us starts at ₹10,000 and a 700+ page SEO site at ₹20,000. Android and iOS apps and AI automation start at ₹40,000, a saree online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Venkatagiri office, and the domain, code and store accounts stay in your name.",
+    "In Venkatagiri, a website with us starts at ₹10,000 and a 299+ page SEO site at ₹20,000. Android and iOS apps and AI automation start at ₹40,000, a saree online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Venkatagiri office, and the domain, code and store accounts stay in your name.",
   snapshot: [
     { label: "Location", value: "Tirupati district, between the Kaivalya and Godderu rivers, at about 60 m elevation" },
     { label: "Population", value: "About 52,688 at the 2011 census; municipality formed in January 2005" },
@@ -216,7 +216,7 @@ const venkatagiri: CityContent = {
     {
       question: "What is the website cost in Venkatagiri?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices, and the final quote depends on pages, Telugu content, products and features. You receive it itemised in writing before anything is billed.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices, and the final quote depends on pages, Telugu content, products and features. You receive it itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Venkatagiri businesses?",
@@ -231,7 +231,7 @@ const venkatagiri: CityContent = {
     {
       question: "How long does a website take in Venkatagiri?",
       answer:
-        "A simple website is usually ready in one to two weeks after you send photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Saree stores move faster when product photographs are ready early.",
+        "A simple website is usually ready in one to two weeks after you send photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Saree stores move faster when product photographs are ready early.",
     },
     {
       question: "Who is the best website development team in Venkatagiri?",
@@ -251,7 +251,7 @@ const venkatagiri: CityContent = {
     {
       question: "Venkatagiri lo website cheyinchukovadaniki entha kharchu avutundi?",
       answer:
-        "Maa daggara simple website ₹10,000 nundi modalavutundi, okati rendu vaaralalo ready avutundi. 700+ pages SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalavutayi. Mee features batti itemised quote rendu working days lo pamputamu.",
+        "Maa daggara simple website ₹10,000 nundi modalavutundi, okati rendu vaaralalo ready avutundi. 299+ pages SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalavutayi. Mee features batti itemised quote rendu working days lo pamputamu.",
     },
     {
       question: "You have no office in Venkatagiri. Is remote work safe?",

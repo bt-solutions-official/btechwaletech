@@ -72,7 +72,7 @@ const content: FreelanceContent = {
       { name: "One-page site for a shop or clinic", note: "Fits inside the static plan: timings, location map, services, photos and a WhatsApp button on a single fast page.", href: "/website-for-shop/", size: "lg" },
       { name: "Local business site with Maps focus", note: "Static pages tuned for your Google Business Profile, service areas and click-to-call, so nearby customers find you.", href: "/website-for-local-business/", size: "md" },
       { name: "Personal or professional profile", note: "Doctors, lawyers, tutors and consultants often need only a few pages that build trust and take bookings by WhatsApp.", href: "/personal-website-developer/", size: "md" },
-      { name: "SEO website, 700+ pages", note: `When you want to rank for many services or locations, this plan starts at ${P.seoSite}. Worth it only once the basics work.`, href: "/seo-website-developer/", size: "md" },
+      { name: "SEO website, 299+ pages", note: `When you want to rank for many services or locations, this plan starts at ${P.seoSite}. Worth it only once the basics work.`, href: "/seo-website-developer/", size: "md" },
       { name: "Online store", note: `Cart and UPI or card checkout start from ${P.shop}. Until then, a catalogue with WhatsApp ordering keeps you on the low cost plan.`, href: "/freelance-ecommerce-developer/", size: "sm" },
       { name: "Monthly SEO", note: `Ongoing search work from ${P.seo}. Optional; many small sites grow on a good build and a Google Business Profile alone.`, href: "/services/seo-services/", size: "sm" },
       { name: "Moving off a site builder", note: "Tired of paying a builder subscription every year? We move your pages to a static site you own outright.", href: "/wix-to-custom-website/", size: "sm" },
@@ -314,7 +314,7 @@ const content: FreelanceContent = {
       columns: ["Signal you notice", "Next plan", "Starts at", "Typical timeline"],
       rows: [
         ["Customers ask to pay online", "Online store", `From ${P.shop}`, "4–8 weeks"],
-        ["You serve many areas and services", "SEO website, 700+ pages", `From ${P.seoSite}`, "3–5 weeks"],
+        ["You serve many areas and services", "SEO website, 299+ pages", `From ${P.seoSite}`, "3–5 weeks"],
         ["Customers need logins or bookings", "Custom web app", `From ${P.software}`, "6–12 weeks"],
         ["Repeat customers want an app", "Android & iOS app", `From ${P.app}`, "6–10 weeks"],
         ["WhatsApp enquiries are overwhelming", "AI automation", `From ${P.ai}`, "2–4 weeks"],

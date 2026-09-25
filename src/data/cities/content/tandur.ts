@@ -39,7 +39,7 @@ const tandur: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu and English SEO", "Stone and cement trade tools", "Your name on every account"],
   },
   quickAnswer:
-    "Tandur businesses can get a static website from us for ₹10,000 upwards, normally finished inside two weeks. Android and iOS apps begin at ₹40,000, as does AI and WhatsApp automation; a 700+ page SEO site begins at ₹20,000, an online shop at ₹50,000 and custom software at ₹60,000. We work remotely and keep no office in Tandur.",
+    "Tandur businesses can get a static website from us for ₹10,000 upwards, normally finished inside two weeks. Android and iOS apps begin at ₹40,000, as does AI and WhatsApp automation; a 299+ page SEO site begins at ₹20,000, an online shop at ₹50,000 and custom software at ₹60,000. We work remotely and keep no office in Tandur.",
   snapshot: [
     { label: "Administration", value: "Revenue division headquarters in Vikarabad district, western Telangana, close to the Karnataka border" },
     { label: "Stone and cement", value: "Limestone quarries and polishing units, with cement plants run by several major manufacturers in the area" },
@@ -165,7 +165,7 @@ const tandur: CityContent = {
       heading: "Website cost in Tandur: how to compare quotes",
       paragraphs: [
         "Someone at a Tandur hardware counter will ask “Tandur me website banwana kitne ka hai?”, while a quarry owner's son types <strong>website cost in Tandur</strong> into Google. Either way, the fair reply is that it depends on the job. Quotes around town range from almost nothing to surprisingly large sums, so line them up by content, not just the bottom number. Check whose name the domain goes in, what hosting will cost in year two, whether Telugu text is actually written or pasted from a translator, how many rounds of changes are allowed and who fixes things after go-live.",
-        "Here is how our own entry points look. Static site, up to 100 pages: ₹10,000 onwards, one to two weeks. SEO site with 700+ pages: ₹20,000 onwards, three to five weeks. Android and iOS app: ₹40,000 onwards. AI automation: ₹40,000 onwards. Online store: ₹50,000 onwards. Custom web application: ₹60,000 onwards. Every figure is a floor, not a package, and the <a href=\"/pricing/\">pricing page</a> carries the complete breakdown.",
+        "Here is how our own entry points look. Static site, up to 100 pages: ₹10,000 onwards, one to two weeks. SEO site with 299+ pages: ₹20,000 onwards, three to five weeks. Android and iOS app: ₹40,000 onwards. AI automation: ₹40,000 onwards. Online store: ₹50,000 onwards. Custom web application: ₹60,000 onwards. Every figure is a floor, not a package, and the <a href=\"/pricing/\">pricing page</a> carries the complete breakdown.",
         "Tell us the scope over WhatsApp and a line-by-line written quote reaches you within roughly two working days. No invoice is raised until you have agreed to it in writing.",
       ],
     },
@@ -216,7 +216,7 @@ const tandur: CityContent = {
     {
       question: "What is the website cost in Tandur?",
       answer:
-        "A basic static site from us begins at ₹10,000. A 700+ page SEO site begins at ₹20,000, an online shop at ₹50,000 and bespoke software at ₹60,000. None of these is a final figure: Telugu copy, product count, forms and integrations move the number, and you see every line in a written quote before paying anything.",
+        "A basic static site from us begins at ₹10,000. A 299+ page SEO site begins at ₹20,000, an online shop at ₹50,000 and bespoke software at ₹60,000. None of these is a final figure: Telugu copy, product count, forms and integrations move the number, and you see every line in a written quote before paying anything.",
     },
     {
       question: "How long does a website take for a Tandur business?",

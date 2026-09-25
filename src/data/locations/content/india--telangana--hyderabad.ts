@@ -201,7 +201,7 @@ const content: CityContent = {
       heading: "SEO and AI-search visibility for Hyderabad companies and shops",
       paragraphs: [
         "SEO for Hyderabad businesses means ranking in Google and Maps for your services in the localities you serve and for the B2B terms your buyers use, and giving AI assistants accurate, consistent information to cite. Monthly SEO starts from ₹10,000 with BtechWaleTech.",
-        "We fix technical issues first, then optimise your Google Business Profile and build pages that answer buyer questions. Hyderabad spreads over a very wide area, so separate, genuinely useful pages for areas such as Kukatpally, Gachibowli, Secunderabad, Dilsukhnagar or LB Nagar outperform a single generic city page. Content can be English with Telugu or Urdu sections where your audience prefers them. Our <a href='/services/seo-services/'>SEO services</a> also include 700+ page SEO websites from ₹20,000 for large catalogues.",
+        "We fix technical issues first, then optimise your Google Business Profile and build pages that answer buyer questions. Hyderabad spreads over a very wide area, so separate, genuinely useful pages for areas such as Kukatpally, Gachibowli, Secunderabad, Dilsukhnagar or LB Nagar outperform a single generic city page. Content can be English with Telugu or Urdu sections where your audience prefers them. Our <a href='/services/seo-services/'>SEO services</a> also include 299+ page SEO websites from ₹20,000 for large catalogues.",
         "For AI search we add FAQ sections, structured data and consistent business facts across listings. We never guarantee rankings or AI mentions. Local terms often improve in three to six months; competitive B2B terms take longer. Reports use Search Console data. For a website-first project, see our <a href='/hyderabad/'>Hyderabad websites and SEO page</a>.",
       ],
     },
@@ -209,7 +209,7 @@ const content: CityContent = {
       id: "hyderabad-cost-payment-remote",
       heading: "Cost, payment and remote delivery for Hyderabad IT projects",
       paragraphs: [
-        "IT projects in Hyderabad with BtechWaleTech start from ₹10,000 for a static website, ₹20,000 for a 700+ page SEO site, ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for ecommerce and ₹60,000 for custom web apps. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000 a month after five free months.",
+        "IT projects in Hyderabad with BtechWaleTech start from ₹10,000 for a static website, ₹20,000 for a 299+ page SEO site, ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for ecommerce and ₹60,000 for custom web apps. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000 a month after five free months.",
         "Final cost depends on screens, roles, integrations, languages, data migration and content. You receive an itemised estimate about two working days after the consultation and can phase features to fit your budget. Hyderabad clients pay only through UPI, by scanning our QR code, or by direct bank transfer to our bank account, in INR, in milestones tied to visible progress.",
         "Delivery is fully remote: a live preview from week one, weekly updates, WhatsApp replies seven days a week and recorded training videos. We have no Hyderabad office and do not work on site. See our <a href='/portfolio/'>portfolio</a>, meet the team on the <a href='/about/'>about page</a>, or read the wider <a href='/india/telangana/'>Telangana overview</a>.",
       ],

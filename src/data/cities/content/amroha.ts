@@ -35,7 +35,7 @@ const amroha: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi and English pages", "Sell dholaks online", "Supplier sites for Gajraula", "WhatsApp order handling"],
   },
   quickAnswer:
-    "In Amroha, a simple business website with us starts at ₹10,000 and goes live in one to two weeks. A 700+ page SEO site starts at ₹20,000 and an online store at ₹50,000. We are a remote team of three engineers with no office in Amroha, and five months of maintenance after launch are included free.",
+    "In Amroha, a simple business website with us starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000 and an online store at ₹50,000. We are a remote team of three engineers with no office in Amroha, and five months of maintenance after launch are included free.",
   snapshot: [
     { label: "District role", value: "Headquarters of Amroha district in Moradabad division, western Uttar Pradesh" },
     { label: "Signature craft", value: "Hand-made dholaks with mango-wood shells, Amroha's product under UP's One District One Product scheme" },
@@ -73,12 +73,12 @@ const amroha: CityContent = {
       heading: "How much does a website cost in Amroha?",
       paragraphs: [
         "Prices for a basic site in and around Amroha vary from a couple of thousand rupees for a one-page template to ₹30,000 or more from agencies in larger cities. The cheapest versions often have no search setup, sit on hosting the developer controls and are rarely updated. The expensive ones may be well made but include overheads a small business does not need to pay for.",
-        "We publish our prices on our <a href=\"/pricing/\">pricing page</a>. A static website for a shop, clinic, school or small workshop starts at ₹10,000 and is usually ready in one to two weeks. A 700+ page site built around what people actually search for starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, WhatsApp and AI automation at ₹40,000, and monthly SEO at ₹10,000 a month.",
+        "We publish our prices on our <a href=\"/pricing/\">pricing page</a>. A static website for a shop, clinic, school or small workshop starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page site built around what people actually search for starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, WhatsApp and AI automation at ₹40,000, and monthly SEO at ₹10,000 a month.",
         "The final figure depends on scope. A dholak workshop with eight models and good photos needs less work than a supplier listing three hundred parts with no descriptions. You get a quote listing every page and feature, and nothing is billed until you approve it in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form, Google Maps and basic SEO. For shops, clinics, tutors and small workshops.",
-        "<strong>From ₹20,000:</strong> 700+ pages with separate service or product pages. For firms that want steady enquiries from Google.",
+        "<strong>From ₹20,000:</strong> 299+ pages with separate service or product pages. For firms that want steady enquiries from Google.",
         "<strong>From ₹50,000:</strong> online store with catalogue, cart, UPI and card payments. For dholak, handicraft and mango sellers.",
         "<strong>From ₹60,000:</strong> custom systems with logins and dashboards. For Gajraula suppliers, contractors and institutions.",
       ],
@@ -209,12 +209,12 @@ const amroha: CityContent = {
     {
       question: "How much does a website cost in Amroha?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Other quotes you receive may be lower or much higher, so check whether they include SEO, hosting in your name and support after launch.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Other quotes you receive may be lower or much higher, so check whether they include SEO, hosting in your name and support after launch.",
     },
     {
       question: "Amroha me website banwane me kitna kharcha aata hai?",
       answer:
-        "Humare saath ek simple website ₹10,000 se shuru hoti hai, 700+ page wali SEO website ₹20,000 se, aur online store ₹50,000 se. Final price pages, features aur content par depend karta hai. Kaam shuru hone se pehle aapko likhit, itemised quote milta hai, aur aapki manzoori ke baad hi bill banta hai.",
+        "Humare saath ek simple website ₹10,000 se shuru hoti hai, 299+ page wali SEO website ₹20,000 se, aur online store ₹50,000 se. Final price pages, features aur content par depend karta hai. Kaam shuru hone se pehle aapko likhit, itemised quote milta hai, aur aapki manzoori ke baad hi bill banta hai.",
     },
     {
       question: "Do you have an office in Amroha?",
@@ -234,7 +234,7 @@ const amroha: CityContent = {
     {
       question: "How long does it take to make a website?",
       answer:
-        "A static website usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve. The biggest delay is usually waiting for photos and text, so we write draft content for you to check.",
+        "A static website usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve. The biggest delay is usually waiting for photos and text, so we write draft content for you to check.",
     },
     {
       question: "Can I sell dholaks online from Amroha?",

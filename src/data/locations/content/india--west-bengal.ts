@@ -187,7 +187,7 @@ const content: CityContent = {
       heading: "SEO in Bengali and English, local SEO and AI visibility across West Bengal",
       paragraphs: [
         "SEO for West Bengal businesses means ranking for Bengali and English searches in the towns and districts you serve, on Google search and Maps, and presenting clear, consistent facts that AI assistants can repeat accurately. Monthly SEO with us starts from ₹10,000.",
-        "Local SEO begins with a complete Google Business Profile, consistent contact details, genuine reviews and photos. Then we build a separate, useful page for each service and town you genuinely serve. Bengali pages face much less competition than English ones for local services, so well-written Bengali content can rank quickly. Exporters and tourism businesses need strong English pages for buyers and travellers. Our <a href='/services/seo-services/'>SEO services</a> also include 700+ page SEO websites from ₹20,000.",
+        "Local SEO begins with a complete Google Business Profile, consistent contact details, genuine reviews and photos. Then we build a separate, useful page for each service and town you genuinely serve. Bengali pages face much less competition than English ones for local services, so well-written Bengali content can rank quickly. Exporters and tourism businesses need strong English pages for buyers and travellers. Our <a href='/services/seo-services/'>SEO services</a> also include 299+ page SEO websites from ₹20,000.",
         "For AI search we add structured data, FAQ answers and consistent business details across listings. We never guarantee rankings. Local results often improve within three to six months; competitive statewide terms take longer. Reports use Search Console data.",
       ],
     },
@@ -195,7 +195,7 @@ const content: CityContent = {
       id: "west-bengal-cost-payment",
       heading: "How much do IT solutions cost in West Bengal?",
       paragraphs: [
-        "IT solutions in West Bengal with BtechWaleTech start from ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for ecommerce and ₹60,000 for custom software. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000 a month after the free period.",
+        "IT solutions in West Bengal with BtechWaleTech start from ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for ecommerce and ₹60,000 for custom software. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000 a month after the free period.",
         "These are starting prices. The final figure depends on the number of screens and roles, integrations with Tally or other systems, offline needs, Bengali and English versions, data migration from registers and content writing. After a free consulting call, you receive an itemised quote in about two working days and can phase features to suit your budget.",
         "Clients pay only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in INR, split into milestones tied to visible progress. Five months of maintenance come free after launch. See every plan on our <a href='/pricing/'>pricing page</a> and past work in the <a href='/portfolio/'>portfolio</a>.",
       ],

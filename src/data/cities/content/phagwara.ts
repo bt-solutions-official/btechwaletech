@@ -35,7 +35,7 @@ const phagwara: CityContent = {
     pills: ["Sites from ₹10,000", "Punjabi, Hindi and English", "Auto-parts catalogues", "PG and hostel pages", "Run it from abroad"],
   },
   quickAnswer:
-    "A basic business website in Phagwara starts at ₹10,000 with us and is ready in one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000, AI or WhatsApp automation at ₹40,000 and custom software at ₹60,000. We are remote with no Phagwara office, and maintenance is free for five months.",
+    "A basic business website in Phagwara starts at ₹10,000 with us and is ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000, AI or WhatsApp automation at ₹40,000 and custom software at ₹60,000. We are remote with no Phagwara office, and maintenance is free for five months.",
   snapshot: [
     { label: "Location", value: "Kapurthala district in the Doaba region between the Beas and Sutlej, on the GT Road (NH 44) between Jalandhar and Ludhiana" },
     { label: "Industry", value: "Known for sugar, glucose, starch, fine fabric and auto parts; Sukhjit Starch dates to 1943 and the JCT textile mill shaped the town" },
@@ -73,7 +73,7 @@ const phagwara: CityContent = {
       heading: "What websites cost in Phagwara, and our starting prices",
       paragraphs: [
         "A PG owner, an auto-parts exporter and a banquet hall need very different things, so one number means nothing. Our starting points are published on the <a href=\"/pricing/\">pricing page</a>, and every project is then quoted line by line.",
-        "A static website of up to 100 pages, with mobile layout, enquiry forms, map, English, Punjabi or Hindi text and basic search setup, starts from ₹10,000 and takes one to two weeks. A 700+ page site, with a page for each product, part range, room type, course or service, planned around real searches, starts from ₹20,000 and takes three to five weeks. AI and WhatsApp automation start from ₹40,000, online stores from ₹50,000, custom software from ₹60,000 and monthly SEO from ₹10,000.",
+        "A static website of up to 100 pages, with mobile layout, enquiry forms, map, English, Punjabi or Hindi text and basic search setup, starts from ₹10,000 and takes one to two weeks. A 299+ page site, with a page for each product, part range, room type, course or service, planned around real searches, starts from ₹20,000 and takes three to five weeks. AI and WhatsApp automation start from ₹40,000, online stores from ₹50,000, custom software from ₹60,000 and monthly SEO from ₹10,000.",
         "The final figure depends on scope: number of products or part numbers, languages, international payments, integrations with Tally or a dealer system, and how much content we write. We send an itemised quote in about two working days, and nothing is billed until you approve it in writing.",
       ],
       list: [
@@ -217,12 +217,12 @@ const phagwara: CityContent = {
     {
       question: "How much does a website cost in Phagwara?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO site from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. When comparing other Phagwara quotes, check whose name the domain is in, whether SEO basics are included and what happens after launch.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO site from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. When comparing other Phagwara quotes, check whose name the domain is in, whether SEO basics are included and what happens after launch.",
     },
     {
       question: "Phagwara vich website banaun da kharcha kinna aunda hai?",
       answer:
-        "Saadi simple website ₹10,000 ton shuru hundi hai te ikk-do hafteyan vich tiyaar ho jandi hai. 700+ pages wali SEO website ₹20,000 ton, te online store ₹50,000 ton shuru hunda hai. Pehlan likhat vich poora itemised quote bhejde haan, te tuhadi manzoori ton bina koi bill nahi banda.",
+        "Saadi simple website ₹10,000 ton shuru hundi hai te ikk-do hafteyan vich tiyaar ho jandi hai. 299+ pages wali SEO website ₹20,000 ton, te online store ₹50,000 ton shuru hunda hai. Pehlan likhat vich poora itemised quote bhejde haan, te tuhadi manzoori ton bina koi bill nahi banda.",
     },
     {
       question: "Do you have an office in Phagwara or Jalandhar?",

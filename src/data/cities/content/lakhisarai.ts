@@ -34,7 +34,7 @@ const lakhisarai: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi and English", "Coaching and clinic sites", "Google Maps setup", "Your domain, your code"],
   },
   quickAnswer:
-    "In Lakhisarai, a static business website with us starts at ₹10,000 and is ready in one to two weeks. A 700+ page SEO site starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are a remote three-person team with no Lakhisarai office, and every launch includes five months of free maintenance.",
+    "In Lakhisarai, a static business website with us starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are a remote three-person team with no Lakhisarai office, and every launch includes five months of free maintenance.",
   snapshot: [
     { label: "District", value: "Headquarters of Lakhisarai district, carved out of Munger district on 3 July 1994" },
     { label: "Railways", value: "Lakhisarai Junction on the Kiul river, and Kiul Junction nearby where the main line and loop line cross" },
@@ -72,7 +72,7 @@ const lakhisarai: CityContent = {
       heading: "Website prices for Lakhisarai businesses",
       paragraphs: [
         "Our <a href=\"/pricing/\">pricing page</a> shows starting prices only, because every business needs something slightly different. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. It includes a mobile layout, contact form, WhatsApp button, Google map and basic search setup, which is enough for most shops, clinics and tutors in town.",
-        "A 700+ page site designed around real searches starts at ₹20,000 and takes three to five weeks. WhatsApp and AI automation starts at ₹40,000, online stores at ₹50,000, custom software such as fee or stock management at ₹60,000, and monthly SEO at ₹10,000. After launch, five months of maintenance are free, then it continues from ₹8,000 a month if you want it.",
+        "A 299+ page site designed around real searches starts at ₹20,000 and takes three to five weeks. WhatsApp and AI automation starts at ₹40,000, online stores at ₹50,000, custom software such as fee or stock management at ₹60,000, and monthly SEO at ₹10,000. After launch, five months of maintenance are free, then it continues from ₹8,000 a month if you want it.",
         "People in Lakhisarai hear very different quotes, and it is hard to compare them. Instead of looking only at the number, ask three things: whose name the domain is registered in, whether you can change prices and photos yourself, and what happens when the site breaks after six months. A cheap site without those answers often ends up costing more.",
       ],
       list: [
@@ -209,7 +209,7 @@ const lakhisarai: CityContent = {
     {
       question: "How much does a website cost in Lakhisarai?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO sites at ₹20,000, WhatsApp automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. The final figure depends on pages and features. We send an itemised quote in about two working days and bill nothing before your approval.",
+        "Our static websites start at ₹10,000, 299+ page SEO sites at ₹20,000, WhatsApp automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. The final figure depends on pages and features. We send an itemised quote in about two working days and bill nothing before your approval.",
     },
     {
       question: "Lakhisarai mein website banwane ka kharcha kitna aata hai?",
@@ -244,7 +244,7 @@ const lakhisarai: CityContent = {
     {
       question: "How long does it take to make a website?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Most delays come from waiting for photos and price lists, so we share a checklist at the start.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Most delays come from waiting for photos and price lists, so we share a checklist at the start.",
     },
     {
       question: "What can WhatsApp automation do for a Lakhisarai shop?",

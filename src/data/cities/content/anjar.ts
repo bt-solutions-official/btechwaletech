@@ -39,7 +39,7 @@ const anjar: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Supplier capability sites", "Bandhani and knife stores", "Your name on every login"],
   },
   quickAnswer:
-    "For Anjar businesses, our websites start at ₹10,000 and usually launch in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are remote with no Anjar office, and you own the domain, hosting and code.",
+    "For Anjar businesses, our websites start at ₹10,000 and usually launch in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are remote with no Anjar office, and you own the domain, hosting and code.",
   snapshot: [
     { label: "Location", value: "Taluka headquarters in Kutch district, in the industrial corridor of eastern Kutch" },
     { label: "History", value: "Fort dated to 805 AD in the 1880 Bombay Presidency gazetteer; a seat of the Kutch rulers in the sixteenth century" },
@@ -158,7 +158,7 @@ const anjar: CityContent = {
       id: "website-cost-anjar",
       heading: "Website cost in Anjar: starting prices and fair comparison",
       paragraphs: [
-        "Our starting prices are published. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, ecommerce stores at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
+        "Our starting prices are published. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, ecommerce stores at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
         "Scope moves the figure: three languages instead of one, long product catalogues, payment and courier integration, logins, or links to Tally and ERP systems. If you supply content and photographs, the price stays near the starting point; writing and photography appear as separate lines when we handle them.",
         "Local quotes vary widely, so compare carefully. Ask whose name the domain and hosting are registered in, whether mobile testing and basic SEO are included, how many rounds of changes you get and who fixes problems after launch. Starting points are on our <a href=\"/pricing/\">pricing page</a>, and your itemised quote arrives in about two working days.",
       ],
@@ -220,7 +220,7 @@ const anjar: CityContent = {
     {
       question: "What is the website cost in Anjar?",
       answer:
-        "With us, static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Your final quote depends on pages, languages, products and integrations, and it arrives itemised in writing before anything is billed.",
+        "With us, static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Your final quote depends on pages, languages, products and integrations, and it arrives itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Anjar businesses?",
@@ -235,7 +235,7 @@ const anjar: CityContent = {
     {
       question: "How long does a website take in Anjar?",
       answer:
-        "A static website usually goes live in one to two weeks after we receive text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Content being ready is the biggest factor in speed.",
+        "A static website usually goes live in one to two weeks after we receive text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Content being ready is the biggest factor in speed.",
     },
     {
       question: "Who is the best website development team in Anjar?",
@@ -255,7 +255,7 @@ const anjar: CityContent = {
     {
       question: "Anjar ma website banavva ketlo kharch thay?",
       answer:
-        "Amari pase simple website ₹10,000 thi sharu thay chhe ane saamanya rite ek-be athvadiyama taiyar thay chhe. 700+ page SEO website ₹20,000 thi, Android ane iOS app ₹40,000 thi ane online store ₹50,000 thi sharu thay chhe. Final quote tamara pages ane features pramane lekhitma aapiye chhiye.",
+        "Amari pase simple website ₹10,000 thi sharu thay chhe ane saamanya rite ek-be athvadiyama taiyar thay chhe. 299+ page SEO website ₹20,000 thi, Android ane iOS app ₹40,000 thi ane online store ₹50,000 thi sharu thay chhe. Final quote tamara pages ane features pramane lekhitma aapiye chhiye.",
     },
     {
       question: "You have no office in Anjar. Is remote work safe?",

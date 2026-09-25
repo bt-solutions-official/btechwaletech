@@ -163,7 +163,7 @@ const balaghat: CityContent = {
       ],
       list: [
         "<strong>Static website, up to 100 pages:</strong> from ₹10,000, one to two weeks.",
-        "<strong>SEO website with 700+ pages:</strong> starts at ₹20,000, three to five weeks.",
+        "<strong>SEO website with 299+ pages:</strong> starts at ₹20,000, three to five weeks.",
         "<strong>Android and iOS app:</strong> from ₹40,000, on Google Play and the App Store.",
         "<strong>AI and WhatsApp automation:</strong> from ₹40,000, two to four weeks.",
         "<strong>Online store for rice or produce:</strong> starts at ₹50,000, four to eight weeks.",
@@ -219,7 +219,7 @@ const balaghat: CityContent = {
     {
       question: "How much does a website cost in Balaghat?",
       answer:
-        "A basic business website starts at ₹10,000 and is ready in one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. You get an itemised written quote in about two working days, and nothing is billed until you approve it.",
+        "A basic business website starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. You get an itemised written quote in about two working days, and nothing is billed until you approve it.",
     },
     {
       question: "Balaghat me website ya app banwane ka kharcha kitna hai?",
@@ -274,7 +274,7 @@ const balaghat: CityContent = {
     {
       question: "How long does a website or app take?",
       answer:
-        "A small website takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. App timelines depend on features and store review. Ready photos, prices and basic text keep things on schedule.",
+        "A small website takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. App timelines depend on features and store review. Ready photos, prices and basic text keep things on schedule.",
     },
     {
       question: "What happens after launch? Is maintenance included?",

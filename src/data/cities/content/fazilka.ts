@@ -39,7 +39,7 @@ const fazilka: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Punjabi and Bagri-aware SEO", "Kinnow and jutti stores", "Every account in your name"],
   },
   quickAnswer:
-    "Fazilka businesses can get a website from us starting at ₹10,000, usually live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Fazilka office, and you own every login.",
+    "Fazilka businesses can get a website from us starting at ₹10,000, usually live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Fazilka office, and you own every login.",
   snapshot: [
     { label: "Location", value: "District headquarters about 10 km from the India–Pakistan border, near the Punjab–Rajasthan–Haryana meeting point" },
     { label: "History", value: "Founded in 1844 and named after Mian Fazil Wattoo; municipality from 1885; became a district in July 2011" },
@@ -149,7 +149,7 @@ const fazilka: CityContent = {
       id: "website-cost-fazilka",
       heading: "Website cost in Fazilka: starting prices and what to compare",
       paragraphs: [
-        "Our starting prices for Fazilka are published and are the same as for any city. A static website of up to 100 pages begins at ₹10,000 and takes one to two weeks. A 700+ page SEO website begins at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation each start at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO is from ₹10,000 a month.",
+        "Our starting prices for Fazilka are published and are the same as for any city. A static website of up to 100 pages begins at ₹10,000 and takes one to two weeks. A 299+ page SEO website begins at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation each start at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO is from ₹10,000 a month.",
         "What raises the quote is scope: more pages, Punjabi, Hindi and English versions, many products or sizes, payment and courier connections, staff logins or links to Tally and other software. Content counts too. If you supply the text and photographs, the price stays near the starting point; if we write, translate and photograph-edit everything, that goes on a separate line.",
         "Local quotes vary widely, so compare what is included, not only the total. Ask whose name the domain and hosting will be in, whether mobile testing and basic SEO are covered, how many rounds of changes you get and who fixes problems after launch. Our <a href=\"/pricing/\">pricing page</a> shows the starting points, and your written quote reaches you in about two working days.",
       ],
@@ -210,7 +210,7 @@ const fazilka: CityContent = {
     {
       question: "What is the website cost in Fazilka?",
       answer:
-        "Our static websites start at ₹10,000, SEO websites with 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. All are starting prices; the final figure depends on pages, Punjabi or Hindi content, products and integrations. You receive an itemised quote in writing before any billing.",
+        "Our static websites start at ₹10,000, SEO websites with 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. All are starting prices; the final figure depends on pages, Punjabi or Hindi content, products and integrations. You receive an itemised quote in writing before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Fazilka businesses?",
@@ -220,7 +220,7 @@ const fazilka: CityContent = {
     {
       question: "How fast can a Fazilka shop get a website?",
       answer:
-        "A static website usually goes live in one to two weeks after we receive your text and photographs. A 700+ page SEO website takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having content ready and approving quickly makes the biggest difference.",
+        "A static website usually goes live in one to two weeks after we receive your text and photographs. A 299+ page SEO website takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having content ready and approving quickly makes the biggest difference.",
     },
     {
       question: "Which is the best website development team in Fazilka?",
@@ -245,7 +245,7 @@ const fazilka: CityContent = {
     {
       question: "Fazilka me website banwane ka kitna kharcha aata hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur zyadatar ek se do hafte mein ban jaati hai. 700+ page ki SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapke pages aur features dekh kar likhit quote diya jaata hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur zyadatar ek se do hafte mein ban jaati hai. 299+ page ki SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapke pages aur features dekh kar likhit quote diya jaata hai.",
     },
     {
       question: "You have no office in Fazilka. Is remote work safe?",

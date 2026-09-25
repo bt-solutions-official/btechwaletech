@@ -34,7 +34,7 @@ const udaipur: CityContent = {
     pills: ["Websites from ₹10,000", "Hotel and wedding sites", "Marble and craft catalogues", "WhatsApp booking replies", "You own everything"],
   },
   quickAnswer:
-    "In Udaipur, a business website with us starts at ₹10,000 and a 700+ page SEO website at ₹20,000, delivered in one to five weeks. We are three engineers working remotely, without an Udaipur office. Each project includes hosting setup, Google search basics and five months of free maintenance after launch.",
+    "In Udaipur, a business website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000, delivered in one to five weeks. We are three engineers working remotely, without an Udaipur office. Each project includes hosting setup, Google search basics and five months of free maintenance after launch.",
   snapshot: [
     { label: "Tourist and old-city markets", value: "Hathi Pol, Bapu Bazaar, Bada Bazaar and the lanes around City Palace and Lake Pichola" },
     { label: "Newer commercial areas", value: "Chetak Circle, Hiran Magri sectors, Fatehpura and Shobhagpura" },
@@ -72,12 +72,12 @@ const udaipur: CityContent = {
       heading: "How website pricing works in Udaipur",
       paragraphs: [
         "Udaipur owners describe quotes from ₹3,000 to well over ₹80,000 for a small hotel or shop website. The cheapest are often a theme with placeholder photos, hosted on the seller's account, with no search setup. The most expensive often come from agencies whose price reflects their overheads and a long chain of account managers rather than the work on your site.",
-        "Our starting prices are public. A static website of up to 100 pages begins at ₹10,000 and is ready in one to two weeks. A 700+ page SEO website, with separate pages for each service, room type or product line, starts at ₹20,000 and takes three to five weeks. Online stores with UPI and card payments start at ₹50,000, automation at ₹40,000 and custom applications at ₹60,000. Monthly SEO is from ₹10,000 and optional.",
+        "Our starting prices are public. A static website of up to 100 pages begins at ₹10,000 and is ready in one to two weeks. A 299+ page SEO website, with separate pages for each service, room type or product line, starts at ₹20,000 and takes three to five weeks. Online stores with UPI and card payments start at ₹50,000, automation at ₹40,000 and custom applications at ₹60,000. Monthly SEO is from ₹10,000 and optional.",
         "Quotes rise mainly with content. A heritage hotel with twelve room types, a restaurant and an events page is more work than a five-room homestay; a marble exporter with two hundred products is more work than a single showroom. We list every page and feature, and nothing is billed until you agree in writing.",
       ],
       list: [
         "<strong>Static site, from ₹10,000:</strong> up to 100 pages, map, WhatsApp and call buttons, enquiry form. For clinics, small shops and guesthouses.",
-        "<strong>SEO site, from ₹20,000:</strong> 700+ pages, schema, sitemap, a page per service or room type.",
+        "<strong>SEO site, from ₹20,000:</strong> 299+ pages, schema, sitemap, a page per service or room type.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart, UPI and cards through Razorpay, shipping rules. For craft and textile sellers.",
         "<strong>Custom application, from ₹60,000:</strong> bookings, inventory, vendor portals, reports.",
       ],
@@ -208,12 +208,12 @@ const udaipur: CityContent = {
     {
       question: "How much does a website cost in Udaipur?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom application at ₹60,000. Udaipur quotes vary a lot, so compare what is included: domain ownership, search setup, hosting access and support after launch, not just the price.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom application at ₹60,000. Udaipur quotes vary a lot, so compare what is included: domain ownership, search setup, hosting access and support after launch, not just the price.",
     },
     {
       question: "Udaipur me website banwane me kitna kharcha aata hai?",
       answer:
-        "Humare saath simple business website ₹10,000 se shuru hoti hai aur 700+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se shuru hota hai. Final price pages, features aur content par depend karti hai. Kaam shuru hone se pehle aapko poora itemised quote diya jata hai.",
+        "Humare saath simple business website ₹10,000 se shuru hoti hai aur 299+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se shuru hota hai. Final price pages, features aur content par depend karti hai. Kaam shuru hone se pehle aapko poora itemised quote diya jata hai.",
     },
     {
       question: "Do you have an office in Udaipur?",
@@ -243,7 +243,7 @@ const udaipur: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks, and a custom application six to twelve weeks. The usual delay is waiting for photographs and text, so we write draft copy for you to correct. For hotels, we recommend finishing before the tourist season starts.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks, and a custom application six to twelve weeks. The usual delay is waiting for photographs and text, so we write draft copy for you to correct. For hotels, we recommend finishing before the tourist season starts.",
     },
     {
       question: "What can WhatsApp automation do for my Udaipur business?",

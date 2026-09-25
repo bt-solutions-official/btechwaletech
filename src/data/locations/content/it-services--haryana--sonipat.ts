@@ -178,7 +178,7 @@ const content: CityContent = {
       id: "cost-sonipat-software",
       heading: "How much do freelance software developers in Sonipat charge in 2026?",
       paragraphs: [
-        "With BtechWaleTech, Sonipat projects start from ₹10,000 for a static website, ₹20,000 for a 700+ page SEO site, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for ecommerce and ₹60,000 for custom web applications, with monthly SEO from ₹10,000 and maintenance from ₹8,000. These are starting prices; your quote depends on modules, integrations, data volume and content.",
+        "With BtechWaleTech, Sonipat projects start from ₹10,000 for a static website, ₹20,000 for a 299+ page SEO site, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for ecommerce and ₹60,000 for custom web applications, with monthly SEO from ₹10,000 and maintenance from ₹8,000. These are starting prices; your quote depends on modules, integrations, data volume and content.",
         "Practical examples help. A PG booking app with rent reminders sits a little above the custom software starting price. A factory system covering orders, stock, production and dispatch sits higher, especially with Tally integration and several user roles. A purchase-order reading agent sits near the automation starting price if the order formats are consistent.",
         "Quotes are itemised by module, so you can phase the work: build the order and dispatch module now, add production tracking next quarter. Payment follows milestones, only by UPI QR or bank transfer in INR. The full list is on our <a href='/pricing/'>pricing page</a>.",
       ],

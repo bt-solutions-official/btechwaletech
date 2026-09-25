@@ -39,7 +39,7 @@ const shegaon: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Marathi-first local SEO", "Lodge and pilgrim pages", "Accounts in your name"],
   },
   quickAnswer:
-    "In Shegaon, a business website from us starts at ₹10,000 and is usually ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Shegaon office, and every account is registered to you.",
+    "In Shegaon, a business website from us starts at ₹10,000 and is usually ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Shegaon office, and every account is registered to you.",
   snapshot: [
     { label: "Location", value: "Town in Buldhana district, Vidarbha; roughly 300 km west of Nagpur and 550 km east of Mumbai" },
     { label: "Population", value: "59,672 in the 2011 census; the tehsil covers 95 villages" },
@@ -219,7 +219,7 @@ const shegaon: CityContent = {
     {
       question: "What is the website cost in Shegaon?",
       answer:
-        "A basic site with us begins at ₹10,000. Bigger builds begin higher: ₹20,000 for a 700+ page SEO site, ₹50,000 for an online store and ₹60,000 for custom software. None of these is a final figure; the written quote lists each item for your pages, languages and features, and you pay nothing before approving it.",
+        "A basic site with us begins at ₹10,000. Bigger builds begin higher: ₹20,000 for a 299+ page SEO site, ₹50,000 for an online store and ₹60,000 for custom software. None of these is a final figure; the written quote lists each item for your pages, languages and features, and you pay nothing before approving it.",
     },
     {
       question: "Do you build Android and iOS apps for Shegaon businesses?",
@@ -234,7 +234,7 @@ const shegaon: CityContent = {
     {
       question: "How long does a website take in Shegaon?",
       answer:
-        "For a simple lodge or shop site, count on about a week or two once we have your photos and text. A 700+ page SEO build needs roughly three to five weeks, an online store four to eight, and mill or dealer software six to twelve. Delays almost always come from waiting for content, so early material speeds everything up.",
+        "For a simple lodge or shop site, count on about a week or two once we have your photos and text. A 299+ page SEO build needs roughly three to five weeks, an online store four to eight, and mill or dealer software six to twelve. Delays almost always come from waiting for content, so early material speeds everything up.",
     },
     {
       question: "Which is the best website development team in Shegaon?",
@@ -254,7 +254,7 @@ const shegaon: CityContent = {
     {
       question: "Shegaon madhe website banvayla kiti kharch yeto?",
       answer:
-        "Sadhi website ₹10,000 pasun chalu hote ani sadharan dahapandhra divasat live hote. Motha 700+ page SEO website ₹20,000 pasun, Android-iOS app ₹40,000 pasun, online dukan ₹50,000 pasun. Pratyek goshticha kharch lekhi quote madhe vegla dilela asto, ani tumhi manya kelyashivay paisa ghet nahi.",
+        "Sadhi website ₹10,000 pasun chalu hote ani sadharan dahapandhra divasat live hote. Motha 299+ page SEO website ₹20,000 pasun, Android-iOS app ₹40,000 pasun, online dukan ₹50,000 pasun. Pratyek goshticha kharch lekhi quote madhe vegla dilela asto, ani tumhi manya kelyashivay paisa ghet nahi.",
     },
     {
       question: "You have no office in Shegaon. How can I trust remote work?",

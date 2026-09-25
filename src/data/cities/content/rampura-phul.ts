@@ -39,7 +39,7 @@ const rampuraPhul: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Punjabi and English pages", "Mandi and sheller software", "Your domain, your code"],
   },
   quickAnswer:
-    "For businesses in Rampura Phul, our websites start at ₹10,000 and usually go live within two weeks. A 700+ page SEO website starts at ₹20,000, Android and iOS apps and AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team with no local office, and you own everything we build.",
+    "For businesses in Rampura Phul, our websites start at ₹10,000 and usually go live within two weeks. A 299+ page SEO website starts at ₹20,000, Android and iOS apps and AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team with no local office, and you own everything we build.",
   snapshot: [
     { label: "Location", value: "Tehsil headquarters in Bathinda district, 33 km east of Bathinda Junction by rail" },
     { label: "Origin", value: "Twin settlement of Phul (founded 1627 by Phul, ancestor of the Phulkian houses of Patiala, Nabha and Jind) and Rampura (founded 1680 by his son, Choudhri Rama)" },
@@ -164,7 +164,7 @@ const rampuraPhul: CityContent = {
       ],
       list: [
         "Static website, up to 100 pages: from ₹10,000, ready in one to two weeks",
-        "SEO website with 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website with 299+ pages: from ₹20,000, three to five weeks",
         "Android and iOS app: from ₹40,000",
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Online store: from ₹50,000, four to eight weeks",
@@ -228,7 +228,7 @@ const rampuraPhul: CityContent = {
     {
       question: "How much does a website cost in Rampura Phul?",
       answer:
-        "In Rampura Phul our static websites start at ₹10,000, SEO websites of 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. All of these are starting prices. The final figure depends on pages, Punjabi content, products and integrations, and you receive it as an itemised written quote before anything is billed.",
+        "In Rampura Phul our static websites start at ₹10,000, SEO websites of 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. All of these are starting prices. The final figure depends on pages, Punjabi content, products and integrations, and you receive it as an itemised written quote before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Rampura Phul businesses?",
@@ -243,7 +243,7 @@ const rampuraPhul: CityContent = {
     {
       question: "How long does it take to build a website in Rampura Phul?",
       answer:
-        "A static website for a Rampura Phul shop, clinic or agent is usually live in one to two weeks once we have photographs and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software such as an arhtiya ledger six to twelve. Sending your content early is the quickest way to shorten any of these.",
+        "A static website for a Rampura Phul shop, clinic or agent is usually live in one to two weeks once we have photographs and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software such as an arhtiya ledger six to twelve. Sending your content early is the quickest way to shorten any of these.",
     },
     {
       question: "Can you get my Rampura Phul shop or clinic onto Google Maps?",
@@ -263,7 +263,7 @@ const rampuraPhul: CityContent = {
     {
       question: "Rampura Phul vich website banwaun da kharcha kinna hai?",
       answer:
-        "Rampura Phul vich saade naal simple website ₹10,000 ton shuru hundi hai te aam taur te ik-do hafteyan vich tyar ho jandi hai. 700+ page wali SEO website ₹20,000 ton, Android te iOS app ₹40,000 ton, te online store ₹50,000 ton shuru hunda hai. Poora quote likhat vich milda hai, te tuhadi manzoori ton pehlan koi bill nahin banda.",
+        "Rampura Phul vich saade naal simple website ₹10,000 ton shuru hundi hai te aam taur te ik-do hafteyan vich tyar ho jandi hai. 299+ page wali SEO website ₹20,000 ton, Android te iOS app ₹40,000 ton, te online store ₹50,000 ton shuru hunda hai. Poora quote likhat vich milda hai, te tuhadi manzoori ton pehlan koi bill nahin banda.",
     },
     {
       question: "You have no office in Rampura Phul. How do I know the work will be delivered?",

@@ -38,7 +38,7 @@ const talegaonDabhade: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "MIDC vendor websites", "Marathi and English SEO", "You keep all logins"],
   },
   quickAnswer:
-    "Talegaon Dabhade businesses can get a website from us from ₹10,000, typically ready within two weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, a 700+ page SEO website at ₹20,000, an ecommerce store at ₹50,000 and custom software at ₹60,000. We work remotely and keep no Talegaon office.",
+    "Talegaon Dabhade businesses can get a website from us from ₹10,000, typically ready within two weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, a 299+ page SEO website at ₹20,000, an ecommerce store at ₹50,000 and custom software at ₹60,000. We work remotely and keep no Talegaon office.",
   snapshot: [
     { label: "Location", value: "Municipal council town in Maval taluka, Pune district, roughly 35–40 km north-west of Pune at about 670 m" },
     { label: "Industrial estate", value: "Talegaon MIDC, about 585 hectares across Navlakh Umbre, Ambi and nearby villages, developed in five phases" },
@@ -150,7 +150,7 @@ const talegaonDabhade: CityContent = {
       id: "website-cost-talegaon",
       heading: "Website cost in Talegaon Dabhade: starting prices and how to compare",
       paragraphs: [
-        "Our Talegaon starting points are simple. A site of up to 100 pages for a shop, clinic, vendor or builder starts at ₹10,000 and usually takes one to two weeks. A 700+ page SEO website, suited to a school group, property developer or supplier covering many processes and areas, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and so does AI automation. Online stores start at ₹50,000, custom software at ₹60,000, and monthly SEO at ₹10,000.",
+        "Our Talegaon starting points are simple. A site of up to 100 pages for a shop, clinic, vendor or builder starts at ₹10,000 and usually takes one to two weeks. A 299+ page SEO website, suited to a school group, property developer or supplier covering many processes and areas, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and so does AI automation. Online stores start at ₹50,000, custom software at ₹60,000, and monthly SEO at ₹10,000.",
         "Costs go up only with the options you select: Marathi and English versions, a large catalogue, delivery slot logic, online payment, staff logins, job card or dispatch modules, or ERP and Tally links. Each appears as a line you can accept or strike out. If you provide your own copy and photographs, the total stays close to the starting price.",
         "Quotes in the Pune region for similar-looking sites vary widely. Ask who will own the domain and hosting, whether the site is tested on budget phones, whether basic on-page SEO is included, how many revision rounds are allowed and what support costs after a year. Our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and an itemised written quote arrives within about two working days.",
       ],
@@ -211,7 +211,7 @@ const talegaonDabhade: CityContent = {
     {
       question: "What is the website cost in Talegaon Dabhade?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; Marathi content, catalogue size and integrations change the total. You get an itemised written quote and pay nothing before approving it.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; Marathi content, catalogue size and integrations change the total. You get an itemised written quote and pay nothing before approving it.",
     },
     {
       question: "Do you build Android and iOS apps for Talegaon businesses?",
@@ -221,7 +221,7 @@ const talegaonDabhade: CityContent = {
     {
       question: "How long does a website take in Talegaon?",
       answer:
-        "A basic site is usually live within one to two weeks of receiving your content. A 700+ page SEO site takes three to five weeks, a store four to eight, and custom software six to twelve. Sending photographs and text early is what speeds things up most.",
+        "A basic site is usually live within one to two weeks of receiving your content. A 299+ page SEO site takes three to five weeks, a store four to eight, and custom software six to twelve. Sending photographs and text early is what speeds things up most.",
     },
     {
       question: "Which is the best software team in Talegaon MIDC?",

@@ -56,7 +56,7 @@ const content: FreelanceContent = {
       { label: "Model", value: "Overflow partner: you sell and design, we build" },
       { label: "Typical handoff", value: "Figma file, sitemap, content, brand assets, access" },
       { label: "Static website", value: `From ${P.site}, 1–2 weeks` },
-      { label: "SEO website (700+ pages)", value: `From ${P.seoSite}, 3–5 weeks` },
+      { label: "SEO website (299+ pages)", value: `From ${P.seoSite}, 3–5 weeks` },
       { label: "Online store", value: `From ${P.shop}, 4–8 weeks` },
       { label: "Communication", value: "Your Slack or project board, plus WhatsApp" },
       { label: "Honest limit", value: "Three people; book peaks early" },
@@ -150,7 +150,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does web development for agencies cost?",
       paragraphs: [
-        `With BtechWaleTech, a static website of up to 100 pages starts at ${P.site} and takes 1–2 weeks, an SEO website with 700+ pages starts at ${P.seoSite}, an online store at ${P.shop}, a custom web app at ${P.software}, an Android and iOS app at ${P.app}, and AI automation at ${P.ai}. Overseas agencies are billed in USD from ${P.siteUsd}.`,
+        `With BtechWaleTech, a static website of up to 100 pages starts at ${P.site} and takes 1–2 weeks, an SEO website with 299+ pages starts at ${P.seoSite}, an online store at ${P.shop}, a custom web app at ${P.software}, an Android and iOS app at ${P.app}, and AI automation at ${P.ai}. Overseas agencies are billed in USD from ${P.siteUsd}.`,
         `How you price the work to your client is your agency’s decision. We quote the scope you send, itemised, so you can see exactly which lines drive the total and adjust your proposal accordingly. For a broader view of how developer quotes compare, see <a href='/freelance-web-developer-rates/'>freelance web developer rates</a>.`,
       ],
       subs: [
@@ -292,7 +292,7 @@ const content: FreelanceContent = {
       columns: ["What you hand over", "Starts at (India)", "Starts at (abroad)", "Typical timeline", "You keep"],
       rows: [
         ["Approved design to static or WordPress site", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Client, design, content"],
-        ["Large SEO build, 700+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Keyword strategy, content plan"],
+        ["Large SEO build, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Keyword strategy, content plan"],
         ["Online store for a retail client", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Brand, product content, marketing"],
         ["Portal or web app", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Requirements sign-off, client contact"],
         ["Android & iOS app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "App concept, UX approval"],
@@ -370,7 +370,7 @@ const content: FreelanceContent = {
   faqHeading: "Web development for agencies: questions agency owners ask",
   faqs: [
     { question: "What is web development for agencies?", answer: "It is an arrangement where a marketing, design, SEO or branding agency sells a website to its client and an outside developer builds it. The agency keeps the client relationship, strategy and usually the design, while the developer handles code, hosting, speed, testing and launch. In an overflow model the agency uses the partner only when its own team is full." },
-    { question: "How much does web development for agencies cost?", answer: `With BtechWaleTech, static websites start at ${P.site}, SEO websites with 700+ pages at ${P.seoSite}, online stores at ${P.shop} and custom web apps at ${P.software}. Overseas agencies are billed in USD from ${P.siteUsd}. Each estimate is itemised against your brief, so you can set your own margin and explain scope changes to your client.` },
+    { question: "How much does web development for agencies cost?", answer: `With BtechWaleTech, static websites start at ${P.site}, SEO websites with 299+ pages at ${P.seoSite}, online stores at ${P.shop} and custom web apps at ${P.software}. Overseas agencies are billed in USD from ${P.siteUsd}. Each estimate is itemised against your brief, so you can set your own margin and explain scope changes to your client.` },
     { question: "What is the difference between overflow and white label development?", answer: "Overflow describes when you use a partner: for the extra projects your team cannot take on. White label describes how visible the partner is: completely invisible, with all work under your brand. The two often combine. BtechWaleTech works either way, and confidentiality terms are agreed in writing with each estimate." },
     { question: "Will you talk to our clients directly?", answer: "Only if you ask us to. By default, the agency handles all client communication and we work through your project manager, your channel and your project board. Some agencies bring us into technical calls with the client’s IT team, for example for hosting or integrations. That choice stays with your agency on each project." },
     { question: "Can you build from our Figma designs?", answer: "Yes. Approved Figma files with desktop and mobile frames, components and styles are the cleanest handoff. We build them into WordPress, Astro, Next.js or a custom stack and check fidelity at key breakpoints. If mobile frames are missing, we propose mobile layouts for your designer to approve before building them." },

@@ -35,7 +35,7 @@ const jalandhar: CityContent = {
     pills: ["Websites from ₹10,000", "Export-ready catalogues", "Punjabi, Hindi and English pages", "UPI and Razorpay stores", "WhatsApp lead routing"],
   },
   quickAnswer:
-    "For a Jalandhar business, a basic website with us costs from ₹10,000 and a 700+ page SEO website from ₹20,000, usually live within one to five weeks. Online stores start at ₹50,000 and automation at ₹40,000. We are a remote team of three engineers with no Jalandhar office, and five months of maintenance after launch is free.",
+    "For a Jalandhar business, a basic website with us costs from ₹10,000 and a 299+ page SEO website from ₹20,000, usually live within one to five weeks. Online stores start at ₹50,000 and automation at ₹40,000. We are a remote team of three engineers with no Jalandhar office, and five months of maintenance after launch is free.",
   snapshot: [
     { label: "Main markets", value: "Rainak Bazaar, Jyoti Chowk, Model Town market and the Nakodar Road retail stretch" },
     { label: "Industrial areas", value: "Focal Point on the GT Road bypass, the Sports and Surgical Complex, and the Leather Complex on Kapurthala Road" },
@@ -73,12 +73,12 @@ const jalandhar: CityContent = {
       heading: "What a website costs in Jalandhar, line by line",
       paragraphs: [
         "Website prices in Jalandhar swing wildly. A one-page site from a local operator can cost ₹2,500, while an agency may ask ₹75,000 for something that looks similar. The cheap version often has no SEO, runs on the developer's own hosting and disappears when he changes his number. The expensive version usually includes overheads you never see: an office, a salesperson, and an account manager who relays your messages.",
-        "We publish our starting points instead. A static business website of up to 100 pages begins at ₹10,000 and typically takes one to two weeks. A 700+ page SEO website, with a separate page for each product line or service, begins at ₹20,000 and takes three to five weeks. An online store with cart, UPI and card payments begins at ₹50,000, and a custom web application such as a dealer portal or production tracker begins at ₹60,000. Automation projects start at ₹40,000, and ongoing SEO at ₹10,000 a month.",
+        "We publish our starting points instead. A static business website of up to 100 pages begins at ₹10,000 and typically takes one to two weeks. A 299+ page SEO website, with a separate page for each product line or service, begins at ₹20,000 and takes three to five weeks. An online store with cart, UPI and card payments begins at ₹50,000, and a custom web application such as a dealer portal or production tracker begins at ₹60,000. Automation projects start at ₹40,000, and ongoing SEO at ₹10,000 a month.",
         "The quote you receive lists every page and feature with its own line, so you can drop items you don't need. A sports goods exporter with three hundred products needs more work than a clinic with six services, and the price reflects that honestly. Nothing is billed until you have approved the quote in writing.",
       ],
       list: [
         "<strong>Static site, from ₹10,000:</strong> up to 100 pages, enquiry form, mobile layout and basic SEO. Suits clinics, CAs, lawyers and small shops.",
-        "<strong>SEO website, from ₹20,000:</strong> 700+ pages with schema, sitemap and Search Console. Suits consultants, schools and service firms.",
+        "<strong>SEO website, from ₹20,000:</strong> 299+ pages with schema, sitemap and Search Console. Suits consultants, schools and service firms.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart, UPI and card checkout. Suits sportswear, phulkari and footwear sellers.",
         "<strong>Custom web app, from ₹60,000:</strong> logins, roles, dashboards. Suits exporters, tool makers and distributors.",
       ],
@@ -209,12 +209,12 @@ const jalandhar: CityContent = {
     {
       question: "What does a website cost in Jalandhar?",
       answer:
-        "With us, a static business website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Local quotes range from about ₹2,500 to ₹75,000 for similar-looking work. When comparing, check who owns the domain and hosting, whether SEO basics are included, and what support you get after launch.",
+        "With us, a static business website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Local quotes range from about ₹2,500 to ₹75,000 for similar-looking work. When comparing, check who owns the domain and hosting, whether SEO basics are included, and what support you get after launch.",
     },
     {
       question: "Jalandhar vich meri dukaan di website kinne paise ch bann jaayegi?",
       answer:
-        "Saade naal ik simple business website ₹10,000 ton shuru hundi hai, te 700+ pages wali SEO website ₹20,000 ton. Online store ₹50,000 ton shuru hunda hai. Aakhri keemat pages, features te content te nirbhar kardi hai, te kamm shuru hon ton pehlan tuhanu poora itemised quote mil janda hai.",
+        "Saade naal ik simple business website ₹10,000 ton shuru hundi hai, te 299+ pages wali SEO website ₹20,000 ton. Online store ₹50,000 ton shuru hunda hai. Aakhri keemat pages, features te content te nirbhar kardi hai, te kamm shuru hon ton pehlan tuhanu poora itemised quote mil janda hai.",
     },
     {
       question: "Is your office in Jalandhar? Can we meet in person?",
@@ -239,7 +239,7 @@ const jalandhar: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static website usually takes one to two weeks and a 700+ page SEO website three to five weeks. An online store takes four to eight weeks and a custom application six to twelve. Large product catalogues take longer mainly because photographs and specifications need collecting, so we give you a simple sheet to fill in and start building while you do.",
+        "A static website usually takes one to two weeks and a 299+ page SEO website three to five weeks. An online store takes four to eight weeks and a custom application six to twelve. Large product catalogues take longer mainly because photographs and specifications need collecting, so we give you a simple sheet to fill in and start building while you do.",
     },
     {
       question: "Do you build websites for immigration and IELTS consultants?",

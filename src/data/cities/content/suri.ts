@@ -39,7 +39,7 @@ const suri: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Bengali local SEO", "Morabba and sweets stores", "Accounts in your name"],
   },
   quickAnswer:
-    "For Suri businesses, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps begin at ₹40,000, as does AI automation; a 700+ page SEO website starts at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely with no office in Suri, and you own everything we build.",
+    "For Suri businesses, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps begin at ₹40,000, as does AI automation; a 299+ page SEO website starts at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely with no office in Suri, and you own everything we build.",
   snapshot: [
     { label: "Location", value: "Headquarters of Birbhum district, about 220 km from Kolkata" },
     { label: "River", value: "On the Mayurakshi, with the Tilpara barrage about 3 km north-west of town" },
@@ -151,7 +151,7 @@ const suri: CityContent = {
       id: "website-cost-suri",
       heading: "Website cost in Suri: starting prices and sensible comparisons",
       paragraphs: [
-        "Our starting prices in Suri are the same as everywhere: a static website of up to 100 pages from ₹10,000 in one to two weeks; a 700+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; an online store from ₹50,000 in four to eight weeks; and custom software from ₹60,000 in six to twelve weeks. Monthly SEO starts at ₹10,000.",
+        "Our starting prices in Suri are the same as everywhere: a static website of up to 100 pages from ₹10,000 in one to two weeks; a 299+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; an online store from ₹50,000 in four to eight weeks; and custom software from ₹60,000 in six to twelve weeks. Monthly SEO starts at ₹10,000.",
         "Scope decides the final figure: Bengali and English versions, long product lists, payment and courier set-up, logins, reports, or a Tally connection each add a line. If you send text and photographs, the price stays near the starting point. If we write and arrange the content, that appears separately.",
         "Local quotes vary widely. When comparing, ask who will own the domain and hosting, whether mobile testing and basic SEO are included, how many rounds of changes you get and who fixes problems after launch. Our <a href=\"/pricing/\">pricing page</a> lists every starting price, and your itemised quote comes in about two working days.",
       ],
@@ -213,7 +213,7 @@ const suri: CityContent = {
     {
       question: "How much does a website cost in Suri?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Bengali content, products and features, and comes itemised in writing before any billing.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Bengali content, products and features, and comes itemised in writing before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Suri businesses?",
@@ -223,7 +223,7 @@ const suri: CityContent = {
     {
       question: "How long does a website take for a Suri shop?",
       answer:
-        "A static site usually goes live one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Ready content and quick approvals make the biggest difference.",
+        "A static site usually goes live one to two weeks after we receive your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Ready content and quick approvals make the biggest difference.",
     },
     {
       question: "Which is the best website development team in Suri?",
@@ -248,7 +248,7 @@ const suri: CityContent = {
     {
       question: "Suri te website banate koto khoroch hoy?",
       answer:
-        "Amader kache simple website ₹10,000 theke shuru, sadharonoto ek theke dui soptaher moddhe ready hoye jay. 700+ page SEO website ₹20,000 theke, Android ar iOS app ₹40,000 theke, ar online store ₹50,000 theke shuru. Puro quote likhito bhabe pathano hoy.",
+        "Amader kache simple website ₹10,000 theke shuru, sadharonoto ek theke dui soptaher moddhe ready hoye jay. 299+ page SEO website ₹20,000 theke, Android ar iOS app ₹40,000 theke, ar online store ₹50,000 theke shuru. Puro quote likhito bhabe pathano hoy.",
     },
     {
       question: "You have no office in Suri. How do we work together?",

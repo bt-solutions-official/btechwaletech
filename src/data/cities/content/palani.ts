@@ -39,7 +39,7 @@ const palani: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Tamil and English pages", "Lodge and taxi booking", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Palani business, a website with us starts at ₹10,000 and takes one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Palani office, and you own every account.",
+    "For a Palani business, a website with us starts at ₹10,000 and takes one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Palani office, and you own every account.",
   snapshot: [
     { label: "Location", value: "Dindigul district, about 60 km west of Dindigul, 106 km from Coimbatore and 122 km from Madurai" },
     { label: "Population", value: "70,467 in the town and about 2.9 lakh in the taluk (2011 Census); second-largest town in the district" },
@@ -157,7 +157,7 @@ const palani: CityContent = {
       id: "website-cost-palani",
       heading: "Website cost in Palani: what you pay for, item by item",
       paragraphs: [
-        "The <strong>website cost in Palani</strong> depends on what the site has to do. Our starting prices are: a static website of up to 100 pages from ₹10,000 in one to two weeks; an SEO website of 700+ pages from ₹20,000 in three to five weeks; an ecommerce store from ₹50,000 in four to eight weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000; and custom web apps from ₹60,000 in six to twelve weeks.",
+        "The <strong>website cost in Palani</strong> depends on what the site has to do. Our starting prices are: a static website of up to 100 pages from ₹10,000 in one to two weeks; an SEO website of 299+ pages from ₹20,000 in three to five weeks; an ecommerce store from ₹50,000 in four to eight weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000; and custom web apps from ₹60,000 in six to twelve weeks.",
         "Local quotes vary widely, so compare like with like. Ask who registers the domain, whether hosting renewal is included, how many revisions you get, whether Tamil text is written or only translated, and who owns the code. A cheaper quote that keeps the domain in someone else's name costs more later.",
         "We send an itemised quote in about two working days and bill nothing before you approve it in writing. The full list is on our <a href=\"/pricing/\">pricing page</a>.",
       ],
@@ -209,7 +209,7 @@ const palani: CityContent = {
     {
       question: "How much does a website cost in Palani?",
       answer:
-        "A static website for a Palani business starts at ₹10,000 and covers up to 100 pages, usually finished in one to two weeks. An SEO website of 700+ pages starts at ₹20,000 and an online store at ₹50,000. Room booking, payments and Tamil content change the figure, and we list each item separately in the quote.",
+        "A static website for a Palani business starts at ₹10,000 and covers up to 100 pages, usually finished in one to two weeks. An SEO website of 299+ pages starts at ₹20,000 and an online store at ₹50,000. Room booking, payments and Tamil content change the figure, and we list each item separately in the quote.",
     },
     {
       question: "How long does it take to build a website for a Palani lodge?",

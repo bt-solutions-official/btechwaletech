@@ -39,7 +39,7 @@ const arambagh: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Bengali-first pages", "Cold storage and mill records", "Every login stays yours"],
   },
   quickAnswer:
-    "An Arambagh business can get a website from us starting at ₹10,000, typically live in one to two weeks. Android and iOS apps and AI automation begin at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, keep no Arambagh office, and register everything to you.",
+    "An Arambagh business can get a website from us starting at ₹10,000, typically live in one to two weeks. Android and iOS apps and AI automation begin at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, keep no Arambagh office, and register everything to you.",
   snapshot: [
     { label: "Location", value: "Western Hooghly district, about 81 km north-west of Kolkata, 27 km from Tarakeswar and 39 km from Bardhaman" },
     { label: "Population", value: "66,175 in the town (2011 Census); the subdivision has about 12.6 lakh people, nearly 95% rural" },
@@ -157,7 +157,7 @@ const arambagh: CityContent = {
       id: "website-cost-arambagh",
       heading: "Website cost in Arambagh: floors, timelines and what to ask",
       paragraphs: [
-        "Our starting figures for the <strong>website cost in Arambagh</strong>: brochure sites of up to 100 pages from ₹10,000, ready in one to two weeks; SEO sites of 700+ pages from ₹20,000 over three to five weeks; online shops from ₹50,000 over four to eight weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 over two to four weeks; and custom software from ₹60,000 over six to twelve weeks.",
+        "Our starting figures for the <strong>website cost in Arambagh</strong>: brochure sites of up to 100 pages from ₹10,000, ready in one to two weeks; SEO sites of 299+ pages from ₹20,000 over three to five weeks; online shops from ₹50,000 over four to eight weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 over two to four weeks; and custom software from ₹60,000 over six to twelve weeks.",
         "Other providers in and around Hooghly quote across a wide range, so put every quote to the same test. Is the domain registered to you? What does hosting cost when it renews? Who writes the Bengali copy, and is it proofread? How many correction rounds are included? Do you receive the source code at the end? The answers matter more than the first figure.",
         "You get our itemised quote in roughly two working days, and billing starts only after you approve it in writing. Current figures sit on our <a href=\"/pricing/\">pricing page</a>.",
       ],
@@ -209,7 +209,7 @@ const arambagh: CityContent = {
     {
       question: "What does a website cost in Arambagh?",
       answer:
-        "Brochure websites for Arambagh businesses begin at ₹10,000 for as many as 100 pages and normally go live within two weeks. SEO sites of 700+ pages begin at ₹20,000 and online shops at ₹50,000. Bengali copy, product count and payment features move the total, and our quote shows each of these on a separate line.",
+        "Brochure websites for Arambagh businesses begin at ₹10,000 for as many as 100 pages and normally go live within two weeks. SEO sites of 299+ pages begin at ₹20,000 and online shops at ₹50,000. Bengali copy, product count and payment features move the total, and our quote shows each of these on a separate line.",
     },
     {
       question: "How quickly can my Arambagh website go live?",

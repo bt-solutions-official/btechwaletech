@@ -203,7 +203,7 @@ const content: CityContent = {
       ],
       list: [
         "<strong>Website:</strong> from ₹10,000, one to two weeks",
-        "<strong>700+ page SEO website:</strong> from ₹20,000, three to five weeks",
+        "<strong>299+ page SEO website:</strong> from ₹20,000, three to five weeks",
         "<strong>Workflow or AI automation:</strong> from ₹40,000, two to four weeks",
         "<strong>Android and iOS app:</strong> from ₹40,000, six to ten weeks",
         "<strong>Online store:</strong> from ₹50,000, four to eight weeks",
@@ -317,7 +317,7 @@ const content: CityContent = {
     {
       question: "Do you also build websites?",
       answer:
-        "Yes. Websites start from ₹10,000 and 700+ page SEO websites from ₹20,000. Manufacturers, colleges, trusts and spice farms often pair a website with an internal tool or booking system, so enquiries and bookings flow straight into it without re-typing.",
+        "Yes. Websites start from ₹10,000 and 299+ page SEO websites from ₹20,000. Manufacturers, colleges, trusts and spice farms often pair a website with an internal tool or booking system, so enquiries and bookings flow straight into it without re-typing.",
     },
     {
       question: "Can you build Android and iOS apps for a Ponda plant, college or trust?",

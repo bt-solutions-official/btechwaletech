@@ -35,7 +35,7 @@ const mandsaur: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi and English pages", "Mandi trader catalogues", "Slate pencil exporters", "College and clinic sites"],
   },
   quickAnswer:
-    "For Mandsaur businesses, a static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. SEO websites with 700+ pages start at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team with no Mandsaur office, and five months of maintenance is free after launch.",
+    "For Mandsaur businesses, a static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. SEO websites with 299+ pages start at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team with no Mandsaur office, and five months of maintenance is free after launch.",
   snapshot: [
     { label: "Location", value: "Western Madhya Pradesh on the Malwa–Mewar edge, district headquarters in Ujjain Division, on the Shivna river" },
     { label: "Mandi", value: "Krishi Upaj Mandi beside the Mhow–Neemuch highway, widely described as Asia's largest garlic market" },
@@ -73,12 +73,12 @@ const mandsaur: CityContent = {
       heading: "What a website costs in Mandsaur, line by line",
       paragraphs: [
         "Quotes in Mandsaur swing widely. Some local designers offer a template for a few thousand rupees but keep the domain in their own name. Agencies in Indore or Ujjain may quote several times more for a brochure site. Very few quotes say what is actually included, which makes comparison hard.",
-        "We publish our starting prices on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages, with mobile layout, enquiry form, WhatsApp button, map and basic search setup, starts at ₹10,000 and is ready in one to two weeks. A site of 700+ pages built around real search phrases starts at ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts at ₹40,000, online stores at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
+        "We publish our starting prices on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages, with mobile layout, enquiry form, WhatsApp button, map and basic search setup, starts at ₹10,000 and is ready in one to two weeks. A site of 299+ pages built around real search phrases starts at ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts at ₹40,000, online stores at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
         "Scope decides where your project lands above those starting points. A dental clinic with one doctor needs a handful of pages. A trader dealing in garlic, coriander, methi and isabgol, with grade descriptions, lot photographs and separate Hindi and English sections, needs more. Tell us about your business in a few lines and we send an itemised quote before any work begins.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> a compact site for a shop, clinic, coaching class or small trader.",
-        "<strong>From ₹20,000:</strong> 700+ pages for firms that want steady enquiries from search.",
+        "<strong>From ₹20,000:</strong> 299+ pages for firms that want steady enquiries from search.",
         "<strong>From ₹50,000:</strong> an online store with UPI, cards, courier rules and order alerts.",
         "<strong>From ₹60,000:</strong> lot tracking, commission accounts or dealer portals built for your process.",
       ],
@@ -210,12 +210,12 @@ const mandsaur: CityContent = {
     {
       question: "How much does a website cost in Mandsaur?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. The final quote depends on pages and features. When comparing offers, ask who owns the domain, whether search setup is included and what support follows launch.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. The final quote depends on pages and features. When comparing offers, ask who owns the domain, whether search setup is included and what support follows launch.",
     },
     {
       question: "Mandsaur mein website banwane ka kharcha kitna hai?",
       answer:
-        "Hamari simple website ₹10,000 se shuru hoti hai, 700+ page wali SEO website ₹20,000 se aur online store ₹50,000 se. Kaam shuru karne se pehle har item ka daam likh kar quote bhejte hain. Aap likhit mein haan bolenge tabhi bill banega, aur domain aapke naam par hi rahega.",
+        "Hamari simple website ₹10,000 se shuru hoti hai, 299+ page wali SEO website ₹20,000 se aur online store ₹50,000 se. Kaam shuru karne se pehle har item ka daam likh kar quote bhejte hain. Aap likhit mein haan bolenge tabhi bill banega, aur domain aapke naam par hi rahega.",
     },
     {
       question: "Do you have an office in Mandsaur?",
@@ -245,7 +245,7 @@ const mandsaur: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Delays usually come from waiting for photographs and product details, so we send a checklist on day one.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Delays usually come from waiting for photographs and product details, so we send a checklist on day one.",
     },
     {
       question: "What can WhatsApp automation do for a Mandsaur business?",

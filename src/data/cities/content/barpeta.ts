@@ -39,7 +39,7 @@ const barpeta: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Assamese and Bengali pages", "Jewellery catalogues", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Barpeta business, our websites start at ₹10,000 and a simple one goes live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and you own everything.",
+    "For a Barpeta business, our websites start at ₹10,000 and a simple one goes live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and you own everything.",
   snapshot: [
     { label: "Location", value: "Headquarters of Barpeta district in lower Assam, roughly 90 km north-west of Guwahati" },
     { label: "Known as", value: "Satra Nagari, after Barpeta Satra, founded under Madhabdev in 1583, and the satras around it" },
@@ -177,7 +177,7 @@ const barpeta: CityContent = {
       id: "website-cost-barpeta",
       heading: "Website cost in Barpeta: starting prices and what changes them",
       paragraphs: [
-        "Here are the entry points before any discussion of features. A static website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. An SEO website of 700 pages or more starts at ₹20,000 and takes three to five weeks; it suits a coaching centre covering every course and nearby town, or a tourism business covering every route to Manas. Android and iOS apps start at ₹40,000, and so does AI automation. An online store starts at ₹50,000, custom software at ₹60,000, and monthly SEO at ₹10,000.",
+        "Here are the entry points before any discussion of features. A static website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. An SEO website of 299 pages or more starts at ₹20,000 and takes three to five weeks; it suits a coaching centre covering every course and nearby town, or a tourism business covering every route to Manas. Android and iOS apps start at ₹40,000, and so does AI automation. An online store starts at ₹50,000, custom software at ₹60,000, and monthly SEO at ₹10,000.",
         "What moves your number up is visible on the quote. Pages in more than one language, a large jewellery catalogue that needs describing piece by piece, payment integration, staff logins, or a connection to Tally each appear as their own line. You can remove any line you do not want. If you write the text yourself and send phone photographs, the cost barely changes from the starting price.",
         "Quotes from designers in lower Assam vary widely for jobs that sound identical. When comparing, ask who registers the domain, whether the site is tested on cheap Android phones, whether basic on-page SEO is included, how many rounds of changes are covered, and who answers the phone a year after launch. Our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and your itemised quote arrives in about two working days.",
       ],
@@ -230,7 +230,7 @@ const barpeta: CityContent = {
     {
       question: "What is the website cost in Barpeta?",
       answer:
-        "A static website with us starts at ₹10,000, an SEO website of 700+ pages at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Your quote depends on pages, languages, products and integrations, and it reaches you itemised in writing before anything is billed.",
+        "A static website with us starts at ₹10,000, an SEO website of 299+ pages at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Your quote depends on pages, languages, products and integrations, and it reaches you itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Barpeta businesses?",
@@ -240,7 +240,7 @@ const barpeta: CityContent = {
     {
       question: "How long does it take to build a website for a Barpeta shop or clinic?",
       answer:
-        "A simple static site is usually live within one to two weeks once we have your text, photographs and contact details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Delays mostly come from waiting for content, so sending it early is the easiest way to launch sooner.",
+        "A simple static site is usually live within one to two weeks once we have your text, photographs and contact details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Delays mostly come from waiting for content, so sending it early is the easiest way to launch sooner.",
     },
     {
       question: "Which is the best IT services team in Barpeta for a website or app?",
@@ -270,7 +270,7 @@ const barpeta: CityContent = {
     {
       question: "Barpeta me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath Barpeta me simple website ₹10,000 se shuru hoti hai aur ek se do hafte me taiyaar ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hota hai. Poora quote likhit me milta hai, aur approval se pehle koi payment nahi.",
+        "Hamare saath Barpeta me simple website ₹10,000 se shuru hoti hai aur ek se do hafte me taiyaar ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hota hai. Poora quote likhit me milta hai, aur approval se pehle koi payment nahi.",
     },
     {
       question: "You have no office in Barpeta. How do I know the work will be done?",

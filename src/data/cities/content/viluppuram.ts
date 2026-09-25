@@ -35,7 +35,7 @@ const viluppuram: CityContent = {
     pills: ["Sites from ₹10,000", "Tamil and English pages", "Villupuram, Vizhuppuram spellings covered", "Rice and agri trade sites", "WhatsApp enquiry routing"],
   },
   quickAnswer:
-    "A basic business website for a Viluppuram shop, clinic or trader starts at ₹10,000 with us and usually goes live in one to two weeks. A 700+ page SEO site starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team with no Viluppuram office, and the first five months of maintenance are free.",
+    "A basic business website for a Viluppuram shop, clinic or trader starts at ₹10,000 with us and usually goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team with no Viluppuram office, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Civic role", value: "Headquarters of Viluppuram district, carved out of Cuddalore district in 1993; a special grade municipality with 42 wards" },
     { label: "Transport", value: "A major railway junction with lines towards Chennai, Tiruchirappalli, Puducherry and Vellore, and National Highway 45 passing through" },
@@ -74,12 +74,12 @@ const viluppuram: CityContent = {
       heading: "What a website costs in Viluppuram, and what you should be comparing",
       paragraphs: [
         "Quotes for websites in Viluppuram vary widely. Some come from a relative's friend who builds on a free template, some from print shops that also offer web design, and some from agencies in Chennai or Puducherry. The number on the quote tells you little on its own. What matters is what sits behind it: who owns the domain, whether search basics are done, how fast the site opens on mobile data, and what happens when you need a change six months later.",
-        "Our starting prices are listed openly on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages, suitable for a shop, clinic, school, lodge or small manufacturer, starts at ₹10,000 and usually takes one to two weeks. A 700+ page SEO website, where each service, product or nearby town gets its own page, starts at ₹20,000 and takes three to five weeks. WhatsApp and AI automation starts at ₹40,000, an online store at ₹50,000 and a custom web application at ₹60,000.",
+        "Our starting prices are listed openly on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages, suitable for a shop, clinic, school, lodge or small manufacturer, starts at ₹10,000 and usually takes one to two weeks. A 299+ page SEO website, where each service, product or nearby town gets its own page, starts at ₹20,000 and takes three to five weeks. WhatsApp and AI automation starts at ₹40,000, an online store at ₹50,000 and a custom web application at ₹60,000.",
         "The final figure depends on your scope. A clinic with four doctors and six services needs less work than a rice trader listing twenty varieties with grades, bag sizes and bulk terms. We write the quote line by line so you can see exactly what each part costs, and we do not bill anything until you approve it in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, Tamil and English, enquiry form, map and basic SEO.",
-        "<strong>From ₹20,000:</strong> 700+ pages built around real searches, including block and town pages across the district.",
+        "<strong>From ₹20,000:</strong> 299+ pages built around real searches, including block and town pages across the district.",
         "<strong>From ₹50,000:</strong> online store with catalogue, cart, UPI and card payments through Razorpay.",
         "<strong>From ₹60,000:</strong> custom tools with logins, such as mill purchase registers, dealer portals or school systems.",
         "<strong>From ₹10,000 a month:</strong> ongoing SEO, with a plain-language monthly report.",
@@ -212,12 +212,12 @@ const viluppuram: CityContent = {
     {
       question: "How much does a website cost in Viluppuram?",
       answer:
-        "With us, a static website of up to 100 pages starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Other quotes may be lower or much higher, so compare what is included: SEO basics, domain in your name, mobile speed and support after launch.",
+        "With us, a static website of up to 100 pages starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Other quotes may be lower or much higher, so compare what is included: SEO basics, domain in your name, mobile speed and support after launch.",
     },
     {
       question: "Villupuram la website panna evvalavu selavu aagum?",
       answer:
-        "Enga kitta oru simple business website ₹10,000-la irundhu aarambikkudhu. 700+ page SEO website ₹20,000-la irundhu, online store ₹50,000-la irundhu. Final vilai pages, features, content ellam paarthu thaan mudivaagum. Velai aarambikkum munnaadi ezhuthu moolama itemised quote anuppuvom, neenga approve panna apram thaan bill.",
+        "Enga kitta oru simple business website ₹10,000-la irundhu aarambikkudhu. 299+ page SEO website ₹20,000-la irundhu, online store ₹50,000-la irundhu. Final vilai pages, features, content ellam paarthu thaan mudivaagum. Velai aarambikkum munnaadi ezhuthu moolama itemised quote anuppuvom, neenga approve panna apram thaan bill.",
     },
     {
       question: "Do you have an office in Viluppuram?",
@@ -247,7 +247,7 @@ const viluppuram: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static website usually takes one to two weeks, a 700+ page SEO website three to five weeks, AI automation two to four weeks, an online store four to eight weeks and a custom application six to twelve weeks. Delays usually come from waiting for photos and text, so we draft content for you to check.",
+        "A static website usually takes one to two weeks, a 299+ page SEO website three to five weeks, AI automation two to four weeks, an online store four to eight weeks and a custom application six to twelve weeks. Delays usually come from waiting for photos and text, so we draft content for you to check.",
     },
     {
       question: "What can WhatsApp automation do for a clinic or shop?",

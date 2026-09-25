@@ -39,7 +39,7 @@ const bheemunipatnam: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu + English local SEO", "Resort and homestay booking", "Code and domain in your name"],
   },
   quickAnswer:
-    "For a Bheemunipatnam business, a website with us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Bheemili office, and you own everything.",
+    "For a Bheemunipatnam business, a website with us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Bheemili office, and you own everything.",
   snapshot: [
     { label: "Location", value: "Coastal suburb at the northern end of the Visakhapatnam–Bheemili beach road, about 25–30 km from central Vizag" },
     { label: "Civic status", value: "Former Bheemunipatnam municipality, merged into Greater Visakhapatnam Municipal Corporation in 2017" },
@@ -208,7 +208,7 @@ const bheemunipatnam: CityContent = {
     {
       question: "How much does a website cost in Bheemunipatnam?",
       answer:
-        "A static website with us starts at ₹10,000 for up to 100 pages and takes one to two weeks. An SEO website of 700+ pages starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. The quote you receive lists each item, and billing starts only after your written approval.",
+        "A static website with us starts at ₹10,000 for up to 100 pages and takes one to two weeks. An SEO website of 299+ pages starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. The quote you receive lists each item, and billing starts only after your written approval.",
     },
     {
       question: "How long does it take to build a website for a Bheemili business?",
@@ -243,7 +243,7 @@ const bheemunipatnam: CityContent = {
     {
       question: "Bheemunipatnam me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek se do hafte mein taiyaar ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Likhit quote lagbhag do working days mein milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek se do hafte mein taiyaar ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Likhit quote lagbhag do working days mein milta hai.",
     },
     {
       question: "You have no office in Bheemunipatnam. How does that work?",

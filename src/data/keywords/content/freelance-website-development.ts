@@ -36,7 +36,7 @@ const content: FreelanceContent = {
   facts: [
     ["Static site from", `${P.site} · ${P.siteUsd}`],
     ["Build window", "1–2 weeks for a static site"],
-    ["SEO site (700+ pages)", "3–5 weeks"],
+    ["SEO site (299+ pages)", "3–5 weeks"],
     ["Where you review", "A private staging link on your phone"],
     ["Quote turnaround", "About 2 working days, itemised"],
     ["Accounts", "Domain, hosting, code in your name"],
@@ -49,7 +49,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What are the steps in freelance website development?",
-    text: `Freelance website development normally runs in seven steps: a written brief, a sitemap listing every page, content collection, phone-first design, coding on a staging link, testing, and launch with Search Console and analytics. A static site of up to 100 pages starts at ${P.site} and takes 1–2 weeks; an SEO website of 700+ pages starts at ${P.seoSite} and takes 3–5 weeks.`,
+    text: `Freelance website development normally runs in seven steps: a written brief, a sitemap listing every page, content collection, phone-first design, coding on a staging link, testing, and launch with Search Console and analytics. A static site of up to 100 pages starts at ${P.site} and takes 1–2 weeks; an SEO website of 299+ pages starts at ${P.seoSite} and takes 3–5 weeks.`,
     more: `If you are still deciding who should build it, read <a href='/freelance-web-developer/'>how to choose a freelance web developer</a>, or see what goes into a <a href='/website-developer-for-small-business/'>complete small business website</a>.`,
   },
   snapshot: {
@@ -70,7 +70,7 @@ const content: FreelanceContent = {
     note: "Every build below goes through brief, sitemap, content, design, build, testing and launch. What changes is how long each phase takes and how many people touch it.",
     cards: [
       { name: "Business website", note: `A sitemap of 5 to 100 pages, one design system, forms and a WhatsApp button, from ${P.site}. Most of the time goes into content and design review.`, href: "/services/web-development/", size: "lg" },
-      { name: "SEO website, 700+ pages", note: `Here the sitemap is generated from a data sheet of services and locations, so planning the URL pattern is the biggest phase. From ${P.seoSite}.`, href: "/seo-website-developer/", size: "lg" },
+      { name: "SEO website, 299+ pages", note: `Here the sitemap is generated from a data sheet of services and locations, so planning the URL pattern is the biggest phase. From ${P.seoSite}.`, href: "/seo-website-developer/", size: "lg" },
       { name: "Online store", note: `Adds catalogue structure, checkout with UPI and cards, shipping rules and order emails to the plan. From ${P.shop}, 4–8 weeks.`, href: "/freelance-ecommerce-developer/", size: "md" },
       { name: "Web app or portal", note: `Adds user roles, a database design phase and more testing. Logins, dashboards and bookings start at ${P.software}.`, href: "/web-application-developer/", size: "md" },
       { name: "Landing page for ads", note: "A one-page sitemap, but tracking, form routing and load speed get extra attention because ad spend depends on them.", href: "/landing-page-developer/", size: "md" },
@@ -148,7 +148,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Plan the sitemap by listing every question a visitor arrives with, then giving each question a page. A dental clinic’s visitors ask about specific treatments, fees, timings, the doctor and the route, so those become pages. A page that answers nobody’s question is usually a candidate for deletion.`,
         `In freelance website development we deliver the sitemap as a simple tree: top menu items, the pages under each, the footer links and the URL of every page in lowercase with hyphens. Each row also notes the page’s main search phrase and its call to action. You approve this tree before any design work starts, which is the single biggest protection against scope creep.`,
-        `For larger sites, the sitemap is generated from data. An SEO website with 700+ pages might combine 20 services with 35 locations, so we design the URL pattern, the unique facts each page needs and the internal links between them, rather than drawing 700 boxes by hand.`,
+        `For larger sites, the sitemap is generated from data. An SEO website with 299+ pages might combine 20 services with 35 locations, so we design the URL pattern, the unique facts each page needs and the internal links between them, rather than drawing 700 boxes by hand.`,
       ],
       list: [
         "Group pages by visitor intent, not by your org chart",
@@ -249,7 +249,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does freelance website development cost in India?",
       paragraphs: [
-        `Freelance website development in India is usually priced per project. With BtechWaleTech, a static site of up to 100 pages starts at ${P.site}, an SEO website of 700+ pages at ${P.seoSite}, an online store at ${P.shop} and a custom web app at ${P.software}. The final figure depends on how much work each phase involves.`,
+        `Freelance website development in India is usually priced per project. With BtechWaleTech, a static site of up to 100 pages starts at ${P.site}, an SEO website of 299+ pages at ${P.seoSite}, an online store at ${P.shop} and a custom web app at ${P.software}. The final figure depends on how much work each phase involves.`,
         `The phases explain the spread. Two sites with ten pages each can differ widely because one reuses a single inner template and the other needs six distinct layouts. Content writing, product uploads, booking logic and multilingual versions each add their own lines. Hosting and domain renewals are separate, paid by you to the provider.`,
         `Across the market, quotes vary widely. Rather than comparing totals, compare what each quote includes per phase: is a sitemap delivered, who writes content, how many design rounds, what testing is done, and what support follows launch. A lower number that silently drops testing or aftercare often costs more within a year.`,
       ],
@@ -338,7 +338,7 @@ const content: FreelanceContent = {
       columns: ["Project", "India, from", "Abroad, from", "Build window", "Longest phase"],
       rows: [
         ["Static website, up to 100 pages", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Content and design review"],
-        ["SEO website, 700+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Sitemap and data planning"],
+        ["SEO website, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Sitemap and data planning"],
         ["Online store", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Catalogue and checkout testing"],
         ["Custom web app or portal", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Database design and testing"],
         ["Monthly SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Ongoing", "Content and technical fixes"],
@@ -384,7 +384,7 @@ const content: FreelanceContent = {
   faqs: [
     { question: "What is freelance website development?", answer: "Freelance website development means getting your website planned, designed, coded and launched by an independent developer or a small freelance team rather than an agency or in-house staff. It covers the brief, sitemap, content, design, build, testing and launch, usually followed by a period of maintenance. You deal directly with the people writing the code." },
     { question: "What are the main stages of building a website?", answer: "The main stages are the brief, the sitemap, content collection, design, development on a staging link, testing, and launch with search and analytics set up. Each stage has an output you can check, such as an approved page list or a passed test sheet. Skipping a stage usually moves the problem to a more expensive stage later." },
-    { question: "How much does freelance website development cost in India?", answer: `With BtechWaleTech, a static website of up to 100 pages starts at ${P.site}, an SEO website of 700+ pages at ${P.seoSite}, an online store at ${P.shop} and a custom web app at ${P.software}. The final quote depends on the number of page templates, content writing, features and integrations, and it is itemised before you pay anything.` },
+    { question: "How much does freelance website development cost in India?", answer: `With BtechWaleTech, a static website of up to 100 pages starts at ${P.site}, an SEO website of 299+ pages at ${P.seoSite}, an online store at ${P.shop} and a custom web app at ${P.software}. The final quote depends on the number of page templates, content writing, features and integrations, and it is itemised before you pay anything.` },
     { question: "How long does it take to build a website with a freelancer?", answer: "A static business website usually takes one to two weeks, an SEO website three to five weeks, an online store four to eight weeks and a custom web app six to twelve weeks. The biggest factor you control is how quickly content and consolidated feedback arrive, so sending text and photos in the first week keeps the plan on track." },
     { question: "What is a sitemap and why do I need one before design?", answer: "A sitemap is the complete list of pages on your website, showing how they are grouped and linked, with the URL of each. Agreeing it before design fixes the scope, prevents menus from changing mid-build and lets the developer price the work accurately. It also guides SEO, since each page gets its own search phrase and purpose." },
     { question: "Who writes the content for my website?", answer: "You can write it yourself from page outlines the developer provides, share rough notes for the developer to shape, or split the work. Content writing by the developer is usually a separate line in the quote. Whoever writes it, facts such as prices, timings, qualifications and addresses must come from the business owner and be checked before launch." },

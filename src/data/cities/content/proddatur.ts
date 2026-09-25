@@ -35,7 +35,7 @@ const proddatur: CityContent = {
     pills: ["Sites from ₹10,000", "Telugu and English", "Jewellery catalogues", "Saree and textile stores", "WhatsApp enquiry tools"],
   },
   quickAnswer:
-    "In Proddatur, a static business website with us starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site starts at ₹20,000, a catalogue store with UPI checkout from ₹50,000 and WhatsApp or AI automation from ₹40,000. We are a remote team with no office in Proddatur, and maintenance is free for five months after launch.",
+    "In Proddatur, a static business website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, a catalogue store with UPI checkout from ₹50,000 and WhatsApp or AI automation from ₹40,000. We are a remote team with no office in Proddatur, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Where it is", value: "A special-grade municipality in YSR Kadapa district on the Penna river, with NH 67 and a station on the Nandyal–Yerraguntla line" },
     { label: "Gold trade", value: "Long called the “second Bombay” for gold, with a dense bazaar of jewellery and bullion shops" },
@@ -73,12 +73,12 @@ const proddatur: CityContent = {
       heading: "How much a website costs in Proddatur",
       paragraphs: [
         "Website prices around Proddatur are usually quoted informally. A local computer centre may offer a basic site for very little, often on a template with the domain in their own name. Agencies in Kadapa, Kurnool, Hyderabad or Bengaluru may quote far more. Before comparing numbers, check who will own the domain, whether search setup is included and who handles changes after launch.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. A 700+ page SEO site starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, WhatsApp and AI automation at ₹40,000, and monthly SEO from ₹10,000 a month.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO site starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, WhatsApp and AI automation at ₹40,000, and monthly SEO from ₹10,000 a month.",
         "The final figure depends on scope: number of designs or products, one language or two, whether you need payments or staff logins, and who writes the content. Your quote lists every item, and work starts only after you approve it in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages in Telugu and English, WhatsApp button, map and basic search setup.",
-        "<strong>From ₹20,000:</strong> 700+ pages, for example one per design range, fabric, service or nearby town.",
+        "<strong>From ₹20,000:</strong> 299+ pages, for example one per design range, fabric, service or nearby town.",
         "<strong>From ₹50,000:</strong> catalogue store with cart, UPI and card payments and delivery rules.",
         "<strong>From ₹60,000:</strong> custom systems for jewellers, finance firms, wholesalers and institutions.",
       ],
@@ -227,12 +227,12 @@ const proddatur: CityContent = {
     {
       question: "How much does a website cost in Proddatur?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website from ₹20,000, a catalogue store with UPI checkout from ₹50,000 and a custom web app from ₹60,000. These are starting prices. Your final quote depends on designs, pages and features, and you see it itemised before approving.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website from ₹20,000, a catalogue store with UPI checkout from ₹50,000 and a custom web app from ₹60,000. These are starting prices. Your final quote depends on designs, pages and features, and you see it itemised before approving.",
     },
     {
       question: "Proddatur lo website cheyinchukovadaniki entha kharchu avutundi?",
       answer:
-        "Maa daggara simple website ₹10,000 nundi modalavutundi, 700+ pages unna SEO website ₹20,000 nundi, online store ₹50,000 nundi. Asalu dhara pages, designs, features meeda aadharapadi untundi. Pani modalupettadaniki mundu meeku raatapoorvaka itemised quote pampistamu, mee anumathi lekunda e bill undadu.",
+        "Maa daggara simple website ₹10,000 nundi modalavutundi, 299+ pages unna SEO website ₹20,000 nundi, online store ₹50,000 nundi. Asalu dhara pages, designs, features meeda aadharapadi untundi. Pani modalupettadaniki mundu meeku raatapoorvaka itemised quote pampistamu, mee anumathi lekunda e bill undadu.",
     },
     {
       question: "Do you have an office in Proddatur?",

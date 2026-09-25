@@ -35,7 +35,7 @@ const satara: CityContent = {
     pills: ["Websites from ₹10,000", "MIDC vendor catalogues", "Marathi and English SEO", "Pedha and strawberry stores", "Your domain, your code"],
   },
   quickAnswer:
-    "In Satara, a business website starts at ₹10,000 and is ready in one to two weeks. A 700+ page SEO site starts at ₹20,000, WhatsApp and AI automation at ₹40,000, an online store for pedhas or farm produce at ₹50,000 and custom software at ₹60,000. We are a remote team; you own the domain, hosting and code.",
+    "In Satara, a business website starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp and AI automation at ₹40,000, an online store for pedhas or farm produce at ₹50,000 and custom software at ₹60,000. We are a remote team; you own the domain, hosting and code.",
   snapshot: [
     { label: "History", value: "Capital of the Maratha ruler Shahu I; named after the seven forts around the city" },
     { label: "Location", value: "Near the Krishna–Venna confluence, about 110 km from Pune on NH 48" },
@@ -145,7 +145,7 @@ const satara: CityContent = {
       ],
       list: [
         "<strong>Static website up to 100 pages:</strong> from ₹10,000, one to two weeks.",
-        "<strong>SEO website with 700+ pages:</strong> starts at ₹20,000, three to five weeks.",
+        "<strong>SEO website with 299+ pages:</strong> starts at ₹20,000, three to five weeks.",
         "<strong>WhatsApp and AI automation:</strong> from ₹40,000, two to four weeks.",
         "<strong>Online store with UPI and Razorpay:</strong> starts at ₹50,000, four to eight weeks.",
         "<strong>Custom software or web app:</strong> from ₹60,000, six to twelve weeks.",
@@ -226,7 +226,7 @@ const satara: CityContent = {
     {
       question: "How much does a website cost in Satara?",
       answer:
-        "A small business website starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We send an itemised written quote in about two working days and bill nothing until you approve it.",
+        "A small business website starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We send an itemised written quote in about two working days and bill nothing until you approve it.",
     },
     {
       question: "Satara madhye majhya dukanasathi website havi aahe, kiti paise lagtil?",
@@ -286,7 +286,7 @@ const satara: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A small site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Tourism businesses should start at least two months before the monsoon or holiday season.",
+        "A small site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Tourism businesses should start at least two months before the monsoon or holiday season.",
     },
     {
       question: "Do you promise the first rank on Google?",

@@ -39,7 +39,7 @@ const dumka: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi, Bengali and Santali pages", "Basukinath and Massanjore listings", "Code and accounts in your name"],
   },
   quickAnswer:
-    "A website for a Dumka business starts at ₹10,000 with us and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 700+ page SEO site at ₹20,000 and an online store at ₹50,000. We are a remote team with no Dumka office, and you own every account.",
+    "A website for a Dumka business starts at ₹10,000 with us and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 299+ page SEO site at ₹20,000 and an online store at ₹50,000. We are a remote team with no Dumka office, and you own every account.",
   snapshot: [
     { label: "Role", value: "Headquarters of Dumka district and the Santhal Pargana division, often called the sub-capital of Jharkhand" },
     { label: "River and dam", value: "Town lies east of the Mayurakshi; Massanjore Dam on the river was commissioned in 1955" },
@@ -107,7 +107,7 @@ const dumka: CityContent = {
       paragraphs: [
         "Education is one of Dumka's steadiest trades. Sido Kanhu Murmu University, set up in 1992, serves the Santhal Pargana. The Phulo Jhano Murmu Medical College and Hospital opened in 2019, Government Engineering College Dumka runs in partnership with a private group, and the dairy technology college at Hansdiha is the first of its kind in Jharkhand. Around these sit private colleges, schools, hostels, libraries and a busy coaching circuit for competitive exams.",
         "Students and parents compare options online, and a thin page with only a phone number loses to one that answers their questions. A <strong>website development team in Dumka</strong> working with an institute should publish courses, batch timings, fees or fee ranges, faculty with their subjects, results you can document, hostel details and the admission process, and keep all of it current.",
-        "For coaching centres we often add an online enquiry form, a test-series schedule, downloadable notes behind a login and a notice board that parents can check. Larger institutes may want a 700+ page SEO site, from ₹20,000, with one page per course, exam and nearby town, which takes three to five weeks.",
+        "For coaching centres we often add an online enquiry form, a test-series schedule, downloadable notes behind a login and a notice board that parents can check. Larger institutes may want a 299+ page SEO site, from ₹20,000, with one page per course, exam and nearby town, which takes three to five weeks.",
         "We never publish student results or photographs without written consent, and we keep admission pages free of claims about guaranteed selection.",
       ],
     },
@@ -165,7 +165,7 @@ const dumka: CityContent = {
       id: "website-cost-dumka",
       heading: "Website cost in Dumka: what the starting prices cover",
       paragraphs: [
-        "Here are the entry points, since cost is usually the first question. A static site of up to 100 pages starts at ₹10,000 and usually takes one to two weeks; that suits most clinics, lodges, shops and small institutes. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as do AI and WhatsApp automation projects, which take two to four weeks. Online stores start at ₹50,000 over four to eight weeks, and custom software or web apps start at ₹60,000 over six to twelve weeks. Monthly SEO starts at ₹10,000 a month.",
+        "Here are the entry points, since cost is usually the first question. A static site of up to 100 pages starts at ₹10,000 and usually takes one to two weeks; that suits most clinics, lodges, shops and small institutes. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as do AI and WhatsApp automation projects, which take two to four weeks. Online stores start at ₹50,000 over four to eight weeks, and custom software or web apps start at ₹60,000 over six to twelve weeks. Monthly SEO starts at ₹10,000 a month.",
         "What pushes a Dumka quote above the floor is usually one of these: pages in more than one language, a large product list, payment and courier setup, staff logins with different permissions, or a connection to your accounting software. Each appears as its own line so you can drop what you do not need. If you write your own text and send phone photos, the price stays closer to the starting figure.",
         "Local quotes vary widely for work that sounds similar, so compare on substance: whose name the domain is registered in, whether the site was tested on a low-cost Android phone, whether basic on-page SEO is included, how many rounds of changes are covered and who answers when something breaks next year. All our starting prices are on the <a href=\"/pricing/\">pricing page</a>.",
       ],
@@ -219,7 +219,7 @@ const dumka: CityContent = {
     {
       question: "How much does a website cost in Dumka?",
       answer:
-        "With us, a static website of up to 100 pages starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Your quote depends on pages, languages, products and integrations, and it comes itemised in writing before any payment.",
+        "With us, a static website of up to 100 pages starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Your quote depends on pages, languages, products and integrations, and it comes itemised in writing before any payment.",
     },
     {
       question: "Do you build Android and iOS apps for Dumka businesses?",
@@ -229,7 +229,7 @@ const dumka: CityContent = {
     {
       question: "How long does it take to make a website for a Dumka clinic or shop?",
       answer:
-        "A simple site usually goes live one to two weeks after we receive your photos, timings and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The biggest delay is usually waiting for content, so sending it early helps.",
+        "A simple site usually goes live one to two weeks after we receive your photos, timings and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The biggest delay is usually waiting for content, so sending it early helps.",
     },
     {
       question: "Which is the best IT services team in Dumka for a small business?",

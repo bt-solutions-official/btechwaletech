@@ -200,7 +200,7 @@ const content: CityContent = {
       id: "cost-it-solutions-rourkela",
       heading: "How much do IT solutions cost in Rourkela?",
       paragraphs: [
-        "IT solutions in Rourkela start from ₹10,000 for a B2B or static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store or catalogue and ₹60,000 for custom workflow software. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000. Full inclusions are on the <a href=\"/pricing/\">pricing page</a>.",
+        "IT solutions in Rourkela start from ₹10,000 for a B2B or static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store or catalogue and ₹60,000 for custom workflow software. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000. Full inclusions are on the <a href=\"/pricing/\">pricing page</a>.",
         "What changes the price is scope: number of modules and user roles, document storage, offline field entry, Tally or other integrations and migration of past records. A PO and dispatch register for one plant buyer costs less than a multi-site system with labour, fleet and receivables.",
         "Payment is in INR only, by UPI with our QR code or by direct bank transfer to our bank account, against milestones set out in the estimate. Phased delivery lets you see value from the first module before committing to the next.",
       ],

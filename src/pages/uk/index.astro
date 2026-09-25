@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "@layouts/BaseLayout.astro";
+import { countryPageLinks } from "@data/keywords/page-links";
 import { createPageSeo } from "@lib/seo/seo-config";
 import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
 import { breadcrumbListSchema, faqSchema } from "@lib/schema/schema";
@@ -20,7 +21,7 @@ const faqs = [
   },
   {
     question: "How much does a website cost for a UK business?",
-    answer: `Our starting prices for UK clients are set in US dollars: a static website of up to 100 pages starts from ${usd("Static")}, a 700+ page SEO website from ${usd("SEO website")}, AI automation from ${usd("AI automation")}, an ecommerce store from ${usd("Ecommerce")} and a custom web app from ${usd("Custom web app")}. Monthly SEO starts from ${usd("Monthly SEO")}. These are starting prices; the final quote depends on your requirements.`,
+    answer: `Our starting prices for UK clients are set in US dollars: a static website of up to 100 pages starts from ${usd("Static")}, a 299+ page SEO website from ${usd("SEO website")}, AI automation from ${usd("AI automation")}, an ecommerce store from ${usd("Ecommerce")} and a custom web app from ${usd("Custom web app")}. Monthly SEO starts from ${usd("Monthly SEO")}. These are starting prices; the final quote depends on your requirements.`,
   },
   {
     question: "Can you invoice in pounds sterling?",
@@ -68,7 +69,7 @@ const faqs = [
   },
   {
     question: "How long does a UK website project take?",
-    answer: "A static website usually takes one to two weeks, a 700+ page SEO website three to five weeks, AI automation two to four weeks, an ecommerce store four to eight weeks and a custom web app six to twelve weeks. The biggest factor is how quickly content, photos and feedback arrive from your side.",
+    answer: "A static website usually takes one to two weeks, a 299+ page SEO website three to five weeks, AI automation two to four weeks, an ecommerce store four to eight weeks and a custom web app six to twelve weeks. The biggest factor is how quickly content, photos and feedback arrive from your side.",
   },
   {
     question: "Who owns the website, domain and code?",
@@ -463,7 +464,7 @@ const guide: GuideArticle[] = [
     heading: "What drives the cost of a UK website",
     paragraphs: [
       "Our starting prices are low compared with typical UK agency quotes for similar work, and the difference comes from our cost base in India rather than from cutting the deliverable. But a starting price is exactly that. The final quote depends on requirements, and it helps to know which requirements move it.",
-      "<strong>Pages and content.</strong> A ten-page service site with copy you supply is at the low end. Writing the copy, producing area pages with genuinely different content, or migrating hundreds of old posts adds time. Our 700+ page SEO website plan starts from " + usd("SEO website") + " because large sites are generated from structured data rather than written one page at a time, but the data and the quality checks still take work.",
+      "<strong>Pages and content.</strong> A ten-page service site with copy you supply is at the low end. Writing the copy, producing area pages with genuinely different content, or migrating hundreds of old posts adds time. Our 299+ page SEO website plan starts from " + usd("SEO website") + " because large sites are generated from structured data rather than written one page at a time, but the data and the quality checks still take work.",
       "<strong>Features and integrations.</strong> Booking systems, customer logins, CRM integrations such as HubSpot or Salesforce, accounting links such as Xero or QuickBooks, and payment flows each add design, build and testing time. A store with a few simple products differs from one with variants, bundles, trade pricing and subscriptions.",
       "<strong>Design depth.</strong> Working from your existing brand is quicker than creating one. Custom illustration, photography direction or animation are extras we will quote separately or suggest you source locally.",
       "<strong>Running costs.</strong> Budget for the yearly domain renewal, hosting, any paid plugins or Shopify subscription, payment provider fees and email services. A static site is usually the cheapest to run. We list expected running costs in the quote so you are not surprised later.",
@@ -562,6 +563,7 @@ const webPageSchema = {
   about: { "@id": `${url}#service` },
   speakable: { "@type": "SpeakableSpecification", cssSelector: ["#quick-answer", "h1"] },
 };
+const servicePages = countryPageLinks("uk");
 ---
 
 <BaseLayout meta={page} schema={[webPageSchema, professionalServiceSchema, breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs)]}>
@@ -863,6 +865,21 @@ const webPageSchema = {
       </div>
     </div>
   </section>
+
+  <!-- ===================== SERVICE PAGES ===================== -->
+  {servicePages.length > 0 && (
+    <section class="locations" aria-labelledby="service-pages-heading">
+      <div class="section-wrap">
+        <div class="section-head">
+          <p class="eyebrow">Services and guides</p>
+          <h2 id="service-pages-heading">Everything we build for UK businesses</h2>
+        </div>
+        <div class="city-cloud">
+          {servicePages.map((p) => <a class="city-chip" href={p.href}>{p.name}</a>)}
+        </div>
+      </div>
+    </section>
+  )}
 
   <!-- ===================== RELATED ===================== -->
   <section class="locations" aria-labelledby="related-heading">

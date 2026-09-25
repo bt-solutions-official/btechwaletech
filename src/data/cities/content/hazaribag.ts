@@ -34,7 +34,7 @@ const hazaribag: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi-first pages", "Vendor profiles for coal projects", "Sohrai art stores", "Free upkeep for 5 months"],
   },
   quickAnswer:
-    "In Hazaribagh, our websites start from ₹10,000 and a static site is usually ready in one to two weeks. A 700+ page SEO website starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are three remote engineers with no Hazaribagh office, and maintenance is free for five months after launch.",
+    "In Hazaribagh, our websites start from ₹10,000 and a static site is usually ready in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are three remote engineers with no Hazaribagh office, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of Hazaribagh district and of North Chotanagpur division" },
     { label: "Name", value: "From Persian hazar and bagh, “a thousand gardens”; a cantonment from 1790 and a municipality from 1869" },
@@ -72,12 +72,12 @@ const hazaribag: CityContent = {
       heading: "What websites cost in Hazaribagh",
       paragraphs: [
         "Local prices range from a few thousand rupees for a template to agency quotes from Ranchi or Kolkata several times our starting figures. The difference is often in what is missing: hosting in your name, search setup, speed on mobile, and help after launch.",
-        "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages starts from ₹10,000 and takes one to two weeks. A 700+ page site built for search, with separate pages for each service, machine type or location, starts at ₹20,000 and takes three to five weeks. Automation starts from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. Monthly SEO starts at ₹10,000.",
+        "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages starts from ₹10,000 and takes one to two weeks. A 299+ page site built for search, with separate pages for each service, machine type or location, starts at ₹20,000 and takes three to five weeks. Automation starts from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. Monthly SEO starts at ₹10,000.",
         "Your final quote depends on the number of pages, the features you need and how much writing we do. Every item is listed so you can compare it fairly.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form, map and WhatsApp button. For shops, clinics, classes and small dealers.",
-        "<strong>From ₹20,000:</strong> 700+ pages for contractors, suppliers and institutes wanting search enquiries.",
+        "<strong>From ₹20,000:</strong> 299+ pages for contractors, suppliers and institutes wanting search enquiries.",
         "<strong>From ₹50,000:</strong> online store with UPI and card payments for art, crafts and local products.",
         "<strong>From ₹60,000:</strong> custom tools for trips, machine hours, billing, stock or admissions.",
       ],
@@ -97,7 +97,7 @@ const hazaribag: CityContent = {
       paragraphs: [
         "The mining and construction activity around Hazaribagh supports many dealers: tyres, lubricants, spare parts, hardware, cement and steel, safety gear and machinery hire. Their customers are often in a hurry. A site engineer at Barkagaon or Keredari who needs a part today will search, call the first number that looks reliable, and move on if nobody answers.",
         "For these dealers, the most valuable work is often a strong Google Business Profile, a website listing brands and product categories, and a WhatsApp button that someone actually monitors. For equipment hire, a page per machine type with capacity, availability and service area makes the phone ring. We keep prices off the page unless you want them there, since many dealers quote per job.",
-        "A dealer site usually starts from ₹10,000. If you want a searchable catalogue of hundreds of parts, a 700+ page site from ₹20,000 is the better fit, and we can import your existing item list to save typing.",
+        "A dealer site usually starts from ₹10,000. If you want a searchable catalogue of hundreds of parts, a 299+ page site from ₹20,000 is the better fit, and we can import your existing item list to save typing.",
       ],
     },
     {
@@ -218,12 +218,12 @@ const hazaribag: CityContent = {
     {
       question: "How much does a website cost in Hazaribagh?",
       answer:
-        "Our static websites start from ₹10,000, 700+ page SEO websites from ₹20,000, automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. These are starting prices; your written quote depends on pages, features and content, and nothing is billed until you approve it.",
+        "Our static websites start from ₹10,000, 299+ page SEO websites from ₹20,000, automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. These are starting prices; your written quote depends on pages, features and content, and nothing is billed until you approve it.",
     },
     {
       question: "Hazaribagh me website banwane ka kharcha kitna hai?",
       answer:
-        "Humare saath simple website ₹10,000 se shuru hoti hai, 700+ page wali SEO website ₹20,000 se, aur online store ₹50,000 se. Contractor ya coaching ka software ₹60,000 se shuru hota hai. Pehle likhit quote milta hai, aur aapki manzoori ke baad hi kaam aur bill shuru hota hai.",
+        "Humare saath simple website ₹10,000 se shuru hoti hai, 299+ page wali SEO website ₹20,000 se, aur online store ₹50,000 se. Contractor ya coaching ka software ₹60,000 se shuru hota hai. Pehle likhit quote milta hai, aur aapki manzoori ke baad hi kaam aur bill shuru hota hai.",
     },
     {
       question: "Do you have an office in Hazaribagh?",
@@ -263,7 +263,7 @@ const hazaribag: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, automation two to four, an online store four to eight and custom software six to twelve. Waiting for photos and details is the most common delay, so we send a checklist on the first day.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, automation two to four, an online store four to eight and custom software six to twelve. Waiting for photos and details is the most common delay, so we send a checklist on the first day.",
     },
     {
       question: "Who owns the domain and code?",

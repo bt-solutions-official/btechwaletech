@@ -35,7 +35,7 @@ const aizawl: CityContent = {
     pills: ["Sites from ₹10,000", "English and Mizo pages", "UPI stores for puan sellers", "Homestay bookings", "WhatsApp automation"],
   },
   quickAnswer:
-    "For an Aizawl business, a simple website with us starts at ₹10,000 and takes one to two weeks, while a 700+ page SEO site starts at ₹20,000. Online stores start at ₹50,000. We are a remote team of three engineers with no Aizawl office, and every build includes five months of free maintenance.",
+    "For an Aizawl business, a simple website with us starts at ₹10,000 and takes one to two weeks, while a 299+ page SEO site starts at ₹20,000. Online stores start at ₹50,000. We are a remote team of three engineers with no Aizawl office, and every build includes five months of free maintenance.",
   snapshot: [
     { label: "Commercial core", value: "Bara Bazar, Dawrpui (Millennium Centre), Zarkawt and Chanmari" },
     { label: "Connectivity", value: "Sairang railhead on the Bairabi–Sairang line (opened September 2025) and Lengpui Airport" },
@@ -73,12 +73,12 @@ const aizawl: CityContent = {
       heading: "What a website costs in Aizawl, and why quotes vary so much",
       paragraphs: [
         "Because the local market is small, many Aizawl owners get quotes from firms in Guwahati, Kolkata or Delhi, and the numbers are all over the place. The same five-page brochure site can be quoted at many times the price by one firm as by another. The cheap end usually means a recycled theme, no search setup and hosting held in the developer's name. The expensive end frequently pays for a sales office far away and a project manager who relays your messages to someone else.",
-        "Our pricing is public. A static business website starts from ₹10,000 and normally takes one to two weeks. A 700+ page SEO website with separate pages for each service and area you cover starts from ₹20,000 and takes three to five weeks. Online stores with UPI and card payments start from ₹50,000, custom web applications from ₹60,000, AI and WhatsApp automation from ₹40,000, and monthly SEO from ₹10,000. See the full list on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our pricing is public. A static business website starts from ₹10,000 and normally takes one to two weeks. A 299+ page SEO website with separate pages for each service and area you cover starts from ₹20,000 and takes three to five weeks. Online stores with UPI and card payments start from ₹50,000, custom web applications from ₹60,000, AI and WhatsApp automation from ₹40,000, and monthly SEO from ₹10,000. See the full list on our <a href=\"/pricing/\">pricing page</a>.",
         "What moves the number is scope, not your postcode. A homestay with four rooms needs far less than a school with admissions, fee payment and a notice board. Adding a Mizo-language version adds pages to translate and check. We send a written, itemised quote within about two working days and bill nothing until you approve it in writing.",
       ],
       list: [
         "<strong>Static site, from ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form, map, basic SEO. Fits clinics, consultants, tuition centres and small shops.",
-        "<strong>SEO site, from ₹20,000:</strong> 700+ pages covering each service, locality and FAQ. Fits service firms that want Google enquiries.",
+        "<strong>SEO site, from ₹20,000:</strong> 299+ pages covering each service, locality and FAQ. Fits service firms that want Google enquiries.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart, UPI and card checkout. Fits puan weavers, food producers and boutiques.",
         "<strong>Custom web app, from ₹60,000:</strong> logins, roles and dashboards. Fits schools, distributors and tour operators.",
       ],
@@ -209,12 +209,12 @@ const aizawl: CityContent = {
     {
       question: "How much does a website cost in Aizawl?",
       answer:
-        "With us, a simple static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Outside quotes for Aizawl businesses range widely, so compare what is included: who owns the domain, whether SEO basics are done, and what support you get after launch.",
+        "With us, a simple static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Outside quotes for Aizawl businesses range widely, so compare what is included: who owns the domain, whether SEO basics are done, and what support you get after launch.",
     },
     {
       question: "Aizawl mein website banwane ka kharcha kitna hai?",
       answer:
-        "Humare saath ek simple business website ₹10,000 se shuru hoti hai aur 700+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se shuru hota hai. Final kharcha pages, products aur languages par depend karta hai, aur kaam shuru hone se pehle aapko likhit, itemised quote milta hai.",
+        "Humare saath ek simple business website ₹10,000 se shuru hoti hai aur 299+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se shuru hota hai. Final kharcha pages, products aur languages par depend karta hai, aur kaam shuru hone se pehle aapko likhit, itemised quote milta hai.",
     },
     {
       question: "Do you have an office in Aizawl that I can visit?",
@@ -249,7 +249,7 @@ const aizawl: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks, and a custom web application six to twelve weeks. The most common delay is waiting for photos and text, so we draft starter content for you to correct rather than wait on blank pages.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks, and a custom web application six to twelve weeks. The most common delay is waiting for photos and text, so we draft starter content for you to correct rather than wait on blank pages.",
     },
     {
       question: "What can AI automation do for an Aizawl business?",

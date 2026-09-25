@@ -187,7 +187,7 @@ const content: CityContent = {
       id: "cost-shimla-software",
       heading: "How much do freelance software developers in Shimla charge?",
       paragraphs: [
-        "BtechWaleTech's starting prices for Shimla are ₹10,000 for a static website, ₹20,000 for a 700+ page SEO site, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software, with monthly SEO from ₹10,000 and maintenance from ₹8,000 a month. Final quotes depend on modules, users, integrations and data.",
+        "BtechWaleTech's starting prices for Shimla are ₹10,000 for a static website, ₹20,000 for a 299+ page SEO site, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software, with monthly SEO from ₹10,000 and maintenance from ₹8,000 a month. Final quotes depend on modules, users, integrations and data.",
         "To give a sense of scale: an AI agent answering hotel enquiries sits near the automation starting price. A hotel operations system with front desk, housekeeping and restaurant billing sits above the custom software starting price. A commission agent's billing system with grower statements, buyer accounts and advances is priced by volume and number of counters.",
         "Quotes are itemised so you can phase work outside the busy months. Payment is by milestone, only by UPI QR or bank transfer in INR. The complete list is on our <a href='/pricing/'>pricing page</a>.",
       ],

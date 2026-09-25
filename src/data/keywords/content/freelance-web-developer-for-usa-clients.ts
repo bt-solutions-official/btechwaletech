@@ -47,7 +47,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "How much does a freelance web developer for USA clients cost?",
-    text: `An Indian freelance web developer for USA clients usually quotes per project in dollars. With BtechWaleTech, a business website of up to 100 pages starts at ${P.siteUsd}, an SEO site with 700+ pages at ${P.seoSiteUsd}, an online store at ${P.shopUsd} and a custom web app at ${P.softwareUsd}. Scope drives the final figure, and the quote is itemised before you pay.`,
+    text: `An Indian freelance web developer for USA clients usually quotes per project in dollars. With BtechWaleTech, a business website of up to 100 pages starts at ${P.siteUsd}, an SEO site with 299+ pages at ${P.seoSiteUsd}, an online store at ${P.shopUsd} and a custom web app at ${P.softwareUsd}. Scope drives the final figure, and the quote is itemised before you pay.`,
     more: `For broader offshore questions, see <a href='/outsource-web-development-to-india/'>outsourcing web development to India</a> or <a href='/hire-indian-developers/'>hiring Indian developers from abroad</a>.`,
   },
   snapshot: {
@@ -120,7 +120,7 @@ const content: FreelanceContent = {
       heading: "Freelance web developer rates for USA clients: what drives the number",
       paragraphs: [
         `Quotes from Indian freelancers vary widely, so treat any single figure you read online with suspicion. The number depends on five things: the scope, the seniority of the person doing the work, how much design and content is included, the complexity of integrations, and how much support comes after launch.`,
-        `Our starting prices are published so you can anchor expectations: websites from ${P.siteUsd}, SEO websites with 700+ pages from ${P.seoSiteUsd}, stores from ${P.shopUsd}, apps from ${P.appUsd} and web apps from ${P.softwareUsd}. Each is a floor, not a package price. Your itemised quote shows how every line adds up.`,
+        `Our starting prices are published so you can anchor expectations: websites from ${P.siteUsd}, SEO websites with 299+ pages from ${P.seoSiteUsd}, stores from ${P.shopUsd}, apps from ${P.appUsd} and web apps from ${P.softwareUsd}. Each is a floor, not a package price. Your itemised quote shows how every line adds up.`,
         `When comparing offers, normalise them. List what each includes: number of page templates, content writing, SEO setup, testing, hosting setup, the support period and who owns the accounts. A quote that looks cheaper often excludes the parts that cost you later.`,
       ],
       after: [
@@ -318,7 +318,7 @@ const content: FreelanceContent = {
       columns: ["Project", "Starts at", "Typical timeline", "Common US use"],
       rows: [
         ["Business website, up to 100 pages", `From ${P.siteUsd}`, "1–2 weeks", "Contractors, clinics, consultants"],
-        ["SEO website, 700+ pages", `From ${P.seoSiteUsd}`, "3–5 weeks", "Multi-city service businesses"],
+        ["SEO website, 299+ pages", `From ${P.seoSiteUsd}`, "3–5 weeks", "Multi-city service businesses"],
         ["Online store", `From ${P.shopUsd}`, "4–8 weeks", "DTC brands, specialty retail"],
         ["Custom web app or portal", `From ${P.softwareUsd}`, "6–12 weeks", "Client portals, internal tools"],
         ["Android & iOS app", `From ${P.appUsd}`, "6–10 weeks", "Bookings, memberships, field staff"],

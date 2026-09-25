@@ -39,7 +39,7 @@ const sujangarh: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Pilgrim booking pages", "Hindi-first local SEO", "Your domain, your code"],
   },
   quickAnswer:
-    "In Sujangarh and Salasar our websites begin at ₹10,000, with most going live inside a fortnight. Apps for Android and iOS begin at ₹40,000, as does AI or WhatsApp automation; bigger SEO sites of 700+ pages begin at ₹20,000, UPI stores at ₹50,000 and bespoke software at ₹60,000. Domains, code and store accounts are opened under your name.",
+    "In Sujangarh and Salasar our websites begin at ₹10,000, with most going live inside a fortnight. Apps for Android and iOS begin at ₹40,000, as does AI or WhatsApp automation; bigger SEO sites of 299+ pages begin at ₹20,000, UPI stores at ₹50,000 and bespoke software at ₹60,000. Domains, code and store accounts are opened under your name.",
   snapshot: [
     { label: "Location", value: "Tehsil headquarters in Churu district, in the Thar desert on large sand dunes known locally as dhoras" },
     { label: "Population", value: "About 1.02 lakh at the 2011 census" },
@@ -164,7 +164,7 @@ const sujangarh: CityContent = {
       ],
       list: [
         "Static website, maximum 100 pages: begins at ₹10,000, 1–2 weeks",
-        "SEO website with more than 700 pages: begins at ₹20,000, 3–5 weeks",
+        "SEO website with more than 299 pages: begins at ₹20,000, 3–5 weeks",
         "Android and iOS app: begins at ₹40,000",
         "AI or WhatsApp automation: begins at ₹40,000, 2–4 weeks",
         "Online shop with UPI: begins at ₹50,000, 4–8 weeks",
@@ -219,7 +219,7 @@ const sujangarh: CityContent = {
     {
       question: "What is the website cost in Sujangarh?",
       answer:
-        "Our simplest sites begin at ₹10,000. From there, a 700+ page SEO build begins at ₹20,000, a UPI store at ₹50,000 and bespoke software at ₹60,000. Your actual total depends on what the job includes, and each line is shown in writing before any payment is asked for.",
+        "Our simplest sites begin at ₹10,000. From there, a 299+ page SEO build begins at ₹20,000, a UPI store at ₹50,000 and bespoke software at ₹60,000. Your actual total depends on what the job includes, and each line is shown in writing before any payment is asked for.",
     },
     {
       question: "Do you build Android and iOS apps for Sujangarh businesses?",
@@ -229,7 +229,7 @@ const sujangarh: CityContent = {
     {
       question: "How long does a website take for a Sujangarh or Salasar business?",
       answer:
-        "A basic site is typically live about ten days after we get your pictures and wording. SEO builds of 700+ pages need three to five weeks, a store one to two months and custom software up to a quarter. Delays usually come from missing photos or room details, so collect them early.",
+        "A basic site is typically live about ten days after we get your pictures and wording. SEO builds of 299+ pages need three to five weeks, a store one to two months and custom software up to a quarter. Delays usually come from missing photos or room details, so collect them early.",
     },
     {
       question: "Which is the best IT services team in Sujangarh?",

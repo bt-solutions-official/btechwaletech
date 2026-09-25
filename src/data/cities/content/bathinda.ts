@@ -35,7 +35,7 @@ const bathinda: CityContent = {
     pills: ["Websites from ₹10,000", "Punjabi, Hindi and English", "Coaching and IELTS sites", "Trader and yarn catalogues", "WhatsApp automation"],
   },
   quickAnswer:
-    "For Bathinda businesses, our static websites start from ₹10,000 and are ready in one to two weeks. A 700+ page SEO website starts from ₹20,000, an online store from ₹50,000 and AI automation from ₹40,000. We are a remote team of three engineers without a Bathinda office, and maintenance is free for five months after launch.",
+    "For Bathinda businesses, our static websites start from ₹10,000 and are ready in one to two weeks. A 299+ page SEO website starts from ₹20,000, an online store from ₹50,000 and AI automation from ₹40,000. We are a remote team of three engineers without a Bathinda office, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Region", value: "Malwa, south-west Punjab; district headquarters about 227 km west of Chandigarh" },
     { label: "Big employers", value: "HMEL's Guru Gobind Singh Refinery, National Fertilizers, cement plants, army cantonment and air force station" },
@@ -78,7 +78,7 @@ const bathinda: CityContent = {
       ],
       list: [
         "<strong>Static website, from ₹10,000:</strong> up to 100 pages, contact form, map and basic SEO for shops, clinics and offices.",
-        "<strong>SEO website, from ₹20,000:</strong> 700+ pages across services, products and locations for firms that want search enquiries.",
+        "<strong>SEO website, from ₹20,000:</strong> 299+ pages across services, products and locations for firms that want search enquiries.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart and UPI or card payments for clothing, food and dairy brands.",
         "<strong>Custom software, from ₹60,000:</strong> logins, ledgers and dashboards for agents, dealers and institutes.",
       ],
@@ -209,12 +209,12 @@ const bathinda: CityContent = {
     {
       question: "How much does a website cost in Bathinda?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices; the final figure depends on pages, languages and features, and you get it itemised before any billing.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices; the final figure depends on pages, languages and features, and you get it itemised before any billing.",
     },
     {
       question: "Bathinda vich website banwaun da kharcha kinna aunda hai?",
       answer:
-        "Saade naal ik simple business website ₹10,000 ton shuru hundi hai, te 700+ pages wali SEO website ₹20,000 ton. Online store ₹50,000 ton shuru hunda hai. Aakhri kharcha pages, features te content te nirbhar karda hai, te kamm shuru karan ton pehlan tuhanu likhti itemised quote mil janda hai.",
+        "Saade naal ik simple business website ₹10,000 ton shuru hundi hai, te 299+ pages wali SEO website ₹20,000 ton. Online store ₹50,000 ton shuru hunda hai. Aakhri kharcha pages, features te content te nirbhar karda hai, te kamm shuru karan ton pehlan tuhanu likhti itemised quote mil janda hai.",
     },
     {
       question: "Do you have an office in Bathinda?",

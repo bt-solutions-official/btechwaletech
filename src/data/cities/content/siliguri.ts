@@ -35,7 +35,7 @@ const siliguri: CityContent = {
     pills: ["Websites from ₹10,000", "Tour and homestay bookings", "Tea and wholesale catalogues", "Bengali, Hindi and English SEO", "WhatsApp automation"],
   },
   quickAnswer:
-    "A business website in Siliguri costs from ₹10,000 with us and takes one to two weeks; a 700+ page SEO site for a travel agency, trader or clinic starts at ₹20,000. Online stores begin at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team, and five months of maintenance after launch are included free.",
+    "A business website in Siliguri costs from ₹10,000 with us and takes one to two weeks; a 299+ page SEO site for a travel agency, trader or clinic starts at ₹20,000. Online stores begin at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team, and five months of maintenance after launch are included free.",
   snapshot: [
     { label: "Main roads", value: "Hill Cart Road towards Darjeeling, Sevoke Road towards Sikkim, and Burdwan Road" },
     { label: "Markets", value: "Bidhan Market, the Hong Kong Market inside it, and Seth Srilal Market near the city centre" },
@@ -73,12 +73,12 @@ const siliguri: CityContent = {
       heading: "How much does a website cost in Siliguri?",
       paragraphs: [
         "Website quotes in Siliguri can be anything from ₹3,000 to ₹50,000 or more. At the low end you usually get a template with your name on it, hosting under the designer's account and no search work. At the high end you may be paying for a Kolkata agency's office and account managers. Neither tells you whether the site will bring enquiries.",
-        "Our starting prices are published. A static website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks, which suits clinics, lawyers, small shops and consultants. A 700+ page SEO website starts at ₹20,000 over three to five weeks, the right size for travel agents with many packages, wholesalers with several product lines, or schools. Online stores start at ₹50,000 over four to eight weeks. Custom applications like booking or distributor systems start at ₹60,000 and take six to twelve weeks. Automation starts at ₹40,000, and monthly SEO at ₹10,000.",
+        "Our starting prices are published. A static website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks, which suits clinics, lawyers, small shops and consultants. A 299+ page SEO website starts at ₹20,000 over three to five weeks, the right size for travel agents with many packages, wholesalers with several product lines, or schools. Online stores start at ₹50,000 over four to eight weeks. Custom applications like booking or distributor systems start at ₹60,000 and take six to twelve weeks. Automation starts at ₹40,000, and monthly SEO at ₹10,000.",
         "For tour operators, the number of packages drives the cost. A dozen packages with good photos and clear itineraries are quick; fifty with seasonal pricing and hotel options take more work, and the quote will say so plainly. You receive it within about two working days.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form, basic SEO for small businesses and professionals.",
-        "<strong>From ₹20,000:</strong> 700+ pages, one per package, product line or service, with schema and sitemap.",
+        "<strong>From ₹20,000:</strong> 299+ pages, one per package, product line or service, with schema and sitemap.",
         "<strong>From ₹50,000:</strong> online store with UPI and cards for tea, local produce or retail.",
         "<strong>From ₹60,000:</strong> booking systems, fleet schedulers and distributor portals.",
       ],
@@ -209,12 +209,12 @@ const siliguri: CityContent = {
     {
       question: "How much does a website cost in Siliguri?",
       answer:
-        "With us, a static site starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom application at ₹60,000. Local quotes vary widely, so compare more than the price: domain ownership, SEO basics, speed on mobile data and support after launch.",
+        "With us, a static site starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom application at ₹60,000. Local quotes vary widely, so compare more than the price: domain ownership, SEO basics, speed on mobile data and support after launch.",
     },
     {
       question: "Siliguri te ekta website banate koto khoroch hoy?",
       answer:
-        "Amader kache simple business website ₹10,000 theke shuru hoy, ar 700+ page er SEO website ₹20,000 theke. Online store ₹50,000 theke shuru. Final daam page, feature ar content er upor nirbhor kore, ar kaaj shuru korar aage apni likhito itemised quote paben.",
+        "Amader kache simple business website ₹10,000 theke shuru hoy, ar 299+ page er SEO website ₹20,000 theke. Online store ₹50,000 theke shuru. Final daam page, feature ar content er upor nirbhor kore, ar kaaj shuru korar aage apni likhito itemised quote paben.",
     },
     {
       question: "Do you have an office in Siliguri?",
@@ -244,7 +244,7 @@ const siliguri: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks, and a custom application six to twelve weeks. Waiting for photos and content is the most common delay, so we write starter text you can edit.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks, and a custom application six to twelve weeks. Waiting for photos and content is the most common delay, so we write starter text you can edit.",
     },
     {
       question: "Will I own my domain, hosting and website code?",

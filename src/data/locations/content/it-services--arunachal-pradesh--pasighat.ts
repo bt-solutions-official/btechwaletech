@@ -202,7 +202,7 @@ const content: CityContent = {
       id: "cost-guide-pasighat",
       heading: "How much do freelance software developers in Pasighat charge?",
       paragraphs: [
-        "Freelance software developers in Pasighat's market typically charge by scope, and BtechWaleTech's starting prices are public. IT services for Pasighat businesses start at ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software or a web application. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000, after the five free months.",
+        "Freelance software developers in Pasighat's market typically charge by scope, and BtechWaleTech's starting prices are public. IT services for Pasighat businesses start at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software or a web application. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000, after the five free months.",
         "These are starting prices, not fixed packages. A booking system for one homestay is simpler than one for a rafting company running several groups and guides, and a fee ledger for one school is simpler than one for a college with hostels and multiple courses. We list each feature in the quote with its cost, so you can remove what you do not need.",
         "We quote in INR for Indian clients, and payment is taken in stages tied to visible progress. The full list of plans is on our <a href='/pricing/'>pricing page</a>. If a budget is fixed by a sanction or grant, tell us the amount and we will propose what can sensibly be built within it.",
       ],

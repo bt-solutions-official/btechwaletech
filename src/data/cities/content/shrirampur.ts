@@ -39,7 +39,7 @@ const shrirampur: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Marathi local SEO", "Patsanstha and trade software", "You own domain and code"],
   },
   quickAnswer:
-    "For a Shrirampur business, our websites start at ₹10,000 and usually take one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are remote, with no Shrirampur office, and every account stays in your name.",
+    "For a Shrirampur business, our websites start at ₹10,000 and usually take one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are remote, with no Shrirampur office, and every account stays in your name.",
   snapshot: [
     { label: "Location", value: "Taluka town in Ahilyanagar (Ahmednagar) district, in the Godavari basin on the Ahmednagar–Manmad road" },
     { label: "Population", value: "About 89,300 in the 2011 Census" },
@@ -110,7 +110,7 @@ const shrirampur: CityContent = {
         "Although the station is named Belapur, it stands in Shrirampur, and many passengers bound for Shirdi get off here. Shirdi is roughly 40 km away, and travellers look for taxis, hotels, restaurants and sometimes a night's stay before continuing. Pilgrims also combine visits to Shani Shingnapur and other temples in the district.",
         "Our <strong>SEO services in Shrirampur</strong> for this audience start with Google Business Profiles that are accurate and complete: exact pin, phone numbers that are answered, room or vehicle photographs, prices or price ranges, and clear directions from the station. Wrong pins and outdated numbers lose bookings to the next listing on the map.",
         "Next come pages that answer travellers' real questions in English, Hindi and Marathi: how far Shirdi is from Belapur station, how long the drive takes, typical taxi options, check-in times, parking and whether you arrange darshan-day pickups. We write these from facts you confirm and update them when anything changes.",
-        "Monthly SEO starts at ₹10,000 a month, and a 700+ page SEO website starts at ₹20,000 for businesses that want wider coverage of routes and services. We never promise the top ranking. More on <a href=\"/services/seo-services/\">how we handle SEO</a>.",
+        "Monthly SEO starts at ₹10,000 a month, and a 299+ page SEO website starts at ₹20,000 for businesses that want wider coverage of routes and services. We never promise the top ranking. More on <a href=\"/services/seo-services/\">how we handle SEO</a>.",
       ],
     },
     {
@@ -157,7 +157,7 @@ const shrirampur: CityContent = {
       id: "website-cost-shrirampur",
       heading: "Website cost in Shrirampur: starting prices and what to compare",
       paragraphs: [
-        "Our starting prices in Shrirampur are the same as everywhere we work. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
+        "Our starting prices in Shrirampur are the same as everywhere we work. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
         "The quote rises with more pages, full Marathi and English versions, big product catalogues, payment setup, member or customer logins, and links to Tally or society software. If you supply text and photographs, the price stays close to the starting figure; if we write and translate content, that appears as a separate line.",
         "Quotes from local developers vary widely. Ask each one whose name the domain and hosting are in, whether mobile testing and basic SEO are included, how many change rounds you get, what yearly renewals cost and who handles problems after launch.",
         "Our <a href=\"/pricing/\">pricing page</a> lists the starting points. A written itemised quote for your project normally arrives within about two working days, and it costs nothing.",
@@ -219,7 +219,7 @@ const shrirampur: CityContent = {
     {
       question: "What is the website cost in Shrirampur?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Marathi content, products and integrations. It comes itemised in writing, and nothing is billed before you approve it.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Marathi content, products and integrations. It comes itemised in writing, and nothing is billed before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Shrirampur businesses?",
@@ -229,7 +229,7 @@ const shrirampur: CityContent = {
     {
       question: "How long does a website take for a Shrirampur business?",
       answer:
-        "A static website usually goes live in one to two weeks after we get your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Ready content is the biggest factor in speed.",
+        "A static website usually goes live in one to two weeks after we get your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Ready content is the biggest factor in speed.",
     },
     {
       question: "Which is the best website development team in Shrirampur?",

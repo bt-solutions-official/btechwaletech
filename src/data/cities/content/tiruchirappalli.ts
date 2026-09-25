@@ -35,7 +35,7 @@ const tiruchirappalli: CityContent = {
     pills: ["Sites from ₹10,000", "Tamil and English content", "Vendor capability pages", "UPI stores and bookings", "WhatsApp enquiry flows"],
   },
   quickAnswer:
-    "A business website for a Trichy firm costs from ₹10,000 with us and is normally live in one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and automation at ₹40,000. We are a remote team of three engineers with no Tiruchirappalli office, and five months of maintenance after launch cost nothing.",
+    "A business website for a Trichy firm costs from ₹10,000 with us and is normally live in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and automation at ₹40,000. We are a remote team of three engineers with no Tiruchirappalli office, and five months of maintenance after launch cost nothing.",
   snapshot: [
     { label: "Shopping streets", value: "NSB Road, Chinnakadai Street, Big Bazaar Street and Main Guard Gate below the Rockfort" },
     { label: "Heavy industry", value: "BHEL's boiler plant, the Golden Rock railway workshop, Ordnance Factory Tiruchirappalli and HEPF" },
@@ -73,12 +73,12 @@ const tiruchirappalli: CityContent = {
       heading: "Website prices in Trichy, explained plainly",
       paragraphs: [
         "Local quotes for a small business website in Trichy can run from ₹3,000 to well over ₹50,000. The lowest quotes usually mean a recycled template, no search work, and hosting held on the designer's account. The highest often fund an office and a sales team, with your requests passed along to a developer you never speak to.",
-        "Our starting prices are public. A static site of up to 100 pages begins at ₹10,000 and takes one to two weeks. A 700+ page SEO site, planned around what people in Trichy and the delta districts actually search, begins at ₹20,000 and takes three to five weeks. Online stores with UPI and card payments begin at ₹50,000, and custom web applications such as vendor portals or job tracking systems begin at ₹60,000. Automation begins at ₹40,000, and monthly SEO at ₹10,000.",
+        "Our starting prices are public. A static site of up to 100 pages begins at ₹10,000 and takes one to two weeks. A 299+ page SEO site, planned around what people in Trichy and the delta districts actually search, begins at ₹20,000 and takes three to five weeks. Online stores with UPI and card payments begin at ₹50,000, and custom web applications such as vendor portals or job tracking systems begin at ₹60,000. Automation begins at ₹40,000, and monthly SEO at ₹10,000.",
         "Each quote is itemised by page and feature, so you can remove anything you consider unnecessary. A fabrication unit with forty product types and a lodge with six room categories are priced differently, and you can see exactly why. No invoice is raised until you approve the quote in writing.",
       ],
       list: [
         "<strong>Static site, from ₹10,000:</strong> up to 100 pages with enquiry form and basic SEO. Good for clinics, tuition centres, auditors and small shops.",
-        "<strong>SEO site, from ₹20,000:</strong> 700+ pages with schema and sitemap. Good for engineering firms, schools and service businesses.",
+        "<strong>SEO site, from ₹20,000:</strong> 299+ pages with schema and sitemap. Good for engineering firms, schools and service businesses.",
         "<strong>Online store, from ₹50,000:</strong> product catalogue, cart, UPI checkout. Good for saree, snack and gift sellers.",
         "<strong>Web application, from ₹60,000:</strong> logins, workflows and dashboards. Good for vendors, institutions and distributors.",
       ],
@@ -209,12 +209,12 @@ const tiruchirappalli: CityContent = {
     {
       question: "How much does a website cost in Trichy?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Across Trichy, quotes for similar work range from about ₹3,000 to over ₹50,000. Compare ownership of domain and hosting, SEO basics and after-launch support as well as the headline number.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Across Trichy, quotes for similar work range from about ₹3,000 to over ₹50,000. Compare ownership of domain and hosting, SEO basics and after-launch support as well as the headline number.",
     },
     {
       question: "Trichy-la oru website seiya evlo selavu aagum?",
       answer:
-        "Engaloda simple business website ₹10,000-la irundhu aarambikkudhu. 700+ page SEO website ₹20,000 muthal, online store ₹50,000 muthal. Final vilai pages, features, content ellathaiyum poruthu maarum. Velai aarambikkaradhukku munnadiye ungalukku itemised quote anuppuvom, neenga ok sonna apram dhaan bill.",
+        "Engaloda simple business website ₹10,000-la irundhu aarambikkudhu. 299+ page SEO website ₹20,000 muthal, online store ₹50,000 muthal. Final vilai pages, features, content ellathaiyum poruthu maarum. Velai aarambikkaradhukku munnadiye ungalukku itemised quote anuppuvom, neenga ok sonna apram dhaan bill.",
     },
     {
       question: "Do you have an office in Tiruchirappalli?",
@@ -244,7 +244,7 @@ const tiruchirappalli: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site usually takes one to two weeks and a 700+ page SEO site three to five weeks. Online stores take four to eight weeks and custom applications six to twelve. Delays usually come from waiting for photographs and text, so we draft starter copy for you to edit instead of waiting on blank pages.",
+        "A static site usually takes one to two weeks and a 299+ page SEO site three to five weeks. Online stores take four to eight weeks and custom applications six to twelve. Delays usually come from waiting for photographs and text, so we draft starter copy for you to edit instead of waiting on blank pages.",
     },
     {
       question: "How long does SEO take to work in Trichy?",

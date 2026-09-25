@@ -34,7 +34,7 @@ const bhagalpur: CityContent = {
     pills: ["Websites from ₹10,000", "Silk saree stores", "Hindi and Angika searches", "WhatsApp enquiry flows", "Domain and code yours"],
   },
   quickAnswer:
-    "In Bhagalpur, a basic business website with us starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000 and a silk or saree online store with UPI checkout starts at ₹50,000. We are a remote team, you own the domain and code, and the first five months of maintenance are free.",
+    "In Bhagalpur, a basic business website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000 and a silk or saree online store with UPI checkout starts at ₹50,000. We are a remote team, you own the domain and code, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Known as", value: "The Silk City of India, on the southern bank of the Ganga and Bihar's third largest city" },
     { label: "Signature product", value: "Bhagalpuri silk, GI-tagged in 2009 and woven largely in Nathnagar and Champanagar" },
@@ -97,7 +97,7 @@ const bhagalpur: CityContent = {
       ],
       list: [
         "<strong>Basic website from ₹10,000, 1–2 weeks:</strong> shops, clinics, tutors, lawyers and consultants.",
-        "<strong>700+ page SEO website from ₹20,000, 3–5 weeks:</strong> traders, schools, hospitals and firms targeting many searches.",
+        "<strong>299+ page SEO website from ₹20,000, 3–5 weeks:</strong> traders, schools, hospitals and firms targeting many searches.",
         "<strong>AI and WhatsApp automation from ₹40,000, 2–4 weeks:</strong> auto-replies, catalogue sharing and order capture.",
         "<strong>Silk or saree store from ₹50,000, 4–8 weeks:</strong> UPI checkout, stock tracking and WhatsApp order updates.",
         "<strong>Custom web software from ₹60,000, 6–12 weeks:</strong> loom registers, dealer portals and internal tools.",
@@ -215,7 +215,7 @@ const bhagalpur: CityContent = {
     {
       question: "How much does a website cost in Bhagalpur?",
       answer:
-        "A basic website starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000, a silk or saree store at ₹50,000 and custom web software at ₹60,000. You get an itemised quote in about two working days, and we bill nothing until you approve it in writing.",
+        "A basic website starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, a silk or saree store at ₹50,000 and custom web software at ₹60,000. You get an itemised quote in about two working days, and we bill nothing until you approve it in writing.",
     },
     {
       question: "Bhagalpur me apni dukaan ki website banwani hai, kitna kharcha aayega?",
@@ -275,7 +275,7 @@ const bhagalpur: CityContent = {
     {
       question: "How long does it take to launch a website?",
       answer:
-        "A basic site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having your photos, product details and basic text ready is the single biggest thing that speeds up the work.",
+        "A basic site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having your photos, product details and basic text ready is the single biggest thing that speeds up the work.",
     },
     {
       question: "Do you guarantee first page rankings on Google?",

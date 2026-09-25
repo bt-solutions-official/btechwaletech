@@ -35,7 +35,7 @@ const dhanbad: CityContent = {
     pills: ["Websites from ₹10,000", "Supplier and capability pages", "Fleet and order dashboards", "Hindi and English SEO", "WhatsApp automation"],
   },
   quickAnswer:
-    "In Dhanbad, our websites start at ₹10,000 for a static site ready in one to two weeks, and ₹20,000 for a 700+ page SEO site built over three to five weeks. Custom dashboards and web apps start at ₹60,000. We are a remote three-engineer team with no local office, and every launch includes five months of free maintenance.",
+    "In Dhanbad, our websites start at ₹10,000 for a static site ready in one to two weeks, and ₹20,000 for a 299+ page SEO site built over three to five weeks. Custom dashboards and web apps start at ₹60,000. We are a remote three-engineer team with no local office, and every launch includes five months of free maintenance.",
   snapshot: [
     { label: "Commercial centres", value: "Bank More, Hirapur, Saraidhela, Luby Circular Road, Bartand and the old Jharia market" },
     { label: "Mining", value: "Headquarters of Bharat Coking Coal Limited at Koyla Bhawan, Koyla Nagar, with operating areas across the Jharia coalfield" },
@@ -73,7 +73,7 @@ const dhanbad: CityContent = {
       heading: "How much does a website cost in Dhanbad?",
       paragraphs: [
         "Local quotes range from a couple of thousand rupees for a template page to ₹50,000 or more from agencies in larger cities. The cheapest option often means a site hosted on someone else's account with no SEO setup. The expensive one often includes sales overheads you do not see. Neither tells you much about what you will actually receive.",
-        "Our starting prices are public. A static website of up to 100 pages costs from ₹10,000 and is ready in one to two weeks. A 700+ page SEO website costs from ₹20,000 and takes three to five weeks, which suits suppliers with several product lines or hospitals with many departments. An online store starts at ₹50,000. Custom tools such as contractor portals, dispatch dashboards and billing systems start at ₹60,000, and automation projects at ₹40,000.",
+        "Our starting prices are public. A static website of up to 100 pages costs from ₹10,000 and is ready in one to two weeks. A 299+ page SEO website costs from ₹20,000 and takes three to five weeks, which suits suppliers with several product lines or hospitals with many departments. An online store starts at ₹50,000. Custom tools such as contractor portals, dispatch dashboards and billing systems start at ₹60,000, and automation projects at ₹40,000.",
         "See the details on our <a href=\"/pricing/\">pricing page</a>. Every quote is itemised line by line, and nothing is billed until you approve it in writing.",
       ],
       list: [
@@ -89,7 +89,7 @@ const dhanbad: CityContent = {
       paragraphs: [
         "A large part of Dhanbad's private economy serves the coalfield: overburden removal and transport contractors, suppliers of conveyor belts, pumps, cables, safety equipment and heavy-machinery spares, fabrication and repair workshops, and consultants who handle surveys, environmental work or safety compliance. Their buyers are engineers and purchase departments who care about proof, not slogans.",
         "We build supplier websites around that proof. Each product line or service gets its own page with specifications, brands handled, stock position if you want to show it, and the kinds of sites where you have worked. A capabilities page lists your equipment fleet, certifications and statutory registrations. Downloadable company profiles, GST and PAN details, and past work orders you are allowed to mention save a buyer's time and make your firm easier to empanel.",
-        "We do not publish client names or project figures without permission, and we never invent approvals or certifications. For firms that bid on tenders, we keep a clean, current page with documents procurement teams ask for most often, so you are not scrambling to email PDFs the night before a deadline. A <a href=\"/services/web-development/\">700+ page supplier site</a> usually covers everything a mid-sized contractor needs.",
+        "We do not publish client names or project figures without permission, and we never invent approvals or certifications. For firms that bid on tenders, we keep a clean, current page with documents procurement teams ask for most often, so you are not scrambling to email PDFs the night before a deadline. A <a href=\"/services/web-development/\">299+ page supplier site</a> usually covers everything a mid-sized contractor needs.",
       ],
     },
     {
@@ -218,12 +218,12 @@ const dhanbad: CityContent = {
     {
       question: "How much does a website cost in Dhanbad?",
       answer:
-        "With us, static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. A clinic or small shop usually needs the first, a supplier or hospital the second. You receive an itemised quote and pay nothing before approving it in writing.",
+        "With us, static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. A clinic or small shop usually needs the first, a supplier or hospital the second. You receive an itemised quote and pay nothing before approving it in writing.",
     },
     {
       question: "Dhanbad me website banwane me kitna kharcha aata hai?",
       answer:
-        "Humare saath simple website ₹10,000 se shuru hoti hai aur 1-2 hafte me ready ho jaati hai. 700+ pages wali SEO website ₹20,000 se aur online store ₹50,000 se banta hai. Transport ya contractor ke liye custom software ₹60,000 se. Pehle likhit quote milta hai, phir kaam shuru hota hai.",
+        "Humare saath simple website ₹10,000 se shuru hoti hai aur 1-2 hafte me ready ho jaati hai. 299+ pages wali SEO website ₹20,000 se aur online store ₹50,000 se banta hai. Transport ya contractor ke liye custom software ₹60,000 se. Pehle likhit quote milta hai, phir kaam shuru hota hai.",
     },
     {
       question: "Do you have an office in Dhanbad?",

@@ -35,7 +35,7 @@ const katihar: CityContent = {
     pills: ["Websites from ₹10,000", "Makhana online stores", "Hindi and Bangla-friendly pages", "Coaching and clinic sites", "5 months free maintenance"],
   },
   quickAnswer:
-    "A Katihar business can get a static website from us from ₹10,000, ready in one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store for makhana or other products at ₹50,000, and WhatsApp automation at ₹40,000. We are a remote team of three with no office in Katihar, and maintenance is free for five months.",
+    "A Katihar business can get a static website from us from ₹10,000, ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store for makhana or other products at ₹50,000, and WhatsApp automation at ₹40,000. We are a remote team of three with no office in Katihar, and maintenance is free for five months.",
   snapshot: [
     { label: "Position", value: "District headquarters in eastern Bihar, on the Kari Kosi, in Purnia division" },
     { label: "Railways", value: "Katihar Junction on the Barauni–Guwahati line and headquarters of a Northeast Frontier Railway division" },
@@ -100,12 +100,12 @@ const katihar: CityContent = {
       heading: "What a website costs in Katihar",
       paragraphs: [
         "In Katihar, you may be quoted a very small amount by a local computer shop or a large figure by an agency in Patna or Kolkata. The cheapest sites often have no search setup and sit on the developer's own account, and the costliest are priced for companies with marketing departments.",
-        "Our prices are published on the <a href=\"/pricing/\">pricing page</a>. A static website for a shop, clinic, tutor or small trader starts at ₹10,000 and goes live in one to two weeks. A 700+ page site built for search starts at ₹20,000 and suits hospitals, schools and traders with several services. Online stores start at ₹50,000, WhatsApp and AI automation at ₹40,000, custom registers and web apps at ₹60,000, and monthly SEO at ₹10,000.",
+        "Our prices are published on the <a href=\"/pricing/\">pricing page</a>. A static website for a shop, clinic, tutor or small trader starts at ₹10,000 and goes live in one to two weeks. A 299+ page site built for search starts at ₹20,000 and suits hospitals, schools and traders with several services. Online stores start at ₹50,000, WhatsApp and AI automation at ₹40,000, custom registers and web apps at ₹60,000, and monthly SEO at ₹10,000.",
         "The quote lists every page and feature separately. You can drop anything you do not need before approving, and nothing is charged until you agree in writing.",
       ],
       list: [
         "<strong>₹10,000 upward:</strong> up to 100 pages, mobile layout, enquiry form, map and basic SEO.",
-        "<strong>₹20,000 upward:</strong> 700+ pages for departments, courses, products or services.",
+        "<strong>₹20,000 upward:</strong> 299+ pages for departments, courses, products or services.",
         "<strong>₹50,000 upward:</strong> online store with UPI, cards, shipping rules and order alerts.",
         "<strong>₹60,000 upward:</strong> purchase, stock, fee or appointment systems with logins.",
       ],
@@ -228,12 +228,12 @@ const katihar: CityContent = {
     {
       question: "How much does a website cost in Katihar?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. When comparing quotes, check whether the domain will be in your name, whether search setup is included and what support you get after launch.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. When comparing quotes, check whether the domain will be in your name, whether search setup is included and what support you get after launch.",
     },
     {
       question: "Katihar me website banwane me kitna kharcha hoga?",
       answer:
-        "Humare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte me ban jaati hai. 700+ page wali SEO website ₹20,000 se aur makhana ya kisi aur saamaan ka online store ₹50,000 se. Pehle likhit quote milega, aur aapki haan ke baad hi bill banega.",
+        "Humare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte me ban jaati hai. 299+ page wali SEO website ₹20,000 se aur makhana ya kisi aur saamaan ka online store ₹50,000 se. Pehle likhit quote milega, aur aapki haan ke baad hi bill banega.",
     },
     {
       question: "Do you have an office in Katihar?",
@@ -263,7 +263,7 @@ const katihar: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Most delays come from waiting for photos and details, so we send a short checklist on the first day.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Most delays come from waiting for photos and details, so we send a short checklist on the first day.",
     },
     {
       question: "Do you build websites for coaching institutes?",

@@ -34,7 +34,7 @@ const nabadwip: CityContent = {
     pills: ["Sites from ₹10,000", "Pilgrim-season booking", "Bengali, Hindi, English", "Handloom and sweet stores", "5 months free upkeep"],
   },
   quickAnswer:
-    "A Nabadwip business website starts at ₹10,000 with us and usually goes live in one to two weeks. A 700+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team with no office in Nabadwip, and the first five months of maintenance are free.",
+    "A Nabadwip business website starts at ₹10,000 with us and usually goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team with no office in Nabadwip, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Location", value: "West bank of the Bhagirathi-Hooghly near the Jalangi confluence, Nadia district" },
     { label: "Population", value: "About 1.26 lakh in the city and 1.75 lakh in the urban agglomeration (2011)" },
@@ -72,12 +72,12 @@ const nabadwip: CityContent = {
       heading: "What a website costs in Nabadwip",
       paragraphs: [
         "Website quotes in Nabadwip range from cheap templates offered by a local computer centre to large figures from Kolkata agencies. Neither is necessarily wrong, but both are hard to compare when nobody lists what is included. We prefer to itemise everything so you can see where each rupee goes.",
-        "Our prices are starting prices. A static website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. A 700+ page SEO website, with a page for every room type, temple guide, product or service, starts at ₹20,000 and takes three to five weeks. WhatsApp or AI automation starts at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000. See the full table on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our prices are starting prices. A static website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. A 299+ page SEO website, with a page for every room type, temple guide, product or service, starts at ₹20,000 and takes three to five weeks. WhatsApp or AI automation starts at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000. See the full table on our <a href=\"/pricing/\">pricing page</a>.",
         "Scope decides the real total. An ashram with room booking, donation receipts and pages in Bengali, Hindi and English will cost more than a single-page listing for a tailoring shop. If the quote is above your budget, we mark what can wait until after the next festival season.",
       ],
       list: [
         "<strong>Business site from ₹10,000:</strong> up to 100 pages, WhatsApp button, map embed, search basics.",
-        "<strong>SEO site from ₹20,000:</strong> 700+ pages, schema, sitemap, Search Console.",
+        "<strong>SEO site from ₹20,000:</strong> 299+ pages, schema, sitemap, Search Console.",
         "<strong>Automation from ₹40,000:</strong> WhatsApp replies, booking capture, reminders.",
         "<strong>Store from ₹50,000:</strong> catalogue, UPI and card checkout, courier rules, order alerts.",
       ],
@@ -218,7 +218,7 @@ const nabadwip: CityContent = {
     {
       question: "How much does a website cost in Nabadwip?",
       answer:
-        "With us, a static website starts at ₹10,000 and a 700+ page SEO website starts at ₹20,000. WhatsApp or AI automation starts at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. The final figure depends on pages and features, and you get an itemised quote before any billing.",
+        "With us, a static website starts at ₹10,000 and a 299+ page SEO website starts at ₹20,000. WhatsApp or AI automation starts at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. The final figure depends on pages and features, and you get an itemised quote before any billing.",
     },
     {
       question: "Nabadwip e ekta website banate koto khoroch hoy?",
@@ -253,7 +253,7 @@ const nabadwip: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, automation two to four weeks, an online store four to eight weeks and custom software six to twelve weeks. Festival pages should go live several weeks before the festival so search engines can find them.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, automation two to four weeks, an online store four to eight weeks and custom software six to twelve weeks. Festival pages should go live several weeks before the festival so search engines can find them.",
     },
     {
       question: "Do you also work with businesses in Mayapur, Krishnanagar, Santipur and Ranaghat?",

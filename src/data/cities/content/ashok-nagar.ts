@@ -39,7 +39,7 @@ const ashokNagar: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi local SEO", "Mandi and trade software", "Your name on every account"],
   },
   quickAnswer:
-    "For an Ashok Nagar business, a website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 700+ page SEO site at ₹20,000 and an online store at ₹50,000. We are fully remote, with no office in Ashok Nagar.",
+    "For an Ashok Nagar business, a website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 299+ page SEO site at ₹20,000 and an online store at ₹50,000. We are fully remote, with no office in Ashok Nagar.",
   snapshot: [
     { label: "Status", value: "District headquarters of Ashoknagar district, carved out of Guna district in August 2003" },
     { label: "Old name", value: "Pachhar, still used by older residents and in some records" },
@@ -157,7 +157,7 @@ const ashokNagar: CityContent = {
       id: "website-cost-ashok-nagar",
       heading: "Website cost in Ashok Nagar: starting prices and what changes them",
       paragraphs: [
-        "Our published starting prices for Ashok Nagar are: a static website of up to 100 pages from ₹10,000 in one to two weeks; a 700+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; an online store from ₹50,000 in four to eight weeks; and custom software from ₹60,000 in six to twelve weeks. Monthly SEO starts at ₹10,000.",
+        "Our published starting prices for Ashok Nagar are: a static website of up to 100 pages from ₹10,000 in one to two weeks; a 299+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; an online store from ₹50,000 in four to eight weeks; and custom software from ₹60,000 in six to twelve weeks. Monthly SEO starts at ₹10,000.",
         "The final amount goes up with scope. More pages, both Hindi and English versions, a large product list, payment and courier setup, customer logins, or links to billing software all add work. Content matters too: if you supply text and photographs, the quote stays close to the starting figure, and if we write and arrange everything, that appears as a separate line.",
         "Quotes from other designers in the area vary widely. When you compare, ask whose name the domain and hosting will be in, whether mobile testing and basic SEO are included, how many rounds of changes you get, and who fixes problems after launch. See our <a href=\"/pricing/\">pricing page</a> for the full list of starting points. Your itemised quote arrives within about two working days of our first call.",
       ],
@@ -218,7 +218,7 @@ const ashokNagar: CityContent = {
     {
       question: "What is the website cost in Ashok Nagar?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final amount depends on pages, Hindi content, products and integrations, and you receive an itemised written quote before anything is billed.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final amount depends on pages, Hindi content, products and integrations, and you receive an itemised written quote before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Ashok Nagar businesses?",
@@ -228,7 +228,7 @@ const ashokNagar: CityContent = {
     {
       question: "How long does a website take for an Ashok Nagar shop?",
       answer:
-        "A static website is usually live in one to two weeks once we have your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Having your content ready is what speeds things up most.",
+        "A static website is usually live in one to two weeks once we have your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Having your content ready is what speeds things up most.",
     },
     {
       question: "Which is the best website development team in Ashok Nagar?",

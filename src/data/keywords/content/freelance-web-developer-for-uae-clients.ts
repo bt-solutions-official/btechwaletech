@@ -55,7 +55,7 @@ const content: FreelanceContent = {
     caption: "UAE projects with our freelance team, at a glance",
     rows: [
       { label: "Static bilingual site", value: `From ${P.siteUsd}, about 1–2 weeks plus translation time` },
-      { label: "SEO website (700+ pages)", value: `From ${P.seoSiteUsd}, 3–5 weeks` },
+      { label: "SEO website (299+ pages)", value: `From ${P.seoSiteUsd}, 3–5 weeks` },
       { label: "Online store", value: `From ${P.shopUsd}, 4–8 weeks` },
       { label: "Android & iOS app", value: `From ${P.appUsd}, 6–10 weeks` },
       { label: "Working hours", value: "Overlap almost fully with Gulf Standard Time" },
@@ -174,7 +174,7 @@ const content: FreelanceContent = {
       heading: "How much does a freelance web developer for UAE clients cost?",
       paragraphs: [
         `Quotes vary widely across the market, from local agencies to overseas freelancers, and a single headline figure hides very different scopes. The factors that move a UAE quote most are the number of languages, the number of unique page designs, content preparation, integrations (CRM, property feeds, booking systems) and whether you need a store or an app.`,
-        `Our USD starting points: static site from ${P.siteUsd}, SEO website of 700+ pages from ${P.seoSiteUsd}, online store from ${P.shopUsd}, custom web app from ${P.softwareUsd}, Android and iOS app from ${P.appUsd}, and AI or WhatsApp automation from ${P.aiUsd}. Maintenance after the five free months starts from ${P.careUsd}. For reference, the rupee equivalents are the same plans (a static site from ${P.site}).`,
+        `Our USD starting points: static site from ${P.siteUsd}, SEO website of 299+ pages from ${P.seoSiteUsd}, online store from ${P.shopUsd}, custom web app from ${P.softwareUsd}, Android and iOS app from ${P.appUsd}, and AI or WhatsApp automation from ${P.aiUsd}. Maintenance after the five free months starts from ${P.careUsd}. For reference, the rupee equivalents are the same plans (a static site from ${P.site}).`,
         `Every quote is itemised in about two working days, so you can see exactly what adding Arabic or a booking feature costs and decide line by line. See <a href='/pricing/'>full pricing</a> for all plans.`,
       ],
     },
@@ -303,7 +303,7 @@ const content: FreelanceContent = {
       columns: ["Project", "From (USD)", "Same plan in INR", "Typical time", "Common UAE use"],
       rows: [
         ["Static website, up to 100 pages", `From ${P.siteUsd}`, `From ${P.site}`, "1–2 weeks + translation", "Trading, consultancy, clinics"],
-        ["SEO website, 700+ pages", `From ${P.seoSiteUsd}`, `From ${P.seoSite}`, "3–5 weeks", "Services across several emirates"],
+        ["SEO website, 299+ pages", `From ${P.seoSiteUsd}`, `From ${P.seoSite}`, "3–5 weeks", "Services across several emirates"],
         ["Online store", `From ${P.shopUsd}`, `From ${P.shop}`, "4–8 weeks", "Retail, fashion, electronics"],
         ["Custom web app or portal", `From ${P.softwareUsd}`, `From ${P.software}`, "6–12 weeks", "Property portals, booking, internal tools"],
         ["Android & iOS app", `From ${P.appUsd}`, `From ${P.app}`, "6–10 weeks", "Delivery, loyalty, services"],
@@ -378,7 +378,7 @@ const content: FreelanceContent = {
   faqHeading: "Freelance web developer for UAE clients: common questions",
   faqs: [
     { question: "Can I hire a freelance web developer from India for my Dubai business?", answer: "Yes. India is only 1 hour 30 minutes ahead of UAE time, so working hours overlap almost completely. Communication runs on WhatsApp, with video calls on Teams, Zoom or Google Meet. You review progress on a staging link from your phone, and all accounts, including domain and hosting, are opened in your company’s name." },
-    { question: "How much does a website cost for a UAE business with an Indian freelancer?", answer: `With BtechWaleTech a static website of up to 100 pages starts at ${P.siteUsd}, an SEO website of 700+ pages at ${P.seoSiteUsd}, and an online store at ${P.shopUsd}. Adding Arabic increases the quote because every template is mirrored and tested. You receive an itemised quote in about two working days before paying anything.` },
+    { question: "How much does a website cost for a UAE business with an Indian freelancer?", answer: `With BtechWaleTech a static website of up to 100 pages starts at ${P.siteUsd}, an SEO website of 299+ pages at ${P.seoSiteUsd}, and an online store at ${P.shopUsd}. Adding Arabic increases the quote because every template is mirrored and tested. You receive an itemised quote in about two working days before paying anything.` },
     { question: "Do you build Arabic websites with right-to-left layouts?", answer: "Yes. Arabic pages use dir=\"rtl\" and lang=\"ar\", layouts are mirrored with direction-aware CSS, Arabic web fonts are loaded only where needed, and every template is tested on iPhone and Android. Mixed text such as English brand names, prices and phone numbers is checked so it displays in the correct order." },
     { question: "Do you translate the website content into Arabic?", answer: "No. We are developers, not Arabic copywriters. You or a professional translator supply approved Arabic text, and we give the translator a complete spreadsheet of every heading, paragraph and button. We then place the text into the design and fix layout issues. Machine translation alone often reads poorly to native speakers." },
     { question: "What is the time difference between India and the UAE?", answer: "India Standard Time is UTC+5:30 and Gulf Standard Time is UTC+4, and neither observes daylight saving. India is therefore always 1 hour 30 minutes ahead. When it is 9 a.m. in Dubai, it is 10:30 a.m. in India, so both teams share nearly the entire working day." },

@@ -39,7 +39,7 @@ const panna: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first local SEO", "Safari and stay bookings", "Every account in your name"],
   },
   quickAnswer:
-    "In Panna, a business website with us starts at ₹10,000 and is usually live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Panna office, and you own the domain, code and accounts.",
+    "In Panna, a business website with us starts at ₹10,000 and is usually live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Panna office, and you own the domain, code and accounts.",
   snapshot: [
     { label: "Location", value: "Headquarters of Panna district in the Bundelkhand region of northern Madhya Pradesh, at about 411 m elevation" },
     { label: "Diamonds", value: "NMDC's Majhgawan mine nearby, plus small shallow-mine leases handled by the district Diamond Office, which also holds diamond auctions" },
@@ -148,7 +148,7 @@ const panna: CityContent = {
       id: "website-cost-panna",
       heading: "Website cost in Panna and how to compare quotes",
       paragraphs: [
-        "The <strong>website cost in Panna</strong> with us starts at ₹10,000 for a static site of up to 100 pages, ready in one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation each start at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
+        "The <strong>website cost in Panna</strong> with us starts at ₹10,000 for a static site of up to 100 pages, ready in one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation each start at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
         "Local quotes vary widely, so compare what each one includes. Ask who will own the domain and hosting, whether Hindi pages cost extra, how many revisions are allowed, what support follows launch, and whether content writing, photographs and Google Business Profile setup are included. Ask to see live sites the provider built at least a year ago.",
         "We send an itemised written quote in about two working days, and nothing is billed until you approve it. All starting prices are on the <a href=\"/pricing/\">pricing page</a>.",
       ],
@@ -208,7 +208,7 @@ const panna: CityContent = {
     {
       question: "How much does a website cost in Panna?",
       answer:
-        "A static website with us starts at ₹10,000 for up to 100 pages and takes one to two weeks. An SEO website of 700+ pages starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Your written quote lists every item, and nothing is billed before you approve it.",
+        "A static website with us starts at ₹10,000 for up to 100 pages and takes one to two weeks. An SEO website of 299+ pages starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Your written quote lists every item, and nothing is billed before you approve it.",
     },
     {
       question: "How long does a website take for a Panna business?",

@@ -40,7 +40,7 @@ const makrana: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Marble catalogue sites", "Hindi and English SEO", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Makrana business, a website with us starts at ₹10,000 and a 700+ page SEO site at ₹20,000. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, online stores at ₹50,000 and custom software such as marble stock systems at ₹60,000. We are a remote team with no Makrana office.",
+    "For a Makrana business, a website with us starts at ₹10,000 and a 299+ page SEO site at ₹20,000. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, online stores at ₹50,000 and custom software such as marble stock systems at ₹60,000. We are a remote team with no Makrana office.",
   snapshot: [
     { label: "Location", value: "Didwana-Kuchaman district (earlier part of Nagaur district), about 110 km west of Jaipur" },
     { label: "Known for", value: "White calcitic marble, GI-tagged as Makrana Marble and used in the Taj Mahal and Victoria Memorial" },
@@ -150,7 +150,7 @@ const makrana: CityContent = {
       id: "website-cost-makrana",
       heading: "Website cost in Makrana: starting prices and what changes them",
       paragraphs: [
-        "Our starting prices apply in Makrana as everywhere: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 700+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000 in two to four weeks, an online store from ₹50,000 in four to eight weeks and custom software from ₹60,000 over six to twelve weeks.",
+        "Our starting prices apply in Makrana as everywhere: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 299+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000 in two to four weeks, an online store from ₹50,000 in four to eight weeks and custom software from ₹60,000 over six to twelve weeks.",
         "For marble firms, the main cost drivers are the number of varieties and products, photography and photo editing, bilingual content, enquiry workflows and connections to stock or billing software. If you send clear photos and basic details, the price stays near the start. If we have to write every product description, that is listed as its own item.",
         "Local quotes vary widely. When comparing offers, ask who registers the domain, whether hosting is included and for how long, whether the site is tested on mobile, how many changes are included and who fixes things after launch. Our <a href=\"/pricing/\">pricing page</a> lists the starting points, and your written quote arrives within about two working days.",
       ],
@@ -211,7 +211,7 @@ const makrana: CityContent = {
     {
       question: "What is the website cost in Makrana?",
       answer:
-        "A static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. The final quote depends on varieties, products, photography, languages and integrations, and you get it itemised in writing before anything is billed.",
+        "A static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. The final quote depends on varieties, products, photography, languages and integrations, and you get it itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Makrana businesses?",
@@ -231,7 +231,7 @@ const makrana: CityContent = {
     {
       question: "How long does a website take for a Makrana business?",
       answer:
-        "A static site normally takes one to two weeks after we receive photos and details. A 700+ page SEO site takes three to five weeks, a store four to eight weeks and custom software six to twelve weeks. Marble photography is often the slowest part, so arranging it early saves time.",
+        "A static site normally takes one to two weeks after we receive photos and details. A 299+ page SEO site takes three to five weeks, a store four to eight weeks and custom software six to twelve weeks. Marble photography is often the slowest part, so arranging it early saves time.",
     },
     {
       question: "Can you put my marble yard on Google Maps?",
@@ -251,7 +251,7 @@ const makrana: CityContent = {
     {
       question: "Makrana me website banwane ka kharcha kitna hai?",
       answer:
-        "Simple website ₹10,000 se shuru hoti hai aur ek se do hafte mein taiyar ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hota hai. Aapke kaam ke hisaab se likhit quote do working din mein milta hai.",
+        "Simple website ₹10,000 se shuru hoti hai aur ek se do hafte mein taiyar ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hota hai. Aapke kaam ke hisaab se likhit quote do working din mein milta hai.",
     },
     {
       question: "You have no office in Makrana. How does the work happen?",

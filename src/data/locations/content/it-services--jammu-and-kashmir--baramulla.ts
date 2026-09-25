@@ -140,7 +140,7 @@ const content: CityContent = {
       paragraphs: [
         "A website for a Baramulla business works when it answers a visitor's main question within seconds and gives one clear way to get in touch, usually a WhatsApp button, a call link and a short form. Many local sites fail because the phone number is outdated, the form sends to an unused email, or the page takes too long on mobile data.",
         "We build local pages for each service and area you actually serve, such as Baramulla town, Sopore, Pattan or Tangmarg, with accurate addresses, timings and directions. Contact forms deliver to WhatsApp and email together, and we test them monthly during maintenance so enquiries are never lost.",
-        "For clinics, schools and professional services, a simple static site from ₹10,000 is often enough. Businesses targeting many search terms can choose a 700+ page SEO website from ₹20,000. See our <a href='/services/'>services overview</a> for the options.",
+        "For clinics, schools and professional services, a simple static site from ₹10,000 is often enough. Businesses targeting many search terms can choose a 299+ page SEO website from ₹20,000. See our <a href='/services/'>services overview</a> for the options.",
       ],
     },
     {
@@ -183,12 +183,12 @@ const content: CityContent = {
       id: "baramulla-cost-guide",
       heading: "How much does software development cost in Baramulla?",
       paragraphs: [
-        "Software development for Baramulla businesses starts from ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for an Android and iOS app or AI automation, ₹50,000 for an online store and ₹60,000 for a custom web application such as mandi or booking software. These are starting prices, not final quotes.",
+        "Software development for Baramulla businesses starts from ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for an Android and iOS app or AI automation, ₹50,000 for an online store and ₹60,000 for a custom web application such as mandi or booking software. These are starting prices, not final quotes.",
         "More users, offline sync, integrations and data migration raise cost; a tightly focused first version keeps it down. A commission agent who launches grower ledgers first and adds a grower app the following season usually spends less overall. Every quote is itemised within about two working days. Plan details are on our <a href='/pricing/'>pricing page</a>.",
       ],
       list: [
         "Static website: from ₹10,000, 1 to 2 weeks",
-        "SEO website of 700+ pages: from ₹20,000, 3 to 5 weeks",
+        "SEO website of 299+ pages: from ₹20,000, 3 to 5 weeks",
         "Android and iOS app: from ₹40,000, 6 to 10 weeks",
         "AI automation: from ₹40,000, 2 to 4 weeks",
         "Online store: from ₹50,000, 4 to 8 weeks",

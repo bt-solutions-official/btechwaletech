@@ -39,7 +39,7 @@ const shahabad: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Stone buyer enquiry pages", "Kannada, Urdu and English", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Shahabad business, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Shahabad office, and you own every account.",
+    "For a Shahabad business, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Shahabad office, and you own every account.",
   snapshot: [
     { label: "Location", value: "Taluk headquarters in Kalaburagi district, north Karnataka, governed by a City Municipal Council" },
     { label: "Rivers", value: "The Kagina and Bhima rivers are the main water sources for the town" },
@@ -78,7 +78,7 @@ const shahabad: CityContent = {
       paragraphs: [
         "A builder choosing flooring from four hundred kilometres away wants to see what he is paying for. He wants the colour under daylight, the thickness options, whether the edge is rough or machine cut, the difference between a natural, rubbed and polished face, and how many square feet fit on one lorry. Most Shahabad dealers answer these questions by phone, one buyer at a time.",
         "As a <strong>website development team in Shahabad</strong>, we build sites that answer them once. Each finish gets its own page with close-up photographs, standard sizes, suitable uses such as parking areas, factory floors, temple courtyards or kitchen platforms, and care advice. A quotation form asks for quantity, finish and delivery town, so the enquiry that reaches you already contains what you need to price it.",
-        "We avoid invented claims. If you have supplied a large project and the client agrees in writing, we can mention it; otherwise the site speaks through photographs, sizes and honest loading details. A static site of this kind starts at ₹10,000. Dealers who want a page for every size and finish combination, plus pages for buyer cities, usually move to the 700+ page SEO site from ₹20,000.",
+        "We avoid invented claims. If you have supplied a large project and the client agrees in writing, we can mention it; otherwise the site speaks through photographs, sizes and honest loading details. A static site of this kind starts at ₹10,000. Dealers who want a page for every size and finish combination, plus pages for buyer cities, usually move to the 299+ page SEO site from ₹20,000.",
       ],
     },
     {
@@ -149,7 +149,7 @@ const shahabad: CityContent = {
       id: "website-cost-shahabad",
       heading: "Website cost in Shahabad: starting prices and what changes them",
       paragraphs: [
-        "Our starting prices are public. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO is from ₹10,000 a month.",
+        "Our starting prices are public. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO is from ₹10,000 a month.",
         "Scope moves the number: more pages, content in two or three languages, a large product list, payment and courier integration, logins, or links to Tally. If you send your own text and photographs, the price stays close to the starting figure. If we write content, shoot direction for slab photographs or translate, that appears as a separate line.",
         "Quotes from other designers in the region vary widely, so compare like with like. Ask whose name the domain is in, who holds the hosting login, whether mobile testing and basic SEO are included, how many rounds of changes you get and who fixes things after launch. The <a href=\"/pricing/\">pricing page</a> lists our starting points, and your written quote arrives in about two working days.",
       ],
@@ -210,7 +210,7 @@ const shahabad: CityContent = {
     {
       question: "What is the website cost in Shahabad?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final quote depends on pages, languages, photographs, products and integrations, and it comes to you itemised in writing before any billing begins.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final quote depends on pages, languages, photographs, products and integrations, and it comes to you itemised in writing before any billing begins.",
     },
     {
       question: "Do you build Android and iOS apps for Shahabad businesses?",
@@ -225,7 +225,7 @@ const shahabad: CityContent = {
     {
       question: "How long does a website take for a Shahabad firm?",
       answer:
-        "A static site usually goes live one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Content that arrives late is the most common cause of delay.",
+        "A static site usually goes live one to two weeks after we receive your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Content that arrives late is the most common cause of delay.",
     },
     {
       question: "Which is the best IT services team in Shahabad for a website or app?",
@@ -245,7 +245,7 @@ const shahabad: CityContent = {
     {
       question: "Shahabad me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur lagbhag ek-do hafte mein live ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hota hai. Aapke features ke hisaab se likhit quote milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur lagbhag ek-do hafte mein live ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hota hai. Aapke features ke hisaab se likhit quote milta hai.",
     },
     {
       question: "You have no office in Shahabad. How do I know the work is safe?",

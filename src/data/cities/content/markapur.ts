@@ -40,7 +40,7 @@ const markapur: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Slate export catalogues", "Telugu local SEO", "Code and accounts in your name"],
   },
   quickAnswer:
-    "In Markapur (Markapuram), a business website with us starts at ₹10,000 and is usually ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, SEO websites of 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We are remote with no Markapur office, and you own all accounts.",
+    "In Markapur (Markapuram), a business website with us starts at ₹10,000 and is usually ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, SEO websites of 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We are remote with no Markapur office, and you own all accounts.",
   snapshot: [
     { label: "Administration", value: "Headquarters of Markapuram district, formed on 31 December 2025 from the Markapuram and Kanigiri revenue divisions" },
     { label: "Population", value: "About 71,000 in the 2011 census, over roughly 53 sq km" },
@@ -150,7 +150,7 @@ const markapur: CityContent = {
       id: "website-cost-markapur",
       heading: "Website cost in Markapur: starting prices and what moves the quote",
       paragraphs: [
-        "A slate unit usually asks us first what a proper product catalogue will cost. The answer begins with our static website, up to 100 pages, from ₹10,000 and one to two weeks of work. If you want a page for every size, finish and application, or pages for every mandal you supply, an SEO website of 700+ pages begins at ₹20,000 and takes three to five weeks.",
+        "A slate unit usually asks us first what a proper product catalogue will cost. The answer begins with our static website, up to 100 pages, from ₹10,000 and one to two weeks of work. If you want a page for every size, finish and application, or pages for every mandal you supply, an SEO website of 299+ pages begins at ₹20,000 and takes three to five weeks.",
         "Other work is priced the same way, always as a starting figure. Android and iOS apps are from ₹40,000. AI and WhatsApp automation is from ₹40,000 with two to four weeks of build time. Sample and craft stores are from ₹50,000 over four to eight weeks, and order-to-dispatch software for a unit is from ₹60,000 over six to twelve weeks. Ongoing SEO runs from ₹10,000 a month, and after the five free months of post-launch care, maintenance is from ₹8,000 a month.",
         "Quotes around Markapuram and Ongole differ a great deal, so line them up on the same questions. Whose name is on the domain? Are Telugu and English pages both included? How many rounds of changes? Who pays for hosting next year? We send an itemised reply within about two working days and bill nothing until you sign off. The complete table is on our <a href=\"/pricing/\">pricing</a> page.",
       ],
@@ -212,7 +212,7 @@ const markapur: CityContent = {
     {
       question: "What is the website cost in Markapur?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices only. Your final quote depends on pages, products, Telugu content and integrations, and it arrives itemised in writing before anything is billed.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices only. Your final quote depends on pages, products, Telugu content and integrations, and it arrives itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Markapur businesses?",
@@ -222,7 +222,7 @@ const markapur: CityContent = {
     {
       question: "How long does a website take for a Markapur business?",
       answer:
-        "Once your product list, photographs and contact details reach us, a small site is usually live in one to two weeks. A 700+ page SEO site needs three to five weeks, a store four to eight and unit software six to twelve. Most delays come from waiting for stock photographs, so we send a shot list on day one.",
+        "Once your product list, photographs and contact details reach us, a small site is usually live in one to two weeks. A 299+ page SEO site needs three to five weeks, a store four to eight and unit software six to twelve. Most delays come from waiting for stock photographs, so we send a shot list on day one.",
     },
     {
       question: "Which is the best website development team in Markapur?",

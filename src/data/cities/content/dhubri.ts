@@ -39,7 +39,7 @@ const dhubri: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Bengali and Assamese pages", "Terracotta and craft stores", "Every account in your name"],
   },
   quickAnswer:
-    "A Dhubri business can get a website from us starting at ₹10,000, usually built in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are remote, without a Dhubri office.",
+    "A Dhubri business can get a website from us starting at ₹10,000, usually built in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are remote, without a Dhubri office.",
   snapshot: [
     { label: "Location", value: "Western tip of Assam, about 277 km from Dispur, near the West Bengal and Bangladesh borders" },
     { label: "Rivers", value: "Brahmaputra and Gadadhar on three sides; the name is linked to the legend of Netai Dhubuni's ghat" },
@@ -157,7 +157,7 @@ const dhubri: CityContent = {
       id: "website-cost-dhubri",
       heading: "Website cost in Dhubri: starting prices and how to compare",
       paragraphs: [
-        "Our starting prices for Dhubri: a static site with up to 100 pages from ₹10,000, done in one to two weeks; a 700+ page SEO site from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; an online store from ₹50,000 in four to eight weeks; and custom software from ₹60,000 in six to twelve weeks. Monthly SEO is from ₹10,000 a month.",
+        "Our starting prices for Dhubri: a static site with up to 100 pages from ₹10,000, done in one to two weeks; a 299+ page SEO site from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; an online store from ₹50,000 in four to eight weeks; and custom software from ₹60,000 in six to twelve weeks. Monthly SEO is from ₹10,000 a month.",
         "The quote grows with scope: more pages, several language versions, bigger catalogues, payment and courier set-up, staff logins or Tally integration. Content affects it as well. With your own text and photos, the price stays near the starting figure; if we write, translate and prepare everything, that is added as a separate line.",
         "Local quotes vary widely. Before you choose, ask who will own the domain and hosting, whether mobile testing and basic SEO are included, how many revisions you get, and who fixes problems after launch. Our <a href=\"/pricing/\">pricing page</a> lists the starting points, and your written quote comes within about two working days.",
       ],
@@ -218,7 +218,7 @@ const dhubri: CityContent = {
     {
       question: "What is the website cost in Dhubri?",
       answer:
-        "Static websites start at ₹10,000, SEO websites with 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; language versions, product count and integrations shape the final amount. You get an itemised written quote in about two working days, and nothing is billed before you agree.",
+        "Static websites start at ₹10,000, SEO websites with 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; language versions, product count and integrations shape the final amount. You get an itemised written quote in about two working days, and nothing is billed before you agree.",
     },
     {
       question: "Do you build Android and iOS apps for Dhubri businesses?",
@@ -228,7 +228,7 @@ const dhubri: CityContent = {
     {
       question: "How long does a website take for a Dhubri business?",
       answer:
-        "A simple site normally goes live one to two weeks after we get your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Getting content to us early is what speeds things up most.",
+        "A simple site normally goes live one to two weeks after we get your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Getting content to us early is what speeds things up most.",
     },
     {
       question: "Which is the best website development team in Dhubri?",
@@ -253,7 +253,7 @@ const dhubri: CityContent = {
     {
       question: "Dhubri-te website banate koto taka lagbe?",
       answer:
-        "Amader kache simple website ₹10,000 theke shuru, aar ek-dui shoptahe toiri hoye jay. 700+ page-er SEO website ₹20,000 theke, Android aar iOS app ₹40,000 theke, aar online store ₹50,000 theke shuru. Apnar proyojon onujayi likhito quote pathano hoy, approve korar aage kono taka lage na.",
+        "Amader kache simple website ₹10,000 theke shuru, aar ek-dui shoptahe toiri hoye jay. 299+ page-er SEO website ₹20,000 theke, Android aar iOS app ₹40,000 theke, aar online store ₹50,000 theke shuru. Apnar proyojon onujayi likhito quote pathano hoy, approve korar aage kono taka lage na.",
     },
     {
       question: "You have no office in Dhubri. How do I know remote work is safe?",

@@ -35,7 +35,7 @@ const azamgarh: CityContent = {
     pills: ["Websites from ₹10,000", "Saree and pottery stores", "Hindi, Urdu and Bhojpuri searches", "WhatsApp replies for NRI customers", "Code and domain are yours"],
   },
   quickAnswer:
-    "An Azamgarh business website with us starts at ₹10,000 and usually goes live within one to two weeks. A 700+ page SEO site starts at ₹20,000, AI and WhatsApp automation at ₹40,000 and an online store at ₹50,000. We are a remote team, the domain and code are yours, and maintenance is free for five months after launch.",
+    "An Azamgarh business website with us starts at ₹10,000 and usually goes live within one to two weeks. A 299+ page SEO site starts at ₹20,000, AI and WhatsApp automation at ₹40,000 and an online store at ₹50,000. We are a remote team, the domain and code are yours, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Location", value: "Eastern Uttar Pradesh on the Tamsa (Tons) river, about 268 km east of Lucknow; headquarters of Azamgarh division" },
     { label: "Connectivity", value: "Purvanchal Expressway, railway links to Delhi, Mumbai and Kolkata, and an airport opened in 2024" },
@@ -108,7 +108,7 @@ const azamgarh: CityContent = {
       ],
       list: [
         "<strong>Business website — from ₹10,000, 1–2 weeks.</strong> Shops, clinics, coaching centres and professionals.",
-        "<strong>SEO website with 700+ pages — from ₹20,000, 3–5 weeks.</strong> Schools, hospitals and businesses serving the whole district.",
+        "<strong>SEO website with 299+ pages — from ₹20,000, 3–5 weeks.</strong> Schools, hospitals and businesses serving the whole district.",
         "<strong>AI and WhatsApp automation — from ₹40,000, 2–4 weeks.</strong> Admissions, appointments and NRI enquiries.",
         "<strong>Online store — from ₹50,000, 4–8 weeks.</strong> Silk sarees, black pottery and other products with UPI checkout.",
         "<strong>Custom software — from ₹60,000, 6–12 weeks.</strong> Order and karigar records, billing and stock tools.",
@@ -220,7 +220,7 @@ const azamgarh: CityContent = {
     {
       question: "How much does a website cost in Azamgarh?",
       answer:
-        "A business website starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; we send an itemised quote in about two working days and bill nothing before you approve it in writing.",
+        "A business website starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; we send an itemised quote in about two working days and bill nothing before you approve it in writing.",
     },
     {
       question: "Azamgarh me apni dukaan ki website banwani hai, kitna kharcha aayega?",

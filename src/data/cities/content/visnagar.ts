@@ -39,7 +39,7 @@ const visnagar: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Gujarati-first local SEO", "Copperware online stores", "Every account in your name"],
   },
   quickAnswer:
-    "In Visnagar, a business website with us starts at ₹10,000 and is typically live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Visnagar office, and you own everything.",
+    "In Visnagar, a business website with us starts at ₹10,000 and is typically live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Visnagar office, and you own everything.",
   snapshot: [
     { label: "Location", value: "Taluka headquarters in Mehsana district, about 20 km from Mehsana Junction" },
     { label: "Founded", value: "Traditionally dated to 953 CE and credited to King Visaldev" },
@@ -96,7 +96,7 @@ const visnagar: CityContent = {
       paragraphs: [
         "Buyers of pumps and threshers compare specifications before they call anyone. A contractor or farmer's cooperative wants to know head, discharge, motor rating, pipe size and warranty terms. If your website shows only a logo and a phone number, that buyer moves to a competitor who publishes a proper product sheet.",
         "As a <strong>website development team in Visnagar</strong> for manufacturers, we build product pages with specification tables, downloadable PDF catalogues, installation guidance, dealer-locator maps and enquiry forms that ask the right questions. Pages load fast on mobile networks in rural areas, and each product can have its own URL so that searches for a specific model find it.",
-        "A B2B site with a moderate product range often fits within our SEO website plan, which starts at ₹20,000 for 700+ pages and takes three to five weeks. Smaller units with a handful of models can start with a static site from ₹10,000. See our <a href=\"/services/web-development/\">web development service</a> for details.",
+        "A B2B site with a moderate product range often fits within our SEO website plan, which starts at ₹20,000 for 299+ pages and takes three to five weeks. Smaller units with a handful of models can start with a static site from ₹10,000. See our <a href=\"/services/web-development/\">web development service</a> for details.",
       ],
     },
     {
@@ -157,7 +157,7 @@ const visnagar: CityContent = {
       id: "website-cost-visnagar",
       heading: "Website cost in Visnagar: starting prices and how to compare quotes",
       paragraphs: [
-        "A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 700+ pages, useful for manufacturers with many models or businesses serving many villages, starts at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation start at ₹40,000.",
+        "A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 299+ pages, useful for manufacturers with many models or businesses serving many villages, starts at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation start at ₹40,000.",
         "An online store starts at ₹50,000 and takes four to eight weeks. Custom software such as a dealer portal or market-yard ledger starts at ₹60,000 and takes six to twelve weeks. Monthly SEO starts at ₹10,000 a month, and maintenance from ₹8,000 a month after five free months.",
         "Local quotes vary widely. When comparing, ask who owns the domain and hosting, whether Gujarati text is written by a person who reads it, how fast the site loads on a mid-range phone and what support costs after launch. Our full breakdown is on the <a href=\"/pricing/\">pricing page</a>, and every quote we send lists each item separately.",
       ],
@@ -209,12 +209,12 @@ const visnagar: CityContent = {
     {
       question: "How much does a website cost in Visnagar?",
       answer:
-        "A static website of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. An SEO website with 700+ pages starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We send an itemised quote within about two working days, and nothing is billed until you approve it in writing.",
+        "A static website of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. An SEO website with 299+ pages starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We send an itemised quote within about two working days, and nothing is billed until you approve it in writing.",
     },
     {
       question: "How long does it take to build a website or store in Visnagar?",
       answer:
-        "A simple business website takes one to two weeks, most of it spent collecting photos and checking Gujarati text. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. You receive working preview links to check on your phone at each stage.",
+        "A simple business website takes one to two weeks, most of it spent collecting photos and checking Gujarati text. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. You receive working preview links to check on your phone at each stage.",
     },
     {
       question: "Which is the best website development team in Visnagar?",

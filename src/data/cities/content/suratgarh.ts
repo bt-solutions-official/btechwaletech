@@ -39,7 +39,7 @@ const suratgarh: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi local SEO", "Mandi and dealer software", "Accounts registered to you"],
   },
   quickAnswer:
-    "Suratgarh businesses can get a website from ₹10,000, usually built in one to two weeks. Our Android and iOS apps begin at ₹40,000, as does AI automation; 700+ page SEO sites begin at ₹20,000, online shops at ₹50,000 and bespoke software at ₹60,000. Everything is handled remotely, since we have no Suratgarh office.",
+    "Suratgarh businesses can get a website from ₹10,000, usually built in one to two weeks. Our Android and iOS apps begin at ₹40,000, as does AI automation; 299+ page SEO sites begin at ₹20,000, online shops at ₹50,000 and bespoke software at ₹60,000. Everything is handled remotely, since we have no Suratgarh office.",
   snapshot: [
     { label: "Location", value: "Tehsil town in Sri Ganganagar district, northern Thar region, about 70 km south of Sri Ganganagar" },
     { label: "Population", value: "Around 70,500 at the 2011 Census" },
@@ -167,13 +167,13 @@ const suratgarh: CityContent = {
       id: "website-cost-suratgarh",
       heading: "Website cost in Suratgarh: starting prices and what changes the quote",
       paragraphs: [
-        "Every rupee figure here is a floor, not a ceiling. Simple sites of up to 100 pages begin at ₹10,000 and are delivered in a week or two; large SEO builds of 700 pages or more begin at ₹20,000 and need three to five weeks. Apps for Android and iOS begin at ₹40,000, and so does AI automation. Online shops begin at ₹50,000 and bespoke software at ₹60,000.",
+        "Every rupee figure here is a floor, not a ceiling. Simple sites of up to 100 pages begin at ₹10,000 and are delivered in a week or two; large SEO builds of 299 pages or more begin at ₹20,000 and need three to five weeks. Apps for Android and iOS begin at ₹40,000, and so does AI automation. Online shops begin at ₹50,000 and bespoke software at ₹60,000.",
         "What pushes a Suratgarh quote up or down is concrete: how many products a dealer lists, whether the trader wants Hindi only or Hindi plus English, whether we write the copy or you do, how orders get paid and delivered, how many app screens there are, and whether the system must talk to Tally. Quotes around Sri Ganganagar differ a lot between providers, so line them up side by side: whose name is on the domain, how many revision rounds are allowed, how fast the site opens on a village connection, and who fixes things after go-live.",
         "Send us the brief and a line-by-line quote reaches you in roughly two working days; not a rupee is charged before you sign off on it. The <a href=\"/pricing/\">pricing page</a> lists every service. When money is tight, launch a lean first version and extend it after the season, instead of paying for a cheap build you will scrap within a year.",
       ],
       list: [
         "Static site up to 100 pages: ₹10,000 onwards, ready in 1–2 weeks",
-        "700+ page SEO site: ₹20,000 onwards, 3–5 weeks of work",
+        "299+ page SEO site: ₹20,000 onwards, 3–5 weeks of work",
         "App for Android and iPhone: ₹40,000 onwards",
         "WhatsApp and AI assistants: ₹40,000 onwards, 2–4 weeks",
         "Online shop with UPI checkout: ₹50,000 onwards, 4–8 weeks",
@@ -218,7 +218,7 @@ const suratgarh: CityContent = {
     {
       question: "What is the website cost in Suratgarh?",
       answer:
-        "With us, Suratgarh websites begin at ₹10,000 for a static site of up to 100 pages. Bigger SEO sites with 700+ pages begin at ₹20,000, online shops at ₹50,000 and bespoke software at ₹60,000. Treat these as the lowest point: Hindi and English copy, the number of products and any integrations decide the final figure, which you see line by line before paying anything.",
+        "With us, Suratgarh websites begin at ₹10,000 for a static site of up to 100 pages. Bigger SEO sites with 299+ pages begin at ₹20,000, online shops at ₹50,000 and bespoke software at ₹60,000. Treat these as the lowest point: Hindi and English copy, the number of products and any integrations decide the final figure, which you see line by line before paying anything.",
     },
     {
       question: "Do you build Android and iOS apps for Suratgarh businesses?",
@@ -228,7 +228,7 @@ const suratgarh: CityContent = {
     {
       question: "How long does a website take for a Suratgarh business?",
       answer:
-        "Plan on a week or two for a basic static site once photos and shop details reach us. A 700+ page SEO build needs three to five weeks, an online shop four to eight and bespoke software six to twelve. The biggest delay is usually waiting for content, so gathering it before the cotton rush helps.",
+        "Plan on a week or two for a basic static site once photos and shop details reach us. A 299+ page SEO build needs three to five weeks, an online shop four to eight and bespoke software six to twelve. The biggest delay is usually waiting for content, so gathering it before the cotton rush helps.",
     },
     {
       question: "Who is the best website development team in Suratgarh?",
@@ -253,7 +253,7 @@ const suratgarh: CityContent = {
     {
       question: "Suratgarh me website banwane ka kharcha kitna hai?",
       answer:
-        "Suratgarh me simple website ka kharcha ₹10,000 se shuru hota hai, aur yeh lagbhag ek se do hafte me live ho jaati hai. Badi SEO website (700+ page) ₹20,000 se, Android-iOS app ₹40,000 se, aur online dukaan ₹50,000 se shuru hoti hai. Kaam aur features dekh kar poora hisaab likh kar dete hain; aap haan bolein tabhi paisa lagta hai.",
+        "Suratgarh me simple website ka kharcha ₹10,000 se shuru hota hai, aur yeh lagbhag ek se do hafte me live ho jaati hai. Badi SEO website (299+ page) ₹20,000 se, Android-iOS app ₹40,000 se, aur online dukaan ₹50,000 se shuru hoti hai. Kaam aur features dekh kar poora hisaab likh kar dete hain; aap haan bolein tabhi paisa lagta hai.",
     },
     {
       question: "You have no office in Suratgarh. Is remote work safe?",

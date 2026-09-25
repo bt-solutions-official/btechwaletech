@@ -65,7 +65,7 @@ const content: FreelanceContent = {
   services: {
     eyebrow: "Match the developer to the job",
     heading: "“Best” depends on what you are building",
-    note: "A developer who is excellent at online stores may be average at 700-page SEO sites. Judge candidates against the project type you actually need.",
+    note: "A developer who is excellent at online stores may be average at 299-page SEO sites. Judge candidates against the project type you actually need.",
     cards: [
       { name: "Business website", note: `For a shop, clinic or consultancy, “best” means fast on mobile, clear contact paths and easy upkeep. Our static plan starts at ${P.site}.`, href: "/services/web-development/", size: "lg" },
       { name: "SEO website with hundreds of pages", note: `Here the best developer shows sites with clean structure, schema and indexed pages in Search Console. Ours start at ${P.seoSite}.`, href: "/seo-website-developer/", size: "lg" },
@@ -185,7 +185,7 @@ const content: FreelanceContent = {
       heading: "How much does the best freelance web developer in India charge?",
       paragraphs: [
         `Quality does not map neatly to price. Some excellent developers charge modestly because they have low overheads; some mediocre ones charge a lot because they have strong marketing. Price tells you what you will pay, not what you will get.`,
-        `Our starting prices are public so you can compare. A static website of up to 100 pages starts at ${P.site} (${P.siteUsd}) and takes 1–2 weeks. An SEO website with 700+ pages starts at ${P.seoSite}, an online store at ${P.shop}, and a custom web app at ${P.software}. Maintenance after the free five months starts at ${P.care}.`,
+        `Our starting prices are public so you can compare. A static website of up to 100 pages starts at ${P.site} (${P.siteUsd}) and takes 1–2 weeks. An SEO website with 299+ pages starts at ${P.seoSite}, an online store at ${P.shop}, and a custom web app at ${P.software}. Maintenance after the free five months starts at ${P.care}.`,
         `Across the market, quotes for the same brief vary widely. The spread comes from custom versus template design, who writes content, how much testing is done, and what support follows launch. Line up scope first, then price. For a full breakdown, see <a href='/website-developer-cost/'>website developer cost</a>.`,
       ],
     },
@@ -320,7 +320,7 @@ const content: FreelanceContent = {
       columns: ["Project", "Starts at (India)", "Starts at (abroad)", "Typical timeline"],
       rows: [
         ["Static website, up to 100 pages", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks"],
-        ["SEO website, 700+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks"],
+        ["SEO website, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks"],
         ["Online store", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks"],
         ["Custom web app", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks"],
         ["Android and iOS app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks"],

@@ -35,7 +35,7 @@ const nagina: CityContent = {
     pills: ["Websites from ₹10,000", "Woodcraft catalogues", "Hindi, Urdu and English", "UPI and Razorpay stores", "WhatsApp enquiry bots"],
   },
   quickAnswer:
-    "For a Nagina business, our static website starts at ₹10,000 and usually takes one to two weeks. SEO websites with 700+ pages start at ₹20,000, AI and WhatsApp automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Nagina office, and maintenance is free for five months.",
+    "For a Nagina business, our static website starts at ₹10,000 and usually takes one to two weeks. SEO websites with 299+ pages start at ₹20,000, AI and WhatsApp automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Nagina office, and maintenance is free for five months.",
   snapshot: [
     { label: "Where it is", value: "Tehsil town and municipal board in Bijnor district, western Uttar Pradesh, on the rail line between Moradabad and Najibabad" },
     { label: "Known for", value: "Nagina Wood Craft: carving, inlay and jali work on ebony and sheesham, awarded a Geographical Indication tag in 2023" },
@@ -73,12 +73,12 @@ const nagina: CityContent = {
       heading: "What websites, software and automation cost for a Nagina business",
       paragraphs: [
         "Quotes for a website around Bijnor vary widely, from a cheap template someone sets up in an afternoon to agency proposals from Moradabad, Dehradun or Delhi. Rather than compare headline numbers, compare what is included: who owns the domain, whether basic search setup is done, how many pages are actually written, and what happens when something breaks in month four.",
-        "Our figures are published on the <a href=\"/pricing/\">pricing page</a> and every one is a starting price. A static site of up to 100 pages starts at ₹10,000 and is typically live in one to two weeks. A search-focused site of 700+ pages starts at ₹20,000 and takes three to five weeks. WhatsApp and AI automation starts at ₹40,000, an online store at ₹50,000, and custom web software at ₹60,000. Ongoing SEO runs from ₹10,000 a month.",
+        "Our figures are published on the <a href=\"/pricing/\">pricing page</a> and every one is a starting price. A static site of up to 100 pages starts at ₹10,000 and is typically live in one to two weeks. A search-focused site of 299+ pages starts at ₹20,000 and takes three to five weeks. WhatsApp and AI automation starts at ₹40,000, an online store at ₹50,000, and custom web software at ₹60,000. Ongoing SEO runs from ₹10,000 a month.",
         "A carving unit showing forty designs and a clinic with three doctors are very different jobs, so your number will depend on scope. We write it down line by line before starting.",
       ],
       list: [
         "<strong>Static site, from ₹10,000:</strong> shops, clinics, tutors, small workshops. One to two weeks.",
-        "<strong>SEO site, from ₹20,000:</strong> 700+ pages for traders and manufacturers who want steady search enquiries.",
+        "<strong>SEO site, from ₹20,000:</strong> 299+ pages for traders and manufacturers who want steady search enquiries.",
         "<strong>Automation, from ₹40,000:</strong> WhatsApp replies, lead sheets and follow-up reminders.",
         "<strong>Online store, from ₹50,000:</strong> woodcraft and gift sellers taking UPI and card payments.",
         "<strong>Custom software, from ₹60,000:</strong> order, stock, karigar and billing systems.",
@@ -211,12 +211,12 @@ const nagina: CityContent = {
     {
       question: "How much does a website cost in Nagina?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, products and features. Compare any other quote on ownership, SEO basics and after-launch support, not the headline figure alone.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, products and features. Compare any other quote on ownership, SEO basics and after-launch support, not the headline figure alone.",
     },
     {
       question: "Nagina me website banwane ka kharcha kitna hai?",
       answer:
-        "Humare yahan simple website ₹10,000 se shuru hoti hai aur SEO wali 700+ page website ₹20,000 se. Online store ₹50,000 se aur WhatsApp automation ₹40,000 se shuru hota hai. Aapke kaam ke hisaab se likhit, itemised quote do working days me milta hai, aur aapki manzoori ke bina koi bill nahi banta.",
+        "Humare yahan simple website ₹10,000 se shuru hoti hai aur SEO wali 299+ page website ₹20,000 se. Online store ₹50,000 se aur WhatsApp automation ₹40,000 se shuru hota hai. Aapke kaam ke hisaab se likhit, itemised quote do working days me milta hai, aur aapki manzoori ke bina koi bill nahi banta.",
     },
     {
       question: "Do you have an office in Nagina or Bijnor?",
@@ -251,7 +251,7 @@ const nagina: CityContent = {
     {
       question: "How long will my project take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, automation two to four weeks, an online store four to eight weeks and custom software six to twelve weeks. Delays usually come from waiting for photos, so we send a simple shooting guide at the start.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, automation two to four weeks, an online store four to eight weeks and custom software six to twelve weeks. Delays usually come from waiting for photos, so we send a simple shooting guide at the start.",
     },
     {
       question: "Will the domain and code belong to me?",

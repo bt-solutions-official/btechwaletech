@@ -34,7 +34,7 @@ const chandausi: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi-first pages", "Mandi trader sites", "Advocate and clinic profiles", "WhatsApp rate replies"],
   },
   quickAnswer:
-    "In Chandausi, a basic business website with us starts at ₹10,000 and usually takes one to two weeks. A 700+ page SEO website starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team of three engineers with no office in Chandausi, and the first five months of maintenance are free.",
+    "In Chandausi, a basic business website with us starts at ₹10,000 and usually takes one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team of three engineers with no office in Chandausi, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Where it is", value: "A town and tehsil headquarters in Sambhal district, about 45 km from Moradabad" },
     { label: "Courts", value: "The district and sessions courts for Sambhal district have sat in Chandausi since 2017" },
@@ -72,12 +72,12 @@ const chandausi: CityContent = {
       heading: "Website cost in Chandausi: what you pay and what you should get",
       paragraphs: [
         "In a town the size of Chandausi, website prices are rarely clear. Some people are offered a one-page site for very little by a relative or a local computer centre, while agencies in Moradabad, Bareilly or Delhi ask much more. The cheap site often has no search setup and the domain is registered to the builder. The expensive one may carry costs a small shop does not need.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts at ₹10,000 and is ready in one to two weeks. A 700+ page SEO website, where each product, service or area gets its own page, starts at ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts at ₹40,000, an ecommerce store at ₹50,000 and custom software at ₹60,000. Monthly SEO work starts at ₹10,000 a month.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO website, where each product, service or area gets its own page, starts at ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts at ₹40,000, an ecommerce store at ₹50,000 and custom software at ₹60,000. Monthly SEO work starts at ₹10,000 a month.",
         "All of these are starting prices. An advocate's profile page or a clinic site needs less work than a wholesaler listing hundreds of items. You get a written quote that lists every page and feature, so you can drop anything you don't need, and there is no bill until you approve it in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form, map and basic SEO. For shops, clinics, advocates and tutors.",
-        "<strong>From ₹20,000:</strong> 700+ pages built around real searches. For traders, schools and multi-service firms.",
+        "<strong>From ₹20,000:</strong> 299+ pages built around real searches. For traders, schools and multi-service firms.",
         "<strong>From ₹50,000:</strong> online store with cart, UPI and cards. For retailers and small food or craft brands.",
         "<strong>From ₹60,000:</strong> custom software with logins and reports. For wholesalers, transporters and institutions.",
       ],
@@ -217,12 +217,12 @@ const chandausi: CityContent = {
     {
       question: "How much does a website cost in Chandausi?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, features and content. When comparing quotes, check that SEO basics, hosting in your name and support after launch are included.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, features and content. When comparing quotes, check that SEO basics, hosting in your name and support after launch are included.",
     },
     {
       question: "Chandausi me website banwane me kitna kharcha aata hai?",
       answer:
-        "Humare saath simple business website ₹10,000 se shuru hoti hai aur aam taur par 1–2 hafte mein ban jaati hai. 700+ page wali SEO website ₹20,000 se aur online store ₹50,000 se shuru hota hai. Kaam shuru hone se pehle likhit, item-wise quote milta hai, aur aapki manzoori ke bina koi bill nahi banta.",
+        "Humare saath simple business website ₹10,000 se shuru hoti hai aur aam taur par 1–2 hafte mein ban jaati hai. 299+ page wali SEO website ₹20,000 se aur online store ₹50,000 se shuru hota hai. Kaam shuru hone se pehle likhit, item-wise quote milta hai, aur aapki manzoori ke bina koi bill nahi banta.",
     },
     {
       question: "Do you have an office in Chandausi?",
@@ -252,7 +252,7 @@ const chandausi: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static website takes one to two weeks, a 700+ page SEO site three to five weeks, AI automation two to four weeks, an online store four to eight weeks and custom software six to twelve. Waiting for photos and details is usually the biggest delay, so we send a short checklist at the start.",
+        "A static website takes one to two weeks, a 299+ page SEO site three to five weeks, AI automation two to four weeks, an online store four to eight weeks and custom software six to twelve. Waiting for photos and details is usually the biggest delay, so we send a short checklist at the start.",
     },
     {
       question: "What can WhatsApp automation do for my business?",

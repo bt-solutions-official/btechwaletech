@@ -39,7 +39,7 @@ const palacole: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu local SEO", "Rice mill and aqua tools", "Code and domain in your name"],
   },
   quickAnswer:
-    "For Palacole (Palakollu) businesses, a website with us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Palacole office.",
+    "For Palacole (Palakollu) businesses, a website with us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Palacole office.",
   snapshot: [
     { label: "Location", value: "Mandal headquarters in West Godavari district, Narasapuram revenue division, Coastal Andhra" },
     { label: "Population", value: "About 81,000 in the 2011 Census, within a municipal area of roughly 19.5 sq km" },
@@ -134,7 +134,7 @@ const palacole: CityContent = {
       paragraphs: [
         "Most local searches in the delta end on Google Maps, not on a website. When someone types “ortho doctor Palakollu” or “paint shop near Palacole bus stand”, Google shows three map listings first. Getting into that group depends on a verified Business Profile, the right category, consistent address and phone details, fresh photographs and genuine reviews.",
         "Our <strong>SEO services in Palacole</strong> begin with that profile. We fix categories, write a description in plain Telugu and English, add services and products, and help you set up a simple routine for asking satisfied customers for reviews. We then connect it to a website whose pages match what people actually search, including both spellings of the town, Palacole and Palakollu.",
-        "For businesses that serve the wider district, such as distributors, mills or colleges, we can build a larger SEO website of 700+ pages from ₹20,000, delivered in three to five weeks, covering products, villages served and common questions. Monthly SEO starts at ₹10,000 a month and includes content updates, technical checks and a short report.",
+        "For businesses that serve the wider district, such as distributors, mills or colleges, we can build a larger SEO website of 299+ pages from ₹20,000, delivered in three to five weeks, covering products, villages served and common questions. Monthly SEO starts at ₹10,000 a month and includes content updates, technical checks and a short report.",
         "We will not promise a first-place ranking. Nobody honest can. What we can show you each month is whether calls, direction requests and enquiries from search are rising. More detail is on our <a href=\"/services/seo-services/\">SEO services page</a>.",
       ],
     },
@@ -169,7 +169,7 @@ const palacole: CityContent = {
       id: "website-cost-palacole",
       heading: "Website cost in Palacole: starting prices and what changes them",
       paragraphs: [
-        "The most common question we get is about <strong>website cost in Palacole</strong>. Our starting prices are published: a static website of up to 100 pages from ₹10,000 in one to two weeks; an SEO website of 700+ pages from ₹20,000 in three to five weeks; an Android and iOS app from ₹40,000; AI automation from ₹40,000; an ecommerce store from ₹50,000; and custom software or a web app from ₹60,000.",
+        "The most common question we get is about <strong>website cost in Palacole</strong>. Our starting prices are published: a static website of up to 100 pages from ₹10,000 in one to two weeks; an SEO website of 299+ pages from ₹20,000 in three to five weeks; an Android and iOS app from ₹40,000; AI automation from ₹40,000; an ecommerce store from ₹50,000; and custom software or a web app from ₹60,000.",
         "The final figure moves with scope. A site in both Telugu and English takes more writing than one language. A store with 400 products costs more to set up than one with 30. An app with payments, delivery tracking and an admin panel is a bigger job than one that shows a catalogue. Integration with Tally or a billing system adds work too.",
         "Local quotes in the delta vary widely, from very cheap template sites to expensive agency packages. When you compare, check who owns the domain and hosting, whether the code is handed over, what maintenance costs after the first year, and whether the page actually loads quickly on a phone. We send an itemised quote in about two working days and bill nothing until you approve it in writing. See <a href=\"/pricing/\">our pricing page</a> for more.",
       ],
@@ -222,7 +222,7 @@ const palacole: CityContent = {
     {
       question: "How much does a website cost in Palacole?",
       answer:
-        "A static website of up to 100 pages starts from ₹10,000 and usually takes one to two weeks. An SEO website of 700+ pages starts at ₹20,000, and an ecommerce store from ₹50,000. The final amount depends on pages, languages and features. You get an itemised quote in about two working days, and nothing is billed until you approve it in writing.",
+        "A static website of up to 100 pages starts from ₹10,000 and usually takes one to two weeks. An SEO website of 299+ pages starts at ₹20,000, and an ecommerce store from ₹50,000. The final amount depends on pages, languages and features. You get an itemised quote in about two working days, and nothing is billed until you approve it in writing.",
     },
     {
       question: "Do you build Android and iOS apps for Palacole businesses?",

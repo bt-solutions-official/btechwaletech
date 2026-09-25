@@ -202,7 +202,7 @@ const content: CityContent = {
       id: "cost-software-vizag",
       heading: "How much does software development cost in Visakhapatnam?",
       paragraphs: [
-        "Software development in Visakhapatnam with BtechWaleTech starts at ₹60,000 for custom web apps, ₹40,000 for AI automation or Android and iOS apps, ₹50,000 for ecommerce, ₹20,000 for a 700+ page SEO website and ₹10,000 for a static website. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after five free months.",
+        "Software development in Visakhapatnam with BtechWaleTech starts at ₹60,000 for custom web apps, ₹40,000 for AI automation or Android and iOS apps, ₹50,000 for ecommerce, ₹20,000 for a 299+ page SEO website and ₹10,000 for a static website. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after five free months.",
         "The final quote depends on the number of screens and user roles, integrations such as Tally, WhatsApp or courier APIs, data migration, and deadlines. Our <a href='/pricing/'>pricing page</a> lists every plan.",
         "To keep a Vizag project affordable, launch the smallest version your team will actually use, prepare sample documents and data early, and leave nice-to-have features for a second phase once real users have given feedback.",
         "Payments are made only through UPI by scanning our QR code or by direct bank transfer, in INR, against milestones set out in the quote.",

@@ -40,7 +40,7 @@ const nakodar: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Punjabi and English pages", "Replies for NRI time zones", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Nakodar business, a website with us starts at ₹10,000 and usually goes live within one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, with no Nakodar office.",
+    "For a Nakodar business, a website with us starts at ₹10,000 and usually goes live within one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, with no Nakodar office.",
   snapshot: [
     { label: "Location", value: "Tehsil town in Jalandhar district, roughly 25 km south-west of Jalandhar city" },
     { label: "Region", value: "Doaba, between the Beas and the Sutlej, often called the NRI belt of Punjab" },
@@ -150,7 +150,7 @@ const nakodar: CityContent = {
       id: "website-cost-nakodar",
       heading: "Website cost in Nakodar: where the price starts and what moves it",
       paragraphs: [
-        "Owners in Nakodar usually ask for the number first, so here it is. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 700 pages or more starts at ₹20,000 and takes three to five weeks; it suits an immigration office that wants a page for every country and visa type, or a coaching chain covering several towns. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
+        "Owners in Nakodar usually ask for the number first, so here it is. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 299 pages or more starts at ₹20,000 and takes three to five weeks; it suits an immigration office that wants a page for every country and visa type, or a coaching chain covering several towns. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
         "The figure grows only with choices you make: Punjabi and English versions of every page, a large property catalogue, student document uploads, staff logins, card payment for overseas buyers or a sync with your accounts package. Each appears as a separate line, so you can drop what you do not need. If you write the content and supply photos yourself, the cost stays close to the starting price.",
         "Quotes for similar-looking work vary widely around Jalandhar district. When you compare, ask whose name the domain is registered in, whether the site is tested on cheap Android phones, how many rounds of changes are included, whether basic on-page SEO is part of the job and who fixes problems after a year. Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>, and your written quote usually arrives within two working days.",
       ],
@@ -221,7 +221,7 @@ const nakodar: CityContent = {
     {
       question: "How long does it take to make a website in Nakodar?",
       answer:
-        "A static business site is usually live in one to two weeks once we have your text and photos. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Delays mostly come from waiting for content, so sending it early speeds things up.",
+        "A static business site is usually live in one to two weeks once we have your text and photos. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Delays mostly come from waiting for content, so sending it early speeds things up.",
     },
     {
       question: "Which is the best IT services team in Nakodar?",

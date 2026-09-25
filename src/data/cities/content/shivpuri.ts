@@ -35,7 +35,7 @@ const shivpuri: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi-first pages", "Safari and stay booking", "Mandi trader catalogues", "WhatsApp replies in Hindi"],
   },
   quickAnswer:
-    "In Shivpuri, a business website built by us starts at ₹10,000 and takes one to two weeks. SEO websites with 700+ pages start at ₹20,000, online stores at ₹50,000 and AI or WhatsApp automation at ₹40,000. We are a remote three-person team without a Shivpuri office, and maintenance is free for five months after launch.",
+    "In Shivpuri, a business website built by us starts at ₹10,000 and takes one to two weeks. SEO websites with 299+ pages start at ₹20,000, online stores at ₹50,000 and AI or WhatsApp automation at ₹40,000. We are a remote three-person team without a Shivpuri office, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Location", value: "North-western Madhya Pradesh, about 125 km from Gwalior and 104 km from Jhansi by road" },
     { label: "History", value: "Taken by Daulat Rao Scindia in 1804 and later used as the Scindia summer capital" },
@@ -73,12 +73,12 @@ const shivpuri: CityContent = {
       heading: "Website prices for Shivpuri businesses, set out plainly",
       paragraphs: [
         "In Shivpuri you will usually be quoted either a very small amount by someone local, often for a template site kept in his own account, or a large amount by a Gwalior or Bhopal agency. Both can leave out things a small business needs, such as a proper map listing, Hindi content or the domain in your own name.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages starts at ₹10,000 and is ready in one to two weeks, with mobile layout, Hindi and English text, map, WhatsApp button and basic search setup. An SEO site with 700+ pages, planned around what people across the district actually search, starts at ₹20,000 and takes three to five weeks. Online stores begin at ₹50,000, custom web applications at ₹60,000, AI and WhatsApp automation at ₹40,000, and monthly SEO at ₹10,000.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages starts at ₹10,000 and is ready in one to two weeks, with mobile layout, Hindi and English text, map, WhatsApp button and basic search setup. An SEO site with 299+ pages, planned around what people across the district actually search, starts at ₹20,000 and takes three to five weeks. Online stores begin at ₹50,000, custom web applications at ₹60,000, AI and WhatsApp automation at ₹40,000, and monthly SEO at ₹10,000.",
         "The final price follows the scope. A single clinic needs a few pages. A school with admissions, transport routes, notices and a gallery needs more. A safari operator who wants date-wise booking needs a small application. We discuss your needs first and then send a written, itemised quote, and work only begins after your approval.",
       ],
       list: [
         "<strong>₹10,000 onwards:</strong> a short Hindi-first site for a shop, clinic, tutor or small office.",
-        "<strong>₹20,000 onwards:</strong> 700+ pages covering each service, crop, product or tehsil you serve.",
+        "<strong>₹20,000 onwards:</strong> 299+ pages covering each service, crop, product or tehsil you serve.",
         "<strong>₹50,000 onwards:</strong> a store with UPI, cards, courier rules and WhatsApp order alerts.",
         "<strong>₹60,000 onwards:</strong> booking tools, trader registers and dashboards built to your process.",
       ],
@@ -210,7 +210,7 @@ const shivpuri: CityContent = {
     {
       question: "How much does a website cost in Shivpuri?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. Your written quote lists each item. When comparing quotes, check whose name the domain is in and whether Hindi content and map setup are included.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. Your written quote lists each item. When comparing quotes, check whose name the domain is in and whether Hindi content and map setup are included.",
     },
     {
       question: "Shivpuri me website banwane ka kharcha kitna aata hai?",
@@ -250,7 +250,7 @@ const shivpuri: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Delays usually come from waiting for photos and text, so we send a checklist and draft content.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Delays usually come from waiting for photos and text, so we send a checklist and draft content.",
     },
     {
       question: "What does WhatsApp automation actually do?",

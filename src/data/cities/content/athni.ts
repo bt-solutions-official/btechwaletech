@@ -39,7 +39,7 @@ const athni: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Kannada and Marathi pages", "Chappal and grape stores", "Code and domain are yours"],
   },
   quickAnswer:
-    "An Athni business website with us starts at ₹10,000 and usually takes one to two weeks. A 700+ page SEO site starts at ₹20,000, Android and iOS apps and AI automation at ₹40,000, and an online store for chappals or produce at ₹50,000. We are a remote team without an Athni office, and everything is registered in your name.",
+    "An Athni business website with us starts at ₹10,000 and usually takes one to two weeks. A 299+ page SEO site starts at ₹20,000, Android and iOS apps and AI automation at ₹40,000, and an online store for chappals or produce at ₹50,000. We are a remote team without an Athni office, and everything is registered in your name.",
   snapshot: [
     { label: "Location", value: "Taluk headquarters in Belagavi district, about 140 km from Belagavi city, 70 km from Vijayapura and 55 km from Miraj" },
     { label: "Town", value: "About 47,800 people in 2011; the municipality dates from 1853 and became a city municipal council in December 2025" },
@@ -212,7 +212,7 @@ const athni: CityContent = {
     {
       question: "What is the website cost in Athni?",
       answer:
-        "Static websites start at ₹10,000, SEO websites with 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are all starting prices. The final figure depends on pages, languages, products and features, and you receive it itemised in writing before anything is billed.",
+        "Static websites start at ₹10,000, SEO websites with 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are all starting prices. The final figure depends on pages, languages, products and features, and you receive it itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Athni businesses?",
@@ -222,7 +222,7 @@ const athni: CityContent = {
     {
       question: "How long does it take to make a website in Athni?",
       answer:
-        "A simple website is typically live in one to two weeks once your photos and details arrive. A 700+ page SEO website takes three to five weeks, an online store four to eight and custom software six to twelve. Projects move fastest when the owner sends content in the first few days.",
+        "A simple website is typically live in one to two weeks once your photos and details arrive. A 299+ page SEO website takes three to five weeks, an online store four to eight and custom software six to twelve. Projects move fastest when the owner sends content in the first few days.",
     },
     {
       question: "Who is the best website development team in Athni?",
@@ -247,7 +247,7 @@ const athni: CityContent = {
     {
       question: "Athani madhye website banvayla kiti kharcha yeto?",
       answer:
-        "Aamchyakade sadhi website ₹10,000 pasun suru hote ani sadharan ek-don athavdyat tayar hote. 700+ pages chi SEO website ₹20,000 pasun, Android ani iOS app ₹40,000 pasun ani online store ₹50,000 pasun suru hote. Final quote tumchya pages ani features pramane lekhi swarupat milto, ani approval shivay kahi paise ghetle jat nahit.",
+        "Aamchyakade sadhi website ₹10,000 pasun suru hote ani sadharan ek-don athavdyat tayar hote. 299+ pages chi SEO website ₹20,000 pasun, Android ani iOS app ₹40,000 pasun ani online store ₹50,000 pasun suru hote. Final quote tumchya pages ani features pramane lekhi swarupat milto, ani approval shivay kahi paise ghetle jat nahit.",
     },
     {
       question: "You have no office in Athni. Is it safe to work remotely?",

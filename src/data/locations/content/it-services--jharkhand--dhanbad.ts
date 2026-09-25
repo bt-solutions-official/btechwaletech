@@ -194,7 +194,7 @@ const content: CityContent = {
       paragraphs: [
         "SEO for a Dhanbad business means being found on Google, Google Maps and AI assistants when customers search for your product or service in Dhanbad, Jharia, Katras, Sindri or Govindpur, with pages that answer their questions precisely. Local SEO relies on a complete Google Business Profile, consistent contact details, genuine reviews and specific pages for each service.",
         "For B2B businesses such as equipment hire, fabrication, coke and refractory suppliers, search terms are narrow and valuable: a buyer searching for excavator hire or refractory bricks near Dhanbad is close to a decision. For consumer businesses such as hostels, clinics and builders, neighbourhood and landmark searches matter. We write factual pages that Google's AI Overviews and assistants like ChatGPT and Perplexity can cite, and avoid thin duplicated pages.",
-        "Monthly <a href='/services/seo-services/'>SEO services</a> start from ₹10,000, and a 700+ page SEO website from ₹20,000. Nobody can guarantee rankings. Specific local searches usually show early movement within two to four months, and we report monthly with Search Console data.",
+        "Monthly <a href='/services/seo-services/'>SEO services</a> start from ₹10,000, and a 299+ page SEO website from ₹20,000. Nobody can guarantee rankings. Specific local searches usually show early movement within two to four months, and we report monthly with Search Console data.",
       ],
     },
     {
@@ -210,7 +210,7 @@ const content: CityContent = {
       id: "cost-dhanbad-software",
       heading: "Software development cost in Dhanbad: what do freelance developers charge?",
       paragraphs: [
-        "Our starting prices for Dhanbad projects are ₹10,000 for a website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store, ₹60,000 for dispatch, fleet, inventory or other custom software, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after five free months. All are starting prices.",
+        "Our starting prices for Dhanbad projects are ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store, ₹60,000 for dispatch, fleet, inventory or other custom software, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after five free months. All are starting prices.",
         "Costs depend on the number of modules, users, sites and integrations such as weighbridges, cameras or accounting exports. A dispatch tracker for one yard is simpler than a multi-siding system with transporter settlements and variance analysis. Beginning with the workflow that loses the most money, then adding modules, keeps costs controlled.",
         "You get an itemised quote in about two working days, and work begins only after written approval. Payment to us is only by UPI (scan our QR code) or direct bank transfer to our bank account in INR, usually in milestones against approved deliverables.",
       ],

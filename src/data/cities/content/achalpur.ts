@@ -35,7 +35,7 @@ const achalpur: CityContent = {
     pills: ["Sites from ₹10,000", "Marathi, Hindi and English", "Cotton and orange trade pages", "Chikhaldara stay bookings", "WhatsApp automation"],
   },
   quickAnswer:
-    "For the twin towns, our static websites begin at ₹10,000 and need one to two weeks. Larger 700+ page SEO sites begin at ₹20,000, automation on WhatsApp or AI at ₹40,000, online stores at ₹50,000 and bespoke software at ₹60,000. We are three engineers working remotely, not from an Achalpur office, and upkeep costs nothing for the first five months.",
+    "For the twin towns, our static websites begin at ₹10,000 and need one to two weeks. Larger 299+ page SEO sites begin at ₹20,000, automation on WhatsApp or AI at ₹40,000, online stores at ₹50,000 and bespoke software at ₹60,000. We are three engineers working remotely, not from an Achalpur office, and upkeep costs nothing for the first five months.",
   snapshot: [
     { label: "Location", value: "Twin city with Paratwada in Amravati district, Vidarbha, at about 369 m in the Satpura foothills" },
     { label: "History", value: "Once Ellichpur: an early Rashtrakuta seat and later capital of the Berar Sultanate and of Mughal Berar" },
@@ -74,7 +74,7 @@ const achalpur: CityContent = {
       heading: "What a website costs for an Achalpur or Paratwada business",
       paragraphs: [
         "We would rather you see our numbers before any call. Our <a href=\"/pricing/\">pricing page</a> lists starting prices, and once we know your needs we send an itemised quote so you can see what each page, language and feature adds.",
-        "The entry point is a static site, up to 100 pages, from ₹10,000. Expect one to two weeks, and expect it to include a layout that works on phones, buttons to call or WhatsApp you, a map, an enquiry form and basic search setup, written in Marathi, Hindi or English. If you want enquiries from Google across Amravati district, a 700+ page SEO build begins at ₹20,000 and runs three to five weeks. Beyond that, automation begins at ₹40,000, stores at ₹50,000, bespoke software at ₹60,000 and ongoing SEO at ₹10,000 per month.",
+        "The entry point is a static site, up to 100 pages, from ₹10,000. Expect one to two weeks, and expect it to include a layout that works on phones, buttons to call or WhatsApp you, a map, an enquiry form and basic search setup, written in Marathi, Hindi or English. If you want enquiries from Google across Amravati district, a 299+ page SEO build begins at ₹20,000 and runs three to five weeks. Beyond that, automation begins at ₹40,000, stores at ₹50,000, bespoke software at ₹60,000 and ongoing SEO at ₹10,000 per month.",
         "Your scope decides the rest. A tuition class may need eight pages. A cotton trader needs grade details, a quote form and English for mill buyers. A Chikhaldara hotel needs room pages and a booking flow. We send a written quote, and work begins only after you approve it.",
       ],
       list: [
@@ -214,7 +214,7 @@ const achalpur: CityContent = {
     {
       question: "How much does a website cost in Achalpur or Paratwada?",
       answer:
-        "The starting points are ₹10,000 for a static site, ₹20,000 for a 700+ page SEO site, ₹40,000 for WhatsApp or AI automation, ₹50,000 for an online shop and ₹60,000 for bespoke software. Your actual quote reflects the pages, languages and features you choose, and no invoice is raised until you have agreed to it in writing.",
+        "The starting points are ₹10,000 for a static site, ₹20,000 for a 299+ page SEO site, ₹40,000 for WhatsApp or AI automation, ₹50,000 for an online shop and ₹60,000 for bespoke software. Your actual quote reflects the pages, languages and features you choose, and no invoice is raised until you have agreed to it in writing.",
     },
     {
       question: "Achalpur madhye website banvayla kiti kharcha yeto?",
@@ -254,7 +254,7 @@ const achalpur: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "Roughly: one to two weeks for a static site, three to five for a 700+ page SEO build, four to eight for an online shop and six to twelve for bespoke software. The usual delay is on the content side, getting photos and product details together, which is why a checklist reaches you on day one.",
+        "Roughly: one to two weeks for a static site, three to five for a 299+ page SEO build, four to eight for an online shop and six to twelve for bespoke software. The usual delay is on the content side, getting photos and product details together, which is why a checklist reaches you on day one.",
     },
     {
       question: "What can WhatsApp automation do for my business?",

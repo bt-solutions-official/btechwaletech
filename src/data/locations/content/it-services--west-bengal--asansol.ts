@@ -200,13 +200,13 @@ const content: CityContent = {
       id: "cost-asansol",
       heading: "What does a software development team in Asansol charge, and what do we charge?",
       paragraphs: [
-        "With BtechWaleTech, software development for an Asansol business starts at ₹60,000 for a custom web app, ₹40,000 for AI or WhatsApp automation or an Android and iOS app, ₹50,000 for an online store, ₹20,000 for a 700+ page SEO website and ₹10,000 for a static website. These are starting prices, and the quote depends on scope.",
+        "With BtechWaleTech, software development for an Asansol business starts at ₹60,000 for a custom web app, ₹40,000 for AI or WhatsApp automation or an Android and iOS app, ₹50,000 for an online store, ₹20,000 for a 299+ page SEO website and ₹10,000 for a static website. These are starting prices, and the quote depends on scope.",
         "The biggest cost drivers are number of user roles, integrations with Tally or WhatsApp, reports, offline mobile use and data migration from old records. We split quotes by module so you can build the most valuable part first. Changes after the scope is agreed are quoted separately in advance, never added silently to the bill.",
         "Payment is only by UPI through our QR code or by bank transfer to our account, in INR, spread across milestones. Our <a href=\"/pricing/\">pricing page</a> lists all starting prices, and our <a href=\"/portfolio/\">portfolio</a> shows the kind of work we deliver.",
       ],
       list: [
         "Static website from ₹10,000",
-        "700+ page SEO website from ₹20,000",
+        "299+ page SEO website from ₹20,000",
         "AI or WhatsApp automation from ₹40,000",
         "Android and iOS app from ₹40,000",
         "Online store from ₹50,000",

@@ -39,7 +39,7 @@ const kottayam: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Malayalam and English SEO", "Resort booking pages", "Every account in your name"],
   },
   quickAnswer:
-    "In Kottayam, our websites start at ₹10,000 and most are ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Kottayam office, and you own every account.",
+    "In Kottayam, our websites start at ₹10,000 and most are ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Kottayam office, and you own every account.",
   snapshot: [
     { label: "Location", value: "District headquarters in central Kerala, about 66 km south of Kochi on the MC Road belt" },
     { label: "Water", value: "Meenachil River, which flows into Vembanad Lake at Kumarakom" },
@@ -155,7 +155,7 @@ const kottayam: CityContent = {
       id: "website-cost-kottayam",
       heading: "Website cost in Kottayam: starting prices and fair comparisons",
       paragraphs: [
-        "Here are our entry prices. A static website with up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. An SEO website of 700 pages or more, the kind a college, publisher or multi-branch hospital uses to cover every course, title or department, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, an online store at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
+        "Here are our entry prices. A static website with up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. An SEO website of 299 pages or more, the kind a college, publisher or multi-branch hospital uses to cover every course, title or department, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, an online store at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
         "Your figure rises only with what you pick: Malayalam and English versions, large catalogues, booking calendars, courier rate tables, UPI checkout, staff logins or a Tally link. Writing is optional; if you supply your own text and photographs, the cost barely moves.",
         "Quotes in Kottayam, Kochi and online vary widely for jobs that look alike. Ask who will own the domain, whether Malayalam text is tested on real phones, whether on-page SEO is included, how many revision rounds are covered and what support costs later. Our starting points are on the <a href=\"/pricing/\">pricing page</a>, and you receive a written, itemised quote within about two working days.",
       ],
@@ -216,7 +216,7 @@ const kottayam: CityContent = {
     {
       question: "What is the website cost in Kottayam?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Malayalam content, products and integrations, and it reaches you itemised in writing before anything is billed.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Malayalam content, products and integrations, and it reaches you itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Kottayam businesses?",
@@ -226,7 +226,7 @@ const kottayam: CityContent = {
     {
       question: "How long does a website take in Kottayam?",
       answer:
-        "A simple business website is usually live one to two weeks after we get your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight and custom software six to twelve. Malayalam content adds a short review step, since you approve every line before it goes live.",
+        "A simple business website is usually live one to two weeks after we get your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight and custom software six to twelve. Malayalam content adds a short review step, since you approve every line before it goes live.",
     },
     {
       question: "Which is the best website development team in Kottayam?",
@@ -251,7 +251,7 @@ const kottayam: CityContent = {
     {
       question: "Kottayathu oru website cheyyan ethra chelavakum?",
       answer:
-        "Njangalude simple website ₹10,000 muthal thudangunnu, sadharanayayi onno rando aazhchakkullil ready aakum. 700+ page SEO website ₹20,000 muthal, Android, iOS app ₹40,000 muthal, online store ₹50,000 muthal. Ningalude pages, features anusarichulla final quote ezhuthi ayachu tharum.",
+        "Njangalude simple website ₹10,000 muthal thudangunnu, sadharanayayi onno rando aazhchakkullil ready aakum. 299+ page SEO website ₹20,000 muthal, Android, iOS app ₹40,000 muthal, online store ₹50,000 muthal. Ningalude pages, features anusarichulla final quote ezhuthi ayachu tharum.",
     },
     {
       question: "Kottayam me website banwane ka kharcha kitna hai?",

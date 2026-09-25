@@ -34,7 +34,7 @@ const ajmer: CityContent = {
     pills: ["Sites from ₹10,000", "Hotel booking pages", "Marble catalogues", "Hindi search pages", "WhatsApp automation"],
   },
   quickAnswer:
-    "An Ajmer business website with us starts at ₹10,000 and is usually ready in one to two weeks. A 700+ page SEO website starts at ₹20,000, online stores at ₹50,000 and custom web apps at ₹60,000. We are a remote team with no Ajmer office, and five months of maintenance after launch are included.",
+    "An Ajmer business website with us starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO website starts at ₹20,000, online stores at ₹50,000 and custom web apps at ₹60,000. We are a remote team with no Ajmer office, and five months of maintenance after launch are included.",
   snapshot: [
     { label: "Pilgrimage and tourism", value: "Dargah of Khwaja Moinuddin Chishti, Ana Sagar lake, and Pushkar about 15 km away" },
     { label: "Markets", value: "Dargah Bazaar, Diggi Bazaar, Naya Bazaar, Madar Gate and Kaiserganj" },
@@ -72,12 +72,12 @@ const ajmer: CityContent = {
       heading: "How website pricing works in Ajmer",
       paragraphs: [
         "Ajmer owners regularly hear quotes between ₹2,000 and ₹50,000 for what looks like the same small website. At the low end you usually get a recycled theme, no search setup and a domain held by the developer. At the high end you are often paying for an agency's office in Jaipur, travel and a salesperson.",
-        "Our starting prices are published openly. A static business website starts at <strong>₹10,000</strong>, usually live in one to two weeks. A 700+ page SEO website starts at <strong>₹20,000</strong> and takes three to five weeks. An online store starts at ₹50,000, automation at ₹40,000 and a custom web application at ₹60,000. Monthly SEO starts at ₹10,000. Full details are on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our starting prices are published openly. A static business website starts at <strong>₹10,000</strong>, usually live in one to two weeks. A 299+ page SEO website starts at <strong>₹20,000</strong> and takes three to five weeks. An online store starts at ₹50,000, automation at ₹40,000 and a custom web application at ₹60,000. Monthly SEO starts at ₹10,000. Full details are on our <a href=\"/pricing/\">pricing page</a>.",
         "What makes a price go up is mostly volume and complexity: fifty room types or three hundred stone varieties take longer than five. We tell you in the quote exactly which items drive the cost, and nothing is billed until you approve it in writing.",
       ],
       list: [
         "<strong>₹10,000 and up:</strong> a site of up to 100 pages for a clinic, lawyer, shop or small guest house.",
-        "<strong>₹20,000 and up:</strong> a 700+ page site with a page per service or room category, built to be found on Google.",
+        "<strong>₹20,000 and up:</strong> a 299+ page site with a page per service or room category, built to be found on Google.",
         "<strong>₹50,000 and up:</strong> an online store with UPI and card checkout for sweets, textiles or crafts.",
         "<strong>₹60,000 and up:</strong> logins, admin panels and reports for traders, distributors and institutes.",
       ],
@@ -216,12 +216,12 @@ const ajmer: CityContent = {
     {
       question: "What is the cost of a website in Ajmer?",
       answer:
-        "With us, a static business website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Other Ajmer quotes might run from ₹2,000 to ₹50,000. Check whether SEO basics, domain ownership and after-launch support are included before comparing prices.",
+        "With us, a static business website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Other Ajmer quotes might run from ₹2,000 to ₹50,000. Check whether SEO basics, domain ownership and after-launch support are included before comparing prices.",
     },
     {
       question: "Ajmer me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath ek basic business website ₹10,000 se shuru hoti hai aur 700+ pages ki SEO website ₹20,000 se. Online store ₹50,000 se shuru hota hai. Aakhri keemat pages, features aur content par nirbhar karti hai, aur kaam shuru karne se pehle aapko har cheez ka alag-alag quote milta hai.",
+        "Hamare saath ek basic business website ₹10,000 se shuru hoti hai aur 299+ pages ki SEO website ₹20,000 se. Online store ₹50,000 se shuru hota hai. Aakhri keemat pages, features aur content par nirbhar karti hai, aur kaam shuru karne se pehle aapko har cheez ka alag-alag quote milta hai.",
     },
     {
       question: "Do you have an office in Ajmer?",
@@ -246,7 +246,7 @@ const ajmer: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, a store four to eight weeks and a custom application six to twelve weeks. The usual cause of delay is waiting for photos and text, so we write first drafts for you to check.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, a store four to eight weeks and a custom application six to twelve weeks. The usual cause of delay is waiting for photos and text, so we write first drafts for you to check.",
     },
     {
       question: "Can you sell sohan halwa or other sweets online for me?",

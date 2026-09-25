@@ -78,7 +78,7 @@ const pernampattu: CityContent = {
       paragraphs: [
         "A tannery website has a different job from a shop website. It speaks to procurement people who compare many suppliers in one sitting. They want to know which leathers you process, the finishes you offer, typical thickness ranges, minimum order sizes, how samples are sent and what compliance or effluent treatment arrangements are in place. Pretty photographs help, but specifics win the enquiry.",
         "As a <strong>website development team in Pernampattu</strong> in practice, we structure these sites around articles and leather types rather than a single brochure page. Each article gets its own page with photographs taken in daylight, the finishes available, and a short note on typical uses. A downloadable catalogue sits beside an enquiry form that asks the questions your sales person would ask on the phone, so the lead arrives already qualified.",
-        "Sites like this start at ₹10,000 for up to 100 pages and usually go live within two weeks once photographs and product details reach us. If you want separate pages for every article, colour card and buyer country, that moves into our 700+ page SEO build, which starts at ₹20,000. You can read how we approach this on our <a href=\"/services/web-development/\">web development page</a>.",
+        "Sites like this start at ₹10,000 for up to 100 pages and usually go live within two weeks once photographs and product details reach us. If you want separate pages for every article, colour card and buyer country, that moves into our 299+ page SEO build, which starts at ₹20,000. You can read how we approach this on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
     {
@@ -148,7 +148,7 @@ const pernampattu: CityContent = {
       id: "cost-pernampattu",
       heading: "Website cost in Pernampattu and what drives it",
       paragraphs: [
-        "Here are our entry points. A simple site of up to 100 pages starts at ₹10,000 and is ready in one to two weeks. A 700+ page SEO site starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation. Online stores start at ₹50,000, custom software at ₹60,000, monthly SEO at ₹10,000 a month and maintenance at ₹8,000 a month after the free period.",
+        "Here are our entry points. A simple site of up to 100 pages starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO site starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation. Online stores start at ₹50,000, custom software at ₹60,000, monthly SEO at ₹10,000 a month and maintenance at ₹8,000 a month after the free period.",
         "The amount goes up only for things you ask for. A Tamil version beside the English one, many product photographs, an export enquiry workflow, UPI and card checkout, staff logins or a Tally link each appear as a separate line. If you write your own text and send us photographs, the quote stays close to the starting figure.",
         "Local quotes in the Vellore belt vary widely for similar-looking work. When comparing, check who owns the domain and hosting, whether the site is tested on cheap phones, whether basic SEO is included, how many revisions you get and what support costs after a year. All starting prices are on our <a href=\"/pricing/\">pricing page</a>, and your itemised quote reaches you in about two working days.",
       ],
@@ -208,7 +208,7 @@ const pernampattu: CityContent = {
     {
       question: "How much does a website cost in Pernampattu?",
       answer:
-        "Our websites start at ₹10,000 for up to 100 pages. SEO websites with 700+ pages start at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, languages, products and integrations, and it is sent itemised in writing before any billing.",
+        "Our websites start at ₹10,000 for up to 100 pages. SEO websites with 299+ pages start at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, languages, products and integrations, and it is sent itemised in writing before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Pernampattu businesses?",

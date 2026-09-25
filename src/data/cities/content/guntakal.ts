@@ -35,7 +35,7 @@ const guntakal: CityContent = {
     pills: ["Websites from ₹10,000", "Railway-town know-how", "Telugu, Kannada, Urdu pages", "WhatsApp enquiry flows", "5 months free upkeep"],
   },
   quickAnswer:
-    "A Guntakal business website starts at ₹10,000 with us and is usually ready in one to two weeks. A 700+ page SEO site starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team with no office in Guntakal, and maintenance is free for five months after launch.",
+    "A Guntakal business website starts at ₹10,000 with us and is usually ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team with no office in Guntakal, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Railways", value: "Guntakal Junction is a five-point junction and headquarters of a South Coast Railway division since 1953" },
     { label: "Administration", value: "Headquarters of Guntakal mandal and of a revenue division of eight mandals formed in 2022, Anantapur district" },
@@ -73,12 +73,12 @@ const guntakal: CityContent = {
       heading: "Website prices in Guntakal, item by item",
       paragraphs: [
         "Business owners in Guntakal hear a wide range of website quotes. A cousin's friend offers a template for a few thousand rupees, a Kurnool or Bengaluru agency sends a figure with an extra zero, and neither says exactly what is included. We think the fairest approach is to list every item and let you decide what you actually need.",
-        "Our figures are starting prices. A static website of up to 100 pages starts at ₹10,000 and is usually ready within one to two weeks. A 700+ page SEO website, with separate pages for each service, specialty, course or product, starts at ₹20,000 and takes three to five weeks. WhatsApp and AI automation starts at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000. You will find the full breakdown on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our figures are starting prices. A static website of up to 100 pages starts at ₹10,000 and is usually ready within one to two weeks. A 299+ page SEO website, with separate pages for each service, specialty, course or product, starts at ₹20,000 and takes three to five weeks. WhatsApp and AI automation starts at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000. You will find the full breakdown on our <a href=\"/pricing/\">pricing page</a>.",
         "Your final figure depends on scope. A hospital with eight departments and a booking form needs more than a tailoring shop with one page of photographs. When the quote is higher than you expected, we point out which items can move to a second phase, so you launch with what brings enquiries first.",
       ],
       list: [
         "<strong>Business site from ₹10,000:</strong> up to 100 pages, WhatsApp button, enquiry form, map embed, search basics.",
-        "<strong>SEO site from ₹20,000:</strong> 700+ pages, schema markup, sitemap, Search Console set-up.",
+        "<strong>SEO site from ₹20,000:</strong> 299+ pages, schema markup, sitemap, Search Console set-up.",
         "<strong>Automation from ₹40,000:</strong> WhatsApp replies, enquiry logging, reminders.",
         "<strong>Online store from ₹50,000:</strong> catalogue, UPI and card payments, delivery rules, order alerts.",
       ],
@@ -218,7 +218,7 @@ const guntakal: CityContent = {
     {
       question: "What does a website cost in Guntakal?",
       answer:
-        "A static business website starts at ₹10,000 and a 700+ page SEO website starts at ₹20,000. WhatsApp or AI automation starts at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. The final amount depends on pages and features, and you see an itemised quote before anything is billed.",
+        "A static business website starts at ₹10,000 and a 299+ page SEO website starts at ₹20,000. WhatsApp or AI automation starts at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. The final amount depends on pages and features, and you see an itemised quote before anything is billed.",
     },
     {
       question: "Guntakal lo website cheyyadaniki entha avutundi?",
@@ -253,7 +253,7 @@ const guntakal: CityContent = {
     {
       question: "How long will my website take?",
       answer:
-        "A static site usually takes one to two weeks, an SEO site with 700+ pages three to five weeks, an online store four to eight weeks, automation two to four weeks and custom software six to twelve weeks. Waiting for photographs and text causes most delays, so we draft content for you to correct.",
+        "A static site usually takes one to two weeks, an SEO site with 299+ pages three to five weeks, an online store four to eight weeks, automation two to four weeks and custom software six to twelve weeks. Waiting for photographs and text causes most delays, so we draft content for you to correct.",
     },
     {
       question: "Do you work with clients in Gooty, Uravakonda, Adoni and Anantapur?",

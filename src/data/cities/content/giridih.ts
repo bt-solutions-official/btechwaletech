@@ -34,7 +34,7 @@ const giridih: CityContent = {
     pills: ["Static sites from ₹10,000", "Steel and mica catalogues", "Pilgrim stay bookings", "Hindi-first local pages", "WhatsApp replies daily"],
   },
   quickAnswer:
-    "For a Giridih business, a static website with us starts at ₹10,000 and is usually ready in one to two weeks. A 700+ page SEO site starts at ₹20,000, AI and WhatsApp automation at ₹40,000 and an online store at ₹50,000. We are a remote team of three engineers with no office in Giridih, and maintenance is free for the first five months.",
+    "For a Giridih business, a static website with us starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, AI and WhatsApp automation at ₹40,000 and an online store at ₹50,000. We are a remote team of three engineers with no office in Giridih, and maintenance is free for the first five months.",
   snapshot: [
     { label: "District role", value: "Headquarters of Giridih district in north-eastern Jharkhand, on the Chota Nagpur plateau" },
     { label: "Minerals", value: "Coal in the Giridih coalfield around Beniadih, and mica mines in the Gawan and Tisri blocks" },
@@ -73,12 +73,12 @@ const giridih: CityContent = {
       heading: "How much a website costs in Giridih",
       paragraphs: [
         "Website quotes in Giridih vary widely. Some local freelancers offer a template page for very little, while agencies from bigger cities quote amounts that small firms struggle to justify. The cheap option often skips search setup and keeps the domain in the builder's name; the costly one may include overheads you don't need.",
-        "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website, where each product, service or area gets its own page, starts at ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts at ₹40,000, an online store at ₹50,000 and a custom web application at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
+        "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website, where each product, service or area gets its own page, starts at ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts at ₹40,000, an online store at ₹50,000 and a custom web application at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
         "Those figures are floors. A dharamshala with ten rooms needs far less work than a rolling mill listing every TMT size, grade and bundle weight. The written quote lists every page and feature, so you can see where the cost comes from and take out anything you don't need before approving.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form, map and basic SEO. For shops, clinics, tutors and dharamshalas.",
-        "<strong>From ₹20,000:</strong> 700+ pages for product ranges and service areas. For steel, mica and trading firms.",
+        "<strong>From ₹20,000:</strong> 299+ pages for product ranges and service areas. For steel, mica and trading firms.",
         "<strong>From ₹50,000:</strong> online store with cart, UPI and cards. For retail, craft and food product sellers.",
         "<strong>From ₹60,000:</strong> custom software with logins and reports. For mills, transporters and institutions.",
       ],
@@ -209,12 +209,12 @@ const giridih: CityContent = {
     {
       question: "How much does a website cost in Giridih?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. These are starting prices; the final quote depends on pages, products and features. When comparing, check whether SEO basics, hosting in your name and support after launch are included.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. These are starting prices; the final quote depends on pages, products and features. When comparing, check whether SEO basics, hosting in your name and support after launch are included.",
     },
     {
       question: "Giridih me website banwane ka kharcha kitna aata hai?",
       answer:
-        "Humare saath simple business website ₹10,000 se shuru hoti hai aur aam taur par 1–2 hafte mein ban jaati hai. 700+ page wali SEO website ₹20,000 se aur online store ₹50,000 se shuru hota hai. Kaam shuru karne se pehle likhit, item-wise quote milta hai, aur aapki manzoori ke bina koi bill nahi banta.",
+        "Humare saath simple business website ₹10,000 se shuru hoti hai aur aam taur par 1–2 hafte mein ban jaati hai. 299+ page wali SEO website ₹20,000 se aur online store ₹50,000 se shuru hota hai. Kaam shuru karne se pehle likhit, item-wise quote milta hai, aur aapki manzoori ke bina koi bill nahi banta.",
     },
     {
       question: "Do you have an office in Giridih?",
@@ -244,7 +244,7 @@ const giridih: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static website usually takes one to two weeks, a 700+ page SEO site three to five weeks, AI automation two to four weeks, an online store four to eight weeks and custom software six to twelve. The most common delay is waiting for photographs and product details, so we send a checklist at the start.",
+        "A static website usually takes one to two weeks, a 299+ page SEO site three to five weeks, AI automation two to four weeks, an online store four to eight weeks and custom software six to twelve. The most common delay is waiting for photographs and product details, so we send a checklist at the start.",
     },
     {
       question: "What can WhatsApp automation do for my business?",

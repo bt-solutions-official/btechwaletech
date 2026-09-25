@@ -35,7 +35,7 @@ const shillong: CityContent = {
     pills: ["Sites from ₹10,000", "Homestay and tour enquiry pages", "Khasi, Hindi and English content", "UPI stores for hill produce", "WhatsApp auto-replies"],
   },
   quickAnswer:
-    "A business website in Shillong costs from ₹10,000 with us and takes one to two weeks. A 700+ page search-focused site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote team with no Shillong office, and we maintain every site free for five months after launch.",
+    "A business website in Shillong costs from ₹10,000 with us and takes one to two weeks. A 299+ page search-focused site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote team with no Shillong office, and we maintain every site free for five months after launch.",
   snapshot: [
     { label: "Role", value: "Capital of Meghalaya and headquarters of East Khasi Hills district, spread across the Shillong Plateau at roughly 1,495 to 1,965 metres" },
     { label: "Main markets", value: "Iewduh (Bara Bazar), the largest market in the city, plus Police Bazar and Laitumkhrah" },
@@ -74,12 +74,12 @@ const shillong: CityContent = {
       heading: "What a website costs in Shillong, in plain figures",
       paragraphs: [
         "Quotes in Shillong swing widely. Some freelancers offer a site for ₹2,500, which usually means a free theme, no search setup and a domain registered to them. Agencies in Guwahati or Kolkata may quote ₹50,000 or more for a five-page site, much of which pays for their overheads rather than your pages.",
-        "Our starting prices are public. A static site for a homestay, clinic, tutor or shop begins at <strong>₹10,000</strong> and normally goes live within one to two weeks. A site of 700+ pages, planned around the searches tourists and residents actually make, starts at <strong>₹20,000</strong> and takes three to five weeks. An online store with UPI checkout begins at <strong>₹50,000</strong>, WhatsApp or AI automation at <strong>₹40,000</strong>, and custom software such as a booking or fee system at <strong>₹60,000</strong>. Ongoing SEO is from ₹10,000 a month. Everything is laid out on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our starting prices are public. A static site for a homestay, clinic, tutor or shop begins at <strong>₹10,000</strong> and normally goes live within one to two weeks. A site of 299+ pages, planned around the searches tourists and residents actually make, starts at <strong>₹20,000</strong> and takes three to five weeks. An online store with UPI checkout begins at <strong>₹50,000</strong>, WhatsApp or AI automation at <strong>₹40,000</strong>, and custom software such as a booking or fee system at <strong>₹60,000</strong>. Ongoing SEO is from ₹10,000 a month. Everything is laid out on our <a href=\"/pricing/\">pricing page</a>.",
         "These are the lowest points, not rigid bundles. A guesthouse with six rooms and good photos is quick to build. A tour company with forty itineraries, seasonal rates and a gallery for each trip takes longer. Before we start you receive a written quote listing each page and feature, and no payment is due until you approve it.",
       ],
       list: [
         "<strong>Starter site from ₹10,000:</strong> up to 100 pages, map, WhatsApp button and basic search setup, for homestays, tutors, salons and small shops.",
-        "<strong>Search-focused site from ₹20,000:</strong> 700+ pages covering services, rooms or courses, with schema and a sitemap.",
+        "<strong>Search-focused site from ₹20,000:</strong> 299+ pages covering services, rooms or courses, with schema and a sitemap.",
         "<strong>Online store from ₹50,000:</strong> product catalogue, cart, UPI and card payments, shipping rules by pin code.",
         "<strong>Custom system from ₹60,000:</strong> logins, bookings, fee tracking or retailer ordering, built around your workflow.",
       ],
@@ -214,7 +214,7 @@ const shillong: CityContent = {
     {
       question: "How much does a website cost in Shillong?",
       answer:
-        "With us, a static business site starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Shillong quotes range from a few thousand rupees to over ₹50,000, so compare what is included: search setup, ownership of the domain and support after launch.",
+        "With us, a static business site starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Shillong quotes range from a few thousand rupees to over ₹50,000, so compare what is included: search setup, ownership of the domain and support after launch.",
     },
     {
       question: "Shillong me homestay ki website banwane ka kharcha kitna aata hai?",
@@ -244,7 +244,7 @@ const shillong: CityContent = {
     {
       question: "How long will my website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve. Most delays come from waiting for photos and text, so we draft content for you to edit rather than sitting on blank pages.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve. Most delays come from waiting for photos and text, so we draft content for you to edit rather than sitting on blank pages.",
     },
     {
       question: "Can you automate WhatsApp replies for tourist enquiries?",

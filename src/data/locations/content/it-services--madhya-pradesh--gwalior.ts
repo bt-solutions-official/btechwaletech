@@ -204,7 +204,7 @@ const content: CityContent = {
       heading: "SEO and AI-search visibility for Gwalior organisations",
       paragraphs: [
         "SEO for Gwalior organisations means showing up when parents, patients, couples or buyers search for a service in the city or a nearby district, and being described accurately by AI tools such as Google AI Overviews and ChatGPT. It depends on fast pages, clear facts, schema and a maintained Google Business Profile.",
-        "Schools need admission, fee and facility pages; hospitals need doctor and department pages; venues need capacity, package and gallery pages; heritage hotels need history and experience pages that tie into Gwalior's fort, palaces and music heritage. Static sites start at ₹10,000, 700+ page SEO sites at ₹20,000 and monthly SEO at ₹10,000.",
+        "Schools need admission, fee and facility pages; hospitals need doctor and department pages; venues need capacity, package and gallery pages; heritage hotels need history and experience pages that tie into Gwalior's fort, palaces and music heritage. Static sites start at ₹10,000, 299+ page SEO sites at ₹20,000 and monthly SEO at ₹10,000.",
         "We never guarantee rankings. For website-focused detail, see the separate <a href='/gwalior/'>Gwalior websites page</a>, plus our <a href='/services/seo-services/'>SEO services</a> and <a href='/services/web-development/'>web development</a> pages.",
       ],
     },

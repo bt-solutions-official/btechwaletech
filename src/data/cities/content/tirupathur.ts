@@ -39,7 +39,7 @@ const tirupathur: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Tamil-first local SEO", "Yelagiri stay listings", "You own every account"],
   },
   quickAnswer:
-    "A business website in Tirupathur starts at ₹10,000 with us and is usually ready in one to two weeks. Android and iOS apps and AI automation each start at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and have no Tirupathur office.",
+    "A business website in Tirupathur starts at ₹10,000 with us and is usually ready in one to two weeks. Android and iOS apps and AI automation each start at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and have no Tirupathur office.",
   snapshot: [
     { label: "Status", value: "Headquarters of Tirupathur district, formed from Vellore district in November 2019" },
     { label: "Population", value: "About 83,600 in the 2011 Census; municipality since 1886, selection grade since 2008" },
@@ -157,7 +157,7 @@ const tirupathur: CityContent = {
       id: "website-cost-tirupathur",
       heading: "Website cost in Tirupathur: starting prices and how to compare quotes",
       paragraphs: [
-        "Our starting prices for Tirupathur are published. For ₹10,000 onwards you get a static site of up to 100 pages, delivered in a week or two. Large SEO sites of 700+ pages begin at ₹20,000 and need three to five weeks. Mobile apps for Android and iOS begin at ₹40,000, as does AI automation, which runs two to four weeks. Online shops begin at ₹50,000 (four to eight weeks), custom software at ₹60,000 (six to twelve weeks), and ongoing SEO at ₹10,000 per month.",
+        "Our starting prices for Tirupathur are published. For ₹10,000 onwards you get a static site of up to 100 pages, delivered in a week or two. Large SEO sites of 299+ pages begin at ₹20,000 and need three to five weeks. Mobile apps for Android and iOS begin at ₹40,000, as does AI automation, which runs two to four weeks. Online shops begin at ₹50,000 (four to eight weeks), custom software at ₹60,000 (six to twelve weeks), and ongoing SEO at ₹10,000 per month.",
         "The quote rises with scope: more pages, full Tamil and English versions, large product catalogues, payment and courier integration, logins for staff or students, and links to Tally. Content counts too. Send us your own wording and pictures and the bill sits near the base figure; ask us to draft, translate and arrange it all and you will see that listed on its own.",
         "Quotes from local designers vary widely, so compare on substance. Find out who will legally hold the domain, whether phone testing and on-page SEO are part of the price, how many rounds of edits are allowed, and who repairs faults once the site is live. Our <a href=\"/pricing/\">pricing page</a> lists the starting points, and your written quote arrives in about two working days.",
       ],
@@ -218,7 +218,7 @@ const tirupathur: CityContent = {
     {
       question: "What is the website cost in Tirupathur?",
       answer:
-        "A basic site begins at ₹10,000, an SEO site of 700+ pages at ₹20,000, a store at ₹50,000 and bespoke software at ₹60,000. Treat these as the floor: Tamil copy, product count and integrations move the number up. A line-by-line quote reaches you within roughly two working days, and billing waits for your written yes.",
+        "A basic site begins at ₹10,000, an SEO site of 299+ pages at ₹20,000, a store at ₹50,000 and bespoke software at ₹60,000. Treat these as the floor: Tamil copy, product count and integrations move the number up. A line-by-line quote reaches you within roughly two working days, and billing waits for your written yes.",
     },
     {
       question: "Do you build Android and iOS apps for Tirupathur businesses?",
@@ -228,7 +228,7 @@ const tirupathur: CityContent = {
     {
       question: "How long does a website take for a Tirupathur business?",
       answer:
-        "Once your wording and pictures reach us, a simple site is normally online within a fortnight. Plan on three to five weeks for a 700+ page SEO build, four to eight for a shop and six to twelve for custom software. Delays almost always come from missing content, not from coding.",
+        "Once your wording and pictures reach us, a simple site is normally online within a fortnight. Plan on three to five weeks for a 299+ page SEO build, four to eight for a shop and six to twelve for custom software. Delays almost always come from missing content, not from coding.",
     },
     {
       question: "Who is the best website development team in Tirupathur?",
@@ -253,7 +253,7 @@ const tirupathur: CityContent = {
     {
       question: "Tirupathur la website panna evlo selavu aagum?",
       answer:
-        "Enga kitta simple website ₹10,000-la irundhu start aagudhu, oru rendu vaarathula ready aagum. 700+ page SEO website ₹20,000-la irundhu, Android matrum iOS app ₹40,000-la irundhu, online store ₹50,000-la irundhu start aagudhu. Unga pages, features-ku etha maadhiri ezhuthu moolama quote tharuvom.",
+        "Enga kitta simple website ₹10,000-la irundhu start aagudhu, oru rendu vaarathula ready aagum. 299+ page SEO website ₹20,000-la irundhu, Android matrum iOS app ₹40,000-la irundhu, online store ₹50,000-la irundhu start aagudhu. Unga pages, features-ku etha maadhiri ezhuthu moolama quote tharuvom.",
     },
     {
       question: "You have no office in Tirupathur. Is working remotely safe?",

@@ -176,7 +176,7 @@ const content: CityContent = {
       heading: "IT solutions in Bhubaneswar for SEO growth in a competitive market",
       paragraphs: [
         "SEO growth in Bhubaneswar requires more than a keyword-stuffed homepage, because competition for searches like coaching, clinics, real estate and IT services is intense. It needs a technically sound site, pages that answer specific buyer questions, strong local signals for each area served, and content that AI search tools can quote accurately.",
-        "Our <a href=\"/services/seo-services/\">SEO services</a> start from ₹10,000 a month and include technical audits, keyword and page planning, content, schema, Google Business Profile optimisation, area pages for localities such as Patia, Nayapalli and Old Town, and monthly Search Console reporting. For businesses needing breadth, our 700+ page SEO websites from ₹20,000 structure content by service and location.",
+        "Our <a href=\"/services/seo-services/\">SEO services</a> start from ₹10,000 a month and include technical audits, keyword and page planning, content, schema, Google Business Profile optimisation, area pages for localities such as Patia, Nayapalli and Old Town, and monthly Search Console reporting. For businesses needing breadth, our 299+ page SEO websites from ₹20,000 structure content by service and location.",
         "We do not promise rankings. We show what we changed, what moved and what we plan next. If you mainly need a new site rather than an SEO programme, our <a href=\"/bhubaneswar/\">Bhubaneswar website page</a> covers that in more detail.",
       ],
     },
@@ -193,7 +193,7 @@ const content: CityContent = {
       id: "software-cost-bhubaneswar",
       heading: "How much does software development cost in Bhubaneswar?",
       paragraphs: [
-        "Software development in Bhubaneswar with BtechWaleTech starts from ₹60,000 for a custom web application or MVP, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store, ₹20,000 for a 700+ page SEO website and ₹10,000 for a static website. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000. See the <a href=\"/pricing/\">pricing page</a> for inclusions.",
+        "Software development in Bhubaneswar with BtechWaleTech starts from ₹60,000 for a custom web application or MVP, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store, ₹20,000 for a 299+ page SEO website and ₹10,000 for a static website. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000. See the <a href=\"/pricing/\">pricing page</a> for inclusions.",
         "The final figure depends on the number of user roles, screens, integrations (payment gateway, WhatsApp API, Tally, third-party APIs), native apps, data migration and custom reports. We recommend phased delivery: a focused first release, then additions based on real usage. That approach suits startup budgets and reduces the risk of building features nobody uses.",
         "You pay only in INR, by UPI through our QR code or by direct bank transfer to our bank account, against milestones defined in the estimate. There are no licence fees for the code we write; you own it.",
       ],

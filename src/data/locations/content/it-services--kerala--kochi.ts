@@ -214,7 +214,7 @@ const content: CityContent = {
       id: "software-cost-kochi",
       heading: "What does a software development team in Kochi charge compared with a freelance group?",
       paragraphs: [
-        "A software development team in Kochi usually prices office space, sales and management into each quote, so the same scope often costs more than with freelancers. Our starting prices are published: websites ₹10,000, 700+ page SEO websites ₹20,000, AI automation ₹40,000, Android and iOS apps ₹40,000, ecommerce ₹50,000, custom software ₹60,000, monthly SEO ₹10,000 and maintenance ₹8,000 a month.",
+        "A software development team in Kochi usually prices office space, sales and management into each quote, so the same scope often costs more than with freelancers. Our starting prices are published: websites ₹10,000, 299+ page SEO websites ₹20,000, AI automation ₹40,000, Android and iOS apps ₹40,000, ecommerce ₹50,000, custom software ₹60,000, monthly SEO ₹10,000 and maintenance ₹8,000 a month.",
         "Final cost depends on modules, users, languages, integrations and data migration. See the <a href='/pricing/'>pricing page</a>. Payment is in INR, only by UPI QR or bank transfer, in milestones after you review work on staging.",
       ],
     },

@@ -160,7 +160,7 @@ const tuni: CityContent = {
       id: "website-cost-tuni",
       heading: "Website cost in Tuni: floor prices and a fair way to compare",
       paragraphs: [
-        "Price comes first in most Tuni conversations, so the floors are these. Up to 100 pages of static site for a shop, lodge, clinic or school: ₹10,000 onwards, one to two weeks. A 700-plus page SEO site, useful when a trader wants a page for every mango variety or a school for every course: ₹20,000 onwards, three to five weeks.",
+        "Price comes first in most Tuni conversations, so the floors are these. Up to 100 pages of static site for a shop, lodge, clinic or school: ₹10,000 onwards, one to two weeks. A 299-plus page SEO site, useful when a trader wants a page for every mango variety or a school for every course: ₹20,000 onwards, three to five weeks.",
         "Apps for Android and iPhone begin at ₹40,000, and so does AI automation. Online stores begin at ₹50,000, custom systems such as a cashew batch register at ₹60,000, and a monthly SEO plan at ₹10,000. You pay above those floors only for what you pick, such as both languages, a long catalogue, several payment methods, staff logins or Tally, and each choice can be struck off.",
         "Quotes from Kakinada, Rajahmundry or Visakhapatnam differ a great deal for similar work. Put the same questions to each: whose name is on the domain, do you get the code, was it tested on a budget phone, is basic on-page SEO included, how many revision rounds, and what does support cost in year two. Our floors are on the <a href=\"/pricing/\">pricing page</a>, and your itemised quote arrives in about two working days.",
       ],
@@ -221,7 +221,7 @@ const tuni: CityContent = {
     {
       question: "What is the website cost in Tuni?",
       answer:
-        "For a Tuni shop, clinic or lodge, a basic site starts at ₹10,000. Bigger builds start higher: ₹20,000 for a 700+ page SEO site, ₹50,000 for an online store, ₹60,000 for custom software. The exact figure depends on pages, Telugu copy, products and integrations, and you see each item in a written quote before any invoice.",
+        "For a Tuni shop, clinic or lodge, a basic site starts at ₹10,000. Bigger builds start higher: ₹20,000 for a 299+ page SEO site, ₹50,000 for an online store, ₹60,000 for custom software. The exact figure depends on pages, Telugu copy, products and integrations, and you see each item in a written quote before any invoice.",
     },
     {
       question: "Do you build Android and iOS apps for Tuni businesses?",
@@ -231,7 +231,7 @@ const tuni: CityContent = {
     {
       question: "How long does a Tuni website take to build?",
       answer:
-        "Expect a simple site in about seven to fourteen days after your photos and details arrive. A 700+ page SEO site needs three to five weeks, a store four to eight and custom software six to twelve. For the mango season, begin in February so the store is tested well before the first boxes ship.",
+        "Expect a simple site in about seven to fourteen days after your photos and details arrive. A 299+ page SEO site needs three to five weeks, a store four to eight and custom software six to twelve. For the mango season, begin in February so the store is tested well before the first boxes ship.",
     },
     {
       question: "Who is the best website development team in Tuni?",

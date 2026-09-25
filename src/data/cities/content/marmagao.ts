@@ -35,7 +35,7 @@ const marmagao: CityContent = {
     pills: ["Sites from ₹10,000", "English and Konkani", "Port and logistics firms", "Airport-side hotels", "Replies all 7 days"],
   },
   quickAnswer:
-    "In Vasco da Gama and Mormugao, our websites start from ₹10,000 and typically launch in one to two weeks. SEO sites with 700+ pages start from ₹20,000, WhatsApp and AI automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. We are fully remote with no Goa office, and include five months of free maintenance.",
+    "In Vasco da Gama and Mormugao, our websites start from ₹10,000 and typically launch in one to two weeks. SEO sites with 299+ pages start from ₹20,000, WhatsApp and AI automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. We are fully remote with no Goa office, and include five months of free maintenance.",
   snapshot: [
     { label: "Taluka", value: "Mormugao taluka of South Goa district, with Vasco da Gama as its main town, about 30 km from Panaji" },
     { label: "Port", value: "Mormugao Port, built in 1888 and made a Major Port in 1963, known mainly for iron ore exports and with a cruise terminal" },
@@ -92,12 +92,12 @@ const marmagao: CityContent = {
       heading: "What a website costs in Vasco da Gama",
       paragraphs: [
         "Website quotes in Goa range widely. Some local designers charge very little but keep your domain in their own account; agencies in Panaji and Margao often price for their office and sales team. For a port agent, a guest house or a bakery, neither extreme makes sense. We publish our starting prices so you can compare.",
-        "A static site of up to 100 pages starts from <strong>₹10,000</strong> and usually goes live in one to two weeks. A 700+ page SEO site in English and Konkani begins at <strong>₹20,000</strong> and takes three to five weeks. WhatsApp and AI automation starts at <strong>₹40,000</strong>, online stores with UPI at <strong>₹50,000</strong> and custom software at <strong>₹60,000</strong>. Monthly SEO is available from ₹10,000. The full list is on our <a href=\"/pricing/\">pricing page</a>.",
+        "A static site of up to 100 pages starts from <strong>₹10,000</strong> and usually goes live in one to two weeks. A 299+ page SEO site in English and Konkani begins at <strong>₹20,000</strong> and takes three to five weeks. WhatsApp and AI automation starts at <strong>₹40,000</strong>, online stores with UPI at <strong>₹50,000</strong> and custom software at <strong>₹60,000</strong>. Monthly SEO is available from ₹10,000. The full list is on our <a href=\"/pricing/\">pricing page</a>.",
         "All of these are floors rather than final prices. Your quote breaks down each item, so you can see why a clearing agent with a client tracking portal costs more than a four-page bakery site.",
       ],
       list: [
         "<strong>Business site from ₹10,000:</strong> up to 100 pages, mobile layout, map, WhatsApp button and on-page basics.",
-        "<strong>SEO site from ₹20,000:</strong> 700+ pages with schema, sitemap and Search Console setup.",
+        "<strong>SEO site from ₹20,000:</strong> 299+ pages with schema, sitemap and Search Console setup.",
         "<strong>Online store from ₹50,000:</strong> catalogue, UPI and card payments, courier rules and order alerts.",
         "<strong>Custom software from ₹60,000:</strong> logins, job files, billing and reports built for your workflow.",
       ],
@@ -219,7 +219,7 @@ const marmagao: CityContent = {
     {
       question: "How much does a website cost in Vasco da Gama?",
       answer:
-        "Our business websites start from ₹10,000, 700+ page SEO sites from ₹20,000, WhatsApp and AI automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. The quote depends on pages, languages, products and features. When comparing offers, ask who will own the domain and what support follows launch.",
+        "Our business websites start from ₹10,000, 299+ page SEO sites from ₹20,000, WhatsApp and AI automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. The quote depends on pages, languages, products and features. When comparing offers, ask who will own the domain and what support follows launch.",
     },
     {
       question: "Vasco me guest house ki website banwane me kitna kharcha aata hai?",
@@ -254,7 +254,7 @@ const marmagao: CityContent = {
     {
       question: "How long does a project take?",
       answer:
-        "Static sites usually take one to two weeks, 700+ page SEO sites three to five weeks, online stores four to eight weeks and custom software six to twelve weeks. Hotels should start before the October to March season. Most delays come from waiting for photos and text, so we draft content for you to edit.",
+        "Static sites usually take one to two weeks, 299+ page SEO sites three to five weeks, online stores four to eight weeks and custom software six to twelve weeks. Hotels should start before the October to March season. Most delays come from waiting for photos and text, so we draft content for you to edit.",
     },
     {
       question: "What can WhatsApp automation do for a hotel or clearing agent?",

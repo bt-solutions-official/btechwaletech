@@ -35,7 +35,7 @@ const gwalior: CityContent = {
     pills: ["Sites from ₹10,000", "School and coaching sites", "Hotel and wedding venues", "Hindi-first SEO", "Code and domain yours"],
   },
   quickAnswer:
-    "A business website in Gwalior costs from ₹10,000 with us for a static site and from ₹20,000 for a 700+ page SEO site. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote three-engineer team with no Gwalior office, and each project comes with five months of free maintenance after launch.",
+    "A business website in Gwalior costs from ₹10,000 with us for a static site and from ₹20,000 for a 299+ page SEO site. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote three-engineer team with no Gwalior office, and each project comes with five months of free maintenance after launch.",
   snapshot: [
     { label: "Old-city markets", value: "Maharaj Bada in Lashkar, with Sarafa Bazaar, Topi Bazaar, Daulat Ganj, Nazarbagh and Subhash Market nearby" },
     { label: "Newer commercial areas", value: "City Centre, Thatipur, Phool Bagh, Padav and the Morar side of the city" },
@@ -73,7 +73,7 @@ const gwalior: CityContent = {
       heading: "How much does a website cost in Gwalior?",
       paragraphs: [
         "Gwalior website prices range from a couple of thousand rupees for a template set up by a student to forty thousand or more from agencies. The cheaper option usually skips search basics and keeps the domain in someone else's account. The more expensive one often includes features a small business does not need. Neither usually says clearly what happens after launch.",
-        "Our starting prices are published openly. A static website of up to 100 pages, suitable for a clinic, a coaching centre, a CA firm or a shop, starts at ₹10,000 and goes live in one to two weeks. A 700+ page SEO website, with separate pages for each service, course or product range, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, automation projects at ₹40,000 and monthly SEO at ₹10,000 a month.",
+        "Our starting prices are published openly. A static website of up to 100 pages, suitable for a clinic, a coaching centre, a CA firm or a shop, starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO website, with separate pages for each service, course or product range, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, automation projects at ₹40,000 and monthly SEO at ₹10,000 a month.",
         "What changes the final number is scope. A school with admissions, a gallery, notices and fee information needs more pages than a single showroom. We send an itemised quote, usually within two working days, and nothing is billed until you agree in writing. See our <a href=\"/pricing/\">pricing page</a> for the complete list.",
       ],
       list: [
@@ -209,12 +209,12 @@ const gwalior: CityContent = {
     {
       question: "How much does a website cost in Gwalior?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Other Gwalior quotes vary widely, so compare what each includes: domain ownership, SEO basics, hosting and support after launch.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Other Gwalior quotes vary widely, so compare what each includes: domain ownership, SEO basics, hosting and support after launch.",
     },
     {
       question: "Gwalior me school ki website kitne me ban jayegi?",
       answer:
-        "Chhote school ke liye basic website ₹10,000 se shuru hoti hai. Admission, fees, transport, notices aur gallery ke alag pages chahiye to 700+ pages wali website ₹20,000 se banti hai. Parent login ya fee portal chahiye to ₹60,000 se. Shuru karne se pehle aapko poora itemised quote milta hai.",
+        "Chhote school ke liye basic website ₹10,000 se shuru hoti hai. Admission, fees, transport, notices aur gallery ke alag pages chahiye to 299+ pages wali website ₹20,000 se banti hai. Parent login ya fee portal chahiye to ₹60,000 se. Shuru karne se pehle aapko poora itemised quote milta hai.",
     },
     {
       question: "Do you have an office in Gwalior?",

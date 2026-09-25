@@ -35,7 +35,7 @@ const nawada: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi and English pages", "Google Maps profile setup", "Coaching and clinic sites", "WhatsApp enquiry records"],
   },
   quickAnswer:
-    "For a Nawada business, a static website with us starts from ₹10,000 and is ready in about one to two weeks. A 700+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Nawada office, and the first five months of maintenance after launch are free.",
+    "For a Nawada business, a static website with us starts from ₹10,000 and is ready in about one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Nawada office, and the first five months of maintenance after launch are free.",
   snapshot: [
     { label: "Role", value: "Headquarters of Nawada district in Magadh division, a separate district since 26 January 1973" },
     { label: "Town", value: "About 81,000 people in 2011, split by the Khuri river into an older left bank and a newer right bank" },
@@ -74,12 +74,12 @@ const nawada: CityContent = {
       heading: "What a website costs in Nawada, and how to compare quotes",
       paragraphs: [
         "Website quotes around Nawada range from very little to surprisingly large, and the number alone tells you almost nothing. What you need to know is whether the domain will be in your name, whether you can change prices and photos later, whether search basics and your Google profile are included, and what every small change will cost after the site is live.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages, which suits most shops, clinics, coaching centres, schools and dealers, starts from ₹10,000 and takes one to two weeks. A 700+ page SEO website planned around real searches starts from ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts from ₹40,000, online stores from ₹50,000, custom software from ₹60,000 and monthly SEO from ₹10,000 a month.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages, which suits most shops, clinics, coaching centres, schools and dealers, starts from ₹10,000 and takes one to two weeks. A 299+ page SEO website planned around real searches starts from ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts from ₹40,000, online stores from ₹50,000, custom software from ₹60,000 and monthly SEO from ₹10,000 a month.",
         "The final figure depends on what you need. A coaching institute that wants online test series, student logins and results takes more work than a pharmacy with a product list. Hindi and English versions, payment links and booking forms add time. Every item is listed in the quote so you can cut anything unnecessary.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages with mobile design, enquiry form, map and search basics.",
-        "<strong>From ₹20,000:</strong> 700+ pages for hospitals, schools and institutes with many courses or services.",
+        "<strong>From ₹20,000:</strong> 299+ pages for hospitals, schools and institutes with many courses or services.",
         "<strong>From ₹50,000:</strong> an online store with cart, UPI and card payments.",
         "<strong>From ₹60,000:</strong> custom software with logins, records and reports.",
       ],
@@ -219,7 +219,7 @@ const nawada: CityContent = {
     {
       question: "How much does a website cost in Nawada?",
       answer:
-        "A static website with us starts from ₹10,000, a 700+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices only. Your written quote depends on pages, features and content, and nothing is billed before you approve it.",
+        "A static website with us starts from ₹10,000, a 299+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices only. Your written quote depends on pages, features and content, and nothing is billed before you approve it.",
     },
     {
       question: "Nawada me apni dukaan ki website banwane me kitna kharcha aayega?",
@@ -249,7 +249,7 @@ const nawada: CityContent = {
     {
       question: "How long will my website take?",
       answer:
-        "A static site generally takes one to two weeks, a 700+ page SEO website three to five weeks, an online store four to eight weeks and custom software six to twelve. Delays mostly come from waiting for photos and details, so we draft the text for you to correct.",
+        "A static site generally takes one to two weeks, a 299+ page SEO website three to five weeks, an online store four to eight weeks and custom software six to twelve. Delays mostly come from waiting for photos and details, so we draft the text for you to correct.",
     },
     {
       question: "Can Kadirganj silk be sold online through our own store?",

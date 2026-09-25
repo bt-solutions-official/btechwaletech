@@ -199,7 +199,7 @@ const content: CityContent = {
       heading: "SEO and AI-search visibility for Maharashtra businesses",
       paragraphs: [
         "SEO for Maharashtra businesses means appearing when buyers search by city, product or service in Marathi, Hindi or English, and being described accurately by AI tools such as Google AI Overviews and ChatGPT. It depends on fast, well-structured pages, city and service pages, schema markup and a maintained Google Business Profile.",
-        "A Pune manufacturer needs product and capability pages for procurement teams. A Nashik exporter needs pages buyers abroad can trust. A Kolhapur clinic needs doctor and treatment pages in Marathi. Static sites start at ₹10,000, 700+ page SEO websites at ₹20,000 and monthly SEO at ₹10,000.",
+        "A Pune manufacturer needs product and capability pages for procurement teams. A Nashik exporter needs pages buyers abroad can trust. A Kolhapur clinic needs doctor and treatment pages in Marathi. Static sites start at ₹10,000, 299+ page SEO websites at ₹20,000 and monthly SEO at ₹10,000.",
         "We never guarantee rankings and avoid shortcuts like bought links. See our <a href='/services/seo-services/'>SEO services</a> and <a href='/services/web-development/'>web development</a> pages for how we work.",
       ],
     },
@@ -216,7 +216,7 @@ const content: CityContent = {
       id: "cost-timeline-mh",
       heading: "What do IT services cost in Maharashtra, and how long do they take?",
       paragraphs: [
-        "Pricing from one IT services team in Maharashtra to the next varies enormously, but BtechWaleTech's starting prices are ₹10,000 for a static website (1 to 2 weeks), ₹20,000 for a 700+ page SEO website (3 to 5 weeks), ₹40,000 for Android and iOS apps (6 to 10 weeks), ₹40,000 for AI automation (2 to 4 weeks), ₹50,000 for ecommerce (4 to 8 weeks) and ₹60,000 for custom software (6 to 12 weeks).",
+        "Pricing from one IT services team in Maharashtra to the next varies enormously, but BtechWaleTech's starting prices are ₹10,000 for a static website (1 to 2 weeks), ₹20,000 for a 299+ page SEO website (3 to 5 weeks), ₹40,000 for Android and iOS apps (6 to 10 weeks), ₹40,000 for AI automation (2 to 4 weeks), ₹50,000 for ecommerce (4 to 8 weeks) and ₹60,000 for custom software (6 to 12 weeks).",
         "Cost rises with user roles, integrations, reports, languages and data migration. Linking to Tally, importing years of records, or supporting several plants adds scope. We list each item separately so you can phase the build. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after five free months.",
         "Payment is by UPI QR code or bank transfer in INR, in milestones written into the quote. Full details are on the <a href='/pricing/'>pricing page</a>.",
       ],

@@ -35,7 +35,7 @@ const sirsa: CityContent = {
     pills: ["Sites from ₹10,000", "Punjabi, Hindi and English", "Mandi and mill websites", "Kinnow pre-order stores", "WhatsApp rate replies"],
   },
   quickAnswer:
-    "In Sirsa, a basic business website with us starts at ₹10,000 and is ready in one to two weeks. A 700+ page SEO site starts from ₹20,000 and an online store from ₹50,000. We are a remote team of three engineers with no office in Sirsa, and maintenance is free for five months after launch.",
+    "In Sirsa, a basic business website with us starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO site starts from ₹20,000 and an online store from ₹50,000. We are a remote team of three engineers with no office in Sirsa, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Location", value: "Haryana's westernmost district, about 250 km north-west of Delhi, near the Punjab and Rajasthan borders" },
     { label: "Farm economy", value: "Known as the cotton belt of Haryana; paddy, cotton and bajra in kharif, wheat, gram and mustard in rabi" },
@@ -73,7 +73,7 @@ const sirsa: CityContent = {
       heading: "Website prices in Sirsa and what moves them up or down",
       paragraphs: [
         "Ask five people in Sirsa what a website costs and you will hear five answers, from a nephew who offers to do it for free to an agency in Chandigarh quoting a large sum. The free and very cheap routes usually leave the domain in someone else's account and skip Google setup. The costly ones often bundle office overheads and account managers into your bill.",
-        "We keep our rates visible on the <a href=\"/pricing/\">pricing page</a>, and every figure is a starting point. A static site with up to 100 pages begins at ₹10,000 and normally goes live in one to two weeks. A search-led site of 700+ pages begins at ₹20,000 and needs three to five weeks. Online shops begin at ₹50,000, bespoke web software at ₹60,000, AI and WhatsApp automation at ₹40,000 and ongoing SEO at ₹10,000 per month.",
+        "We keep our rates visible on the <a href=\"/pricing/\">pricing page</a>, and every figure is a starting point. A static site with up to 100 pages begins at ₹10,000 and normally goes live in one to two weeks. A search-led site of 299+ pages begins at ₹20,000 and needs three to five weeks. Online shops begin at ₹50,000, bespoke web software at ₹60,000, AI and WhatsApp automation at ₹40,000 and ongoing SEO at ₹10,000 per month.",
         "What pushes a quote higher is volume and complexity: forty cooler models with specifications take more work than a clinic's five doctors. Within roughly two working days you get a written breakdown, line by line, and we raise no bill until you sign off on it.",
       ],
       list: [
@@ -219,12 +219,12 @@ const sirsa: CityContent = {
     {
       question: "What does a website cost in Sirsa?",
       answer:
-        "Our rates begin at ₹10,000 for a static site, ₹20,000 for a 700+ page SEO site, ₹50,000 for an online shop and ₹60,000 for custom web software. Your actual quote depends on page count, products and features. Whoever you choose, confirm that the domain is registered to you and that search setup and post-launch help are part of the price.",
+        "Our rates begin at ₹10,000 for a static site, ₹20,000 for a 299+ page SEO site, ₹50,000 for an online shop and ₹60,000 for custom web software. Your actual quote depends on page count, products and features. Whoever you choose, confirm that the domain is registered to you and that search setup and post-launch help are part of the price.",
     },
     {
       question: "Sirsa vich website banwaan da kharcha kinna aunda hai?",
       answer:
-        "Saade kol simple business website ₹10,000 ton shuru hundi hai te ikk-do hafteyan vich tyaar ho jaandi hai. 700+ page wali SEO website ₹20,000 ton te online store ₹50,000 ton shuru hunda hai. Kamm shuru karan ton pehlan tuhanu likhti itemised quote milegi, te tuhadi manzoori ton baad hi bill banega.",
+        "Saade kol simple business website ₹10,000 ton shuru hundi hai te ikk-do hafteyan vich tyaar ho jaandi hai. 299+ page wali SEO website ₹20,000 ton te online store ₹50,000 ton shuru hunda hai. Kamm shuru karan ton pehlan tuhanu likhti itemised quote milegi, te tuhadi manzoori ton baad hi bill banega.",
     },
     {
       question: "Is there a BtechWaleTech office in Sirsa I can visit?",
@@ -254,7 +254,7 @@ const sirsa: CityContent = {
     {
       question: "How many weeks until my site is live?",
       answer:
-        "Plan on one to two weeks for a static site, three to five for a 700+ page SEO build, four to eight for an online shop and six to twelve for custom software. Projects mostly slow down while we wait for photos and product lists, so we write first drafts ourselves to keep things moving.",
+        "Plan on one to two weeks for a static site, three to five for a 299+ page SEO build, four to eight for an online shop and six to twelve for custom software. Projects mostly slow down while we wait for photos and product lists, so we write first drafts ourselves to keep things moving.",
     },
     {
       question: "What would WhatsApp automation do for a Sirsa business?",

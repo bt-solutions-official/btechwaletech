@@ -35,7 +35,7 @@ const thrissur: CityContent = {
     pills: ["From ₹10,000", "Jewellery catalogues", "Malayalam-ready pages", "AI and WhatsApp workflows", "Full ownership"],
   },
   quickAnswer:
-    "Our Thrissur websites start at ₹10,000 for a static business site and ₹20,000 for a 700+ page SEO site, taking one to five weeks. Online stores start at ₹50,000 and AI automation at ₹40,000. We are three remote engineers without a Thrissur office, and each project includes hosting setup, SEO basics and five months of free maintenance.",
+    "Our Thrissur websites start at ₹10,000 for a static business site and ₹20,000 for a 299+ page SEO site, taking one to five weeks. Online stores start at ₹50,000 and AI automation at ₹40,000. We are three remote engineers without a Thrissur office, and each project includes hosting setup, SEO basics and five months of free maintenance.",
   snapshot: [
     { label: "City centre", value: "Swaraj Round around the Vadakkunnathan Temple, with MG Road, Round South and the Sakthan Thampuran area" },
     { label: "Gold and textiles", value: "Makes around 70% of Kerala's gold jewellery; home to large jewellery and silk retail groups" },
@@ -73,12 +73,12 @@ const thrissur: CityContent = {
       heading: "What websites cost in Thrissur, and why quotes differ",
       paragraphs: [
         "Quotes for a similar business website in Thrissur can differ by ten times. At the bottom are template sites put together in a day on the developer's hosting, without any search setup. At the top are agency proposals that include account managers, office costs and features you may never use. The price difference is rarely explained in writing.",
-        "Our starting rates are published. A static site of up to 100 pages is from ₹10,000 and takes one to two weeks. A 700+ page SEO website, with its own page for each service and each locality you serve, is from ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, custom web applications at ₹60,000, and monthly SEO at ₹10,000. Details are on the <a href=\"/pricing/\">pricing page</a>.",
+        "Our starting rates are published. A static site of up to 100 pages is from ₹10,000 and takes one to two weeks. A 299+ page SEO website, with its own page for each service and each locality you serve, is from ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, custom web applications at ₹60,000, and monthly SEO at ₹10,000. Details are on the <a href=\"/pricing/\">pricing page</a>.",
         "Once we understand your business, you receive an itemised quote in about two working days. It names every page, integration and deliverable, with the timeline. We start and bill only after your written approval, and you are free to trim items to fit your budget.",
       ],
       list: [
         "<strong>₹10,000 onwards:</strong> a compact site for a clinic, architect, CA, tutor or boutique.",
-        "<strong>₹20,000 onwards:</strong> 700+ pages built around Thrissur search phrases and localities.",
+        "<strong>₹20,000 onwards:</strong> 299+ pages built around Thrissur search phrases and localities.",
         "<strong>₹50,000 onwards:</strong> a store for silk, Ayurveda, snacks or handicrafts with UPI checkout.",
         "<strong>₹60,000 onwards:</strong> member portals, branch dashboards and collection systems.",
       ],
@@ -218,7 +218,7 @@ const thrissur: CityContent = {
     {
       question: "How much does a website cost in Thrissur?",
       answer:
-        "Our static business websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. Prices around Thrissur vary widely, so compare what is included: search setup, ownership of domain and hosting, and support after launch.",
+        "Our static business websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. Prices around Thrissur vary widely, so compare what is included: search setup, ownership of domain and hosting, and support after launch.",
     },
     {
       question: "Thrissuril oru website cheyyan ethra rupa venam?",
@@ -253,7 +253,7 @@ const thrissur: CityContent = {
     {
       question: "How long will a website take?",
       answer:
-        "A static website takes about one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Delays usually come from waiting for photos and product information, so we draft text that you can correct.",
+        "A static website takes about one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Delays usually come from waiting for photos and product information, so we draft text that you can correct.",
     },
     {
       question: "What can AI automation do for a Thrissur business?",

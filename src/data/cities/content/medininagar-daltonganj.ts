@@ -39,7 +39,7 @@ const medininagar: CityContent = {
     pills: ["Websites ₹10,000 onwards", "Android & iOS apps from ₹40,000", "Hindi and Magahi-friendly copy", "Coaching and clinic tools", "Owner-held accounts"],
   },
   quickAnswer:
-    "For businesses in Medininagar (Daltonganj), our websites cost ₹10,000 onwards and a basic site takes about one to two weeks. Android and iOS apps are ₹40,000 onwards, WhatsApp and AI automation also ₹40,000 onwards, 700+ page SEO sites ₹20,000 onwards and online stores ₹50,000 onwards. We have no local office; the domain and code are always yours.",
+    "For businesses in Medininagar (Daltonganj), our websites cost ₹10,000 onwards and a basic site takes about one to two weeks. Android and iOS apps are ₹40,000 onwards, WhatsApp and AI automation also ₹40,000 onwards, 299+ page SEO sites ₹20,000 onwards and online stores ₹50,000 onwards. We have no local office; the domain and code are always yours.",
   snapshot: [
     { label: "Status", value: "Headquarters of Palamu district and of Palamu division; municipal corporation since 2015" },
     { label: "Name", value: "Daltonganj until 2004, after Colonel Edward Tuite Dalton; renamed for Raja Medini Ray of the Chero dynasty" },
@@ -157,7 +157,7 @@ const medininagar: CityContent = {
       id: "website-cost-daltonganj",
       heading: "Website cost in Daltonganj: starting figures and how to compare",
       paragraphs: [
-        "Our entry prices apply in Medininagar as they do everywhere. You can get a static website of up to 100 pages for ₹10,000 onwards, usually in one to two weeks. A 700-plus page SEO website begins at ₹20,000 and takes three to five weeks. Android and iOS apps begin at ₹40,000. AI automation begins at ₹40,000 with two to four weeks of work. Online stores begin at ₹50,000 over four to eight weeks, custom software at ₹60,000 over six to twelve weeks, and monthly SEO at ₹10,000.",
+        "Our entry prices apply in Medininagar as they do everywhere. You can get a static website of up to 100 pages for ₹10,000 onwards, usually in one to two weeks. A 299-plus page SEO website begins at ₹20,000 and takes three to five weeks. Android and iOS apps begin at ₹40,000. AI automation begins at ₹40,000 with two to four weeks of work. Online stores begin at ₹50,000 over four to eight weeks, custom software at ₹60,000 over six to twelve weeks, and monthly SEO at ₹10,000.",
         "The figure grows with scope: extra pages, a second language, a long product list, courier and UPI checkout, logins for students or retailers, and links to Tally. If you give us the text and photographs, the quote stays near the entry price. Content written by us appears as a separate line.",
         "Prices from other developers in Palamu vary widely. Ask each of them whose name will be on the domain and hosting, whether phone testing and basic SEO come included, how many rounds of edits are covered, and who fixes things after launch. Starting points are on our <a href=\"/pricing/\">pricing page</a>, and an itemised quote follows in about two working days.",
       ],
@@ -218,7 +218,7 @@ const medininagar: CityContent = {
     {
       question: "What is the website cost in Medininagar (Daltonganj)?",
       answer:
-        "Websites are ₹10,000 onwards for a static site, ₹20,000 onwards for a 700+ page SEO site, ₹50,000 onwards for an online store and ₹60,000 onwards for custom software. The final quote rises with pages, languages, products and integrations. It is sent to you in writing, line by line, and nothing is billed before you approve it.",
+        "Websites are ₹10,000 onwards for a static site, ₹20,000 onwards for a 299+ page SEO site, ₹50,000 onwards for an online store and ₹60,000 onwards for custom software. The final quote rises with pages, languages, products and integrations. It is sent to you in writing, line by line, and nothing is billed before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Medininagar businesses?",
@@ -228,7 +228,7 @@ const medininagar: CityContent = {
     {
       question: "How fast can a Daltonganj business get a website?",
       answer:
-        "Once your text and photographs are with us, a static site usually takes one to two weeks. An SEO site of 700+ pages needs three to five weeks, a store four to eight weeks and custom software six to twelve weeks. Content that arrives late is the usual reason for delays, so collecting it early saves time.",
+        "Once your text and photographs are with us, a static site usually takes one to two weeks. An SEO site of 299+ pages needs three to five weeks, a store four to eight weeks and custom software six to twelve weeks. Content that arrives late is the usual reason for delays, so collecting it early saves time.",
     },
     {
       question: "Who is the best website development team in Medininagar?",

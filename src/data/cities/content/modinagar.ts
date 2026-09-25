@@ -35,7 +35,7 @@ const modinagar: CityContent = {
     pills: ["Websites from ₹10,000", "School and coaching sites", "Hindi and English pages", "Google Maps fixes", "WhatsApp enquiry logging"],
   },
   quickAnswer:
-    "For a Modinagar business, a website with us starts at ₹10,000 and goes live in one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are three engineers working remotely with no Modinagar office, and maintenance is free for five months after launch.",
+    "For a Modinagar business, a website with us starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are three engineers working remotely with no Modinagar office, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Location", value: "Ghaziabad district in the National Capital Region, roughly midway between Ghaziabad and Meerut" },
     { label: "Origin", value: "Formerly Begumabad; renamed Modinagar in 1945 after Gujarmal Modi, who began building industry here in 1933" },
@@ -73,12 +73,12 @@ const modinagar: CityContent = {
       heading: "Website pricing in Modinagar, without the guesswork",
       paragraphs: [
         "Modinagar business owners hear very different numbers. A local operator may offer a site for ₹2,500, while an agency in Noida or Ghaziabad may quote ₹40,000 or more for something similar. Cheap offers often skip search setup, keep the domain in the builder's name and vanish after launch; expensive ones include office and sales costs you may not need to pay for.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages is from ₹10,000 and takes one to two weeks. A 700+ page site built around search is from ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, AI and WhatsApp automation at ₹40,000 and monthly SEO at ₹10,000.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages is from ₹10,000 and takes one to two weeks. A 299+ page site built around search is from ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, AI and WhatsApp automation at ₹40,000 and monthly SEO at ₹10,000.",
         "A clinic with one doctor needs less work than a school with twelve classes, transport routes and a notice board, or a trader listing three hundred products. You receive an itemised quote in about two working days, and nothing is billed until you say yes in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, Hindi and English, mobile layout, map, WhatsApp and call buttons, basic SEO.",
-        "<strong>From ₹20,000:</strong> 700+ pages, one per service, class, course or product range.",
+        "<strong>From ₹20,000:</strong> 299+ pages, one per service, class, course or product range.",
         "<strong>From ₹50,000:</strong> online store with UPI, cards and delivery settings.",
         "<strong>From ₹60,000:</strong> custom systems such as fee management, admissions tracking or vendor portals.",
       ],
@@ -108,7 +108,7 @@ const modinagar: CityContent = {
       paragraphs: [
         "The Delhi–Meerut road runs straight through Modinagar, and much of the town's retail sits along it: furniture, electronics, clothing, jewellery, vehicle dealers, restaurants and wedding venues. Those shops compete with Meerut and Ghaziabad for the same customers, who can now reach either city quickly.",
         "The first job is to make sure people searching nearby actually see you. That means a correct Google Business Profile with the right category, accurate pin, real photos of the storefront, opening hours and reviews. A small website with product categories, current offers and a WhatsApp button turns that search into a visit.",
-        "Larger showrooms benefit from a 20 to 700+ page site with a page per category or brand, so a customer in Muradnagar or a nearby village searching for a specific sofa, phone or bridal outfit finds you before driving to a bigger city.",
+        "Larger showrooms benefit from a 20 to 299+ page site with a page per category or brand, so a customer in Muradnagar or a nearby village searching for a specific sofa, phone or bridal outfit finds you before driving to a bigger city.",
       ],
     },
     {
@@ -219,12 +219,12 @@ const modinagar: CityContent = {
     {
       question: "How much does a website cost in Modinagar?",
       answer:
-        "With us, a static site starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. When comparing quotes from Modinagar, Ghaziabad or Meerut, check whether the domain is in your name, whether basic SEO is included and who fixes problems after launch.",
+        "With us, a static site starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. When comparing quotes from Modinagar, Ghaziabad or Meerut, check whether the domain is in your name, whether basic SEO is included and who fixes problems after launch.",
     },
     {
       question: "Modinagar me school ki website banwane ka kharcha kitna hai?",
       answer:
-        "Chhoti school website humare saath ₹10,000 se shuru hoti hai, aur admission, fees, transport aur notice board wali 700+ page ki website ₹20,000 se. Fee management jaisa custom system ₹60,000 se. Kaam shuru hone se pehle likhit, item-wise quote milta hai aur aapki manzoori ke bina koi bill nahi banta.",
+        "Chhoti school website humare saath ₹10,000 se shuru hoti hai, aur admission, fees, transport aur notice board wali 299+ page ki website ₹20,000 se. Fee management jaisa custom system ₹60,000 se. Kaam shuru hone se pehle likhit, item-wise quote milta hai aur aapki manzoori ke bina koi bill nahi banta.",
     },
     {
       question: "Do you have an office in Modinagar or Ghaziabad?",
@@ -244,7 +244,7 @@ const modinagar: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. The usual delay is waiting for photos, fee details or product lists, so we send a checklist and draft the text for your approval.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. The usual delay is waiting for photos, fee details or product lists, so we send a checklist and draft the text for your approval.",
     },
     {
       question: "Can my website be in Hindi?",

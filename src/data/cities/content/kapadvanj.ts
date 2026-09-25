@@ -39,7 +39,7 @@ const kapadvanj: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Gujarati-first local SEO", "GIDC unit catalogues", "Accounts in your name"],
   },
   quickAnswer:
-    "A Kapadvanj business website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, an SEO website of 700+ pages at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team without a Kapadvanj office, and you own everything we build.",
+    "A Kapadvanj business website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, an SEO website of 299+ pages at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team without a Kapadvanj office, and you own everything we build.",
   snapshot: [
     { label: "Location", value: "Town and taluka headquarters in Kheda district, about 65 km from Ahmedabad and 93 km from Vadodara" },
     { label: "River", value: "On the bank of the Mohar river; semi-arid climate with hot summers" },
@@ -129,7 +129,7 @@ const kapadvanj: CityContent = {
       paragraphs: [
         "Most searches for Kapadvanj businesses happen on phones and are local. People search in Gujarati, English or a mix, often by voice: “Kapadvanj ma dentist”, “hardware shop near Kapadvanj bus stand”, “school in Kapadwanj”. The town is also spelt Kapadwanj, and good listings account for both spellings naturally.",
         "Our <strong>SEO services in Kapadvanj</strong> start with the Google Business Profile: correct category, hours, photographs, service areas across the taluka and a pin that matches your entrance. Then we write website pages around the questions customers actually ask, keep your name, address and phone number consistent everywhere, and help you request genuine reviews from satisfied customers.",
-        "For businesses that sell beyond the town, such as textile shops, small manufacturers or tuition classes with online batches, we create topic pages that answer wider searches. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. Monthly SEO starts at ₹10,000 a month for new pages, listing updates, fixes and a plain report; more on our <a href=\"/services/seo-services/\">SEO services</a> page.",
+        "For businesses that sell beyond the town, such as textile shops, small manufacturers or tuition classes with online batches, we create topic pages that answer wider searches. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Monthly SEO starts at ₹10,000 a month for new pages, listing updates, fixes and a plain report; more on our <a href=\"/services/seo-services/\">SEO services</a> page.",
         "No honest provider can promise the top spot, and we do not. We promise correct groundwork, steady improvement and clear reporting of calls, direction requests and enquiries.",
       ],
     },
@@ -157,7 +157,7 @@ const kapadvanj: CityContent = {
       id: "website-cost-kapadvanj",
       heading: "Website cost in Kapadvanj: starting prices and how to compare quotes",
       paragraphs: [
-        "The <strong>website cost in Kapadvanj</strong> depends on what you need the site to do. With us a static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 700+ pages starts at ₹20,000 and takes three to five weeks. Ecommerce starts at ₹50,000, custom software at ₹60,000, and Android and iOS apps and AI automation at ₹40,000.",
+        "The <strong>website cost in Kapadvanj</strong> depends on what you need the site to do. With us a static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 299+ pages starts at ₹20,000 and takes three to five weeks. Ecommerce starts at ₹50,000, custom software at ₹60,000, and Android and iOS apps and AI automation at ₹40,000.",
         "Local quotes vary widely. When comparing, check the number of pages, who writes Gujarati content, whether the domain and hosting are in your name, how many rounds of changes are included, what happens after launch and what renewals will cost in the second year. A low first figure can hide higher yearly charges.",
         "Our itemised quote usually arrives in about two working days, and nothing is billed before you approve it in writing. Every figure is a starting price that increases only with the features you add. The full list is on the <a href=\"/pricing/\">pricing page</a>.",
         "When budget is limited, start with a small site and a proper Google listing, then add a store, software or an app as the business shows the need. Building in that order almost always costs less overall.",
@@ -220,7 +220,7 @@ const kapadvanj: CityContent = {
     {
       question: "What is the website cost in Kapadvanj?",
       answer:
-        "With us a static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 700+ pages starts at ₹20,000 and an online store at ₹50,000. These are starting prices only; the written quote lists every item and changes only with the features you choose.",
+        "With us a static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 299+ pages starts at ₹20,000 and an online store at ₹50,000. These are starting prices only; the written quote lists every item and changes only with the features you choose.",
     },
     {
       question: "Which is a good website development team in Kapadvanj?",
@@ -255,7 +255,7 @@ const kapadvanj: CityContent = {
     {
       question: "Kapadvanj ma website banavvano kharch ketlo thay?",
       answer:
-        "Amari sathe simple website ₹10,000 thi sharu thay chhe ane ek-be athvadiya ma taiyar thay chhe. 700+ page ni SEO website ₹20,000 thi, Android ane iOS app ₹40,000 thi ane online store ₹50,000 thi sharu thay chhe. Likhit quote lagbhag be working divas ma male chhe.",
+        "Amari sathe simple website ₹10,000 thi sharu thay chhe ane ek-be athvadiya ma taiyar thay chhe. 299+ page ni SEO website ₹20,000 thi, Android ane iOS app ₹40,000 thi ane online store ₹50,000 thi sharu thay chhe. Likhit quote lagbhag be working divas ma male chhe.",
     },
     {
       question: "You have no office in Kapadvanj. Is remote work reliable?",

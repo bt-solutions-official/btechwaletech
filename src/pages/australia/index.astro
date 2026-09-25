@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "@layouts/BaseLayout.astro";
+import { countryPageLinks } from "@data/keywords/page-links";
 import { createPageSeo } from "@lib/seo/seo-config";
 import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
 import { breadcrumbListSchema, faqSchema } from "@lib/schema/schema";
@@ -17,7 +18,7 @@ const faqs = [
   },
   {
     question: "How much does a website cost for an Australian business?",
-    answer: `With us, a static website of up to 100 pages starts from ${usd("Static")}, a 700+ page SEO website from ${usd("SEO website")}, AI automation from ${usd("AI automation")}, an ecommerce store from ${usd("Ecommerce")} and a custom web app from ${usd("Custom web app")}. Monthly SEO starts from ${usd("Monthly SEO")} and maintenance from ${usd("Maintenance")}. These are starting prices in US dollars; the final quote depends on your requirements.`,
+    answer: `With us, a static website of up to 100 pages starts from ${usd("Static")}, a 299+ page SEO website from ${usd("SEO website")}, AI automation from ${usd("AI automation")}, an ecommerce store from ${usd("Ecommerce")} and a custom web app from ${usd("Custom web app")}. Monthly SEO starts from ${usd("Monthly SEO")} and maintenance from ${usd("Maintenance")}. These are starting prices in US dollars; the final quote depends on your requirements.`,
   },
   {
     question: "Can you invoice in Australian dollars?",
@@ -77,7 +78,7 @@ const faqs = [
   },
   {
     question: "How long does a website project take?",
-    answer: "A static website usually takes one to two weeks, a 700+ page SEO website three to five weeks, AI automation two to four weeks, an ecommerce store four to eight weeks and a custom web app six to twelve weeks. Content and approvals arriving on time matter more than anything else, including the time difference.",
+    answer: "A static website usually takes one to two weeks, a 299+ page SEO website three to five weeks, AI automation two to four weeks, an ecommerce store four to eight weeks and a custom web app six to twelve weeks. Content and approvals arriving on time matter more than anything else, including the time difference.",
   },
   {
     question: "Can you redesign our existing site without losing Google rankings?",
@@ -249,7 +250,7 @@ const guide: GuideSection[] = [
     heading: "Our services for the Australian market, in detail",
     paragraphs: [
       "<strong>Website development.</strong> Business websites, landing pages and content sites built on modern frameworks such as Astro and Next.js, or on WordPress when your team wants to edit pages themselves. For most service businesses we recommend a static site: it loads quickly on a phone with one bar of 4G in a regional town, it is cheap to host, and there is very little to hack. The static plan covers up to 100 pages, responsive layouts, enquiry forms, hosting, SSL and deployment. Everything is written in Australian English, with enquiry rather than inquiry, optimise rather than optimize, prices shown with GST included where you sell to consumers, dates as DD/MM/YYYY and phone numbers formatted the way Australians dial them. The <a href=\"/services/web-development/\">web development service page</a> covers the technical detail.",
-      "<strong>SEO websites at scale.</strong> Some businesses genuinely need hundreds of pages: a trade that covers many suburbs, a directory, a comparison site, or a catalogue of products and variations. Our SEO website plan covers 700+ pages built around search intent, with keyword and page planning, schema, a sitemap and internal linking, taken from design to deployment. The key word is genuine. We only plan location pages for places you actually serve and have something specific to say about, because thin copies with the suburb name swapped are exactly what Google's helpful content and spam systems are designed to demote.",
+      "<strong>SEO websites at scale.</strong> Some businesses genuinely need hundreds of pages: a trade that covers many suburbs, a directory, a comparison site, or a catalogue of products and variations. Our SEO website plan covers 299+ pages built around search intent, with keyword and page planning, schema, a sitemap and internal linking, taken from design to deployment. The key word is genuine. We only plan location pages for places you actually serve and have something specific to say about, because thin copies with the suburb name swapped are exactly what Google's helpful content and spam systems are designed to demote.",
       "<strong>Ecommerce.</strong> Online stores on Shopify, WooCommerce or a custom stack, chosen according to your catalogue, budget and how much control you want. We set up Stripe, Shopify Payments, PayPal, Square, Afterpay and Zip where they suit your platform, configure GST-inclusive pricing and shipping rules that reflect what Australia Post, Sendle or your courier actually charge to regional and remote postcodes, and connect orders to Xero or MYOB. The ecommerce section below goes into payments and delivery in more depth.",
       "<strong>SEO for google.com.au.</strong> Monthly SEO covers technical health, on-page work, content and local search. For businesses that serve a metro area or a region we focus on service pages, suburb pages where they are justified, and Google Business Profile guidance. For national online stores we focus on category and product pages. If you also trade in New Zealand, we set up separate en-AU and en-NZ pages with hreflang so each market sees the right prices and spelling. More on the <a href=\"/services/seo-services/\">SEO services page</a>.",
       "<strong>Custom software and web apps.</strong> Client portals, booking and quoting tools, staff dashboards, job tracking for field teams, membership areas and internal admin panels. A common Australian example is a trades or facilities business that has outgrown spreadsheets but finds off-the-shelf job software too rigid for one part of its workflow. Another is an allied health practice that wants a patient intake form which writes directly into its practice management system. Many requests for a mobile app are better served by a progressive web app that installs from the browser and updates without app store review.",
@@ -341,7 +342,7 @@ const guide: GuideSection[] = [
     ],
     list: [
       `<strong>From ${usd("Static")}, static website:</strong> a service business, clinic, consultant or tradie with a home page, service pages, about, contact and gallery, up to 100 pages, using content you supply. Enquiry form, click-to-call, basic SEO tags, sitemap, hosting setup and deployment included.`,
-      `<strong>From ${usd("SEO website")}, SEO website of 700+ pages:</strong> a structured site built around search intent, such as a service business with genuine service and location combinations or a large catalogue of product types, with keyword planning, schema and internal linking.`,
+      `<strong>From ${usd("SEO website")}, SEO website of 299+ pages:</strong> a structured site built around search intent, such as a service business with genuine service and location combinations or a large catalogue of product types, with keyword planning, schema and internal linking.`,
       `<strong>From ${usd("AI automation")}, AI automation:</strong> one well-defined workflow, for example website enquiries created as jobs in ServiceM8 with an SMS acknowledgement and a follow-up reminder if nobody responds within an hour.`,
       `<strong>From ${usd("Ecommerce")}, ecommerce store:</strong> product and category pages, cart and checkout, a payment provider, GST settings, shipping rules, order basics and performance tuning, for a catalogue you can supply in a structured spreadsheet.`,
       `<strong>From ${usd("Custom web app")}, custom web app:</strong> a focused first version of a portal, dashboard or internal tool with user accounts, roles, an admin panel and deployment.`,
@@ -524,6 +525,7 @@ const relatedLinks = [
   { name: "Pricing", href: "/pricing/" },
   { name: "Portfolio", href: "/portfolio/" },
 ];
+const servicePages = countryPageLinks("australia");
 ---
 
 <BaseLayout meta={page} schema={[webPageSchema, professionalServiceSchema, breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs)]}>
@@ -843,6 +845,21 @@ const relatedLinks = [
       </div>
     </div>
   </section>
+
+  <!-- ===================== SERVICE PAGES ===================== -->
+  {servicePages.length > 0 && (
+    <section class="locations" aria-labelledby="service-pages-heading">
+      <div class="section-wrap">
+        <div class="section-head">
+          <p class="eyebrow">Services and guides</p>
+          <h2 id="service-pages-heading">Everything we build for Australian businesses</h2>
+        </div>
+        <div class="city-cloud">
+          {servicePages.map((p) => <a class="city-chip" href={p.href}>{p.name}</a>)}
+        </div>
+      </div>
+    </section>
+  )}
 
   <!-- ===================== RELATED ===================== -->
   <section class="locations" aria-labelledby="related-heading">

@@ -40,7 +40,7 @@ const nelamangala: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Warehouse and fleet software", "Kannada + English local SEO", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Nelamangala business, a website with BtechWaleTech starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and warehouse or custom software at ₹60,000. We work remotely and you own every account.",
+    "For a Nelamangala business, a website with BtechWaleTech starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and warehouse or custom software at ₹60,000. We work remotely and you own every account.",
   snapshot: [
     { label: "Where it is", value: "Taluk headquarters in Bengaluru North district (renamed from Bangalore Rural in 2025), north-west of Bengaluru" },
     { label: "Highways", value: "Junction of NH 48 (Bengaluru–Tumakuru) and NH 75 (towards Kunigal, Hassan and Mangaluru)" },
@@ -159,7 +159,7 @@ const nelamangala: CityContent = {
       id: "website-cost-nelamangala",
       heading: "How much does a website cost in Nelamangala?",
       paragraphs: [
-        "A basic business website in Nelamangala starts at ₹10,000 with us, and covers anything up to 100 pages, usually finished in one to two weeks. That suits a workshop, clinic, school or shop. A larger SEO website of 700 pages or more starts at ₹20,000 and takes three to five weeks; warehouse operators and transporters use this size to cover every route, service and nearby area properly.",
+        "A basic business website in Nelamangala starts at ₹10,000 with us, and covers anything up to 100 pages, usually finished in one to two weeks. That suits a workshop, clinic, school or shop. A larger SEO website of 299 pages or more starts at ₹20,000 and takes three to five weeks; warehouse operators and transporters use this size to cover every route, service and nearby area properly.",
         "Beyond websites, Android and iOS apps start at ₹40,000, and so does AI automation. Online stores for agarbathi or silk start at ₹50,000. Custom software such as a dock, gate pass or trip system starts at ₹60,000. Monthly SEO is ₹10,000 onwards, and maintenance is ₹8,000 a month onwards once the free five months end. All of these are starting points; the <a href=\"/pricing/\">pricing page</a> lists them together.",
         "The figure moves up only with things you choose: Kannada pages, a large product range, driver logins, payment collection, Tally or ERP links, or copywriting if you do not want to write the text yourself. Quotes from different Bengaluru-side developers vary widely for similar-looking jobs, so compare what is included rather than the headline number. Ask who owns the domain and code, whether the site is tested on cheap Android phones, how many revision rounds are covered, and what support costs after year one.",
       ],
@@ -220,7 +220,7 @@ const nelamangala: CityContent = {
     {
       question: "What is the website cost in Nelamangala?",
       answer:
-        "In Nelamangala, our static websites start at ₹10,000, SEO websites of 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final figure depends on pages, Kannada content, products and integrations, and you receive it itemised in writing before any billing.",
+        "In Nelamangala, our static websites start at ₹10,000, SEO websites of 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final figure depends on pages, Kannada content, products and integrations, and you receive it itemised in writing before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Nelamangala businesses?",
@@ -235,7 +235,7 @@ const nelamangala: CityContent = {
     {
       question: "How long does it take to get a website for a Nelamangala shop or clinic?",
       answer:
-        "A simple website for a Nelamangala shop or clinic is usually live in one to two weeks after we receive your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Sending content early is the biggest thing that speeds a project up.",
+        "A simple website for a Nelamangala shop or clinic is usually live in one to two weeks after we receive your photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Sending content early is the biggest thing that speeds a project up.",
     },
     {
       question: "Which is the best IT services team in Nelamangala for a small business?",
@@ -260,7 +260,7 @@ const nelamangala: CityContent = {
     {
       question: "Nelamangala me website banwane ka kharcha kitna hai?",
       answer:
-        "Nelamangala me hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte me taiyaar ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Final quote aapke features ke hisaab se likhit me milta hai.",
+        "Nelamangala me hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte me taiyaar ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Final quote aapke features ke hisaab se likhit me milta hai.",
     },
     {
       question: "You have no office in Nelamangala. How do I know the work is safe?",

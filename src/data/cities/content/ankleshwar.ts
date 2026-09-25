@@ -39,7 +39,7 @@ const ankleshwar: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Product catalogues for chemical units", "Gujarati and English SEO", "Code and domain in your name"],
   },
   quickAnswer:
-    "For an Ankleshwar business, a website with us starts at ₹10,000 and typically goes live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Ankleshwar office, and you own every account.",
+    "For an Ankleshwar business, a website with us starts at ₹10,000 and typically goes live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Ankleshwar office, and you own every account.",
   snapshot: [
     { label: "Location", value: "Bharuch district, about 14 km from Bharuch across the Narmada" },
     { label: "Industrial estate", value: "GIDC Ankleshwar, over 1,600 hectares with more than 1,200 units in chemicals, pharma, dyes and engineering" },
@@ -80,7 +80,7 @@ const ankleshwar: CityContent = {
         "A buyer in Europe or Southeast Asia looking for an intermediate usually searches by product name or CAS number, lands on a page, and decides within a minute whether the manufacturer looks credible. Many Ankleshwar units still have a single brochure page with a phone number, which wastes that minute.",
         "As a <strong>website development team in Ankleshwar</strong>, we build product-led sites. Each product gets its own page with name, synonyms, CAS number, grade, typical specifications, packing, applications and a clear inquiry button. Technical data sheets and safety data sheets can be downloaded, or unlocked after a short form if you prefer to know who is reading. Certifications, registrations, plant capacity and quality systems appear on separate pages written in plain English.",
         "We keep claims exact. We do not add export figures, customer logos or capacity numbers you have not confirmed, and we will not show a client's name without written consent. For units that sell into regulated markets, we keep a change log so you can show auditors what the site said on a given date.",
-        "A focused product site starts from ₹10,000 for a compact catalogue, and a 700+ page SEO build with a full product library starts at ₹20,000. See our <a href=\"/services/web-development/\">web development page</a> for how we structure these projects.",
+        "A focused product site starts from ₹10,000 for a compact catalogue, and a 299+ page SEO build with a full product library starts at ₹20,000. See our <a href=\"/services/web-development/\">web development page</a> for how we structure these projects.",
       ],
     },
     {
@@ -157,7 +157,7 @@ const ankleshwar: CityContent = {
       id: "website-cost-ankleshwar",
       heading: "Website cost in Ankleshwar: starting prices and fair comparison",
       paragraphs: [
-        "Our starting prices for Ankleshwar are published: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 700+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. Monthly SEO starts at ₹10,000 a month.",
+        "Our starting prices for Ankleshwar are published: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 299+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. Monthly SEO starts at ₹10,000 a month.",
         "Costs rise with product count, data-sheet libraries, multiple languages, gated downloads, logins, payments and ERP or Tally links. If your team supplies product data in a clean spreadsheet, the cost stays close to the starting figure. If we write product descriptions or reorganise old brochures, that appears as a separate line.",
         "Quotes in the area vary widely. Compare them on what matters: whose name the domain and hosting are in, whether mobile testing, schema and basic SEO are included, how revisions are handled, and who maintains the site after launch.",
         "Our <a href=\"/pricing/\">pricing page</a> shows every starting point, and the itemised quote reaches you in about two working days.",
@@ -219,7 +219,7 @@ const ankleshwar: CityContent = {
     {
       question: "What is the website cost in Ankleshwar?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final quote depends on products, data sheets, languages and integrations, and it is itemised in writing before anything is billed.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final quote depends on products, data sheets, languages and integrations, and it is itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Ankleshwar businesses?",
@@ -234,7 +234,7 @@ const ankleshwar: CityContent = {
     {
       question: "How long does a website take in Ankleshwar?",
       answer:
-        "A static site is usually live one to two weeks after we receive text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Product data in a clean spreadsheet speeds things up considerably.",
+        "A static site is usually live one to two weeks after we receive text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Product data in a clean spreadsheet speeds things up considerably.",
     },
     {
       question: "Which is the best website development team in Ankleshwar?",
@@ -259,7 +259,7 @@ const ankleshwar: CityContent = {
     {
       question: "Ankleshwar ma website banavvano kharch ketlo thay?",
       answer:
-        "Amara sathe sadi website ₹10,000 thi sharu thay chhe ane saamanya rite ek-be athvadiya ma taiyar thay chhe. 700+ page SEO website ₹20,000 thi, Android ane iOS app ₹40,000 thi ane online store ₹50,000 thi sharu thay chhe. Tamari jarurat pramane likhit quote male chhe.",
+        "Amara sathe sadi website ₹10,000 thi sharu thay chhe ane saamanya rite ek-be athvadiya ma taiyar thay chhe. 299+ page SEO website ₹20,000 thi, Android ane iOS app ₹40,000 thi ane online store ₹50,000 thi sharu thay chhe. Tamari jarurat pramane likhit quote male chhe.",
     },
     {
       question: "You have no office in Ankleshwar. How do approvals work remotely?",

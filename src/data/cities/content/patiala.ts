@@ -35,7 +35,7 @@ const patiala: CityContent = {
     pills: ["Sites from ₹10,000", "Punjabi and Hinglish search", "Phulkari and jutti stores", "WhatsApp enquiry flows", "5 months free upkeep"],
   },
   quickAnswer:
-    "A Patiala business website with us starts at ₹10,000 for a static site ready in one to two weeks, and ₹20,000 for a 700+ page site built for Google search. Online stores start at ₹50,000. We are a remote team of three engineers with no Patiala office, and every launch includes five months of free maintenance.",
+    "A Patiala business website with us starts at ₹10,000 for a static site ready in one to two weeks, and ₹20,000 for a 299+ page site built for Google search. Online stores start at ₹50,000. We are a remote team of three engineers with no Patiala office, and every launch includes five months of free maintenance.",
   snapshot: [
     { label: "Old city bazaars", value: "Adalat Bazaar, Dharampura Bazaar and the lanes around Qila Mubarak" },
     { label: "Newer commercial areas", value: "Leela Bhawan, Bhupindra Road, Tripuri, Urban Estate and Sanauri Adda" },
@@ -73,12 +73,12 @@ const patiala: CityContent = {
       heading: "How much does a website cost in Patiala?",
       paragraphs: [
         "In Patiala you will find website offers for as little as ₹2,500 and agency proposals from Mohali or Chandigarh firms that run past ₹50,000. The cheap offers almost always use a shared template, skip search setup entirely and keep the domain in the developer's name. The expensive ones usually include overheads you never see: an office on a busy road, salespeople and a layer of managers between you and the developer.",
-        "We keep our pricing in the open. A static website of up to 100 pages starts from ₹10,000 and typically goes live within one to two weeks. A 700+ page site designed around search, with a page for each service and each area you actually cover, starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, custom web applications such as admission or dealer portals from ₹60,000, and automation projects from ₹40,000. Ongoing SEO starts from ₹10,000 a month.",
+        "We keep our pricing in the open. A static website of up to 100 pages starts from ₹10,000 and typically goes live within one to two weeks. A 299+ page site designed around search, with a page for each service and each area you actually cover, starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, custom web applications such as admission or dealer portals from ₹60,000, and automation projects from ₹40,000. Ongoing SEO starts from ₹10,000 a month.",
         "Before any work starts you receive a written quote that names every page and feature, so you can remove anything you don't need. Nothing is charged until you approve it in writing. You can see the full breakdown on our <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> a small static site for a clinic, lawyer, tutor or shop, with enquiry form and basic search setup.",
-        "<strong>From ₹20,000:</strong> a 700+ page SEO website for firms that want steady Google enquiries from Patiala and nearby towns.",
+        "<strong>From ₹20,000:</strong> a 299+ page SEO website for firms that want steady Google enquiries from Patiala and nearby towns.",
         "<strong>From ₹50,000:</strong> an online store with UPI, cards and shipping rules, suited to jutti, phulkari and clothing sellers.",
         "<strong>From ₹60,000:</strong> a custom web application with logins, roles and reports for institutes, distributors and manufacturers.",
       ],
@@ -209,12 +209,12 @@ const patiala: CityContent = {
     {
       question: "How much does a website cost in Patiala?",
       answer:
-        "Our static websites start from ₹10,000, 700+ page SEO websites from ₹20,000, online stores from ₹50,000 and custom web applications from ₹60,000. Around Patiala, quotes for similar work range from a couple of thousand rupees to well over ₹50,000. When comparing, check who owns the domain, whether SEO is included and what support you get after launch.",
+        "Our static websites start from ₹10,000, 299+ page SEO websites from ₹20,000, online stores from ₹50,000 and custom web applications from ₹60,000. Around Patiala, quotes for similar work range from a couple of thousand rupees to well over ₹50,000. When comparing, check who owns the domain, whether SEO is included and what support you get after launch.",
     },
     {
       question: "Patiala vich website banwani hai, kinne da painda?",
       answer:
-        "Saade naal simple business website ₹10,000 ton shuru hundi hai te 700+ pages di SEO website ₹20,000 ton. Online store ₹50,000 ton shuru hunda hai. Aakhri keemat pages, features te content te nirbhar kardi hai, te kamm shuru hon ton pehlan tuhanu poora likhat quote milda hai.",
+        "Saade naal simple business website ₹10,000 ton shuru hundi hai te 299+ pages di SEO website ₹20,000 ton. Online store ₹50,000 ton shuru hunda hai. Aakhri keemat pages, features te content te nirbhar kardi hai, te kamm shuru hon ton pehlan tuhanu poora likhat quote milda hai.",
     },
     {
       question: "Do you have an office in Patiala where I can visit?",
@@ -239,7 +239,7 @@ const patiala: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. The biggest delay is usually waiting for photos and text, so we draft the copy ourselves and you simply correct it.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. The biggest delay is usually waiting for photos and text, so we draft the copy ourselves and you simply correct it.",
     },
     {
       question: "Do you work with coaching and IELTS institutes near Punjabi University?",

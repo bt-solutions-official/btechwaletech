@@ -39,7 +39,7 @@ const vrindavan: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Pilgrim-search local SEO", "Poshak and puja stores", "Domain and code in your name"],
   },
   quickAnswer:
-    "A Vrindavan business website with us starts at ₹10,000 and is usually ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Vrindavan office, and you own every account.",
+    "A Vrindavan business website with us starts at ₹10,000 and is usually ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Vrindavan office, and you own every account.",
   snapshot: [
     { label: "Location", value: "West bank of the Yamuna in Mathura district, about 15 km north of Mathura" },
     { label: "Distances", value: "Roughly 125 km from Delhi and 90 km from Agra, reached via NH-44" },
@@ -96,7 +96,7 @@ const vrindavan: CityContent = {
       paragraphs: [
         "Many visitors to Vrindavan also want to see Mathura, Govardhan, Barsana, Nandgaon and Gokul in the same trip. Local taxi owners, e-rickshaw fleets and tour operators arrange these circuits, often by phone and word of mouth. Visitors from Delhi, Rajasthan, Gujarat and abroad increasingly plan online first.",
         "<strong>Digital marketing in Vrindavan</strong> for tour operators starts with clear itinerary pages: a one-day Braj darshan, a Govardhan parikrama drop, a festival tour for Holi. Each page should say what is covered, the vehicle, the pickup points and how to book. Google Business Profile work and a WhatsApp enquiry flow bring in the rest.",
-        "We do not publish fake reviews or invent tourist statistics. What works is honest detail and quick replies. A 700+ page SEO website, useful when you want separate pages for many temples, routes and festivals, starts at ₹20,000 and takes three to five weeks.",
+        "We do not publish fake reviews or invent tourist statistics. What works is honest detail and quick replies. A 299+ page SEO website, useful when you want separate pages for many temples, routes and festivals, starts at ₹20,000 and takes three to five weeks.",
       ],
     },
     {
@@ -157,7 +157,7 @@ const vrindavan: CityContent = {
       id: "website-cost-vrindavan",
       heading: "Website cost in Vrindavan: starting prices and what to compare",
       paragraphs: [
-        "A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 700+ pages, for hotels or tour operators who want pages for many temples, routes and festivals, starts at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation start at ₹40,000.",
+        "A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 299+ pages, for hotels or tour operators who want pages for many temples, routes and festivals, starts at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation start at ₹40,000.",
         "An online store for poshak or puja items starts at ₹50,000 and takes four to eight weeks. Custom software such as a booking engine or donation system starts at ₹60,000 and takes six to twelve weeks. Monthly SEO starts at ₹10,000 a month.",
         "Local quotes vary widely. When comparing, ask who owns the domain, whether the site loads on a phone in a crowded lane, how bookings reach you and what support costs after launch. Our full breakdown is on the <a href=\"/pricing/\">pricing page</a>, and every quote lists each item separately.",
       ],
@@ -209,7 +209,7 @@ const vrindavan: CityContent = {
     {
       question: "What does a website cost in Vrindavan?",
       answer:
-        "A static website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. An SEO website with 700+ pages starts at ₹20,000, an online store at ₹50,000 and custom software such as a booking engine at ₹60,000. You receive an itemised quote in about two working days, and nothing is billed before your written approval.",
+        "A static website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. An SEO website with 299+ pages starts at ₹20,000, an online store at ₹50,000 and custom software such as a booking engine at ₹60,000. You receive an itemised quote in about two working days, and nothing is billed before your written approval.",
     },
     {
       question: "How quickly can you build a guest house website in Vrindavan?",

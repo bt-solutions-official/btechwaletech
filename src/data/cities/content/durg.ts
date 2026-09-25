@@ -35,7 +35,7 @@ const durg: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi and English content", "Steel and engineering suppliers", "Colleges and coaching", "WhatsApp automation"],
   },
   quickAnswer:
-    "A static website for a Durg business starts from ₹10,000 and takes one to two weeks with us. SEO websites with 700+ pages start from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. We are three remote engineers with no office in Durg, and we maintain every site free for five months after launch.",
+    "A static website for a Durg business starts from ₹10,000 and takes one to two weeks with us. SEO websites with 299+ pages start from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. We are three remote engineers with no office in Durg, and we maintain every site free for five months after launch.",
   snapshot: [
     { label: "Twin city", value: "Forms the Durg–Bhilai urban agglomeration, Chhattisgarh's second largest after Raipur" },
     { label: "Industry", value: "Bhilai Steel Plant next door; Industrial Growth Centre Borai, Durg industrial estate and Bhilai's light and heavy industrial areas" },
@@ -73,12 +73,12 @@ const durg: CityContent = {
       heading: "Website prices in Durg: what you actually pay for",
       paragraphs: [
         "Website quotes in the Durg–Bhilai area range from very cheap template offers to expensive proposals from agencies in Raipur or bigger metros. The cheap ones commonly leave out search setup and keep the domain under the developer's control. The expensive ones may carry the cost of an office and account managers rather than extra work on your site.",
-        "Our prices are published and all of them are starting prices. A static website with up to 100 pages starts from ₹10,000 and is usually ready in one to two weeks. An SEO website of 700+ pages, with a page for every product, service or area you really serve, starts from ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, custom web applications at ₹60,000, and monthly SEO at ₹10,000. The full list is on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our prices are published and all of them are starting prices. A static website with up to 100 pages starts from ₹10,000 and is usually ready in one to two weeks. An SEO website of 299+ pages, with a page for every product, service or area you really serve, starts from ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, custom web applications at ₹60,000, and monthly SEO at ₹10,000. The full list is on our <a href=\"/pricing/\">pricing page</a>.",
         "A general physician in Civil Lines needs a much smaller site than a fabrication unit in Borai with twenty product types and a tender enquiry process. Tell us what you do and who buys from you, and within about two working days you receive an itemised quote. Work is billed only after you approve it in writing.",
       ],
       list: [
         "<strong>Static website, from ₹10,000:</strong> up to 100 pages with contact form, map and basic SEO.",
-        "<strong>SEO website, from ₹20,000:</strong> 700+ pages covering each product, service and locality you serve.",
+        "<strong>SEO website, from ₹20,000:</strong> 299+ pages covering each product, service and locality you serve.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart and UPI or card checkout for retail brands.",
         "<strong>Custom web app, from ₹60,000:</strong> order books, job cards, dispatch and admissions tools.",
       ],
@@ -209,12 +209,12 @@ const durg: CityContent = {
     {
       question: "How much does a website cost in Durg?",
       answer:
-        "With us, a static website starts from ₹10,000, an SEO website with 700+ pages from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices. The final amount depends on scope and is shown in an itemised quote before billing.",
+        "With us, a static website starts from ₹10,000, an SEO website with 299+ pages from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices. The final amount depends on scope and is shown in an itemised quote before billing.",
     },
     {
       question: "Durg mein website banwane ka kharcha kitna aata hai?",
       answer:
-        "Humare saath simple business website ₹10,000 se shuru hoti hai aur 700+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se shuru hota hai. Asli kharcha pages, features aur content par nirbhar karta hai, aur kaam shuru hone se pehle aapko likhit, itemised quote diya jaata hai.",
+        "Humare saath simple business website ₹10,000 se shuru hoti hai aur 299+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se shuru hota hai. Asli kharcha pages, features aur content par nirbhar karta hai, aur kaam shuru hone se pehle aapko likhit, itemised quote diya jaata hai.",
     },
     {
       question: "Do you have an office in Durg or Bhilai?",

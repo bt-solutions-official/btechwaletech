@@ -39,7 +39,7 @@ const byasanagar: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Vendor capability sites", "Odia and English local SEO", "You own code and domain"],
   },
   quickAnswer:
-    "Websites for Byasanagar and Jajpur Road businesses start at ₹10,000 with us, usually live in one to two weeks. Android and iOS apps and AI automation each start at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team without a local office.",
+    "Websites for Byasanagar and Jajpur Road businesses start at ₹10,000 with us, usually live in one to two weeks. Android and iOS apps and AI automation each start at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team without a local office.",
   snapshot: [
     { label: "Location", value: "Municipality in Jajpur district, Odisha, about 15 km off NH-16 and roughly 120 km from Bhubaneswar airport" },
     { label: "Also known as", value: "Jajpur Road; the municipality dates from 1963" },
@@ -157,7 +157,7 @@ const byasanagar: CityContent = {
       id: "website-cost-byasanagar",
       heading: "Website cost in Byasanagar: starting prices and comparing quotes",
       paragraphs: [
-        "Our entry prices are straightforward. A static website of up to 100 pages is from ₹10,000, typically ready in one to two weeks. An SEO website of 700 pages or more, for vendors, hospitals or institutes that want a page for every service, department or course, is from ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and AI or WhatsApp automation starts at ₹40,000 too.",
+        "Our entry prices are straightforward. A static website of up to 100 pages is from ₹10,000, typically ready in one to two weeks. An SEO website of 299 pages or more, for vendors, hospitals or institutes that want a page for every service, department or course, is from ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and AI or WhatsApp automation starts at ₹40,000 too.",
         "Online stores begin at ₹50,000 with four to eight weeks of work. Custom software, such as a contractor's attendance and billing system, begins at ₹60,000 and takes six to twelve weeks. Monthly SEO is ₹10,000 a month onwards, and maintenance, after five free months, is ₹8,000 a month onwards.",
         "Costs go up only for things you choose: extra languages, many products, online payment, staff logins, SMS alerts, file uploads or links to Tally and payroll tools. Each is a separate line in the quote, so you can leave out whatever is not needed now. Supplying your own text and photographs keeps the content cost low.",
         "Quotes in the Jajpur and Cuttack area vary widely for similar-sounding work. When you compare, ask who owns the domain and hosting, whether the site is tested on low-cost phones, what SEO is included, how many revisions are covered and what support costs after launch. All our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and a written, itemised quote reaches you in around two working days.",
@@ -222,7 +222,7 @@ const byasanagar: CityContent = {
     {
       question: "What is the website cost in Byasanagar?",
       answer:
-        "Static websites start at ₹10,000, SEO websites of 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final amount depends on pages, languages, products and integrations. You receive an itemised written quote before anything is billed.",
+        "Static websites start at ₹10,000, SEO websites of 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final amount depends on pages, languages, products and integrations. You receive an itemised written quote before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Byasanagar businesses?",
@@ -232,7 +232,7 @@ const byasanagar: CityContent = {
     {
       question: "How long does a website take for a Jajpur Road business?",
       answer:
-        "A simple static website is usually live within one to two weeks of receiving your content. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Sending text, photos and details early is the easiest way to keep the project on time.",
+        "A simple static website is usually live within one to two weeks of receiving your content. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Sending text, photos and details early is the easiest way to keep the project on time.",
     },
     {
       question: "Which is the best website development team in Byasanagar?",
@@ -257,7 +257,7 @@ const byasanagar: CityContent = {
     {
       question: "Jajpur Road me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein ban jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hai. Har cheez alag likh kar quote lagbhag do working din mein milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein ban jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hai. Har cheez alag likh kar quote lagbhag do working din mein milta hai.",
     },
     {
       question: "You have no office in Byasanagar. How does remote work stay safe?",

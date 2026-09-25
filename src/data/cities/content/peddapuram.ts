@@ -39,7 +39,7 @@ const peddapuram: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu and English pages", "Silk and palakova stores", "Every login in your name"],
   },
   quickAnswer:
-    "For a Peddapuram business, a website with BtechWaleTech starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps begin at ₹40,000, as does AI automation, while a 700+ page SEO site starts at ₹20,000, an online silk or sweets store at ₹50,000 and custom software at ₹60,000. We work remotely and you own everything.",
+    "For a Peddapuram business, a website with BtechWaleTech starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps begin at ₹40,000, as does AI automation, while a 299+ page SEO site starts at ₹20,000, an online silk or sweets store at ₹50,000 and custom software at ₹60,000. We work remotely and you own everything.",
   snapshot: [
     { label: "Location", value: "Kakinada district, beside Kakinada city and within the Godavari Urban Development Authority area" },
     { label: "Civic history", value: "Municipality since 1915, the second-oldest in Andhra Pradesh after Bheemunipatnam" },
@@ -162,7 +162,7 @@ const peddapuram: CityContent = {
       ],
       list: [
         "Static website, up to 100 pages: from ₹10,000, usually one to two weeks",
-        "SEO website with 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website with 299+ pages: from ₹20,000, three to five weeks",
         "Android and iOS app: from ₹40,000",
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Ecommerce store for silk, sweets or other goods: from ₹50,000, four to eight weeks",
@@ -226,7 +226,7 @@ const peddapuram: CityContent = {
     {
       question: "What is the website cost in Peddapuram?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, Telugu content, products and integrations. You get it as an itemised written quote before anything is billed.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, Telugu content, products and integrations. You get it as an itemised written quote before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Peddapuram businesses?",
@@ -236,7 +236,7 @@ const peddapuram: CityContent = {
     {
       question: "How long does it take to build a website in Peddapuram?",
       answer:
-        "A simple static site is usually live in one to two weeks once we have your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content and approvals within the first few days.",
+        "A simple static site is usually live in one to two weeks once we have your photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content and approvals within the first few days.",
     },
     {
       question: "Which is the best IT services team in Peddapuram for a small business?",

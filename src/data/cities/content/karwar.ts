@@ -35,7 +35,7 @@ const karwar: CityContent = {
     pills: ["Sites from ₹10,000", "Konkani, Kannada, English", "Homestay and boat bookings", "Seafood and cashew stores", "5 months free maintenance"],
   },
   quickAnswer:
-    "A static website for a Karwar business starts at ₹10,000 with us and takes one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store from ₹50,000, WhatsApp or AI automation from ₹40,000 and custom software from ₹60,000. We are a remote team without a Karwar office, and the first five months of maintenance are free.",
+    "A static website for a Karwar business starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store from ₹50,000, WhatsApp or AI automation from ₹40,000 and custom software from ₹60,000. We are a remote team without a Karwar office, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Role", value: "Headquarters of Uttara Kannada district, at the mouth of the Kali river on the Arabian Sea" },
     { label: "Navy", value: "INS Kadamba at Binaga, built under Project Seabird, is one of the Indian Navy's largest bases" },
@@ -73,12 +73,12 @@ const karwar: CityContent = {
       heading: "What a website costs in Karwar",
       paragraphs: [
         "Karwar businesses get website offers from all directions: local freelancers, Goa agencies, booking portals that bundle a page with a commission, and relatives who know some coding. Prices range wildly, and so do the terms. The domain is often registered to the seller, and once they stop answering, the business cannot change a phone number on its own site.",
-        "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts at ₹10,000 and is ready in one to two weeks. An SEO website with 700+ pages starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, WhatsApp and AI automation at ₹40,000, and monthly SEO at ₹10,000 a month.",
+        "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts at ₹10,000 and is ready in one to two weeks. An SEO website with 299+ pages starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, WhatsApp and AI automation at ₹40,000, and monthly SEO at ₹10,000 a month.",
         "What moves the final figure is scope: number of pages and languages, booking calendars, online payments, staff logins, and whether we write the text. Everything is itemised, so a homestay can start small and add booking later.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages in English, Kannada or Konkani with WhatsApp, map and search basics.",
-        "<strong>From ₹20,000:</strong> 700+ pages, such as one per room, trip, product or service area.",
+        "<strong>From ₹20,000:</strong> 299+ pages, such as one per room, trip, product or service area.",
         "<strong>From ₹50,000:</strong> an online store with UPI and card payments and courier rates.",
         "<strong>From ₹60,000:</strong> custom booking systems, trader registers and other web applications.",
       ],
@@ -227,7 +227,7 @@ const karwar: CityContent = {
     {
       question: "How much does a website cost in Karwar?",
       answer:
-        "Our static websites start at ₹10,000, SEO websites with 700+ pages from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. These are starting prices only. You receive an itemised written quote for your exact needs, and nothing is billed until you approve it.",
+        "Our static websites start at ₹10,000, SEO websites with 299+ pages from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. These are starting prices only. You receive an itemised written quote for your exact needs, and nothing is billed until you approve it.",
     },
     {
       question: "Karwar nalli website maadisalu eshtu kharchu aagutte?",

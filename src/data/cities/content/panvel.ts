@@ -35,7 +35,7 @@ const panvel: CityContent = {
     pills: ["Websites from ₹10,000", "Marathi, Hindi, English", "Steel and chemical catalogues", "Node-wise local SEO", "WhatsApp lead routing"],
   },
   quickAnswer:
-    "For a Panvel business, a website with our team starts from ₹10,000 and is ready in one to two weeks. A 700+ page SEO website starts from ₹20,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote three-engineer team with no Panvel office, and maintenance is free for five months after launch.",
+    "For a Panvel business, a website with our team starts from ₹10,000 and is ready in one to two weeks. A 299+ page SEO website starts from ₹20,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote three-engineer team with no Panvel office, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Civic body", value: "Panvel Municipal Corporation, formed in October 2016; the town's municipal council dates back to 1852" },
     { label: "Urban nodes", value: "Old and New Panvel, Kharghar, Kamothe, Kalamboli, Taloja and Karanjade, many planned by CIDCO" },
@@ -73,12 +73,12 @@ const panvel: CityContent = {
       heading: "Website prices for Panvel businesses, stated upfront",
       paragraphs: [
         "Panvel sits inside the Mumbai market, so quotes vary widely. A freelancer may offer a template page for a few thousand rupees, while a Mumbai agency may quote a lakh or more before any content is written. The cheap option often leaves out search setup and keeps the domain in the developer's account. The expensive one bundles in office rent and account managers.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts from ₹10,000 and takes one to two weeks. A 700+ page SEO website, planned around what people in Panvel's nodes actually search for, starts from ₹20,000 and takes three to five weeks. AI automation starts from ₹40,000, online stores from ₹50,000, custom web apps from ₹60,000 and monthly SEO from ₹10,000.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts from ₹10,000 and takes one to two weeks. A 299+ page SEO website, planned around what people in Panvel's nodes actually search for, starts from ₹20,000 and takes three to five weeks. AI automation starts from ₹40,000, online stores from ₹50,000, custom web apps from ₹60,000 and monthly SEO from ₹10,000.",
         "The actual number depends on scope. We send a written, itemised quote in about two working days, and there is no charge until you approve it.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages with mobile layout, enquiry form, map and basic SEO for clinics, classes and shops.",
-        "<strong>From ₹20,000:</strong> 700+ pages covering services, products and nodes for builders, dealers and multi-branch firms.",
+        "<strong>From ₹20,000:</strong> 299+ pages covering services, products and nodes for builders, dealers and multi-branch firms.",
         "<strong>From ₹50,000:</strong> online store with UPI, cards and delivery zones across Navi Mumbai and Raigad.",
         "<strong>From ₹60,000:</strong> custom tools with logins and reports for traders, manufacturers and logistics companies.",
       ],
@@ -212,7 +212,7 @@ const panvel: CityContent = {
     {
       question: "How much does a website cost in Panvel?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO website from ₹20,000, AI automation from ₹40,000, an online store from ₹50,000 and a custom web app from ₹60,000. The final amount depends on your pages and features, and you get an itemised written quote before anything is billed.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO website from ₹20,000, AI automation from ₹40,000, an online store from ₹50,000 and a custom web app from ₹60,000. The final amount depends on your pages and features, and you get an itemised written quote before anything is billed.",
     },
     {
       question: "Panvel madhe website banvaylaa kiti kharcha yeto?",

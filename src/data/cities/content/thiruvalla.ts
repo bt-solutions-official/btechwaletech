@@ -40,7 +40,7 @@ const thiruvalla: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Malayalam-first local SEO", "Built for NRI audiences", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Thiruvalla business, a website from us starts at ₹10,000 and is usually live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, and you own every account.",
+    "For a Thiruvalla business, a website from us starts at ₹10,000 and is usually live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, and you own every account.",
   snapshot: [
     { label: "Location", value: "Largest town in Pathanamthitta district, on the northern bank of the Manimala river in central Travancore" },
     { label: "Population", value: "52,883 in the 2011 census, with literacy of about 97.6%" },
@@ -159,7 +159,7 @@ const thiruvalla: CityContent = {
       id: "website-cost-thiruvalla",
       heading: "Website cost in Thiruvalla: starting prices and what to ask before you choose",
       paragraphs: [
-        "The first question is almost always about price, so here are our entry points. A standard website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. An SEO website of 700 pages or more, suited to hospitals with many departments or colleges with many courses, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and so does AI automation. Online stores start at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000 a month.",
+        "The first question is almost always about price, so here are our entry points. A standard website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. An SEO website of 299 pages or more, suited to hospitals with many departments or colleges with many courses, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and so does AI automation. Online stores start at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000 a month.",
         "Your figure rises from these starting points only for things you choose to add: Malayalam and English versions, large doctor or product lists, photo shoots, payment checkout, staff logins or connections to billing software. Each addition is a separate line in the quote that you can accept or remove. If you supply your own text and photographs, the cost stays close to the base.",
         "Quotes in Pathanamthitta, Kottayam and Kochi vary widely for work that sounds the same. Before choosing anyone, ask who will own the domain and hosting, whether the site is tested on low-cost phones, whether basic SEO is included, how many rounds of changes are covered and who answers when something breaks a year later. Our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and an itemised written quote reaches you in about two working days.",
       ],
@@ -220,7 +220,7 @@ const thiruvalla: CityContent = {
     {
       question: "What is the website cost in Thiruvalla?",
       answer:
-        "With us, a standard website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, Malayalam and English versions, products and integrations, and arrives itemised in writing before anything is billed.",
+        "With us, a standard website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, Malayalam and English versions, products and integrations, and arrives itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Thiruvalla businesses?",
@@ -230,7 +230,7 @@ const thiruvalla: CityContent = {
     {
       question: "How long does a website take for a Thiruvalla business?",
       answer:
-        "A standard site is usually live within one to two weeks of receiving your content and photographs. A 700+ page SEO site takes about three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when someone at your end sends text and pictures in the first few days.",
+        "A standard site is usually live within one to two weeks of receiving your content and photographs. A 299+ page SEO site takes about three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when someone at your end sends text and pictures in the first few days.",
     },
     {
       question: "Which is the best website development team in Thiruvalla?",
@@ -255,7 +255,7 @@ const thiruvalla: CityContent = {
     {
       question: "Thiruvallayil oru website cheyyan ethra chilavakum?",
       answer:
-        "Njangalude simple website ₹10,000 muthal thudangunnu, sadharana onno rando aazhchayil ready aakum. 700+ page SEO website ₹20,000 muthal, Android, iOS app ₹40,000 muthal, online store ₹50,000 muthal. Pages, features ennivayude adisthanathil ulla quote ezhuthi tharum; approve cheythathinu sesham mathrame bill cheyyu.",
+        "Njangalude simple website ₹10,000 muthal thudangunnu, sadharana onno rando aazhchayil ready aakum. 299+ page SEO website ₹20,000 muthal, Android, iOS app ₹40,000 muthal, online store ₹50,000 muthal. Pages, features ennivayude adisthanathil ulla quote ezhuthi tharum; approve cheythathinu sesham mathrame bill cheyyu.",
     },
     {
       question: "You have no office in Thiruvalla. How do I know the work is safe?",

@@ -341,7 +341,7 @@ const content: FreelanceContent = {
   faqHeading: "Local SEO expert: questions businesses ask",
   faqs: [
     { question: "What does a local SEO expert do?", answer: "A local SEO expert improves how a business appears in Google Maps and local search results. The work covers the Google Business Profile, consistent name, address and phone across the web, location pages on the website, a policy-safe review process, local schema markup and monthly reporting of calls, direction requests and clicks." },
-    { question: "How much does a local SEO expert cost in India?", answer: `Prices vary widely across the market because the scope varies. With BtechWaleTech, monthly SEO starts at ${P.seo}. Businesses with several branches, competitive categories or many location pages to create pay more. If a new website is needed for location pages, an SEO website with 700+ pages starts at ${P.seoSite}.` },
+    { question: "How much does a local SEO expert cost in India?", answer: `Prices vary widely across the market because the scope varies. With BtechWaleTech, monthly SEO starts at ${P.seo}. Businesses with several branches, competitive categories or many location pages to create pay more. If a new website is needed for location pages, an SEO website with 299+ pages starts at ${P.seoSite}.` },
     { question: "How long does local SEO take to work?", answer: "Fixes to a poorly set-up Business Profile can show in weeks. Gains from location pages, citations and reviews usually build over two to four months. Crowded categories in large cities take longer, and searches made far from your location may stay hard to win regardless of effort." },
     { question: "Can a local SEO expert guarantee the top spot on Google Maps?", answer: "No. Nobody can guarantee rankings, because Google decides local results using relevance, distance and prominence, and distance from the searcher cannot be changed. An honest local SEO expert promises specific work and clear reporting, not positions. Treat any ranking guarantee as a reason to look elsewhere." },
     { question: "What is NAP in local SEO?", answer: "NAP means name, address and phone number. It should appear in exactly the same format on your Google Business Profile, website, directories, social pages and maps. Inconsistent details confuse search engines and customers, so cleaning them up is one of the first jobs in any local SEO project." },
@@ -369,7 +369,7 @@ const content: FreelanceContent = {
       { name: "Hire an SEO expert: what to ask", href: "/hire-seo-expert/" },
       { name: "SEO audits and roadmaps", href: "/freelance-seo-consultant/" },
       { name: "Technical SEO: crawling, schema, speed", href: "/technical-seo-freelancer/" },
-      { name: "SEO-first websites with 700+ pages", href: "/seo-website-developer/" },
+      { name: "SEO-first websites with 299+ pages", href: "/seo-website-developer/" },
       { name: "Local digital marketing for small businesses", href: "/digital-marketing-freelancer-near-me/" },
       { name: "Website essentials for a local business", href: "/website-for-local-business/" },
       { name: "Small shop sites with Google Maps and WhatsApp", href: "/website-developer-near-me/" },

@@ -35,7 +35,7 @@ const chittoor: CityContent = {
     pills: ["Sites from ₹10,000", "Telugu, Tamil and English", "Export-ready pulp catalogues", "Admission enquiry flows", "5 months free upkeep"],
   },
   quickAnswer:
-    "A business website in Chittoor starts at ₹10,000 with us and usually goes live in one to two weeks. Search-focused sites of 700+ pages start from ₹20,000, WhatsApp and AI automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. We are a remote team with no Chittoor office, and every quote comes itemised.",
+    "A business website in Chittoor starts at ₹10,000 with us and usually goes live in one to two weeks. Search-focused sites of 299+ pages start from ₹20,000, WhatsApp and AI automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. We are a remote team with no Chittoor office, and every quote comes itemised.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of Chittoor district, a municipal corporation on the Neeva river in southern Andhra Pradesh" },
     { label: "Connectivity", value: "NH 40 and NH 69, a railway station on the Gudur–Katpadi line; Tirupati airport about 80 km away" },
@@ -84,12 +84,12 @@ const chittoor: CityContent = {
       heading: "What a website costs in Chittoor",
       paragraphs: [
         "Chittoor owners hear everything from a few thousand rupees for a template page to lakhs from city agencies. The cheap option often skips search setup and keeps the domain in the builder's name; the expensive one charges for sales staff and rent. Our aim is a clear middle path with published starting prices.",
-        "A static site for a shop, clinic, school or small firm starts at <strong>₹10,000</strong>, holds up to 100 pages and usually launches in one to two weeks. A search-led site with 700+ pages in Telugu, Tamil and English starts at <strong>₹20,000</strong> and takes three to five weeks. Stores with UPI checkout start at <strong>₹50,000</strong>, WhatsApp and AI automation at <strong>₹40,000</strong>, and custom software at <strong>₹60,000</strong>. Monthly SEO starts at ₹10,000. See the full breakdown on our <a href=\"/pricing/\">pricing page</a>.",
+        "A static site for a shop, clinic, school or small firm starts at <strong>₹10,000</strong>, holds up to 100 pages and usually launches in one to two weeks. A search-led site with 299+ pages in Telugu, Tamil and English starts at <strong>₹20,000</strong> and takes three to five weeks. Stores with UPI checkout start at <strong>₹50,000</strong>, WhatsApp and AI automation at <strong>₹40,000</strong>, and custom software at <strong>₹60,000</strong>. Monthly SEO starts at ₹10,000. See the full breakdown on our <a href=\"/pricing/\">pricing page</a>.",
         "Treat these as starting points. A pulp exporter with specification sheets in three languages needs more work than a five-page dental clinic. You receive an itemised quote within about two working days, and nothing is charged before you approve it in writing.",
       ],
       list: [
         "<strong>Business site from ₹10,000:</strong> up to 100 pages, mobile layout, map, WhatsApp button and on-page basics.",
-        "<strong>Search site from ₹20,000:</strong> 700+ pages across languages with schema, sitemap and Search Console.",
+        "<strong>Search site from ₹20,000:</strong> 299+ pages across languages with schema, sitemap and Search Console.",
         "<strong>Online store from ₹50,000:</strong> catalogue, variants, UPI and cards, shipping rules and order alerts.",
         "<strong>Custom software from ₹60,000:</strong> logins, records, reports and integrations built around your process.",
       ],
@@ -229,12 +229,12 @@ const chittoor: CityContent = {
     {
       question: "How much does a website cost in Chittoor?",
       answer:
-        "Our static business sites start from ₹10,000, search-focused 700+ page sites from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. The final figure depends on pages, languages and features. Compare quotes on what is included: domain in your name, search setup and support after launch.",
+        "Our static business sites start from ₹10,000, search-focused 299+ page sites from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. The final figure depends on pages, languages and features. Compare quotes on what is included: domain in your name, search setup and support after launch.",
     },
     {
       question: "Chittoor lo chinna business ki website ki entha avutundi?",
       answer:
-        "Maa simple business website ₹10,000 nundi modalavutundi, sumaru okati rendu vaaralalo ready avutundi. 700+ pages SEO website ₹20,000 nundi, online store ₹50,000 nundi. Pani start cheyyadaniki mundu itemised quote pampistamu, meeru approve chese varaku emi charge undadu.",
+        "Maa simple business website ₹10,000 nundi modalavutundi, sumaru okati rendu vaaralalo ready avutundi. 299+ pages SEO website ₹20,000 nundi, online store ₹50,000 nundi. Pani start cheyyadaniki mundu itemised quote pampistamu, meeru approve chese varaku emi charge undadu.",
     },
     {
       question: "Do you have an office in Chittoor?",
@@ -264,7 +264,7 @@ const chittoor: CityContent = {
     {
       question: "How long does a project take?",
       answer:
-        "Static sites usually take one to two weeks, 700+ page search sites three to five weeks, online stores four to eight weeks and custom software six to twelve. Most delays come from waiting for photos and text, so we draft content for you to correct rather than waiting for a blank page to fill.",
+        "Static sites usually take one to two weeks, 299+ page search sites three to five weeks, online stores four to eight weeks and custom software six to twelve. Most delays come from waiting for photos and text, so we draft content for you to correct rather than waiting for a blank page to fill.",
     },
     {
       question: "What can WhatsApp automation do for a Chittoor business?",

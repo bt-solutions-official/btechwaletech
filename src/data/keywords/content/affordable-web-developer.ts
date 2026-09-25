@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What does an affordable web developer cost in India?",
-    text: `An affordable web developer should quote a clear starting price and itemise the rest. At BtechWaleTech a static business website of up to 100 pages starts at ${P.site} (${P.siteUsd}) and launches in 1–2 weeks, an online store starts at ${P.shop}, and an SEO website with 700+ pages starts at ${P.seoSite}. Every quote is split into lines you can remove, and nothing is billed before you approve it.`,
+    text: `An affordable web developer should quote a clear starting price and itemise the rest. At BtechWaleTech a static business website of up to 100 pages starts at ${P.site} (${P.siteUsd}) and launches in 1–2 weeks, an online store starts at ${P.shop}, and an SEO website with 299+ pages starts at ${P.seoSite}. Every quote is split into lines you can remove, and nothing is billed before you approve it.`,
     more: `If your budget is lower still, read the honest trade-offs on <a href='/cheap-web-developer/'>cheap web developers</a>, or see what the entry plan includes on <a href='/low-cost-website-developer/'>low-cost website developer</a>.`,
   },
   snapshot: {
@@ -295,7 +295,7 @@ const content: FreelanceContent = {
       columns: ["Project", "From (India)", "From (abroad)", "Typical time", "Most affordable first step"],
       rows: [
         ["Static website, up to 100 pages", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Core pages plus WhatsApp button"],
-        ["SEO website, 700+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Start with your main services and top locations"],
+        ["SEO website, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Start with your main services and top locations"],
         ["Online store", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Best sellers first, UPI and card checkout"],
         ["Custom web app or portal", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Automate the single most painful workflow"],
         ["Android & iOS app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Prove demand on the website first"],
@@ -373,7 +373,7 @@ const content: FreelanceContent = {
   },
   faqHeading: "Affordable web developer: common questions",
   faqs: [
-    { question: "How much does an affordable web developer charge in India?", answer: `Charges depend on scope, but a good affordable web developer will give you a clear floor. With BtechWaleTech a static website of up to 100 pages starts at ${P.site}, an online store starts at ${P.shop} and an SEO website with 700+ pages starts at ${P.seoSite}. Every quote is itemised so you can see and remove individual lines before approving anything.` },
+    { question: "How much does an affordable web developer charge in India?", answer: `Charges depend on scope, but a good affordable web developer will give you a clear floor. With BtechWaleTech a static website of up to 100 pages starts at ${P.site}, an online store starts at ${P.shop} and an SEO website with 299+ pages starts at ${P.seoSite}. Every quote is itemised so you can see and remove individual lines before approving anything.` },
     { question: "What is the difference between an affordable and a cheap web developer?", answer: "A cheap web developer offers the lowest figure, often by leaving out licensed software, backups, testing or your ownership of the domain. An affordable web developer keeps the essentials and trims optional features instead, then writes the scope down. The affordable option usually costs less over a year because you avoid rebuilds, renewal surprises and security cleanups." },
     { question: "Can I get a good website on a small budget?", answer: `Yes, if the first version is small. Launch with the pages that bring enquiries (home, services, about, contact and a WhatsApp button) and add a blog, extra languages or bookings later. Our static plan starts at ${P.site} and covers up to 100 pages, which is more than most small businesses need at launch.` },
     { question: "What should I never compromise on to save money?", answer: "Never compromise on owning your domain and hosting, having backups stored off the server, using licensed themes and plugins, an SSL certificate, testing on real phones, and basic search setup such as page titles, a sitemap and Google Search Console. Each is cheap to include at the start and expensive or risky to fix later." },

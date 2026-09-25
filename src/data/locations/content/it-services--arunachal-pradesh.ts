@@ -202,7 +202,7 @@ const content: CityContent = {
       id: "cost-arunachal",
       heading: "How much do IT services cost in Arunachal Pradesh?",
       paragraphs: [
-        "IT services in Arunachal Pradesh with BtechWaleTech start at ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after the first five free months.",
+        "IT services in Arunachal Pradesh with BtechWaleTech start at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after the first five free months.",
         "The final quote depends on pages or screens, offline requirements, languages, integrations and how quickly content and photos arrive. Good photographs are often the hardest part for tourism businesses in remote areas, so we plan around what you can send.",
         "Payment is made only by UPI, by scanning our QR code, or by direct bank transfer, in INR, against milestones in the quote.",
       ],

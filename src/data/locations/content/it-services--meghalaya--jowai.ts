@@ -193,7 +193,7 @@ const content: CityContent = {
       id: "software-development-cost-jowai",
       heading: "What does software development in Jowai cost?",
       paragraphs: [
-        "Software development in Jowai with us starts at ₹60,000 for custom software or a web app, ₹40,000 for AI and WhatsApp automation, ₹50,000 for an ecommerce store, ₹40,000 for an Android and iOS app and ₹10,000 for a static website. A 700+ page SEO website starts at ₹20,000, monthly SEO at ₹10,000 and maintenance at ₹8,000 a month.",
+        "Software development in Jowai with us starts at ₹60,000 for custom software or a web app, ₹40,000 for AI and WhatsApp automation, ₹50,000 for an ecommerce store, ₹40,000 for an Android and iOS app and ₹10,000 for a static website. A 299+ page SEO website starts at ₹20,000, monthly SEO at ₹10,000 and maintenance at ₹8,000 a month.",
         "Those are starting prices. Scope moves the number: how many user roles, screens and reports, whether we migrate old data, which integrations are needed, and whether you supply content. A single-trader register is close to the starting figure; a multi-branch school portal with parent logins costs more.",
         "Payments are made in INR against agreed milestones, only by UPI through our QR code or by direct bank transfer to our account. Each milestone follows work you have seen and approved. Our <a href='/services/'>services overview</a> explains what each package includes in more detail.",
       ],

@@ -39,7 +39,7 @@ const tirur: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Malayalam-first local SEO", "Betel and seafood trade tools", "Your domain, your code"],
   },
   quickAnswer:
-    "For a Tirur business, a website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, with no Tirur office, and you own every account.",
+    "For a Tirur business, a website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, with no Tirur office, and you own every account.",
   snapshot: [
     { label: "Location", value: "Taluk headquarters in Malappuram district, about 26 km west of Malappuram town and roughly 35 km from Calicut airport" },
     { label: "Railway", value: "Tirur station on the Shoranur–Mangaluru line, opened in 1861 and counted as the oldest in Kerala" },
@@ -158,7 +158,7 @@ const tirur: CityContent = {
       id: "website-cost-tirur",
       heading: "Website cost in Tirur: starting prices and what to ask before you pay",
       paragraphs: [
-        "Here are the entry points, since most Tirur owners want a figure first. A static site for a shop, clinic or institute, up to 100 pages, is ₹10,000 onwards and is normally ready in a week or two. An SEO website of 700 pages or more, the kind a wholesaler or college uses to cover every product, course and nearby town, is ₹20,000 onwards and takes three to five weeks. Android and iOS apps start at ₹40,000, and so does AI automation. An online store starts at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
+        "Here are the entry points, since most Tirur owners want a figure first. A static site for a shop, clinic or institute, up to 100 pages, is ₹10,000 onwards and is normally ready in a week or two. An SEO website of 299 pages or more, the kind a wholesaler or college uses to cover every product, course and nearby town, is ₹20,000 onwards and takes three to five weeks. Android and iOS apps start at ₹40,000, and so does AI automation. An online store starts at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
         "From there the figure moves only with what you choose. Malayalam pages beside English, a large product catalogue, courier rate tables, online payment, staff logins, IMEI or barcode scanning, and a Tally link each appear as a separate line you can keep or drop. If you send your own text and phone photographs, the copywriting line disappears.",
         "Quotes from local designers vary widely for jobs that sound the same. Before choosing anyone, ask who will legally own the domain, whether the site is tested on cheaper phones, whether basic on-page SEO is included, how many revision rounds are covered and what happens a year after launch. Our starting points are on the <a href=\"/pricing/\">pricing page</a>, and an itemised written quote reaches you in about two working days.",
       ],
@@ -219,7 +219,7 @@ const tirur: CityContent = {
     {
       question: "What is the website cost in Tirur?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices only. The final figure depends on pages, Malayalam content, products and integrations, and you get it itemised in writing before anything is billed.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices only. The final figure depends on pages, Malayalam content, products and integrations, and you get it itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Tirur businesses?",
@@ -229,7 +229,7 @@ const tirur: CityContent = {
     {
       question: "How long does a website take for a Tirur shop?",
       answer:
-        "A static site for a shop is usually live one to two weeks after we receive your photographs and details. A 700+ page SEO site takes three to five weeks, an online store four to eight and custom software six to twelve. Projects move fastest when the owner sends content in the first few days.",
+        "A static site for a shop is usually live one to two weeks after we receive your photographs and details. A 299+ page SEO site takes three to five weeks, an online store four to eight and custom software six to twelve. Projects move fastest when the owner sends content in the first few days.",
     },
     {
       question: "Which is the best website development team in Tirur?",
@@ -254,7 +254,7 @@ const tirur: CityContent = {
     {
       question: "Tirur me website banwane me kitna kharcha aata hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein taiyaar ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Final quote aapke pages aur features ke hisaab se likhit mein milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein taiyaar ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Final quote aapke pages aur features ke hisaab se likhit mein milta hai.",
     },
     {
       question: "You have no office in Tirur. How is remote work safe?",

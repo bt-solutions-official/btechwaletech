@@ -192,7 +192,7 @@ const content: CityContent = {
       id: "cost-it-solutions-cuttack",
       heading: "What do IT solutions cost in Cuttack?",
       paragraphs: [
-        "IT solutions in Cuttack start from ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000. See our <a href=\"/pricing/\">pricing page</a> for what each plan includes.",
+        "IT solutions in Cuttack start from ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000. See our <a href=\"/pricing/\">pricing page</a> for what each plan includes.",
         "The final price depends on scope: user roles, screens, integrations with Tally or the WhatsApp Business API, Odia content, offline features and migration of old records. A clinic lead-capture site sits near the website starting price; a distributor system with salesman app and credit control is a larger project delivered in phases.",
         "You pay only in INR, by UPI through our QR code or by direct bank transfer to our bank account, against milestones agreed in writing before work starts. Timelines run from one to two weeks for a website to six to twelve weeks for custom software, and six to ten weeks for an app.",
       ],

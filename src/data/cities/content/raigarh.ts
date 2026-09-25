@@ -35,7 +35,7 @@ const raigarh: CityContent = {
     pills: ["Pricing opens at ₹10,000", "Hindi, English, Odia", "Plant vendor profiles", "Kosa and Dhokra stores", "Every login handed over"],
   },
   quickAnswer:
-    "Raigarh businesses can get a static website from us starting at ₹10,000, typically delivered in one to two weeks. A 700+ page SEO build starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and a UPI store at ₹50,000. Our three-engineer team works remotely, has no Raigarh office, and covers upkeep free for five months post-launch.",
+    "Raigarh businesses can get a static website from us starting at ₹10,000, typically delivered in one to two weeks. A 299+ page SEO build starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and a UPI store at ₹50,000. Our three-engineer team works remotely, has no Raigarh office, and covers upkeep free for five months post-launch.",
   snapshot: [
     { label: "Industry", value: "Steel, sponge iron and power hub; Jindal Steel and Power's large sponge iron and steel complex lies a few kilometres from the city" },
     { label: "Coal belt", value: "Most district coal lies in the Gharghoda and Tamnar blocks of the Mand-Raigarh coalfield, with several coal-fired power plants in the district" },
@@ -73,12 +73,12 @@ const raigarh: CityContent = {
       heading: "Budgeting for a website in Raigarh",
       paragraphs: [
         "Raigarh owners hear wildly different numbers. A local computer shop may offer a single page for a small sum, while an agency pitching plant vendors might ask for several times our rates. Before comparing, ask what the number covers: who registers the domain, whether search basics are included, and who will fix the site next year.",
-        "We begin at these points. Static websites of up to 100 pages start at ₹10,000 and are usually ready in one to two weeks. SEO builds of 700+ pages, with a page per service, product or specialty, start at ₹20,000 and need three to five weeks. WhatsApp and AI automation starts at ₹40,000. Online stores start at ₹50,000. Tailor-made web software, such as a contractor's work-order and billing system, starts at ₹60,000. SEO retainers begin at ₹10,000 a month. The <a href=\"/pricing/\">pricing page</a> has the complete table.",
+        "We begin at these points. Static websites of up to 100 pages start at ₹10,000 and are usually ready in one to two weeks. SEO builds of 299+ pages, with a page per service, product or specialty, start at ₹20,000 and need three to five weeks. WhatsApp and AI automation starts at ₹40,000. Online stores start at ₹50,000. Tailor-made web software, such as a contractor's work-order and billing system, starts at ₹60,000. SEO retainers begin at ₹10,000 a month. The <a href=\"/pricing/\">pricing page</a> has the complete table.",
         "Those are opening figures only. A tuition teacher with one batch sits near the bottom; a transport company wanting a fleet tracker and client logins sits well above. We reply with an itemised estimate, normally inside two working days, and we raise no bill until you have signed off on it in writing.",
       ],
       list: [
         "<strong>Starts at ₹10,000:</strong> up to 100 pages, phone-first design, enquiry form, location map, SEO basics. Suits clinics, tutors, salons and single showrooms.",
-        "<strong>Starts at ₹20,000:</strong> 700+ pages written around Raigarh searches. Suits contractors, hospitals and multi-service firms.",
+        "<strong>Starts at ₹20,000:</strong> 299+ pages written around Raigarh searches. Suits contractors, hospitals and multi-service firms.",
         "<strong>Starts at ₹50,000:</strong> full store with UPI and card checkout. Suits Kosa silk, Dhokra craft and packaged food sellers.",
         "<strong>Starts at ₹60,000:</strong> custom portals with logins and reports. Suits plant contractors, transporters and institutes.",
       ],
@@ -216,7 +216,7 @@ const raigarh: CityContent = {
     {
       question: "What is the starting price for a website in Raigarh?",
       answer:
-        "Static business sites start at ₹10,000, 700+ page SEO sites at ₹20,000, UPI online stores at ₹50,000 and bespoke web software at ₹60,000. Your own figure depends on pages, features and the content you can supply. We send a written, itemised estimate in around two working days and charge nothing until you approve it.",
+        "Static business sites start at ₹10,000, 299+ page SEO sites at ₹20,000, UPI online stores at ₹50,000 and bespoke web software at ₹60,000. Your own figure depends on pages, features and the content you can supply. We send a written, itemised estimate in around two working days and charge nothing until you approve it.",
     },
     {
       question: "Raigarh me website banwane me kitna kharcha aayega?",
@@ -246,7 +246,7 @@ const raigarh: CityContent = {
     {
       question: "How long will my website take?",
       answer:
-        "Static sites typically take one to two weeks, 700+ page SEO sites three to five weeks, online stores four to eight weeks and custom software six to twelve weeks. Waiting for photos and details causes most delays, so we prepare draft text for you to edit rather than starting from blank pages.",
+        "Static sites typically take one to two weeks, 299+ page SEO sites three to five weeks, online stores four to eight weeks and custom software six to twelve weeks. Waiting for photos and details causes most delays, so we prepare draft text for you to edit rather than starting from blank pages.",
     },
     {
       question: "Which languages can the website use?",

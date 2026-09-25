@@ -39,7 +39,7 @@ const ujhani: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Mentha export websites", "Hindi-first local SEO", "Everything registered to you"],
   },
   quickAnswer:
-    "Ujhani firms can get a website from ₹10,000, normally delivered within a fortnight. Apps for Android and iOS begin at ₹40,000, as does AI automation; bigger SEO sites of 700+ pages begin at ₹20,000, online shops at ₹50,000 and bespoke software at ₹60,000. We have no local office, work remotely, and every account stays in your name.",
+    "Ujhani firms can get a website from ₹10,000, normally delivered within a fortnight. Apps for Android and iOS begin at ₹40,000, as does AI automation; bigger SEO sites of 299+ pages begin at ₹20,000, online shops at ₹50,000 and bespoke software at ₹60,000. We have no local office, work remotely, and every account stays in your name.",
   snapshot: [
     { label: "Location", value: "Municipal board town in Budaun district, Bareilly division, a few kilometres from Budaun city" },
     { label: "Roads", value: "On SH33, the Bareilly–Mathura highway; SH18 towards Meerut and Delhi starts here" },
@@ -150,7 +150,7 @@ const ujhani: CityContent = {
       id: "website-cost-ujhani",
       heading: "Website cost in Ujhani: starting prices and how to compare quotes",
       paragraphs: [
-        "Here is what Ujhani clients start from. Static sites of up to 100 pages: ₹10,000, one to two weeks. SEO sites of 700+ pages: ₹20,000, three to five weeks. Android and iOS apps: ₹40,000. AI automation: ₹40,000. Online shops: ₹50,000, four to eight weeks. Bespoke software: ₹60,000, six to twelve weeks. Ongoing SEO: ₹10,000 per month.",
+        "Here is what Ujhani clients start from. Static sites of up to 100 pages: ₹10,000, one to two weeks. SEO sites of 299+ pages: ₹20,000, three to five weeks. Android and iOS apps: ₹40,000. AI automation: ₹40,000. Online shops: ₹50,000, four to eight weeks. Bespoke software: ₹60,000, six to twelve weeks. Ongoing SEO: ₹10,000 per month.",
         "The quote rises with scope: Hindi and English versions, big catalogues, payment and courier links, staff logins and Tally integration. If you supply text and photographs, it stays near the starting figure; if we write content or plan a photo shoot, that is its own line.",
         "Figures from other designers around Budaun differ a lot, so compare terms rather than totals. Find out who will legally own the domain and hosting, whether phone testing and on-page SEO are part of the price, how many correction rounds come included, and who picks up after launch when a form breaks. The <a href=\"/pricing/\">pricing page</a> sets out our starting figures, and an itemised quote reaches you within roughly two working days.",
       ],
@@ -211,7 +211,7 @@ const ujhani: CityContent = {
     {
       question: "What is the website cost in Ujhani?",
       answer:
-        "Our static sites begin at ₹10,000; larger SEO builds of 700+ pages from ₹20,000, stores from ₹50,000 and bespoke software from ₹60,000. Treat each as a starting figure. Hindi copy, product count and integrations move the total, and a line-by-line written quote comes before any bill.",
+        "Our static sites begin at ₹10,000; larger SEO builds of 299+ pages from ₹20,000, stores from ₹50,000 and bespoke software from ₹60,000. Treat each as a starting figure. Hindi copy, product count and integrations move the total, and a line-by-line written quote comes before any bill.",
     },
     {
       question: "Do you build Android and iOS apps for Ujhani businesses?",
@@ -226,7 +226,7 @@ const ujhani: CityContent = {
     {
       question: "How long does a website take for an Ujhani business?",
       answer:
-        "Plan on one to two weeks for a static site, counted from the day your text and photos reach us. SEO sites of 700+ pages need three to five weeks, stores four to eight and bespoke software six to twelve. Delays nearly always come from waiting on content, so gathering it early helps most.",
+        "Plan on one to two weeks for a static site, counted from the day your text and photos reach us. SEO sites of 299+ pages need three to five weeks, stores four to eight and bespoke software six to twelve. Delays nearly always come from waiting on content, so gathering it early helps most.",
     },
     {
       question: "Which is the best website development team in Ujhani?",
@@ -246,7 +246,7 @@ const ujhani: CityContent = {
     {
       question: "Ujhani me website banwane mein kitna kharcha aata hai?",
       answer:
-        "Ujhani mein basic website hamare saath ₹10,000 se shuru hai, aur saamgri milne ke baad lagbhag do hafte lagte hain. Bade SEO site (700+ page) ₹20,000 se, Android-iOS app ₹40,000 se, aur online dukaan ₹50,000 se shuru hoti hai. Kaam dekhkar har cheez ka alag daam likhkar bhejte hain.",
+        "Ujhani mein basic website hamare saath ₹10,000 se shuru hai, aur saamgri milne ke baad lagbhag do hafte lagte hain. Bade SEO site (299+ page) ₹20,000 se, Android-iOS app ₹40,000 se, aur online dukaan ₹50,000 se shuru hoti hai. Kaam dekhkar har cheez ka alag daam likhkar bhejte hain.",
     },
     {
       question: "You have no office in Ujhani. How can I trust remote work?",

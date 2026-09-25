@@ -35,7 +35,7 @@ const mumbai: CityContent = {
     pills: ["Sites from ₹10,000", "Local SEO by suburb", "UPI and Razorpay stores", "WhatsApp order flows", "Dashboards and web apps"],
   },
   quickAnswer:
-    "For a Mumbai business, a static website with us starts at ₹10,000 and a 700+ page SEO website from ₹20,000, usually live within one to five weeks. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote three-person team, so no Mumbai office rent is built into the quote.",
+    "For a Mumbai business, a static website with us starts at ₹10,000 and a 299+ page SEO website from ₹20,000, usually live within one to five weeks. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote three-person team, so no Mumbai office rent is built into the quote.",
   snapshot: [
     { label: "Business districts", value: "Nariman Point, Fort, Lower Parel, Bandra Kurla Complex, Andheri East and Powai" },
     { label: "Old trading core", value: "Crawford Market, Zaveri Bazaar, Mangaldas Market, Masjid Bunder, Lohar Chawl and Lamington Road" },
@@ -73,12 +73,12 @@ const mumbai: CityContent = {
       heading: "How much does a website cost in Mumbai?",
       paragraphs: [
         "Ask five Mumbai web designers for a price on the same small business website and you will likely hear anything from ₹4,000 to over ₹1 lakh. The cheapest end usually means a page builder template, no search work, and a hosting account in the developer's name. The top end often pays for a Lower Parel office, a pitch deck and an account manager, with the actual build handed to a junior.",
-        "Our figures are public. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website, with a page for each service and each area you genuinely cover, starts at ₹20,000 and takes three to five weeks. An online store starts at ₹50,000. Custom web applications, such as a dealer portal, booking system or internal dashboard, start at ₹60,000. AI and WhatsApp automation starts at ₹40,000, and ongoing SEO at ₹10,000 a month.",
+        "Our figures are public. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website, with a page for each service and each area you genuinely cover, starts at ₹20,000 and takes three to five weeks. An online store starts at ₹50,000. Custom web applications, such as a dealer portal, booking system or internal dashboard, start at ₹60,000. AI and WhatsApp automation starts at ₹40,000, and ongoing SEO at ₹10,000 a month.",
         "These are starting prices rather than fixed packages. A jeweller with 400 designs and no photographs needs more work than a consultant with six services and a ready brochure. You get a quote that lists each page and feature, usually within two working days, and nothing is billed until you approve it in writing. See the full breakdown on our <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [
         "<strong>Static site, from ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form, basic SEO. Good for consultants, clinics and small offices.",
-        "<strong>700+ page SEO site, from ₹20,000:</strong> service and area pages, schema, sitemap. Good for firms that want Google enquiries from specific suburbs.",
+        "<strong>299+ page SEO site, from ₹20,000:</strong> service and area pages, schema, sitemap. Good for firms that want Google enquiries from specific suburbs.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart, UPI and card checkout. Good for jewellery, apparel, food and home brands.",
         "<strong>Custom web app, from ₹60,000:</strong> logins, roles, dashboards and integrations. Good for traders, logistics firms and institutes.",
       ],
@@ -218,12 +218,12 @@ const mumbai: CityContent = {
     {
       question: "How much does a website cost in Mumbai?",
       answer:
-        "With us, a static site starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. Mumbai quotes for similar work range widely, from a few thousand rupees to over a lakh. Compare what is included, especially SEO, hosting ownership and support after launch, not just the headline number.",
+        "With us, a static site starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. Mumbai quotes for similar work range widely, from a few thousand rupees to over a lakh. Compare what is included, especially SEO, hosting ownership and support after launch, not just the headline number.",
     },
     {
       question: "Mumbai mein website banwane ka kharcha kitna hai?",
       answer:
-        "Humare saath ek simple business website ₹10,000 se shuru hoti hai, aur 700+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se aur custom web app ₹60,000 se shuru hota hai. Aapko pehle itemised quote milta hai, aur aapki written approval ke bina koi billing nahi hoti.",
+        "Humare saath ek simple business website ₹10,000 se shuru hoti hai, aur 299+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se aur custom web app ₹60,000 se shuru hota hai. Aapko pehle itemised quote milta hai, aur aapki written approval ke bina koi billing nahi hoti.",
     },
     {
       question: "You don't have an office in Mumbai. Is that a problem?",
@@ -243,7 +243,7 @@ const mumbai: CityContent = {
     {
       question: "How long will my website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. The usual cause of delay is waiting for content, so we draft starter text for you to correct rather than waiting for blank pages to be filled.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. The usual cause of delay is waiting for content, so we draft starter text for you to correct rather than waiting for blank pages to be filled.",
     },
     {
       question: "Can you build a jewellery website that shows designs without prices?",

@@ -39,7 +39,7 @@ const nohar: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first pages", "Mandi and dealer software", "Every login in your name"],
   },
   quickAnswer:
-    "A Nohar shop, dealer or clinic can have a website from ₹10,000, usually online inside a fortnight. Android and iOS apps start from ₹40,000, and so does WhatsApp or AI automation. For bigger jobs, an SEO site of 700+ pages begins at ₹20,000, a web store at ₹50,000 and mandi or dealer software at ₹60,000. We work remotely; you own everything.",
+    "A Nohar shop, dealer or clinic can have a website from ₹10,000, usually online inside a fortnight. Android and iOS apps start from ₹40,000, and so does WhatsApp or AI automation. For bigger jobs, an SEO site of 299+ pages begins at ₹20,000, a web store at ₹50,000 and mandi or dealer software at ₹60,000. We work remotely; you own everything.",
   snapshot: [
     { label: "Status", value: "Tehsil headquarters and municipal town in Hanumangarh district, which was carved from Ganganagar in 1994" },
     { label: "Population", value: "About 49,800 at the 2011 census; PIN 335523, vehicle code RJ 49" },
@@ -168,7 +168,7 @@ const nohar: CityContent = {
       id: "website-cost-nohar",
       heading: "Website cost in Nohar and what goes into a quote",
       paragraphs: [
-        "A tractor dealer's ten-page site, a school's admission pages and a dharamshala's booking page all fall under our static website, which starts at ₹10,000 for up to 100 pages and takes one to two weeks. A seed dealer or coaching institute that wants a page for every product, course or village can go for an SEO build of 700 pages or more, starting at ₹20,000 over three to five weeks.",
+        "A tractor dealer's ten-page site, a school's admission pages and a dharamshala's booking page all fall under our static website, which starts at ₹10,000 for up to 100 pages and takes one to two weeks. A seed dealer or coaching institute that wants a page for every product, course or village can go for an SEO build of 299 pages or more, starting at ₹20,000 over three to five weeks.",
         "Apps for Android and iOS start at ₹40,000, and WhatsApp or AI automation starts at the same level. A store for isabgol or pulses starts at ₹50,000, a commission agent's ledger or other custom software at ₹60,000, and ongoing SEO at ₹10,000 a month. None of these is a final price: Hindi or Punjabi copy, extra pages, product uploads, payments and integrations each appear on their own line, and you can strike off any you do not need. The full list is on our <a href=\"/pricing/\">pricing page</a>.",
         "Quotes from different providers in the Hanumangarh area can be far apart for similar work. Put four questions to each: whose name the domain and code will be in, how many rounds of changes are included, what help you get after launch, and what the hosting renewal will cost in year two. Our itemised quote usually reaches you within two working days, and you are not billed for anything until you say yes.",
       ],
@@ -220,7 +220,7 @@ const nohar: CityContent = {
     {
       question: "What is the website cost in Nohar?",
       answer:
-        "Four starting points cover most requests: ₹10,000 for a static site, ₹20,000 for a 700+ page SEO site, ₹50,000 for an online store and ₹60,000 for custom software such as a mandi ledger. Your own quote grows with pages, Hindi content, products and integrations. It comes itemised within about two working days, and nothing is billed first.",
+        "Four starting points cover most requests: ₹10,000 for a static site, ₹20,000 for a 299+ page SEO site, ₹50,000 for an online store and ₹60,000 for custom software such as a mandi ledger. Your own quote grows with pages, Hindi content, products and integrations. It comes itemised within about two working days, and nothing is billed first.",
     },
     {
       question: "Do you build Android and iOS apps for Nohar businesses?",
@@ -230,7 +230,7 @@ const nohar: CityContent = {
     {
       question: "How quickly can a Nohar shop get a website?",
       answer:
-        "Most shop sites go live one to two weeks after your photos, rate list and text reach us. A 700+ page SEO site needs three to five weeks and a store four to eight. The usual cause of delay is content arriving late, so on day one we send a short Hindi checklist of what to gather.",
+        "Most shop sites go live one to two weeks after your photos, rate list and text reach us. A 299+ page SEO site needs three to five weeks and a store four to eight. The usual cause of delay is content arriving late, so on day one we send a short Hindi checklist of what to gather.",
     },
     {
       question: "Who is the best website development team in Nohar?",

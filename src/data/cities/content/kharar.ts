@@ -142,7 +142,7 @@ const kharar: CityContent = {
       ],
       list: [
         "<strong>Static website, up to 100 pages:</strong> from ₹10,000, one to two weeks.",
-        "<strong>SEO website with 700+ pages:</strong> starts at ₹20,000, three to five weeks.",
+        "<strong>SEO website with 299+ pages:</strong> starts at ₹20,000, three to five weeks.",
         "<strong>Android and iOS app:</strong> from ₹40,000, depending on screens and features.",
         "<strong>AI and WhatsApp automation:</strong> from ₹40,000, two to four weeks.",
         "<strong>Ecommerce store with UPI and Razorpay:</strong> starts at ₹50,000, four to eight weeks.",
@@ -226,7 +226,7 @@ const kharar: CityContent = {
     {
       question: "How much does a website cost in Kharar?",
       answer:
-        "A business website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. You get an itemised written quote in about two working days, and nothing is billed until you approve it.",
+        "A business website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. You get an itemised written quote in about two working days, and nothing is billed until you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Kharar businesses?",
@@ -276,7 +276,7 @@ const kharar: CityContent = {
     {
       question: "How long does a website or app take?",
       answer:
-        "A small website takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. App timelines depend on features and store review. Sending photographs, prices and basic text early keeps things on schedule.",
+        "A small website takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. App timelines depend on features and store review. Sending photographs, prices and basic text early keeps things on schedule.",
     },
     {
       question: "Who owns the website, app and code?",

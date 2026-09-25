@@ -106,7 +106,7 @@ const content: CityContent = {
       id: "catalogue-websites-mapusa",
       heading: "Catalogue websites and local pages for Mapusa retailers",
       paragraphs: [
-        "A catalogue website shows what a Mapusa shop sells, with photos, prices or price ranges, timings and a WhatsApp button, so customers can check before travelling into town. Catalogue sites start from ₹10,000 and go live in one to two weeks; larger 700+ page SEO sites start from ₹20,000.",
+        "A catalogue website shows what a Mapusa shop sells, with photos, prices or price ranges, timings and a WhatsApp button, so customers can check before travelling into town. Catalogue sites start from ₹10,000 and go live in one to two weeks; larger 299+ page SEO sites start from ₹20,000.",
         "Mapusa draws shoppers from all over Bardez and beyond, and parking near the market is famously difficult. People want to know whether a shop has an item in stock, whether it is open on Sunday and exactly where it is. A clean catalogue with category pages, a map pin, landmark directions and a quick enquiry form saves them a wasted trip and brings the sale to you.",
         "We also build local pages for each area you serve, such as Guirim, Parra, Siolim, Assagao and Calangute, written honestly for each place rather than copied. See our <a href='/services/web-development/'>web development service</a> for the full scope.",
       ],
@@ -203,7 +203,7 @@ const content: CityContent = {
       ],
       list: [
         "<strong>Catalogue website:</strong> from ₹10,000, one to two weeks",
-        "<strong>700+ page SEO website:</strong> from ₹20,000, three to five weeks",
+        "<strong>299+ page SEO website:</strong> from ₹20,000, three to five weeks",
         "<strong>AI or WhatsApp automation:</strong> from ₹40,000, two to four weeks",
         "<strong>Android and iOS app:</strong> from ₹40,000, six to ten weeks",
         "<strong>Online store:</strong> from ₹50,000, four to eight weeks",

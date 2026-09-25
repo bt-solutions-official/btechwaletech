@@ -39,7 +39,7 @@ const narasapuram: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu-first local SEO", "Lace export catalogues", "You hold every account"],
   },
   quickAnswer:
-    "Narasapuram businesses can get a website from us starting at ₹10,000, usually ready in one to two weeks. Android and iOS apps begin at ₹40,000, AI and WhatsApp automation also at ₹40,000, 700+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We operate remotely, with no Narasapuram office.",
+    "Narasapuram businesses can get a website from us starting at ₹10,000, usually ready in one to two weeks. Android and iOS apps begin at ₹40,000, AI and WhatsApp automation also at ₹40,000, 299+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We operate remotely, with no Narasapuram office.",
   snapshot: [
     { label: "Location", value: "Municipal town in West Godavari district on the right bank of the Vasishta Godavari, close to the Bay of Bengal" },
     { label: "Craft", value: "Narsapur crochet lace, introduced in 1844 and holding a Geographical Indication tag, made across the Godavari delta" },
@@ -78,7 +78,7 @@ const narasapuram: CityContent = {
       paragraphs: [
         "Narsapur crochet lace has been made in the Godavari delta since Scottish missionaries introduced it in 1844, and it now carries a Geographical Indication tag covering mandals of West Godavari and Konaseema. Thousands of women crochet tablecloths, bedspreads, runners, doilies, cushion covers and garment trims at home, and traders in Narasapuram, Palakollu, Razole and Amalapuram collect, finish and sell the pieces, much of it for export.",
         "A <strong>website development team in Narasapuram</strong> serving this trade should build a catalogue a foreign buyer can trust: clear photographs of each design on a plain background, dimensions, thread type and colours available, minimum order quantities, lead times, packing, and the GI connection explained accurately. An enquiry form should ask for design codes, quantities, destination port and required delivery date, so your office can quote without five rounds of email.",
-        "Static catalogue sites start at ₹10,000 and larger design libraries fit a 700+ page SEO build from ₹20,000. We never list overseas buyers by name without their written permission, and we avoid inflated claims about volumes or awards. Good photographs and honest detail win more repeat orders than grand wording.",
+        "Static catalogue sites start at ₹10,000 and larger design libraries fit a 299+ page SEO build from ₹20,000. We never list overseas buyers by name without their written permission, and we avoid inflated claims about volumes or awards. Good photographs and honest detail win more repeat orders than grand wording.",
       ],
     },
     {
@@ -150,7 +150,7 @@ const narasapuram: CityContent = {
       id: "website-cost-narasapuram",
       heading: "Website cost in Narasapuram: our starting prices and how to compare",
       paragraphs: [
-        "In Narasapuram our prices start where they do everywhere. A static site of up to 100 pages is from ₹10,000 and takes one to two weeks. A 700+ page SEO site is from ₹20,000 and takes three to five weeks. Apps for Android and iPhone are from ₹40,000, AI automation also from ₹40,000, online stores from ₹50,000, custom software from ₹60,000 and monthly SEO from ₹10,000.",
+        "In Narasapuram our prices start where they do everywhere. A static site of up to 100 pages is from ₹10,000 and takes one to two weeks. A 299+ page SEO site is from ₹20,000 and takes three to five weeks. Apps for Android and iPhone are from ₹40,000, AI automation also from ₹40,000, online stores from ₹50,000, custom software from ₹60,000 and monthly SEO from ₹10,000.",
         "Scope drives the final figure. More pages, parallel Telugu and English versions, large design catalogues, payment and courier integration, staff logins or accounts software connections all add lines. When you provide text and photographs the price stays close to the start; writing and product photography by us are quoted separately.",
         "Quotes from local designers vary widely, so compare substance. Whose name will be on the domain and hosting? Are mobile testing and basic SEO included? How many revision rounds are allowed, and who repairs faults after launch? Our <a href=\"/pricing/\">pricing page</a> shows the starting points, and a written quote reaches you in about two working days.",
       ],
@@ -198,7 +198,7 @@ const narasapuram: CityContent = {
     { name: "Razole", note: "Konaseema lace centre. Exporter sites and piece-work registers." },
   ],
   industries: [
-    { name: "Crochet lace exporters", need: "Overseas buyers trusting a catalogue", build: "Design catalogue site, RFQ form, 700+ page SEO build" },
+    { name: "Crochet lace exporters", need: "Overseas buyers trusting a catalogue", build: "Design catalogue site, RFQ form, 299+ page SEO build" },
     { name: "Lace traders and group leaders", need: "Clear piece-work and payment records", build: "Issue-and-return register, Telugu payment summaries" },
     { name: "Lace boutiques and cooperatives", need: "Direct sales to households and boutiques", build: "Online store with UPI and courier rates" },
     { name: "Aqua feed and medicine dealers", need: "Farmer re-orders and brand trust", build: "Brand pages, re-order app, WhatsApp enquiries" },
@@ -211,7 +211,7 @@ const narasapuram: CityContent = {
     {
       question: "What is the website cost in Narasapuram?",
       answer:
-        "A static site with us starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are opening figures. Telugu content, design counts and integrations shape the final quote, which you get in writing with every line priced before any payment.",
+        "A static site with us starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are opening figures. Telugu content, design counts and integrations shape the final quote, which you get in writing with every line priced before any payment.",
     },
     {
       question: "Do you build Android and iOS apps for Narasapuram businesses?",
@@ -221,7 +221,7 @@ const narasapuram: CityContent = {
     {
       question: "How long does a Narasapuram website take to finish?",
       answer:
-        "Expect one to two weeks for a static site once we have your photographs and text. A 700+ page SEO build needs three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Getting content to us promptly is what shortens the schedule most.",
+        "Expect one to two weeks for a static site once we have your photographs and text. A 299+ page SEO build needs three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Getting content to us promptly is what shortens the schedule most.",
     },
     {
       question: "Which is the best website development team in Narasapuram?",
@@ -236,7 +236,7 @@ const narasapuram: CityContent = {
     {
       question: "Can you build a website for a Narsapur lace exporter?",
       answer:
-        "Yes. We build catalogues with clear photographs, dimensions, thread and colour options, minimum orders, lead times and an enquiry form asking for design codes, quantity and destination port. Static catalogues start at ₹10,000, and large design libraries suit a 700+ page SEO build from ₹20,000.",
+        "Yes. We build catalogues with clear photographs, dimensions, thread and colour options, minimum orders, lead times and an enquiry form asking for design codes, quantity and destination port. Static catalogues start at ₹10,000, and large design libraries suit a 299+ page SEO build from ₹20,000.",
     },
     {
       question: "Do you offer WhatsApp and AI automation in Narasapuram?",
@@ -246,7 +246,7 @@ const narasapuram: CityContent = {
     {
       question: "Narasapuram lo website cheyinchukovadaniki entha kharchu avutundi?",
       answer:
-        "Maa daggara simple website ₹10,000 nundi modalavutundi, okati rendu vaaralalo ready avutundi. 700+ page SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalavutayi. Mee pages, features batti itemised quote raatapoorvakanga pampistamu, approval tarvate billing.",
+        "Maa daggara simple website ₹10,000 nundi modalavutundi, okati rendu vaaralalo ready avutundi. 299+ page SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalavutayi. Mee pages, features batti itemised quote raatapoorvakanga pampistamu, approval tarvate billing.",
     },
     {
       question: "Narasapuram me website banwane me kitna paisa lagta hai?",

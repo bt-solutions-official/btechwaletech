@@ -40,7 +40,7 @@ const sikandrabad: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Factory and supplier sites", "Hindi and English SEO", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Sikandrabad business, a website with us starts at ₹10,000 and takes one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are remote, with no Sikandrabad office.",
+    "For a Sikandrabad business, a website with us starts at ₹10,000 and takes one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are remote, with no Sikandrabad office.",
   snapshot: [
     { label: "Location", value: "Tehsil town of Bulandshahr district on the GT Road, roughly 50 km from Delhi and a few kilometres past Greater Noida" },
     { label: "History", value: "Founded in 1498 by Sultan Sikandar Lodi, later a mahal headquarters under Akbar" },
@@ -158,7 +158,7 @@ const sikandrabad: CityContent = {
       id: "website-cost-sikandrabad",
       heading: "Website cost in Sikandrabad: starting prices and what moves the quote",
       paragraphs: [
-        "Our published starting prices apply in Sikandrabad as everywhere else. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation both start at ₹40,000, online stores at ₹50,000 and custom web apps or software at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
+        "Our published starting prices apply in Sikandrabad as everywhere else. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation both start at ₹40,000, online stores at ₹50,000 and custom web apps or software at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
         "What raises a quote is scope: a large product range, two languages, logins for dealers or staff, payments, dispatch tracking or links to Tally. Content matters too. If you send your product details and photographs, the price stays near the starting figure; if we write and organise everything from scratch, that appears as a separate line so you can decide.",
         "Local quotes vary widely, from very cheap template sites to agency proposals. When comparing, ask who owns the domain and hosting, whether mobile testing and basic SEO are included, how many change rounds you get, how long support lasts after launch, and whether the code is handed over.",
         "Our <a href=\"/pricing/\">pricing page</a> lists every starting price, and a written itemised quote reaches you in about two working days.",
@@ -221,7 +221,7 @@ const sikandrabad: CityContent = {
     {
       question: "What is the website cost in Sikandrabad?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the written quote depends on pages, languages, product count and integrations, and it is itemised so you can see what each part costs before approving anything.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the written quote depends on pages, languages, product count and integrations, and it is itemised so you can see what each part costs before approving anything.",
     },
     {
       question: "Do you build Android and iOS apps for Sikandrabad businesses?",
@@ -231,7 +231,7 @@ const sikandrabad: CityContent = {
     {
       question: "How long does a website take for a Sikandrabad factory?",
       answer:
-        "A static site usually takes one to two weeks once we have your product details and photographs. A 700+ page SEO site takes three to five weeks and an online store four to eight. Most delays come from waiting on content, so sending specifications and plant photos early speeds things up considerably.",
+        "A static site usually takes one to two weeks once we have your product details and photographs. A 299+ page SEO site takes three to five weeks and an online store four to eight. Most delays come from waiting on content, so sending specifications and plant photos early speeds things up considerably.",
     },
     {
       question: "Which is the best website development team in Sikandrabad?",
@@ -256,7 +256,7 @@ const sikandrabad: CityContent = {
     {
       question: "Sikandrabad me website ya app banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek se do hafte mein taiyaar ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapke features dekh kar likhit quote do working days mein milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek se do hafte mein taiyaar ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapke features dekh kar likhit quote do working days mein milta hai.",
     },
     {
       question: "You have no office in Sikandrabad. How does remote work stay safe?",

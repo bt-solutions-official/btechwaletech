@@ -35,7 +35,7 @@ const adityapur: CityContent = {
     pills: ["Websites from ₹10,000", "B2B vendor and RFQ pages", "Production and dispatch tools", "Hindi, Bengali and English", "5 months free maintenance"],
   },
   quickAnswer:
-    "For an Adityapur unit or shop, our static websites start at ₹10,000 and take one to two weeks. A 700+ page SEO site starts at ₹20,000, AI and WhatsApp automation at ₹40,000, online stores at ₹50,000 and custom production or dispatch software at ₹60,000. We work remotely with no Adityapur office and include five months of free maintenance.",
+    "For an Adityapur unit or shop, our static websites start at ₹10,000 and take one to two weeks. A 299+ page SEO site starts at ₹20,000, AI and WhatsApp automation at ₹40,000, online stores at ₹50,000 and custom production or dispatch software at ₹60,000. We work remotely with no Adityapur office and include five months of free maintenance.",
   snapshot: [
     { label: "Setting", value: "Municipal corporation in Seraikela Kharsawan district, across the Kharkai river from Jamshedpur and part of its urban agglomeration" },
     { label: "Industrial area", value: "Managed by the Adityapur Industrial Area Development Authority, now under JIADA; over 3,200 hectares with more than 1,200 units" },
@@ -90,13 +90,13 @@ const adityapur: CityContent = {
       heading: "What websites and software cost for Adityapur units",
       paragraphs: [
         "Industrial firms in Adityapur get quotes ranging from a few thousand rupees for a template site to large amounts from agencies selling annual digital-marketing retainers. Neither usually explains what is included. Our starting prices sit on the <a href=\"/pricing/\">pricing page</a>, and every quote is broken into line items.",
-        "A static website of up to 100 pages starts at ₹10,000 and is ready in one to two weeks. A 700+ page site designed for search starts at ₹20,000, useful for traders and manufacturers with many part numbers or product lines. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, and custom software such as job-card, production or dispatch systems at ₹60,000. Monthly SEO starts at ₹10,000.",
+        "A static website of up to 100 pages starts at ₹10,000 and is ready in one to two weeks. A 299+ page site designed for search starts at ₹20,000, useful for traders and manufacturers with many part numbers or product lines. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, and custom software such as job-card, production or dispatch systems at ₹60,000. Monthly SEO starts at ₹10,000.",
         "These figures are where projects begin, not package prices. Complexity, number of users and integrations with Tally or other systems change the total, and you see every item before approving.",
         "For units that are unsure where to begin, we usually suggest the website and a clean Google listing first, then software once the website has started bringing enquiries. Spreading the spend over two or three stages keeps cash flow comfortable, and each stage stands on its own if you decide to stop there.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, capability pages, RFQ form, map and search basics.",
-        "<strong>From ₹20,000:</strong> 700+ pages for part numbers, product lines or buyer industries.",
+        "<strong>From ₹20,000:</strong> 299+ pages for part numbers, product lines or buyer industries.",
         "<strong>From ₹50,000:</strong> store with UPI, cards, GST invoices and trade logins.",
         "<strong>From ₹60,000:</strong> job-card, production, quality or dispatch software.",
       ],
@@ -222,12 +222,12 @@ const adityapur: CityContent = {
     {
       question: "How much does a website cost for an Adityapur unit?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom production or dispatch software at ₹60,000. These are starting prices. The written quote lists every page and feature, and you can remove items before approving.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom production or dispatch software at ₹60,000. These are starting prices. The written quote lists every page and feature, and you can remove items before approving.",
     },
     {
       question: "Adityapur me factory ki website banwane me kitna kharcha aata hai?",
       answer:
-        "Humare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte me live ho jaati hai. 700+ page wali SEO website ₹20,000 se aur job card ya dispatch software ₹60,000 se shuru hota hai. Pehle likhit quote milega, aapki manzoori ke bina koi bill nahi banega.",
+        "Humare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte me live ho jaati hai. 299+ page wali SEO website ₹20,000 se aur job card ya dispatch software ₹60,000 se shuru hota hai. Pehle likhit quote milega, aapki manzoori ke bina koi bill nahi banega.",
     },
     {
       question: "Do you have an office in Adityapur or Jamshedpur?",
@@ -257,7 +257,7 @@ const adityapur: CityContent = {
     {
       question: "How long does a project take?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Delays usually come from waiting for photographs, machine lists or sample documents, so we share a checklist at the start.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Delays usually come from waiting for photographs, machine lists or sample documents, so we share a checklist at the start.",
     },
     {
       question: "Can the website be in Hindi or Bengali?",

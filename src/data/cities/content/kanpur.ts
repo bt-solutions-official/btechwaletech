@@ -35,7 +35,7 @@ const kanpur: CityContent = {
     pills: ["Websites from ₹10,000", "Export-ready catalogues", "Hindi and English SEO", "Order automation", "Factory dashboards"],
   },
   quickAnswer:
-    "Website development in Kanpur with us starts at ₹10,000 for a static business site, ₹20,000 for a 700+ page SEO site and ₹50,000 for an online store. Custom software starts at ₹60,000. We are a remote team of three engineers, so there is no showroom cost, you own everything, and maintenance is free for five months.",
+    "Website development in Kanpur with us starts at ₹10,000 for a static business site, ₹20,000 for a 299+ page SEO site and ₹50,000 for an online store. Custom software starts at ₹60,000. We are a remote team of three engineers, so there is no showroom cost, you own everything, and maintenance is free for five months.",
   snapshot: [
     { label: "Leather cluster", value: "Tanneries concentrated at Jajmau on the Ganga, with more across the river in Unnao; finished leather, footwear and saddlery exported worldwide" },
     { label: "Industrial estates", value: "Panki, Dada Nagar and Fazalganj, plus a long history of textile and woollen mills" },
@@ -73,7 +73,7 @@ const kanpur: CityContent = {
       heading: "How much does a website cost in Kanpur?",
       paragraphs: [
         "Prices in Kanpur range from ₹1,999 “offers” on social media to proposals above ₹75,000 from agencies. The cheap offers usually mean a template with your logo dropped in, hosted on an account you will never control. The expensive ones may be good work, but you are also paying for their overheads. What matters is what you get: pages, speed, SEO, ownership and support after launch.",
-        "Our starting prices are simple. A static website of up to 100 pages starts at ₹10,000 and is normally live in one or two weeks. A 700+ page SEO site with a page for each product line or service starts at ₹20,000 and takes three to five weeks. An ecommerce store with UPI, cards and order emails starts at ₹50,000 over four to eight weeks. Custom web applications such as dealer portals or production trackers start at ₹60,000 and take six to twelve weeks.",
+        "Our starting prices are simple. A static website of up to 100 pages starts at ₹10,000 and is normally live in one or two weeks. A 299+ page SEO site with a page for each product line or service starts at ₹20,000 and takes three to five weeks. An ecommerce store with UPI, cards and order emails starts at ₹50,000 over four to eight weeks. Custom web applications such as dealer portals or production trackers start at ₹60,000 and take six to twelve weeks.",
         "AI and WhatsApp automation starts at ₹40,000, and monthly SEO at ₹10,000. The <a href=\"/pricing/\">pricing page</a> shows each plan in detail. You receive an itemised estimate in around two working days, and nothing is invoiced until you have agreed to it in writing.",
       ],
       list: [
@@ -209,12 +209,12 @@ const kanpur: CityContent = {
     {
       question: "How much does a website cost in Kanpur?",
       answer:
-        "With us, a static website costs from ₹10,000, a 700+ page SEO website from ₹20,000, an ecommerce store from ₹50,000 and a custom web application from ₹60,000. Kanpur quotes vary from under ₹2,000 to over ₹75,000, so check what is included: domain and hosting ownership, SEO basics and support after launch.",
+        "With us, a static website costs from ₹10,000, a 299+ page SEO website from ₹20,000, an ecommerce store from ₹50,000 and a custom web application from ₹60,000. Kanpur quotes vary from under ₹2,000 to over ₹75,000, so check what is included: domain and hosting ownership, SEO basics and support after launch.",
     },
     {
       question: "Kanpur me website banwane ka kharcha kitna hai?",
       answer:
-        "Chhoti business website ₹10,000 se shuru hoti hai, SEO wali 700+ page ki website ₹20,000 se, aur online store ₹50,000 se. Factory ya dealer ke liye custom software ₹60,000 se banta hai. Har kaam ka alag-alag quote pehle milta hai, aur aapki likhit manzoori ke bina koi bill nahi banta.",
+        "Chhoti business website ₹10,000 se shuru hoti hai, SEO wali 299+ page ki website ₹20,000 se, aur online store ₹50,000 se. Factory ya dealer ke liye custom software ₹60,000 se banta hai. Har kaam ka alag-alag quote pehle milta hai, aur aapki likhit manzoori ke bina koi bill nahi banta.",
     },
     {
       question: "Do you have an office in Kanpur?",
@@ -234,7 +234,7 @@ const kanpur: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Waiting for product photos and specifications is the most common delay, so we give you a simple checklist on day one.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Waiting for product photos and specifications is the most common delay, so we give you a simple checklist on day one.",
     },
     {
       question: "Can you build software to track orders and dispatch in my factory?",

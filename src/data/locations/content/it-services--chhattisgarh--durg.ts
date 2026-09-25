@@ -204,7 +204,7 @@ const content: CityContent = {
       id: "cost-timeline-durg",
       heading: "What do freelance software developers in Durg charge, and how long does it take?",
       paragraphs: [
-        "BtechWaleTech's starting prices for Durg are ₹10,000 for a mobile-first website (one to two weeks), ₹20,000 for a 700+ page SEO site (three to five weeks), ₹40,000 for AI automation (two to four weeks), ₹40,000 for Android and iOS apps (six to ten weeks), ₹50,000 for an online store (four to eight weeks) and ₹60,000 for custom software (six to twelve weeks).",
+        "BtechWaleTech's starting prices for Durg are ₹10,000 for a mobile-first website (one to two weeks), ₹20,000 for a 299+ page SEO site (three to five weeks), ₹40,000 for AI automation (two to four weeks), ₹40,000 for Android and iOS apps (six to ten weeks), ₹50,000 for an online store (four to eight weeks) and ₹60,000 for custom software (six to twelve weeks).",
         "Final cost depends on scope: number of products or branches, delivery rules, offline features, integrations with Tally or billing software, and how much data we import. Projects move fastest when one person reviews each demo and product lists, photos and price sheets are ready early.",
       ],
     },

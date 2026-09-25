@@ -35,7 +35,7 @@ const orai: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi-first pages", "Handmade paper stores", "Clinic and coaching sites", "5 months free maintenance"],
   },
   quickAnswer:
-    "An Orai business can get a static website from us from ₹10,000, usually live within two weeks. SEO websites with 700+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores for handmade paper or retail at ₹50,000 and custom software at ₹60,000. We work remotely and have no Orai office.",
+    "An Orai business can get a static website from us from ₹10,000, usually live within two weeks. SEO websites with 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores for handmade paper or retail at ₹50,000 and custom software at ₹60,000. We work remotely and have no Orai office.",
   snapshot: [
     { label: "Position", value: "Headquarters of Jalaun district in the Bundelkhand plains, Jhansi division, between the Yamuna and the Betwa" },
     { label: "Connectivity", value: "Orai station on the Jhansi–Kanpur line, NH 27, and the Bundelkhand Expressway, inaugurated in 2022 at Kaitheri in Orai tehsil" },
@@ -100,12 +100,12 @@ const orai: CityContent = {
       heading: "What a website costs in Orai",
       paragraphs: [
         "In Orai you may be offered a very cheap website by a local computer centre, or a large quote from an agency in Kanpur, Jhansi or Lucknow. The cheapest sites are often made on a free builder, with the domain in the maker's name and no Google setup. The most expensive are priced for companies with marketing budgets.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts at ₹10,000 and is ready in one to two weeks; it suits shops, clinics, tutors, traders and small schools. A 700+ page SEO site starts at ₹20,000, for hospitals, larger schools and businesses with many services. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, custom web software at ₹60,000 and monthly SEO at ₹10,000.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts at ₹10,000 and is ready in one to two weeks; it suits shops, clinics, tutors, traders and small schools. A 299+ page SEO site starts at ₹20,000, for hospitals, larger schools and businesses with many services. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, custom web software at ₹60,000 and monthly SEO at ₹10,000.",
         "The quote lists every page and feature separately, and you can remove anything before approving. Nothing is billed until you agree in writing.",
       ],
       list: [
         "<strong>₹10,000 se shuru:</strong> up to 100 pages, mobile layout, map, enquiry form and basic SEO.",
-        "<strong>₹20,000 se shuru:</strong> 700+ pages for departments, courses, doctors or products.",
+        "<strong>₹20,000 se shuru:</strong> 299+ pages for departments, courses, doctors or products.",
         "<strong>₹50,000 se shuru:</strong> online store with UPI, cards, shipping rules and order alerts.",
         "<strong>₹60,000 se shuru:</strong> trade registers, fee systems or booking tools with logins.",
       ],
@@ -227,7 +227,7 @@ const orai: CityContent = {
     {
       question: "How much does a website cost in Orai?",
       answer:
-        "With us, static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web software at ₹60,000. These are starting prices; the final figure depends on what you need. You see a written, itemised quote before any work or billing.",
+        "With us, static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web software at ₹60,000. These are starting prices; the final figure depends on what you need. You see a written, itemised quote before any work or billing.",
     },
     {
       question: "Orai me website banwane me kitna kharcha aayega?",
@@ -262,7 +262,7 @@ const orai: CityContent = {
     {
       question: "How long does it take to make a website?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Delays usually come from waiting for photographs and details, so we send a short checklist on the first day.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Delays usually come from waiting for photographs and details, so we send a short checklist on the first day.",
     },
     {
       question: "Do you build websites for coaching centres in Orai?",

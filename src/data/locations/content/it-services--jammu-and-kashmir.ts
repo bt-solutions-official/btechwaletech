@@ -175,7 +175,7 @@ const content: CityContent = {
       paragraphs: [
         "SEO for Jammu and Kashmir businesses focuses on the searches that bring customers: tourists planning trips to Srinagar, Gulmarg or Pahalgam, pilgrims booking hotels in Katra, buyers looking for genuine saffron or Pashmina, and residents searching for local clinics, schools and services in Srinagar, Jammu and district towns.",
         "We create destination, package and product pages with accurate, useful detail, optimise Google Business Profiles, add schema for hotels, products and local businesses, and write answer-first content that AI tools such as Google AI Overviews and ChatGPT can quote. Seasonal pages, such as tulip-season packages or winter snow trips, should go live well before demand peaks.",
-        "Monthly SEO starts from ₹10,000, and SEO websites of 700+ pages start from ₹20,000; see our <a href=\"/services/seo-services/\">SEO services page</a>. We report monthly and never promise rankings. Honest, accurate information is also the best protection against the negative reviews that follow overpromising.",
+        "Monthly SEO starts from ₹10,000, and SEO websites of 299+ pages start from ₹20,000; see our <a href=\"/services/seo-services/\">SEO services page</a>. We report monthly and never promise rankings. Honest, accurate information is also the best protection against the negative reviews that follow overpromising.",
       ],
     },
     {
@@ -200,13 +200,13 @@ const content: CityContent = {
       id: "cost-it-services-jk",
       heading: "How much do IT services in Jammu and Kashmir cost?",
       paragraphs: [
-        "IT services in Jammu and Kashmir from BtechWaleTech start at ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store, ₹60,000 for booking or custom software, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after the free period.",
+        "IT services in Jammu and Kashmir from BtechWaleTech start at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store, ₹60,000 for booking or custom software, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after the free period.",
         "The final price depends on properties, users, integrations, languages, offline requirements and data migration. Quotes are itemised so you can phase the work around your season. Payment is in INR only, by UPI through our QR code or by direct bank transfer to our bank account, split into milestones.",
         "Timing matters. Tourism businesses should aim to launch before spring, horticulture traders before the harvest, and schools before admissions. Examples of our work are on the <a href=\"/portfolio/\">portfolio</a>, and <a href=\"/contact/\">a WhatsApp message</a> is enough to start a quote.",
       ],
       list: [
         "Static website: from ₹10,000, one to two weeks",
-        "SEO website (700+ pages): from ₹20,000, three to five weeks",
+        "SEO website (299+ pages): from ₹20,000, three to five weeks",
         "AI automation: from ₹40,000, two to four weeks",
         "Android and iOS app: from ₹40,000, six to ten weeks",
         "Online store: from ₹50,000, four to eight weeks",

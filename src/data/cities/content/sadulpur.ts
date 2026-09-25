@@ -34,7 +34,7 @@ const sadulpur: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi-first pages", "Mithai ordering online", "Mandi rate updates", "School and clinic sites"],
   },
   quickAnswer:
-    "A website for a Sadulpur business starts from ₹10,000 with us and usually goes live in one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store for sweets or produce at ₹50,000 and WhatsApp automation at ₹40,000. We are a remote three-engineer team with no Sadulpur office, and five months of maintenance are free.",
+    "A website for a Sadulpur business starts from ₹10,000 with us and usually goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store for sweets or produce at ₹50,000 and WhatsApp automation at ₹40,000. We are a remote three-engineer team with no Sadulpur office, and five months of maintenance are free.",
   snapshot: [
     { label: "Also known as", value: "Rajgarh, a municipality and tehsil headquarters in Churu district, northern Rajasthan" },
     { label: "Rail junction", value: "Sadulpur Junction, the largest station in Churu district, where the Rewari–Bikaner, Hisar and Sri Ganganagar lines meet" },
@@ -72,12 +72,12 @@ const sadulpur: CityContent = {
       heading: "Website cost in Sadulpur: starting prices and what they cover",
       paragraphs: [
         "Quotes in and around Sadulpur range from very cheap one-page sites to expensive agency proposals from bigger cities. The cheap ones often live on the developer's hosting with no search setup, and quietly stop working when a renewal is missed. The expensive ones may include staff and office costs you do not need to fund.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website with up to 100 pages starts from ₹10,000 and usually takes one to two weeks. A 700+ page SEO website starts from ₹20,000 and takes three to five weeks. WhatsApp and AI automation starts at ₹40,000, an online store at ₹50,000, and custom software at ₹60,000. Monthly SEO starts from ₹10,000 a month.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website with up to 100 pages starts from ₹10,000 and usually takes one to two weeks. A 299+ page SEO website starts from ₹20,000 and takes three to five weeks. WhatsApp and AI automation starts at ₹40,000, an online store at ₹50,000, and custom software at ₹60,000. Monthly SEO starts from ₹10,000 a month.",
         "Each is a starting figure, not a fixed rate. Your quote depends on pages, products, languages and features. We list every item separately so you can remove what you don't need, and you are never billed before approving the quote in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> shop, school, clinic or service website in Hindi and English with map and enquiry form.",
-        "<strong>From ₹20,000:</strong> 700+ page site with pages for each product, service or nearby village.",
+        "<strong>From ₹20,000:</strong> 299+ page site with pages for each product, service or nearby village.",
         "<strong>From ₹50,000:</strong> online store for sweets, dry fruits or farm produce with UPI checkout.",
         "<strong>From ₹60,000:</strong> custom ledgers and systems for traders, transporters and institutions.",
       ],
@@ -227,12 +227,12 @@ const sadulpur: CityContent = {
     {
       question: "How much does a website cost in Sadulpur?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO site from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices; your written quote depends on pages, features and content, and nothing is billed until you approve it.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO site from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices; your written quote depends on pages, features and content, and nothing is billed until you approve it.",
     },
     {
       question: "Sadulpur me website banwane ka kharcha kitna hai?",
       answer:
-        "Humare saath simple website ₹10,000 se shuru hoti hai, 700+ page wali SEO website ₹20,000 se aur online store ₹50,000 se. Asli kharcha pages, features aur content par depend karta hai. Kaam shuru hone se pehle likhit itemised quote milta hai, aur aapki manzoori ke baad hi bill banta hai.",
+        "Humare saath simple website ₹10,000 se shuru hoti hai, 299+ page wali SEO website ₹20,000 se aur online store ₹50,000 se. Asli kharcha pages, features aur content par depend karta hai. Kaam shuru hone se pehle likhit itemised quote milta hai, aur aapki manzoori ke baad hi bill banta hai.",
     },
     {
       question: "Do you have an office in Sadulpur?",
@@ -262,7 +262,7 @@ const sadulpur: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five, an online store four to eight and custom software six to twelve. Most delays come from waiting for photos and text, so we prepare drafts for you to check.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five, an online store four to eight and custom software six to twelve. Most delays come from waiting for photos and text, so we prepare drafts for you to check.",
     },
     {
       question: "What can WhatsApp automation do for my business?",

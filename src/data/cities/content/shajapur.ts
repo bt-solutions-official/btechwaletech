@@ -39,7 +39,7 @@ const shajapur: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi local SEO", "Mandi rate and dues tools", "Code and domain in your name"],
   },
   quickAnswer:
-    "A Shajapur business can have a website from ₹10,000, typically delivered within a week or two. Android and iOS apps are ₹40,000 onwards, as are AI assistants; 700+ page SEO builds start at ₹20,000, online shops at ₹50,000 and made-to-order software at ₹60,000. The whole job is done remotely, as we run no Shajapur office.",
+    "A Shajapur business can have a website from ₹10,000, typically delivered within a week or two. Android and iOS apps are ₹40,000 onwards, as are AI assistants; 299+ page SEO builds start at ₹20,000, online shops at ₹50,000 and made-to-order software at ₹60,000. The whole job is done remotely, as we run no Shajapur office.",
   snapshot: [
     { label: "Status", value: "Headquarters of Shajapur district in Ujjain division, Malwa region of Madhya Pradesh" },
     { label: "Population", value: "About 69,300 in the municipality at the 2011 Census" },
@@ -167,13 +167,13 @@ const shajapur: CityContent = {
       id: "website-cost-shajapur",
       heading: "Website cost in Shajapur: starting prices and what shapes the quote",
       paragraphs: [
-        "Here is how the entry points look for a Shajapur owner. A brochure-style site with up to 100 pages is ₹10,000 onwards and is handed over in about a week or two. A big search-focused site of 700 pages or more is ₹20,000 onwards and needs three to five weeks. Android and iPhone apps, and AI assistants, each begin around ₹40,000; an online shop begins at ₹50,000 and made-to-order software at ₹60,000.",
+        "Here is how the entry points look for a Shajapur owner. A brochure-style site with up to 100 pages is ₹10,000 onwards and is handed over in about a week or two. A big search-focused site of 299 pages or more is ₹20,000 onwards and needs three to five weeks. Android and iPhone apps, and AI assistants, each begin around ₹40,000; an online shop begins at ₹50,000 and made-to-order software at ₹60,000.",
         "A Malwa quote changes with specifics: a garlic trader's product list versus a clinic's five pages, Hindi-only or bilingual copy, who writes and who photographs, the payment and courier set-up, the number of app screens, and any Tally connection. Prices from different providers in the district are far apart, so check the fine print: who owns the domain, how many change rounds are included, how quickly pages open on a 4G signal in the villages, and who picks up the phone after launch.",
         "Share your needs and a quote split into items reaches you in about two working days, with no charge until you accept it in writing. The <a href=\"/pricing/\">pricing page</a> has the full table. If cash is short this season, begin with a slim version that can be extended, rather than a bargain build you end up replacing.",
       ],
       list: [
         "Brochure site (up to 100 pages): ₹10,000 onwards, about 1–2 weeks",
-        "Large SEO site (700+ pages): ₹20,000 onwards, about 3–5 weeks",
+        "Large SEO site (299+ pages): ₹20,000 onwards, about 3–5 weeks",
         "Android plus iPhone app: ₹40,000 onwards",
         "AI and WhatsApp assistant: ₹40,000 onwards, about 2–4 weeks",
         "Online shop: ₹50,000 onwards, about 4–8 weeks",
@@ -218,7 +218,7 @@ const shajapur: CityContent = {
     {
       question: "What is the website cost in Shajapur?",
       answer:
-        "Shajapur shops can get a simple site of up to 100 pages from ₹10,000. For a 700+ page search site, budget from ₹20,000; for an online shop, from ₹50,000; for made-to-order software, from ₹60,000. None of these is a final bill. The mix of Hindi and English, product count and integrations set the real amount, and the full breakdown comes to you before any payment.",
+        "Shajapur shops can get a simple site of up to 100 pages from ₹10,000. For a 299+ page search site, budget from ₹20,000; for an online shop, from ₹50,000; for made-to-order software, from ₹60,000. None of these is a final bill. The mix of Hindi and English, product count and integrations set the real amount, and the full breakdown comes to you before any payment.",
     },
     {
       question: "Do you build Android and iOS apps for Shajapur businesses?",
@@ -228,7 +228,7 @@ const shajapur: CityContent = {
     {
       question: "How long does a website take for a Shajapur shop?",
       answer:
-        "Once your photos, phone numbers and product details arrive, a basic site is normally up in a week or two. Expect three to five weeks for a 700+ page SEO site, four to eight for an online shop and six to twelve for made-to-order software. Most delays come from content arriving late, so it helps to collect it before the mandi season gets busy.",
+        "Once your photos, phone numbers and product details arrive, a basic site is normally up in a week or two. Expect three to five weeks for a 299+ page SEO site, four to eight for an online shop and six to twelve for made-to-order software. Most delays come from content arriving late, so it helps to collect it before the mandi season gets busy.",
     },
     {
       question: "Which is the best website development team in Shajapur?",

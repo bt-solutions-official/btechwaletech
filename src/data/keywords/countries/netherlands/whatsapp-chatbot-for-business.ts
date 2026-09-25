@@ -1,0 +1,502 @@
+import { usd } from "@data/countries/international";
+import type { FreelanceContent } from "@data/freelance/types";
+
+const P = {
+  site: usd("Static"), seoSite: usd("SEO website"), shop: usd("Ecommerce"), app: usd("Android"),
+  software: usd("Custom web app"), ai: usd("AI automation"), seo: usd("Monthly SEO"), care: usd("Maintenance"),
+};
+
+const content: FreelanceContent = {
+  path: "/netherlands/whatsapp-chatbot-for-business/",
+  crumb: "WhatsApp chatbot for business",
+  updated: "2026-09-25",
+  meta: {
+    title: `WhatsApp Chatbot for Business NL, from ${P.ai}`,
+    description: `WhatsApp chatbot for business in the Netherlands: order status and tracking, appointment booking, opt-in under the AVG, human handover. Builds from ${P.ai}.`,
+    keywords: [
+      "whatsapp chatbot for business", "whatsapp chatbot netherlands", "whatsapp chatbot nederland", "whatsapp bot for webshop",
+      "whatsapp business api netherlands", "whatsapp business platform setup", "whatsapp chatbot cost", "whatsapp per message pricing",
+      "whatsapp order status bot", "postnl tracking whatsapp", "whatsapp appointment booking bot", "whatsapp chatbot for customer service",
+      "whatsapp chatbot avg gdpr", "whatsapp opt-in rules", "whatsapp human handover", "whatsapp ai chatbot policy 2026",
+      "whatsapp chatbot shopify", "whatsapp chatbot woocommerce", "whatsapp chatbot amsterdam", "whatsapp chatbot rotterdam",
+      "whatsapp chatbot utrecht", "how to build a whatsapp chatbot", "whatsapp business app vs api", "whatsapp chatbot developer",
+      "whatsapp template messages", "remote whatsapp developer india",
+    ],
+  },
+  hero: {
+    eyebrow: "WhatsApp automation for Dutch webshops and service businesses",
+    h1: "WhatsApp chatbot for business: answer Dutch customers where they already are",
+    lede: `A WhatsApp chatbot for business lets your customers check an order, track a parcel, book an appointment or reach a person without calling, all inside the app most Dutch people open many times a day. BtechWaleTech is three freelance developers in India who build these bots on Meta's WhatsApp Business Platform: opt-in handled with the AVG in mind, order and tracking flows for webshops, booking flows for service firms, and a clear route to a human. Builds start from ${P.ai}; see also our <a href='/whatsapp-chatbot-developer/'>WhatsApp chatbot developer</a> overview.`,
+    pills: ["WhatsApp Business Platform", "Order status & tracking", "Appointment booking", "Opt-in and consent log", "Human handover", "Dutch and English flows", "Your Meta account"],
+    origin: "Three freelance developers in India · we reply on WhatsApp ourselves, 7 days a week",
+  },
+  facts: [
+    ["Chatbot build from", `${P.ai}, 2–4 weeks`],
+    ["Platform", "Meta WhatsApp Business Platform (Cloud API)"],
+    ["Meta billing", "Per delivered template message"],
+    ["Customer replies", "Free inside the 24-hour service window"],
+    ["Languages", "Dutch and English flows; you approve Dutch text"],
+    ["Upkeep from", `${P.care} after 5 free months`],
+  ],
+  stats: [
+    { value: "24", label: "Hours in WhatsApp's customer service window" },
+    { value: "3", label: "Freelance developers who build and support the bot" },
+    { value: "2", label: "Working days to an itemised quote" },
+    { value: "7", label: "Days a week we answer your WhatsApp" },
+  ],
+  answer: {
+    heading: "What can a WhatsApp chatbot for business do for a Dutch company, and what does it cost?",
+    text: `A WhatsApp chatbot for business answers routine questions automatically: order status, parcel tracking, opening hours, bookings and returns, then hands harder conversations to a person. Meta charges per delivered template message, while replies inside the 24-hour service window are free. With BtechWaleTech, a custom WhatsApp chatbot starts from ${P.ai} and takes two to four weeks.`,
+    more: `Running a webshop? Pair it with our <a href='/netherlands/shopify-developer/'>Shopify developer</a> or <a href='/netherlands/woocommerce-developer/'>WooCommerce developer</a> pages for the store side of the integration.`,
+  },
+  snapshot: {
+    caption: "WhatsApp chatbot for business, in seven lines",
+    rows: [
+      { label: "Good fit", value: "Webshops, clinics, salons, installers, restaurants, rental and repair firms" },
+      { label: "Build", value: `From ${P.ai}, 2–4 weeks` },
+      { label: "Meta's charges", value: "Paid by you directly, per delivered template" },
+      { label: "Opt-in", value: "Collected at checkout or booking, stored with wording and timestamp" },
+      { label: "Top flows", value: "Where is my order, track my parcel, book or move an appointment" },
+      { label: "Handover", value: "Keyword, button or bot confidence triggers a human agent" },
+      { label: "After launch", value: `5 free months, then upkeep from ${P.care}` },
+    ],
+  },
+  services: {
+    eyebrow: "Chatbot building blocks",
+    heading: "What goes into a WhatsApp chatbot for business in the Netherlands",
+    note: "Most Dutch businesses start with two flows and add more once they see which questions dominate.",
+    cards: [
+      { name: "Platform set-up", note: "Meta Business portfolio, business verification support, phone number registration, display name and Cloud API access, all under your ownership.", href: "/whatsapp-business-api-integration/", size: "lg" },
+      { name: "Order and tracking flows", note: "Customers type an order number or postcode and get status and the carrier's tracking link, pulled live from your shop and shipping tool.", size: "lg" },
+      { name: "Appointment booking", note: "Pick a service, see open slots from your calendar, confirm, and get a reminder. Rescheduling and cancelling happen in the same chat.", size: "md" },
+      { name: "AI answers within your scope", note: `An assistant limited to your products, policies and FAQs, with a clear AI label and a fallback to staff. From ${P.ai}.`, href: "/netherlands/ai-automation-agency/", size: "md" },
+      { name: "Human handover inbox", note: "A shared inbox so staff take over a conversation with its history, and the bot stays quiet until they hand it back.", href: "/whatsapp-crm-for-small-business/", size: "md" },
+      { name: "Opt-in and consent capture", note: "Opt-in boxes at checkout and booking, stored with the wording shown, plus a working stop keyword.", size: "sm" },
+      { name: "Template messages", note: "Order confirmations, shipping updates and reminders written, categorised and submitted for Meta approval.", size: "sm" },
+      { name: "Upkeep", note: `Monitoring, template updates, flow tweaks and API changes handled, from ${P.care} after five free months.`, size: "sm" },
+    ],
+  },
+  comparison: {
+    heading: "Business app, chatbot SaaS or a custom-built bot?",
+    note: "Three ways Dutch businesses use WhatsApp for customers. The deciding factors are volume, integrations and who owns the data.",
+    columns: ["Consideration", "WhatsApp Business app", "Off-the-shelf chatbot SaaS", "Custom bot by BtechWaleTech"],
+    rows: [
+      ["Automation depth", "Greeting, away message, quick replies", "Flow builder, limited by the tool", "Any logic your systems support"],
+      ["Live order and tracking data", "No", "Only with supported connectors", "Direct from your shop and shipping tool"],
+      ["Multiple staff on one number", "Limited", "Yes", "Yes, through a shared inbox"],
+      ["Monthly software fee", "None", "Per seat or per contact", "None from us; Meta's charges only"],
+      ["Where data sits", "Phones and Meta", "Vendor's servers", "Your cloud account, EU region"],
+      ["Set-up effort", "Minutes", "Days", "2–4 weeks"],
+      ["Upfront cost", "Free", "Low", `From ${P.ai}`],
+      ["Best for", "Sole traders, low volume", "Standard flows, no developer", "Integrated flows and growing volume"],
+    ],
+    fine: "If you get a handful of WhatsApp messages a day, the free Business app is honestly enough; a custom WhatsApp chatbot for business pays off when volume or integration needs grow.",
+  },
+  pricing: {
+    heading: "What a WhatsApp chatbot costs for a Dutch business",
+    note: `There are two separate costs. Our build starts from ${P.ai} for a custom WhatsApp chatbot with one or two flows, platform set-up, templates, opt-in capture and handover to staff; more flows, AI answers or extra integrations raise the quote. Meta's own charges are billed to your Meta account per delivered template message, by category and recipient country, and Meta publishes rate cards in EUR among other currencies. Hosting for the bot runs in your cloud account. After five months of free upkeep, care starts from ${P.care}. The quote is itemised in USD.`,
+  },
+  guideLabel: "Guide to a WhatsApp chatbot for business in the Netherlands",
+  guide: [
+    {
+      id: "what-it-does",
+      heading: "What is a WhatsApp chatbot for business, and which Dutch businesses need one?",
+      paragraphs: [
+        "A WhatsApp chatbot for business is software connected to your company's WhatsApp number that replies automatically, fetches information from your systems and passes conversations to staff when needed. You need one when the same questions arrive on WhatsApp every day and answering them by hand costs hours.",
+        "Dutch customers are comfortable messaging businesses. They ask a webshop where their parcel is, a garage when the car is ready, a physiotherapist whether Thursday is free. Many small firms answer from a single phone. That works until it does not: messages get missed at weekends, two colleagues answer the same customer, nobody can see what was promised.",
+        "A bot handles the predictable part. Order status, delivery tracking, opening hours, booking and cancelling, return instructions, simple product questions. People handle the rest, with the conversation history in front of them.",
+      ],
+      list: [
+        "Webshops with frequent “where is my order?” messages.",
+        "Clinics, salons and studios that book by appointment.",
+        "Installers and repair firms that coordinate visits.",
+        "Restaurants and takeaways handling reservations or reorders.",
+        "Rental, events and hospitality businesses with seasonal peaks.",
+      ],
+    },
+    {
+      id: "app-vs-platform",
+      heading: "WhatsApp Business app or Business Platform: which does a WhatsApp chatbot for business need?",
+      paragraphs: [
+        "A real chatbot needs the WhatsApp Business Platform, Meta's API for businesses; the free WhatsApp Business app only offers greeting messages, away messages and quick replies. Which one you need depends on volume, integrations and how many people answer.",
+        "The Business app is a phone app for small teams. It is excellent for a sole trader and costs nothing. The Business Platform, usually through Meta's Cloud API, is what lets software send and receive messages, connect to your shop or calendar, and let several staff members share one number through an inbox.",
+      ],
+      subs: [
+        { heading: "Stay on the app when", text: "You receive a manageable number of messages, one or two people answer, and no live data from other systems is needed." },
+        { heading: "Move to the platform when", text: "You want automatic order or booking flows, several staff on one number, template notifications at scale, or reporting on response times." },
+      ],
+      after: [
+        "Our India-focused comparison of the <a href='/whatsapp-business-app-vs-api/'>WhatsApp Business app and API</a> explains the same trade-off in more depth; the platform rules are identical in the Netherlands.",
+      ],
+    },
+    {
+      id: "setup",
+      heading: "How do you set up a WhatsApp chatbot for business on Meta's platform?",
+      paragraphs: [
+        "Set-up has four parts: a Meta Business portfolio for your company, a phone number registered to the WhatsApp Business Platform, a verified display name, and the bot software connected through the Cloud API. We guide you through the parts that need your company documents and do the technical steps ourselves.",
+        "Everything is created under your ownership. Your company owns the Meta Business portfolio, the WhatsApp Business account and the number; we are added as a partner or user and can be removed at any time. The bot itself runs in your cloud account, usually in an EU region.",
+      ],
+      list: [
+        "Create or confirm the Meta Business portfolio in your company's name.",
+        "Start business verification with your company details.",
+        "Choose a number: a new one, or migrate the one customers already know.",
+        "Register the display name customers will see.",
+        "Connect the Cloud API to the bot and set up webhooks.",
+        "Submit your first template messages for approval.",
+      ],
+      after: [
+        "If customers already know a number from the Business app, decide early whether the bot should use that number or a new one. Meta's options for existing numbers change from time to time, so we check the current rules with you before touching anything.",
+      ],
+    },
+    {
+      id: "pricing-model",
+      heading: "How does Meta charge for a WhatsApp chatbot for business?",
+      paragraphs: [
+        "Since 1 July 2025 Meta charges per delivered template message rather than per conversation, with rates set by message category and the recipient's country. Replies inside the customer service window are free.",
+        "According to Meta's pricing documentation, when a customer messages you a 24-hour customer service window opens; during that window non-template messages are free, and utility templates sent within it are also free. Template categories are marketing, utility and authentication. When someone reaches you through a Click to WhatsApp ad or a Facebook call-to-action, a free entry point window stays open for 72 hours in which all message types are free.",
+        "Meta publishes rate cards in 15 billing currencies, including EUR, so a Dutch business can budget in euros. The amounts change from time to time, so we link you to Meta's current rate card rather than quoting figures. You can read the model in Meta's <a href='https://developers.facebook.com/docs/whatsapp/pricing/' rel='noopener'>WhatsApp pricing documentation</a>.",
+      ],
+      list: [
+        "Customer asks “where is my order?” and the bot answers: free, inside the window.",
+        "Shipping update sent as a utility template outside any window: charged.",
+        "Promotional message about a sale: marketing template, charged.",
+        "Login code: authentication template, charged.",
+      ],
+      after: [
+        "Design choices move this bill. A bot that answers customer questions costs very little in Meta fees; a bot that pushes many marketing templates costs more. We model your expected volume in the quote so there are no surprises.",
+      ],
+    },
+    {
+      id: "opt-in",
+      heading: "What opt-in does WhatsApp require, and how does it fit the AVG?",
+      paragraphs: [
+        "Before you send someone template messages, Meta requires that they have given their number and opted in to messages from your business, with the business name stated clearly. For a Dutch company that opt-in also has to fit the AVG, the Dutch term for the GDPR.",
+        "Meta's opt-in guidance says businesses must clearly state that a person is opting in to receive communication and must name the business they will hear from. Opt-in can be collected on a website, by SMS, through a phone system or on paper, as long as those conditions and local law are met.",
+        "In practice we add an unticked checkbox at checkout or booking, with plain text such as “Send me order updates on WhatsApp from [your shop]”. The system stores the wording, the time and the source. Marketing messages get a separate opt-in, because customers who want tracking updates have not necessarily agreed to promotions.",
+      ],
+      list: [
+        "Separate opt-ins for service updates and for marketing.",
+        "A stop keyword that works in Dutch and English.",
+        "Opt-outs synced back to your shop or CRM.",
+        "No purchased or scraped number lists, ever.",
+      ],
+      after: [
+        "How you describe this in your privacy statement, and which legal basis you rely on, is for you and your adviser. Our job is to make the technical side match what you promise customers.",
+      ],
+    },
+    {
+      id: "data",
+      heading: "How should a WhatsApp chatbot handle personal data under the AVG?",
+      paragraphs: [
+        "Collect only what each flow needs, keep chat data in your own systems for a defined period, and restrict who can read it. The bot should know an order number and a postcode, not a customer's full history.",
+        "WhatsApp messages pass through Meta; that is unavoidable on the platform, and you should mention it in your privacy statement. What you control is everything on your side: where the bot stores conversation logs, how long, who has access, and what is sent to other services such as an AI model.",
+      ],
+      list: [
+        "Bot and logs hosted in an EU region in your cloud account.",
+        "Automatic deletion of conversation logs after a period you choose.",
+        "Staff access through named accounts, not a shared login.",
+        "No medical, financial or ID details requested in chat unless you have decided how to protect them.",
+        "Any AI provider listed as a processor, with data kept to the minimum needed.",
+      ],
+      after: [
+        "Compliance stays your responsibility, confirmed by your own counsel; we build the controls. For broader privacy work on your website, see <a href='/netherlands/gdpr-compliant-website-development/'>GDPR-compliant website development</a>.",
+      ],
+    },
+    {
+      id: "order-tracking",
+      heading: "How does a WhatsApp chatbot for business handle order status and PostNL tracking?",
+      paragraphs: [
+        "The customer sends a message, the bot asks for an order number and postcode, looks up the order in your shop, and replies with the status and the carrier's tracking link. For shops shipping with PostNL, DHL or DPD, the tracking information comes from the carrier or your shipping tool.",
+        "This single flow often removes a large share of repetitive messages for a webshop, because “where is my order?” is the question customers ask most after buying. It also runs mostly inside the free customer service window, since the customer starts the conversation.",
+      ],
+      subs: [
+        { heading: "Shop connection", text: "Shopify and WooCommerce both expose order data through APIs. The bot reads status, items and shipment details; it never changes an order without staff approval." },
+        { heading: "Tracking data", text: "If your shipping tool already stores the tracking code, the bot builds the link. Where you need live scan events, we connect to the carrier's API." },
+        { heading: "Proactive updates", text: "With opt-in, the shop can send a utility template when the parcel ships and again when it is out for delivery." },
+      ],
+      after: [
+        "Returns fit the same pattern: check eligibility, send return instructions or a label link, and log the request for staff. The shop side of this is covered on our <a href='/netherlands/shopify-developer/'>Shopify developer page for Dutch brands</a>.",
+      ],
+    },
+    {
+      id: "booking",
+      heading: "Can a WhatsApp chatbot for business book appointments?",
+      paragraphs: [
+        "Yes. The bot offers services, shows available slots from your calendar or booking system, confirms the appointment and sends a reminder, all inside the chat. Customers can move or cancel with a message instead of calling.",
+        "Service businesses in the Netherlands, from hair salons in Haarlem to physiotherapists in Nijmegen, lose time to phone tag and no-shows. A booking flow on WhatsApp shortens both. The bot reads availability live, so it never offers a slot that was just taken on the website.",
+      ],
+      list: [
+        "Choose a service and, if relevant, a staff member.",
+        "See the next available slots, then pick one.",
+        "Confirm with name and phone number, nothing more.",
+        "Reminder template the day before, with reschedule and cancel buttons.",
+        "Staff see bookings in the calendar they already use.",
+      ],
+      after: [
+        "Where no booking system exists yet, we can build a small scheduling back-end as part of the project, quoted separately from the chatbot. For clinics handling health information, keep clinical questions out of the chat and route them to staff.",
+      ],
+    },
+    {
+      id: "handover",
+      heading: "When should a WhatsApp chatbot for business hand over to a human?",
+      paragraphs: [
+        "Hand over whenever the customer asks for a person, when the bot has failed to understand twice, when a complaint or payment dispute appears, and whenever a decision needs judgement. A bot that traps customers in loops does more damage than no bot at all.",
+        "The handover must be visible and complete. Staff receive the conversation with its history in a shared inbox, the bot stops replying, and the customer is told a colleague will answer and roughly when. Outside business hours the bot says so honestly and collects details for the next morning.",
+      ],
+      subs: [
+        { heading: "Customer triggers", text: "Typing “medewerker”, “mens”, “agent” or “human”, or tapping a “talk to a person” button." },
+        { heading: "Bot triggers", text: "Two failed attempts to understand, low confidence in an AI answer, or a topic on your always-escalate list." },
+        { heading: "Staff controls", text: "Take over, hand back to the bot, add an internal note, and tag the conversation for reporting." },
+      ],
+      after: [
+        "We write your handover rules down before building, together with you, because they are really service policy rather than code.",
+      ],
+    },
+    {
+      id: "ai-rules",
+      heading: "Can a WhatsApp chatbot use AI, and what do Meta and the EU AI Act allow?",
+      paragraphs: [
+        "Yes, as long as the AI serves your business's own customer service or sales tasks. Meta's WhatsApp Business Solution Terms, changed in October 2025, bar general-purpose AI assistants from the platform from 15 January 2026, while task-specific bots such as customer support, order enquiries and appointment handling remain allowed.",
+        "So a bot that answers questions about your products, delivery and returns, drawing on your own FAQ and policies, is fine. A bot that will chat about anything, write poems or answer questions unrelated to your business is not what the platform is for.",
+        "In the EU there is a second rule to design for. Article 50(1) of the EU AI Act says people must be informed that they are interacting with an AI system unless that is obvious from the context. We label AI answers clearly in the first message and keep a human route available at every step.",
+      ],
+      list: [
+        "Answers grounded in your own content, not the open internet.",
+        "A topic boundary: off-topic questions get a polite redirect.",
+        "Logging of AI answers so you can review and correct them.",
+        "A spending cap on model usage.",
+      ],
+      after: [
+        `AI-powered bots start from ${P.ai}. Wider automation, such as triaging email and tickets, is covered on our <a href='/netherlands/ai-automation-agency/'>AI automation page for the Netherlands</a>.`,
+      ],
+    },
+    {
+      id: "templates-language",
+      heading: "How do template messages and Dutch-language flows work?",
+      paragraphs: [
+        "Template messages are pre-approved message formats you send outside the 24-hour window, such as a shipping update or appointment reminder; each is submitted to Meta with a category and a language. For a Dutch business, you usually need each template in Dutch and English.",
+        "We draft template structures and variables, you supply or approve the Dutch wording, and we submit them. The bot detects the customer's preferred language from their first message or a menu choice and stays in it. We do not write native Dutch copy ourselves; a Dutch speaker on your team should approve every customer-facing line.",
+      ],
+      list: [
+        "Keep utility templates purely informational; promotional wording can push them into the marketing category.",
+        "Use variables for order numbers, dates and names rather than many near-identical templates.",
+        "Add quick-reply buttons for the next likely action.",
+        "Review templates when your delivery or return policy changes.",
+      ],
+    },
+    {
+      id: "cost-drivers",
+      heading: "What drives the cost of a WhatsApp chatbot for business?",
+      paragraphs: [
+        `Our builds start from ${P.ai}; the quote grows with the number of flows, the systems the bot must read from, AI features and the inbox set-up. Meta's per-message charges are separate and depend on how many templates you send.`,
+        "Quotes for WhatsApp chatbots vary widely between SaaS tools, local bureaus and freelancers. The honest differences are integration depth, whether a monthly per-seat fee applies, and who owns the data and the number.",
+      ],
+      list: [
+        "Number of conversation flows (order status, booking, returns, FAQ).",
+        "Integrations: shop, carrier, calendar, CRM, helpdesk.",
+        "Rule-based menus only, or AI answers on top.",
+        "Shared inbox for staff and reporting needs.",
+        "Languages and the number of templates.",
+        "Expected message volume, which affects Meta's charges and hosting.",
+      ],
+      after: [
+        "A narrow first version with one or two flows is usually the right start. You see real questions in the logs within weeks and can add flows based on evidence rather than guesses.",
+      ],
+    },
+    {
+      id: "working-from-nl",
+      heading: "How does a team in India build a WhatsApp chatbot for business owners in the Netherlands?",
+      paragraphs: [
+        "A WhatsApp chatbot for business is built remotely, in English, with calls during your morning and early afternoon, which is our afternoon and evening in India. The time difference is three and a half hours in Dutch summer and four and a half in winter.",
+        "Because the product is itself a messaging tool, it suits remote work well. You test every flow on your own phone from the first week, send feedback in the same WhatsApp group we use for the project, and see changes the same or next day.",
+      ],
+      subs: [
+        { heading: "Accounts and ownership", text: "Meta Business portfolio, WhatsApp number, cloud account and code are yours. We work as added users you can remove." },
+        { heading: "Payment", text: "USD quote, paid in milestones by Wise, bank wire or PayPal, invoiced from India. Meta bills you directly for messages." },
+        { heading: "Terms", text: "Scope and milestones sit in the written quote; wider terms are on our terms page, and anything else is agreed in writing." },
+        { heading: "First two weeks", text: "Days 1–2: call and quote. Days 3–6: Meta set-up and verification started, flows drawn as diagrams. Days 7–14: first flow working on a test number, templates submitted." },
+      ],
+      after: [
+        "We do not visit premises, install hardware or run your customer service. If you need someone to answer chats for you, that is a staffing question, not a development one.",
+      ],
+    },
+    {
+      id: "risks",
+      heading: "What are the common mistakes with a WhatsApp chatbot for business?",
+      paragraphs: [
+        "The biggest mistakes are building too many flows at once, hiding the human option, and sending marketing templates to people who only agreed to order updates. All three are avoidable.",
+      ],
+      list: [
+        "Launching ten flows at once instead of the two that cover most questions.",
+        "No clear way to reach a person, which frustrates customers quickly.",
+        "Mixing service and marketing opt-ins, risking complaints and quality ratings.",
+        "Templates written in a promotional tone, so they are categorised as marketing.",
+        "Bot hosted on a vendor's or developer's account instead of yours.",
+        "No monitoring, so a broken shop API silently stops order replies.",
+        "AI answers without logging, so wrong answers go unnoticed.",
+      ],
+      after: [
+        "Meta also rates the quality of your messaging. If many customers block or report you, sending limits can suffer, which is another reason to keep marketing volume modest and opt-ins clean.",
+      ],
+    },
+    {
+      id: "example",
+      heading: "Example: a WhatsApp chatbot for a bike webshop in Utrecht",
+      paragraphs: [
+        "Take a hypothetical Utrecht webshop selling bike parts and accessories through WooCommerce, shipping with PostNL. Two staff members answer WhatsApp on one phone, and most messages ask where an order is or how to return a wrong size.",
+        "Version one would have two flows. Order status: the customer sends an order number and postcode, the bot replies with status and the PostNL tracking link. Returns: the bot checks the order date against the return period, sends instructions and logs the request. Everything else goes to a shared inbox where both staff members see the history. Opt-in for shipping updates is added at checkout; marketing is left out for now.",
+        `That scope fits the build range from ${P.ai} with a two to three week timeline. Meta charges would be limited mostly to shipping-update templates, since customer-initiated questions fall inside the free service window.`,
+      ],
+      after: [
+        "This is an illustrative scenario, not a real client. A restaurant would swap returns for reorders; the ordering side is covered in our guide to an <a href='/netherlands/online-ordering-system-for-restaurants/'>online ordering system for restaurants</a>.",
+      ],
+    },
+    {
+      id: "checklist",
+      heading: "WhatsApp chatbot for business: launch checklist",
+      paragraphs: [
+        "Use this before your WhatsApp chatbot for business goes live. Each item is quick to check and expensive to skip.",
+      ],
+      list: [
+        "Meta Business portfolio and WhatsApp account owned by your company.",
+        "Business verification started or completed; display name approved.",
+        "Separate opt-ins for service updates and marketing, with stored wording.",
+        "Stop keyword tested in Dutch and English.",
+        "Human handover tested from every flow, including out-of-hours behaviour.",
+        "Templates approved in both languages and correctly categorised.",
+        "Bot hosted in your cloud account in an EU region, with log retention set.",
+        "Monitoring alerts if the shop, carrier or calendar connection fails.",
+        "AI answers labelled and logged, with a spending cap.",
+        "Privacy statement updated to mention WhatsApp and any AI processor.",
+      ],
+    },
+  ],
+  tables: [
+    {
+      id: "message-categories",
+      eyebrow: "Meta's message categories",
+      heading: "Which WhatsApp messages Meta charges for",
+      note: "Based on Meta's per-message pricing, effective 1 July 2025. Rates vary by category and recipient country; check Meta's current rate card.",
+      columns: ["Situation", "Message type", "Charged by Meta?"],
+      rows: [
+        ["Customer asks a question, bot replies", "Service (non-template) message", "No, free inside the 24-hour window"],
+        ["Shipping update sent inside an open window", "Utility template", "No"],
+        ["Shipping update sent outside any window", "Utility template", "Yes"],
+        ["Appointment reminder the day before", "Utility template", "Yes, unless a window is open"],
+        ["Sale announcement or discount", "Marketing template", "Yes"],
+        ["One-time login or verification code", "Authentication template", "Yes"],
+        ["Customer arrived via Click to WhatsApp ad", "Any message", "No, during the 72-hour free entry point window"],
+      ],
+    },
+    {
+      id: "flows",
+      eyebrow: "Flow planner",
+      heading: "WhatsApp chatbot flows for Dutch businesses",
+      note: "Typical first flows by business type, with the systems they read from. Starting prices in USD.",
+      columns: ["Business type", "First flow", "Reads from", "Second flow"],
+      rows: [
+        ["Webshop", "Where is my order + tracking", "Shopify or WooCommerce, shipping tool", "Returns"],
+        ["Clinic or practice", "Book, move or cancel", "Booking system or calendar", "Reminders"],
+        ["Salon or studio", "Book with a chosen staff member", "Calendar", "Reorder products"],
+        ["Installer or repair firm", "Request a visit, get status", "Job planner or CRM", "Quote follow-up"],
+        ["Restaurant or takeaway", "Reservations or reorder", "Reservation or ordering system", "Opening hours and allergens info"],
+        ["B2B wholesaler", "Order status for account customers", "ERP or webshop", "Reorder last order"],
+      ],
+      hideSm: [3],
+    },
+    {
+      id: "build-scope",
+      eyebrow: "Scope and starting price",
+      heading: "WhatsApp chatbot scopes and starting prices",
+      note: "Our build costs for a WhatsApp chatbot for business only. Meta's message charges and cloud hosting are billed to you directly.",
+      columns: ["Scope", "What is included", "Starts from", "Time"],
+      rows: [
+        ["Starter bot", "Platform set-up, one flow, handover, opt-in capture", P.ai, "2 weeks"],
+        ["Webshop bot", "Order status, tracking, returns, templates, inbox", P.ai, "2–4 weeks"],
+        ["Booking bot", "Calendar link, booking, reminders, rescheduling", P.ai, "2–4 weeks"],
+        ["AI-assisted bot", "Answers from your content, labels, logging, caps", P.ai, "3–4 weeks"],
+        ["Bot plus custom back-end", "New booking or order system behind the bot", P.software, "6–12 weeks"],
+        ["Upkeep", "Monitoring, template and flow changes, API updates", P.care, "Monthly, after 5 free months"],
+      ],
+      hideSm: [3],
+    },
+  ],
+  areas: {
+    eyebrow: "Businesses we serve remotely",
+    heading: "WhatsApp chatbot for business across the Netherlands",
+    note: "No office or site visits in the Netherlands; everything happens online. These are the WhatsApp flows that tend to matter for businesses in each place.",
+    cards: [
+      { name: "Amsterdam", note: "Hospitality, rentals and tourist-facing shops often need Dutch and English flows for bookings and questions from visitors who prefer WhatsApp to calling." },
+      { name: "Rotterdam", note: "Webshops and service firms with high message volumes use order-status and delivery flows, so staff can focus on complaints and complex requests." },
+      { name: "The Hague", note: "Clinics, language schools and services for international residents use booking flows in two languages, with careful handling of personal details." },
+      { name: "Utrecht", note: "Online retailers and bike, sports and hobby shops use tracking and returns flows to answer the same post-purchase questions automatically." },
+      { name: "Eindhoven", note: "Technical service providers and installers use WhatsApp to confirm visits and share job status with customers without phone calls." },
+      { name: "Groningen", note: "Student-heavy audiences favour messaging, so housing, fitness and food businesses use bots for bookings, reorders and quick answers." },
+      { name: "Tilburg", note: "Webshops and fulfilment-linked sellers use proactive shipping templates and order lookups to cut incoming support messages." },
+      { name: "Breda", note: "Restaurants, event venues and hospitality groups use reservation and opening-hours flows, with a person taking over for group bookings." },
+      { name: "Nijmegen", note: "Physiotherapy and health practices use appointment and reminder flows while keeping clinical questions away from the bot and with staff." },
+      { name: "Arnhem", note: "Garden centres, installers and home-improvement firms use WhatsApp for delivery windows, visit planning and quote follow-ups." },
+      { name: "Haarlem", note: "Salons, studios and boutique retailers use booking flows that let clients choose a staff member and reschedule without calling." },
+      { name: "Almere", note: "Growing service businesses and local webshops use a starter bot for order status and FAQs before adding more flows." },
+      { name: "Maastricht", note: "Businesses serving Dutch, Belgian and German visitors need multilingual flows, with each language's text approved by a fluent speaker." },
+      { name: "Zwolle", note: "Regional wholesalers and service firms use order status and reorder flows for repeat customers who already message them." },
+    ],
+  },
+  process: {
+    heading: "Your WhatsApp chatbot for business, from first message to live bot",
+    steps: [
+      ["Tell us the top questions", "Send the five questions customers ask most on WhatsApp and which systems hold the answers. Screenshots of real, anonymised chats help us a lot."],
+      ["Quote and flow diagrams", "Within about two working days you get an itemised USD quote and simple diagrams of each flow, including where a person takes over."],
+      ["Meta platform set-up", "Business portfolio, verification, number and display name under your company, with the Cloud API connected to a test environment."],
+      ["Build and test on your phone", "Flows go live on a test number first. You and your staff try to break them; we fix what you find within days."],
+      ["Templates and opt-in", "Templates submitted in Dutch and English, opt-in added at checkout or booking, stop keyword and handover tested."],
+      ["Launch and upkeep", "Switch to the live number, monitor the first weeks closely, then five months of free upkeep before care plans begin."],
+    ],
+  },
+  faqHeading: "WhatsApp chatbot for business: questions from Dutch companies",
+  faqs: [
+    { question: "How much does a WhatsApp chatbot for business cost?", answer: `There are two costs. Our build starts from ${P.ai} for a custom bot with platform set-up, one or two flows, templates, opt-in capture and human handover; more flows, AI or integrations raise the quote. Meta then charges your account per delivered template message by category and country, while replies inside the 24-hour service window are free.` },
+    { question: "How long does it take to build a WhatsApp chatbot for business?", answer: "Two to four weeks for most first versions. Meta business verification and template approval can add time outside our control, so we start those on day one. A starter bot with one flow can be live in about two weeks; bots connecting several systems or using AI answers take closer to four." },
+    { question: "Do I need the WhatsApp Business API for a chatbot?", answer: "Yes. Real chatbots run on Meta's WhatsApp Business Platform, usually through the Cloud API. The free WhatsApp Business app only has greeting messages, away messages and quick replies, and cannot connect to your shop or calendar. For a very small business with few messages, the app may be all you need." },
+    { question: "How does Meta's WhatsApp pricing work now?", answer: "Since 1 July 2025 Meta charges per delivered template message, with rates depending on the category (marketing, utility, authentication) and the recipient's country. Messages inside a 24-hour customer service window are free, including utility templates. Meta publishes rate cards in several currencies including EUR; we link you to the current card rather than quoting amounts." },
+    { question: "Can the chatbot use my existing WhatsApp number?", answer: "Often, yes. Meta provides ways to bring a number already used in the WhatsApp Business app onto the Business Platform, and the exact options and limits change over time. Some businesses prefer a fresh number for the bot to keep things simple. We check Meta's current rules for your number and explain the routes before changing anything." },
+    { question: "Is a WhatsApp chatbot allowed under the AVG?", answer: "A WhatsApp chatbot can be run in line with the AVG if you have a legal basis, collect only needed data, inform customers, and control retention and access. We build opt-in capture, data minimisation, EU hosting for the bot and log deletion. Your privacy statement and legal assessment stay your responsibility, confirmed by your own adviser." },
+    { question: "What opt-in does WhatsApp require?", answer: "Meta requires that customers give their number and opt in to receive messages from your business, with the business name stated clearly. Opt-in can be collected on your website, by SMS, by phone or on paper. We recommend separate opt-ins for order updates and for marketing, stored with the exact wording and time." },
+    { question: "Can the bot show PostNL tracking for my orders?", answer: "Yes. The bot asks for an order number and postcode, looks up the order in your shop and returns the status plus the tracking link. If your shipping tool already stores the PostNL, DHL or DPD tracking code, that is enough; for live scan events we connect to the carrier's API where available." },
+    { question: "Does it work with Shopify and WooCommerce?", answer: "Yes. Both platforms expose order data through APIs, so the bot can read order status, items and shipping details. By default it only reads; any action that changes an order, such as a cancellation, goes to staff for approval. Shopify and WooCommerce shops can also send shipping templates automatically with customer opt-in." },
+    { question: "Can customers book appointments through WhatsApp?", answer: "Yes. The bot offers your services, shows open slots from your calendar or booking system, confirms the booking and sends a reminder with reschedule and cancel options. Availability is read live, so double bookings are avoided. If you have no booking system, we can build a small one, quoted separately." },
+    { question: "How does handover to a human work?", answer: "Customers can ask for a person at any time with a word or button, and the bot also hands over after repeated misunderstandings or on sensitive topics like complaints. Staff get the full conversation in a shared inbox, the bot pauses, and the customer is told when to expect a reply, including outside business hours." },
+    { question: "Can I use ChatGPT-style AI in my WhatsApp chatbot?", answer: "You can use AI for your own business tasks, such as answering questions about your products, delivery and returns. Meta's terms bar general-purpose AI assistants on the platform from 15 January 2026, so the bot must stay on your business topics. We ground answers in your content, label AI replies and log them for review." },
+    { question: "Do I have to tell customers they are talking to a bot?", answer: "Under Article 50(1) of the EU AI Act, people must be informed when they interact with an AI system unless it is obvious from context. Even for simple rule-based menus, being upfront builds trust. We label the bot in its first message and keep a visible option to reach a person." },
+    { question: "Can a WhatsApp chatbot for business reply in Dutch and English?", answer: "Yes. The bot can detect the language from the first message or offer a choice, then stay in that language. Templates are submitted in both. We write English and build the flows; the Dutch text should be written or approved by a Dutch speaker on your team so it sounds natural to your customers." },
+    { question: "Can I send promotions through the WhatsApp chatbot?", answer: "Yes, as marketing templates to customers who opted in to marketing specifically. They are charged by Meta and affect how customers perceive you, so keep volume modest and content relevant. Many blocks or reports can lower your quality rating and messaging limits. We keep service and marketing opt-ins separate." },
+    { question: "Who owns a WhatsApp chatbot for business and its account?", answer: "You do. The Meta Business portfolio, WhatsApp Business account, phone number, cloud account and bot code are all in your company's name. We are added as users or partners that you can remove. Handover includes documentation of the flows, integrations and hosting so another developer could continue." },
+    { question: "Why use a developer instead of a chatbot SaaS tool?", answer: "A SaaS tool is quicker for standard flows and suits businesses without special integrations. A custom build makes sense when you need live data from your own systems, want no per-seat monthly fees, or want the bot and logs in your own EU cloud account. We will tell you if a SaaS tool would serve you better." },
+    { question: "What happens after a WhatsApp chatbot for business launches?", answer: `We monitor closely in the first weeks, adjust flows based on real questions, and cover five months of upkeep for free. After that, care starts from ${P.care} and covers monitoring, template changes, small flow edits and updates when Meta or your shop platform changes an API. New flows are quoted separately.` },
+    { question: "Is it practical to work with a team in India on this?", answer: "Yes. You test flows on your own phone from week one, and we talk during your mornings and early afternoons, which overlap with our working day. WhatsApp messages are answered seven days a week. Quotes are in USD, paid by Wise, bank wire or PayPal in milestones, with nothing billed before you approve." },
+    { question: "Can the WhatsApp bot connect to my CRM or helpdesk?", answer: "Usually yes, if your CRM or helpdesk has an API. The bot can create or update contacts, open tickets and attach the conversation, and staff can work from the tool they already use. We check where each connected tool stores data, since that belongs in your privacy documentation." },
+  ],
+  related: {
+    heading: "Related services for Dutch businesses",
+    links: [
+      { name: "AI automation agency Netherlands", href: "/netherlands/ai-automation-agency/" },
+      { name: "Shopify developer Netherlands", href: "/netherlands/shopify-developer/" },
+      { name: "WooCommerce developer Netherlands", href: "/netherlands/woocommerce-developer/" },
+      { name: "Online ordering system for restaurants", href: "/netherlands/online-ordering-system-for-restaurants/" },
+      { name: "MVP development for startups", href: "/netherlands/mvp-development-for-startups/" },
+      { name: "WordPress website development Netherlands", href: "/netherlands/wordpress-website-development/" },
+      { name: "Technical SEO services Netherlands", href: "/netherlands/technical-seo-services/" },
+      { name: "GDPR-compliant website development", href: "/netherlands/gdpr-compliant-website-development/" },
+      { name: "Custom software development company Netherlands", href: "/netherlands/custom-software-development/" },
+      { name: "All services for the Netherlands", href: "/netherlands/" },
+      { name: "Hire Indian developers", href: "/hire-indian-developers/" },
+      { name: "Pricing", href: "/pricing/" },
+    ],
+  },
+  cta: {
+    heading: "Want a WhatsApp chatbot that answers the questions your team is tired of?",
+    note: "Send us your five most common customer questions and the systems that hold the answers. You will get flow diagrams and an itemised USD quote in about two working days, with nothing billed before you approve.",
+  },
+};
+
+export default content;

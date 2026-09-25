@@ -39,7 +39,7 @@ const pithampur: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Supplier and RFQ websites", "Dispatch and vendor software", "You hold every login"],
   },
   quickAnswer:
-    "In Pithampur, our business websites start at ₹10,000 and are usually live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom factory or vendor software at ₹60,000. We work remotely with no Pithampur office, and you own everything.",
+    "In Pithampur, our business websites start at ₹10,000 and are usually live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom factory or vendor software at ₹60,000. We work remotely with no Pithampur office, and you own everything.",
   snapshot: [
     { label: "Location", value: "Industrial city in Dhar district, part of the Indore metropolitan region, roughly 35 km from Indore airport" },
     { label: "Known as", value: "The “Detroit of India” for its concentration of vehicle and automotive manufacturing" },
@@ -157,7 +157,7 @@ const pithampur: CityContent = {
       id: "website-cost-pithampur",
       heading: "Website cost in Pithampur: starting prices and comparing quotes",
       paragraphs: [
-        "Our starting prices are public: a static website of up to 100 pages from ₹10,000, in one to two weeks; a 700+ page SEO website from ₹20,000, in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000, in two to four weeks; an online store from ₹50,000, in four to eight weeks; and custom software from ₹60,000, in six to twelve weeks. Monthly SEO begins at ₹10,000 a month.",
+        "Our starting prices are public: a static website of up to 100 pages from ₹10,000, in one to two weeks; a 299+ page SEO website from ₹20,000, in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000, in two to four weeks; an online store from ₹50,000, in four to eight weeks; and custom software from ₹60,000, in six to twelve weeks. Monthly SEO begins at ₹10,000 a month.",
         "Industrial projects often grow in scope: more product categories, drawing uploads, customer portals, multiple user roles, Tally links or export documentation. Each of these appears on its own line so your purchase or accounts team can approve item by item. If you supply content and photographs, the price stays close to the starting figure.",
         "Quotes in the Indore region vary widely. When comparing, ask whose company name the domain and hosting will be registered in, whether source code is handed over, how changes after launch are charged, and who fixes problems at month-end when your dispatch system is under pressure. Our <a href=\"/pricing/\">pricing page</a> sets out the starting points, and a written quote reaches you in about two working days.",
       ],
@@ -218,7 +218,7 @@ const pithampur: CityContent = {
     {
       question: "What is the website cost in Pithampur?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, catalogue size, user roles and integrations. You receive an itemised written quote, and nothing is billed until you approve it.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, catalogue size, user roles and integrations. You receive an itemised written quote, and nothing is billed until you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Pithampur businesses?",
@@ -228,7 +228,7 @@ const pithampur: CityContent = {
     {
       question: "How long does a supplier website take?",
       answer:
-        "A capability website usually goes live in one to two weeks after we receive machine lists, photographs and company details. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Clear content from your side is the biggest factor.",
+        "A capability website usually goes live in one to two weeks after we receive machine lists, photographs and company details. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Clear content from your side is the biggest factor.",
     },
     {
       question: "Who is the best software team in Pithampur?",
@@ -253,7 +253,7 @@ const pithampur: CityContent = {
     {
       question: "Pithampur me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte me live ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur factory software ₹60,000 se shuru hai. Pura quote likhit me milta hai, approval ke baad hi billing hoti hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte me live ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur factory software ₹60,000 se shuru hai. Pura quote likhit me milta hai, approval ke baad hi billing hoti hai.",
     },
     {
       question: "You have no office in Pithampur. How do you work with factories?",

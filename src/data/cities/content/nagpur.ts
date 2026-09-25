@@ -35,7 +35,7 @@ const nagpur: CityContent = {
     pills: ["From ₹10,000", "Marathi and Hindi SEO", "Logistics and dispatch tools", "UPI stores", "WhatsApp automation"],
   },
   quickAnswer:
-    "For Nagpur businesses, our websites start at ₹10,000 for a static site and ₹20,000 for a 700+ page site built for Google search. Online stores start at ₹50,000 and custom software at ₹60,000. We are a remote team of three engineers, you own the domain, hosting and code, and the first five months of maintenance are free.",
+    "For Nagpur businesses, our websites start at ₹10,000 for a static site and ₹20,000 for a 299+ page site built for Google search. Online stores start at ₹50,000 and custom software at ₹60,000. We are a remote team of three engineers, you own the domain, hosting and code, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Old trading core", value: "Itwari, Mahal and Gandhibagh for wholesale grain, cloth and household goods; Sitabuldi for retail" },
     { label: "Newer commercial areas", value: "Dharampeth, Ramdaspeth, Civil Lines, Sadar, Manish Nagar and the Wardha Road corridor" },
@@ -73,12 +73,12 @@ const nagpur: CityContent = {
       heading: "How much does a website cost in Nagpur?",
       paragraphs: [
         "Nagpur prices for a small business website run from roughly ₹3,000 to ₹50,000, and the gap is usually explained by things you cannot see in a demo: who owns the hosting, whether SEO is set up, and whether anyone will answer when something breaks next year. Cheaper sites are often rented templates that vanish when you stop paying. Expensive ones may include an agency's full overheads.",
-        "Our pricing is open. A static website of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks. A 700+ page SEO website, with separate pages for each service and the areas you serve, starts at ₹20,000 and takes three to five weeks. An online store with UPI and card payments starts at ₹50,000 and takes four to eight weeks. Custom software such as dispatch boards or dealer portals starts at ₹60,000 over six to twelve weeks.",
+        "Our pricing is open. A static website of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks. A 299+ page SEO website, with separate pages for each service and the areas you serve, starts at ₹20,000 and takes three to five weeks. An online store with UPI and card payments starts at ₹50,000 and takes four to eight weeks. Custom software such as dispatch boards or dealer portals starts at ₹60,000 over six to twelve weeks.",
         "Automation projects begin at ₹40,000 and monthly SEO at ₹10,000. Our <a href=\"/pricing/\">pricing page</a> has the full detail. Your itemised quote usually arrives within two working days, and there is no charge until you approve it in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> static site of up to 100 pages for a clinic, CA office, tutor, caterer or shop.",
-        "<strong>From ₹20,000:</strong> 700+ page SEO site for firms that want enquiries from across Vidarbha.",
+        "<strong>From ₹20,000:</strong> 299+ page SEO site for firms that want enquiries from across Vidarbha.",
         "<strong>From ₹50,000:</strong> online store for food, textile and speciality brands.",
         "<strong>From ₹60,000:</strong> dispatch, dealer and reporting software with logins and roles.",
       ],
@@ -218,7 +218,7 @@ const nagpur: CityContent = {
     {
       question: "How much does a website cost in Nagpur?",
       answer:
-        "Our Nagpur projects start at ₹10,000 for a static site, ₹20,000 for a 700+ page SEO site, ₹50,000 for an online store and ₹60,000 for custom software. Local quotes vary a great deal, so compare what is included: ownership of the domain and hosting, SEO setup and support after launch, not just the headline number.",
+        "Our Nagpur projects start at ₹10,000 for a static site, ₹20,000 for a 299+ page SEO site, ₹50,000 for an online store and ₹60,000 for custom software. Local quotes vary a great deal, so compare what is included: ownership of the domain and hosting, SEO setup and support after launch, not just the headline number.",
     },
     {
       question: "Nagpur madhe website banvayla kiti kharcha yeto?",
@@ -243,7 +243,7 @@ const nagpur: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "One to two weeks for a static site, three to five weeks for a 700+ page SEO site, four to eight weeks for an online store and six to twelve weeks for custom software. Delays usually come from waiting for photos and details, so we draft the text for you and you correct it.",
+        "One to two weeks for a static site, three to five weeks for a 299+ page SEO site, four to eight weeks for an online store and six to twelve weeks for custom software. Delays usually come from waiting for photos and details, so we draft the text for you and you correct it.",
     },
     {
       question: "Can you build an online store for Nagpur oranges or food products?",

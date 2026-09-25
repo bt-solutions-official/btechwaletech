@@ -39,7 +39,7 @@ const barbil: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Fleet and trip software", "Odia, Hindi and English", "All accounts in your name"],
   },
   quickAnswer:
-    "In Barbil, our business websites start at ₹10,000 and are usually live within one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Barbil office, and you own everything we build.",
+    "In Barbil, our business websites start at ₹10,000 and are usually live within one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Barbil office, and you own everything we build.",
   snapshot: [
     { label: "Location", value: "Municipality in Kendujhar (Keonjhar) district, north Odisha, close to the Jharkhand border" },
     { label: "Elevation", value: "Around 1,000 m, surrounded by hills with the Kiriburu range nearby" },
@@ -149,7 +149,7 @@ const barbil: CityContent = {
       id: "website-cost-barbil",
       heading: "Website cost in Barbil: starting prices and how to compare quotes",
       paragraphs: [
-        "Our starting prices are published. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation each start at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
+        "Our starting prices are published. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation each start at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
         "The quote rises with scope: more pages, content in Odia and Hindi as well as English, large product lists, payments and courier integration, logins, GPS, offline entry or links to Tally. If you supply text and photographs, the price stays near the starting figure; if we write or translate, that is a separate line.",
         "Local quotes vary widely. When comparing, ask whose name the domain and hosting are registered in, whether mobile testing and basic SEO are included, how many change rounds you get and who fixes problems after launch. Our <a href=\"/pricing/\">pricing page</a> lists the starting figures, and your written quote reaches you in about two working days.",
       ],
@@ -210,7 +210,7 @@ const barbil: CityContent = {
     {
       question: "What is the website cost in Barbil?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Your final quote depends on pages, languages, products and integrations, and you receive it itemised in writing before any billing.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Your final quote depends on pages, languages, products and integrations, and you receive it itemised in writing before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Barbil businesses?",
@@ -225,7 +225,7 @@ const barbil: CityContent = {
     {
       question: "How long does it take to build a website in Barbil?",
       answer:
-        "A static site is usually live one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Late content is the most common reason for delay.",
+        "A static site is usually live one to two weeks after we receive your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Late content is the most common reason for delay.",
     },
     {
       question: "Who is the best website development team in Barbil?",
@@ -245,7 +245,7 @@ const barbil: CityContent = {
     {
       question: "Barbil me website banwane me kitna kharcha aata hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein taiyaar ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hai. Aapke kaam ke hisaab se likhit quote milega.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein taiyaar ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hai. Aapke kaam ke hisaab se likhit quote milega.",
     },
     {
       question: "You have no office in Barbil. Is remote work safe?",

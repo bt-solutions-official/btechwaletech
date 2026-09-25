@@ -40,7 +40,7 @@ const bhatapara: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first local SEO", "Mill and mandi software", "Your name on every account"],
   },
   quickAnswer:
-    "For a Bhatapara business, a website with us starts at ₹10,000 and a 700+ page SEO site at ₹20,000. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation. Online stores begin at ₹50,000 and custom software for mills or traders at ₹60,000. We work remotely, with no Bhatapara office, and you own everything.",
+    "For a Bhatapara business, a website with us starts at ₹10,000 and a 299+ page SEO site at ₹20,000. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation. Online stores begin at ₹50,000 and custom software for mills or traders at ₹60,000. We work remotely, with no Bhatapara office, and you own everything.",
   snapshot: [
     { label: "District", value: "Baloda Bazar-Bhatapara, Chhattisgarh; district headquarters Baloda Bazar is about 21 km away" },
     { label: "Population", value: "57,537 at the 2011 census, governed by a nagar palika with 27 wards" },
@@ -220,7 +220,7 @@ const bhatapara: CityContent = {
     {
       question: "What is the website cost in Bhatapara?",
       answer:
-        "Our static websites start at ₹10,000 and 700+ page SEO websites at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, Hindi content, products and integrations, and you receive it itemised in writing before anything is billed.",
+        "Our static websites start at ₹10,000 and 299+ page SEO websites at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, Hindi content, products and integrations, and you receive it itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Bhatapara businesses?",
@@ -230,7 +230,7 @@ const bhatapara: CityContent = {
     {
       question: "How long does it take to build a website for a Bhatapara shop?",
       answer:
-        "A simple static website is usually ready in one to two weeks after you send photographs and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner shares content in the first few days.",
+        "A simple static website is usually ready in one to two weeks after you send photographs and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner shares content in the first few days.",
     },
     {
       question: "Which is the best website development team in Bhatapara?",
@@ -255,7 +255,7 @@ const bhatapara: CityContent = {
     {
       question: "Bhatapara me website banwane me kitna kharcha aata hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte me taiyar ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hota hai. Aapke features ke hisaab se likhit quote milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte me taiyar ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hota hai. Aapke features ke hisaab se likhit quote milta hai.",
     },
     {
       question: "You have no office in Bhatapara. How can I trust a remote team?",

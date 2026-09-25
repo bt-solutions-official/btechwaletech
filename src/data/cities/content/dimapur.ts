@@ -34,7 +34,7 @@ const dimapur: CityContent = {
     pills: ["Sites from ₹10,000", "Distributor catalogues", "Naga product stores", "English, Hindi, Nagamese-friendly", "WhatsApp order desks"],
   },
   quickAnswer:
-    "In Dimapur, a business website with us starts at ₹10,000 and usually goes live in one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote three-engineer team with no Dimapur office, and five months of maintenance are free.",
+    "In Dimapur, a business website with us starts at ₹10,000 and usually goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote three-engineer team with no Dimapur office, and five months of maintenance are free.",
   snapshot: [
     { label: "State role", value: "Nagaland's largest city and main commercial gateway, on the Dhansiri river near the Assam border" },
     { label: "Transport", value: "Nagaland's only railway hub on the Lumding–Dibrugarh section, and the state's airport next door in Chümoukedima" },
@@ -72,12 +72,12 @@ const dimapur: CityContent = {
       heading: "What a website costs in Dimapur and what you should expect for the money",
       paragraphs: [
         "Prices in Dimapur vary a lot. Freelancers may offer a basic page for very little, while agencies in Guwahati or Kolkata can quote several times more. The cheapest sites are often template pages on the developer's own hosting, with no search setup and no one to fix them later. Expensive agencies may deliver good work but include costs a local business doesn't need.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts from ₹10,000 and usually takes one to two weeks. An SEO site with 700+ pages starts from ₹20,000 and takes three to five weeks. WhatsApp and AI automation starts at ₹40,000, an online store at ₹50,000 and a custom web app at ₹60,000. Monthly SEO starts from ₹10,000 a month.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts from ₹10,000 and usually takes one to two weeks. An SEO site with 299+ pages starts from ₹20,000 and takes three to five weeks. WhatsApp and AI automation starts at ₹40,000, an online store at ₹50,000 and a custom web app at ₹60,000. Monthly SEO starts from ₹10,000 a month.",
         "Treat each figure as a starting point. Large catalogues, multiple languages, payment integrations and dealer logins add to the quote; ready photos and product data reduce it. Every item is listed separately so you can see exactly what you are paying for.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> shop, school, clinic or service site with enquiry form, map and basic SEO.",
-        "<strong>From ₹20,000:</strong> 700+ page site with pages for each product line, brand or district served.",
+        "<strong>From ₹20,000:</strong> 299+ page site with pages for each product line, brand or district served.",
         "<strong>From ₹50,000:</strong> online store with cart, UPI and cards for Naga food, crafts or retail goods.",
         "<strong>From ₹60,000:</strong> distributor portals, stock and credit tools, route-wise order systems.",
       ],
@@ -220,12 +220,12 @@ const dimapur: CityContent = {
     {
       question: "How much does a website cost in Dimapur?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO site from ₹20,000, an online store from ₹50,000 and a custom web app from ₹60,000. Your written quote depends on pages, features and content, and nothing is billed until you approve it.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO site from ₹20,000, an online store from ₹50,000 and a custom web app from ₹60,000. Your written quote depends on pages, features and content, and nothing is billed until you approve it.",
     },
     {
       question: "Dimapur me website banwane ka kharcha kitna aata hai?",
       answer:
-        "Humare saath simple website ₹10,000 se shuru hoti hai, 700+ page wali SEO website ₹20,000 se aur online store ₹50,000 se. Final amount pages, features aur content par depend karta hai. Kaam shuru hone se pehle likhit itemised quote milta hai, aur approval ke baad hi billing hoti hai.",
+        "Humare saath simple website ₹10,000 se shuru hoti hai, 299+ page wali SEO website ₹20,000 se aur online store ₹50,000 se. Final amount pages, features aur content par depend karta hai. Kaam shuru hone se pehle likhit itemised quote milta hai, aur approval ke baad hi billing hoti hai.",
     },
     {
       question: "Do you have an office in Dimapur?",
@@ -255,7 +255,7 @@ const dimapur: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom app six to twelve. Most delays come from waiting for photos and product data, so we prepare drafts to keep things moving.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom app six to twelve. Most delays come from waiting for photos and product data, so we prepare drafts to keep things moving.",
     },
     {
       question: "What can WhatsApp automation do for my business?",

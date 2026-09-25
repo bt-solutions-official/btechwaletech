@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "Step one", value: "A written scope you send to every bidder" },
       { label: "What to compare", value: "Line items, not the bottom-line total" },
       { label: "Static site", value: `From ${P.site}, 1–2 weeks` },
-      { label: "SEO site, 700+ pages", value: `From ${P.seoSite}, 3–5 weeks` },
+      { label: "SEO site, 299+ pages", value: `From ${P.seoSite}, 3–5 weeks` },
       { label: "How you pay", value: "Advance, mid-project milestone, balance before launch" },
       { label: "Where you review", value: "A private staging link, on your own phone" },
       { label: "What you keep", value: "Code repository, admin logins, domain and hosting" },
@@ -170,7 +170,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does it cost to hire a website developer in India?",
       paragraphs: [
-        `It depends on the project type more than on the developer. Our starting points: a static website up to 100 pages from ${P.site}, an SEO website with 700+ pages from ${P.seoSite}, an online store from ${P.shop}, a custom web app from ${P.software} and an Android plus iOS app from ${P.app}.`,
+        `It depends on the project type more than on the developer. Our starting points: a static website up to 100 pages from ${P.site}, an SEO website with 299+ pages from ${P.seoSite}, an online store from ${P.shop}, a custom web app from ${P.software} and an Android plus iOS app from ${P.app}.`,
         `Across the Indian market, quotes for one scope differ widely. The difference comes from design depth (a purchased theme versus layouts made for your customers), content work, the number of distinct features, what testing is done and how much support is bundled. It rarely comes down to the programming language.`,
         `A useful rule when you hire a website developer: if a quote is much lower than the others, look for the missing line rather than celebrating. If it is much higher, ask which line is driving it; sometimes that line is worth paying for, such as proper content writing for service pages. The full breakdown by project type is on <a href='/website-making-cost-in-india/'>website making cost in India</a>.`,
       ],
@@ -292,7 +292,7 @@ const content: FreelanceContent = {
       columns: ["Project type", "India, from", "Abroad, from", "Typical duration", "Usual payment stages"],
       rows: [
         ["Static website, up to 100 pages", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "3 stages"],
-        ["SEO website, 700+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "3–4 stages"],
+        ["SEO website, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "3–4 stages"],
         ["Online store", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "4 stages, one per module"],
         ["Custom web app or portal", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "4–5 stages"],
         ["Android & iOS app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "4 stages, last after store approval"],
@@ -369,7 +369,7 @@ const content: FreelanceContent = {
   faqHeading: "Hiring a website developer: common questions",
   faqs: [
     { question: "How do I hire a website developer for my business?", answer: "Write a one-page scope with your goal, pages, features, content responsibility, deadline and budget range. Send it unchanged to three developers whose live work you like, ask for itemised quotes and payment stages, and compare line by line. Choose on scope coverage, ownership terms and milestones, then confirm everything in writing before paying the advance." },
-    { question: "How much does it cost to hire a website developer in India?", answer: `It depends mainly on project type. With BtechWaleTech a static website of up to 100 pages starts at ${P.site}, an SEO website with 700+ pages at ${P.seoSite}, an online store at ${P.shop} and a custom web app at ${P.software}. The final amount depends on unique layouts, features and content work, all shown as separate lines.` },
+    { question: "How much does it cost to hire a website developer in India?", answer: `It depends mainly on project type. With BtechWaleTech a static website of up to 100 pages starts at ${P.site}, an SEO website with 299+ pages at ${P.seoSite}, an online store at ${P.shop} and a custom web app at ${P.software}. The final amount depends on unique layouts, features and content work, all shown as separate lines.` },
     { question: "What should a website quotation include?", answer: "A good quotation lists each page or page group, every feature, content writing or editing, integrations, SEO basics, the timeline, payment stages with what triggers each one, ownership of domain and code, and the support period after launch. A single total with no breakdown makes it impossible to compare against other quotes or to settle disagreements later." },
     { question: "Why are website quotes so different for the same requirement?", answer: "Usually because they are not pricing the same thing. One may include content editing, custom layouts and five months of support, while another assumes you supply finished text and stops at launch. Put every quote against your scope in a sheet, ask each developer to price the missing lines, and the totals normally move much closer together." },
     { question: "Should I pay a website developer upfront?", answer: "Pay a reasonable advance, not the full amount. A common structure is an advance on approval, a second payment when layouts appear on a staging link, and the balance when all pages are complete and tested, before the domain goes live. Each payment should match something you can open and check yourself." },

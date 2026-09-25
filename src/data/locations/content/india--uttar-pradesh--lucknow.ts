@@ -185,7 +185,7 @@ const content: CityContent = {
       heading: "SEO and AI-search visibility for Lucknow businesses",
       paragraphs: [
         "SEO for Lucknow businesses means ranking on Google search and Maps for the services and localities you cover, in Hindi and English, and providing clear, consistent facts that AI assistants can cite. Monthly SEO with us starts from ₹10,000.",
-        "We begin with technical fixes and a complete Google Business Profile, then build pages that answer what customers actually search, for example lab tests with prices and preparation, coaching courses with batch details, or chikankari product categories. Lucknow is spread out, so area-focused pages for Gomti Nagar, Indira Nagar, Aliganj or Alambagh can work well when each is genuinely useful. Our <a href='/services/seo-services/'>SEO services</a> also include 700+ page SEO websites from ₹20,000.",
+        "We begin with technical fixes and a complete Google Business Profile, then build pages that answer what customers actually search, for example lab tests with prices and preparation, coaching courses with batch details, or chikankari product categories. Lucknow is spread out, so area-focused pages for Gomti Nagar, Indira Nagar, Aliganj or Alambagh can work well when each is genuinely useful. Our <a href='/services/seo-services/'>SEO services</a> also include 299+ page SEO websites from ₹20,000.",
         "For AI search, we add FAQ sections, structured data and consistent business information across listings. We never guarantee rankings. Local results often improve in three to six months, and reports come from Search Console. For a website-focused project, see our <a href='/lucknow/'>Lucknow websites and SEO page</a>.",
       ],
     },
@@ -193,7 +193,7 @@ const content: CityContent = {
       id: "lucknow-cost-payment-process",
       heading: "What do IT solutions cost in Lucknow, and how does a project run?",
       paragraphs: [
-        "IT solutions in Lucknow with BtechWaleTech start from ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for ecommerce and ₹60,000 for custom software. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000 a month after five free months.",
+        "IT solutions in Lucknow with BtechWaleTech start from ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for ecommerce and ₹60,000 for custom software. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000 a month after five free months.",
         "Final cost depends on features, user roles, integrations, languages, data migration and content writing. The project runs in clear steps: free consultation, itemised quote within about two working days, milestone plan, a live preview in the first week, weekly updates, testing with your staff, launch on hosting in your name, and recorded Hindi or English training.",
         "Lucknow clients pay only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in INR, in milestones linked to visible progress. We have no Lucknow office and work fully remotely. See our <a href='/portfolio/'>portfolio</a>, learn about the team on the <a href='/about/'>about page</a>, or read the broader <a href='/india/uttar-pradesh/'>Uttar Pradesh overview</a>.",
       ],

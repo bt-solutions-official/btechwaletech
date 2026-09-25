@@ -34,7 +34,7 @@ const sultanpur: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi and Awadhi-aware SEO", "Coaching and school sites", "WhatsApp lead replies", "Domain in your name"],
   },
   quickAnswer:
-    "Websites for Sultanpur businesses start at ₹10,000 with us and usually take one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000, AI or WhatsApp automation at ₹40,000 and custom software at ₹60,000. We are a remote team without a Sultanpur office, and you own the domain, hosting and code.",
+    "Websites for Sultanpur businesses start at ₹10,000 with us and usually take one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000, AI or WhatsApp automation at ₹40,000 and custom software at ₹60,000. We are a remote team without a Sultanpur office, and you own the domain, hosting and code.",
   snapshot: [
     { label: "Location", value: "District headquarters on the Gomti in the Ayodhya division, roughly 135 km east of Lucknow" },
     { label: "Roads and rail", value: "Lucknow–Varanasi and Prayagraj–Ayodhya national highways, the Purvanchal Expressway and Sultanpur Junction (SLN)" },
@@ -72,12 +72,12 @@ const sultanpur: CityContent = {
       heading: "Website costs in Sultanpur, explained openly",
       paragraphs: [
         "Most Sultanpur owners have heard wildly different website prices. A cyber café operator may offer one for a small sum, running on a template he controls. A city agency may quote far more, with monthly charges nobody explains. Neither tells you exactly what you receive.",
-        "Our numbers are published starting prices. A static website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, and custom web applications, such as an online test portal for a coaching institute, at ₹60,000. Monthly SEO starts at ₹10,000. Everything is on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our numbers are published starting prices. A static website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, and custom web applications, such as an online test portal for a coaching institute, at ₹60,000. Monthly SEO starts at ₹10,000. Everything is on our <a href=\"/pricing/\">pricing page</a>.",
         "The final figure depends on pages, languages, features and how much content we write. Each appears as its own line, so you can begin with what brings enquiries during admission season and add features later.",
       ],
       list: [
         "<strong>₹10,000 onwards:</strong> a clean site for a shop, clinic, advocate, CA or tutor.",
-        "<strong>₹20,000 onwards:</strong> a 700+ page SEO site for schools, hospitals and institutes with many courses or services.",
+        "<strong>₹20,000 onwards:</strong> a 299+ page SEO site for schools, hospitals and institutes with many courses or services.",
         "<strong>₹50,000 onwards:</strong> an online store with UPI, cards and courier updates.",
         "<strong>₹60,000 onwards:</strong> a custom portal for tests, fees, case records or stock.",
       ],
@@ -235,12 +235,12 @@ const sultanpur: CityContent = {
     {
       question: "What does a website cost in Sultanpur?",
       answer:
-        "With us, a business website starts at ₹10,000 and a 700+ page SEO site at ₹20,000. Online stores start at ₹50,000, automation at ₹40,000 and custom software at ₹60,000. The final price depends on pages, features and content, and you receive an itemised quote in about two working days before any billing.",
+        "With us, a business website starts at ₹10,000 and a 299+ page SEO site at ₹20,000. Online stores start at ₹50,000, automation at ₹40,000 and custom software at ₹60,000. The final price depends on pages, features and content, and you receive an itemised quote in about two working days before any billing.",
     },
     {
       question: "Sultanpur mein website banwane mein kitna paisa lagta hai?",
       answer:
-        "Humare yahan dukaan, clinic ya coaching ki website ₹10,000 se shuru hoti hai. 700+ page wali SEO website ₹20,000 se aur online store ₹50,000 se shuru hota hai. Kitne page aur kaun se features chahiye, isi se final kharcha tay hota hai. Kaam shuru hone se pehle har cheez ka alag hisaab likh kar milta hai.",
+        "Humare yahan dukaan, clinic ya coaching ki website ₹10,000 se shuru hoti hai. 299+ page wali SEO website ₹20,000 se aur online store ₹50,000 se shuru hota hai. Kitne page aur kaun se features chahiye, isi se final kharcha tay hota hai. Kaam shuru hone se pehle har cheez ka alag hisaab likh kar milta hai.",
     },
     {
       question: "Do you have an office in Sultanpur?",
@@ -270,7 +270,7 @@ const sultanpur: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static website usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. Content is the usual delay, so we can draft Hindi and English text for you to correct.",
+        "A static website usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. Content is the usual delay, so we can draft Hindi and English text for you to correct.",
     },
     {
       question: "Can my site be in Hindi?",

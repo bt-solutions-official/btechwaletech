@@ -158,7 +158,7 @@ const content: CityContent = {
       paragraphs: [
         "SEO for a Ludhiana manufacturer means making sure buyers outside Punjab find you when they search for a specific product and origin, such as 'woollen shawl manufacturer Ludhiana' or 'bicycle parts supplier Punjab', and that AI assistants name you accurately when asked for suppliers. Most buyers now check a supplier online before the first call.",
         "The work starts with a clear page for each product family, with specifications, sizes, minimum order quantities, photos and certifications written as plain facts. We add organisation and product schema, fix technical issues, and set up a Google Business Profile for the unit's real address. Buying guides written from your own trade knowledge give AI systems a reason to cite you.",
-        "Monthly SEO starts at ₹10,000, and a 700+ page SEO website starts at ₹20,000 for firms with large catalogues. We report monthly with Search Console data and do not guarantee rankings. More detail is on our <a href='/services/seo-services/'>SEO services</a> page.",
+        "Monthly SEO starts at ₹10,000, and a 299+ page SEO website starts at ₹20,000 for firms with large catalogues. We report monthly with Search Console data and do not guarantee rankings. More detail is on our <a href='/services/seo-services/'>SEO services</a> page.",
       ],
     },
     {
@@ -174,7 +174,7 @@ const content: CityContent = {
       id: "cost-software-ludhiana",
       heading: "How much do freelance software developers in Ludhiana charge?",
       paragraphs: [
-        "With BtechWaleTech, custom software for a Ludhiana business starts at ₹60,000, AI and WhatsApp automation at ₹40,000, a B2B or retail online store at ₹50,000, a website at ₹10,000 and a 700+ page SEO website at ₹20,000. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months.",
+        "With BtechWaleTech, custom software for a Ludhiana business starts at ₹60,000, AI and WhatsApp automation at ₹40,000, a B2B or retail online store at ₹50,000, a website at ₹10,000 and a 299+ page SEO website at ₹20,000. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months.",
         "The final number depends on how many modules, user roles and integrations you need. An order book and dispatch register for one unit sits near the starting figure; a multi-unit system with job-work, yarn stock, dealer app and Tally sync costs more. The quote lists each module separately, so you can phase the work across seasons.",
         "Payment is only in INR, by UPI through our QR code or by direct bank transfer to our bank account. Larger builds are split into milestones, each paid after you have reviewed working software on a preview link.",
       ],

@@ -34,7 +34,7 @@ const nellore: CityContent = {
     pills: ["Sites from ₹10,000", "Aqua and export sites", "Telugu and English SEO", "WhatsApp lead tools", "Full ownership"],
   },
   quickAnswer:
-    "A website for a Nellore business starts at ₹10,000 with us and takes one to two weeks. A 700+ page SEO site costs from ₹20,000, an online store from ₹50,000 and WhatsApp or AI automation from ₹40,000. We are a remote team of three engineers, you own the domain and code, and maintenance is free for five months.",
+    "A website for a Nellore business starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO site costs from ₹20,000, an online store from ₹50,000 and WhatsApp or AI automation from ₹40,000. We are a remote team of three engineers, you own the domain and code, and maintenance is free for five months.",
   snapshot: [
     { label: "Known for", value: "Shrimp farming and aquaculture on a scale that earns Nellore the name Shrimp Capital of India" },
     { label: "Agriculture", value: "Paddy across the Penna delta and canal network, with rice milling and trade a long-standing mainstay" },
@@ -72,12 +72,12 @@ const nellore: CityContent = {
       heading: "What a website costs in Nellore",
       paragraphs: [
         "In Nellore you might be offered a website for ₹3,000 by a local freelancer or quoted ₹60,000 by an agency in Hyderabad or Chennai. The cheapest usually means a shared template with the domain in the builder's name. The most expensive often means paying for an office rather than for a better website.",
-        "Our starting prices are published openly. A business website of up to 100 pages costs from ₹10,000 and goes live in one to two weeks. A 700+ page SEO website, with a page for each product, department, course or area, starts at ₹20,000 and takes three to five weeks. Online stores with UPI and card payments start at ₹50,000 and take four to eight weeks. Automation starts at ₹40,000, custom software such as a pond or mill tracker at ₹60,000, and monthly SEO at ₹10,000.",
+        "Our starting prices are published openly. A business website of up to 100 pages costs from ₹10,000 and goes live in one to two weeks. A 299+ page SEO website, with a page for each product, department, course or area, starts at ₹20,000 and takes three to five weeks. Online stores with UPI and card payments start at ₹50,000 and take four to eight weeks. Automation starts at ₹40,000, custom software such as a pond or mill tracker at ₹60,000, and monthly SEO at ₹10,000.",
         "The final quote depends on scope. A hatchery with four product pages costs much less than an exporter site with thirty product specifications and three languages. We send an itemised quote in about two working days, and you can remove anything you do not need. See details on our <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [
         "<strong>Basic site from ₹10,000:</strong> shops, clinics, dealers and consultants.",
-        "<strong>SEO site from ₹20,000:</strong> 700+ pages for exporters, hospitals and colleges.",
+        "<strong>SEO site from ₹20,000:</strong> 299+ pages for exporters, hospitals and colleges.",
         "<strong>Online store from ₹50,000:</strong> rice, pickles, sweets and packaged foods with UPI.",
         "<strong>Custom software from ₹60,000:</strong> pond, mill, dispatch and dealer systems.",
       ],
@@ -217,12 +217,12 @@ const nellore: CityContent = {
     {
       question: "How much does a website cost in Nellore?",
       answer:
-        "Our websites start at ₹10,000 for a basic business site and ₹20,000 for a 700+ page SEO site. Online stores start at ₹50,000, automation at ₹40,000 and custom software at ₹60,000. When comparing quotes, check who owns the domain and hosting and what happens after launch.",
+        "Our websites start at ₹10,000 for a basic business site and ₹20,000 for a 299+ page SEO site. Online stores start at ₹50,000, automation at ₹40,000 and custom software at ₹60,000. When comparing quotes, check who owns the domain and hosting and what happens after launch.",
     },
     {
       question: "Nellore lo website cheyinchukovadaniki entha kharchu avutundi?",
       answer:
-        "Simple business website ₹10,000 nundi modalavutundi, okati rendu vaaralalo ready avutundi. 700+ pages SEO website ₹20,000 nundi, online store ₹50,000 nundi untundi. Pani modalupettadaniki mundu raata mulakamga poorti quote istamu, domain mee peru meede untundi.",
+        "Simple business website ₹10,000 nundi modalavutundi, okati rendu vaaralalo ready avutundi. 299+ pages SEO website ₹20,000 nundi, online store ₹50,000 nundi untundi. Pani modalupettadaniki mundu raata mulakamga poorti quote istamu, domain mee peru meede untundi.",
     },
     {
       question: "Do you have an office in Nellore?",

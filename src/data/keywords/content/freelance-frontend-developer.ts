@@ -289,7 +289,7 @@ const content: FreelanceContent = {
       columns: ["Type of work", "Starts at (India)", "Starts at (abroad)", "Typical duration", "Main cost driver"],
       rows: [
         ["Marketing site front end, up to 100 pages", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Number of unique templates"],
-        ["Large content site, 700+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Data sources and page types"],
+        ["Large content site, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Data sources and page types"],
         ["Store front end with checkout", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Catalogue filters and checkout steps"],
         ["Web app interface with backend", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Screens, roles and states"],
         ["Accessibility or Core Web Vitals repair", "Quoted after audit", "Quoted after audit", "Days to 2 weeks", "Size and age of the codebase"],

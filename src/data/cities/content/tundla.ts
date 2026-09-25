@@ -39,7 +39,7 @@ const tundla: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first local SEO", "Cold storage and trade software", "Code and domain in your name"],
   },
   quickAnswer:
-    "With us, a Tundla business website starts at ₹10,000 and typically goes live within one to two weeks. Android and iOS apps start at ₹40,000, as does AI and WhatsApp automation; a 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Our team works remotely and has no Tundla office.",
+    "With us, a Tundla business website starts at ₹10,000 and typically goes live within one to two weeks. Android and iOS apps start at ₹40,000, as does AI and WhatsApp automation; a 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Our team works remotely and has no Tundla office.",
   snapshot: [
     { label: "Location", value: "Tehsil headquarters in Firozabad district, about 24 km from Agra and 17 km from Firozabad on NH 19" },
     { label: "Railway", value: "Tundla Junction, where the Agra branch meets the Delhi–Kanpur main line; the line opened in 1862" },
@@ -166,7 +166,7 @@ const tundla: CityContent = {
       id: "website-cost-tundla",
       heading: "Website cost in Tundla: starting prices and how to judge quotes",
       paragraphs: [
-        "The cheapest option is a static site of up to 100 pages for a shop, clinic, contractor or hotel, starting at ₹10,000 and taking one to two weeks. A 700+ page SEO site, which suits a coaching group or a trader with many products and service areas, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, the same as AI automation.",
+        "The cheapest option is a static site of up to 100 pages for a shop, clinic, contractor or hotel, starting at ₹10,000 and taking one to two weeks. A 299+ page SEO site, which suits a coaching group or a trader with many products and service areas, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, the same as AI automation.",
         "Online stores begin at ₹50,000 and take four to eight weeks. Custom software such as a cold storage register begins at ₹60,000 and takes six to twelve weeks. Monthly SEO begins at ₹10,000, and maintenance begins at ₹8,000 a month after the first five months, which are free.",
         "Your quote only goes up with things you ask for: two languages, more products or chambers, courier rules, staff logins or a Tally link. Each is listed so you can remove it. Providing your own text and photos keeps you close to the starting figure.",
         "Quotes from designers in Agra and Firozabad differ a great deal for similar work. Check who will own the domain, whether the site is tested on low-cost phones, whether on-page SEO is included, how many revisions you get and what support costs after a year. Our itemised quote arrives in about two working days; start on the <a href=\"/contact/\">contact page</a>.",
@@ -228,7 +228,7 @@ const tundla: CityContent = {
     {
       question: "What is the website cost in Tundla?",
       answer:
-        "Static websites start at ₹10,000, SEO websites of 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are all starting prices. Your written quote lists each item, depends on pages, Hindi content, products and integrations, and nothing is billed until you approve it.",
+        "Static websites start at ₹10,000, SEO websites of 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are all starting prices. Your written quote lists each item, depends on pages, Hindi content, products and integrations, and nothing is billed until you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Tundla businesses?",
@@ -238,7 +238,7 @@ const tundla: CityContent = {
     {
       question: "How long will my Tundla website take?",
       answer:
-        "A basic static site usually goes live one to two weeks after we get your photos and text. A 700+ page SEO site takes three to five weeks, a store four to eight and custom software six to twelve. Content that arrives in the first few days is what keeps a project quick.",
+        "A basic static site usually goes live one to two weeks after we get your photos and text. A 299+ page SEO site takes three to five weeks, a store four to eight and custom software six to twelve. Content that arrives in the first few days is what keeps a project quick.",
     },
     {
       question: "Which is the best website development team in Tundla?",
@@ -263,7 +263,7 @@ const tundla: CityContent = {
     {
       question: "Tundla mein website banwane mein kitna kharcha aata hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur zyaadatar ek-do hafte mein live ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapki zaroorat ke hisaab se har item ka likhit quote milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur zyaadatar ek-do hafte mein live ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapki zaroorat ke hisaab se har item ka likhit quote milta hai.",
     },
     {
       question: "You have no office in Tundla. Why should I trust remote work?",

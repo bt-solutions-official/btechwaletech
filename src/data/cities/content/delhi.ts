@@ -35,7 +35,7 @@ const delhi: CityContent = {
     pills: ["Websites from ₹10,000", "Colony-level local SEO", "Wholesale catalogues", "UPI checkout stores", "WhatsApp and AI bots"],
   },
   quickAnswer:
-    "A basic business website for a Delhi firm starts at ₹10,000 with us, and a 700+ page SEO website at ₹20,000, typically ready in one to five weeks. Stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three engineers with no Delhi office, and every build includes five months' free maintenance.",
+    "A basic business website for a Delhi firm starts at ₹10,000 with us, and a 299+ page SEO website at ₹20,000, typically ready in one to five weeks. Stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three engineers with no Delhi office, and every build includes five months' free maintenance.",
   snapshot: [
     { label: "Commercial hubs", value: "Connaught Place, Karol Bagh, Nehru Place, Lajpat Nagar, Rajouri Garden and Janakpuri District Centre" },
     { label: "Old Delhi trade", value: "Chandni Chowk, Khari Baoli spice market, Sadar Bazaar, Chawri Bazar, Bhagirath Palace and Kashmere Gate" },
@@ -73,12 +73,12 @@ const delhi: CityContent = {
       heading: "How much does a website cost in Delhi?",
       paragraphs: [
         "Delhi's pricing spread is wider than most cities. At one end are ₹2,999 offers that come with a stock template, a free subdomain and no search work. At the other are agencies in Connaught Place or south Delhi quoting well over ₹50,000 for five pages, where much of the fee pays for the office and the sales team. Neither end usually explains what you are paying for.",
-        "Our starting prices are published. A static website with up to 100 pages begins at ₹10,000 and takes one to two weeks. A 700+ page SEO website, planned around what Delhi customers actually search for, begins at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web apps at ₹60,000, AI and WhatsApp automation at ₹40,000, and monthly SEO at ₹10,000 a month.",
+        "Our starting prices are published. A static website with up to 100 pages begins at ₹10,000 and takes one to two weeks. A 299+ page SEO website, planned around what Delhi customers actually search for, begins at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web apps at ₹60,000, AI and WhatsApp automation at ₹40,000, and monthly SEO at ₹10,000 a month.",
         "The final figure depends on real scope. A wholesaler with 600 products and no descriptions takes more work than a lawyer with four practice areas. We send an itemised quote, normally within two working days, and nothing is billed until you have approved it in writing. The <a href=\"/pricing/\">pricing page</a> lists what each tier includes.",
       ],
       list: [
         "<strong>Static site, from ₹10,000:</strong> up to 100 pages, mobile-first, enquiry form, SEO basics. For lawyers, consultants, clinics and small showrooms.",
-        "<strong>SEO site, from ₹20,000:</strong> 700+ pages covering each service and genuine service area. For firms that want search enquiries.",
+        "<strong>SEO site, from ₹20,000:</strong> 299+ pages covering each service and genuine service area. For firms that want search enquiries.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart, UPI and card payments. For garment, spice, dry-fruit and gifting brands.",
         "<strong>Custom web app, from ₹60,000:</strong> dealer logins, dashboards and integrations. For distributors, manufacturers and institutes.",
       ],
@@ -209,12 +209,12 @@ const delhi: CityContent = {
     {
       question: "How much does a website cost in Delhi?",
       answer:
-        "With us, a static site starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Delhi quotes for similar work vary enormously. When comparing, check whether SEO basics, domain and hosting ownership, and after-launch support are included, not just the price.",
+        "With us, a static site starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Delhi quotes for similar work vary enormously. When comparing, check whether SEO basics, domain and hosting ownership, and after-launch support are included, not just the price.",
     },
     {
       question: "Delhi me website banwane me kitna kharcha aata hai?",
       answer:
-        "Humare saath simple business website ₹10,000 se shuru hoti hai aur 700+ pages ki SEO website ₹20,000 se. Online store ₹50,000 se shuru hota hai. Aapke pages, features aur content ke hisaab se final price banti hai, aur kaam shuru karne se pehle aapko poora itemised quote milta hai.",
+        "Humare saath simple business website ₹10,000 se shuru hoti hai aur 299+ pages ki SEO website ₹20,000 se. Online store ₹50,000 se shuru hota hai. Aapke pages, features aur content ke hisaab se final price banti hai, aur kaam shuru karne se pehle aapko poora itemised quote milta hai.",
     },
     {
       question: "Do you have an office in Delhi where I can visit?",
@@ -234,7 +234,7 @@ const delhi: CityContent = {
     {
       question: "How long does a website take to build?",
       answer:
-        "Static sites usually take one to two weeks, 700+ page SEO sites three to five weeks, online stores four to eight weeks and custom web applications six to twelve weeks. Waiting for content is the most common delay, so we write draft copy for you to correct.",
+        "Static sites usually take one to two weeks, 299+ page SEO sites three to five weeks, online stores four to eight weeks and custom web applications six to twelve weeks. Waiting for content is the most common delay, so we write draft copy for you to correct.",
     },
     {
       question: "Can you build a catalogue for my wholesale shop instead of an online store?",

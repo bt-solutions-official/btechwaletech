@@ -34,7 +34,7 @@ const ramgarh: CityContent = {
     pills: ["Websites from ₹10,000", "Contractor and vendor profiles", "Hindi and Khortha-area searches", "WhatsApp enquiry capture", "Your domain, your code"],
   },
   quickAnswer:
-    "A website for a Ramgarh (Jharkhand) business starts at ₹10,000 and is usually ready in one to two weeks. A 700+ page SEO site starts at ₹20,000, AI and WhatsApp automation at ₹40,000 and an online store at ₹50,000. We work remotely, you own the domain and code, and maintenance is free for five months after launch.",
+    "A website for a Ramgarh (Jharkhand) business starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, AI and WhatsApp automation at ₹40,000 and an online store at ₹50,000. We work remotely, you own the domain and code, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Location", value: "About 45 km from Ranchi on the Ranchi–Hazaribagh road, in the Damodar basin" },
     { label: "District", value: "Formed on 12 September 2007 from Hazaribagh; blocks Ramgarh, Gola, Mandu, Patratu, Chitarpur and Dulmi" },
@@ -107,7 +107,7 @@ const ramgarh: CityContent = {
       ],
       list: [
         "<strong>Business website — from ₹10,000, 1–2 weeks.</strong> Shops, clinics, tutors and service firms.",
-        "<strong>SEO website with 700+ pages — from ₹20,000, 3–5 weeks.</strong> Schools, hospitals, dealers and multi-location firms.",
+        "<strong>SEO website with 299+ pages — from ₹20,000, 3–5 weeks.</strong> Schools, hospitals, dealers and multi-location firms.",
         "<strong>AI and WhatsApp automation — from ₹40,000, 2–4 weeks.</strong> Quote requests, admissions and appointments.",
         "<strong>Online store — from ₹50,000, 4–8 weeks.</strong> Hardware, electricals, safety gear and local products with UPI.",
         "<strong>Custom software — from ₹60,000, 6–12 weeks.</strong> Work order tracking, trip registers and site apps.",
@@ -220,7 +220,7 @@ const ramgarh: CityContent = {
     {
       question: "How much does a website cost in Ramgarh, Jharkhand?",
       answer:
-        "A business website starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; we send an itemised quote in about two working days and bill nothing before your written approval.",
+        "A business website starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; we send an itemised quote in about two working days and bill nothing before your written approval.",
     },
     {
       question: "Ramgarh me apne business ki website banwani hai, kharcha kitna hoga?",

@@ -35,7 +35,7 @@ const nagercoil: CityContent = {
     pills: ["Sites from ₹10,000", "Tamil, English and Malayalam", "Temple jewellery stores", "Clinic and college sites", "WhatsApp automation"],
   },
   quickAnswer:
-    "For Nagercoil businesses, our static websites start from ₹10,000 and are ready in one to two weeks. SEO websites with 700+ pages start from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. We are three remote engineers with no Nagercoil office, and every website includes five months of free maintenance after launch.",
+    "For Nagercoil businesses, our static websites start from ₹10,000 and are ready in one to two weeks. SEO websites with 299+ pages start from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. We are three remote engineers with no Nagercoil office, and every website includes five months of free maintenance after launch.",
   snapshot: [
     { label: "Administration", value: "Headquarters of Kanyakumari district; upgraded to a municipal corporation in 2019" },
     { label: "GI craft", value: "Vadasery temple jewellery holds a Geographical Indication registration" },
@@ -73,12 +73,12 @@ const nagercoil: CityContent = {
       heading: "How much a website costs in Nagercoil",
       paragraphs: [
         "Website prices around Nagercoil range from very cheap offers to large quotes from agencies in Chennai or Thiruvananthapuram. Cheap offers often use a reused template, skip search setup and register the domain in the developer's name. Large quotes may include agency overheads rather than extra work on your site.",
-        "Our starting prices are public. A static website with up to 100 pages starts from ₹10,000 and takes one to two weeks. A 700+ page SEO website, with a page for each product, service or area you genuinely serve, starts from ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, custom web applications at ₹60,000 and monthly SEO at ₹10,000. Everything is listed on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our starting prices are public. A static website with up to 100 pages starts from ₹10,000 and takes one to two weeks. A 299+ page SEO website, with a page for each product, service or area you genuinely serve, starts from ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, custom web applications at ₹60,000 and monthly SEO at ₹10,000. Everything is listed on our <a href=\"/pricing/\">pricing page</a>.",
         "A single-doctor clinic in Meenakshipuram needs much less than a temple jewellery maker with 300 designs and international shipping, or a college with several departments. Describe your business and you receive an itemised quote within about two working days. Nothing is billed until you approve it in writing.",
       ],
       list: [
         "<strong>Static website, from ₹10,000:</strong> up to 100 pages with contact form, map and basic SEO.",
-        "<strong>SEO website, from ₹20,000:</strong> 700+ pages across products, services and localities.",
+        "<strong>SEO website, from ₹20,000:</strong> 299+ pages across products, services and localities.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart, UPI and card checkout, domestic and overseas shipping.",
         "<strong>Custom web app, from ₹60,000:</strong> order books, job trackers, stock registers and portals.",
       ],
@@ -218,12 +218,12 @@ const nagercoil: CityContent = {
     {
       question: "How much does a website cost in Nagercoil?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices; the final amount depends on scope and is shared as an itemised quote before billing.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices; the final amount depends on scope and is shared as an itemised quote before billing.",
     },
     {
       question: "Nagercoil-la website seiya evvalavu selavu aagum?",
       answer:
-        "Engal kitta oru simple business website ₹10,000-la irundhu thodangudhu. 700+ page SEO website ₹20,000-la irundhu, online store ₹50,000-la irundhu aarambikkudhu. Final selavu pages, features, content-a porutthu maarum. Velai aarambikkum munnaadi ezhuthu moolama itemised quote kudupom.",
+        "Engal kitta oru simple business website ₹10,000-la irundhu thodangudhu. 299+ page SEO website ₹20,000-la irundhu, online store ₹50,000-la irundhu aarambikkudhu. Final selavu pages, features, content-a porutthu maarum. Velai aarambikkum munnaadi ezhuthu moolama itemised quote kudupom.",
     },
     {
       question: "Do you have an office in Nagercoil?",

@@ -34,7 +34,7 @@ const raeBareli: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi-first pages", "Clinic and lab booking", "Coaching admission forms", "Five months free upkeep"],
   },
   quickAnswer:
-    "In Rae Bareli, our static business websites start at ₹10,000 and take one to two weeks. SEO websites of 700+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Rae Bareli office, and the first five months of maintenance are free.",
+    "In Rae Bareli, our static business websites start at ₹10,000 and take one to two weeks. SEO websites of 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Rae Bareli office, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Location", value: "On the Sai river, about 80 km south-east of Lucknow in central Uttar Pradesh" },
     { label: "Rail and power", value: "Modern Coach Factory making rail coaches since 2012, and NTPC's Feroze Gandhi Unchahar thermal power station" },
@@ -92,12 +92,12 @@ const raeBareli: CityContent = {
       heading: "What a website costs in Rae Bareli",
       paragraphs: [
         "Rae Bareli owners get quotes that range from a couple of thousand rupees for a template to large sums from Lucknow agencies. Price alone says little. What matters is whether the site has search setup, whether the domain is in your name and what happens after launch. Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>.",
-        "A static site of up to 100 pages starts at <strong>₹10,000</strong> and takes one to two weeks. A 700+ page SEO site, useful for a distributor with many products or an institute with many courses, starts at <strong>₹20,000</strong> and takes three to five weeks. WhatsApp and AI automation starts at <strong>₹40,000</strong>, an online store at <strong>₹50,000</strong> and custom software at <strong>₹60,000</strong>. Monthly SEO starts at ₹10,000.",
+        "A static site of up to 100 pages starts at <strong>₹10,000</strong> and takes one to two weeks. A 299+ page SEO site, useful for a distributor with many products or an institute with many courses, starts at <strong>₹20,000</strong> and takes three to five weeks. WhatsApp and AI automation starts at <strong>₹40,000</strong>, an online store at <strong>₹50,000</strong> and custom software at <strong>₹60,000</strong>. Monthly SEO starts at ₹10,000.",
         "These are starting points. The final figure depends on pages, features and content, and you get it as an itemised quote within about two working days.",
       ],
       list: [
         "<strong>Clinic, shop or school site, from ₹10,000:</strong> up to 100 pages in Hindi and English, map, WhatsApp button.",
-        "<strong>Large SEO site, from ₹20,000:</strong> 700+ pages for products, courses or services.",
+        "<strong>Large SEO site, from ₹20,000:</strong> 299+ pages for products, courses or services.",
         "<strong>WhatsApp automation, from ₹40,000:</strong> appointment reminders, enquiry logging, auto-replies.",
         "<strong>Online store, from ₹50,000:</strong> UPI and card payments, delivery areas, order alerts.",
         "<strong>Custom software, from ₹60,000:</strong> student portals, billing tools, contractor job tracking.",
@@ -227,7 +227,7 @@ const raeBareli: CityContent = {
     {
       question: "How much does a website cost in Rae Bareli?",
       answer:
-        "Our static websites start at ₹10,000, SEO websites of 700+ pages at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. You get an itemised quote in about two working days, and nothing is billed until you approve it.",
+        "Our static websites start at ₹10,000, SEO websites of 299+ pages at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. You get an itemised quote in about two working days, and nothing is billed until you approve it.",
     },
     {
       question: "Raebareli me clinic ki website banwane me kitna kharcha aayega?",
@@ -257,7 +257,7 @@ const raeBareli: CityContent = {
     {
       question: "How long does a website take to build?",
       answer:
-        "Static websites usually take one to two weeks, 700+ page SEO sites three to five weeks, automation two to four weeks, online stores four to eight weeks and custom software six to twelve weeks. Most delays come from waiting for photos and details, so we send a simple checklist at the start.",
+        "Static websites usually take one to two weeks, 299+ page SEO sites three to five weeks, automation two to four weeks, online stores four to eight weeks and custom software six to twelve weeks. Most delays come from waiting for photos and details, so we send a simple checklist at the start.",
     },
     {
       question: "What can WhatsApp automation do for a Rae Bareli clinic?",

@@ -39,7 +39,7 @@ const wani: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Marathi-first local SEO", "Coal and cotton trade tools", "All logins in your name"],
   },
   quickAnswer:
-    "A Wani business can get a website from ₹10,000, typically delivered within a fortnight. Our Android and iOS apps begin at ₹40,000 and so does AI or WhatsApp automation. Larger 700+ page SEO sites begin at ₹20,000, online shops at ₹50,000 and bespoke software at ₹60,000. The team works remotely and keeps no office in Wani.",
+    "A Wani business can get a website from ₹10,000, typically delivered within a fortnight. Our Android and iOS apps begin at ₹40,000 and so does AI or WhatsApp automation. Larger 299+ page SEO sites begin at ₹20,000, online shops at ₹50,000 and bespoke software at ₹60,000. The team works remotely and keeps no office in Wani.",
   snapshot: [
     { label: "Location", value: "Eastern Yavatmal district on the Chandrapur border, about 52 km from Chandrapur and 132 km from Nagpur" },
     { label: "Coal", value: "Western Coalfields' Wani North Area, with mines such as Ukni, Pimpalgaon, Junad, Kolarpimpri, Rajur and Ghonsa; locally called the Black Diamond City" },
@@ -150,7 +150,7 @@ const wani: CityContent = {
       id: "website-cost-wani",
       heading: "Website cost in Wani: starting prices and what to compare",
       paragraphs: [
-        "Here is the ladder in plain numbers. A static site with anything up to 100 pages begins at ₹10,000 and needs a week or two. A large SEO site of 700 pages or more begins at ₹20,000 and needs three to five weeks. Apps for Android and iPhone begin at ₹40,000, and so does AI automation. Online shops begin at ₹50,000, bespoke software at ₹60,000, and ongoing SEO at ₹10,000 per month.",
+        "Here is the ladder in plain numbers. A static site with anything up to 100 pages begins at ₹10,000 and needs a week or two. A large SEO site of 299 pages or more begins at ₹20,000 and needs three to five weeks. Apps for Android and iPhone begin at ₹40,000, and so does AI automation. Online shops begin at ₹50,000, bespoke software at ₹60,000, and ongoing SEO at ₹10,000 per month.",
         "Scope moves the figure up. More pages, separate Marathi and English versions, large catalogues, payment and courier integration, staff logins or a Tally connection each add a line. If you supply text and photographs, the cost stays close to the starting price; writing and photography by us are shown separately.",
         "Local quotes vary widely, so compare what is included. Ask whose name the domain and hosting are registered in, whether mobile testing and basic SEO are part of the price, how many revision rounds you get and who fixes problems after launch. Our <a href=\"/pricing/\">pricing page</a> sets out the starting points, and your written quote comes in about two working days.",
       ],
@@ -211,7 +211,7 @@ const wani: CityContent = {
     {
       question: "What is the website cost in Wani?",
       answer:
-        "Simple sites begin at ₹10,000, SEO builds of 700+ pages at ₹20,000, stores at ₹50,000 and tailor-made software at ₹60,000. Treat each as a floor rather than a final figure: Marathi copy, product counts and integrations push it up. The written quote lists every item, and you pay nothing until you have accepted it.",
+        "Simple sites begin at ₹10,000, SEO builds of 299+ pages at ₹20,000, stores at ₹50,000 and tailor-made software at ₹60,000. Treat each as a floor rather than a final figure: Marathi copy, product counts and integrations push it up. The written quote lists every item, and you pay nothing until you have accepted it.",
     },
     {
       question: "Do you build Android and iOS apps for Wani businesses?",
@@ -221,7 +221,7 @@ const wani: CityContent = {
     {
       question: "How long does it take to build a website for a Wani business?",
       answer:
-        "Plan on a week or two for a simple site once your photographs and wording reach us. Big SEO builds of 700+ pages take three to five weeks, stores four to eight, and bespoke software six to twelve. Delays almost always come from waiting on content, so gathering it before we start is the best shortcut.",
+        "Plan on a week or two for a simple site once your photographs and wording reach us. Big SEO builds of 299+ pages take three to five weeks, stores four to eight, and bespoke software six to twelve. Delays almost always come from waiting on content, so gathering it before we start is the best shortcut.",
     },
     {
       question: "Which is the best website development team in Wani?",
@@ -246,7 +246,7 @@ const wani: CityContent = {
     {
       question: "Wani madhe website banvayla kiti kharch yeto?",
       answer:
-        "Amchyakadun sadhi website ₹10,000 pasun suru hote ani ek te don athavdyat tayar hote. 700+ page SEO website ₹20,000 pasun, Android ani iOS app ₹40,000 pasun ani online store ₹50,000 pasun suru hote. Tumchya pages ani features nusar itemised quote likhit swarupat milto.",
+        "Amchyakadun sadhi website ₹10,000 pasun suru hote ani ek te don athavdyat tayar hote. 299+ page SEO website ₹20,000 pasun, Android ani iOS app ₹40,000 pasun ani online store ₹50,000 pasun suru hote. Tumchya pages ani features nusar itemised quote likhit swarupat milto.",
     },
     {
       question: "Wani me website banwane me kitna kharcha lagta hai?",

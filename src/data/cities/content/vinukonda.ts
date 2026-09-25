@@ -158,7 +158,7 @@ const vinukonda: CityContent = {
       id: "website-cost-vinukonda",
       heading: "Website cost in Vinukonda: starting prices and what to compare",
       paragraphs: [
-        "Here is where each type of project begins. A simple site of up to 100 pages is ₹10,000 onwards and takes one or two weeks. A large SEO site with 700+ pages is ₹20,000 onwards over three to five weeks. Mobile apps for Android and iOS, and AI or WhatsApp automation, each begin at ₹40,000. An online shop begins at ₹50,000 and trader or dealer software at ₹60,000. Ongoing SEO is ₹10,000 onwards per month. The <a href=\"/pricing/\">pricing page</a> breaks these down.",
+        "Here is where each type of project begins. A simple site of up to 100 pages is ₹10,000 onwards and takes one or two weeks. A large SEO site with 299+ pages is ₹20,000 onwards over three to five weeks. Mobile apps for Android and iOS, and AI or WhatsApp automation, each begin at ₹40,000. An online shop begins at ₹50,000 and trader or dealer software at ₹60,000. Ongoing SEO is ₹10,000 onwards per month. The <a href=\"/pricing/\">pricing page</a> breaks these down.",
         "What pushes a Vinukonda quote above the starting figure is usually one of five things: two languages instead of one, hundreds of products, payment and courier links, separate logins for staff, or a Tally connection. Writing is the sixth. Send us your own text and photos and the bill stays low; ask us to draft Telugu copy and it becomes a visible extra line.",
         "Other developers in Palnadu may quote much higher or much lower; the spread is wide. Put four questions to each one: will the domain be registered to me, is phone testing part of the price, how many revision rounds do I get, and who answers when the site breaks in month seven? Our line-by-line quote normally comes back in two working days.",
       ],
@@ -210,7 +210,7 @@ const vinukonda: CityContent = {
     {
       question: "What is the website cost in Vinukonda?",
       answer:
-        "A basic site is ₹10,000 onwards, a 700+ page SEO build ₹20,000 onwards, an online shop ₹50,000 onwards and trader software ₹60,000 onwards. Where you land above those figures depends on page count, Telugu writing, product numbers and links to other tools. We send the breakdown in writing and bill nothing until you accept it.",
+        "A basic site is ₹10,000 onwards, a 299+ page SEO build ₹20,000 onwards, an online shop ₹50,000 onwards and trader software ₹60,000 onwards. Where you land above those figures depends on page count, Telugu writing, product numbers and links to other tools. We send the breakdown in writing and bill nothing until you accept it.",
     },
     {
       question: "Do you build Android and iOS apps for Vinukonda businesses?",
@@ -245,7 +245,7 @@ const vinukonda: CityContent = {
     {
       question: "Vinukonda lo website cheyinchukovadaniki entha kharchu avutundi?",
       answer:
-        "Maa daggara simple website ₹10,000 nundi modalavutundi, sadharanamga okati rendu varalalo ready avutundi. 700+ page SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalavutayi. Mee pages, features batti itemised quote raasi pampistamu.",
+        "Maa daggara simple website ₹10,000 nundi modalavutundi, sadharanamga okati rendu varalalo ready avutundi. 299+ page SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalavutayi. Mee pages, features batti itemised quote raasi pampistamu.",
     },
     {
       question: "You have no office in Vinukonda. Is remote work safe?",

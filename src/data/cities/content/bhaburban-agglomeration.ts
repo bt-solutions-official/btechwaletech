@@ -39,7 +39,7 @@ const bhabua: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first local SEO", "Rice mill and grain trade tools", "Domain and code in your name"],
   },
   quickAnswer:
-    "A business website in Bhabua with us starts at ₹10,000 and is usually live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, have no Bhabua office, and you own every account.",
+    "A business website in Bhabua with us starts at ₹10,000 and is usually live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, have no Bhabua office, and you own every account.",
   snapshot: [
     { label: "Status", value: "Headquarters of Kaimur district and of Bhabua subdivision, Bihar" },
     { label: "Population", value: "About 62,000 in the town (Census 2011), across 25 municipal wards" },
@@ -152,7 +152,7 @@ const bhabua: CityContent = {
       id: "website-cost-bhabua",
       heading: "Website cost in Bhabua: starting prices and what changes them",
       paragraphs: [
-        "Owners in Bhabua generally ask the price in the first message, so here are our starting points. A static website of up to 100 pages, enough for a shop, clinic or institute, starts at ₹10,000 and usually takes one to two weeks. An SEO website of 700 pages or more, the kind a coaching group or dealer network uses to cover every course, product and block, starts at ₹20,000 and takes three to five weeks.",
+        "Owners in Bhabua generally ask the price in the first message, so here are our starting points. A static website of up to 100 pages, enough for a shop, clinic or institute, starts at ₹10,000 and usually takes one to two weeks. An SEO website of 299 pages or more, the kind a coaching group or dealer network uses to cover every course, product and block, starts at ₹20,000 and takes three to five weeks.",
         "Android and iOS apps start at ₹40,000, and so does AI automation. An online store starts at ₹50,000, custom software or a web app at ₹60,000, and monthly SEO at ₹10,000 a month. Maintenance is free for five months after launch and then starts at ₹8,000 a month if you choose to continue with us.",
         "Your quote moves up only for the things you pick: Hindi and English versions, large product lists, courier rate tables, UPI checkout, staff logins, report downloads or a link to your accounts package. You can strike out any line. If you write your own text and send phone photos, the cost barely changes.",
         "Local quotes vary widely for jobs that sound alike, so compare carefully. Ask who will own the domain, whether the site is tested on cheap phones, what basic SEO is included, how many revisions are allowed and what support costs after the first year. Our full list is on the <a href=\"/pricing/\">pricing page</a>, and an itemised quote reaches you in about two working days.",
@@ -214,7 +214,7 @@ const bhabua: CityContent = {
     {
       question: "What is the website cost in Bhabua?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, Hindi content, products and integrations, and you receive it itemised in writing before anything is billed.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, Hindi content, products and integrations, and you receive it itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Bhabua businesses?",
@@ -224,7 +224,7 @@ const bhabua: CityContent = {
     {
       question: "How long does a website take for a Bhabua shop?",
       answer:
-        "A simple shop or clinic website is normally ready in one to two weeks once we have your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content in the first few days.",
+        "A simple shop or clinic website is normally ready in one to two weeks once we have your photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content in the first few days.",
     },
     {
       question: "Which is the best website development team in Bhabua?",

@@ -39,7 +39,7 @@ const forbesganj: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first local SEO", "Makhana and wholesale stores", "Accounts registered to you"],
   },
   quickAnswer:
-    "For a Forbesganj business, our websites start at ₹10,000 and are usually ready in one to two weeks. Android and iOS apps and AI or WhatsApp automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no office in Forbesganj.",
+    "For a Forbesganj business, our websites start at ₹10,000 and are usually ready in one to two weeks. Android and iOS apps and AI or WhatsApp automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no office in Forbesganj.",
   snapshot: [
     { label: "Location", value: "Municipal town and subdivision centre in Araria district, about 12 km from the Nepal border" },
     { label: "Name", value: "Named after Alexander John Forbes, a British-era collector and municipal commissioner" },
@@ -228,7 +228,7 @@ const forbesganj: CityContent = {
     {
       question: "What is the website cost in Forbesganj?",
       answer:
-        "Our static websites start at ₹10,000, SEO websites of 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. All are starting prices. The written, itemised quote depends on pages, Hindi content, products and integrations, and nothing is billed before you approve it.",
+        "Our static websites start at ₹10,000, SEO websites of 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. All are starting prices. The written, itemised quote depends on pages, Hindi content, products and integrations, and nothing is billed before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Forbesganj businesses?",
@@ -238,7 +238,7 @@ const forbesganj: CityContent = {
     {
       question: "How many days does a Forbesganj website take?",
       answer:
-        "A basic static site usually takes one to two weeks after we receive your photos and text. SEO sites of 700+ pages need three to five weeks, stores four to eight, and custom software six to twelve. Owners who send content quickly get their sites soonest.",
+        "A basic static site usually takes one to two weeks after we receive your photos and text. SEO sites of 299+ pages need three to five weeks, stores four to eight, and custom software six to twelve. Owners who send content quickly get their sites soonest.",
     },
     {
       question: "Which is the best IT services team in Forbesganj for a website?",
@@ -263,7 +263,7 @@ const forbesganj: CityContent = {
     {
       question: "Forbesganj mein website banwane ka kharcha kitna hai?",
       answer:
-        "Simple website hamare yahan ₹10,000 se shuru hai aur aam taur par ek se do hafte mein taiyaar hoti hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hote hain. Poora quote likhit mein, har item alag karke milta hai.",
+        "Simple website hamare yahan ₹10,000 se shuru hai aur aam taur par ek se do hafte mein taiyaar hoti hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hote hain. Poora quote likhit mein, har item alag karke milta hai.",
     },
     {
       question: "Your team has no office in Forbesganj. How is that safe?",

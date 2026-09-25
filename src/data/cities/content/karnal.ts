@@ -35,7 +35,7 @@ const karnal: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi and English pages", "Rice mill and exporter sites", "Clinic and IELTS centre sites", "WhatsApp automation"],
   },
   quickAnswer:
-    "In Karnal, our static business websites start at ₹10,000 and take one to two weeks; a 700+ page SEO site starts at ₹20,000 and an online store at ₹50,000. We are a remote team of three engineers with no Karnal office, and five months of free maintenance come with every website we build.",
+    "In Karnal, our static business websites start at ₹10,000 and take one to two weeks; a 299+ page SEO site starts at ₹20,000 and an online store at ₹50,000. We are a remote team of three engineers with no Karnal office, and five months of free maintenance come with every website we build.",
   snapshot: [
     { label: "Location", value: "On NH 44 (old GT Road), roughly midway between Delhi and Chandigarh" },
     { label: "Research institutes", value: "National Dairy Research Institute, Central Soil Salinity Research Institute, wheat and barley research, NBAGR" },
@@ -73,12 +73,12 @@ const karnal: CityContent = {
       heading: "What does a website cost in Karnal?",
       paragraphs: [
         "Website quotes in Karnal range from a few thousand rupees to amounts that assume a large agency in Chandigarh or Gurugram. The cheapest offers usually rely on a recycled template, skip search setup and keep the domain in the developer's name. The expensive ones often pay for an office and a sales team rather than extra work on your website.",
-        "Our starting prices are public. A static business website starts from ₹10,000 and takes one to two weeks. A 700+ page SEO website with a page for each service, product or area you serve starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000 and custom web applications, such as dealer portals or procurement registers, from ₹60,000. AI and WhatsApp automation starts from ₹40,000, and monthly SEO from ₹10,000. All of it is listed on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our starting prices are public. A static business website starts from ₹10,000 and takes one to two weeks. A 299+ page SEO website with a page for each service, product or area you serve starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000 and custom web applications, such as dealer portals or procurement registers, from ₹60,000. AI and WhatsApp automation starts from ₹40,000, and monthly SEO from ₹10,000. All of it is listed on our <a href=\"/pricing/\">pricing page</a>.",
         "The real drivers of cost are scope and content. A single-doctor clinic needs far less than a rice exporter with multiple grades, packaging options and an export enquiry flow. You receive an itemised quote in about two working days, and nothing is billed until you approve it in writing.",
       ],
       list: [
         "<strong>Static site, from ₹10,000:</strong> up to 100 pages, contact form, map, basic SEO. For clinics, consultants, shops and small offices.",
-        "<strong>SEO site, from ₹20,000:</strong> 700+ pages across services, products and areas. For businesses that want Google enquiries.",
+        "<strong>SEO site, from ₹20,000:</strong> 299+ pages across services, products and areas. For businesses that want Google enquiries.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart, UPI and card checkout. For dairy, food, rice and clothing brands.",
         "<strong>Custom web app, from ₹60,000:</strong> logins, registers, dashboards. For millers, dealers and institutes.",
       ],
@@ -209,12 +209,12 @@ const karnal: CityContent = {
     {
       question: "How much does a website cost in Karnal?",
       answer:
-        "With us, a static business website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. When you compare quotes in Karnal, also check who owns the domain, whether SEO basics are included and what support you get after launch.",
+        "With us, a static business website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. When you compare quotes in Karnal, also check who owns the domain, whether SEO basics are included and what support you get after launch.",
     },
     {
       question: "Karnal mein website banwane mein kitna kharcha aata hai?",
       answer:
-        "Humare saath ek simple business website ₹10,000 se shuru hoti hai aur 700+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se shuru hota hai. Final kharcha pages, features aur content par depend karta hai, aur kaam shuru hone se pehle aapko likhit, itemised quote mil jaata hai.",
+        "Humare saath ek simple business website ₹10,000 se shuru hoti hai aur 299+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se shuru hota hai. Final kharcha pages, features aur content par depend karta hai, aur kaam shuru hone se pehle aapko likhit, itemised quote mil jaata hai.",
     },
     {
       question: "Do you have an office in Karnal?",
@@ -244,7 +244,7 @@ const karnal: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks, and a custom web application six to twelve weeks. Waiting for photographs and text is the most common delay, so we draft starter content for you to edit.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks, and a custom web application six to twelve weeks. Waiting for photographs and text is the most common delay, so we draft starter content for you to edit.",
     },
     {
       question: "What can WhatsApp automation do for a Karnal business?",

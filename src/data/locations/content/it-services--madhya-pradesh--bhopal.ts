@@ -182,7 +182,7 @@ const content: CityContent = {
       heading: "SEO and AI-search visibility for Bhopal hospitals, colleges and firms",
       paragraphs: [
         "SEO for Bhopal organisations means appearing when people search for a service in their area, such as a specialist near Arera Colony or a college in Bhopal for a particular course, and being described correctly by AI tools like Google AI Overviews and ChatGPT. It relies on fast pages, accurate information, schema and a maintained Google Business Profile.",
-        "Hospitals need doctor, department and treatment pages with clear, accurate information. Colleges need course, fee, eligibility and placement pages that answer the questions students actually ask. Contractors and suppliers need capability pages that procurement staff can find. Our static sites start at ₹10,000, 700+ page SEO websites at ₹20,000 and monthly SEO at ₹10,000.",
+        "Hospitals need doctor, department and treatment pages with clear, accurate information. Colleges need course, fee, eligibility and placement pages that answer the questions students actually ask. Contractors and suppliers need capability pages that procurement staff can find. Our static sites start at ₹10,000, 299+ page SEO websites at ₹20,000 and monthly SEO at ₹10,000.",
         "We never guarantee rankings. We set up the technical foundation, write clear pages and report progress from Search Console. For local website detail, see our separate <a href='/bhopal/'>Bhopal websites page</a>, our <a href='/services/seo-services/'>SEO services</a> and <a href='/services/web-development/'>web development</a>.",
       ],
     },
@@ -266,7 +266,7 @@ const content: CityContent = {
     {
       question: "How long does a custom software project take?",
       answer:
-        "Six to twelve weeks for most custom web applications, two to four weeks for automation, one to two weeks for a static website and three to five weeks for a 700+ page SEO website. We share a live preview link throughout, so your staff can test early and the schedule stays realistic.",
+        "Six to twelve weeks for most custom web applications, two to four weeks for automation, one to two weeks for a static website and three to five weeks for a 299+ page SEO website. We share a live preview link throughout, so your staff can test early and the schedule stays realistic.",
     },
     {
       question: "Will the software work in Hindi?",

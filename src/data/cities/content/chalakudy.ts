@@ -39,7 +39,7 @@ const chalakudy: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Malayalam and English SEO", "Homestay and cab booking pages", "Domain and code in your name"],
   },
   quickAnswer:
-    "A Chalakudy business website with us starts at ₹10,000 and normally goes live in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation also at ₹40,000, a 700+ page SEO site at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely, without a Chalakudy office, and you own everything.",
+    "A Chalakudy business website with us starts at ₹10,000 and normally goes live in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation also at ₹40,000, a 299+ page SEO site at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely, without a Chalakudy office, and you own everything.",
   snapshot: [
     { label: "Location", value: "Taluk headquarters in Thrissur district, about 30 km south of Thrissur and 47 km north of Kochi" },
     { label: "Civic body", value: "Municipality formed in 1970 with 36 wards; 49,525 residents at the 2011 census and literacy of 96.42%" },
@@ -159,7 +159,7 @@ const chalakudy: CityContent = {
       heading: "How much does a website cost in Chalakudy?",
       paragraphs: [
         "A basic business website in Chalakudy costs from ₹10,000 with us for up to 100 pages and usually takes one to two weeks. That covers most shops, clinics, homestays and small manufacturers.",
-        "Further up: an SEO website of 700 pages or more, suited to a cab operator covering every route or a coaching centre covering every course, from ₹20,000 over three to five weeks. Android and iOS apps from ₹40,000. AI automation from ₹40,000 over two to four weeks. Online stores from ₹50,000 over four to eight weeks. Custom web apps and software from ₹60,000 over six to twelve weeks. Monthly SEO from ₹10,000, and maintenance from ₹8,000 a month once the free period ends. The complete list sits on our <a href=\"/pricing/\">pricing page</a>.",
+        "Further up: an SEO website of 299 pages or more, suited to a cab operator covering every route or a coaching centre covering every course, from ₹20,000 over three to five weeks. Android and iOS apps from ₹40,000. AI automation from ₹40,000 over two to four weeks. Online stores from ₹50,000 over four to eight weeks. Custom web apps and software from ₹60,000 over six to twelve weeks. Monthly SEO from ₹10,000, and maintenance from ₹8,000 a month once the free period ends. The complete list sits on our <a href=\"/pricing/\">pricing page</a>.",
         "Your figure moves only with choices you make: Malayalam alongside English, the number of rooms or products, booking and payment features, staff logins, or a link to accounting software. When comparing quotes from Chalakudy, Thrissur or Kochi providers, ask who registers the domain, whether hosting renewal is included, how many revision rounds you get and what happens to the code if you leave. Local quotes vary widely, and those four answers explain most of the gap.",
       ],
     },
@@ -225,7 +225,7 @@ const chalakudy: CityContent = {
     {
       question: "What is the website cost in Chalakudy?",
       answer:
-        "In Chalakudy, our static websites start at ₹10,000, SEO websites of 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final figure depends on pages, Malayalam content, rooms or products and integrations, and you get it itemised in writing before anything is billed.",
+        "In Chalakudy, our static websites start at ₹10,000, SEO websites of 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final figure depends on pages, Malayalam content, rooms or products and integrations, and you get it itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Chalakudy businesses?",
@@ -235,7 +235,7 @@ const chalakudy: CityContent = {
     {
       question: "How long does it take to build a website in Chalakudy?",
       answer:
-        "A static website for a Chalakudy shop, clinic or homestay usually goes live in one to two weeks once we have your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Sending content early is the easiest way to shorten any of these.",
+        "A static website for a Chalakudy shop, clinic or homestay usually goes live in one to two weeks once we have your photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Sending content early is the easiest way to shorten any of these.",
     },
     {
       question: "Which is the best website development team in Chalakudy?",

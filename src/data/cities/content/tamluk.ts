@@ -39,7 +39,7 @@ const tamluk: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Bengali-first local SEO", "Clinic and coaching bookings", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Tamluk business, a static website with us starts at ₹10,000 and takes one to two weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are fully remote, with no Tamluk office.",
+    "For a Tamluk business, a static website with us starts at ₹10,000 and takes one to two weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are fully remote, with no Tamluk office.",
   snapshot: [
     { label: "Status", value: "Headquarters town of Purba Medinipur district, with a municipality covering about 18 sq km" },
     { label: "River", value: "Right bank of the Rupnarayan, roughly 19 km upstream of its meeting with the Hooghly" },
@@ -165,7 +165,7 @@ const tamluk: CityContent = {
       heading: "Website cost in Tamluk: what you pay for, item by item",
       paragraphs: [
         "The honest answer to “what is the <strong>website cost in Tamluk</strong>?” is that it depends on what the site has to do. Local quotes vary widely, from very cheap template sites to expensive agency proposals, so compare what each quote includes: who owns the domain, whether hosting renewal is extra, how many revisions you get, whether Bengali content is written or just translated by machine, and what happens after launch.",
-        "Our starting prices are published. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website with 700+ pages starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, Android and iOS apps at ₹40,000, AI automation at ₹40,000, and custom web apps or software at ₹60,000. Full details are on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our starting prices are published. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website with 299+ pages starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, Android and iOS apps at ₹40,000, AI automation at ₹40,000, and custom web apps or software at ₹60,000. Full details are on our <a href=\"/pricing/\">pricing page</a>.",
         "You receive a written, itemised quote within about two working days of sharing your requirements, and nothing is billed until you approve it. After launch, five months of maintenance are free, and plans start from ₹8,000 a month after that.",
       ],
     },
@@ -216,7 +216,7 @@ const tamluk: CityContent = {
     {
       question: "What is the website cost in Tamluk?",
       answer:
-        "With us, a static website of up to 100 pages starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Your quote depends on pages, Bengali content, products and features, and arrives itemised in writing before anything is billed.",
+        "With us, a static website of up to 100 pages starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Your quote depends on pages, Bengali content, products and features, and arrives itemised in writing before anything is billed.",
     },
     {
       question: "How long does it take to build a website for a Tamluk business?",
@@ -281,7 +281,7 @@ const tamluk: CityContent = {
     {
       question: "Tamluk-e website banate koto taka lage?",
       answer:
-        "Amader kache static website ₹10,000 theke shuru, ar 700+ page-er SEO website ₹20,000 theke. Android o iOS app ₹40,000 theke shuru hoy. Apnar kaj onujayi likhito itemised quote dui working day-er moddhe pathai, ar apni approve na kora porjonto kono taka newa hoy na.",
+        "Amader kache static website ₹10,000 theke shuru, ar 299+ page-er SEO website ₹20,000 theke. Android o iOS app ₹40,000 theke shuru hoy. Apnar kaj onujayi likhito itemised quote dui working day-er moddhe pathai, ar apni approve na kora porjonto kono taka newa hoy na.",
     },
   ],
   nearby: ["medinipur", "kharagpur", "kolkata", "panchla", "arambagh", "tarakeswar", "jhargram"],

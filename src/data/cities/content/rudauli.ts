@@ -39,7 +39,7 @@ const rudauli: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi and Urdu pages", "Gur and farm-trade tools", "Domain and code in your name"],
   },
   quickAnswer:
-    "For Rudauli businesses, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; SEO websites with 700+ pages start at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely and keep no Rudauli office.",
+    "For Rudauli businesses, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; SEO websites with 299+ pages start at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely and keep no Rudauli office.",
   snapshot: [
     { label: "Location", value: "Tehsil town in Ayodhya district, about 50 km west of Ayodhya on the road to Lucknow" },
     { label: "Population", value: "43,091 in the municipal area at the 2011 census, spread over 25 wards" },
@@ -169,7 +169,7 @@ const rudauli: CityContent = {
       ],
       list: [
         "Static website, up to 100 pages: from ₹10,000, about 1–2 weeks",
-        "SEO website with 700+ pages: from ₹20,000, about 3–5 weeks",
+        "SEO website with 299+ pages: from ₹20,000, about 3–5 weeks",
         "Android and iOS app: from ₹40,000",
         "AI or WhatsApp automation: from ₹40,000, about 2–4 weeks",
         "Online store with UPI and card checkout: from ₹50,000, about 4–8 weeks",
@@ -244,7 +244,7 @@ const rudauli: CityContent = {
     {
       question: "What is the website cost in Rudauli?",
       answer:
-        "Our static websites start at ₹10,000 for up to 100 pages. A 700+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting figures; the final amount depends on pages, languages, products and features. You get an itemised written quote in about two working days, and nothing is billed before you approve it.",
+        "Our static websites start at ₹10,000 for up to 100 pages. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting figures; the final amount depends on pages, languages, products and features. You get an itemised written quote in about two working days, and nothing is billed before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Rudauli businesses?",
@@ -254,7 +254,7 @@ const rudauli: CityContent = {
     {
       question: "How long does a website take for a shop in Rudauli?",
       answer:
-        "A simple shop website is usually live in one to two weeks after you send photos, timings and product details. A 700+ page SEO website takes three to five weeks, an online store four to eight, and custom software six to twelve. Most delays come from waiting for content, so sending your photos and price list early is the quickest route to launch.",
+        "A simple shop website is usually live in one to two weeks after you send photos, timings and product details. A 299+ page SEO website takes three to five weeks, an online store four to eight, and custom software six to twelve. Most delays come from waiting for content, so sending your photos and price list early is the quickest route to launch.",
     },
     {
       question: "Which is the best IT services team in Rudauli?",

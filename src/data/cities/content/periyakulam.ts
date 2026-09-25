@@ -39,7 +39,7 @@ const periyakulam: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Tamil and English pages", "Mango season order stores", "Domain and code in your name"],
   },
   quickAnswer:
-    "For Periyakulam businesses, our websites start at ₹10,000 and a 700+ page SEO site at ₹20,000. Android and iOS apps and AI or WhatsApp automation start at ₹40,000, mango and produce stores at ₹50,000, and custom software at ₹60,000. We are a remote team with no Periyakulam office, and the domain, code and app accounts stay yours.",
+    "For Periyakulam businesses, our websites start at ₹10,000 and a 299+ page SEO site at ₹20,000. Android and iOS apps and AI or WhatsApp automation start at ₹40,000, mango and produce stores at ₹50,000, and custom software at ₹60,000. We are a remote team with no Periyakulam office, and the domain, code and app accounts stay yours.",
   snapshot: [
     { label: "Location", value: "Taluk headquarters in Theni district at the Western Ghats foothills, often called the northern gateway of the district" },
     { label: "River", value: "The Varaha (Varahanadhi) divides the town into Thenkarai on the south bank and Vadakarai on the north before joining the Vaigai" },
@@ -149,7 +149,7 @@ const periyakulam: CityContent = {
       id: "website-cost-periyakulam",
       heading: "Website cost in Periyakulam: starting prices and how to read a quote",
       paragraphs: [
-        "This is where our prices begin for Periyakulam work. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 700 pages or more, the sort that covers every variety, village or course you serve, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation, which runs two to four weeks. An online store starts at ₹50,000 over four to eight weeks, custom software at ₹60,000 over six to twelve weeks, monthly SEO at ₹10,000 a month, and maintenance at ₹8,000 a month once the free period ends.",
+        "This is where our prices begin for Periyakulam work. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 299 pages or more, the sort that covers every variety, village or course you serve, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation, which runs two to four weeks. An online store starts at ₹50,000 over four to eight weeks, custom software at ₹60,000 over six to twelve weeks, monthly SEO at ₹10,000 a month, and maintenance at ₹8,000 a month once the free period ends.",
         "Treat these as floors rather than package prices. Your quote rises only with choices you make: Tamil and English versions, the number of products, courier rules, payment options, staff logins, an app next to the site, or a link to Tally. Each has its own line, so you can strike out what you do not need. If you write your own text and send phone photographs, the total stays close to the starting figure.",
         "Local quotes for jobs that sound alike differ a great deal, so compare substance rather than headline numbers. Ask who registers the domain, whether the site is tested on low-cost Android phones, whether basic on-page SEO is included, how many rounds of changes are covered, and who picks up the phone when something breaks a year later. Our starting prices sit on the <a href=\"/pricing/\">pricing page</a>, and an itemised written quote reaches you in about two working days.",
       ],
@@ -217,7 +217,7 @@ const periyakulam: CityContent = {
     {
       question: "How much does a website cost in Periyakulam?",
       answer:
-        "With us, a static website of up to 100 pages starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting points. Tamil content, product count, payments and integrations move the final figure, and you see every item in a written quote before anything is billed.",
+        "With us, a static website of up to 100 pages starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting points. Tamil content, product count, payments and integrations move the final figure, and you see every item in a written quote before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Periyakulam businesses?",
@@ -227,7 +227,7 @@ const periyakulam: CityContent = {
     {
       question: "How long does it take to build a website for a Periyakulam shop?",
       answer:
-        "A simple shop or clinic site usually goes live in one to two weeks after we receive your photographs and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The biggest delay is usually waiting for content, so sending it early speeds everything up.",
+        "A simple shop or clinic site usually goes live in one to two weeks after we receive your photographs and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The biggest delay is usually waiting for content, so sending it early speeds everything up.",
     },
     {
       question: "Which is the best IT services team in Periyakulam for websites and apps?",
@@ -252,7 +252,7 @@ const periyakulam: CityContent = {
     {
       question: "Periyakulam-la website panna evvalavu selavu aagum?",
       answer:
-        "Engakitta oru simple website ₹10,000-la irundhu start aagum, oru rendu vaarathula ready aagidum. 700+ page SEO website ₹20,000 muthal, Android matrum iOS app ₹40,000 muthal, online store ₹50,000 muthal. Unga pages, features-a poruthu final quote ezhuthu moolama anuppuvom, neenga approve pannina appuram thaan billing.",
+        "Engakitta oru simple website ₹10,000-la irundhu start aagum, oru rendu vaarathula ready aagidum. 299+ page SEO website ₹20,000 muthal, Android matrum iOS app ₹40,000 muthal, online store ₹50,000 muthal. Unga pages, features-a poruthu final quote ezhuthu moolama anuppuvom, neenga approve pannina appuram thaan billing.",
     },
     {
       question: "You have no office in Periyakulam. How do I know the work is safe?",

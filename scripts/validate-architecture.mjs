@@ -32,7 +32,8 @@ const routeCandidates = routeFiles.filter((file) => /\.(astro|md|mdx)$/.test(fil
 const markdownRoutes = routeCandidates.filter((file) => /\.(md|mdx)$/.test(file));
 const dynamicRoutes = routeCandidates.filter((file) => {
   const normalized = relative(pagesRoot, file).split(sep).join("/");
-  return /\[[^\]]+\]/.test(file) && !normalized.startsWith("it-services/") && normalized !== "[city].astro";
+  const allowed = ["[city].astro", "[keyword].astro", "[country]/[service].astro", "india/[topic].astro", "japan/[topic].astro"];
+  return /\[[^\]]+\]/.test(file) && !normalized.startsWith("it-services/") && !allowed.includes(normalized);
 });
 const routes = routeCandidates.map(toRoute);
 const duplicateRoutes = routes.filter((route, index) => routes.indexOf(route) !== index);

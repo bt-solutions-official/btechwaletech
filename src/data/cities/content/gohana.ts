@@ -39,7 +39,7 @@ const gohana: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi and English pages", "Mandi and arhtiya tools", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Gohana business, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps and AI automation begin at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Gohana office, and you own every account.",
+    "For a Gohana business, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps and AI automation begin at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Gohana office, and you own every account.",
   snapshot: [
     { label: "Location", value: "Subdivision and tehsil town in Sonipat district, about 40 km from Sonipat and 33 km from Rohtak" },
     { label: "Civic history", value: "Made a tehsil by the British in 1826, often described as the oldest tehsil in Haryana" },
@@ -150,7 +150,7 @@ const gohana: CityContent = {
       id: "website-cost-gohana",
       heading: "Website cost in Gohana: starting prices and what to ask other quotes",
       paragraphs: [
-        "Here is what our work in Gohana starts at. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000 over three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000 over two to four weeks, an online store at ₹50,000 over four to eight weeks, and custom software at ₹60,000 over six to twelve weeks.",
+        "Here is what our work in Gohana starts at. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000 over three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000 over two to four weeks, an online store at ₹50,000 over four to eight weeks, and custom software at ₹60,000 over six to twelve weeks.",
         "Quotes rise with scope: more pages, full Hindi and English versions, large product lists, payment gateways, user logins or connections to accounting software. Content matters too. If you supply the text and photographs, the price stays near the starting figure; if we write and photograph-edit everything, that is shown as its own line.",
         "Rates from other designers and agencies in Sonipat district vary widely. When you compare, ask whose name the domain and hosting will be in, whether mobile testing and basic SEO are included, how many rounds of changes you get, and who answers the phone after launch. Our <a href=\"/pricing/\">pricing page</a> lists every starting figure, and you can <a href=\"/contact/\">send us your requirement</a> for a written estimate.",
       ],
@@ -211,7 +211,7 @@ const gohana: CityContent = {
     {
       question: "What is the website cost in Gohana?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final amount depends on pages, Hindi content, products and integrations. You get an itemised written quote first, and nothing is charged before you approve it.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final amount depends on pages, Hindi content, products and integrations. You get an itemised written quote first, and nothing is charged before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Gohana businesses?",
@@ -221,7 +221,7 @@ const gohana: CityContent = {
     {
       question: "How long does it take to make a website for a Gohana shop?",
       answer:
-        "A static website is usually live in one to two weeks once we have your text and photographs. A 700+ page SEO website takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. The fastest projects are the ones where the owner sends content early.",
+        "A static website is usually live in one to two weeks once we have your text and photographs. A 299+ page SEO website takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. The fastest projects are the ones where the owner sends content early.",
     },
     {
       question: "Which is the best website development team in Gohana?",
@@ -246,7 +246,7 @@ const gohana: CityContent = {
     {
       question: "Gohana me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek se do hafte mein taiyaar ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Pages aur features dekh kar likhit quote milta hai, approval ke baad hi kaam shuru hota hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek se do hafte mein taiyaar ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Pages aur features dekh kar likhit quote milta hai, approval ke baad hi kaam shuru hota hai.",
     },
     {
       question: "You have no office in Gohana. How do I know the work is safe?",

@@ -39,7 +39,7 @@ const sahibganj: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi and Bengali pages", "Dispatch and trip software", "Accounts in your name"],
   },
   quickAnswer:
-    "A Sahibganj business website with us starts at ₹10,000 and is usually ready in one to two weeks. Android and iOS apps start at ₹40,000, WhatsApp and AI automation at ₹40,000, a 700+ page SEO site at ₹20,000 and an online store at ₹50,000. We work remotely without a Sahibganj office, and you own every account.",
+    "A Sahibganj business website with us starts at ₹10,000 and is usually ready in one to two weeks. Android and iOS apps start at ₹40,000, WhatsApp and AI automation at ₹40,000, a 299+ page SEO site at ₹20,000 and an online store at ₹50,000. We work remotely without a Sahibganj office, and you own every account.",
   snapshot: [
     { label: "Status", value: "Headquarters of Sahibganj district, formed from the old Rajmahal and Pakur subdivisions of Santhal Pargana" },
     { label: "Setting", value: "On the south bank of the Ganga in north-east Jharkhand, backed by the Rajmahal Hills" },

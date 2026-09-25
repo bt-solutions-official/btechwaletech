@@ -39,7 +39,7 @@ const washim: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Marathi-first local SEO", "Trader and dealer software", "Domain and code in your name"],
   },
   quickAnswer:
-    "A Washim shop, dealer or school can get a website from ₹10,000, normally ready within a fortnight. Apps for Android and iOS begin at ₹40,000, the same starting figure as AI automation; SEO sites of 700+ pages start at ₹20,000, stores at ₹50,000 and custom software at ₹60,000. Our remote team has no Washim office, and every account stays yours.",
+    "A Washim shop, dealer or school can get a website from ₹10,000, normally ready within a fortnight. Apps for Android and iOS begin at ₹40,000, the same starting figure as AI automation; SEO sites of 299+ pages start at ₹20,000, stores at ₹50,000 and custom software at ₹60,000. Our remote team has no Washim office, and every account stays yours.",
   snapshot: [
     { label: "District", value: "Headquarters of Washim district, carved out of Akola district on 1 July 1998" },
     { label: "History", value: "Ancient Vatsagulma, seat of a branch of the Vakataka dynasty; municipal council since 1869" },
@@ -211,7 +211,7 @@ const washim: CityContent = {
     {
       question: "What is the website cost in Washim?",
       answer:
-        "Our static websites start at ₹10,000 and 700+ page SEO websites at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, Marathi content, products and integrations. You get an itemised written quote first, and nothing is billed before you approve it.",
+        "Our static websites start at ₹10,000 and 299+ page SEO websites at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, Marathi content, products and integrations. You get an itemised written quote first, and nothing is billed before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Washim businesses?",
@@ -221,7 +221,7 @@ const washim: CityContent = {
     {
       question: "How long does it take to build a website for a Washim shop?",
       answer:
-        "Plan on a week or two for a simple shop site after your photos and wording arrive. Larger SEO sites of 700+ pages need three to five weeks, stores need four to eight, and custom software six to twelve. What slows most Washim projects is waiting for content and sign-offs, not the build itself.",
+        "Plan on a week or two for a simple shop site after your photos and wording arrive. Larger SEO sites of 299+ pages need three to five weeks, stores need four to eight, and custom software six to twelve. What slows most Washim projects is waiting for content and sign-offs, not the build itself.",
     },
     {
       question: "Which is the best website development team in Washim?",
@@ -246,7 +246,7 @@ const washim: CityContent = {
     {
       question: "Washim me website banwane ka kharcha kitna hai?",
       answer:
-        "Washim mein chhoti dukaan ki website ka kharcha ₹10,000 se shuru hota hai, aur zyadatar kaam do hafte ke andar live ho jaata hai. Bade SEO site (700+ pages) ke liye ₹20,000 se, app (Android aur iOS dono) ke liye ₹40,000 se, aur online dukaan ke liye ₹50,000 se. Pages aur features dekhkar likhit quote bhejte hain.",
+        "Washim mein chhoti dukaan ki website ka kharcha ₹10,000 se shuru hota hai, aur zyadatar kaam do hafte ke andar live ho jaata hai. Bade SEO site (299+ pages) ke liye ₹20,000 se, app (Android aur iOS dono) ke liye ₹40,000 se, aur online dukaan ke liye ₹50,000 se. Pages aur features dekhkar likhit quote bhejte hain.",
     },
     {
       question: "You have no office in Washim. How does remote work stay safe for me?",

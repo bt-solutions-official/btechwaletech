@@ -39,7 +39,7 @@ const kalpi: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Handmade paper catalogues", "Hindi-first local SEO", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Kalpi business, a website with us starts at ₹10,000 and a 700+ page SEO site at ₹20,000. Android and iOS apps and AI or WhatsApp automation start at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Kalpi office, and you own the domain, code and accounts.",
+    "For a Kalpi business, a website with us starts at ₹10,000 and a 299+ page SEO site at ₹20,000. Android and iOS apps and AI or WhatsApp automation start at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Kalpi office, and you own the domain, code and accounts.",
   snapshot: [
     { label: "Location", value: "Right bank of the Yamuna in Jalaun district, roughly 78 km south-west of Kanpur" },
     { label: "Population", value: "About 51,670 at the 2011 census, governed by a Nagar Palika Parishad" },
@@ -216,7 +216,7 @@ const kalpi: CityContent = {
     {
       question: "What is the website cost in Kalpi?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. The final quote depends on pages, Hindi content, products and features, and you get it itemised in writing before anything is billed.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. The final quote depends on pages, Hindi content, products and features, and you get it itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Kalpi businesses?",
@@ -231,7 +231,7 @@ const kalpi: CityContent = {
     {
       question: "How long does a website take for a Kalpi shop?",
       answer:
-        "A simple shop website is usually live one to two weeks after we receive your photos and details. A 700+ page SEO site takes about three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content in the first few days.",
+        "A simple shop website is usually live one to two weeks after we receive your photos and details. A 299+ page SEO site takes about three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content in the first few days.",
     },
     {
       question: "Which is the best website development team in Kalpi?",
@@ -251,7 +251,7 @@ const kalpi: CityContent = {
     {
       question: "Kalpi me website banwane ka kitna kharcha aata hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein taiyaar ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapke features ke hisaab se likhit quote do working days mein milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein taiyaar ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapke features ke hisaab se likhit quote do working days mein milta hai.",
     },
     {
       question: "You have no office in Kalpi. How do I know the work is safe?",

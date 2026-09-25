@@ -38,7 +38,7 @@ const jaggaiahpet: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu local SEO", "Cement and transport tools", "Accounts registered to you"],
   },
   quickAnswer:
-    "In Jaggaiahpet, our websites start at ₹10,000 and most go live within one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no office in Jaggaiahpet.",
+    "In Jaggaiahpet, our websites start at ₹10,000 and most go live within one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no office in Jaggaiahpet.",
   snapshot: [
     { label: "Location", value: "Municipal town and mandal headquarters in NTR district, Nandigama revenue division, next to the Telangana border" },
     { label: "Highway", value: "Near NH 65, the Pune–Machilipatnam highway that links Hyderabad and Vijayawada" },
@@ -212,7 +212,7 @@ const jaggaiahpet: CityContent = {
     {
       question: "What is the website cost in Jaggaiahpet?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Telugu content, products and integrations. You get an itemised written quote before anything is billed.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Telugu content, products and integrations. You get an itemised written quote before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Jaggaiahpet businesses?",
@@ -222,7 +222,7 @@ const jaggaiahpet: CityContent = {
     {
       question: "How long does a website take for a Jaggaiahpet business?",
       answer:
-        "A static site usually goes live in one to two weeks after we receive photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Owners who send content early get their sites soonest.",
+        "A static site usually goes live in one to two weeks after we receive photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Owners who send content early get their sites soonest.",
     },
     {
       question: "Who is the best website development team in Jaggaiahpet?",
@@ -247,7 +247,7 @@ const jaggaiahpet: CityContent = {
     {
       question: "Jaggayyapeta lo website cheyinchalante entha avutundi?",
       answer:
-        "Maa daggara simple website ₹10,000 nundi modalavutundi, sadharananga okati rendu vaaralalo ready avutundi. 700+ pages SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalu. Final quote mee pages, features batti rathapoorvakanga pampistaamu.",
+        "Maa daggara simple website ₹10,000 nundi modalavutundi, sadharananga okati rendu vaaralalo ready avutundi. 299+ pages SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalu. Final quote mee pages, features batti rathapoorvakanga pampistaamu.",
     },
     {
       question: "You have no office in Jaggaiahpet. How is remote work safe?",

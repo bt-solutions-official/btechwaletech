@@ -186,7 +186,7 @@ const content: CityContent = {
       id: "cost-guide-ambala",
       heading: "How much do freelance software developers in Ambala charge?",
       paragraphs: [
-        "Software development for an Ambala business with us starts from ₹60,000 for a custom web application, ₹40,000 for an AI or WhatsApp automation, ₹40,000 for an Android and iOS app, ₹50,000 for an ecommerce store, ₹20,000 for a 700+ page SEO website and ₹10,000 for a static site. These are starting prices; the final figure depends on features, integrations, the amount of data to migrate and how much content is ready.",
+        "Software development for an Ambala business with us starts from ₹60,000 for a custom web application, ₹40,000 for an AI or WhatsApp automation, ₹40,000 for an Android and iOS app, ₹50,000 for an ecommerce store, ₹20,000 for a 299+ page SEO website and ₹10,000 for a static site. These are starting prices; the final figure depends on features, integrations, the amount of data to migrate and how much content is ready.",
         "To make this concrete: an admission enquiry form with automated WhatsApp follow-up sits near the automation starting price. A catalogue site for an instrument maker with a few hundred products and enquiry baskets costs more, because product data has to be structured and photographed items uploaded. A dealer portal with credit tracking, dispatch records and Tally sync sits well above the custom software starting price.",
         "Every quote is itemised, so you can see what each feature costs and drop anything you do not need yet. Payment is split into milestones, and you pay only by UPI or bank transfer in INR. Our full <a href='/pricing/'>pricing page</a> lists every package with what is included.",
       ],
@@ -211,7 +211,7 @@ const content: CityContent = {
       id: "project-timeline-ambala",
       heading: "How long does a software or website project take for an Ambala business?",
       paragraphs: [
-        "A static website takes one to two weeks, a 700+ page SEO site three to five weeks, an AI automation two to four weeks, an ecommerce store four to eight weeks and a custom web application six to twelve weeks. The biggest variable is not coding speed but how quickly content, product data and decisions arrive from your side.",
+        "A static website takes one to two weeks, a 299+ page SEO site three to five weeks, an AI automation two to four weeks, an ecommerce store four to eight weeks and a custom web application six to twelve weeks. The biggest variable is not coding speed but how quickly content, product data and decisions arrive from your side.",
         "We work in short stages and show progress on a live preview link, so you can check it on your phone between customers. For an instrument manufacturer, the slowest part is usually gathering clean product data; for a school, it is agreeing on the admission workflow with the principal and office staff. We help with both, including templates for product sheets and a simple workflow map.",
         "Because we are remote, meetings happen on calls and screen-share at times that suit you, including evenings after the shop closes. You never wait for someone to travel to Ambala, and nothing stalls because a single office is closed. Once you <a href='/contact/'>share your requirement</a>, the itemised quote follows in about two working days.",
       ],

@@ -35,7 +35,7 @@ const sambhal: CityContent = {
     pills: ["Sites from ₹10,000", "Export-ready catalogues", "Hindi, Urdu and English", "Mentha trade pages", "WhatsApp order replies"],
   },
   quickAnswer:
-    "A website for a Sambhal business starts from ₹10,000 with us and usually takes one to two weeks. A 700+ page SEO website starts from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team of three engineers with no Sambhal office, and the first five months of maintenance are free.",
+    "A website for a Sambhal business starts from ₹10,000 with us and usually takes one to two weeks. A 299+ page SEO website starts from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team of three engineers with no Sambhal office, and the first five months of maintenance are free.",
   snapshot: [
     { label: "District", value: "Sambhal district, carved out of Moradabad in 2012; district offices sit at Bahjoi, courts at Chandausi" },
     { label: "Distance", value: "About 158 km east of New Delhi, in the Moradabad division of western Uttar Pradesh" },
@@ -73,12 +73,12 @@ const sambhal: CityContent = {
       heading: "What a website costs in Sambhal",
       paragraphs: [
         "Local quotes range from very cheap one-page templates, often on hosting the developer controls, to agency prices in Moradabad or Delhi that include things a small workshop does not need. The cheapest sites usually have no search setup and cannot be edited later; the costliest rarely come with direct access to the people building them.",
-        "Our starting prices are published on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts from ₹10,000 and usually takes one to two weeks. A 700+ page SEO website starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, custom software from ₹60,000, AI and WhatsApp automation from ₹40,000, and monthly SEO from ₹10,000 a month.",
+        "Our starting prices are published on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts from ₹10,000 and usually takes one to two weeks. A 299+ page SEO website starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, custom software from ₹60,000, AI and WhatsApp automation from ₹40,000, and monthly SEO from ₹10,000 a month.",
         "A clinic with six pages is quick. A craft exporter listing four hundred designs in several finishes takes longer. The quote lists every page and feature separately, and nothing is billed until you approve it in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, map, enquiry form and search basics. For shops, clinics, schools and small workshops.",
-        "<strong>From ₹20,000:</strong> 700+ pages, such as one page per product design or service. For exporters and traders.",
+        "<strong>From ₹20,000:</strong> 299+ pages, such as one page per product design or service. For exporters and traders.",
         "<strong>From ₹50,000:</strong> online store with UPI and card payments for retail buyers in India.",
         "<strong>From ₹60,000:</strong> custom systems like order tracking and artisan job sheets.",
       ],
@@ -219,12 +219,12 @@ const sambhal: CityContent = {
     {
       question: "How much does a website cost in Sambhal?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. When comparing quotes, check whether search setup, hosting in your name and support after launch are included.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. When comparing quotes, check whether search setup, hosting in your name and support after launch are included.",
     },
     {
       question: "Sambhal me website banwane me kitna kharcha aata hai?",
       answer:
-        "Humare saath simple website ₹10,000 se shuru hoti hai, 700+ page wali SEO website ₹20,000 se aur online store ₹50,000 se. Aakhri keemat pages, features aur content par nirbhar karti hai. Kaam shuru hone se pehle likhit itemised quote milta hai, aur aapki manzoori ke baad hi bill banta hai.",
+        "Humare saath simple website ₹10,000 se shuru hoti hai, 299+ page wali SEO website ₹20,000 se aur online store ₹50,000 se. Aakhri keemat pages, features aur content par nirbhar karti hai. Kaam shuru hone se pehle likhit itemised quote milta hai, aur aapki manzoori ke baad hi bill banta hai.",
     },
     {
       question: "Do you have an office in Sambhal?",

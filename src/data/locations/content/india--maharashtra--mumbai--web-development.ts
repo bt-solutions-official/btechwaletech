@@ -64,7 +64,7 @@ const content: CityContent = {
   whyUsIntro:
     "Mumbai web projects often pass through salespeople, project managers and outsourced coders before reaching you. With us, the three engineers who scope the work also design the database, write the code, deploy it and answer your WhatsApp messages.",
   pricingIntro:
-    "Web development in Mumbai starts at ₹10,000 for static websites, ₹20,000 for SEO websites of 700+ pages, ₹50,000 for ecommerce and ₹60,000 for custom web apps. Android and iOS apps start at ₹40,000.",
+    "Web development in Mumbai starts at ₹10,000 for static websites, ₹20,000 for SEO websites of 299+ pages, ₹50,000 for ecommerce and ₹60,000 for custom web apps. Android and iOS apps start at ₹40,000.",
   sections: [
     {
       id: "web-application-development-mumbai",
@@ -197,12 +197,12 @@ const content: CityContent = {
       id: "web-development-cost-timeline-mumbai",
       heading: "How long does web development take in Mumbai, and what affects cost?",
       paragraphs: [
-        "Web development in Mumbai takes one to two weeks for a static website, three to five weeks for a 700+ page SEO website, four to eight weeks for ecommerce and six to twelve weeks for a custom web application. Cost depends on roles, integrations, design complexity, data migration and content preparation.",
+        "Web development in Mumbai takes one to two weeks for a static website, three to five weeks for a 299+ page SEO website, four to eight weeks for ecommerce and six to twelve weeks for a custom web application. Cost depends on roles, integrations, design complexity, data migration and content preparation.",
         "Content and approvals cause most delays. We can draft copy for you, but someone from your business must confirm facts and prices. Every quote is itemised using our <a href='/pricing/'>published starting prices</a>, so you can move features to a later phase if needed.",
       ],
       list: [
         "Static website: from ₹10,000, one to two weeks",
-        "SEO website of 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website of 299+ pages: from ₹20,000, three to five weeks",
         "Ecommerce store: from ₹50,000, four to eight weeks",
         "Android and iOS app: from ₹40,000, six to ten weeks",
         "Custom web app or portal: from ₹60,000, six to twelve weeks",
@@ -301,7 +301,7 @@ const content: CityContent = {
     {
       question: "How much does a website cost in Mumbai?",
       answer:
-        "A static website starts at ₹10,000 for up to 100 pages, an SEO website of 700+ pages at ₹20,000, ecommerce at ₹50,000 and a custom web app at ₹60,000. These are starting prices. You receive an itemised quote in about two working days based on your features and content.",
+        "A static website starts at ₹10,000 for up to 100 pages, an SEO website of 299+ pages at ₹20,000, ecommerce at ₹50,000 and a custom web app at ₹60,000. These are starting prices. You receive an itemised quote in about two working days based on your features and content.",
     },
     {
       question: "How long does a web application take to build?",

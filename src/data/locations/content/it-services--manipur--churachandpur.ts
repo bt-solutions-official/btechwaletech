@@ -212,7 +212,7 @@ const content: CityContent = {
       id: "cost-choose-churachandpur",
       heading: "What does IT work cost in Churachandpur, and how should you choose a provider?",
       paragraphs: [
-        "IT work for Churachandpur clients with BtechWaleTech starts at ₹10,000 for a static information website, ₹20,000 for a 700+ page SEO website, ₹40,000 for automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months. See the <a href='/pricing/'>pricing page</a>.",
+        "IT work for Churachandpur clients with BtechWaleTech starts at ₹10,000 for a static information website, ₹20,000 for a 299+ page SEO website, ₹40,000 for automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months. See the <a href='/pricing/'>pricing page</a>.",
         "If you are comparing a software development team for Churachandpur with a freelance team, ask who writes the code, whether scope and price are written down, whether the domain and hosting will be in your name, and how the system behaves offline. Local providers can visit; remote teams usually cost less for software and web work.",
         "Payments to us are made only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in rupees and in milestones. Earlier work is in our <a href='/portfolio/'>portfolio</a>, and more about us is on the <a href='/about/'>about page</a>.",
       ],

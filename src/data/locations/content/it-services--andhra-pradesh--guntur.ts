@@ -212,7 +212,7 @@ const content: CityContent = {
       id: "cost-guntur",
       heading: "How much does software development cost in Guntur?",
       paragraphs: [
-        "Software development in Guntur with BtechWaleTech starts at ₹60,000 for custom software, ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for ecommerce, ₹20,000 for a 700+ page SEO website and ₹10,000 for a static website. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after the first five free months.",
+        "Software development in Guntur with BtechWaleTech starts at ₹60,000 for custom software, ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for ecommerce, ₹20,000 for a 299+ page SEO website and ₹10,000 for a static website. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after the first five free months.",
         "Your final quote depends on modules, user roles, integrations with Tally, WhatsApp or courier services, data migration from old books and how quickly content and approvals come in. Full plan details are on the <a href='/pricing/'>pricing page</a>.",
         "Payment is accepted only by UPI, scanning our QR code, or by direct bank transfer, in INR, against milestones written into the quote.",
       ],

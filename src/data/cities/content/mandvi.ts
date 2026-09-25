@@ -39,7 +39,7 @@ const mandvi: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Gujarati and English pages", "Beach and heritage tourism SEO", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Mandvi shop, hotel or workshop, our websites start at ₹10,000 and take one to two weeks, 700+ page SEO sites start at ₹20,000, and Android and iOS apps at ₹40,000. AI automation also starts at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Mandvi office.",
+    "For a Mandvi shop, hotel or workshop, our websites start at ₹10,000 and take one to two weeks, 299+ page SEO sites start at ₹20,000, and Android and iOS apps at ₹40,000. AI automation also starts at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Mandvi office.",
   snapshot: [
     { label: "Location", value: "Coastal town in Kutch district where the Rukmavati meets the Gulf of Kutch, about 56 km south of Bhuj" },
     { label: "History", value: "Founded in the 1580s by Rao Khengarji I; by the 18th century its merchants owned a fleet of around 400 vessels" },
@@ -224,7 +224,7 @@ const mandvi: CityContent = {
     {
       question: "What is the website cost in Mandvi?",
       answer:
-        "A static website of up to 100 pages starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices only. The final figure depends on pages, Gujarati content, booking or payment features and integrations, and you see every item in a written quote before anything is billed.",
+        "A static website of up to 100 pages starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices only. The final figure depends on pages, Gujarati content, booking or payment features and integrations, and you see every item in a written quote before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Mandvi businesses?",
@@ -234,7 +234,7 @@ const mandvi: CityContent = {
     {
       question: "How long does it take to build a website in Mandvi?",
       answer:
-        "A static site for a shop, clinic or guest house normally goes live in one to two weeks after we receive your photographs and details. A 700+ page SEO site needs three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content and feedback promptly.",
+        "A static site for a shop, clinic or guest house normally goes live in one to two weeks after we receive your photographs and details. A 299+ page SEO site needs three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content and feedback promptly.",
     },
     {
       question: "Which is the best website development team in Mandvi, Kutch?",

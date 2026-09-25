@@ -39,7 +39,7 @@ const masaurhi: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first local SEO", "Coaching and school sites", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Masaurhi business, a website with us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, a 700+ page SEO site at ₹20,000 and an online store at ₹50,000. We are a remote team with no Masaurhi office, and you own every account.",
+    "For a Masaurhi business, a website with us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, a 299+ page SEO site at ₹20,000 and an online store at ₹50,000. We are a remote team with no Masaurhi office, and you own every account.",
   snapshot: [
     { label: "Location", value: "Nagar Parishad and sub-division headquarters in Patna district, about 30 km south of Patna" },
     { label: "Also known as", value: "Taregna, linked by local tradition to the astronomer Aryabhata" },
@@ -157,7 +157,7 @@ const masaurhi: CityContent = {
       id: "website-cost-masaurhi",
       heading: "Website cost in Masaurhi: starting prices and what changes them",
       paragraphs: [
-        "The question we hear most often is simply “Masaurhi me website banwane ka kharcha kitna hai?” The honest answer is that it depends on what the site has to do. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 700+ pages, for a business that wants to rank across many villages or services, starts at ₹20,000 and takes three to five weeks.",
+        "The question we hear most often is simply “Masaurhi me website banwane ka kharcha kitna hai?” The honest answer is that it depends on what the site has to do. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 299+ pages, for a business that wants to rank across many villages or services, starts at ₹20,000 and takes three to five weeks.",
         "Android and iOS apps and AI automation start at ₹40,000. An online store starts at ₹50,000 and takes four to eight weeks. Custom software such as a school management or dealer credit system starts at ₹60,000 and takes six to twelve weeks. Monthly SEO starts at ₹10,000 a month.",
         "Local quotes vary widely, from a few thousand rupees to large figures. When you compare, ask who owns the domain, whether the site loads fast on a basic phone, whether Hindi text is written properly, and what happens after launch. Our full breakdown is on the <a href=\"/pricing/\">pricing page</a>, and every quote we send is itemised.",
       ],
@@ -209,7 +209,7 @@ const masaurhi: CityContent = {
     {
       question: "What does a website cost in Masaurhi?",
       answer:
-        "A static website of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. An SEO website with 700+ pages starts at ₹20,000. Online stores start at ₹50,000, apps at ₹40,000 and custom software at ₹60,000. You get an itemised quote within about two working days, and nothing is billed before you approve it in writing.",
+        "A static website of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. An SEO website with 299+ pages starts at ₹20,000. Online stores start at ₹50,000, apps at ₹40,000 and custom software at ₹60,000. You get an itemised quote within about two working days, and nothing is billed before you approve it in writing.",
     },
     {
       question: "How long does it take to build a website for a Masaurhi shop?",

@@ -34,7 +34,7 @@ const thanjavur: CityContent = {
     pills: ["Sites from ₹10,000", "Tamil and English pages", "Craft stores with UPI", "Rice mill and agri sites", "WhatsApp enquiry handling"],
   },
   quickAnswer:
-    "A business website for a Thanjavur shop, clinic or workshop starts from ₹10,000 with us and is usually ready in one to two weeks. A 700+ page SEO site starts from ₹20,000, an online store from ₹50,000 and a custom web app from ₹60,000. We are a remote three-person team with no office in Thanjavur.",
+    "A business website for a Thanjavur shop, clinic or workshop starts from ₹10,000 with us and is usually ready in one to two weeks. A 299+ page SEO site starts from ₹20,000, an online store from ₹50,000 and a custom web app from ₹60,000. We are a remote three-person team with no office in Thanjavur.",
   snapshot: [
     { label: "Role", value: "Headquarters of Thanjavur district, in the Kaveri delta, about 56 km east of Tiruchirappalli" },
     { label: "Farm economy", value: "Known as the rice bowl of Tamil Nadu; paddy dominates, with sugarcane, coconut, banana and pulses" },
@@ -72,12 +72,12 @@ const thanjavur: CityContent = {
       heading: "What a website costs in Thanjavur, and what the price should include",
       paragraphs: [
         "Local quotes vary a lot. Some freelancers offer a one-page template for a small amount, but the domain is registered in their name and nobody sets up search basics. Agencies in Chennai or Coimbatore may quote several times our starting figure because they carry office and sales costs. Neither extreme is ideal for a Thanjavur workshop or clinic.",
-        "Our starting prices are listed openly on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts from ₹10,000 and usually takes one to two weeks. An SEO website of 700+ pages, where each service, product or locality gets its own page, starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, custom software from ₹60,000, AI and WhatsApp automation from ₹40,000, and monthly SEO from ₹10,000 a month.",
+        "Our starting prices are listed openly on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts from ₹10,000 and usually takes one to two weeks. An SEO website of 299+ pages, where each service, product or locality gets its own page, starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, custom software from ₹60,000, AI and WhatsApp automation from ₹40,000, and monthly SEO from ₹10,000 a month.",
         "The quote depends on scope. A single-doctor clinic with six pages is quick. A painting studio listing 150 works in several sizes, with Tamil and English descriptions, needs more effort. Every quote lists pages and features line by line, and nothing is charged until you approve it in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, map, enquiry form and search basics. Suits shops, clinics, tutors and hotels.",
-        "<strong>From ₹20,000:</strong> 700+ page sites for firms that want enquiries from many different searches.",
+        "<strong>From ₹20,000:</strong> 299+ page sites for firms that want enquiries from many different searches.",
         "<strong>From ₹50,000:</strong> online stores with UPI and cards, for craft sellers and silk or food brands.",
         "<strong>From ₹60,000:</strong> custom tools with logins, for mills, colleges and hospitals.",
       ],
@@ -208,12 +208,12 @@ const thanjavur: CityContent = {
     {
       question: "How much does a website cost in Thanjavur?",
       answer:
-        "With us, a static website starts from ₹10,000, an SEO website of 700+ pages from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. The final quote depends on pages, products and languages, and you receive it itemised in writing before any work or billing begins.",
+        "With us, a static website starts from ₹10,000, an SEO website of 299+ pages from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. The final quote depends on pages, products and languages, and you receive it itemised in writing before any work or billing begins.",
     },
     {
       question: "Thanjavur-la oru website panna evvalavu selavaagum?",
       answer:
-        "Engaloda simple website ₹10,000-la irundhu aarambikkudhu, 700+ page SEO website ₹20,000-la irundhu, online store ₹50,000-la irundhu. Pages, features, content-ah poruthu final vilai maarum. Velai aarambikkum munnaadi ezhuthu moolama itemised quote anuppuvom, neenga approve pannina piragu dhaan bill.",
+        "Engaloda simple website ₹10,000-la irundhu aarambikkudhu, 299+ page SEO website ₹20,000-la irundhu, online store ₹50,000-la irundhu. Pages, features, content-ah poruthu final vilai maarum. Velai aarambikkum munnaadi ezhuthu moolama itemised quote anuppuvom, neenga approve pannina piragu dhaan bill.",
     },
     {
       question: "Do you have an office in Thanjavur?",

@@ -34,7 +34,7 @@ const eluru: CityContent = {
     pills: ["Sites from ₹10,000", "Telugu and English pages", "Aqua and feed dealer sites", "Carpet export catalogues", "WhatsApp automation"],
   },
   quickAnswer:
-    "In Eluru, our static business websites start from ₹10,000 and take one to two weeks; 700+ page SEO websites start from ₹20,000 and online stores from ₹50,000. We are a remote team of three engineers with no Eluru office, and every website we build includes five months of free maintenance after launch.",
+    "In Eluru, our static business websites start from ₹10,000 and take one to two weeks; 299+ page SEO websites start from ₹20,000 and online stores from ₹50,000. We are a remote team of three engineers with no Eluru office, and every website we build includes five months of free maintenance after launch.",
   snapshot: [
     { label: "City", value: "Headquarters of Eluru district, formed in 2022; on NH 16 and the Howrah–Chennai rail line" },
     { label: "Craft and export", value: "Hand-knotted woollen carpets, a weaving tradition going back to the 17th century" },
@@ -72,7 +72,7 @@ const eluru: CityContent = {
       heading: "How much does a website cost in Eluru?",
       paragraphs: [
         "Quotes for websites in Eluru vary widely. Some local designers offer a single-page template for very little, often with the domain in their name and no search setup. Agencies in bigger cities may quote much higher amounts without listing what is included. Neither approach helps an owner compare fairly.",
-        "Our prices are on the <a href=\"/pricing/\">pricing page</a>, and every figure is a starting price. A static website of up to 100 pages starts from ₹10,000 and takes one to two weeks. An SEO website with 700+ pages, for example a page per product, crop input or village cluster you serve, starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, AI and WhatsApp automation from ₹40,000, custom web applications from ₹60,000, and monthly SEO from ₹10,000.",
+        "Our prices are on the <a href=\"/pricing/\">pricing page</a>, and every figure is a starting price. A static website of up to 100 pages starts from ₹10,000 and takes one to two weeks. An SEO website with 299+ pages, for example a page per product, crop input or village cluster you serve, starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, AI and WhatsApp automation from ₹40,000, custom web applications from ₹60,000, and monthly SEO from ₹10,000.",
         "The final price depends on scope. A single clinic needs much less than a feed distributor with a dealer login and credit ledger. You get a line-by-line quote first and can remove anything you do not need.",
       ],
       list: [
@@ -225,7 +225,7 @@ const eluru: CityContent = {
     {
       question: "How much does a website cost in Eluru?",
       answer:
-        "With us, a static website starts from ₹10,000, an SEO website with 700+ pages from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. The final price depends on pages, products and features, and you get an itemised quote before any work is billed.",
+        "With us, a static website starts from ₹10,000, an SEO website with 299+ pages from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. The final price depends on pages, products and features, and you get an itemised quote before any work is billed.",
     },
     {
       question: "Eluru lo website cheyinchukovadaniki entha kharchu avutundi?",

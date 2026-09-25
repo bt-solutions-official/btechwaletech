@@ -40,7 +40,7 @@ const gobindgarh: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Steel product catalogues", "Punjabi and English SEO", "Dispatch and order software"],
   },
   quickAnswer:
-    "For Mandi Gobindgarh businesses, a static website starts at ₹10,000 and a 700+ page SEO website at ₹20,000. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team of three with no office in the town, and quotes come itemised.",
+    "For Mandi Gobindgarh businesses, a static website starts at ₹10,000 and a 299+ page SEO website at ₹20,000. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team of three with no office in the town, and quotes come itemised.",
   snapshot: [
     { label: "District", value: "Fatehgarh Sahib district, Punjab, on the G.T. Road between Rajpura and Khanna; PIN 147301" },
     { label: "Known as", value: "The Steel Town of Punjab, a centre of secondary steel production built on rolling mills and furnaces" },
@@ -103,12 +103,12 @@ const gobindgarh: CityContent = {
       heading: "Website cost in Mandi Gobindgarh, explained item by item",
       paragraphs: [
         "Owners here hear wildly different quotes for a website, from a few thousand rupees for a template to large figures from agencies in Ludhiana or Chandigarh. Local quotes vary widely, so the useful comparison is not the headline figure but what is included: number of pages, who writes the content, whether hosting and domain are in your name, whether SEO setup is done, and what happens after launch.",
-        "Our starting prices are public on the <a href=\"/pricing/\">pricing page</a>. A static website with up to 100 pages starts at ₹10,000 and usually takes one to two weeks. An SEO website with 700+ pages, useful when you roll many sections in many sizes, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Monthly SEO work starts at ₹10,000 a month.",
+        "Our starting prices are public on the <a href=\"/pricing/\">pricing page</a>. A static website with up to 100 pages starts at ₹10,000 and usually takes one to two weeks. An SEO website with 299+ pages, useful when you roll many sections in many sizes, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Monthly SEO work starts at ₹10,000 a month.",
         "Your quote arrives in about two working days and lists each item separately, so you can remove what you do not need. We do not bill anything before you approve the quote in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages for traders, shops, clinics and small units",
-        "<strong>From ₹20,000:</strong> 700+ pages for mills with many sections, sizes and grades",
+        "<strong>From ₹20,000:</strong> 299+ pages for mills with many sections, sizes and grades",
         "<strong>From ₹40,000:</strong> Android and iOS apps, or WhatsApp and AI automation",
         "<strong>From ₹60,000:</strong> custom order, dispatch and ledger software",
       ],
@@ -223,7 +223,7 @@ const gobindgarh: CityContent = {
     {
       question: "How much does a website cost in Mandi Gobindgarh?",
       answer:
-        "With us, a static website of up to 100 pages starts at ₹10,000 and a 700+ page SEO website starts at ₹20,000. Mills with many sections and sizes usually need the larger site. Online stores start at ₹50,000 and custom software at ₹60,000. Your itemised quote shows exactly what each part costs.",
+        "With us, a static website of up to 100 pages starts at ₹10,000 and a 299+ page SEO website starts at ₹20,000. Mills with many sections and sizes usually need the larger site. Online stores start at ₹50,000 and custom software at ₹60,000. Your itemised quote shows exactly what each part costs.",
     },
     {
       question: "How long does it take to build a website for a rolling mill?",
@@ -288,7 +288,7 @@ const gobindgarh: CityContent = {
     {
       question: "Mandi Gobindgarh vich website te app banwan da kharcha kinna hai?",
       answer:
-        "Static website ₹10,000 ton shuru hundi hai, SEO website 700+ pages wali ₹20,000 ton, ate Android te iOS app ₹40,000 ton shuru hunda hai. Quote do working days vich likhat vich milda hai, har item alag dikhaya janda hai, ate approval ton pehla koi payment nahi.",
+        "Static website ₹10,000 ton shuru hundi hai, SEO website 299+ pages wali ₹20,000 ton, ate Android te iOS app ₹40,000 ton shuru hunda hai. Quote do working days vich likhat vich milda hai, har item alag dikhaya janda hai, ate approval ton pehla koi payment nahi.",
     },
   ],
   nearby: ["sirhind-fatehgarh-sahib", "khanna", "rajpura", "nabha", "ludhiana", "patiala", "mohali"],

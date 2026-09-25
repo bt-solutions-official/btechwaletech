@@ -39,7 +39,7 @@ const sangrur: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Punjabi and English SEO", "Arhtiya and sheller software", "All logins in your name"],
   },
   quickAnswer:
-    "A Sangrur business website with us starts at ₹10,000 and is usually ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, have no Sangrur office, and register everything in your name.",
+    "A Sangrur business website with us starts at ₹10,000 and is usually ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, have no Sangrur office, and register everything in your name.",
   snapshot: [
     { label: "Location", value: "District headquarters in Punjab's Malwa belt, about 56 km from Patiala and 52 km from Ludhiana" },
     { label: "Heritage", value: "Former Jind State town with four gates (Sunami, Patiala, Dhuri and Nabha), Banasar Bagh and an 1885 clock tower" },
@@ -158,7 +158,7 @@ const sangrur: CityContent = {
       id: "website-cost-sangrur",
       heading: "Website cost in Sangrur: what our starting prices cover",
       paragraphs: [
-        "Here is where our pricing starts for Sangrur clients. A static website of up to 100 pages is from ₹10,000 and takes one to two weeks. A 700+ page SEO website is from ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation each begin at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO is ₹10,000 a month onwards.",
+        "Here is where our pricing starts for Sangrur clients. A static website of up to 100 pages is from ₹10,000 and takes one to two weeks. A 299+ page SEO website is from ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation each begin at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO is ₹10,000 a month onwards.",
         "The quote grows with scope: extra pages, Punjabi and English versions, long product lists, payment and courier connections, staff logins, and links to Tally, Busy or other software. Content also shifts the figure. If you hand over the text and photographs, you stay close to the starting price; if we write, translate and arrange everything, that appears as a separate line so you can decide.",
         "Local quotes vary widely, and the cheapest headline is often the most expensive later. Ask each provider whose name the domain and hosting go in, whether mobile testing and basic SEO are included, how many change rounds you get and who fixes problems after launch. Our <a href=\"/pricing/\">pricing page</a> sets out the starting figures, and your written quote arrives in about two working days.",
       ],
@@ -210,7 +210,7 @@ const sangrur: CityContent = {
     {
       question: "What is the website cost in Sangrur?",
       answer:
-        "Our static websites start at ₹10,000, SEO websites with 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Your final figure depends on pages, Punjabi content, products and integrations, and you receive an itemised written quote before anything is billed.",
+        "Our static websites start at ₹10,000, SEO websites with 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Your final figure depends on pages, Punjabi content, products and integrations, and you receive an itemised written quote before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Sangrur businesses?",
@@ -220,7 +220,7 @@ const sangrur: CityContent = {
     {
       question: "How long does a website take for a Sangrur business?",
       answer:
-        "A static website usually goes live within one to two weeks of receiving your text and photographs. A 700+ page SEO website takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Getting content and approvals to us quickly is what speeds things up most.",
+        "A static website usually goes live within one to two weeks of receiving your text and photographs. A 299+ page SEO website takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Getting content and approvals to us quickly is what speeds things up most.",
     },
     {
       question: "Who is the best website development team in Sangrur?",
@@ -245,7 +245,7 @@ const sangrur: CityContent = {
     {
       question: "Sangrur vich website banaun da kharcha kinna aunda hai?",
       answer:
-        "Saade kol simple website ₹10,000 ton shuru hundi hai te aam taur te ik ton do hafteyan vich tiyaar ho jandi hai. 700+ page wali SEO website ₹20,000 ton, Android te iOS app ₹40,000 ton te online store ₹50,000 ton shuru hunde ne. Final quote tuhade pages te features de hisaab naal likhat vich milda hai.",
+        "Saade kol simple website ₹10,000 ton shuru hundi hai te aam taur te ik ton do hafteyan vich tiyaar ho jandi hai. 299+ page wali SEO website ₹20,000 ton, Android te iOS app ₹40,000 ton te online store ₹50,000 ton shuru hunde ne. Final quote tuhade pages te features de hisaab naal likhat vich milda hai.",
     },
     {
       question: "You have no office in Sangrur. Is it safe to work with you remotely?",

@@ -222,7 +222,7 @@ const content: CityContent = {
       id: "software-cost-lunglei",
       heading: "How much does software and app development in Lunglei cost?",
       paragraphs: [
-        "Software and app development in Lunglei starts at ₹60,000 for custom software or a web app, ₹40,000 for AI and WhatsApp automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹10,000 for a mobile-first website. A 700+ page SEO site starts at ₹20,000, monthly SEO at ₹10,000 and maintenance at ₹8,000.",
+        "Software and app development in Lunglei starts at ₹60,000 for custom software or a web app, ₹40,000 for AI and WhatsApp automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹10,000 for a mobile-first website. A 299+ page SEO site starts at ₹20,000, monthly SEO at ₹10,000 and maintenance at ₹8,000.",
         "Scope sets the final price: screens or pages, user roles, offline features, integrations, data migration and content. We itemise each part so you can phase features to match budget.",
         "Payments are in INR against milestones, accepted only by UPI through our QR code or direct bank transfer to our account. Hosting setup, deployment and five months of maintenance are included. See all services on our <a href='/services/'>services page</a>.",
       ],

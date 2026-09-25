@@ -39,7 +39,7 @@ const sidhi: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first Google Maps SEO", "Dari and carpet stores", "Your domain, your code"],
   },
   quickAnswer:
-    "A business website in Sidhi starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Sidhi office.",
+    "A business website in Sidhi starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Sidhi office.",
   snapshot: [
     { label: "Status", value: "Headquarters of Sidhi district in Rewa division; municipality since 1949" },
     { label: "Road links", value: "NH39 towards Rewa and Singrauli, plus state highways to the tehsil towns" },
@@ -213,7 +213,7 @@ const sidhi: CityContent = {
     {
       question: "What is the website cost in Sidhi?",
       answer:
-        "A static business website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A larger SEO website with 700+ pages starts at ₹20,000, and an online store starts at ₹50,000. Your exact figure depends on pages, languages and features, and you receive an itemised quote in about two working days.",
+        "A static business website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A larger SEO website with 299+ pages starts at ₹20,000, and an online store starts at ₹50,000. Your exact figure depends on pages, languages and features, and you receive an itemised quote in about two working days.",
     },
     {
       question: "Do you build Android and iOS apps for Sidhi businesses?",

@@ -39,7 +39,7 @@ const nirmal: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu, Urdu and English pages", "Stores for GI-tagged crafts", "Every account in your name"],
   },
   quickAnswer:
-    "In Nirmal, a business website with us starts at ₹10,000 and is usually live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an ecommerce store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Nirmal office.",
+    "In Nirmal, a business website with us starts at ₹10,000 and is usually live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an ecommerce store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Nirmal office.",
   snapshot: [
     { label: "Status", value: "Headquarters of Nirmal district, which has 19 mandals in the Nirmal and Bhainsa revenue divisions" },
     { label: "Setting", value: "Foothills of the Nirmal hill range on the Deccan plateau, about 350 m above sea level" },
@@ -166,7 +166,7 @@ const nirmal: CityContent = {
       id: "website-cost-nirmal",
       heading: "Website cost in Nirmal: starting prices and what changes them",
       paragraphs: [
-        "When people ask about the <strong>website cost in Nirmal</strong>, we give starting prices first. Static websites with up to 100 pages start at ₹10,000 and take one to two weeks. SEO websites with 700+ pages start at ₹20,000 and take three to five weeks. Android and iOS apps and AI automation start at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000.",
+        "When people ask about the <strong>website cost in Nirmal</strong>, we give starting prices first. Static websites with up to 100 pages start at ₹10,000 and take one to two weeks. SEO websites with 299+ pages start at ₹20,000 and take three to five weeks. Android and iOS apps and AI automation start at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000.",
         "What moves the figure is usually clear from the first call: how many pages or products, whether we write the text in Telugu, Urdu and English or you supply it, payment and courier setup, and the number of app screens. You receive an itemised quote in about two working days and can remove anything you do not need.",
         "Local quotes vary a great deal, so compare carefully. Ask whose name the domain and hosting will be in, how many pages are included, what maintenance costs after launch and who you will speak to when something breaks. Our full rates are on the <a href=\"/pricing/\">pricing page</a>.",
       ],
@@ -218,7 +218,7 @@ const nirmal: CityContent = {
     {
       question: "What is the website cost in Nirmal?",
       answer:
-        "Static websites start at ₹10,000, SEO websites with 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. All are starting prices. Your quote depends on pages, languages, products and integrations, and it arrives itemised in writing before anything is billed.",
+        "Static websites start at ₹10,000, SEO websites with 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. All are starting prices. Your quote depends on pages, languages, products and integrations, and it arrives itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Nirmal businesses?",
@@ -228,7 +228,7 @@ const nirmal: CityContent = {
     {
       question: "How long does it take to build a website in Nirmal?",
       answer:
-        "A static website usually takes one to two weeks after we receive your text and photos. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. The biggest factor in speed is how quickly content reaches us.",
+        "A static website usually takes one to two weeks after we receive your text and photos. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. The biggest factor in speed is how quickly content reaches us.",
     },
     {
       question: "Who is the best website development team in Nirmal?",
@@ -248,7 +248,7 @@ const nirmal: CityContent = {
     {
       question: "Nirmal me website banwane ka kharcha kitna hai?",
       answer:
-        "Simple website ₹10,000 se shuru hoti hai aur 1–2 hafte me live ho jaati hai. 700+ page SEO website ₹20,000 se, online store ₹50,000 se aur Android–iOS app ₹40,000 se shuru hota hai. Telugu, Urdu ya English, jo bhasha chahiye, usme page bana dete hain. Approval ke bina koi billing nahi.",
+        "Simple website ₹10,000 se shuru hoti hai aur 1–2 hafte me live ho jaati hai. 299+ page SEO website ₹20,000 se, online store ₹50,000 se aur Android–iOS app ₹40,000 se shuru hota hai. Telugu, Urdu ya English, jo bhasha chahiye, usme page bana dete hain. Approval ke bina koi billing nahi.",
     },
     {
       question: "Do you offer AI and WhatsApp automation in Nirmal?",

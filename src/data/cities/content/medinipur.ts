@@ -35,7 +35,7 @@ const medinipur: CityContent = {
     pills: ["Sites from ₹10,000", "Bengali and English pages", "Clinic and diagnostic sites", "Patachitra and madur stores", "WhatsApp enquiry automation"],
   },
   quickAnswer:
-    "A basic website for a Medinipur business starts at ₹10,000 with us and is usually ready in one to two weeks. A 700+ page site built for search starts at ₹20,000, an online store at ₹50,000 and AI or WhatsApp automation at ₹40,000. We are a remote team with no Midnapore office, and maintenance is free for five months after launch.",
+    "A basic website for a Medinipur business starts at ₹10,000 with us and is usually ready in one to two weeks. A 299+ page site built for search starts at ₹20,000, an online store at ₹50,000 and AI or WhatsApp automation at ₹40,000. We are a remote team with no Midnapore office, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "District role", value: "Headquarters of Paschim Medinipur district, on the Kangsabati (Kasai) river, about 13 km from Kharagpur" },
     { label: "Population", value: "About 1.69 lakh at the 2011 census across 25 municipal wards, with Mohanpur, Keranichati and Khayerullachak in the urban area" },
@@ -73,7 +73,7 @@ const medinipur: CityContent = {
       heading: "Website prices in Medinipur, set out plainly",
       paragraphs: [
         "Many owners here have been offered a site for a few thousand rupees with no mention of who owns the domain, or a Kolkata quote that includes the agency's rent and sales staff. Neither is easy to compare. Our rates sit openly on the <a href=\"/pricing/\">pricing page</a>, and they are starting prices, not packages.",
-        "A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks, with a mobile layout, enquiry form, map, WhatsApp button and basic search setup. A larger site of 700+ pages, with separate pages for each service, course, test or product, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, WhatsApp and AI automation at ₹40,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
+        "A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks, with a mobile layout, enquiry form, map, WhatsApp button and basic search setup. A larger site of 299+ pages, with separate pages for each service, course, test or product, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, WhatsApp and AI automation at ₹40,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
         "Scope sets the final number. A single advocate's chamber needs very little; a nursing home with ten departments and a test list needs more. We send an itemised quote in about two working days and charge nothing until you approve it in writing.",
       ],
       list: [
@@ -218,7 +218,7 @@ const medinipur: CityContent = {
     {
       question: "What does a website cost in Medinipur?",
       answer:
-        "With us a static site starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. When comparing other Midnapore quotes, check whose name the domain is in, whether basic SEO is included and what support comes after launch.",
+        "With us a static site starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. When comparing other Midnapore quotes, check whose name the domain is in, whether basic SEO is included and what support comes after launch.",
     },
     {
       question: "Medinipur e website banate koto khoroch hoy?",

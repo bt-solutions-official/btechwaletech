@@ -35,7 +35,7 @@ const ludhiana: CityContent = {
     pills: ["Sites from ₹10,000", "Catalogues for dealers", "Punjabi, Hindi and English SEO", "WhatsApp order flows", "Custom ERP-style tools"],
   },
   quickAnswer:
-    "A Ludhiana business can get a static website from us from ₹10,000 and a 700+ page SEO website from ₹20,000. Online stores begin at ₹50,000 and custom web applications at ₹60,000. We are a remote freelance team of three engineers, so there is no office overhead in the price, you own every account, and maintenance is free for five months after launch.",
+    "A Ludhiana business can get a static website from us from ₹10,000 and a 299+ page SEO website from ₹20,000. Online stores begin at ₹50,000 and custom web applications at ₹60,000. We are a remote freelance team of three engineers, so there is no office overhead in the price, you own every account, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Industrial zones", value: "Focal Point, Industrial Areas A and B, Giaspura, Dhandari Kalan and the Gill Road machinery belt" },
     { label: "Signature industries", value: "Hosiery and woollen knitwear, bicycles and bicycle parts, machine tools, sewing-machine parts and auto components" },
@@ -73,12 +73,12 @@ const ludhiana: CityContent = {
       heading: "How much does a website cost in Ludhiana?",
       paragraphs: [
         "Ludhiana quotes for a small business website run from ₹2,500 to ₹60,000 and beyond, and it is often hard to see why. The cheapest usually reuse a theme, skip search groundwork and keep hosting in the designer's account. The priciest pay for offices, sales staff and sometimes a bundle of add-ons you will never use.",
-        "Ours are listed. A static site of up to 100 pages starts from ₹10,000 and usually goes live within one to two weeks. A 700+ page site built around real buyer searches starts from ₹20,000 and takes three to five weeks. A store with UPI and card payments starts from ₹50,000 over four to eight weeks. A custom application, such as a dealer portal or production tracker, starts from ₹60,000 and takes six to twelve weeks. Automation starts from ₹40,000, and ongoing SEO from ₹10,000 a month.",
+        "Ours are listed. A static site of up to 100 pages starts from ₹10,000 and usually goes live within one to two weeks. A 299+ page site built around real buyer searches starts from ₹20,000 and takes three to five weeks. A store with UPI and card payments starts from ₹50,000 over four to eight weeks. A custom application, such as a dealer portal or production tracker, starts from ₹60,000 and takes six to twelve weeks. Automation starts from ₹40,000, and ongoing SEO from ₹10,000 a month.",
         "Scope sets the final number: product count and variants, photography readiness, and what the system must connect to. The quote lists each part separately, so you can begin with the essentials and add the rest after the season.",
       ],
       list: [
         "<strong>Static site, ₹10,000 onwards:</strong> company profile, product categories, contact and WhatsApp, basic SEO. Suits smaller units, traders and professionals.",
-        "<strong>SEO site, ₹20,000 onwards:</strong> 700+ pages with product-line pages, schema and a sitemap submitted to Google.",
+        "<strong>SEO site, ₹20,000 onwards:</strong> 299+ pages with product-line pages, schema and a sitemap submitted to Google.",
         "<strong>Online store, ₹50,000 onwards:</strong> catalogue with sizes and colours, UPI and card checkout, shipping rules and order alerts.",
         "<strong>Custom web app, ₹60,000 onwards:</strong> dealer logins, rate lists, orders, stock and dispatch tracking.",
       ],
@@ -209,12 +209,12 @@ const ludhiana: CityContent = {
     {
       question: "What is the cost of a website in Ludhiana?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web app such as a dealer portal at ₹60,000. Quotes across Ludhiana vary widely, so compare who will own the domain and hosting, whether SEO basics are included and what support continues after launch.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web app such as a dealer portal at ₹60,000. Quotes across Ludhiana vary widely, so compare who will own the domain and hosting, whether SEO basics are included and what support continues after launch.",
     },
     {
       question: "Ludhiana vich website banvaun da kharcha kinna hunda hai?",
       answer:
-        "Saade naal simple business website ₹10,000 ton shuru hundi hai, te 700+ pages wali SEO website ₹20,000 ton. Online store ₹50,000 ton banda hai. Final keemat pages te features te nirbhar hai, te kamm shuru karan ton pehlan tuhanu poora itemised quote milda hai. Tuhadi manzoori ton bina koi paisa nahi.",
+        "Saade naal simple business website ₹10,000 ton shuru hundi hai, te 299+ pages wali SEO website ₹20,000 ton. Online store ₹50,000 ton banda hai. Final keemat pages te features te nirbhar hai, te kamm shuru karan ton pehlan tuhanu poora itemised quote milda hai. Tuhadi manzoori ton bina koi paisa nahi.",
     },
     {
       question: "Is your office in Ludhiana?",
@@ -239,7 +239,7 @@ const ludhiana: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, a store four to eight weeks and a custom app six to twelve weeks. For seasonal businesses we plan the schedule so the catalogue is live before booking season starts, not in the middle of it.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, a store four to eight weeks and a custom app six to twelve weeks. For seasonal businesses we plan the schedule so the catalogue is live before booking season starts, not in the middle of it.",
     },
     {
       question: "Can my website be in Punjabi?",

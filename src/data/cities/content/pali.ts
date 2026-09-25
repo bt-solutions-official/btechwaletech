@@ -35,7 +35,7 @@ const pali: CityContent = {
     pills: ["Sites from ₹10,000", "Fabric and henna catalogues", "Hindi and English pages", "Buyer enquiries on WhatsApp", "Domain in your own name"],
   },
   quickAnswer:
-    "A basic business website for a Pali firm costs from ₹10,000 with us and takes one to two weeks. A 700+ page site built for Google search starts at ₹20,000, an online store at ₹50,000 and WhatsApp automation at ₹40,000. We are a remote three-person team with no office in Pali, and maintenance is free for five months after launch.",
+    "A basic business website for a Pali firm costs from ₹10,000 with us and takes one to two weeks. A 299+ page site built for Google search starts at ₹20,000, an online store at ₹50,000 and WhatsApp automation at ₹40,000. We are a remote three-person team with no office in Pali, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Where it sits", value: "District headquarters on the Bandi river, about 70 km south-east of Jodhpur" },
     { label: "Main industry", value: "Textile dyeing, printing and processing, spread over Mandia Road, Industrial Area Phase II and Punayata" },
@@ -93,7 +93,7 @@ const pali: CityContent = {
       paragraphs: [
         "Besides textiles, Pali district quarries and processes marble and granite, and the city has long-standing bangle and leather workshops. These businesses sell to builders, architects, retailers and wholesalers who want to see the product before they talk price.",
         "For stone traders, a website should show each variety with a real slab photo, finish options (polished, honed, flamed), available thickness, typical block or slab sizes, and where it has been used. Architects appreciate a downloadable sheet they can attach to a proposal. Dealers want to know about loading, transport and lead times. We build these pages so a buyer can shortlist from a phone at a site visit.",
-        "Bangle and leather makers need something simpler: a catalogue grouped by design, size and material, with a WhatsApp button that sends the exact item code to you. Wholesale pricing can sit behind a request form, so retail customers do not see your trade rates. A catalogue of fifty products usually fits our 700+ page site plan from ₹20,000.",
+        "Bangle and leather makers need something simpler: a catalogue grouped by design, size and material, with a WhatsApp button that sends the exact item code to you. Wholesale pricing can sit behind a request form, so retail customers do not see your trade rates. A catalogue of fifty products usually fits our 299+ page site plan from ₹20,000.",
       ],
     },
     {
@@ -101,12 +101,12 @@ const pali: CityContent = {
       heading: "What a website costs for a Pali business",
       paragraphs: [
         "Quotes around Pali range from a few thousand rupees for a template page to large figures from agencies in Jaipur or Ahmedabad. The cheap end often skips search setup and keeps the domain in the developer's name. The expensive end may be fine work, but it carries overheads a processing unit or a Sojat packer does not need.",
-        "Our published figures are on the <a href=\"/pricing/\">pricing page</a>. For most local businesses the first step is a small site from ₹10,000, ready in a week or two. Traders who want enquiries from outside Rajasthan usually need the 700+ page plan from ₹20,000, which gives every product line or process its own page. Stores selling henna or dress material online start at ₹50,000, and job-work or lot-tracking software starts at ₹60,000.",
+        "Our published figures are on the <a href=\"/pricing/\">pricing page</a>. For most local businesses the first step is a small site from ₹10,000, ready in a week or two. Traders who want enquiries from outside Rajasthan usually need the 299+ page plan from ₹20,000, which gives every product line or process its own page. Stores selling henna or dress material online start at ₹50,000, and job-work or lot-tracking software starts at ₹60,000.",
         "Monthly SEO is from ₹10,000 a month. WhatsApp and AI automation starts at ₹40,000. The quote lists every page and feature, so you can remove things you do not need before approving.",
       ],
       list: [
         "<strong>₹10,000 and up:</strong> up to 100 pages, mobile layout, map, enquiry form and basic search setup.",
-        "<strong>₹20,000 and up:</strong> 700+ pages, one per fabric, process, stone or product range.",
+        "<strong>₹20,000 and up:</strong> 299+ pages, one per fabric, process, stone or product range.",
         "<strong>₹50,000 and up:</strong> online store with UPI, cards, shipping rules and order emails.",
         "<strong>₹60,000 and up:</strong> custom tools such as lot registers, dispatch tracking or dealer portals.",
       ],
@@ -211,12 +211,12 @@ const pali: CityContent = {
     {
       question: "How much does a website cost in Pali?",
       answer:
-        "With us, a static business website starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. When comparing other quotes from Pali or Jodhpur, check whether the domain is booked in your name and whether search setup and after-launch support are included.",
+        "With us, a static business website starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. When comparing other quotes from Pali or Jodhpur, check whether the domain is booked in your name and whether search setup and after-launch support are included.",
     },
     {
       question: "Pali me website banwane ka kharcha kitna hai?",
       answer:
-        "Humare yahan simple website ₹10,000 se shuru hoti hai aur ek-do hafte me taiyar ho jaati hai. 700+ page wali SEO website ₹20,000 se aur online store ₹50,000 se banta hai. Kaam shuru karne se pehle aapko likhit quote milta hai, aur aapki haan ke baad hi paisa lagta hai.",
+        "Humare yahan simple website ₹10,000 se shuru hoti hai aur ek-do hafte me taiyar ho jaati hai. 299+ page wali SEO website ₹20,000 se aur online store ₹50,000 se banta hai. Kaam shuru karne se pehle aapko likhit quote milta hai, aur aapki haan ke baad hi paisa lagta hai.",
     },
     {
       question: "Do you have an office in Pali?",
@@ -246,7 +246,7 @@ const pali: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Delays usually come from waiting for photos and product details, so we send a simple checklist on day one.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Delays usually come from waiting for photos and product details, so we send a simple checklist on day one.",
     },
     {
       question: "What can WhatsApp automation do for a textile or henna business?",

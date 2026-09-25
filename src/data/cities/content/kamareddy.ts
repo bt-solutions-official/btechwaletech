@@ -38,7 +38,7 @@ const kamareddy: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu-first local SEO", "Mill and poultry records", "Your name on every account"],
   },
   quickAnswer:
-    "In Kamareddy, our websites begin at ₹10,000 and usually launch within a fortnight. SEO sites of 700+ pages begin at ₹20,000, Android and iOS apps and AI automation at ₹40,000 each, online shops at ₹50,000 and custom software at ₹60,000. We are a remote team with no Kamareddy office.",
+    "In Kamareddy, our websites begin at ₹10,000 and usually launch within a fortnight. SEO sites of 299+ pages begin at ₹20,000, Android and iOS apps and AI automation at ₹40,000 each, online shops at ₹50,000 and custom software at ₹60,000. We are a remote team with no Kamareddy office.",
   snapshot: [
     { label: "Location", value: "Headquarters of Kamareddy district, about 117 km north of Hyderabad and 56 km from Nizamabad" },
     { label: "Population", value: "About 80,500 in the town at the 2011 census; municipality since 1987" },
@@ -219,7 +219,7 @@ const kamareddy: CityContent = {
     {
       question: "What is the website cost in Kamareddy?",
       answer:
-        "A basic static site begins at ₹10,000. Larger SEO sites of 700+ pages begin at ₹20,000, online shops at ₹50,000 and bespoke software at ₹60,000. Treat each as a floor rather than a final figure: page count, Telugu copy, product numbers and integrations decide the rest, all shown line by line before any bill.",
+        "A basic static site begins at ₹10,000. Larger SEO sites of 299+ pages begin at ₹20,000, online shops at ₹50,000 and bespoke software at ₹60,000. Treat each as a floor rather than a final figure: page count, Telugu copy, product numbers and integrations decide the rest, all shown line by line before any bill.",
     },
     {
       question: "Do you build Android and iOS apps for Kamareddy businesses?",
@@ -229,7 +229,7 @@ const kamareddy: CityContent = {
     {
       question: "How long does it take to build a website in Kamareddy?",
       answer:
-        "Count on one to two weeks for a static site once text and photos are in hand. Plan three to five weeks for an SEO site of 700+ pages, four to eight for a shop and six to twelve for custom software. Delays almost always come from waiting on content or sign-offs, so having those ready speeds everything.",
+        "Count on one to two weeks for a static site once text and photos are in hand. Plan three to five weeks for an SEO site of 299+ pages, four to eight for a shop and six to twelve for custom software. Delays almost always come from waiting on content or sign-offs, so having those ready speeds everything.",
     },
     {
       question: "Which is the best website development team in Kamareddy?",

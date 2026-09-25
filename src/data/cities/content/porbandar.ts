@@ -34,7 +34,7 @@ const porbandar: CityContent = {
     pills: ["Sites from ₹10,000", "Gujarati and English pages", "Export-ready catalogues", "Hotel and tour bookings", "Five months' free care"],
   },
   quickAnswer:
-    "A website for a Porbandar business starts at ₹10,000 with us and usually takes one to two weeks. A 700+ page SEO website starts at ₹20,000, an online store at ₹50,000 and AI or WhatsApp automation at ₹40,000. We work remotely with no Porbandar office, and you own the domain, hosting and code.",
+    "A website for a Porbandar business starts at ₹10,000 with us and usually takes one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and AI or WhatsApp automation at ₹40,000. We work remotely with no Porbandar office, and you own the domain, hosting and code.",
   snapshot: [
     { label: "Known as", value: "Birthplace of Mahatma Gandhi, marked by Kirti Mandir, and of Sudama, with one of India's few Sudama temples" },
     { label: "Port", value: "An all-weather, deep-water port with direct berthing for ships up to about 50,000 DWT, plus a busy fishing harbour" },
@@ -72,12 +72,12 @@ const porbandar: CityContent = {
       heading: "What websites cost in Porbandar, and why quotes differ",
       paragraphs: [
         "Website quotes around Porbandar vary a lot. A local computer shop may offer a template for a few thousand rupees, while agencies in Rajkot or Ahmedabad may ask many times more. The cheap version often leaves you without the domain or any SEO. The expensive version includes overheads you never see.",
-        "Our prices begin at clear, published levels. A static website of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. An online store with UPI checkout starts at ₹50,000, AI or WhatsApp automation at ₹40,000, and custom software such as a processing-unit lot tracker at ₹60,000. Monthly SEO starts at ₹10,000. Everything is listed on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our prices begin at clear, published levels. A static website of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. An online store with UPI checkout starts at ₹50,000, AI or WhatsApp automation at ₹40,000, and custom software such as a processing-unit lot tracker at ₹60,000. Monthly SEO starts at ₹10,000. Everything is listed on our <a href=\"/pricing/\">pricing page</a>.",
         "The amount you finally pay depends on pages, features and how much content we prepare. The quote lists each part with its own price, so you can build the essentials before the fishing season and add the rest later. No payment is requested until you approve the quote in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> a clean site for a clinic, advocate, tutor, CA or shop with WhatsApp button and basic SEO.",
-        "<strong>From ₹20,000:</strong> a 700+ page site for exporters, hotels, schools and hospitals that want to be found for many searches.",
+        "<strong>From ₹20,000:</strong> a 299+ page site for exporters, hotels, schools and hospitals that want to be found for many searches.",
         "<strong>From ₹50,000:</strong> an online store for dry fish, sweets, handicrafts or home products with UPI and card payments.",
         "<strong>From ₹60,000:</strong> custom software for processors, traders and hotels, with logins and reports.",
       ],
@@ -208,7 +208,7 @@ const porbandar: CityContent = {
     {
       question: "How much does a website cost in Porbandar?",
       answer:
-        "With us, a simple business website starts at ₹10,000 and a 700+ page SEO website at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. The final amount depends on pages and features, and you receive an itemised quote in about two working days before anything is billed.",
+        "With us, a simple business website starts at ₹10,000 and a 299+ page SEO website at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. The final amount depends on pages and features, and you receive an itemised quote in about two working days before anything is billed.",
     },
     {
       question: "Porbandar ma website banavva no kharcho ketlo thay?",
@@ -238,7 +238,7 @@ const porbandar: CityContent = {
     {
       question: "How long will it take?",
       answer:
-        "A static website usually takes one to two weeks, a 700+ page SEO website three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Waiting for photos and text causes most delays, so we can draft content for you to review.",
+        "A static website usually takes one to two weeks, a 299+ page SEO website three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Waiting for photos and text causes most delays, so we can draft content for you to review.",
     },
     {
       question: "Do you work with businesses in Ranavav, Kutiyana, Jamnagar or Veraval?",

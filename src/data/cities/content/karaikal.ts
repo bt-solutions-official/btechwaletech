@@ -39,7 +39,7 @@ const karaikal: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Tamil and English pages", "Pilgrim-season booking tools", "Domain and code in your name"],
   },
   quickAnswer:
-    "A website for a Karaikal business starts at ₹10,000 with us and usually goes live in one to two weeks. Android and iOS apps and AI or WhatsApp automation begin at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and register every account in your name.",
+    "A website for a Karaikal business starts at ₹10,000 with us and usually goes live in one to two weeks. Android and iOS apps and AI or WhatsApp automation begin at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and register every account in your name.",
   snapshot: [
     { label: "Location", value: "District headquarters of Karaikal, a former French enclave of Puducherry UT, bordered by Mayiladuthurai, Tiruvarur and Nagapattinam districts" },
     { label: "Population", value: "About 2 lakh in the district at the 2011 census, with literacy above 87%" },
@@ -164,7 +164,7 @@ const karaikal: CityContent = {
       ],
       list: [
         "Static website up to 100 pages: from ₹10,000, typically 1–2 weeks",
-        "SEO website, 700+ pages: from ₹20,000, typically 3–5 weeks",
+        "SEO website, 299+ pages: from ₹20,000, typically 3–5 weeks",
         "Android and iOS app: from ₹40,000",
         "AI or WhatsApp automation: from ₹40,000, typically 2–4 weeks",
         "Ecommerce store with UPI: from ₹50,000, typically 4–8 weeks",
@@ -219,7 +219,7 @@ const karaikal: CityContent = {
     {
       question: "What is the website cost in Karaikal?",
       answer:
-        "A static website starts at ₹10,000 with us. Larger builds rise from there: ₹20,000 onwards for a 700+ page SEO site, ₹50,000 onwards for an online store and ₹60,000 onwards for custom software. The final figure depends on scope, and you see every line in writing before anything is charged.",
+        "A static website starts at ₹10,000 with us. Larger builds rise from there: ₹20,000 onwards for a 299+ page SEO site, ₹50,000 onwards for an online store and ₹60,000 onwards for custom software. The final figure depends on scope, and you see every line in writing before anything is charged.",
     },
     {
       question: "Do you build Android and iOS apps for Karaikal businesses?",
@@ -229,7 +229,7 @@ const karaikal: CityContent = {
     {
       question: "How long does a website take for a Karaikal shop or lodge?",
       answer:
-        "Once your text and photographs reach us, a simple site usually takes one to two weeks. A 700+ page SEO site takes three to five weeks, a store four to eight weeks and custom software six to twelve. Late content is the most common reason a launch slips, so gathering photos early helps.",
+        "Once your text and photographs reach us, a simple site usually takes one to two weeks. A 299+ page SEO site takes three to five weeks, a store four to eight weeks and custom software six to twelve. Late content is the most common reason a launch slips, so gathering photos early helps.",
     },
     {
       question: "Which is the best IT services team in Karaikal?",

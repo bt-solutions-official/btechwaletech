@@ -39,7 +39,7 @@ const sangamner: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Marathi-first Google Maps SEO", "Milk collection and billing tools", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Sangamner business, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 700+ page SEO site at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Sangamner office.",
+    "For a Sangamner business, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 299+ page SEO site at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Sangamner office.",
   snapshot: [
     { label: "Location", value: "Taluka headquarters in Ahmednagar district, on the Pravara river" },
     { label: "Name", value: "From the sangam of the Pravara, Mhalungi and Adhala rivers" },
@@ -149,7 +149,7 @@ const sangamner: CityContent = {
       id: "website-cost-sangamner",
       heading: "Website cost in Sangamner: starting prices and what changes them",
       paragraphs: [
-        "Our published starting prices apply in Sangamner as everywhere: a static website of up to 100 pages from ₹10,000 in one to two weeks; a 700+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; an online store from ₹50,000 in four to eight weeks; and custom software from ₹60,000 over six to twelve weeks. Monthly SEO starts at ₹10,000.",
+        "Our published starting prices apply in Sangamner as everywhere: a static website of up to 100 pages from ₹10,000 in one to two weeks; a 299+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; an online store from ₹50,000 in four to eight weeks; and custom software from ₹60,000 over six to twelve weeks. Monthly SEO starts at ₹10,000.",
         "What moves the number is scope. Separate Marathi and English versions, large catalogues, payment and courier integration, staff logins, and data links to Tally or dairy analysers all add lines to the quote. If you supply text and photographs, the cost stays close to the starting figure; if we write content and arrange photography guidance, that is shown separately.",
         "Local quotes vary widely, so compare like with like. Ask who owns the domain and hosting, whether mobile testing and basic SEO are included, how many revision rounds you get and who fixes things after launch. Our <a href=\"/pricing/\">pricing page</a> lists every starting point, and your itemised quote arrives in about two working days.",
       ],
@@ -210,7 +210,7 @@ const sangamner: CityContent = {
     {
       question: "What does a website cost in Sangamner?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, Marathi content, products and integrations. You receive an itemised written quote before anything is billed.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, Marathi content, products and integrations. You receive an itemised written quote before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Sangamner businesses?",
@@ -220,7 +220,7 @@ const sangamner: CityContent = {
     {
       question: "How long does a Sangamner website take?",
       answer:
-        "A static site normally goes live one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. The biggest factor is how quickly content and approvals come back.",
+        "A static site normally goes live one to two weeks after we receive your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. The biggest factor is how quickly content and approvals come back.",
     },
     {
       question: "Which is the best IT services team in Sangamner for a small business?",
@@ -245,7 +245,7 @@ const sangamner: CityContent = {
     {
       question: "Sangamner me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek se do hafte mein live ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hota hai. Poora quote likhit mein milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek se do hafte mein live ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hota hai. Poora quote likhit mein milta hai.",
     },
     {
       question: "You have no office in Sangamner. How do meetings work?",

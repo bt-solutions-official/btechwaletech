@@ -35,7 +35,7 @@ const moga: CityContent = {
     pills: ["Sites from ₹10,000", "Punjabi, Hindi, English", "Lead tracking for IELTS", "Implement catalogues", "NRI-friendly pages"],
   },
   quickAnswer:
-    "In Moga, a static website with us starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site starts at ₹20,000, WhatsApp or AI lead automation from ₹40,000 and custom software such as a student CRM from ₹60,000. We are a remote team with no office in Moga, and the first five months of maintenance are free.",
+    "In Moga, a static website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp or AI lead automation from ₹40,000 and custom software such as a student CRM from ₹60,000. We are a remote team with no office in Moga, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Role", value: "Headquarters of Moga district, formed in 1995 as Punjab's 17th district, on the Ferozepur–Ludhiana road" },
     { label: "Farming", value: "Around 90% of the district's land is agricultural, and it is among Punjab's larger wheat and rice producers" },
@@ -73,12 +73,12 @@ const moga: CityContent = {
       heading: "What a website costs in Moga, and what to ask",
       paragraphs: [
         "Website quotes in Moga vary a lot, partly because the coaching and consultancy sector attracts sellers promising instant leads. You may be offered a template site for very little, or an expensive package from a Ludhiana or Chandigarh agency. Before comparing numbers, compare terms: whose name is on the domain, whether search setup is included, and who fixes things after launch.",
-        "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications from ₹60,000, WhatsApp and AI automation from ₹40,000, and monthly SEO from ₹10,000 a month.",
+        "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications from ₹60,000, WhatsApp and AI automation from ₹40,000, and monthly SEO from ₹10,000 a month.",
         "Final cost depends on scope: the number of pages and languages, whether you need student or dealer logins, payment gateways and who writes the content. You receive an item-by-item quote, and work starts only after your written approval.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages in English, Punjabi or Hindi, WhatsApp button, map and basic search setup.",
-        "<strong>From ₹20,000:</strong> 700+ pages, such as one per country, course, visa type or implement model.",
+        "<strong>From ₹20,000:</strong> 299+ pages, such as one per country, course, visa type or implement model.",
         "<strong>From ₹50,000:</strong> online store with cart, UPI and card payments and delivery rules.",
         "<strong>From ₹60,000:</strong> custom tools like a student CRM or dealer order system.",
       ],
@@ -218,12 +218,12 @@ const moga: CityContent = {
     {
       question: "How much does a website cost in Moga?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO site from ₹20,000, an online store from ₹50,000 and custom software such as a student CRM from ₹60,000. These are starting prices. You receive an itemised written quote for your exact scope before approving anything.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO site from ₹20,000, an online store from ₹50,000 and custom software such as a student CRM from ₹60,000. These are starting prices. You receive an itemised written quote for your exact scope before approving anything.",
     },
     {
       question: "Moga vich website banwaun da kinna kharcha aunda hai?",
       answer:
-        "Saade kol simple website ₹10,000 ton shuru hundi hai, 700+ page wali SEO website ₹20,000 ton, te online store ₹50,000 ton. Asal kharcha pages, features te content te nirbhar karda hai. Kamm shuru karan ton pehlan tuhanu likhti, itemised quote milda hai, te tuhadi manzoori ton bina koi bill nahi banda.",
+        "Saade kol simple website ₹10,000 ton shuru hundi hai, 299+ page wali SEO website ₹20,000 ton, te online store ₹50,000 ton. Asal kharcha pages, features te content te nirbhar karda hai. Kamm shuru karan ton pehlan tuhanu likhti, itemised quote milda hai, te tuhadi manzoori ton bina koi bill nahi banda.",
     },
     {
       question: "Do you have an office in Moga?",

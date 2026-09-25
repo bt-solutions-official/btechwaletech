@@ -39,7 +39,7 @@ const vellakoil: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Tamil and English pages", "Loom and oil mill catalogues", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Vellakoil business, a website with us starts at ₹10,000 and takes about one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 700+ page SEO site starts at ₹20,000 and an online store at ₹50,000. We work remotely, have no Vellakoil office, and register everything in your name.",
+    "For a Vellakoil business, a website with us starts at ₹10,000 and takes about one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 299+ page SEO site starts at ₹20,000 and an online store at ₹50,000. We work remotely, have no Vellakoil office, and register everything in your name.",
   snapshot: [
     { label: "Where it is", value: "First-grade municipality in Kangeyam taluk, Tiruppur district, roughly 46 km south-east of Tiruppur and 48 km south of Erode" },
     { label: "Roads", value: "On NH 81 between Trichy and Coimbatore, with NH 381A towards Erode and Salem and State Highway 84A" },
@@ -220,7 +220,7 @@ const vellakoil: CityContent = {
     {
       question: "How much does a website cost in Vellakoil?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices only. The final figure depends on Tamil and English content, number of products, checkout and integrations, and you get it itemised in writing before any billing.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices only. The final figure depends on Tamil and English content, number of products, checkout and integrations, and you get it itemised in writing before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Vellakoil businesses?",
@@ -230,7 +230,7 @@ const vellakoil: CityContent = {
     {
       question: "How long does it take to build a website for a Vellakoil shop?",
       answer:
-        "A simple shop or clinic site usually goes live within one to two weeks after we receive your details and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Delays mostly come from waiting for content, so sending it early helps.",
+        "A simple shop or clinic site usually goes live within one to two weeks after we receive your details and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Delays mostly come from waiting for content, so sending it early helps.",
     },
     {
       question: "Which is the best IT services team in Vellakoil for a small business?",

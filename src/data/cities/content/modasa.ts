@@ -39,7 +39,7 @@ const modasa: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Gujarati-first pages", "Market yard and GIDC tools", "You own domain and code"],
   },
   quickAnswer:
-    "In Modasa, a business website with us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, have no Modasa office, and register everything in your name.",
+    "In Modasa, a business website with us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, have no Modasa office, and register everything in your name.",
   snapshot: [
     { label: "Role", value: "Headquarters of Aravalli district since 15 August 2013, carved out of Sabarkantha" },
     { label: "Population", value: "About 67,600 in the municipality at the 2011 Census" },
@@ -216,7 +216,7 @@ const modasa: CityContent = {
     {
       question: "What is the website cost in Modasa?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Gujarati content, products and integrations. You get it itemised in writing, and nothing is billed before you approve it.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Gujarati content, products and integrations. You get it itemised in writing, and nothing is billed before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Modasa businesses?",
@@ -226,7 +226,7 @@ const modasa: CityContent = {
     {
       question: "How long does a website take for a Modasa shop?",
       answer:
-        "A simple static site is usually live one to two weeks after we receive your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. The fastest projects are those where the owner sends content early.",
+        "A simple static site is usually live one to two weeks after we receive your photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. The fastest projects are those where the owner sends content early.",
     },
     {
       question: "Which is the best website development team in Modasa?",
@@ -251,7 +251,7 @@ const modasa: CityContent = {
     {
       question: "Modasa me website banwane me kitna kharcha aata hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein ban jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapke pages aur features ke hisaab se likhit quote milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein ban jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapke pages aur features ke hisaab se likhit quote milta hai.",
     },
     {
       question: "You have no office in Modasa. Is working remotely safe?",
@@ -261,7 +261,7 @@ const modasa: CityContent = {
     {
       question: "Can you build a website for a college or coaching class in Modasa?",
       answer:
-        "Yes. We build Gujarati and English sites with courses, eligibility, fee ranges, admission dates, results and batch timings, plus enquiry forms that send details to WhatsApp. Larger colleges can use a 700+ page SEO site from ₹20,000 so each course has its own page. A student app can be added later.",
+        "Yes. We build Gujarati and English sites with courses, eligibility, fee ranges, admission dates, results and batch timings, plus enquiry forms that send details to WhatsApp. Larger colleges can use a 299+ page SEO site from ₹20,000 so each course has its own page. A student app can be added later.",
     },
     {
       question: "What maintenance do you provide after launch?",

@@ -124,7 +124,7 @@ const content: CityContent = {
       id: "b2b-websites-vasco",
       heading: "B2B websites that win trust from principals and procurement teams",
       paragraphs: [
-        "A B2B website for a Vasco firm should tell a foreign principal or a procurement officer, within a minute, what you do, where you operate, what certifications you hold and whom to contact. Our business websites start from ₹10,000 and go live in one to two weeks; larger SEO sites of 700+ pages start from ₹20,000.",
+        "A B2B website for a Vasco firm should tell a foreign principal or a procurement officer, within a minute, what you do, where you operate, what certifications you hold and whom to contact. Our business websites start from ₹10,000 and go live in one to two weeks; larger SEO sites of 299+ pages start from ₹20,000.",
         "Many Vasco firms still send prospects a PDF brochure because their website is outdated or missing. A clean site with service pages for each port activity, a list of equipment and capabilities, office hours in IST, emergency contacts, downloadable certificates and a clear enquiry form makes a strong first impression. For suppliers to the shipyard or navy, a professional site also helps during vendor registration.",
         "We write in plain professional English, add structured data so search engines and AI tools read your details correctly, and make every page fast on mobile. See the <a href='/services/web-development/'>web development service</a> and our <a href='/portfolio/'>portfolio</a> for examples of the kind of sites we build.",
       ],
@@ -197,7 +197,7 @@ const content: CityContent = {
       ],
       list: [
         "<strong>B2B website:</strong> from ₹10,000, one to two weeks",
-        "<strong>700+ page SEO website:</strong> from ₹20,000, three to five weeks",
+        "<strong>299+ page SEO website:</strong> from ₹20,000, three to five weeks",
         "<strong>AI email or WhatsApp automation:</strong> from ₹40,000, two to four weeks",
         "<strong>Android and iOS app:</strong> from ₹40,000, six to ten weeks",
         "<strong>Online store:</strong> from ₹50,000, four to eight weeks",

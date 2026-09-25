@@ -39,7 +39,7 @@ const sidhpur: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Gujarati local SEO", "Export catalogues for processors", "Every account in your name"],
   },
   quickAnswer:
-    "In Sidhpur, a business website with us starts at ₹10,000 and is typically ready in one to two weeks. Android and iOS apps start at ₹40,000, AI automation also at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are fully remote and keep no Sidhpur office.",
+    "In Sidhpur, a business website with us starts at ₹10,000 and is typically ready in one to two weeks. Android and iOS apps start at ₹40,000, AI automation also at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are fully remote and keep no Sidhpur office.",
   snapshot: [
     { label: "Location", value: "Municipal town in Patan district, north Gujarat, on the bank of the Saraswati river" },
     { label: "Population", value: "About 61,900 in the 2011 Census, over roughly 20 sq km" },
@@ -158,13 +158,13 @@ const sidhpur: CityContent = {
       id: "website-cost-sidhpur",
       heading: "Website cost in Sidhpur: starting prices and how quotes are built",
       paragraphs: [
-        "Our starting prices are published so you can budget before speaking to anyone. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation start at ₹40,000 each, an online store at ₹50,000 and custom software at ₹60,000.",
+        "Our starting prices are published so you can budget before speaking to anyone. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation start at ₹40,000 each, an online store at ₹50,000 and custom software at ₹60,000.",
         "The final quote depends on the number of pages or products, languages, who supplies text and photographs, export specifications, payment and courier steps, app screens and software links. Quotes from local providers vary widely, so compare what is included: who owns the domain, how many rounds of changes, mobile speed, Gujarati typing support and what happens after launch.",
         "You get an itemised quote within about two working days, and nothing is billed until you approve it in writing. Details are on our <a href=\"/pricing/\">pricing page</a>. If budget is tight, a smaller first version that grows later is better than a cheap build that needs replacing.",
       ],
       list: [
         "Static website, up to 100 pages: from ₹10,000, one to two weeks",
-        "SEO website, 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website, 299+ pages: from ₹20,000, three to five weeks",
         "Android and iOS app: from ₹40,000",
         "AI and WhatsApp automation: from ₹40,000, two to four weeks",
         "Online store: from ₹50,000, four to eight weeks",
@@ -218,7 +218,7 @@ const sidhpur: CityContent = {
     {
       question: "What is the website cost in Sidhpur?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final figure depends on pages, Gujarati and English content, products and integrations, and you receive it as an itemised written quote before anything is billed.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final figure depends on pages, Gujarati and English content, products and integrations, and you receive it as an itemised written quote before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Sidhpur businesses?",
@@ -228,7 +228,7 @@ const sidhpur: CityContent = {
     {
       question: "How long does a Sidhpur website take?",
       answer:
-        "A simple static site is usually live within one to two weeks of receiving content and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The fastest projects are those where the owner shares details in the first few days.",
+        "A simple static site is usually live within one to two weeks of receiving content and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The fastest projects are those where the owner shares details in the first few days.",
     },
     {
       question: "Who is the best website development team in Sidhpur?",
@@ -253,7 +253,7 @@ const sidhpur: CityContent = {
     {
       question: "Sidhpur ma website banavva no ketlo kharch thay?",
       answer:
-        "Amari simple website ₹10,000 thi sharu thay chhe ane ek-be athvadiya ma taiyar thay chhe. 700+ page SEO website ₹20,000 thi, Android ane iOS app ₹40,000 thi ane online store ₹50,000 thi sharu thay chhe. Tamara pages ane features pramane final quote lakhit ma aapishu, ane tame approve karo pachhi j billing thashe.",
+        "Amari simple website ₹10,000 thi sharu thay chhe ane ek-be athvadiya ma taiyar thay chhe. 299+ page SEO website ₹20,000 thi, Android ane iOS app ₹40,000 thi ane online store ₹50,000 thi sharu thay chhe. Tamara pages ane features pramane final quote lakhit ma aapishu, ane tame approve karo pachhi j billing thashe.",
     },
     {
       question: "You have no office in Sidhpur. Is remote work safe?",

@@ -39,7 +39,7 @@ const arsikere: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Kannada local SEO", "Copra and coconut trade tools", "Domain and code in your name"],
   },
   quickAnswer:
-    "For an Arsikere business, a website with us starts at ₹10,000 and is normally live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Arsikere office.",
+    "For an Arsikere business, a website with us starts at ₹10,000 and is normally live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Arsikere office.",
   snapshot: [
     { label: "Location", value: "Taluk headquarters in Hassan district, about 44 km from Hassan and 166 km from Bengaluru" },
     { label: "Population", value: "About 53,000 in the town (Census 2011), second largest in Hassan district" },
@@ -168,7 +168,7 @@ const arsikere: CityContent = {
       id: "website-cost-arsikere",
       heading: "Website cost in Arsikere: starting prices and what changes them",
       paragraphs: [
-        "The first question most Arsikere owners ask is what it will cost, so here are our entry points. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A large SEO website of 700 pages or more, useful for a college or trader covering many courses, products or villages, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and AI automation also starts at ₹40,000. Online stores start at ₹50,000, custom web apps at ₹60,000 and monthly SEO at ₹10,000 a month.",
+        "The first question most Arsikere owners ask is what it will cost, so here are our entry points. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A large SEO website of 299 pages or more, useful for a college or trader covering many courses, products or villages, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and AI automation also starts at ₹40,000. Online stores start at ₹50,000, custom web apps at ₹60,000 and monthly SEO at ₹10,000 a month.",
         "From there the figure moves only with what you choose. Bilingual Kannada and English pages, a long product list, courier rate tables, UPI and card checkout, staff logins or a Tally connection each become a line item that you can keep or remove. If you write the text yourself and send photographs from your phone, the cost stays close to the starting price.",
         "Quotes from different designers in Hassan district can vary widely for work that sounds the same. When comparing, ask who will own the domain, whether the site is tested on cheap phones, whether basic SEO is included, how many rounds of changes are covered and what support costs after the first year. All our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and your itemised quote reaches you in about two working days.",
       ],
@@ -220,7 +220,7 @@ const arsikere: CityContent = {
     {
       question: "What is the website cost in Arsikere?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, Kannada content, products and integrations. You get an itemised written quote in about two working days, and nothing is billed before you approve it.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, Kannada content, products and integrations. You get an itemised written quote in about two working days, and nothing is billed before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Arsikere businesses?",
@@ -230,7 +230,7 @@ const arsikere: CityContent = {
     {
       question: "How long does it take to build a website for an Arsikere shop?",
       answer:
-        "A simple shop or clinic website usually goes live in one to two weeks after we receive your photographs and details. A 700+ page SEO website takes about three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Sending content early is the easiest way to finish sooner.",
+        "A simple shop or clinic website usually goes live in one to two weeks after we receive your photographs and details. A 299+ page SEO website takes about three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Sending content early is the easiest way to finish sooner.",
     },
     {
       question: "Which is the best website development team in Arsikere?",
@@ -260,7 +260,7 @@ const arsikere: CityContent = {
     {
       question: "Arsikere me website banwane ka kitna kharcha hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur lagbhag ek-do hafte mein taiyaar ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hota hai. Aapke pages aur features dekhkar likhit quote do working days mein milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur lagbhag ek-do hafte mein taiyaar ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hota hai. Aapke pages aur features dekhkar likhit quote do working days mein milta hai.",
     },
     {
       question: "You have no office in Arsikere. How do I know the work is safe?",

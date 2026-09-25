@@ -34,7 +34,7 @@ const bhilai: CityContent = {
     pills: ["Sites from ₹10,000", "Vendor capability pages", "Coaching lead handling", "Hindi and English SEO", "WhatsApp automation"],
   },
   quickAnswer:
-    "In Bhilai we build static websites from ₹10,000 in one to two weeks, 700+ page SEO websites from ₹20,000, online stores from ₹50,000 and custom web apps such as job or admission trackers from ₹60,000. We are a remote team with no office in Bhilai, we reply on WhatsApp daily, and maintenance is free for five months after launch.",
+    "In Bhilai we build static websites from ₹10,000 in one to two weeks, 299+ page SEO websites from ₹20,000, online stores from ₹50,000 and custom web apps such as job or admission trackers from ₹60,000. We are a remote team with no office in Bhilai, we reply on WhatsApp daily, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Anchor employer", value: "Bhilai Steel Plant of SAIL, built with Soviet collaboration and India's supplier of long rails to the railways" },
     { label: "Industrial areas", value: "Heavy Industrial Area Hathkhoj and the Bhilai industrial estates, with fabrication, machining, castings and rolling units" },
@@ -72,7 +72,7 @@ const bhilai: CityContent = {
       heading: "How much a website costs in Bhilai",
       paragraphs: [
         "Website prices in Bhilai range from ₹2,500 for a quick template from a local computer centre to ₹40,000 or more from agencies in Raipur. Low quotes often leave out search setup, content and ownership of the hosting. High quotes sometimes include features a coaching class or workshop never uses. Only an itemised quote shows the difference.",
-        "Our starting prices are published. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks; this fits an engineering unit with several processes or a coaching institute with many courses and branches. Online stores start at ₹50,000, automation projects at ₹40,000, and custom web apps at ₹60,000.",
+        "Our starting prices are published. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks; this fits an engineering unit with several processes or a coaching institute with many courses and branches. Online stores start at ₹50,000, automation projects at ₹40,000, and custom web apps at ₹60,000.",
         "The full list is on our <a href=\"/pricing/\">pricing page</a>. Your quote names every page and feature, and we charge nothing until you approve it in writing.",
       ],
       list: [
@@ -219,12 +219,12 @@ const bhilai: CityContent = {
     {
       question: "How much does a website cost in Bhilai?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web apps such as job or admission trackers at ₹60,000. A clinic or tutor usually needs the first, a Hathkhoj unit or coaching institute the second. You get an itemised quote and pay nothing before approving it in writing.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web apps such as job or admission trackers at ₹60,000. A clinic or tutor usually needs the first, a Hathkhoj unit or coaching institute the second. You get an itemised quote and pay nothing before approving it in writing.",
     },
     {
       question: "Bhilai me website banwane ka kharcha kitna hai?",
       answer:
-        "Humare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte me taiyar hoti hai. 700+ page wali SEO website ₹20,000 se, online store ₹50,000 se aur coaching ya workshop ke liye custom software ₹60,000 se. Kaam se pehle likhit quote milta hai, approval ke bina koi bill nahi banta.",
+        "Humare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte me taiyar hoti hai. 299+ page wali SEO website ₹20,000 se, online store ₹50,000 se aur coaching ya workshop ke liye custom software ₹60,000 se. Kaam se pehle likhit quote milta hai, approval ke bina koi bill nahi banta.",
     },
     {
       question: "Do you have an office in Bhilai?",

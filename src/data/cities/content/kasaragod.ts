@@ -165,7 +165,7 @@ const kasaragod: CityContent = {
       id: "website-cost-kasaragod",
       heading: "Website cost in Kasaragod: opening prices and fair comparisons",
       paragraphs: [
-        "These are floors. A static site of up to 100 pages starts at ₹10,000 and needs one to two weeks. A larger search-focused site of 700+ pages, for a resort group covering every attraction or a college covering every course, starts at ₹20,000 over three to five weeks. Android and iOS apps and AI automation each start at ₹40,000. Online stores start at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
+        "These are floors. A static site of up to 100 pages starts at ₹10,000 and needs one to two weeks. A larger search-focused site of 299+ pages, for a resort group covering every attraction or a college covering every course, starts at ₹20,000 over three to five weeks. Android and iOS apps and AI automation each start at ₹40,000. Online stores start at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
         "Extra languages are the most common addition in Kasaragod, followed by booking calendars, payment gateways, Gulf shipping and staff logins. Each appears on its own line so you can keep or drop it. Supplying your own text and photographs holds the price close to the base.",
         "Prices from different providers in Kasaragod and Mangaluru can vary widely for work that sounds similar. Ask each one whose name the domain is in, whether the site is tested on low-cost phones and slow data, how many revision rounds are included, whether basic SEO is covered, and what support costs after the first year. Our entry prices are listed on the <a href=\"/pricing/\">pricing page</a>, and a written quote follows in about two working days.",
       ],
@@ -226,7 +226,7 @@ const kasaragod: CityContent = {
     {
       question: "What is the website cost in Kasaragod?",
       answer:
-        "Static websites begin at ₹10,000 with us, SEO sites of 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. Each is a starting figure: extra languages, product count and integrations change the quote. You receive a written, itemised quote, and nothing is billed until you approve it.",
+        "Static websites begin at ₹10,000 with us, SEO sites of 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. Each is a starting figure: extra languages, product count and integrations change the quote. You receive a written, itemised quote, and nothing is billed until you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Kasaragod businesses?",
@@ -241,7 +241,7 @@ const kasaragod: CityContent = {
     {
       question: "How long does a Kasaragod website take?",
       answer:
-        "A static site generally goes live one to two weeks after photos and details reach us. Allow three to five weeks for a 700+ page SEO site, four to eight for an online store and six to twelve for custom software. Multilingual sites take a little longer because each language is written and checked separately.",
+        "A static site generally goes live one to two weeks after photos and details reach us. Allow three to five weeks for a 299+ page SEO site, four to eight for an online store and six to twelve for custom software. Multilingual sites take a little longer because each language is written and checked separately.",
     },
     {
       question: "Who is the best website development team in Kasaragod?",

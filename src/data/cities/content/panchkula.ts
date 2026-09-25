@@ -35,7 +35,7 @@ const panchkula: CityContent = {
     pills: ["Sites from ₹10,000", "Tricity local SEO", "Clinic and consultant sites", "Industrial unit catalogues", "AI and WhatsApp automation"],
   },
   quickAnswer:
-    "In Panchkula, our static business websites start from ₹10,000 and take one to two weeks; 700+ page SEO websites start from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. We are a remote three-engineer team with no Panchkula office, and every site includes five months of free maintenance.",
+    "In Panchkula, our static business websites start from ₹10,000 and take one to two weeks; 299+ page SEO websites start from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. We are a remote three-engineer team with no Panchkula office, and every site includes five months of free maintenance.",
   snapshot: [
     { label: "City", value: "Planned satellite city of Chandigarh, laid out in sectors; part of the Chandigarh tricity with Mohali" },
     { label: "Work hubs", value: "Panchkula IT Park across 74 acres in Sector 22, industrial areas, district and state offices" },
@@ -73,7 +73,7 @@ const panchkula: CityContent = {
       heading: "What a website costs in Panchkula",
       paragraphs: [
         "Tricity agencies quote anything from a few thousand rupees to several lakh for what looks like the same brief. The cheapest usually means a recycled template with the domain in someone else's name. The most expensive often means paying for an office in a Chandigarh sector and a sales team, not for more careful work on your site.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts from ₹10,000 and takes one to two weeks. An SEO website of 700+ pages, with a page for each service, treatment, product or area, starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, AI automation from ₹40,000, custom software from ₹60,000, and monthly SEO from ₹10,000.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts from ₹10,000 and takes one to two weeks. An SEO website of 299+ pages, with a page for each service, treatment, product or area, starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, AI automation from ₹40,000, custom software from ₹60,000, and monthly SEO from ₹10,000.",
         "The real cost depends on scope: number of pages, languages, integrations, content writing and photography. We list every item on the quote so you can remove anything you do not need.",
       ],
       list: [
@@ -216,12 +216,12 @@ const panchkula: CityContent = {
     {
       question: "How much does a website cost in Panchkula?",
       answer:
-        "With us, a static website starts from ₹10,000, an SEO website with 700+ pages from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. The final price depends on pages, features and content, and you get an itemised quote before anything is billed.",
+        "With us, a static website starts from ₹10,000, an SEO website with 299+ pages from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. The final price depends on pages, features and content, and you get an itemised quote before anything is billed.",
     },
     {
       question: "Panchkula mein website banwane mein kitna kharcha aata hai?",
       answer:
-        "Humare saath ek simple business website ₹10,000 se shuru hoti hai aur 700+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se shuru hota hai. Final kharcha pages, features aur content par depend karta hai, aur kaam shuru hone se pehle aapko likhit, itemised quote milta hai.",
+        "Humare saath ek simple business website ₹10,000 se shuru hoti hai aur 299+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se shuru hota hai. Final kharcha pages, features aur content par depend karta hai, aur kaam shuru hone se pehle aapko likhit, itemised quote milta hai.",
     },
     {
       question: "Do you have an office in Panchkula or Chandigarh?",

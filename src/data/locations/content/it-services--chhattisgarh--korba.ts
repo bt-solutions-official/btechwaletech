@@ -206,7 +206,7 @@ const content: CityContent = {
       id: "cost-support-korba",
       heading: "What do freelance software developers in Korba cost, and what support follows?",
       paragraphs: [
-        "BtechWaleTech's starting prices for Korba are ₹10,000 for an industrial website (one to two weeks), ₹20,000 for a 700+ page SEO site, ₹40,000 for AI automation (two to four weeks), ₹40,000 for Android and iOS apps (six to ten weeks), ₹50,000 for an online store and ₹60,000 for document workflow, fleet or other custom software (six to twelve weeks). Monthly SEO is from ₹10,000.",
+        "BtechWaleTech's starting prices for Korba are ₹10,000 for an industrial website (one to two weeks), ₹20,000 for a 299+ page SEO site, ₹40,000 for AI automation (two to four weeks), ₹40,000 for Android and iOS apps (six to ten weeks), ₹50,000 for an online store and ₹60,000 for document workflow, fleet or other custom software (six to twelve weeks). Monthly SEO is from ₹10,000.",
         "Each project includes five months of free maintenance after hosting goes live, covering bug fixes, security updates, backups, uptime checks and small changes such as new document types or bill formats. Afterwards, plans start at ₹8,000 a month, or you pay per request. We answer WhatsApp seven days a week. Read more <a href='/about/'>about us</a>, or see <a href='/it-services/chhattisgarh/bilaspur/'>Bilaspur</a> and the <a href='/korba/'>Korba city page</a>.",
       ],
     },

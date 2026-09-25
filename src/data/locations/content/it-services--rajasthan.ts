@@ -172,7 +172,7 @@ const content: CityContent = {
       paragraphs: [
         "Ecommerce gives Rajasthan brands, from Sanganeri block prints and blue pottery to Bikaneri bhujia, jootis and silver jewellery, a direct channel to customers anywhere. Stores start at ₹50,000 and take four to eight weeks, with variants, shipping rules, UPI and card checkout through a payment gateway account in your own name, and international shipping zones where needed.",
         "SEO makes those stores and your service pages discoverable. We build product, category, destination and service pages with honest detail and schema, and write guides that AI assistants can cite, such as how to identify genuine hand block printing. Local SEO covers Google Business Profile and reviews for hotels, clinics and shops.",
-        "Monthly SEO starts at ₹10,000 and a 700+ page SEO website at ₹20,000. Results typically build over three to six months, and we never guarantee rankings. More detail is on our <a href='/services/seo-services/'>SEO services</a> page.",
+        "Monthly SEO starts at ₹10,000 and a 299+ page SEO website at ₹20,000. Results typically build over three to six months, and we never guarantee rankings. More detail is on our <a href='/services/seo-services/'>SEO services</a> page.",
       ],
     },
     {
@@ -188,13 +188,13 @@ const content: CityContent = {
       id: "cost-it-services-rajasthan",
       heading: "How much do IT services cost in Rajasthan?",
       paragraphs: [
-        "With BtechWaleTech, IT services in Rajasthan start at ₹10,000 for a website, ₹20,000 for a 700+ page SEO website, ₹40,000 for an Android and iOS app, ₹40,000 for AI or WhatsApp automation, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after five free months.",
+        "With BtechWaleTech, IT services in Rajasthan start at ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for an Android and iOS app, ₹40,000 for AI or WhatsApp automation, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after five free months.",
         "The final figure depends on modules, users, integrations and how much content is ready. Each quote is itemised so you can phase work across seasons. Details are on our <a href='/pricing/'>pricing page</a>.",
         "Payment is simple: clients pay us in INR only, by UPI through our QR code or by direct bank transfer to our bank account. Larger projects are split into milestones paid after you review working software.",
       ],
       list: [
         "Website: from ₹10,000, one to two weeks",
-        "SEO website (700+ pages): from ₹20,000, three to five weeks",
+        "SEO website (299+ pages): from ₹20,000, three to five weeks",
         "Android and iOS app: from ₹40,000, six to ten weeks",
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Online store: from ₹50,000, four to eight weeks",
@@ -273,7 +273,7 @@ const content: CityContent = {
     {
       question: "How much do IT services cost in Rajasthan?",
       answer:
-        "Starting prices are ₹10,000 for a website, ₹20,000 for a 700+ page SEO website, ₹40,000 for an Android and iOS app or AI automation, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000. Every quote is itemised within about two working days.",
+        "Starting prices are ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for an Android and iOS app or AI automation, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000. Every quote is itemised within about two working days.",
     },
     {
       question: "How do Rajasthan clients pay you?",

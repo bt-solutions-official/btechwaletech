@@ -34,7 +34,7 @@ const content: FreelanceContent = {
   },
   facts: [
     ["Project or broker site from", `${P.site} · ${P.siteUsd}`],
-    ["Locality SEO site, 700+ pages", `From ${P.seoSite}`],
+    ["Locality SEO site, 299+ pages", `From ${P.seoSite}`],
     ["Multi-agent property portal", `From ${P.software}`],
     ["Property app (Android & iOS)", `From ${P.app}`],
     ["Lead alerts", "WhatsApp and email, per listing"],
@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What does a real estate website developer build, and what does it cost?",
-    text: `A real estate website developer builds property listings with search filters, project pages with floor plans and RERA details, and lead forms that reach your sales team instantly. With BtechWaleTech, a builder or broker site starts at ${P.site}, a locality SEO site with 700+ pages at ${P.seoSite}, and a multi-agent portal with logins at ${P.software}.`,
+    text: `A real estate website developer builds property listings with search filters, project pages with floor plans and RERA details, and lead forms that reach your sales team instantly. With BtechWaleTech, a builder or broker site starts at ${P.site}, a locality SEO site with 299+ pages at ${P.seoSite}, and a multi-agent portal with logins at ${P.software}.`,
     more: `Want a property app too? See <a href='/real-estate-app-developer/'>real estate app developer</a>. For listing-heavy directories in other sectors, read <a href='/directory-website-developer/'>directory website developer</a>.`,
   },
   snapshot: {
@@ -170,7 +170,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does a real estate website developer cost in India?",
       paragraphs: [
-        `With us, a builder project site or a broker site starts at ${P.site}, a locality SEO site with 700+ pages at ${P.seoSite}, and a portal where owners and agents post listings at ${P.software}. A property app for Android and iOS starts at ${P.app}.`,
+        `With us, a builder project site or a broker site starts at ${P.site}, a locality SEO site with 299+ pages at ${P.seoSite}, and a portal where owners and agents post listings at ${P.software}. A property app for Android and iOS starts at ${P.app}.`,
         `Other real estate website developers quote across a wide range, and the difference usually lies in what is included: an admin panel versus fixed pages, real search filters versus a list, lead tracking versus a plain contact form, and SEO structure versus a single projects page. Compare quotes on those points.`,
       ],
       list: [
@@ -283,7 +283,7 @@ const content: FreelanceContent = {
       rows: [
         ["Project microsite or builder site", `${P.site}`, `${P.siteUsd}`, "1–2 weeks", "Builders with one to a few projects"],
         ["Broker listing site", `${P.site}`, `${P.siteUsd}`, "2–4 weeks", "Brokers updating listings weekly; admin panel itemised"],
-        ["Locality SEO property site, 700+ pages", `${P.seoSite}`, `${P.seoSiteUsd}`, "3–5 weeks", "Brokers and builders chasing organic leads"],
+        ["Locality SEO property site, 299+ pages", `${P.seoSite}`, `${P.seoSiteUsd}`, "3–5 weeks", "Brokers and builders chasing organic leads"],
         ["Property portal with logins", `${P.software}`, `${P.softwareUsd}`, "6–12 weeks", "Owner and agent listings, paid plans"],
         ["Property app, Android & iOS", `${P.app}`, `${P.appUsd}`, "6–10 weeks", "Buyers or field sales teams"],
         ["WhatsApp lead automation", `${P.ai}`, `${P.aiUsd}`, "2–4 weeks", "Instant brochure and visit follow-ups"],
@@ -358,7 +358,7 @@ const content: FreelanceContent = {
   faqHeading: "Real estate website developer: questions buyers of property sites ask",
   faqs: [
     { question: "What does a real estate website developer do?", answer: "A real estate website developer builds websites for builders, brokers and property portals: listings with search filters, project pages with floor plans and RERA details, galleries, location maps, brochure downloads and lead forms. Good ones also build the admin panel for updating inventory and the lead routing that sends each enquiry to the right salesperson quickly." },
-    { question: "How much does a real estate website cost in India?", answer: `With BtechWaleTech, a builder or broker website starts at ${P.site}, a locality SEO site with 700+ pages at ${P.seoSite}, and a property portal with owner and agent logins at ${P.software}. Cost depends on listing types, search filters, lead tracking, languages and content. You get an itemised quote before paying anything.` },
+    { question: "How much does a real estate website cost in India?", answer: `With BtechWaleTech, a builder or broker website starts at ${P.site}, a locality SEO site with 299+ pages at ${P.seoSite}, and a property portal with owner and agent logins at ${P.software}. Cost depends on listing types, search filters, lead tracking, languages and content. You get an itemised quote before paying anything.` },
     { question: "What features should a real estate website have?", answer: "Essential features include search filters by locality, budget, BHK and possession status, fast photo galleries, carpet area and price for each unit, location maps, a WhatsApp or call button carrying the listing reference, brochure download, site-visit booking, an EMI calculator, and an admin panel. Project sites also need RERA details and construction updates." },
     { question: "Is it mandatory to show the RERA number on a property website?", answer: "For registered projects, the RERA Act requires promoters to include the registration number and the state authority's website address in advertisements, and authorities treat websites and social posts as advertisements. Some states have added directions on prominence. Confirm the rules with your adviser; we build RERA fields into every project page so they display consistently." },
     { question: "How long does it take to build a real estate website?", answer: "A builder project site usually takes one to two weeks, a broker listing site two to four weeks, a locality SEO site three to five weeks, and a portal with logins six to twelve weeks. Having inventory data, photos, floor plans and RERA details ready at the start is the easiest way to keep to schedule." },
@@ -383,7 +383,7 @@ const content: FreelanceContent = {
       { name: "Real estate app developer", href: "/real-estate-app-developer/" },
       { name: "Directory and listing websites", href: "/directory-website-developer/" },
       { name: "Multi-vendor marketplace development", href: "/marketplace-website-developer/" },
-      { name: "SEO-first website with 700+ pages", href: "/seo-website-developer/" },
+      { name: "SEO-first website with 299+ pages", href: "/seo-website-developer/" },
       { name: "Landing pages for project launches", href: "/landing-page-developer/" },
       { name: "Custom CRM for lead follow-ups", href: "/freelance-crm-developer/" },
       { name: "Local SEO expert", href: "/local-seo-expert/" },

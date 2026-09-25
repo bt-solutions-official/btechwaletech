@@ -39,7 +39,7 @@ const bhongir: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu local SEO", "Ikat and pilgrim-route stores", "You own every account"],
   },
   quickAnswer:
-    "In Bhongir, our websites start at ₹10,000 and a simple one is usually ready in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, 700+ page SEO sites at ₹20,000 and online stores at ₹50,000. We are a remote team with no Bhongir office, and all accounts stay in your name.",
+    "In Bhongir, our websites start at ₹10,000 and a simple one is usually ready in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, 299+ page SEO sites at ₹20,000 and online stores at ₹50,000. We are a remote team with no Bhongir office, and all accounts stay in your name.",
   snapshot: [
     { label: "Status", value: "District headquarters of Yadadri Bhuvanagiri, within the Hyderabad Metropolitan Region" },
     { label: "Distance", value: "About 47–48 km from Hyderabad and about 67 km from Nalgonda" },
@@ -149,7 +149,7 @@ const bhongir: CityContent = {
       id: "website-cost-bhongir",
       heading: "Website cost in Bhongir: starting prices and fair comparisons",
       paragraphs: [
-        "Here are the entry points. A static website of up to 100 pages, right for most shops, clinics, colleges and hotels, starts at ₹10,000 and is typically ready in one to two weeks. A 700+ page SEO website, useful for a distributor with a large catalogue or a coaching brand covering many towns, starts at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation each start at ₹40,000.",
+        "Here are the entry points. A static website of up to 100 pages, right for most shops, clinics, colleges and hotels, starts at ₹10,000 and is typically ready in one to two weeks. A 299+ page SEO website, useful for a distributor with a large catalogue or a coaching brand covering many towns, starts at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation each start at ₹40,000.",
         "An online store starts at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000 a month. These are not package prices. Your quote rises only for choices you make: Telugu and English versions, product count, bookings, courier rules, staff logins, online payment or an ERP link. If you provide your own text and photographs, the figure stays close to the starting point.",
         "Quotes from Bhongir and Hyderabad designers vary widely for work that looks similar, so compare on the same terms: who owns the domain and hosting, whether the site is tested on low-cost phones, whether basic on-page SEO is included, how many revisions you get, and what support looks like after a year. Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>, and your itemised quote arrives in writing within about two working days.",
       ],
@@ -210,7 +210,7 @@ const bhongir: CityContent = {
     {
       question: "What is the website cost in Bhongir?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Telugu content, products and integrations. You receive it itemised in writing within about two working days, before anything is billed.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Telugu content, products and integrations. You receive it itemised in writing within about two working days, before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Bhongir businesses?",
@@ -220,7 +220,7 @@ const bhongir: CityContent = {
     {
       question: "How long does it take to build a website in Bhongir?",
       answer:
-        "A simple static site is usually live within one to two weeks of receiving your content. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends text and photographs early.",
+        "A simple static site is usually live within one to two weeks of receiving your content. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends text and photographs early.",
     },
     {
       question: "Which is the best website development team in Bhongir?",
@@ -245,7 +245,7 @@ const bhongir: CityContent = {
     {
       question: "Bhongir lo website cheyinchadaniki entha kharchu avutundi?",
       answer:
-        "Maa daggara simple website ₹10,000 nundi modalavutundi, sadharanamga okati rendu varalalo ready avutundi. 700 pages paina SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalu. Mee pages, features batti poorti quote raatapoorvakamga pamputamu.",
+        "Maa daggara simple website ₹10,000 nundi modalavutundi, sadharanamga okati rendu varalalo ready avutundi. 299 pages paina SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalu. Mee pages, features batti poorti quote raatapoorvakamga pamputamu.",
     },
     {
       question: "You have no office in Bhongir. Is remote work safe?",

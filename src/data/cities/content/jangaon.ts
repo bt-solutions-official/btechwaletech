@@ -39,7 +39,7 @@ const jangaon: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu-first local SEO", "Rice mill and trade software", "Everything registered to you"],
   },
   quickAnswer:
-    "Jangaon businesses can get a website from us starting at ₹10,000, usually live within one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; 700+ page SEO sites start at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Jangaon office, and you own all accounts.",
+    "Jangaon businesses can get a website from us starting at ₹10,000, usually live within one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; 299+ page SEO sites start at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Jangaon office, and you own all accounts.",
   snapshot: [
     { label: "Status", value: "Headquarters of Jangaon district, formed on 11 October 2016 from the former Warangal district" },
     { label: "Location", value: "On NH 163 about 85 km from Hyderabad and 60 km from Warangal; NH 365B links it to Suryapet and Siddipet" },
@@ -158,7 +158,7 @@ const jangaon: CityContent = {
       id: "website-cost-jangaon",
       heading: "Website cost in Jangaon: entry prices and a short checklist for quotes",
       paragraphs: [
-        "Straight to the numbers. A website of up to 100 pages for a shop, clinic or school begins at ₹10,000 and is typically finished in one to two weeks. An SEO-focused site of 700 pages or more, which suits a mill selling many rice varieties or an institution covering many courses, begins at ₹20,000 and needs three to five weeks. Android and iOS apps begin at ₹40,000, as does AI automation. An online brass or rice store begins at ₹50,000, bespoke software at ₹60,000, and a monthly SEO plan at ₹10,000.",
+        "Straight to the numbers. A website of up to 100 pages for a shop, clinic or school begins at ₹10,000 and is typically finished in one to two weeks. An SEO-focused site of 299 pages or more, which suits a mill selling many rice varieties or an institution covering many courses, begins at ₹20,000 and needs three to five weeks. Android and iOS apps begin at ₹40,000, as does AI automation. An online brass or rice store begins at ₹50,000, bespoke software at ₹60,000, and a monthly SEO plan at ₹10,000.",
         "What pushes a quote above those figures is always something you asked for: a Telugu version, a long product catalogue, professional photographs, online payment, several staff logins or a link to Tally. Each sits on its own line with its own price, and you can cross any of them out. Clients who send their own text and phone photos usually end up very near the entry price.",
         "Designers in Jangaon, Warangal and Hyderabad quote very differently for similar sites. A short checklist helps: whose name the domain is booked in, whether the site has been tried on a low-cost phone, whether on-page SEO is included, how many rounds of edits you get, and who will help a year from now. Our entry prices are on the <a href=\"/pricing/\">pricing page</a>, and a detailed quote follows within about two working days.",
       ],
@@ -219,7 +219,7 @@ const jangaon: CityContent = {
     {
       question: "What is the website cost in Jangaon?",
       answer:
-        "Entry prices with us: ₹10,000 for a standard website, ₹20,000 for a 700+ page SEO site, ₹50,000 for an online store and ₹60,000 for custom software. Your actual figure depends on pages, Telugu content, products and integrations. You get it as an itemised written quote, and nothing is charged before you approve it.",
+        "Entry prices with us: ₹10,000 for a standard website, ₹20,000 for a 299+ page SEO site, ₹50,000 for an online store and ₹60,000 for custom software. Your actual figure depends on pages, Telugu content, products and integrations. You get it as an itemised written quote, and nothing is charged before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Jangaon businesses?",
@@ -234,7 +234,7 @@ const jangaon: CityContent = {
     {
       question: "How long does it take to build a website in Jangaon?",
       answer:
-        "Most standard sites go live one to two weeks after we receive your text and photos. Expect three to five weeks for a 700+ page SEO site, four to eight for an online store, and six to twelve for mill or trade software. The single biggest factor in speed is how quickly the content reaches us.",
+        "Most standard sites go live one to two weeks after we receive your text and photos. Expect three to five weeks for a 299+ page SEO site, four to eight for an online store, and six to twelve for mill or trade software. The single biggest factor in speed is how quickly the content reaches us.",
     },
     {
       question: "Which is the best website development team in Jangaon?",
@@ -254,7 +254,7 @@ const jangaon: CityContent = {
     {
       question: "Jangaon lo website cheyinchadaniki entha kharchu avutundi?",
       answer:
-        "Maa daggara simple website ₹10,000 nundi modalavutundi, sadharananga okati rendu varalalo ready avutundi. 700+ page SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalavutayi. Prathi item kharchu raatapoorvakamga quote lo istamu; meeru approve chesina tarvate bill chestamu.",
+        "Maa daggara simple website ₹10,000 nundi modalavutundi, sadharananga okati rendu varalalo ready avutundi. 299+ page SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalavutayi. Prathi item kharchu raatapoorvakamga quote lo istamu; meeru approve chesina tarvate bill chestamu.",
     },
     {
       question: "You have no office in Jangaon. Is it safe to work with you?",

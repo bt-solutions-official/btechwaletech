@@ -180,7 +180,7 @@ const content: CityContent = {
       paragraphs: [
         "SEO for a Deoghar business means appearing when pilgrims search in Hindi or English for lodges near Baba Dham, taxis to Basukinath, peda delivery or services near AIIMS, and being described correctly by AI assistants when they answer travel questions. Many pilgrims plan on their phones days before travelling, often searching by landmark rather than business name.",
         "We create pages for each service and landmark you genuinely serve, such as Tower Chowk, Baba Mandir, Jasidih station, the airport and Devipur, with accurate distances, timings and prices. Structured data describes your lodge, shop or taxi service. We also write clear, factual passages about the Mela, routes and facilities that Google's AI Overviews and assistants like ChatGPT and Perplexity tend to quote, without exaggeration.",
-        "Monthly <a href='/services/seo-services/'>SEO services</a> start from ₹10,000 and a 700+ page SEO website from ₹20,000. No one can guarantee rankings. For specific local searches, early movement usually shows within two to four months, so starting well before Shravan is important. We share monthly Search Console reports.",
+        "Monthly <a href='/services/seo-services/'>SEO services</a> start from ₹10,000 and a 299+ page SEO website from ₹20,000. No one can guarantee rankings. For specific local searches, early movement usually shows within two to four months, so starting well before Shravan is important. We share monthly Search Console reports.",
       ],
     },
     {
@@ -196,7 +196,7 @@ const content: CityContent = {
       id: "cost-deoghar-software",
       heading: "Software development cost in Deoghar: what do freelance developers charge?",
       paragraphs: [
-        "Our starting prices for Deoghar are ₹10,000 for a website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store, ₹60,000 for booking, dispatch or other custom software, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after five free months.",
+        "Our starting prices for Deoghar are ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store, ₹60,000 for booking, dispatch or other custom software, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after five free months.",
         "Costs depend on the number of rooms or properties, products, vehicles, languages, integrations and the level of load testing needed for peak season. A single lodge with twenty rooms is simpler than a group of properties with group bookings and a guest app. Starting early, before the season, avoids rush charges and gives time for proper testing.",
         "You receive an itemised quote in about two working days, and work begins only after written approval. Payment to us is only by UPI (scan our QR code) or direct bank transfer to our bank account in INR, usually in milestones tied to approved deliverables.",
       ],

@@ -40,7 +40,7 @@ const chirmiri: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Colliery supplier websites", "Hindi local SEO", "All accounts in your name"],
   },
   quickAnswer:
-    "A Chirmiri business website with us starts at ₹10,000 and is normally ready in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation also at ₹40,000, SEO sites of 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely and have no Chirmiri office.",
+    "A Chirmiri business website with us starts at ₹10,000 and is normally ready in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation also at ₹40,000, SEO sites of 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely and have no Chirmiri office.",
   snapshot: [
     { label: "District", value: "Municipal corporation in Manendragarh-Chirmiri-Bharatpur district, carved out of Koriya; the district headquarters is Manendragarh" },
     { label: "Coal", value: "Mining began in the 1920s; SECL runs its Chirimiri Area here, one of its administrative areas" },
@@ -158,7 +158,7 @@ const chirmiri: CityContent = {
       id: "website-cost-chirmiri",
       heading: "Website cost in Chirmiri: starting prices and what to compare",
       paragraphs: [
-        "Our starting prices apply in Chirmiri exactly as published. A static website of up to 100 pages starts at ₹10,000 with delivery in one to two weeks. A 700+ page SEO website starts at ₹20,000 over three to five weeks. Android and iOS apps and AI automation both start at ₹40,000, online stores at ₹50,000 and custom web apps or software at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
+        "Our starting prices apply in Chirmiri exactly as published. A static website of up to 100 pages starts at ₹10,000 with delivery in one to two weeks. A 299+ page SEO website starts at ₹20,000 over three to five weeks. Android and iOS apps and AI automation both start at ₹40,000, online stores at ₹50,000 and custom web apps or software at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
         "The quote moves with scope: pages, languages, product ranges, logins for staff, payments, offline features and connections to Tally. If you supply text and photographs, it stays close to the starting figure; content writing by us is listed as a separate item.",
         "Local quotes vary widely. When comparing, ask who will own the domain and hosting, whether mobile testing and basic SEO are included, how many change rounds you get and who fixes problems after launch.",
         "All starting prices are on our <a href=\"/pricing/\">pricing page</a>, and an itemised written quote reaches you within about two working days.",
@@ -221,7 +221,7 @@ const chirmiri: CityContent = {
     {
       question: "What is the website cost in Chirmiri?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the written quote depends on pages, Hindi content, products and features. It is itemised, and you pay nothing before approving it.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the written quote depends on pages, Hindi content, products and features. It is itemised, and you pay nothing before approving it.",
     },
     {
       question: "Do you build Android and iOS apps for Chirmiri businesses?",
@@ -231,7 +231,7 @@ const chirmiri: CityContent = {
     {
       question: "How long does a website take for a Chirmiri shop or firm?",
       answer:
-        "A static website usually goes live in one to two weeks after we have your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight and custom software six to twelve. Getting your content ready early is what speeds things up most.",
+        "A static website usually goes live in one to two weeks after we have your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight and custom software six to twelve. Getting your content ready early is what speeds things up most.",
     },
     {
       question: "Who is the best website development team in Chirmiri?",
@@ -256,7 +256,7 @@ const chirmiri: CityContent = {
     {
       question: "Chirmiri me website banwane ka kharcha kitna hai?",
       answer:
-        "Simple website hamare yahan ₹10,000 se shuru hoti hai aur ek-do hafte mein taiyaar hoti hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online dukaan ₹50,000 se shuru hoti hai. Aapke kaam ke hisaab se likhit quote do working days mein bhej dete hain.",
+        "Simple website hamare yahan ₹10,000 se shuru hoti hai aur ek-do hafte mein taiyaar hoti hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online dukaan ₹50,000 se shuru hoti hai. Aapke kaam ke hisaab se likhit quote do working days mein bhej dete hain.",
     },
     {
       question: "You are not based in Chirmiri. How is remote work safe for me?",

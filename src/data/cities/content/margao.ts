@@ -35,7 +35,7 @@ const margao: CityContent = {
     pills: ["Sites from ₹10,000", "Konkani, English and Hindi pages", "Booking and enquiry flows", "Apps and custom software", "Code and domain in your name"],
   },
   quickAnswer:
-    "For a Margao business, a static website with us starts from ₹10,000 and a 700+ page SEO website from ₹20,000. AI automation starts from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote three-person team with no Margao office, and five months of maintenance come free after launch.",
+    "For a Margao business, a static website with us starts from ₹10,000 and a 299+ page SEO website from ₹20,000. AI automation starts from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote three-person team with no Margao office, and five months of maintenance come free after launch.",
   snapshot: [
     { label: "Administration", value: "Headquarters of Salcete taluka and the commercial centre of South Goa district" },
     { label: "Population", value: "About 87,650 in the city and 1.06 lakh in the urban area (Census 2011)" },
@@ -136,7 +136,7 @@ const margao: CityContent = {
       heading: "What a website or software project costs in Margao",
       paragraphs: [
         "Quotes for websites in Goa vary widely, and the difference is usually in what is included rather than in the design. Before comparing, ask each provider who owns the domain, whether you get the source code, how many pages are included, whether content writing is part of the job, and what happens after launch.",
-        "Our starting prices are published on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts from <strong>₹10,000</strong> and usually takes one to two weeks. An SEO website with 700+ pages starts from <strong>₹20,000</strong> over three to five weeks. AI automation starts from <strong>₹40,000</strong>, an ecommerce store from <strong>₹50,000</strong>, and custom web apps or software from <strong>₹60,000</strong>. Monthly SEO starts from ₹10,000 a month.",
+        "Our starting prices are published on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts from <strong>₹10,000</strong> and usually takes one to two weeks. An SEO website with 299+ pages starts from <strong>₹20,000</strong> over three to five weeks. AI automation starts from <strong>₹40,000</strong>, an ecommerce store from <strong>₹50,000</strong>, and custom web apps or software from <strong>₹60,000</strong>. Monthly SEO starts from ₹10,000 a month.",
         "The final figure depends on page count, features such as booking or payments, integrations and how much content we write. You receive an itemised quote within about two working days, and nothing is billed before you approve it in writing.",
       ],
     },
@@ -196,7 +196,7 @@ const margao: CityContent = {
     {
       question: "What does a website cost in Margao?",
       answer:
-        "With us, a static website of up to 100 pages starts from ₹10,000 and a 700+ page SEO website from ₹20,000. Online stores start from ₹50,000 and custom software from ₹60,000. These are starting prices; the final cost depends on pages, features and content. You get an itemised quote in about two working days.",
+        "With us, a static website of up to 100 pages starts from ₹10,000 and a 299+ page SEO website from ₹20,000. Online stores start from ₹50,000 and custom software from ₹60,000. These are starting prices; the final cost depends on pages, features and content. You get an itemised quote in about two working days.",
     },
     {
       question: "Do you have an office in Margao?",
@@ -216,7 +216,7 @@ const margao: CityContent = {
     {
       question: "Margao mein website banwane ka kharcha kitna hai aur kitna time lagega?",
       answer:
-        "Static website ₹10,000 se shuru hoti hai aur aam taur par ek se do hafte mein live ho jaati hai. 700+ page wali SEO website ₹20,000 se shuru hoti hai. Launch ke baad paanch mahine maintenance free hai. Apne shop, clinic ya hotel ke baare mein WhatsApp par thoda bataiye, do working days mein itemised quote bhej denge.",
+        "Static website ₹10,000 se shuru hoti hai aur aam taur par ek se do hafte mein live ho jaati hai. 299+ page wali SEO website ₹20,000 se shuru hoti hai. Launch ke baad paanch mahine maintenance free hai. Apne shop, clinic ya hotel ke baare mein WhatsApp par thoda bataiye, do working days mein itemised quote bhej denge.",
     },
     {
       question: "Do you only build websites, or apps and software too?",
@@ -241,7 +241,7 @@ const margao: CityContent = {
     {
       question: "How long will my project take?",
       answer:
-        "A static website takes about one to two weeks, a 700+ page SEO website three to five weeks, AI automation two to four weeks, an online store four to eight weeks and custom software six to twelve weeks. Waiting for photos and details is the usual cause of delay, so we draft starter content for you to correct.",
+        "A static website takes about one to two weeks, a 299+ page SEO website three to five weeks, AI automation two to four weeks, an online store four to eight weeks and custom software six to twelve weeks. Waiting for photos and details is the usual cause of delay, so we draft starter content for you to correct.",
     },
     {
       question: "Who owns the website and code?",

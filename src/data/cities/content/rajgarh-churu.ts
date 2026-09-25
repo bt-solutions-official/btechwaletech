@@ -39,7 +39,7 @@ const rajgarhChuru: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Mandi and trader software", "Hindi Google Maps SEO", "All logins in your name"],
   },
   quickAnswer:
-    "In Rajgarh (Sadulpur), Churu, our websites start at ₹10,000 and 700+ page SEO sites at ₹20,000. Android and iOS apps and AI or WhatsApp automation begin at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Rajgarh office, and the domain, code and store accounts are registered to you.",
+    "In Rajgarh (Sadulpur), Churu, our websites start at ₹10,000 and 299+ page SEO sites at ₹20,000. Android and iOS apps and AI or WhatsApp automation begin at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Rajgarh office, and the domain, code and store accounts are registered to you.",
   snapshot: [
     { label: "Name", value: "Rajgarh, also known as Sadulpur; a municipality, tehsil and assembly seat in Churu district" },
     { label: "Population", value: "About 59,193 at the 2011 census, with literacy above the state average; 40 municipal wards" },
@@ -155,7 +155,7 @@ const rajgarhChuru: CityContent = {
       id: "website-cost-rajgarh",
       heading: "Website cost in Rajgarh (Churu): our starting prices and a quote checklist",
       paragraphs: [
-        "Here are the numbers most Rajgarh owners ask for first. A static website of up to 100 pages begins at ₹10,000 and usually takes one to two weeks. A 700-plus page SEO site, useful for a college with many courses or a trader covering many villages, begins at ₹20,000 and takes three to five weeks. Android and iOS apps and AI or WhatsApp automation begin at ₹40,000, online stores at ₹50,000, custom software at ₹60,000, and a monthly SEO plan at ₹10,000 per month.",
+        "Here are the numbers most Rajgarh owners ask for first. A static website of up to 100 pages begins at ₹10,000 and usually takes one to two weeks. A 299-plus page SEO site, useful for a college with many courses or a trader covering many villages, begins at ₹20,000 and takes three to five weeks. Android and iOS apps and AI or WhatsApp automation begin at ₹40,000, online stores at ₹50,000, custom software at ₹60,000, and a monthly SEO plan at ₹10,000 per month.",
         "The total rises only with what you add: Hindi and English pages, a long product list, farmer or student logins, UPI and card checkout, courier rules or a Tally link. Every addition shows up as its own line so you can remove it. Providing your own photographs and text keeps the figure close to the base.",
         "Local quotes vary widely, whether from designers in Hisar, Churu or Jaipur or from sellers online. Compare them by asking whose name the domain and hosting will be in, whether the site is tested on low-priced phones, whether Google titles and descriptions are included, how many change rounds are covered and who will support you after launch. Our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and an itemised quote follows in about two working days.",
       ],
@@ -216,7 +216,7 @@ const rajgarhChuru: CityContent = {
     {
       question: "What does a website cost in Rajgarh (Sadulpur)?",
       answer:
-        "A static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. The final amount depends on pages, Hindi content, products and features, and you see it in an itemised written quote before any billing.",
+        "A static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. The final amount depends on pages, Hindi content, products and features, and you see it in an itemised written quote before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Rajgarh businesses?",
@@ -231,7 +231,7 @@ const rajgarhChuru: CityContent = {
     {
       question: "How fast can a Rajgarh shop get a website?",
       answer:
-        "A static shop site normally goes live one to two weeks after we receive your details and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Sending content early is the best way to keep things moving.",
+        "A static shop site normally goes live one to two weeks after we receive your details and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Sending content early is the best way to keep things moving.",
     },
     {
       question: "Which is the best website company in Rajgarh Churu?",
@@ -251,7 +251,7 @@ const rajgarhChuru: CityContent = {
     {
       question: "Rajgarh (Sadulpur) me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur lagbhag ek-do hafte mein ready ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapki zaroorat dekh kar itemised quote do working days mein bhejte hain.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur lagbhag ek-do hafte mein ready ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapki zaroorat dekh kar itemised quote do working days mein bhejte hain.",
     },
     {
       question: "You have no office in Rajgarh. Why should I trust remote work?",

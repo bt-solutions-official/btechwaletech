@@ -35,7 +35,7 @@ const osmanabad: CityContent = {
     pills: ["Websites from ₹10,000", "Both names: Dharashiv and Osmanabad", "Tuljapur pilgrim bookings", "Marathi WhatsApp replies", "You own the code"],
   },
   quickAnswer:
-    "A website for a Dharashiv (Osmanabad) business starts at ₹10,000 and usually goes live in one to two weeks. A 700+ page SEO site starts at ₹20,000, AI and WhatsApp automation at ₹40,000, and an online store at ₹50,000. We work remotely, you own the domain and code, and the first five months of maintenance are free.",
+    "A website for a Dharashiv (Osmanabad) business starts at ₹10,000 and usually goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, AI and WhatsApp automation at ₹40,000, and an online store at ₹50,000. We work remotely, you own the domain and code, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Location", value: "Marathwada, on the Deccan plateau at about 650 metres; district borders Solapur, Latur, Beed, Ahmednagar and Karnataka" },
     { label: "Name", value: "Officially renamed Dharashiv in 2023 after the nearby Dharashiv caves; “Osmanabad” is still widely used in searches" },
@@ -107,7 +107,7 @@ const osmanabad: CityContent = {
       ],
       list: [
         "<strong>Business website — from ₹10,000, 1–2 weeks.</strong> Shops, clinics, lodges, tutors and professionals.",
-        "<strong>SEO website with 700+ pages — from ₹20,000, 3–5 weeks.</strong> Schools, hospitals, dealers and multi-town businesses.",
+        "<strong>SEO website with 299+ pages — from ₹20,000, 3–5 weeks.</strong> Schools, hospitals, dealers and multi-town businesses.",
         "<strong>AI and WhatsApp automation — from ₹40,000, 2–4 weeks.</strong> Room enquiries, rate broadcasts and appointment requests.",
         "<strong>Online store — from ₹50,000, 4–8 weeks.</strong> Dal, jaggery, pickles and puja items with UPI checkout.",
         "<strong>Custom software — from ₹60,000, 6–12 weeks.</strong> Purchase registers, member portals and stock tools.",
@@ -217,7 +217,7 @@ const osmanabad: CityContent = {
     {
       question: "How much does a website cost in Dharashiv (Osmanabad)?",
       answer:
-        "A business website starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. We send an itemised quote in about two working days and bill nothing before your written approval.",
+        "A business website starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. We send an itemised quote in about two working days and bill nothing before your written approval.",
     },
     {
       question: "Dharashiv madhe amchya dukanachi website banvun milel ka? Kharcha kiti yeil?",

@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "Is a WordPress to Next.js migration worth it, and what does it cost?",
-    text: `A WordPress to Next.js migration is worth it when the site is slow, plugin-heavy, often hacked or costly to maintain, and editors can work with a simpler CMS. It is not worth it for a site that runs well. With BtechWaleTech, content sites up to 100 pages start at ${P.site}, and sites with 700+ pages at ${P.seoSite}.`,
+    text: `A WordPress to Next.js migration is worth it when the site is slow, plugin-heavy, often hacked or costly to maintain, and editors can work with a simpler CMS. It is not worth it for a site that runs well. With BtechWaleTech, content sites up to 100 pages start at ${P.site}, and sites with 299+ pages at ${P.seoSite}.`,
     more: `For general hosting and platform moves see <a href='/website-migration-freelancer/'>website migration freelancer</a>; for the framework itself, read <a href='/freelance-nextjs-developer/'>freelance Next.js developer</a>.`,
   },
   snapshot: {
@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "Good reasons to move", value: "Speed, security, plugin sprawl, running cost" },
       { label: "Poor reasons to move", value: "Trend-following on a site that already works" },
       { label: "Content site", value: `From ${P.site}, 1–2 weeks` },
-      { label: "700+ page site", value: `From ${P.seoSite}, 3–5 weeks` },
+      { label: "299+ page site", value: `From ${P.seoSite}, 3–5 weeks` },
       { label: "WooCommerce store", value: `Rebuild from ${P.shop}, 4–8 weeks` },
       { label: "SEO protection", value: "Redirect map, metadata, schema, sitemap, monitoring" },
       { label: "After launch", value: `5 months free, then from ${P.care}` },
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "WordPress to Next.js migration pricing: what moves the number",
-    note: `Price follows the number of distinct page layouts, not the raw page count: 300 blog posts on one template move more cheaply than 20 pages that all look different. Other drivers are custom post types and fields, how many plugins provide features that must be rebuilt (forms, search, memberships, bookings), whether you want a new CMS for editors, and how many URLs need redirect mapping. Content sites up to 100 pages start at ${P.site}; large sites with 700+ pages start at ${P.seoSite}; stores start at ${P.shop}. You get an itemised quote in about two working days, and nothing is billed until you approve it in writing.`,
+    note: `Price follows the number of distinct page layouts, not the raw page count: 300 blog posts on one template move more cheaply than 20 pages that all look different. Other drivers are custom post types and fields, how many plugins provide features that must be rebuilt (forms, search, memberships, bookings), whether you want a new CMS for editors, and how many URLs need redirect mapping. Content sites up to 100 pages start at ${P.site}; large sites with 299+ pages start at ${P.seoSite}; stores start at ${P.shop}. You get an itemised quote in about two working days, and nothing is billed until you approve it in writing.`,
   },
   guideLabel: "WordPress to Next.js migration guide",
   guide: [
@@ -197,7 +197,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does a WordPress to Next.js migration cost in India?",
       paragraphs: [
-        `With us, a content site up to 100 pages starts at ${P.site} (${P.siteUsd}) and usually takes 1–2 weeks. Sites with 700+ pages start at ${P.seoSite} and take 3–5 weeks. Store migrations start at ${P.shop}, and sites that turn into web apps with logins start at ${P.software}.`,
+        `With us, a content site up to 100 pages starts at ${P.site} (${P.siteUsd}) and usually takes 1–2 weeks. Sites with 299+ pages start at ${P.seoSite} and take 3–5 weeks. Store migrations start at ${P.shop}, and sites that turn into web apps with logins start at ${P.software}.`,
         `The biggest cost drivers are the number of unique templates, the state of the old content, how many plugin features must be rebuilt, whether editors need a new CMS set up and trained, and the size of the redirect map. A tidy blog on one template is quick. A ten-year-old site with three page builders, shortcodes everywhere and a membership plugin is not.`,
         `Across the market, quotes for WordPress to Next.js migration vary widely, often because some leave out redirect testing, SEO metadata or post-launch monitoring. Compare quotes on those lines first. Our full list of plans is on <a href='/pricing/'>pricing</a>.`,
       ],
@@ -290,7 +290,7 @@ const content: FreelanceContent = {
       columns: ["Site type", "From (India)", "From (abroad)", "Typical time", "Main effort"],
       rows: [
         ["Business site, up to 100 pages", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Templates, forms, redirects"],
-        ["Blog or SEO site, 700+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Content conversion, redirect map"],
+        ["Blog or SEO site, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Content conversion, redirect map"],
         ["WooCommerce store rebuild", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Products, checkout, orders"],
         ["Site becoming a web app", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Logins, data, dashboards"],
         ["Monthly SEO after migration", `From ${P.seo}`, `From ${P.seoUsd}`, "Monthly", "Monitoring and growth"],
@@ -351,7 +351,7 @@ const content: FreelanceContent = {
   faqHeading: "WordPress to Next.js migration: questions people ask",
   faqs: [
     { question: "Will I lose Google rankings if I migrate from WordPress to Next.js?", answer: "You should not lose rankings if the migration keeps or permanently redirects every URL, carries over titles, descriptions and canonicals, rebuilds structured data and sitemaps, and is monitored in Search Console afterwards. Short fluctuations while Google recrawls are normal. Nobody can guarantee rankings, but most losses come from skipped redirects and missing metadata." },
-    { question: "How much does a WordPress to Next.js migration cost in India?", answer: `With BtechWaleTech, a content site up to 100 pages starts at ${P.site} and a large site with 700+ pages at ${P.seoSite}. WooCommerce store rebuilds start at ${P.shop}. The quote depends on unique templates, content cleanup, plugin features to rebuild and the size of the redirect map.` },
+    { question: "How much does a WordPress to Next.js migration cost in India?", answer: `With BtechWaleTech, a content site up to 100 pages starts at ${P.site} and a large site with 299+ pages at ${P.seoSite}. WooCommerce store rebuilds start at ${P.shop}. The quote depends on unique templates, content cleanup, plugin features to rebuild and the size of the redirect map.` },
     { question: "How long does it take to migrate WordPress to Next.js?", answer: "A small content site usually takes 1–2 weeks, and a large site with hundreds of posts 3–5 weeks. Stores take 4–8 weeks. The work covers audit, templates, content conversion, feature rebuilds, redirect testing and launch monitoring. Quick decisions on which old pages to keep or merge help keep to the timeline." },
     { question: "Is Next.js better than WordPress for SEO?", answer: "Next.js is not automatically better for SEO, but it makes speed and clean HTML easier, which helps Core Web Vitals and crawling. WordPress can rank very well too when kept lean. The SEO outcome of a migration depends mostly on how carefully URLs, metadata and internal links are handled, not on the framework itself." },
     { question: "What is headless WordPress?", answer: "Headless WordPress keeps WordPress as the place where editors write and manage content, while a separate front end, often built with Next.js, displays it to visitors by reading content through the REST API or WPGraphQL. Editors keep a familiar dashboard; visitors get a faster site. The trade-off is maintaining two systems." },

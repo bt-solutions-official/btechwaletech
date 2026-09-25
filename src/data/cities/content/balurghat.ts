@@ -35,7 +35,7 @@ const balurghat: CityContent = {
     pills: ["Sites from ₹10,000", "Bengali and English", "Clearing agent sites", "Clinic booking pages", "Replies seven days a week"],
   },
   quickAnswer:
-    "A static website for a Balurghat business starts at ₹10,000 with us and is ready in one to two weeks. SEO sites of 700+ pages start at ₹20,000, online stores from ₹50,000 and WhatsApp or AI automation from ₹40,000. We are three remote engineers with no office in Balurghat, and the first five months of maintenance are free.",
+    "A static website for a Balurghat business starts at ₹10,000 with us and is ready in one to two weeks. SEO sites of 299+ pages start at ₹20,000, online stores from ₹50,000 and WhatsApp or AI automation from ₹40,000. We are three remote engineers with no office in Balurghat, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Role", value: "Headquarters of Dakshin Dinajpur district, on the Atrai river about 3 km from the Bangladesh border" },
     { label: "Economy", value: "Mainly agricultural: rice first, with jute, sugarcane, oilseeds and fisheries, plus rice mills and bran extraction units" },
@@ -73,12 +73,12 @@ const balurghat: CityContent = {
       heading: "Website prices in Balurghat and what to compare",
       paragraphs: [
         "Most Balurghat owners get website quotes by word of mouth, and the range is wide. A cyber café or a relative might offer a cheap page built on a free tool. A Kolkata agency might send a proposal several times higher. The useful questions are the same either way: whose name is on the domain, does the price include search setup, and who fixes it when something breaks.",
-        "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. An SEO website of 700+ pages starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, WhatsApp and AI automation at ₹40,000, and ongoing SEO from ₹10,000 a month.",
+        "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. An SEO website of 299+ pages starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, WhatsApp and AI automation at ₹40,000, and ongoing SEO from ₹10,000 a month.",
         "Your quote depends on scope, and you see every item before agreeing. If a smaller build covers what you need, we will say so rather than push a bigger one.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, Bengali and English, map, WhatsApp button and basic search setup.",
-        "<strong>From ₹20,000:</strong> 700+ pages built around what people in the district actually search for.",
+        "<strong>From ₹20,000:</strong> 299+ pages built around what people in the district actually search for.",
         "<strong>From ₹50,000:</strong> a store with cart, UPI and card payments and delivery rules.",
         "<strong>From ₹60,000:</strong> custom systems with logins and reports for mills, traders and institutions.",
       ],
@@ -227,12 +227,12 @@ const balurghat: CityContent = {
     {
       question: "How much does a website cost in Balurghat?",
       answer:
-        "With us, a static website starts at ₹10,000, an SEO site of 700+ pages from ₹20,000, an online store from ₹50,000 and a custom web app from ₹60,000. These are starting prices. Your final quote depends on pages and features, and you see it itemised in writing before approving.",
+        "With us, a static website starts at ₹10,000, an SEO site of 299+ pages from ₹20,000, an online store from ₹50,000 and a custom web app from ₹60,000. These are starting prices. Your final quote depends on pages and features, and you see it itemised in writing before approving.",
     },
     {
       question: "Balurghat e website banate koto taka lagbe?",
       answer:
-        "Amader kache sadharon website ₹10,000 theke shuru, 700+ page er SEO website ₹20,000 theke ar online store ₹50,000 theke. Kotogulo page, ki feature ar content ke likhbe, tar opor asol daam nirbhor kore. Kaj shuru-r age likhito itemised quote paben, apni raji hole tobei bill hobe.",
+        "Amader kache sadharon website ₹10,000 theke shuru, 299+ page er SEO website ₹20,000 theke ar online store ₹50,000 theke. Kotogulo page, ki feature ar content ke likhbe, tar opor asol daam nirbhor kore. Kaj shuru-r age likhito itemised quote paben, apni raji hole tobei bill hobe.",
     },
     {
       question: "Do you have an office in Balurghat?",

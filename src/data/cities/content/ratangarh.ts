@@ -39,7 +39,7 @@ const ratangarh: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi Maps SEO", "Heritage and pilgrim listings", "Code and domain in your name"],
   },
   quickAnswer:
-    "In Ratangarh, our websites start from ₹10,000 and a simple one takes one to two weeks. Android and iOS apps start from ₹40,000, as does AI and WhatsApp automation; a 700+ page SEO website starts from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We are remote and keep no Ratangarh office.",
+    "In Ratangarh, our websites start from ₹10,000 and a simple one takes one to two weeks. Android and iOS apps start from ₹40,000, as does AI and WhatsApp automation; a 299+ page SEO website starts from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We are remote and keep no Ratangarh office.",
   snapshot: [
     { label: "Founded", value: "1798 by Maharaja Surat Singh of Bikaner, named after his son Ratan Singh; earlier called Kolasar" },
     { label: "Population", value: "About 71,100 in the 2011 Census; tehsil headquarters in Churu district" },
@@ -157,7 +157,7 @@ const ratangarh: CityContent = {
       id: "website-cost-ratangarh",
       heading: "Website cost in Ratangarh: starting prices and what to compare",
       paragraphs: [
-        "These are our published starting points. A static site of up to 100 pages starts from ₹10,000 and takes one to two weeks. An SEO site with 700+ pages starts from ₹20,000, delivered in three to five weeks. Android and iOS apps start from ₹40,000. AI automation also starts from ₹40,000 and runs two to four weeks. An online shop starts from ₹50,000 over four to eight weeks, and custom software from ₹60,000 over six to twelve weeks. Monthly SEO is ₹10,000 a month onwards.",
+        "These are our published starting points. A static site of up to 100 pages starts from ₹10,000 and takes one to two weeks. An SEO site with 299+ pages starts from ₹20,000, delivered in three to five weeks. Android and iOS apps start from ₹40,000. AI automation also starts from ₹40,000 and runs two to four weeks. An online shop starts from ₹50,000 over four to eight weeks, and custom software from ₹60,000 over six to twelve weeks. Monthly SEO is ₹10,000 a month onwards.",
         "Scope decides where the final number lands: extra pages, both Hindi and English versions, big catalogues, payment and courier set-up, staff logins, or Tally links. Content is a factor too. If you provide the text and photos, the cost stays near the starting price; if we write and arrange everything, it shows up as its own item.",
         "Local quotes vary widely, so compare them fairly. Check who will own the domain, whether mobile testing and basic SEO are included, how many change rounds are allowed and who supports you after launch. Our <a href=\"/pricing/\">pricing page</a> has the starting points, and a written quote reaches you in about two working days.",
       ],
@@ -218,7 +218,7 @@ const ratangarh: CityContent = {
     {
       question: "What is the website cost in Ratangarh?",
       answer:
-        "Static websites start from ₹10,000, 700+ page SEO websites from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. These are starting points; Hindi and English content, product count and integrations decide the final figure. You receive a written, itemised quote in about two working days and pay nothing before approving it.",
+        "Static websites start from ₹10,000, 299+ page SEO websites from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. These are starting points; Hindi and English content, product count and integrations decide the final figure. You receive a written, itemised quote in about two working days and pay nothing before approving it.",
     },
     {
       question: "Do you build Android and iOS apps for Ratangarh businesses?",
@@ -228,7 +228,7 @@ const ratangarh: CityContent = {
     {
       question: "How long will a Ratangarh website take?",
       answer:
-        "A simple site generally goes live one to two weeks after your text and photos reach us. Allow three to five weeks for a 700+ page SEO site, four to eight for an online store and six to twelve for custom software. Content arriving on time is the main thing that keeps a project on schedule.",
+        "A simple site generally goes live one to two weeks after your text and photos reach us. Allow three to five weeks for a 299+ page SEO site, four to eight for an online store and six to twelve for custom software. Content arriving on time is the main thing that keeps a project on schedule.",
     },
     {
       question: "Who is the best website development team in Ratangarh?",
@@ -253,7 +253,7 @@ const ratangarh: CityContent = {
     {
       question: "Ratangarh me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek se do hafte me tayyar ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hai. Aapki zaroorat dekh kar pura likhit quote bhejte hain.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek se do hafte me tayyar ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hai. Aapki zaroorat dekh kar pura likhit quote bhejte hain.",
     },
     {
       question: "You have no office in Ratangarh. Is it safe to work with you?",

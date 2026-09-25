@@ -35,7 +35,7 @@ const ichalkaranji: CityContent = {
     pills: ["Sites from ₹10,000", "Fabric catalogues", "Marathi and English", "Loom and job-work dashboards", "WhatsApp automation"],
   },
   quickAnswer:
-    "In Ichalkaranji, a basic business website with us starts at ₹10,000 and a 700+ page SEO site at ₹20,000; fabric catalogues and trade portals are quoted by scope, with custom web apps from ₹60,000. We are a remote three-engineer team with no local office, and every project includes five months of free maintenance.",
+    "In Ichalkaranji, a basic business website with us starts at ₹10,000 and a 299+ page SEO site at ₹20,000; fabric catalogues and trade portals are quoted by scope, with custom web apps from ₹60,000. We are a remote three-engineer team with no local office, and every project includes five months of free maintenance.",
   snapshot: [
     { label: "Known as", value: "The “Manchester of Maharashtra”, a major powerloom and textile centre in the Panchganga valley" },
     { label: "Textile base", value: "Around 25 spinning units, over a lakh powerlooms, plus semi-automatic and shuttleless looms" },
@@ -73,12 +73,12 @@ const ichalkaranji: CityContent = {
       heading: "What websites cost in Ichalkaranji",
       paragraphs: [
         "Local quotes vary for reasons that are rarely stated. One person offers a “website” for a few thousand rupees that turns out to be a free builder page with their branding in the footer. Another quotes a figure that assumes a large agency team in Pune. Neither tells you who owns the domain or what happens when the site breaks.",
-        "Our starting prices are published openly. A static business website starts from ₹10,000 and usually takes one to two weeks. A 700+ page SEO website, which suits a weaving unit that wants a separate page for each fabric type, starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000. Custom web applications such as job-work trackers or dealer portals start from ₹60,000, AI and WhatsApp automation from ₹40,000, and ongoing SEO from ₹10,000 a month. The details are on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our starting prices are published openly. A static business website starts from ₹10,000 and usually takes one to two weeks. A 299+ page SEO website, which suits a weaving unit that wants a separate page for each fabric type, starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000. Custom web applications such as job-work trackers or dealer portals start from ₹60,000, AI and WhatsApp automation from ₹40,000, and ongoing SEO from ₹10,000 a month. The details are on our <a href=\"/pricing/\">pricing page</a>.",
         "What changes the price is the work, not the town. Fifteen fabric qualities with proper photographs and specifications take less effort than two hundred with none. A Marathi version adds translation and checking. You get a page-by-page quote in about two working days, and we bill nothing until you have approved it in writing.",
       ],
       list: [
         "<strong>Static site, from ₹10,000:</strong> company profile, products or services, contact form, map. For clinics, shops, consultants and small units.",
-        "<strong>SEO site, from ₹20,000:</strong> 700+ pages, one per fabric type or service. For weavers and traders who want enquiries from other states.",
+        "<strong>SEO site, from ₹20,000:</strong> 299+ pages, one per fabric type or service. For weavers and traders who want enquiries from other states.",
         "<strong>Online store, from ₹50,000:</strong> cart, UPI and card checkout. For towel, bedsheet and fabric brands selling direct.",
         "<strong>Custom web app, from ₹60,000:</strong> logins, registers, dashboards. For job-work, yarn stock and dealer management.",
       ],
@@ -209,7 +209,7 @@ const ichalkaranji: CityContent = {
     {
       question: "How much does a website cost in Ichalkaranji?",
       answer:
-        "With us, a basic static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. When comparing quotes, check who owns the domain and hosting, whether SEO basics are included, and what support you get after launch.",
+        "With us, a basic static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. When comparing quotes, check who owns the domain and hosting, whether SEO basics are included, and what support you get after launch.",
     },
     {
       question: "Ichalkaranjit website banvaychi aahe, kharch kiti yeil?",
@@ -244,7 +244,7 @@ const ichalkaranji: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks, and a custom web application six to twelve weeks. Delays usually come from waiting for photographs and product details, so we draft text for you to correct instead of waiting.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks, and a custom web application six to twelve weeks. Delays usually come from waiting for photographs and product details, so we draft text for you to correct instead of waiting.",
     },
     {
       question: "What can WhatsApp automation do for a textile trader?",

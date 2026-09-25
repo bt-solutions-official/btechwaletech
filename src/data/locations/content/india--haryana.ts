@@ -182,12 +182,12 @@ const content: CityContent = {
       id: "haryana-it-cost",
       heading: "How much do IT solutions cost for a Haryana business?",
       paragraphs: [
-        "IT solutions for a Haryana business start from ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000. All are starting prices.",
+        "IT solutions for a Haryana business start from ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000. All are starting prices.",
         "Costs rise with users, departments, integrations such as weighbridges, and data migration, and fall when the first release is focused. Each item is itemised within about two working days. Plan details are on our <a href='/pricing/'>pricing page</a>.",
       ],
       list: [
         "Static website: from ₹10,000, 1 to 2 weeks",
-        "700+ page SEO website: from ₹20,000, 3 to 5 weeks",
+        "299+ page SEO website: from ₹20,000, 3 to 5 weeks",
         "Android and iOS app: from ₹40,000, 6 to 10 weeks",
         "AI automation: from ₹40,000, 2 to 4 weeks",
         "Online store: from ₹50,000, 4 to 8 weeks",

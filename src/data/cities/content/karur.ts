@@ -39,7 +39,7 @@ const karur: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Export buyer catalogues", "Tamil and English SEO", "Code and domain in your name"],
   },
   quickAnswer:
-    "For Karur businesses, our websites start at ₹10,000 (one to two weeks) and a 700+ page SEO website at ₹20,000. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, and online stores at ₹50,000. We are a remote team of three with no Karur office, and the first five months of maintenance are free.",
+    "For Karur businesses, our websites start at ₹10,000 (one to two weeks) and a 299+ page SEO website at ₹20,000. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, and online stores at ₹50,000. We are a remote team of three with no Karur office, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of Karur district, with Karur and Kulithalai as its two revenue divisions" },
     { label: "Rivers", value: "Lies by the Amaravathi, with the Kaveri and Noyyal close by; much of the district's farming is irrigated from them" },
@@ -70,7 +70,7 @@ const karur: CityContent = {
         "Karur's best-known trade is made-ups for export: bed linen, kitchen towels, aprons, table covers, curtains, bath linen and wall hangings. Handloom exports from the town began in the 1970s with a handful of firms, and today hundreds of family-run units within a short drive of the town supply overseas chain stores and importers. The manufacturers' association alone has more than two hundred members.",
         "An overseas sourcing manager rarely visits before the first contact. They look at your website, check whether it lists the product types, fabrics, weaves and certifications they need, and decide whether to email you. A site that shows only a logo and a phone number loses to a competitor who took the trouble to publish a proper range.",
         "We build export websites with a page for each product family, specifications such as GSM, composition and sizes, packing options, sampling and lead-time notes, and the compliance certificates you genuinely hold. Photographs come from your own sample room. An enquiry form captures the buyer's country, product and quantity so your merchandiser can reply with the right sheet.",
-        "We never list a client you have not worked with or a certificate you do not have; buyers check, and one false line can end a relationship. For larger ranges, the 700+ page SEO website from ₹20,000 gives each product a page of its own, which is how buyers searching specific items find smaller Karur makers.",
+        "We never list a client you have not worked with or a certificate you do not have; buyers check, and one false line can end a relationship. For larger ranges, the 299+ page SEO website from ₹20,000 gives each product a page of its own, which is how buyers searching specific items find smaller Karur makers.",
       ],
     },
     {
@@ -139,12 +139,12 @@ const karur: CityContent = {
       heading: "Website cost in Karur: starting prices and what changes them",
       paragraphs: [
         "Business owners in Karur tend to hear two kinds of quotes: a very low figure from someone who will reuse a template and keep the hosting login, or a large agency number that includes items a small firm never uses. Local quotes vary widely, so compare what is included rather than the headline figure: page count, content writing, search setup, whose name the domain is in, and support after launch.",
-        "Our starting prices are public on the <a href=\"/pricing/\">pricing page</a>. A static website with up to 100 pages starts from ₹10,000 and is typically ready in one to two weeks. A 700+ page SEO website starts from ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000 over two to four weeks, an online store at ₹50,000 over four to eight weeks, and custom software from ₹60,000 over six to twelve weeks.",
+        "Our starting prices are public on the <a href=\"/pricing/\">pricing page</a>. A static website with up to 100 pages starts from ₹10,000 and is typically ready in one to two weeks. A 299+ page SEO website starts from ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000 over two to four weeks, an online store at ₹50,000 over four to eight weeks, and custom software from ₹60,000 over six to twelve weeks.",
         "The written quote lists every item, so an exporter can see exactly what a 300-product catalogue adds, and a shop can remove what it does not need. Monthly SEO starts from ₹10,000 a month, and maintenance is free for five months after launch.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages for shops, clinics, halls and small manufacturers",
-        "<strong>From ₹20,000:</strong> 700+ pages for exporters with wide ranges and multi-branch firms",
+        "<strong>From ₹20,000:</strong> 299+ pages for exporters with wide ranges and multi-branch firms",
         "<strong>From ₹40,000:</strong> Android and iOS apps, or WhatsApp and AI automation",
         "<strong>From ₹50,000:</strong> online store with UPI and card payments for linen and towels",
         "<strong>From ₹60,000:</strong> custom job-card, order or dispatch software",
@@ -224,7 +224,7 @@ const karur: CityContent = {
     {
       question: "How much does a website cost in Karur?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, products and features. Local quotes vary widely, so compare content, SEO setup, domain ownership and after-launch support.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, products and features. Local quotes vary widely, so compare content, SEO setup, domain ownership and after-launch support.",
     },
     {
       question: "Which is the best website development team in Karur?",
@@ -239,12 +239,12 @@ const karur: CityContent = {
     {
       question: "Can you build an export catalogue website for my home-textile unit?",
       answer:
-        "Yes. We create product-family pages with composition, GSM, sizes, packing and lead-time notes, your genuine certifications and a buyer enquiry form that captures country and quantity. Photos come from your sample room. Larger ranges suit the 700+ page SEO website from ₹20,000, where each product gets its own searchable page.",
+        "Yes. We create product-family pages with composition, GSM, sizes, packing and lead-time notes, your genuine certifications and a buyer enquiry form that captures country and quantity. Photos come from your sample room. Larger ranges suit the 299+ page SEO website from ₹20,000, where each product gets its own searchable page.",
     },
     {
       question: "How long does it take to build a website or app?",
       answer:
-        "A static website takes one to two weeks, a 700+ page SEO site three to five weeks, AI automation two to four weeks, an online store four to eight weeks and custom software six to twelve weeks. App timelines depend on screens and features. Getting photos and product details early is what keeps projects on schedule.",
+        "A static website takes one to two weeks, a 299+ page SEO site three to five weeks, AI automation two to four weeks, an online store four to eight weeks and custom software six to twelve weeks. App timelines depend on screens and features. Getting photos and product details early is what keeps projects on schedule.",
     },
     {
       question: "Can you help my shop appear on Google Maps in Karur?",
@@ -264,7 +264,7 @@ const karur: CityContent = {
     {
       question: "Karur la website panna evvalavu selavu aagum?",
       answer:
-        "Enga kitta oru simple business website ₹10,000 la irundhu aarambikkudhu, pothuvaa 1–2 vaarathula ready aagum. 700+ page SEO website ₹20,000 la irundhu, Android matrum iOS app ₹40,000 la irundhu aarambikkudhu. Velai thodangum munnaadi item-wise quote ezhuthi anuppuvom; neenga approve pannaama endha bill-um kidaiyaadhu.",
+        "Enga kitta oru simple business website ₹10,000 la irundhu aarambikkudhu, pothuvaa 1–2 vaarathula ready aagum. 299+ page SEO website ₹20,000 la irundhu, Android matrum iOS app ₹40,000 la irundhu aarambikkudhu. Velai thodangum munnaadi item-wise quote ezhuthi anuppuvom; neenga approve pannaama endha bill-um kidaiyaadhu.",
     },
     {
       question: "Can you build an online store for towels and bedsheets?",

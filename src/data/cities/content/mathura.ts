@@ -41,7 +41,7 @@ const mathura: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first local SEO", "Tap and fittings catalogues", "Every account in your name"],
   },
   quickAnswer:
-    "For a Mathura business, a website with us starts at ₹10,000 and takes one to two weeks. Android and iOS apps start at ₹40,000, as does AI automation. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, have no Mathura office, and register everything to you.",
+    "For a Mathura business, a website with us starts at ₹10,000 and takes one to two weeks. Android and iOS apps start at ₹40,000, as does AI automation. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, have no Mathura office, and register everything to you.",
   snapshot: [
     { label: "Location", value: "District headquarters on the Yamuna, about 160 km south-east of Delhi and roughly 15 km south of Vrindavan" },
     { label: "Population", value: "About 4.4 lakh in the city at the 2011 census; governed by the Mathura-Vrindavan Nagar Nigam" },
@@ -116,7 +116,7 @@ const mathura: CityContent = {
       paragraphs: [
         "The Shri Krishna Janmasthan complex is the city's busiest temple, and Janmashtami brings millions of devotees into Mathura in a few days. Many arrive by train at Mathura Junction, others drive in on the Yamuna Expressway or NH-19, and a large share spend only one or two nights before heading to Vrindavan, Govardhan or Barsana. That creates steady demand for rooms close to the Janmasthan and the station, cloakroom and taxi services, guides and places to eat.",
         "<strong>Digital marketing in Mathura</strong> for this trade works when it answers a pilgrim's practical questions before they arrive. How far is the hotel from the Janmasthan gate on foot? Is there parking for a tempo traveller? Are rooms available on Janmashtami night, and at what advance? Does the dharamshala allow families only? Pages that answer these, linked to a correct Maps listing and a WhatsApp booking link, bring direct bookings that do not pay a portal commission.",
-        "We also build festival pages for Janmashtami, the Holi celebrations and the Braj 84 kos parikrama season, each with honest details rather than stock images and invented reviews. A 700+ page SEO site covering temples, routes, festivals and nearby towns starts at ₹20,000 and takes three to five weeks.",
+        "We also build festival pages for Janmashtami, the Holi celebrations and the Braj 84 kos parikrama season, each with honest details rather than stock images and invented reviews. A 299+ page SEO site covering temples, routes, festivals and nearby towns starts at ₹20,000 and takes three to five weeks.",
       ],
     },
     {
@@ -160,7 +160,7 @@ const mathura: CityContent = {
       id: "website-cost-mathura",
       heading: "Website cost in Mathura: starting prices and what changes them",
       paragraphs: [
-        "Here is where our pricing begins for Mathura clients. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 700 pages or more, the kind a hotel group or fittings maker uses to cover every product, temple or dealer city, starts at ₹20,000 over three to five weeks. Android and iOS apps start at ₹40,000, and so does AI automation, which takes two to four weeks. Online stores start at ₹50,000 over four to eight weeks, and custom web software at ₹60,000 over six to twelve.",
+        "Here is where our pricing begins for Mathura clients. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 299 pages or more, the kind a hotel group or fittings maker uses to cover every product, temple or dealer city, starts at ₹20,000 over three to five weeks. Android and iOS apps start at ₹40,000, and so does AI automation, which takes two to four weeks. Online stores start at ₹50,000 over four to eight weeks, and custom web software at ₹60,000 over six to twelve.",
         "Your figure climbs above those starting points only for things you ask for. A catalogue with hundreds of models, Hindi and English on every page, dealer logins, a booking calendar with festival rates, courier rules for sweets or a link to your accounts software each shows as a separate line you can keep or drop. If you supply the text and photos, the cost stays lower.",
         "Local quotes vary a great deal for jobs that look similar. When comparing, ask who owns the domain and hosting, how many revision rounds are included, whether the site is tested on low-cost phones, whether basic SEO is part of the build, and what support costs after a year. Our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and a written itemised quote reaches you in about two working days.",
       ],
@@ -212,7 +212,7 @@ const mathura: CityContent = {
     {
       question: "How much does a website cost in Mathura?",
       answer:
-        "With us, a static website starts at ₹10,000, an SEO website of 700+ pages at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Those are starting prices. Your quote depends on pages, products, Hindi content and features, and it arrives itemised in writing before any billing.",
+        "With us, a static website starts at ₹10,000, an SEO website of 299+ pages at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Those are starting prices. Your quote depends on pages, products, Hindi content and features, and it arrives itemised in writing before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Mathura businesses?",
@@ -227,7 +227,7 @@ const mathura: CityContent = {
     {
       question: "How long does it take to build a website for a Mathura shop?",
       answer:
-        "A shop website is usually live in one to two weeks once you share photos, timings and product details. An SEO site of 700+ pages takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content in the first few days.",
+        "A shop website is usually live in one to two weeks once you share photos, timings and product details. An SEO site of 299+ pages takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content in the first few days.",
     },
     {
       question: "Can you put my hotel near Krishna Janmabhoomi on Google Maps?",
@@ -247,7 +247,7 @@ const mathura: CityContent = {
     {
       question: "Mathura me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath Mathura me ek simple website ₹10,000 se shuru hoti hai aur lagbhag ek-do hafte me taiyaar ho jaati hai. Android aur iOS app ₹40,000 se, 700+ page wali SEO website ₹20,000 se aur online store ₹50,000 se shuru hota hai. Aapko pehle likhit quote milta hai, uske baad hi kaam shuru hota hai.",
+        "Hamare saath Mathura me ek simple website ₹10,000 se shuru hoti hai aur lagbhag ek-do hafte me taiyaar ho jaati hai. Android aur iOS app ₹40,000 se, 299+ page wali SEO website ₹20,000 se aur online store ₹50,000 se shuru hota hai. Aapko pehle likhit quote milta hai, uske baad hi kaam shuru hota hai.",
     },
     {
       question: "Can you build software for refinery and industrial contractors in Mathura?",

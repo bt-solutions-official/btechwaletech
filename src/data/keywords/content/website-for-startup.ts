@@ -35,7 +35,7 @@ const content: FreelanceContent = {
   facts: [
     ["Startup site from", `${P.site} · ${P.siteUsd}`],
     ["Usual time to live", "1–2 weeks"],
-    ["Content-led site, 700+ pages", `From ${P.seoSite}`],
+    ["Content-led site, 299+ pages", `From ${P.seoSite}`],
     ["Product or MVP web app", `From ${P.software}`],
     ["Quote", "Itemised, in about 2 working days"],
     ["After launch", "5 months of free maintenance"],
@@ -204,7 +204,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does a website for startup cost in India?",
       paragraphs: [
-        `With us, a complete startup website or a launch page starts at ${P.site} and usually goes live in one to two weeks. A content-heavy site with 700+ pages of docs, use cases and comparisons starts at ${P.seoSite}. The product itself, as a web app or dashboard, starts at ${P.software}, and an Android and iOS app at ${P.app}.`,
+        `With us, a complete startup website or a launch page starts at ${P.site} and usually goes live in one to two weeks. A content-heavy site with 299+ pages of docs, use cases and comparisons starts at ${P.seoSite}. The product itself, as a web app or dashboard, starts at ${P.software}, and an Android and iOS app at ${P.app}.`,
         `Other freelancers and agencies quote across a wide range, mostly because of how much strategy, copywriting and custom design is bundled in. Some quotes include messaging workshops and illustration; others assume you hand over finished text. Ask what is included before comparing totals.`,
       ],
       list: [
@@ -298,7 +298,7 @@ const content: FreelanceContent = {
       rows: [
         ["Pre-launch waitlist page", `${P.site}`, `${P.siteUsd}`, "Days to 1 week", "Headline, demo, waitlist form, analytics"],
         ["Launch site, core pages", `${P.site}`, `${P.siteUsd}`, "1–2 weeks", "Home, product, pricing, about, careers, contact, legal"],
-        ["Growth content site, 700+ pages", `${P.seoSite}`, `${P.seoSiteUsd}`, "3–5 weeks", "Use cases, docs, comparisons, blog on a CMS"],
+        ["Growth content site, 299+ pages", `${P.seoSite}`, `${P.seoSiteUsd}`, "3–5 weeks", "Use cases, docs, comparisons, blog on a CMS"],
         ["Product web app or MVP", `${P.software}`, `${P.softwareUsd}`, "6–12 weeks", "Sign-up, dashboard, billing"],
         ["Android & iOS app", `${P.app}`, `${P.appUsd}`, "6–10 weeks", "One codebase, both stores"],
         ["Care after 5 free months", `${P.care}`, `${P.careUsd}`, "Monthly", "Updates, fixes, new pages"],
@@ -373,7 +373,7 @@ const content: FreelanceContent = {
   faqHeading: "Website for startup: founders' questions",
   faqs: [
     { question: "What pages should a website for startup launch have?", answer: "Start with a home page, a product or how-it-works page, pricing, an about page with founder bios, careers, a contact or demo page, and privacy and terms pages. Add use cases, documentation, integrations, comparisons and a blog later, once you have real material. A focused seven-page site is better than a large site full of thin pages." },
-    { question: "How much does a website for a startup cost in India?", answer: `With BtechWaleTech a startup website or launch page starts at ${P.site} and usually goes live in one to two weeks. A content-heavy site with 700+ pages starts at ${P.seoSite}, and a product web app at ${P.software}. The final quote depends on copywriting help, page templates, CMS needs and product integrations.` },
+    { question: "How much does a website for a startup cost in India?", answer: `With BtechWaleTech a startup website or launch page starts at ${P.site} and usually goes live in one to two weeks. A content-heavy site with 299+ pages starts at ${P.seoSite}, and a product web app at ${P.software}. The final quote depends on copywriting help, page templates, CMS needs and product integrations.` },
     { question: "How long does it take to build a startup website?", answer: "A waitlist page can be ready within days, and a complete launch site with the core pages usually takes one to two weeks. Content-led sites take three to five weeks. The fastest way to launch on time is to settle your one-line message and send founder bios, screenshots and pricing details early." },
     { question: "What should a startup homepage say?", answer: "The headline should state the outcome for a specific customer, not the technology. A sub-line explains how in plain words, and one button names the action you want. Below that, show the product, three benefits written as outcomes, and honest proof. If five target customers cannot repeat what you do after reading it, rewrite it." },
     { question: "Do investors look at a startup's website?", answer: "Often, usually briefly and right after a pitch. They check whether the one-line description matches the deck, whether the product looks real, who the founders are and whether the company seems active. Broken links, outdated details or unverifiable claims raise doubts. An accurate, focused site supports the pitch far better than an elaborate one." },

@@ -39,7 +39,7 @@ const talcher: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Odia and English pages", "Trip and billing software", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Talcher business, a website with us starts at ₹10,000 and a 700+ page SEO site at ₹20,000. Android and iOS apps and AI or WhatsApp automation start at ₹40,000, online stores at ₹50,000 and custom software such as trip or billing tools at ₹60,000. We are a remote team with no Talcher office.",
+    "For a Talcher business, a website with us starts at ₹10,000 and a 299+ page SEO site at ₹20,000. Android and iOS apps and AI or WhatsApp automation start at ₹40,000, online stores at ₹50,000 and custom software such as trip or billing tools at ₹60,000. We are a remote team with no Talcher office.",
   snapshot: [
     { label: "Location", value: "Subdivision headquarters in Angul district, on the right bank of the Brahmani; about 40,800 residents in the 2011 census" },
     { label: "Coalfield", value: "Talcher Coalfield, run by Mahanadi Coalfields Ltd, with reserves the Geological Survey of India puts at about 38.65 billion tonnes, the highest in India" },
@@ -159,7 +159,7 @@ const talcher: CityContent = {
       id: "website-cost-talcher",
       heading: "Website cost in Talcher: what drives the figure and how to compare quotes",
       paragraphs: [
-        "Here are our entry points, all of them starting prices. A static website of up to 100 pages begins at ₹10,000 and normally takes one to two weeks. A large SEO site of 700 pages or more, useful for a contractor or institute that wants a page for every service, course or nearby area, begins at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as do AI and WhatsApp automation projects. Online stores begin at ₹50,000, custom software such as a trip register at ₹60,000, and monthly SEO at ₹10,000.",
+        "Here are our entry points, all of them starting prices. A static website of up to 100 pages begins at ₹10,000 and normally takes one to two weeks. A large SEO site of 299 pages or more, useful for a contractor or institute that wants a page for every service, course or nearby area, begins at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as do AI and WhatsApp automation projects. Online stores begin at ₹50,000, custom software such as a trip register at ₹60,000, and monthly SEO at ₹10,000.",
         "Your quote only climbs for things you ask for: Odia translation, extra pages, a bigger product list, staff logins, GST invoicing, checkout, or a sync with Tally. Each appears as its own line, so you can drop any of them and see the effect straight away. If you already have your write-up and photos, the content cost falls away.",
         "Local quotes for work that sounds the same vary widely, and the cheapest one often leaves the domain in the developer's name. When comparing, ask who owns the domain and hosting, whether the code is handed over, whether the site is tested on low-end phones, what basic SEO is included, how many revisions you get and who picks up the phone six months after launch. Our full list is on the <a href=\"/pricing/\">pricing page</a>, and a written, itemised quote reaches you in about two working days.",
       ],
@@ -220,7 +220,7 @@ const talcher: CityContent = {
     {
       question: "How much does a website cost in Talcher?",
       answer:
-        "With us, a static website of up to 100 pages starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Your figure depends on pages, Odia content, products and integrations, and it comes to you as an itemised written quote before any billing.",
+        "With us, a static website of up to 100 pages starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Your figure depends on pages, Odia content, products and integrations, and it comes to you as an itemised written quote before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Talcher businesses?",
@@ -240,7 +240,7 @@ const talcher: CityContent = {
     {
       question: "How long will my Talcher website take?",
       answer:
-        "A static business website is usually live in one to two weeks once we have your photos and details. A 700+ page SEO website takes three to five weeks, an online store four to eight, AI automation two to four, and custom software six to twelve. Sending content early is the single biggest thing that speeds it up.",
+        "A static business website is usually live in one to two weeks once we have your photos and details. A 299+ page SEO website takes three to five weeks, an online store four to eight, AI automation two to four, and custom software six to twelve. Sending content early is the single biggest thing that speeds it up.",
     },
     {
       question: "Can you put my Talcher business on Google Maps correctly?",

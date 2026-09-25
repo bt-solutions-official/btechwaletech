@@ -300,7 +300,7 @@ const content: FreelanceContent = {
       columns: ["Work", "Starts at (India)", "Starts at (abroad)", "Typical time", "What it covers"],
       rows: [
         ["Hotel or homestay website", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Rooms, gallery, policies, location, booking link"],
-        ["Destination SEO site, 700+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Attraction, route and season pages"],
+        ["Destination SEO site, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Attraction, route and season pages"],
         ["Custom booking and deposit system", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Inventory, rates, deposits, dashboard"],
         ["WhatsApp guest automation", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Confirmations, reminders, FAQs"],
         ["Monthly SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Ongoing", "Content, listings, Search Console"],

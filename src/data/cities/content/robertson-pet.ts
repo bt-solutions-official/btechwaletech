@@ -34,7 +34,7 @@ const robertsonPet: CityContent = {
     pills: ["Sites from ₹10,000", "Tamil, Kannada, Telugu and English", "Pages for every KGF township", "WhatsApp enquiry automation", "Domain and code in your name"],
   },
   quickAnswer:
-    "In Robertsonpet and the KGF area, our websites start at ₹10,000 and a 700+ page SEO website starts at ₹20,000. Online stores start from ₹50,000 and custom web apps from ₹60,000. We are a remote team of three engineers with no KGF office, and each launch includes five months of free maintenance.",
+    "In Robertsonpet and the KGF area, our websites start at ₹10,000 and a 299+ page SEO website starts at ₹20,000. Online stores start from ₹50,000 and custom web apps from ₹60,000. We are a remote team of three engineers with no KGF office, and each launch includes five months of free maintenance.",
   snapshot: [
     { label: "Founded", value: "Laid out in 1901 as New Town, renamed Robertsonpet in 1903 after Sir Donald Robertson" },
     { label: "Mining history", value: "Gold mines ran for over a century and closed on 28 February 2001" },
@@ -71,7 +71,7 @@ const robertsonPet: CityContent = {
       id: "kgf-website-pricing",
       heading: "Website prices for KGF and Robertsonpet businesses",
       paragraphs: [
-        "Our starting prices are published so you can plan before calling anyone. A business website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. An SEO website with 700+ pages, covering every service and each KGF township or nearby town you serve, starts at ₹20,000 and takes three to five weeks. An online store with UPI and card checkout starts from ₹50,000, and a custom web application starts from ₹60,000.",
+        "Our starting prices are published so you can plan before calling anyone. A business website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. An SEO website with 299+ pages, covering every service and each KGF township or nearby town you serve, starts at ₹20,000 and takes three to five weeks. An online store with UPI and card checkout starts from ₹50,000, and a custom web application starts from ₹60,000.",
         "AI and WhatsApp automation starts at ₹40,000. Monthly SEO starts at ₹10,000 a month, and maintenance starts at ₹8,000 a month once the first five free months end. See our <a href=\"/pricing/\">pricing page</a> for details.",
         "What moves the final number is scope. A small bakery or tuition centre with a handful of pages is quick. A school with admissions, fee payments, notices in two languages and a photo gallery needs more work. The quote lists every page and feature, and you are not billed until you approve it in writing.",
       ],
@@ -222,7 +222,7 @@ const robertsonPet: CityContent = {
     {
       question: "How much does a website cost in KGF or Robertsonpet?",
       answer:
-        "With us, a business website starts at ₹10,000 and an SEO website with 700+ pages starts at ₹20,000. Online stores start from ₹50,000 and custom web applications from ₹60,000. When comparing quotes, check domain ownership, SEO setup and support after launch.",
+        "With us, a business website starts at ₹10,000 and an SEO website with 299+ pages starts at ₹20,000. Online stores start from ₹50,000 and custom web applications from ₹60,000. When comparing quotes, check domain ownership, SEO setup and support after launch.",
     },
     {
       question: "KGF la oru website seyya evvalavu selavu aagum?",
@@ -252,7 +252,7 @@ const robertsonPet: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A business website takes one to two weeks, a 700+ page SEO website three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Delays usually come from waiting for photos and text, so we draft content for you to correct.",
+        "A business website takes one to two weeks, a 299+ page SEO website three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Delays usually come from waiting for photos and text, so we draft content for you to correct.",
     },
     {
       question: "What can WhatsApp automation do for a KGF school or clinic?",

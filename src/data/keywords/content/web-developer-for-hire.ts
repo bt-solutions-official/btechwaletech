@@ -70,7 +70,7 @@ const content: FreelanceContent = {
     cards: [
       { name: "Business website", note: `Up to 100 pages from ${P.site}. The quickest to start: once your logo, text and photos arrive, the build can begin the next working day.`, href: "/services/web-development/", size: "lg" },
       { name: "Online store", note: `Catalogue, cart and UPI or card checkout from ${P.shop}. Booking needs your product sheet and shipping rules ready, so we plan week one around them.`, href: "/freelance-ecommerce-developer/", size: "lg" },
-      { name: "SEO website (700+ pages)", note: `Location and service pages built from structured data, from ${P.seoSite}. Week one goes on the keyword map and page templates.`, href: "/seo-website-developer/", size: "md" },
+      { name: "SEO website (299+ pages)", note: `Location and service pages built from structured data, from ${P.seoSite}. Week one goes on the keyword map and page templates.`, href: "/seo-website-developer/", size: "md" },
       { name: "Web app or portal", note: `Logins, dashboards and workflows from ${P.software}. The first week is a written spec and clickable screens before any database work.`, href: "/web-application-developer/", size: "md" },
       { name: "Android & iOS app", note: `Flutter or React Native, published on Google Play and the App Store, from ${P.app}. We check your developer accounts in week one.`, href: "/it-services/android-ios-app/", size: "md" },
       { name: "Landing page for ads", note: "A single fast page for a campaign that starts soon. Tell us the launch date of the ads and we plan backwards from it.", href: "/landing-page-developer/", size: "sm" },
@@ -168,7 +168,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does a web developer for hire cost in India?",
       paragraphs: [
-        `Project quotes, not hourly meters, are how most small businesses book a web developer for hire in India. With us a static business website of up to 100 pages starts at <strong>${P.site}</strong>, an SEO website of 700+ pages starts at <strong>${P.seoSite}</strong>, an online store starts at <strong>${P.shop}</strong> and a custom web app starts at <strong>${P.software}</strong>. Apps start at ${P.app} and AI automation at ${P.ai}.`,
+        `Project quotes, not hourly meters, are how most small businesses book a web developer for hire in India. With us a static business website of up to 100 pages starts at <strong>${P.site}</strong>, an SEO website of 299+ pages starts at <strong>${P.seoSite}</strong>, an online store starts at <strong>${P.shop}</strong> and a custom web app starts at <strong>${P.software}</strong>. Apps start at ${P.app} and AI automation at ${P.ai}.`,
         `Across the market, quotes vary widely. What moves them: the number of unique page designs, features that need a database, how much text the developer writes, integrations such as payments or a CRM, and how much support is included after launch. Two quotes with the same total can hide very different scope, so ask for a line-by-line estimate.`,
         `Speed can change the plan without changing the price. If your date is fixed, we split the work into a first release and a follow-up. You pay for scope either way, and nothing is billed until you approve the itemised quote. For deeper numbers see <a href='/website-developer-cost/'>website developer cost in India</a>.`,
       ],
@@ -197,7 +197,7 @@ const content: FreelanceContent = {
       heading: "How long until launch after you book?",
       paragraphs: [
         `Launch date equals start date plus build time plus your review time. The build time is predictable; review time is where most projects slip. Plan for both.`,
-        `Typical build windows with our team: a static website in 1–2 weeks, an SEO website of 700+ pages in 3–5 weeks, an online store in 4–8 weeks, AI automation in 2–4 weeks, an Android and iOS app in 6–10 weeks and custom software in 6–12 weeks. These assume you reply to review requests within a day or two.`,
+        `Typical build windows with our team: a static website in 1–2 weeks, an SEO website of 299+ pages in 3–5 weeks, an online store in 4–8 weeks, AI automation in 2–4 weeks, an Android and iOS app in 6–10 weeks and custom software in 6–12 weeks. These assume you reply to review requests within a day or two.`,
         `A practical rule: if you have a hard date such as a trade fair, an admission season or an ad campaign, tell us before you book. We will tell you whether the full scope fits, or which pages should go live first and which can follow a week later. Launching a smaller site on time usually beats launching everything late.`,
       ],
     },
@@ -315,7 +315,7 @@ const content: FreelanceContent = {
       columns: ["Project", "From (India)", "From (abroad)", "Build time after start", "What we need before day one"],
       rows: [
         ["Static website, up to 100 pages", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Logo, page list, domain access"],
-        ["SEO website, 700+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Services and locations list"],
+        ["SEO website, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Services and locations list"],
         ["Online store", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Product sheet, shipping and return rules"],
         ["Custom web app or portal", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "User roles and current workflow"],
         ["Android & iOS app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Feature list, store account plan"],
@@ -390,7 +390,7 @@ const content: FreelanceContent = {
   faqHeading: "Web developer for hire: common questions",
   faqs: [
     { question: "How quickly can I hire a web developer for my project?", answer: "With BtechWaleTech you get an itemised quote with a proposed start date in about two working days. Once you approve it in writing and send the brief and logins, work begins on that date. If our calendar is full we say so and offer the next realistic slot rather than accepting a project we cannot start properly." },
-    { question: "What does a web developer for hire cost in India?", answer: `Most projects are quoted per project. Our static websites of up to 100 pages start at ${P.site}, SEO websites of 700+ pages at ${P.seoSite}, online stores at ${P.shop} and custom web apps at ${P.software}. Across the market quotes vary widely, mainly because of page count, features, content writing and integrations. Always ask for a line-by-line estimate.` },
+    { question: "What does a web developer for hire cost in India?", answer: `Most projects are quoted per project. Our static websites of up to 100 pages start at ${P.site}, SEO websites of 299+ pages at ${P.seoSite}, online stores at ${P.shop} and custom web apps at ${P.software}. Across the market quotes vary widely, mainly because of page count, features, content writing and integrations. Always ask for a line-by-line estimate.` },
     { question: "Is there an extra charge for starting urgently?", answer: "No separate urgency surcharge. If your deadline is tight, we shrink the first release to what must exist by that date and schedule the rest afterwards. You pay for the scope delivered, and the quote shows exactly which items are in the first phase and which follow later." },
     { question: "What happens in the first week after I book?", answer: "Day one is a short kick-off call with a written summary. Day two produces an approved sitemap. Days three and four settle the mobile design direction. By day five you usually have a private staging link to open on your own phone. Stores and web apps spend more of week one on product data and screens." },
     { question: "What do I need ready before the start date?", answer: "Your logo, a rough list of pages, bullet points for each service, photos you own, domain registrar access and your contact details. For a store, add a product sheet with prices and variants. Missing items do not block the booking; we plan the first week around what is available." },

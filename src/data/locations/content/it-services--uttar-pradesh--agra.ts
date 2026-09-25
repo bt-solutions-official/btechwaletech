@@ -198,7 +198,7 @@ const content: CityContent = {
       id: "agra-software-cost",
       heading: "How much does custom software cost in Agra?",
       paragraphs: [
-        "Custom software for an Agra business starts from ₹60,000 with us, AI automation from ₹40,000, websites from ₹10,000, a 700+ page SEO website from ₹20,000 and an online store from ₹50,000. These are starting figures, and the final quote depends on scope, number of users, integrations and how much existing data must be moved. Android and iOS apps start from ₹40,000.",
+        "Custom software for an Agra business starts from ₹60,000 with us, AI automation from ₹40,000, websites from ₹10,000, a 299+ page SEO website from ₹20,000 and an online store from ₹50,000. These are starting figures, and the final quote depends on scope, number of users, integrations and how much existing data must be moved. Android and iOS apps start from ₹40,000.",
         "The biggest cost drivers are the number of distinct screens and roles, integrations with tools such as Tally or a courier API, reports and exports, and data migration from years of Excel files. A production tracker with three roles and ten screens sits near the starting price. A dealer portal with pricing tiers, credit limits, a mobile app and accounting sync costs more.",
         "We break the quote into line items so you can remove features you do not need yet. Many clients start with a narrow first release and add modules once staff are using it. The <a href='/pricing/'>pricing page</a> shows every starting plan in one table.",
       ],

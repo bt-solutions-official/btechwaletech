@@ -39,7 +39,7 @@ const unjha: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Export buyer SEO", "Gujarati and English pages", "You own every account"],
   },
   quickAnswer:
-    "For Unjha businesses, our websites start at ₹10,000 and a 700+ page SEO site at ₹20,000, which suits spice exporters with many products. Android and iOS apps and AI automation start at ₹40,000, online stores at ₹50,000 and custom trading software at ₹60,000. We are a remote team with no Unjha office; you own everything we build.",
+    "For Unjha businesses, our websites start at ₹10,000 and a 299+ page SEO site at ₹20,000, which suits spice exporters with many products. Android and iOS apps and AI automation start at ₹40,000, online stores at ₹50,000 and custom trading software at ₹60,000. We are a remote team with no Unjha office; you own everything we build.",
   snapshot: [
     { label: "District", value: "Mehsana, North Gujarat; about 26 km north of Mehsana and roughly 100 km from Ahmedabad" },
     { label: "Population", value: "57,108 at the 2011 census" },
@@ -78,7 +78,7 @@ const unjha: CityContent = {
       paragraphs: [
         "An importer in Europe, the Gulf or America usually meets an Unjha exporter online first. They compare several suppliers in an afternoon, and the ones with vague websites or only a directory listing tend to drop off the list before anyone asks for a sample.",
         "A competent <strong>website development team in Unjha</strong> will build an exporter's site around what buyers check: products with botanical and trade names, available grades and purity levels, typical specifications such as moisture and admixture, packing options and container loads, certifications and registrations you actually hold, processing and cleaning facilities with real photographs, and a sample request form. Pages should load quickly abroad and read clearly in plain English.",
-        "Exporters with many products and grades benefit from our 700+ page SEO build, starting at ₹20,000, where each product and grade gets a proper page. We never put a buyer's name, a certification or a volume figure on your site unless you can document it, because importers verify such claims. Our <a href=\"/services/web-development/\">web development service</a> explains what is included.",
+        "Exporters with many products and grades benefit from our 299+ page SEO build, starting at ₹20,000, where each product and grade gets a proper page. We never put a buyer's name, a certification or a volume figure on your site unless you can document it, because importers verify such claims. Our <a href=\"/services/web-development/\">web development service</a> explains what is included.",
       ],
     },
     {
@@ -158,7 +158,7 @@ const unjha: CityContent = {
       id: "website-cost-unjha",
       heading: "Website cost in Unjha: starting prices and how to compare",
       paragraphs: [
-        "Our starting points for Unjha are simple. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO build for an exporter or trader with many products and grades starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation. Online stores start at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
+        "Our starting points for Unjha are simple. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO build for an exporter or trader with many products and grades starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation. Online stores start at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
         "The price rises only for things you choose, such as extra languages, a large product range, sample request workflows, payment collection, staff logins or Tally integration. Each appears as a separate line you can keep or drop. If you provide your own text and photographs, the figure stays near the starting price.",
         "Quotes for similar work vary widely across North Gujarat. Compare who owns the domain and hosting, whether pages are tested on mobile, whether basic SEO is included, how many rounds of changes are covered and what support costs after the first year. Our full list is on the <a href=\"/pricing/\">pricing page</a>, and an itemised written quote reaches you within about two working days.",
       ],
@@ -219,7 +219,7 @@ const unjha: CityContent = {
     {
       question: "What is the website cost in Unjha?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final amount depends on product count, languages, export forms and integrations, and you get an itemised written quote before any billing.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final amount depends on product count, languages, export forms and integrations, and you get an itemised written quote before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Unjha businesses?",
@@ -229,7 +229,7 @@ const unjha: CityContent = {
     {
       question: "How long does it take to build a website in Unjha?",
       answer:
-        "A simple static site usually goes live one to two weeks after we receive your content and photographs. A 700+ page SEO site for an exporter takes three to five weeks, an online store four to eight weeks and custom software six to twelve. Early content from you keeps the schedule short.",
+        "A simple static site usually goes live one to two weeks after we receive your content and photographs. A 299+ page SEO site for an exporter takes three to five weeks, an online store four to eight weeks and custom software six to twelve. Early content from you keeps the schedule short.",
     },
     {
       question: "Which is the best website development team in Unjha for exporters?",
@@ -254,7 +254,7 @@ const unjha: CityContent = {
     {
       question: "Unjha ma website banavva mate ketlo kharch thay?",
       answer:
-        "Amari pase simple website ₹10,000 thi sharu thay chhe ane saamanya rite ek-be athvadiya ma taiyar thai jay chhe. 700+ page SEO website ₹20,000 thi, Android ane iOS app ₹40,000 thi ane online store ₹50,000 thi sharu thay chhe. Tamari jaruriyat pramane lekhit itemised quote aapiye chhiye.",
+        "Amari pase simple website ₹10,000 thi sharu thay chhe ane saamanya rite ek-be athvadiya ma taiyar thai jay chhe. 299+ page SEO website ₹20,000 thi, Android ane iOS app ₹40,000 thi ane online store ₹50,000 thi sharu thay chhe. Tamari jaruriyat pramane lekhit itemised quote aapiye chhiye.",
     },
     {
       question: "You have no office in Unjha. Why should I trust a remote team?",

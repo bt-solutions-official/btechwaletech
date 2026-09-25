@@ -34,7 +34,7 @@ const habra: CityContent = {
     pills: ["Sites from ₹10,000", "Bengali-first pages", "Tuition and coaching sites", "Transport and trade pages", "WhatsApp auto-replies"],
   },
   quickAnswer:
-    "A basic website for a Habra business costs from ₹10,000 with us and takes one to two weeks. A 700+ page search-focused site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We work remotely with no Habra office, and the first five months of maintenance after launch are free.",
+    "A basic website for a Habra business costs from ₹10,000 with us and takes one to two weeks. A 299+ page search-focused site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We work remotely with no Habra office, and the first five months of maintenance after launch are free.",
   snapshot: [
     { label: "Location", value: "North 24 Parganas district, in the Barasat Sadar subdivision, about 45 km from Sealdah by rail" },
     { label: "Population", value: "About 1.47 lakh in the municipality (24 wards) and over 3 lakh in the Habra urban agglomeration at the 2011 census" },
@@ -72,7 +72,7 @@ const habra: CityContent = {
       heading: "What a website costs in Habra",
       paragraphs: [
         "The two numbers people hear most often in Habra are a very low one from a local computer centre and a very high one from an agency in Kolkata or Salt Lake. The first often leaves you without control of your own domain. The second includes office rent and salespeople. We keep our rates on the <a href=\"/pricing/\">pricing page</a> so that you can compare them with anyone else.",
-        "A static website of up to 100 pages starts at ₹10,000 and is ready in one to two weeks, with a mobile layout, enquiry form, map, WhatsApp button and basic search setup. A 700+ page site with a page for every subject, service or product, planned around what people search for, starts at ₹20,000 and takes three to five weeks. Stores start at ₹50,000, automation at ₹40,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
+        "A static website of up to 100 pages starts at ₹10,000 and is ready in one to two weeks, with a mobile layout, enquiry form, map, WhatsApp button and basic search setup. A 299+ page site with a page for every subject, service or product, planned around what people search for, starts at ₹20,000 and takes three to five weeks. Stores start at ₹50,000, automation at ₹40,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
         "Scope decides the rest. A home tutor needs a single clear page; a coaching centre with classes six to twelve and three branches needs much more. We send an itemised quote in about two working days and bill nothing until you approve it in writing.",
       ],
       list: [
@@ -216,7 +216,7 @@ const habra: CityContent = {
     {
       question: "What does a website cost in Habra?",
       answer:
-        "With us a static site starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. When comparing other quotes, check whose name the domain is in, whether basic SEO is included and what support you get after launch.",
+        "With us a static site starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. When comparing other quotes, check whose name the domain is in, whether basic SEO is included and what support you get after launch.",
     },
     {
       question: "Habra te ekta website banate koto taka lage?",

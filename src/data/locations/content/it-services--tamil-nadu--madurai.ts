@@ -159,7 +159,7 @@ const content: CityContent = {
       heading: "SEO, local search and AI-search visibility for Madurai businesses",
       paragraphs: [
         "SEO for a Madurai business means being found for specific local searches, such as a hospital specialty, a hotel near a landmark, a course name or a product, and appearing correctly in Google Maps and AI assistant answers. Visitors planning a temple trip, patients from neighbouring districts and parents comparing colleges all search this way.",
-        "We build websites with a separate page for each service, specialty, course or room type, plus location pages only where you genuinely serve an area. Pages include schema markup, clear opening hours, prices where appropriate, and FAQs written in plain Tamil and English. Static websites start at ₹10,000, and 700+ page SEO websites for larger catalogues or multi-branch businesses start at ₹20,000.",
+        "We build websites with a separate page for each service, specialty, course or room type, plus location pages only where you genuinely serve an area. Pages include schema markup, clear opening hours, prices where appropriate, and FAQs written in plain Tamil and English. Static websites start at ₹10,000, and 299+ page SEO websites for larger catalogues or multi-branch businesses start at ₹20,000.",
         "Monthly SEO from ₹10,000 covers technical fixes, content, Google Business Profile guidance and Search Console reports. We will not promise the first position for any term, because nobody honestly can. What we do promise is clear reporting on impressions, clicks and enquiries. More detail is on our <a href=\"/services/seo-services/\">SEO services page</a>.",
       ],
     },
@@ -181,7 +181,7 @@ const content: CityContent = {
       ],
       list: [
         "Website up to 100 pages: from ₹10,000, one to two weeks",
-        "SEO website with 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website with 299+ pages: from ₹20,000, three to five weeks",
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Android and iOS app: from ₹40,000, six to ten weeks",
         "Online store: from ₹50,000, four to eight weeks",

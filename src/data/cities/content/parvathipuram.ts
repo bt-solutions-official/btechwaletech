@@ -39,7 +39,7 @@ const parvathipuram: CityContent = {
     pills: ["Sites start at ₹10,000", "Android & iOS apps from ₹40,000", "Telugu map listings", "Cashew and forest produce shops", "Accounts stay in your name"],
   },
   quickAnswer:
-    "For a Parvathipuram shop or firm, a website with us starts at ₹10,000 and typically goes live inside two weeks. Android and iOS apps begin at ₹40,000, AI automation also at ₹40,000, a 700+ page SEO site at ₹20,000, an ecommerce store at ₹50,000 and bespoke software at ₹60,000. We have no local office, and all accounts belong to you.",
+    "For a Parvathipuram shop or firm, a website with us starts at ₹10,000 and typically goes live inside two weeks. Android and iOS apps begin at ₹40,000, AI automation also at ₹40,000, a 299+ page SEO site at ₹20,000, an ecommerce store at ₹50,000 and bespoke software at ₹60,000. We have no local office, and all accounts belong to you.",
   snapshot: [
     { label: "Status", value: "Headquarters of Parvathipuram Manyam district, formed on 4 April 2022, and of its revenue division and mandal" },
     { label: "Civic body", value: "Municipality constituted in 1959, 30 wards over about 11.24 sq km" },
@@ -167,7 +167,7 @@ const parvathipuram: CityContent = {
       id: "website-cost-parvathipuram",
       heading: "Website cost in Parvathipuram: starting prices and what to compare",
       paragraphs: [
-        "Price is usually the first question, so here are the floors. A basic site, anything up to 100 pages, begins at ₹10,000 and takes about a week or two. A search-focused build of 700 pages and more, handy for a processor with many products or a college listing courses by mandal, begins at ₹20,000 and needs three to five weeks. Apps and AI automation each begin at ₹40,000, online shops at ₹50,000 and made-to-order software at ₹60,000.",
+        "Price is usually the first question, so here are the floors. A basic site, anything up to 100 pages, begins at ₹10,000 and takes about a week or two. A search-focused build of 299 pages and more, handy for a processor with many products or a college listing courses by mandal, begins at ₹20,000 and needs three to five weeks. Apps and AI automation each begin at ₹40,000, online shops at ₹50,000 and made-to-order software at ₹60,000.",
         "From that floor, the cost climbs only for what you add: a second language, a big product import, payment collection, staff logins or a billing-software bridge. Supplying your own wording and a batch of phone photographs keeps the figure close to where it started.",
         "Quotes in the area for similar jobs can be far apart. Before you choose, check whose name the domain goes in, whether pages are tried on budget phones, if on-page SEO is part of the deal, how many rounds of changes are allowed, and who picks up the phone after the first year. Every floor price is on our <a href=\"/pricing/\">pricing page</a>.",
         "Expect a written, line-by-line estimate roughly two working days after you message, with no charge raised until you agree to it.",
@@ -221,7 +221,7 @@ const parvathipuram: CityContent = {
     {
       question: "What is the website cost in Parvathipuram?",
       answer:
-        "Websites begin at ₹10,000 for a static site of up to 100 pages. A 700+ page SEO site begins at ₹20,000, an ecommerce store at ₹50,000 and custom software at ₹60,000. All of these are starting figures; Telugu pages, product count and integrations shape your final number, which reaches you on paper before any payment.",
+        "Websites begin at ₹10,000 for a static site of up to 100 pages. A 299+ page SEO site begins at ₹20,000, an ecommerce store at ₹50,000 and custom software at ₹60,000. All of these are starting figures; Telugu pages, product count and integrations shape your final number, which reaches you on paper before any payment.",
     },
     {
       question: "Do you build Android and iOS apps for Parvathipuram businesses?",
@@ -231,7 +231,7 @@ const parvathipuram: CityContent = {
     {
       question: "How long does a website take in Parvathipuram?",
       answer:
-        "Once your photos and details arrive, a basic site normally goes live inside two weeks. Allow three to five weeks for a 700+ page SEO build, a month or two for an online shop, and six to twelve weeks for custom software. The single biggest factor in speed is how quickly content comes through.",
+        "Once your photos and details arrive, a basic site normally goes live inside two weeks. Allow three to five weeks for a 299+ page SEO build, a month or two for an online shop, and six to twelve weeks for custom software. The single biggest factor in speed is how quickly content comes through.",
     },
     {
       question: "Which is the best IT services team in Parvathipuram for a small business?",
@@ -256,7 +256,7 @@ const parvathipuram: CityContent = {
     {
       question: "Parvathipuram lo website ki entha kharchu avutundi?",
       answer:
-        "Maa daggara simple website ₹10,000 nundi modalavutundi, sumaru okati rendu vaaralalo ready avutundi. 700+ pages SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalavutayi. Mee avasaralaku taggattu poorthi quote raatapurvakamga pamputhamu.",
+        "Maa daggara simple website ₹10,000 nundi modalavutundi, sumaru okati rendu vaaralalo ready avutundi. 299+ pages SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalavutayi. Mee avasaralaku taggattu poorthi quote raatapurvakamga pamputhamu.",
     },
     {
       question: "You have no office in Parvathipuram. Is remote work safe?",

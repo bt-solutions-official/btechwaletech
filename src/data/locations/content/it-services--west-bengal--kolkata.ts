@@ -192,7 +192,7 @@ const content: CityContent = {
       id: "seo-ecommerce-kolkata",
       heading: "SEO, AI-search visibility and ecommerce for Kolkata brands",
       paragraphs: [
-        "SEO helps Kolkata firms appear for specific commercial searches, and ecommerce lets brands sell directly across India. Monthly SEO starts at ₹10,000, a 700+ page SEO website at ₹20,000 and an online store at ₹50,000.",
+        "SEO helps Kolkata firms appear for specific commercial searches, and ecommerce lets brands sell directly across India. Monthly SEO starts at ₹10,000, a 299+ page SEO website at ₹20,000 and an online store at ₹50,000.",
         "We build clear pages for each service or product, add schema markup and keep pages fast, with Bengali content where your customers search in Bengali. Factual, well-structured answers are easier for Google's AI Overviews, ChatGPT and Perplexity to cite. We never guarantee rankings; three to six months is typical. See <a href='/services/seo-services/'>our SEO services</a>.",
         "Stores for sweets, tea, leather goods and fashion include UPI and card checkout through your own gateway account. For local SEO and websites for shops, see the <a href='/kolkata/'>Kolkata city guide</a>.",
       ],

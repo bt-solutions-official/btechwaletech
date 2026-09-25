@@ -34,7 +34,7 @@ const englishBazar: CityContent = {
     pills: ["Sites from ₹10,000", "Bengali and English pages", "Mango season stores", "Clinic and school sites", "WhatsApp automation"],
   },
   quickAnswer:
-    "In English Bazar (Malda), our static business websites start from ₹10,000 and take one to two weeks; 700+ page SEO websites start from ₹20,000 and online stores, such as mango boxes or silk sarees, from ₹50,000. We are a remote three-engineer team with no Malda office, and five months of maintenance after launch are free.",
+    "In English Bazar (Malda), our static business websites start from ₹10,000 and take one to two weeks; 299+ page SEO websites start from ₹20,000 and online stores, such as mango boxes or silk sarees, from ₹50,000. We are a remote three-engineer team with no Malda office, and five months of maintenance after launch are free.",
   snapshot: [
     { label: "City", value: "Headquarters of Malda district on the Mahananda; English Bazar and Old Malda municipalities form the urban area" },
     { label: "Known for", value: "Mangoes, with GI tags for Malda Fazli, Malda Khirsapati (Himsagar) and Malda Laxman Bhog" },
@@ -72,7 +72,7 @@ const englishBazar: CityContent = {
       heading: "How much a website costs in Malda",
       paragraphs: [
         "Website prices in Malda are all over the place. A local designer may quote a few thousand rupees for a one-page template, while a Kolkata agency may ask for a large sum without explaining what is included. Both leave the same questions unanswered: who owns the domain, whether the site is set up for search, and who fixes it when something breaks.",
-        "Our prices are public on the <a href=\"/pricing/\">pricing page</a> and all of them are starting prices. A static website of up to 100 pages starts from ₹10,000 and takes one to two weeks. An SEO website with 700+ pages, for example a page per mango variety, product or area you serve, starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, AI and WhatsApp automation from ₹40,000, custom web applications from ₹60,000 and monthly SEO from ₹10,000.",
+        "Our prices are public on the <a href=\"/pricing/\">pricing page</a> and all of them are starting prices. A static website of up to 100 pages starts from ₹10,000 and takes one to two weeks. An SEO website with 299+ pages, for example a page per mango variety, product or area you serve, starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, AI and WhatsApp automation from ₹40,000, custom web applications from ₹60,000 and monthly SEO from ₹10,000.",
         "The real cost depends on scope. A single tuition teacher needs far less than a mango shipper who wants online payments, courier integration and order tracking. You get an itemised quote first, and you can remove anything you do not need before agreeing.",
       ],
       list: [
@@ -209,7 +209,7 @@ const englishBazar: CityContent = {
     {
       question: "How much does a website cost in English Bazar or Malda?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. The final figure depends on pages, products and features, and you get an itemised quote before any work is billed.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. The final figure depends on pages, products and features, and you get an itemised quote before any work is billed.",
     },
     {
       question: "Malda-te ekta website banate koto khoroch hoy?",

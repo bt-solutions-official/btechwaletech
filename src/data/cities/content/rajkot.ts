@@ -36,7 +36,7 @@ const rajkot: CityContent = {
     pills: ["Sites from ₹10,000", "Product catalogues for exporters", "Gujarati and English SEO", "Dealer and order portals", "WhatsApp order flows"],
   },
   quickAnswer:
-    "A business website for a Rajkot company costs from ₹10,000 with us and is ready in one to two weeks; a 700+ page SEO site with a proper product catalogue starts at ₹20,000. Online stores start at ₹50,000 and custom portals at ₹60,000. We are a remote three-person team, and five months of maintenance after launch are free.",
+    "A business website for a Rajkot company costs from ₹10,000 with us and is ready in one to two weeks; a 299+ page SEO site with a proper product catalogue starts at ₹20,000. Online stores start at ₹50,000 and custom portals at ₹60,000. We are a remote three-person team, and five months of maintenance after launch are free.",
   snapshot: [
     { label: "Industrial estates", value: "Aji GIDC, Metoda GIDC near Lodhika, Shapar-Veraval, Bhaktinagar and the Gondal Road belt" },
     { label: "Engineering products", value: "Diesel engines, submersible pumps, CNC machine tools, auto parts, bearings, castings and forgings" },
@@ -74,12 +74,12 @@ const rajkot: CityContent = {
       heading: "How much does a website cost in Rajkot?",
       paragraphs: [
         "Ask five Rajkot web designers for a price and you will hear anything from ₹2,500 to more than ₹50,000 for what sounds like the same site. The cheapest offers are usually a theme with your logo dropped in, hosted on the designer's account, with no search work at all. The most expensive often include an office, a salesperson and a design process that takes months. Neither extreme tells you what the site will actually do for your business.",
-        "Our starting prices are published openly. A static website of up to 100 pages starts at ₹10,000 and typically goes live within one to two weeks. A 700+ page SEO website, which is what most manufacturers with a product range need, starts at ₹20,000 and takes three to five weeks. An online store with a catalogue, cart and UPI or card payments starts at ₹50,000 over four to eight weeks. Custom applications such as a dealer portal or a service ticket system start at ₹60,000 and take six to twelve weeks. Automation starts at ₹40,000, and ongoing SEO at ₹10,000 a month.",
+        "Our starting prices are published openly. A static website of up to 100 pages starts at ₹10,000 and typically goes live within one to two weeks. A 299+ page SEO website, which is what most manufacturers with a product range need, starts at ₹20,000 and takes three to five weeks. An online store with a catalogue, cart and UPI or card payments starts at ₹50,000 over four to eight weeks. Custom applications such as a dealer portal or a service ticket system start at ₹60,000 and take six to twelve weeks. Automation starts at ₹40,000, and ongoing SEO at ₹10,000 a month.",
         "The biggest variable in Rajkot projects is the catalogue. Thirty products with clean specifications are quick; three hundred part numbers spread across old Excel files take longer, and we price that honestly rather than hiding it. You get the itemised quote within about two working days, and nothing is billed until you sign off on it.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> a site of up to 100 pages for a clinic, consultant, showroom or small workshop, with enquiry form and basic SEO.",
-        "<strong>From ₹20,000:</strong> 700+ pages with individual product or service pages, schema and sitemap, suited to manufacturers.",
+        "<strong>From ₹20,000:</strong> 299+ pages with individual product or service pages, schema and sitemap, suited to manufacturers.",
         "<strong>From ₹50,000:</strong> an online store with UPI checkout for jewellery, farsan or kitchenware brands.",
         "<strong>From ₹60,000:</strong> dealer logins, spare-parts search, service tickets or production dashboards.",
       ],
@@ -210,12 +210,12 @@ const rajkot: CityContent = {
     {
       question: "What does a website cost in Rajkot?",
       answer:
-        "With us, prices start at ₹10,000 for a static site, ₹20,000 for a 700+ page SEO site, ₹50,000 for an online store and ₹60,000 for a custom web application. Other Rajkot quotes range widely, so compare what is included: domain ownership, SEO basics, speed and support after launch matter as much as the headline number.",
+        "With us, prices start at ₹10,000 for a static site, ₹20,000 for a 299+ page SEO site, ₹50,000 for an online store and ₹60,000 for a custom web application. Other Rajkot quotes range widely, so compare what is included: domain ownership, SEO basics, speed and support after launch matter as much as the headline number.",
     },
     {
       question: "Rajkot ma website banavva no kharcho ketlo thay?",
       answer:
-        "Amari saathe simple business website ₹10,000 thi sharu thay chhe, ane 700+ page ni SEO website ₹20,000 thi. Online store ₹50,000 thi sharu thay chhe. Final kimmat pages, features ane content par aadhar rakhe chhe, ane kaam sharu karta pehla tamne badhu lakhelu itemised quote male chhe.",
+        "Amari saathe simple business website ₹10,000 thi sharu thay chhe, ane 299+ page ni SEO website ₹20,000 thi. Online store ₹50,000 thi sharu thay chhe. Final kimmat pages, features ane content par aadhar rakhe chhe, ane kaam sharu karta pehla tamne badhu lakhelu itemised quote male chhe.",
     },
     {
       question: "Do you have an office in Rajkot where we can meet?",
@@ -235,7 +235,7 @@ const rajkot: CityContent = {
     {
       question: "How long will it take to build my website?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. For manufacturers, collecting accurate product data is usually the slowest step, so we start with your best-selling models and add the rest in batches.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. For manufacturers, collecting accurate product data is usually the slowest step, so we start with your best-selling models and add the rest in batches.",
     },
     {
       question: "Can my website be in Gujarati as well as English?",

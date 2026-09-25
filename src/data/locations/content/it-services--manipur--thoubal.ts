@@ -197,7 +197,7 @@ const content: CityContent = {
       id: "cost-choose-thoubal",
       heading: "What does IT work cost in Thoubal, and how do you choose who to hire?",
       paragraphs: [
-        "IT work for a Thoubal business with BtechWaleTech starts at ₹10,000 for a static mobile website, ₹20,000 for a 700+ page SEO website, ₹40,000 for automation or an Android and iOS app, ₹50,000 for a store and ₹60,000 for custom software, with monthly SEO from ₹10,000 and maintenance from ₹8,000 a month after five free months. Full details are on the <a href='/pricing/'>pricing page</a>.",
+        "IT work for a Thoubal business with BtechWaleTech starts at ₹10,000 for a static mobile website, ₹20,000 for a 299+ page SEO website, ₹40,000 for automation or an Android and iOS app, ₹50,000 for a store and ₹60,000 for custom software, with monthly SEO from ₹10,000 and maintenance from ₹8,000 a month after five free months. Full details are on the <a href='/pricing/'>pricing page</a>.",
         "If you are comparing a software development team for Thoubal with a freelance team, look at who writes the code, whether the scope and price are written down, whether the domain, hosting and code will be in your name, and what support costs after launch. A local provider can visit for hardware; a remote freelance group cannot, but usually costs less for software and web work.",
         "Payments to us are made only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in rupees and in agreed milestones. You can see earlier work in our <a href='/portfolio/'>portfolio</a> and read about us on the <a href='/about/'>about page</a>.",
       ],

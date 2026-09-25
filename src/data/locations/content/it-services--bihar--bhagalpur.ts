@@ -204,7 +204,7 @@ const content: CityContent = {
       id: "cost-timeline-bhagalpur",
       heading: "What do freelance software developers in Bhagalpur charge, and how long does it take?",
       paragraphs: [
-        "BtechWaleTech's starting prices for Bhagalpur are ₹10,000 for a website (one to two weeks), ₹20,000 for a 700+ page SEO site (three to five weeks), ₹40,000 for AI automation (two to four weeks), ₹50,000 for an online store (four to eight weeks) and ₹60,000 for custom software (six to twelve weeks). Monthly SEO is from ₹10,000 and maintenance from ₹8,000. Android and iOS apps start at ₹40,000 and need six to ten weeks.",
+        "BtechWaleTech's starting prices for Bhagalpur are ₹10,000 for a website (one to two weeks), ₹20,000 for a 299+ page SEO site (three to five weeks), ₹40,000 for AI automation (two to four weeks), ₹50,000 for an online store (four to eight weeks) and ₹60,000 for custom software (six to twelve weeks). Monthly SEO is from ₹10,000 and maintenance from ₹8,000. Android and iOS apps start at ₹40,000 and need six to ten weeks.",
         "Final cost depends on scope: user roles, screens, reports, offline features, integrations with Tally or payment gateways, languages and data migration. Silk houses planning for the wedding and festive season should start by early summer so the system is live and staff are trained before orders peak.",
       ],
     },

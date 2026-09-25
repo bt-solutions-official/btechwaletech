@@ -40,7 +40,7 @@ const shahade: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Marathi, Gujarati and Hindi pages", "Papaya and cane trade tools", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Shahade business, our websites start at ₹10,000 and a simple one goes live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI and WhatsApp automation; a 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and you own everything.",
+    "For a Shahade business, our websites start at ₹10,000 and a simple one goes live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI and WhatsApp automation; a 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and you own everything.",
   snapshot: [
     { label: "Location", value: "Nandurbar district, north-west Maharashtra, about 30 km south of the Satpuda range, near the Gomai and the Tapi" },
     { label: "Status", value: "Municipal Council since 1869 (Shahada-Kukdel); the largest tehsil and second-biggest town in the district" },
@@ -115,7 +115,7 @@ const shahade: CityContent = {
       paragraphs: [
         "The Pujya Sane Guruji Vidya Prasarak Mandal campus at Lonkheda is the biggest educational campus near Shahade, and the town also has an engineering college, junior colleges, English and Marathi medium schools and coaching classes for board, entrance and government job exams. Students come from across the taluka and from over the border.",
         "Parents want the same details every admission season: courses, fee ranges, seats, hostel and bus routes, results and the admission timeline. When these sit on a website and on the Google listing, the office phone rings less and each call is more useful. As an <strong>IT services team in Shahade</strong> by service area, we build such sites with a notice board your staff can update, downloadable forms and an enquiry form that records the course asked about.",
-        "Coaching institutes often add a batch timetable, test results with student consent, and a WhatsApp group workflow for announcements. A 700+ page SEO site starting at ₹20,000 suits an institute that wants a separate page for every course, exam and nearby village it draws from, but a small school rarely needs more than the ₹10,000 static site.",
+        "Coaching institutes often add a batch timetable, test results with student consent, and a WhatsApp group workflow for announcements. A 299+ page SEO site starting at ₹20,000 suits an institute that wants a separate page for every course, exam and nearby village it draws from, but a small school rarely needs more than the ₹10,000 static site.",
       ],
     },
     {
@@ -210,7 +210,7 @@ const shahade: CityContent = {
     {
       question: "What is the website cost in Shahade?",
       answer:
-        "A static website with us starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. The final amount depends on pages, languages, products and features, and you receive a written itemised quote before anything is billed.",
+        "A static website with us starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. The final amount depends on pages, languages, products and features, and you receive a written itemised quote before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Shahade businesses?",
@@ -220,7 +220,7 @@ const shahade: CityContent = {
     {
       question: "How long does it take to build a website for a Shahade shop?",
       answer:
-        "A small shop or clinic site is usually live within one to two weeks after we receive photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The biggest delay is usually waiting for content, so sending it early helps.",
+        "A small shop or clinic site is usually live within one to two weeks after we receive photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The biggest delay is usually waiting for content, so sending it early helps.",
     },
     {
       question: "Which is the best website development team in Shahade?",

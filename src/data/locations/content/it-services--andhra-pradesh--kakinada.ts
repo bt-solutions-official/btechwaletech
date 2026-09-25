@@ -178,7 +178,7 @@ const content: CityContent = {
       paragraphs: [
         "Ecommerce works well for Kakinada-region products that buyers already search for by name, especially Uppada Jamdani silk sarees and Kakinada kaja, as well as coastal pickles and dry fish. An online store from ₹50,000 lets weavers, cooperatives and sweet shops sell across India and to the Telugu diaspora.",
         "Stores include product and category pages, UPI and card checkout through a payment gateway account in your own name, courier integration, pin-code checks, GST invoices and WhatsApp order updates. Uppada listings need detailed photos, weave and zari notes and care instructions; sweets need shelf-life, packing and shipping limits clearly stated.",
-        "SEO for Kakinada combines national product pages with local pages for hospitals, schools, showrooms and services by area. Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000 and monthly SEO at ₹10,000. More on our <a href='/services/seo-services/'>SEO services</a> page. We never guarantee rankings.",
+        "SEO for Kakinada combines national product pages with local pages for hospitals, schools, showrooms and services by area. Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000 and monthly SEO at ₹10,000. More on our <a href='/services/seo-services/'>SEO services</a> page. We never guarantee rankings.",
       ],
     },
     {

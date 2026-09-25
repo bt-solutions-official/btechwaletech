@@ -338,7 +338,7 @@ const content: FreelanceContent = {
       columns: ["Project", "From (USD)", "From (INR)", "Typical timeline"],
       rows: [
         ["Business website, up to 100 pages", `From ${P.siteUsd}`, `From ${P.site}`, "1–2 weeks"],
-        ["SEO website, 700+ pages", `From ${P.seoSiteUsd}`, `From ${P.seoSite}`, "3–5 weeks"],
+        ["SEO website, 299+ pages", `From ${P.seoSiteUsd}`, `From ${P.seoSite}`, "3–5 weeks"],
         ["Online store", `From ${P.shopUsd}`, `From ${P.shop}`, "4–8 weeks"],
         ["Android & iOS app", `From ${P.appUsd}`, `From ${P.app}`, "6–10 weeks"],
         ["Custom web app or portal", `From ${P.softwareUsd}`, `From ${P.software}`, "6–12 weeks"],

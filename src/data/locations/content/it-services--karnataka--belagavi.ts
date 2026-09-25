@@ -97,7 +97,7 @@ const content: CityContent = {
       paragraphs: [
         "A B2B website for a Belagavi foundry is a sales tool: it shows capabilities, materials, weight ranges, equipment, certifications and past part types so a buyer can shortlist the unit before sending drawings. An RFQ portal lets that buyer upload drawings and quantities securely and receive an acknowledgement at once.",
         "We structure these sites around how buyers search: by process (sand casting, investment casting, CNC machining), by material (grey iron, SG iron, steel, aluminium), and by industry served. Each page carries specific facts rather than generic claims. For export buyers, we add clear English content and quick-loading pages that work from Europe or the Middle East.",
-        "Websites start at ₹10,000 and a larger SEO-structured site with 700+ pages at ₹20,000. RFQ portals with secure uploads and an internal enquiry tracker fall under custom software from ₹60,000. See our <a href='/services/web-development/'>web development approach</a>.",
+        "Websites start at ₹10,000 and a larger SEO-structured site with 299+ pages at ₹20,000. RFQ portals with secure uploads and an internal enquiry tracker fall under custom software from ₹60,000. See our <a href='/services/web-development/'>web development approach</a>.",
       ],
     },
     {
@@ -225,7 +225,7 @@ const content: CityContent = {
       id: "software-cost-belagavi",
       heading: "How much does a software development team in Belagavi charge, and what do we charge?",
       paragraphs: [
-        "A software development team in Belagavi generally includes office and sales costs in its quote. Our starting prices are published: websites ₹10,000, SEO websites with 700+ pages ₹20,000, AI automation ₹40,000, Android and iOS apps ₹40,000, ecommerce ₹50,000, custom software ₹60,000, monthly SEO ₹10,000 and maintenance ₹8,000 a month. See the <a href='/pricing/'>pricing page</a>.",
+        "A software development team in Belagavi generally includes office and sales costs in its quote. Our starting prices are published: websites ₹10,000, SEO websites with 299+ pages ₹20,000, AI automation ₹40,000, Android and iOS apps ₹40,000, ecommerce ₹50,000, custom software ₹60,000, monthly SEO ₹10,000 and maintenance ₹8,000 a month. See the <a href='/pricing/'>pricing page</a>.",
         "The final cost depends on modules, users, reports, integrations such as Tally and data migration. Quotes are itemised so you can remove or delay modules. Payment is in INR by UPI QR or bank transfer only, in milestones after you review work on staging.",
       ],
     },

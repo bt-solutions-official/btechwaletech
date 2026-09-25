@@ -39,7 +39,7 @@ const mandamarri: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu and English pages", "Contractor and fleet records", "You keep every login"],
   },
   quickAnswer:
-    "For a Mandamarri business, a website with us starts at ₹10,000 and takes one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Mandamarri office, and all accounts stay in your name.",
+    "For a Mandamarri business, a website with us starts at ₹10,000 and takes one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Mandamarri office, and all accounts stay in your name.",
   snapshot: [
     { label: "Location", value: "Town municipality and mandal in Mancherial district, northern Telangana" },
     { label: "Population", value: "52,352 (2011 Census), down from 66,176 in 2001" },
@@ -160,7 +160,7 @@ const mandamarri: CityContent = {
       id: "website-cost-mandamarri",
       heading: "Website cost in Mandamarri: starting prices, item by item",
       paragraphs: [
-        "The <strong>website cost in Mandamarri</strong> depends on the job. Our starting prices: a static website of up to 100 pages from ₹10,000 in one to two weeks; an SEO website of 700+ pages from ₹20,000 in three to five weeks; an online store from ₹50,000 in four to eight weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; custom software from ₹60,000 in six to twelve weeks.",
+        "The <strong>website cost in Mandamarri</strong> depends on the job. Our starting prices: a static website of up to 100 pages from ₹10,000 in one to two weeks; an SEO website of 299+ pages from ₹20,000 in three to five weeks; an online store from ₹50,000 in four to eight weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; custom software from ₹60,000 in six to twelve weeks.",
         "Local quotes vary widely, so compare them on the same points: whose name the domain is in, what hosting costs at renewal, whether Telugu text is written properly, how many revisions are included and whether you get the source code. A cheap site that someone else controls can cost more in the second year.",
         "We send an itemised quote in about two working days, and nothing is billed before you approve it in writing. See our <a href=\"/pricing/\">pricing page</a>.",
       ],
@@ -212,12 +212,12 @@ const mandamarri: CityContent = {
     {
       question: "How much does a website cost in Mandamarri?",
       answer:
-        "A static website for a Mandamarri business starts at ₹10,000 for up to 100 pages and is usually ready in one to two weeks. An SEO website of 700+ pages starts at ₹20,000 and an online store at ₹50,000. Telugu content, payment features and product count change the final figure, and each item is listed separately.",
+        "A static website for a Mandamarri business starts at ₹10,000 for up to 100 pages and is usually ready in one to two weeks. An SEO website of 299+ pages starts at ₹20,000 and an online store at ₹50,000. Telugu content, payment features and product count change the final figure, and each item is listed separately.",
     },
     {
       question: "How long does it take to build a website in Mandamarri?",
       answer:
-        "A basic business website takes one to two weeks once we have your photographs, details and content. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Delays usually come from missing content, so we send a simple checklist on day one.",
+        "A basic business website takes one to two weeks once we have your photographs, details and content. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Delays usually come from missing content, so we send a simple checklist on day one.",
     },
     {
       question: "Which is the best website development team in Mandamarri?",

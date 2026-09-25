@@ -35,7 +35,7 @@ const panaji: CityContent = {
     pills: ["Sites from ₹10,000", "Konkani and English", "Direct booking pages", "Property project pages", "Domain and code yours"],
   },
   quickAnswer:
-    "A website for a Panaji business starts at ₹10,000 with us and takes one to two weeks. SEO websites of 700+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three without an office in Goa, and maintenance is free for five months.",
+    "A website for a Panaji business starts at ₹10,000 with us and takes one to two weeks. SEO websites of 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three without an office in Goa, and maintenance is free for five months.",
   snapshot: [
     { label: "Role", value: "Capital of Goa and headquarters of North Goa district, on the Mandovi estuary where it meets the Arabian Sea" },
     { label: "Civic body", value: "Corporation of the City of Panaji with 30 wards; Panaji was raised to city status on 22 March 1843" },
@@ -73,7 +73,7 @@ const panaji: CityContent = {
       heading: "What websites cost in Panaji",
       paragraphs: [
         "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. It covers a mobile layout, contact and enquiry forms, WhatsApp button, Google map and basic search setup. Most guesthouses, clinics, cafés and professional firms fit within this.",
-        "A 700+ page site built around real searches starts at ₹20,000 over three to five weeks. WhatsApp and AI automation starts at ₹40,000, online stores at ₹50,000 and custom web applications at ₹60,000. Monthly SEO begins at ₹10,000, and ongoing maintenance at ₹8,000 a month after five free months.",
+        "A 299+ page site built around real searches starts at ₹20,000 over three to five weeks. WhatsApp and AI automation starts at ₹40,000, online stores at ₹50,000 and custom web applications at ₹60,000. Monthly SEO begins at ₹10,000, and ongoing maintenance at ₹8,000 a month after five free months.",
         "Goa sees a wide spread of quotes, from freelancers to large agencies. Rather than comparing only the total, ask who registers the domain, whether the site can take bookings or leads without a monthly portal fee, how easily you can change prices before the season, and who fixes things in December when everyone is busy. Our written quote answers each point.",
       ],
       list: [
@@ -107,7 +107,7 @@ const panaji: CityContent = {
       heading: "Property developers and agents selling to buyers outside Goa",
       paragraphs: [
         "A large share of property buyers in and around Panaji do not live in Goa. They are families from Mumbai, Pune, Bengaluru and Delhi, or Goans working abroad, looking at flats in Taleigão, villas in Porvorim or holiday homes in the hinterland. They cannot visit every site, so they study the developer's website closely before booking a visit.",
-        "Project pages need to be precise: location on a map, distances to the city, the airports and the beaches, floor plans, specifications, construction photographs with dates, and the approvals and registrations you actually hold. We write each project as its own set of pages, which is how many developers reach the 700+ page scale that brings steady search traffic.",
+        "Project pages need to be precise: location on a map, distances to the city, the airports and the beaches, floor plans, specifications, construction photographs with dates, and the approvals and registrations you actually hold. We write each project as its own set of pages, which is how many developers reach the 299+ page scale that brings steady search traffic.",
         "We avoid the language that makes buyers suspicious: no guaranteed returns, no promises about appreciation or rental yield, and no “sea view” unless the photos prove it. Site-visit requests go straight to WhatsApp with the buyer's budget and preferred date, and a simple lead tracker shows which projects draw the most interest.",
         "Rental management is a related business. Owners who live elsewhere often hand their Goa flats to local managers who find tenants or holiday guests, collect rent and arrange repairs. A website that explains the service, the fees you charge, the areas you cover and how you report back to owners, together with a small portal for statements, gives distant owners the confidence to sign up.",
       ],
@@ -219,12 +219,12 @@ const panaji: CityContent = {
     {
       question: "How much does a website cost in Panaji?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO sites at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom web applications at ₹60,000. The final price depends on pages, languages and features. You get an itemised quote in about two working days before any bill.",
+        "Static websites start at ₹10,000, 299+ page SEO sites at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom web applications at ₹60,000. The final price depends on pages, languages and features. You get an itemised quote in about two working days before any bill.",
     },
     {
       question: "Panjim mein website banwane ka kharcha kitna hota hai?",
       answer:
-        "Hamari simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein ready ho jaati hai. Property ya tour business ke liye 700+ page ki SEO website ₹20,000 se shuru hai. Pehle likhit quote milta hai, aapki approval ke baad hi kaam shuru hota hai, aur domain aapke naam par rehta hai.",
+        "Hamari simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein ready ho jaati hai. Property ya tour business ke liye 299+ page ki SEO website ₹20,000 se shuru hai. Pehle likhit quote milta hai, aapki approval ke baad hi kaam shuru hota hai, aur domain aapke naam par rehta hai.",
     },
     {
       question: "Do you have an office in Goa?",
@@ -259,7 +259,7 @@ const panaji: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. We share a checklist of photos and details at the start, because waiting for them causes most delays.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. We share a checklist of photos and details at the start, because waiting for them causes most delays.",
     },
     {
       question: "What can WhatsApp automation do for a Panaji business?",

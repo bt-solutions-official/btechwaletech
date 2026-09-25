@@ -38,7 +38,7 @@ const raghogarhVijaypur: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first local SEO", "Contractor and vendor profiles", "Everything in your name"],
   },
   quickAnswer:
-    "For Raghogarh-Vijaypur businesses, our websites start at ₹10,000 and a simple one takes one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no local office, and you own all accounts.",
+    "For Raghogarh-Vijaypur businesses, our websites start at ₹10,000 and a simple one takes one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no local office, and you own all accounts.",
   snapshot: [
     { label: "Location", value: "Municipality in Guna district, about 30 km from Guna and roughly 180 km north of Bhopal" },
     { label: "History", value: "Raghogarh state founded in 1673 by Lal Singh Khichi of the Khichi Chauhan clan, who built the Raghogarh fort" },
@@ -128,7 +128,7 @@ const raghogarhVijaypur: CityContent = {
       paragraphs: [
         "Local searches here are mostly on phones and in Hindi, English or a mix: “Raghogarh mein doctor”, “restaurant near Vijaypur township”, “PG near JUET”. The town is also written as Raghogarh, Vijaypur and Vijaipur, and good pages use these variants naturally rather than stuffing them.",
         "Our <strong>SEO services in Raghogarh</strong> start with the Google Business Profile: correct category, hours, photographs, service areas across the town, township and nearby villages, and an accurate pin. Then we build pages around the questions your customers ask, keep name, address and phone number consistent everywhere, and help you request genuine reviews.",
-        "For businesses aiming wider, such as coaching centres with online batches or contractors seeking work across Madhya Pradesh, we build topic pages that answer broader searches. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. Monthly SEO starts at ₹10,000 a month; more on our <a href=\"/services/seo-services/\">SEO services</a> page.",
+        "For businesses aiming wider, such as coaching centres with online batches or contractors seeking work across Madhya Pradesh, we build topic pages that answer broader searches. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Monthly SEO starts at ₹10,000 a month; more on our <a href=\"/services/seo-services/\">SEO services</a> page.",
         "Nobody can honestly promise first position on Google, and we do not. We promise correct foundations, regular additions and plain reporting of calls and enquiries.",
       ],
     },
@@ -156,7 +156,7 @@ const raghogarhVijaypur: CityContent = {
       id: "website-cost-raghogarh",
       heading: "Website cost in Raghogarh-Vijaypur and how to compare quotes",
       paragraphs: [
-        "The <strong>website cost in Raghogarh-Vijaypur</strong> depends on what you need. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 700+ pages starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom software at ₹60,000, and Android and iOS apps and AI automation at ₹40,000.",
+        "The <strong>website cost in Raghogarh-Vijaypur</strong> depends on what you need. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 299+ pages starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom software at ₹60,000, and Android and iOS apps and AI automation at ₹40,000.",
         "Local quotes vary widely. Compare the number of pages, who writes the Hindi content, whether the domain and hosting are in your name, how many revisions are included, what support follows launch and what the second-year renewal will cost.",
         "Our itemised quote usually arrives in about two working days, and nothing is billed before your written approval. Every figure is a starting price that rises only with features you choose. The full list is on the <a href=\"/pricing/\">pricing page</a>.",
         "On a tight budget, begin with a small website and a correct Google listing, and add software or an app once the need is clear.",
@@ -219,7 +219,7 @@ const raghogarhVijaypur: CityContent = {
     {
       question: "What is the website cost in Raghogarh-Vijaypur?",
       answer:
-        "A static website of up to 100 pages starts at ₹10,000 with us and takes one to two weeks. An SEO website of 700+ pages starts at ₹20,000 and an online store at ₹50,000. These are starting prices; the written quote lists every part and increases only with the features you select.",
+        "A static website of up to 100 pages starts at ₹10,000 with us and takes one to two weeks. An SEO website of 299+ pages starts at ₹20,000 and an online store at ₹50,000. These are starting prices; the written quote lists every part and increases only with the features you select.",
     },
     {
       question: "Which is the best IT services team in Raghogarh for a website?",
@@ -254,7 +254,7 @@ const raghogarhVijaypur: CityContent = {
     {
       question: "Raghogarh me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein ban jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Likhit quote lagbhag do working din mein aata hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein ban jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Likhit quote lagbhag do working din mein aata hai.",
     },
     {
       question: "What can AI or WhatsApp automation do for me?",

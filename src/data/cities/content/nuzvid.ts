@@ -40,7 +40,7 @@ const nuzvid: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu local SEO", "Mango season order tools", "Your domain, your code"],
   },
   quickAnswer:
-    "For a Nuzvid business, a website with us starts at ₹10,000 and typically goes live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team, have no Nuzvid office, and you own everything we build.",
+    "For a Nuzvid business, a website with us starts at ₹10,000 and typically goes live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team, have no Nuzvid office, and you own everything we build.",
   snapshot: [
     { label: "Location", value: "Mandal and revenue division headquarters in Eluru district (earlier part of Krishna district)" },
     { label: "Civic status", value: "Municipality since 1983, spread over roughly 28.7 sq km" },
@@ -149,7 +149,7 @@ const nuzvid: CityContent = {
       id: "website-cost-nuzvid",
       heading: "Website cost in Nuzvid: starting prices and what changes the quote",
       paragraphs: [
-        "The question we hear most is how much a website costs in Nuzvid. Our static websites of up to 100 pages start at ₹10,000 and take one to two weeks. SEO websites of 700+ pages, built to rank for many varieties, villages or services, start at ₹20,000 and take three to five weeks. Android and iOS apps start at ₹40,000, and AI automation starts at ₹40,000.",
+        "The question we hear most is how much a website costs in Nuzvid. Our static websites of up to 100 pages start at ₹10,000 and take one to two weeks. SEO websites of 299+ pages, built to rank for many varieties, villages or services, start at ₹20,000 and take three to five weeks. Android and iOS apps start at ₹40,000, and AI automation starts at ₹40,000.",
         "Online stores start at ₹50,000 and take four to eight weeks, while custom web apps and business software start at ₹60,000 and take six to twelve weeks. Monthly SEO starts at ₹10,000. After launch you get five months of free maintenance, and ongoing maintenance starts at ₹8,000 a month.",
         "Local quotes vary widely, so compare like with like: who owns the domain, whether Telugu content is included, how many revisions you get, what happens after launch and whether the code is handed over. Our quote arrives itemised in about two working days, and nothing is billed before you approve it. Full details sit on our <a href=\"/pricing/\">pricing</a> page.",
       ],
@@ -211,7 +211,7 @@ const nuzvid: CityContent = {
     {
       question: "What is the website cost in Nuzvid?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices only. Your final quote depends on pages, Telugu content, products and integrations, and it arrives itemised in writing before anything is billed.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices only. Your final quote depends on pages, Telugu content, products and integrations, and it arrives itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Nuzvid businesses?",

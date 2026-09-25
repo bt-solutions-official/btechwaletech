@@ -34,7 +34,7 @@ const amravati: CityContent = {
     pills: ["Sites from ₹10,000", "Marathi, Hindi and English pages", "Textile catalogues", "Google Maps setup", "WhatsApp replies"],
   },
   quickAnswer:
-    "For Amravati businesses we build static websites from ₹10,000 in one to two weeks, 700+ page SEO websites from ₹20,000, online stores from ₹50,000 and custom web apps from ₹60,000. We are a remote team with no Amravati office, we reply on WhatsApp every day, and the first five months of maintenance after launch are free.",
+    "For Amravati businesses we build static websites from ₹10,000 in one to two weeks, 299+ page SEO websites from ₹20,000, online stores from ₹50,000 and custom web apps from ₹60,000. We are a remote team with no Amravati office, we reply on WhatsApp every day, and the first five months of maintenance after launch are free.",
   snapshot: [
     { label: "Commercial core", value: "Rajkamal Chowk, Jaistambh Chowk, Gandhi Chowk, Jawahar Road and the Itwara Bazaar area" },
     { label: "Industrial base", value: "Additional Amravati Industrial Area (MIDC) at Nandgaon Peth, with a textile park and the PM MITRA park site next to it" },
@@ -72,7 +72,7 @@ const amravati: CityContent = {
       heading: "What a website costs in Amravati, and why quotes vary so much",
       paragraphs: [
         "Ask five people in Amravati for a website price and you will hear anything from ₹3,000 to ₹50,000. The low figure is usually a template with your name on it, no search setup and hosting that sits in the designer's account. The high figure sometimes pays for sales visits and an office you don't need. Neither tells you what you actually get.",
-        "Our figures are fixed starting points. A static site with up to 100 pages starts at ₹10,000 and is ready in one to two weeks; this suits a clinic, a CA practice, a tuition class or a single shop. A 700+ page SEO site starts at ₹20,000 and takes three to five weeks, which fits a textile unit with several product lines or a school with many departments. Online stores start at ₹50,000, automation projects at ₹40,000, and portals or custom web apps at ₹60,000.",
+        "Our figures are fixed starting points. A static site with up to 100 pages starts at ₹10,000 and is ready in one to two weeks; this suits a clinic, a CA practice, a tuition class or a single shop. A 299+ page SEO site starts at ₹20,000 and takes three to five weeks, which fits a textile unit with several product lines or a school with many departments. Online stores start at ₹50,000, automation projects at ₹40,000, and portals or custom web apps at ₹60,000.",
         "The full breakdown is on our <a href=\"/pricing/\">pricing page</a>. Your quote names every page and feature so you can compare it line by line with anyone else's offer.",
       ],
       list: [
@@ -208,12 +208,12 @@ const amravati: CityContent = {
     {
       question: "How much does a website cost in Amravati?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web app such as a dealer portal at ₹60,000. A clinic or tuition class usually fits the first option and a textile unit the second. You receive an itemised quote first and pay nothing until you approve it in writing.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web app such as a dealer portal at ₹60,000. A clinic or tuition class usually fits the first option and a textile unit the second. You receive an itemised quote first and pay nothing until you approve it in writing.",
     },
     {
       question: "Amravati madhye website banvayla kiti kharcha yeto?",
       answer:
-        "Aamchyakade sadhi website ₹10,000 pasun suru hote ani ek te don aathavdyat tayar hote. 700+ pages chi SEO website ₹20,000 pasun, online store ₹50,000 pasun ani custom software ₹60,000 pasun aahe. Kaam suru karnyapurvi tumhala lekhi quote milto, ani manjuri shivay kahihi bill kela jaat nahi.",
+        "Aamchyakade sadhi website ₹10,000 pasun suru hote ani ek te don aathavdyat tayar hote. 299+ pages chi SEO website ₹20,000 pasun, online store ₹50,000 pasun ani custom software ₹60,000 pasun aahe. Kaam suru karnyapurvi tumhala lekhi quote milto, ani manjuri shivay kahihi bill kela jaat nahi.",
     },
     {
       question: "Do you have an office in Amravati?",

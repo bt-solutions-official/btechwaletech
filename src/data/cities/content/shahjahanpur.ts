@@ -34,7 +34,7 @@ const shahjahanpur: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi and Urdu-friendly pages", "Zari catalogue stores", "Google Maps help", "WhatsApp automation"],
   },
   quickAnswer:
-    "A Shahjahanpur business website costs from ₹10,000 with us, and a 700+ page SEO site from ₹20,000, delivered in one to five weeks. Online stores start at ₹50,000. We are a remote team of three engineers and have no office in Shahjahanpur. Every project includes hosting setup, SEO basics and five months of free maintenance.",
+    "A Shahjahanpur business website costs from ₹10,000 with us, and a 299+ page SEO site from ₹20,000, delivered in one to five weeks. Online stores start at ₹50,000. We are a remote team of three engineers and have no office in Shahjahanpur. Every project includes hosting setup, SEO basics and five months of free maintenance.",
   snapshot: [
     { label: "Location", value: "Rohilkhand region between Bareilly and Lucknow, on NH 30 and the Lucknow–Moradabad railway line" },
     { label: "Heritage craft", value: "Zari and zardozi embroidery, promoted as the district's One District One Product" },
@@ -72,12 +72,12 @@ const shahjahanpur: CityContent = {
       heading: "Website charges in Shahjahanpur, with no hidden parts",
       paragraphs: [
         "Ask around Shahjahanpur and you will hear website prices anywhere from ₹2,500 to ₹50,000. The low figure usually buys a template on the developer's hosting, with no Google setup and no support. The high figure may pay for an agency in Lucknow or Delhi and its sales team. Neither tells you what you are really getting.",
-        "Our starting prices are published. A static site of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. A 700+ page SEO website, with separate pages for each service and each town you serve, starts at ₹20,000 and takes three to five weeks. Online shops start at ₹50,000, automation at ₹40,000 and custom web applications at ₹60,000. Monthly SEO is from ₹10,000. Our <a href=\"/pricing/\">pricing page</a> lists what each includes.",
+        "Our starting prices are published. A static site of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO website, with separate pages for each service and each town you serve, starts at ₹20,000 and takes three to five weeks. Online shops start at ₹50,000, automation at ₹40,000 and custom web applications at ₹60,000. Monthly SEO is from ₹10,000. Our <a href=\"/pricing/\">pricing page</a> lists what each includes.",
         "After a short conversation you get an itemised quote within about two working days, listing each page and feature. You can remove anything you do not need. Nothing is billed until you approve the quote in writing.",
       ],
       list: [
         "<strong>Starting ₹10,000:</strong> a site of up to 100 pages for a doctor, school, coaching centre, shop or advocate.",
-        "<strong>Starting ₹20,000:</strong> 700+ pages covering services and nearby towns like Tilhar and Powayan.",
+        "<strong>Starting ₹20,000:</strong> 299+ pages covering services and nearby towns like Tilhar and Powayan.",
         "<strong>Starting ₹50,000:</strong> online shop for zari work, bridal wear or food products with UPI.",
         "<strong>Starting ₹60,000:</strong> dealer, stock and credit management systems.",
       ],
@@ -217,7 +217,7 @@ const shahjahanpur: CityContent = {
     {
       question: "How much does a website cost in Shahjahanpur?",
       answer:
-        "With us, a static business website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online shop at ₹50,000 and a custom web application at ₹60,000. The final amount depends on pages, features and content, and you see an itemised quote before any payment.",
+        "With us, a static business website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online shop at ₹50,000 and a custom web application at ₹60,000. The final amount depends on pages, features and content, and you see an itemised quote before any payment.",
     },
     {
       question: "Shahjahanpur me dukaan ki website kitne rupaye me banegi?",
@@ -252,7 +252,7 @@ const shahjahanpur: CityContent = {
     {
       question: "How long does it take to make a website?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online shop four to eight weeks and a custom application six to twelve weeks. Most delays come from waiting for photos and details, so we write draft text you can correct.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online shop four to eight weeks and a custom application six to twelve weeks. Most delays come from waiting for photos and details, so we write draft text you can correct.",
     },
     {
       question: "What can WhatsApp automation do for my business?",

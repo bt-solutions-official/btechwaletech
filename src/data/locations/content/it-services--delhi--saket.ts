@@ -184,7 +184,7 @@ const content: CityContent = {
       id: "cost-timeline-saket",
       heading: "What does a software development team in Saket charge, and how long do projects take?",
       paragraphs: [
-        "With BtechWaleTech, Saket projects start at ₹10,000 for a brand website (one to two weeks), ₹20,000 for a 700+ page SEO website (three to five weeks), ₹40,000 for an AI concierge (two to four weeks), ₹40,000 for an Android and iOS app (six to ten weeks), ₹50,000 for a D2C store (four to eight weeks) and ₹60,000 for booking, membership or venue software (six to twelve weeks).",
+        "With BtechWaleTech, Saket projects start at ₹10,000 for a brand website (one to two weeks), ₹20,000 for a 299+ page SEO website (three to five weeks), ₹40,000 for an AI concierge (two to four weeks), ₹40,000 for an Android and iOS app (six to ten weeks), ₹50,000 for a D2C store (four to eight weeks) and ₹60,000 for booking, membership or venue software (six to twelve weeks).",
         "Costs rise with outlets, integrations, custom design and data migration. We itemise quotes so you can launch the essentials first. Payment is in INR only, by UPI through our QR code or by direct bank transfer to our bank account, split into milestones.",
         "Plan around seasons: wedding venues should launch before the season opens, gyms before the New Year rush, restaurants before the winter dining peak and gifting brands before Diwali. Give us your date and we will plan backwards, or tell you honestly if it is too tight.",
       ],

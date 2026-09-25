@@ -40,7 +40,7 @@ const muktsar: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Punjabi and English SEO", "Jutti and kurta stores", "Accounts in your name"],
   },
   quickAnswer:
-    "In Sri Muktsar Sahib, a business website with us starts at ₹10,000 and is ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, SEO websites of 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely, have no Muktsar office, and you own everything.",
+    "In Sri Muktsar Sahib, a business website with us starts at ₹10,000 and is ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, SEO websites of 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely, have no Muktsar office, and you own everything.",
   snapshot: [
     { label: "Status", value: "Headquarters of Sri Muktsar Sahib district, formed in November 1995" },
     { label: "Population", value: "About 1.17 lakh in the 2011 Census" },
@@ -162,7 +162,7 @@ const muktsar: CityContent = {
       id: "website-cost-muktsar",
       heading: "Website cost in Muktsar: starting prices and how quotes are built",
       paragraphs: [
-        "Our starting prices for Sri Muktsar Sahib are public. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000 over three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO begins at ₹10,000 a month.",
+        "Our starting prices for Sri Muktsar Sahib are public. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000 over three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO begins at ₹10,000 a month.",
         "The quote rises with scope: more pages, Punjabi and English versions, big product ranges, logins, payment and courier setup, or connection to Tally or Busy. If you provide text and photographs, the cost stays near the starting figure; content writing and photo editing are separate lines.",
         "Local quotes vary widely. Compare them by asking whose name the domain and hosting will be in, whether mobile testing and basic SEO are included, how many revision rounds you get, and who handles problems after launch. See our <a href=\"/pricing/\">pricing page</a>; your written quote usually arrives within two working days.",
       ],
@@ -214,7 +214,7 @@ const muktsar: CityContent = {
     {
       question: "What is the website cost in Muktsar?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final amount depends on pages, Punjabi content, products and integrations. You receive an itemised written quote before anything is billed.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final amount depends on pages, Punjabi content, products and integrations. You receive an itemised written quote before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Muktsar businesses?",
@@ -224,7 +224,7 @@ const muktsar: CityContent = {
     {
       question: "How fast can a Muktsar shop get a website?",
       answer:
-        "A static website usually goes live in one to two weeks after we receive your text and photos. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Ready content is what speeds things up most.",
+        "A static website usually goes live in one to two weeks after we receive your text and photos. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Ready content is what speeds things up most.",
     },
     {
       question: "Who is the best website development team in Sri Muktsar Sahib?",
@@ -254,7 +254,7 @@ const muktsar: CityContent = {
     {
       question: "Muktsar vich website banvaun da kharcha kinna hai?",
       answer:
-        "Saade naal simple website ₹10,000 ton shuru hundi hai te ik-do hafte vich tayyar ho jandi hai. 700+ page SEO website ₹20,000 ton, Android te iOS app ₹40,000 ton, te online store ₹50,000 ton shuru hunda hai. Poora quote likhat vich, har cheez vakhri dass ke milda hai.",
+        "Saade naal simple website ₹10,000 ton shuru hundi hai te ik-do hafte vich tayyar ho jandi hai. 299+ page SEO website ₹20,000 ton, Android te iOS app ₹40,000 ton, te online store ₹50,000 ton shuru hunda hai. Poora quote likhat vich, har cheez vakhri dass ke milda hai.",
     },
     {
       question: "You have no office in Muktsar. Is it safe to work remotely?",

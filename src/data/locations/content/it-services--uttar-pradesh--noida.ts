@@ -140,7 +140,7 @@ const content: CityContent = {
       id: "noida-seo-landing-pages",
       heading: "SEO landing pages and websites for Noida businesses",
       paragraphs: [
-        "SEO landing pages for Noida businesses are fast, focused pages targeting specific searches such as a service plus a sector, a product category or a comparison query, built to rank and convert. BtechWaleTech builds SEO websites of 700+ pages from ₹20,000 and offers monthly SEO from ₹10,000, covering technical fixes, content and Search Console reporting.",
+        "SEO landing pages for Noida businesses are fast, focused pages targeting specific searches such as a service plus a sector, a product category or a comparison query, built to rank and convert. BtechWaleTech builds SEO websites of 299+ pages from ₹20,000 and offers monthly SEO from ₹10,000, covering technical fixes, content and Search Console reporting.",
         "Search in Noida is intensely local and sector-based. People look for a physiotherapist in Sector 50, a coworking space near Sector 62 metro or interior designers for Sector 150 flats. B2B buyers search by product and capability. A well-planned page set with unique, useful content for each sector or service beats a single generic homepage every time.",
         "We build on Astro or Next.js for speed, add schema markup, internal linking and answer-first content that AI Overviews and assistants can quote. We never promise guaranteed rankings or buy links. See our <a href=\"/services/seo-services/\">SEO services</a> and <a href=\"/services/web-development/\">web development</a> pages, or the <a href=\"/noida/\">Noida website design page</a> if a website is all you need.",
       ],
@@ -158,12 +158,12 @@ const content: CityContent = {
       id: "noida-cost-guide",
       heading: "What does software development cost in Noida?",
       paragraphs: [
-        "Software development in Noida with BtechWaleTech starts at ₹60,000 for a custom web app or SaaS MVP, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for ecommerce, ₹20,000 for a 700+ page SEO website and ₹10,000 for a static website. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after five free months.",
+        "Software development in Noida with BtechWaleTech starts at ₹60,000 for a custom web app or SaaS MVP, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for ecommerce, ₹20,000 for a 299+ page SEO website and ₹10,000 for a static website. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after five free months.",
         "Costs rise with user roles, integrations, real-time features, complex permissions and data migration. An internal tool for one team sits near the starting price; a multi-tenant SaaS with billing, analytics and a mobile app costs more. You get an itemised quote within about two working days, with assumptions spelled out, and you can trim scope line by line. Full plan details are on our <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [
         "Static website: from ₹10,000, one to two weeks",
-        "SEO website (700+ pages): from ₹20,000, three to five weeks",
+        "SEO website (299+ pages): from ₹20,000, three to five weeks",
         "AI automation or agent: from ₹40,000, two to four weeks",
         "Android and iOS app: from ₹40,000, six to ten weeks",
         "Web app, SaaS MVP or custom software: from ₹60,000, six to twelve weeks",

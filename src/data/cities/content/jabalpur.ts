@@ -35,7 +35,7 @@ const jabalpur: CityContent = {
     pills: ["Sites from ₹10,000", "Garment catalogues", "Tourism booking pages", "Hindi and English SEO", "5 months free maintenance"],
   },
   quickAnswer:
-    "In Jabalpur, our websites start at ₹10,000 for a static business site and ₹20,000 for a 700+ page SEO site, with online stores from ₹50,000 and custom web apps from ₹60,000. We are a remote team of three engineers without a local office. Each project includes hosting in your name, SEO basics and five months of free maintenance.",
+    "In Jabalpur, our websites start at ₹10,000 for a static business site and ₹20,000 for a 299+ page SEO site, with online stores from ₹50,000 and custom web apps from ₹60,000. We are a remote team of three engineers without a local office. Each project includes hosting in your name, SEO basics and five months of free maintenance.",
   snapshot: [
     { label: "Markets and business areas", value: "Wright Town, Napier Town, Civil Lines, Sadar, Bada Fuhara and Kamania Gate" },
     { label: "Defence manufacturing", value: "Gun Carriage Factory, Ordnance Factory Khamaria, Vehicle Factory Jabalpur and Grey Iron Foundry" },
@@ -73,12 +73,12 @@ const jabalpur: CityContent = {
       heading: "How much does a website cost in Jabalpur?",
       paragraphs: [
         "In Jabalpur you might be offered a website for ₹2,500 by a freelancer or for ₹40,000 or more by an agency. Neither number tells you much on its own. The cheap version often uses a shared template, skips SEO and keeps the domain in the developer's account. The expensive version may include extras you don't need and an office you are paying for indirectly.",
-        "Our prices are published and apply equally in Jabalpur and everywhere else. A static website of up to 100 pages starts at ₹10,000 and suits clinics, tutors, consultants, advocates and small shops; it is usually ready in one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks, giving each product line, service or area its own page. Online stores start at ₹50,000, custom web applications at ₹60,000, automation projects at ₹40,000 and monthly SEO at ₹10,000.",
+        "Our prices are published and apply equally in Jabalpur and everywhere else. A static website of up to 100 pages starts at ₹10,000 and suits clinics, tutors, consultants, advocates and small shops; it is usually ready in one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks, giving each product line, service or area its own page. Online stores start at ₹50,000, custom web applications at ₹60,000, automation projects at ₹40,000 and monthly SEO at ₹10,000.",
         "For garment manufacturers with large ranges, or tour operators with many packages, the amount of content drives the cost. We can work from spreadsheets and photo folders to keep that manageable. You receive an itemised quote, normally within two working days, and no payment is taken until you approve it in writing. The full list is on our <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [
         "<strong>₹10,000 and up:</strong> business site of up to 100 pages with form, map, mobile layout and SEO basics.",
-        "<strong>₹20,000 and up:</strong> SEO site of 700+ pages built around real search terms.",
+        "<strong>₹20,000 and up:</strong> SEO site of 299+ pages built around real search terms.",
         "<strong>₹50,000 and up:</strong> online store with UPI, cards, order emails and shipping rules.",
         "<strong>₹60,000 and up:</strong> custom portals, order systems and dashboards with logins.",
       ],
@@ -209,7 +209,7 @@ const jabalpur: CityContent = {
     {
       question: "How much does a website cost in Jabalpur?",
       answer:
-        "With us, a static business website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Local quotes in Jabalpur vary widely, so compare who owns the domain, what SEO is included and what support comes after launch, not just the headline price.",
+        "With us, a static business website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Local quotes in Jabalpur vary widely, so compare who owns the domain, what SEO is included and what support comes after launch, not just the headline price.",
     },
     {
       question: "Jabalpur me garment business ki website kitne me banegi?",

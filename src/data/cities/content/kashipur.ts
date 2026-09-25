@@ -35,7 +35,7 @@ const kashipur: CityContent = {
     pills: ["Sites from ₹10,000", "Vendor and RFQ pages", "Hindi and English", "Plant records software", "WhatsApp lead routing"],
   },
   quickAnswer:
-    "Kashipur businesses can get a website from ₹10,000, typically live in one to two weeks. SEO sites of 700+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom software for plants or institutes at ₹60,000. We are a remote team with no Kashipur office, and five months of maintenance come free.",
+    "Kashipur businesses can get a website from ₹10,000, typically live in one to two weeks. SEO sites of 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom software for plants or institutes at ₹60,000. We are a remote team with no Kashipur office, and five months of maintenance come free.",
   snapshot: [
     { label: "District", value: "Udham Singh Nagar, in the Terai plains of Kumaon, Uttarakhand" },
     { label: "Population", value: "About 1.22 lakh in the city and 2.83 lakh in the tehsil (Census 2011)" },
@@ -109,12 +109,12 @@ const kashipur: CityContent = {
       heading: "How much a Kashipur website costs",
       paragraphs: [
         "Owners in Kashipur hear quotes from a few thousand rupees to lakhs. The cheapest usually leaves the domain in someone else's name and skips search setup; the costliest often pays for a big agency's overheads. Our starting prices are public so you can compare properly.",
-        "A static site of up to 100 pages starts at <strong>₹10,000</strong> and takes one to two weeks. A search-led site of 700+ pages, useful for a plant with many grades or a coaching institute with a page per course and exam, starts at <strong>₹20,000</strong> and takes three to five weeks. WhatsApp and AI automation begins at <strong>₹40,000</strong>, online stores at <strong>₹50,000</strong> and custom software at <strong>₹60,000</strong>. Monthly SEO is from ₹10,000. See our <a href=\"/pricing/\">pricing page</a> for more.",
+        "A static site of up to 100 pages starts at <strong>₹10,000</strong> and takes one to two weeks. A search-led site of 299+ pages, useful for a plant with many grades or a coaching institute with a page per course and exam, starts at <strong>₹20,000</strong> and takes three to five weeks. WhatsApp and AI automation begins at <strong>₹40,000</strong>, online stores at <strong>₹50,000</strong> and custom software at <strong>₹60,000</strong>. Monthly SEO is from ₹10,000. See our <a href=\"/pricing/\">pricing page</a> for more.",
         "Every number is a starting point. Product counts, languages, integrations and login areas raise the figure, and the quote explains each item so there are no surprises later.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> company or shop site with enquiry form, map and WhatsApp button.",
-        "<strong>From ₹20,000:</strong> 700+ page site for product grades, courses or service areas.",
+        "<strong>From ₹20,000:</strong> 299+ page site for product grades, courses or service areas.",
         "<strong>From ₹50,000:</strong> online store with UPI, cards and shipping rules.",
         "<strong>From ₹60,000:</strong> plant, dispatch or institute software built to your process.",
       ],
@@ -134,7 +134,7 @@ const kashipur: CityContent = {
       heading: "Schools, coaching institutes and the IIM effect",
       paragraphs: [
         "Kashipur has long been an education centre for the surrounding Terai, with schools affiliated to different boards and coaching centres preparing students for board exams, JEE, NEET, defence entrances and government jobs. IIM Kashipur added a national institution and a steady flow of visitors, faculty and students.",
-        "For schools, parents want the board, classes, fee structure, transport routes, facilities, staff details and a way to apply without visiting the office twice. Coaching institutes need batch timings, faculty profiles, fee plans, results they can prove and a demo class request that reaches the counsellor on WhatsApp. A 700+ page site can hold a page for each course, exam and class level.",
+        "For schools, parents want the board, classes, fee structure, transport routes, facilities, staff details and a way to apply without visiting the office twice. Coaching institutes need batch timings, faculty profiles, fee plans, results they can prove and a demo class request that reaches the counsellor on WhatsApp. A 299+ page site can hold a page for each course, exam and class level.",
         "Institutes that want more can add a small student portal for notes, attendance, test results and fee reminders. These portals start from ₹60,000. We keep result claims honest; if a figure cannot be verified, we leave it out.",
       ],
     },
@@ -238,12 +238,12 @@ const kashipur: CityContent = {
     {
       question: "What does a website cost in Kashipur?",
       answer:
-        "Business websites start from ₹10,000, 700+ page SEO sites from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. The quote grows with product counts, languages and features. Before choosing anyone, check that the domain will be in your name and that support after launch is included.",
+        "Business websites start from ₹10,000, 299+ page SEO sites from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. The quote grows with product counts, languages and features. Before choosing anyone, check that the domain will be in your name and that support after launch is included.",
     },
     {
       question: "Kashipur mein factory ki website banwane ka kharcha kitna hai?",
       answer:
-        "Simple company website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein ban jaati hai. Zyada products ya grades wali 700+ page site ₹20,000 se shuru hoti hai. Pehle har item ke saath likhit quote bhejte hain, aapki manzoori ke baad hi kaam aur billing shuru hoti hai.",
+        "Simple company website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein ban jaati hai. Zyada products ya grades wali 299+ page site ₹20,000 se shuru hoti hai. Pehle har item ke saath likhit quote bhejte hain, aapki manzoori ke baad hi kaam aur billing shuru hoti hai.",
     },
     {
       question: "Do you have an office in Kashipur?",
@@ -273,7 +273,7 @@ const kashipur: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "Static sites take one to two weeks, 700+ page SEO sites three to five, online stores four to eight and custom software six to twelve. Delays usually come from waiting for photos and product details, so we send a checklist on day one.",
+        "Static sites take one to two weeks, 299+ page SEO sites three to five, online stores four to eight and custom software six to twelve. Delays usually come from waiting for photos and product details, so we send a checklist on day one.",
     },
     {
       question: "What can WhatsApp automation handle?",

@@ -35,7 +35,7 @@ const agra: CityContent = {
     pills: ["Websites from ₹10,000", "Direct bookings for hotels", "Footwear export catalogues", "Hindi and English SEO", "WhatsApp enquiry automation"],
   },
   quickAnswer:
-    "In Agra, our business websites start at ₹10,000 and go live in one to two weeks, while a 700+ page SEO site suited to hotels, tour operators or exporters starts at ₹20,000. Online stores start at ₹50,000. We are a remote three-engineer team with no local office, and five months of maintenance are free after launch.",
+    "In Agra, our business websites start at ₹10,000 and go live in one to two weeks, while a 299+ page SEO site suited to hotels, tour operators or exporters starts at ₹20,000. Online stores start at ₹50,000. We are a remote three-engineer team with no local office, and five months of maintenance are free after launch.",
   snapshot: [
     { label: "Tourism belt", value: "Taj Mahal, Agra Fort and Fatehpur Sikri, with hotels clustered along Fatehabad Road and in Tajganj" },
     { label: "Footwear trade", value: "Hing Ki Mandi, Sadar Bhatti, Moti Katra and Shahganj, with component units in Foundry Nagar and Sikandra" },
@@ -73,12 +73,12 @@ const agra: CityContent = {
       heading: "How much does a website cost in Agra?",
       paragraphs: [
         "Prices for websites in Agra vary enormously. A shop owner might be offered a site for ₹2,000 by a local operator, while a hotel is quoted ₹70,000 by an agency in Delhi. The cheap offer usually means a copied template, no SEO work and a domain that belongs to the developer. The expensive one often includes a lot of overhead that has nothing to do with your website.",
-        "We work from published starting prices. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks, which suits a clinic, guide, lawyer or small shop. A 700+ page SEO site starts at ₹20,000 over three to five weeks, and fits hotels, tour operators and exporters who need a page per room, tour or product line. An online store starts at ₹50,000 over four to eight weeks. Custom applications like booking engines or dealer portals start at ₹60,000 and take six to twelve weeks. Automation starts at ₹40,000 and monthly SEO at ₹10,000.",
+        "We work from published starting prices. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks, which suits a clinic, guide, lawyer or small shop. A 299+ page SEO site starts at ₹20,000 over three to five weeks, and fits hotels, tour operators and exporters who need a page per room, tour or product line. An online store starts at ₹50,000 over four to eight weeks. Custom applications like booking engines or dealer portals start at ₹60,000 and take six to twelve weeks. Automation starts at ₹40,000 and monthly SEO at ₹10,000.",
         "Multilingual sites cost a little more because every page needs a translation that reads naturally, not a machine version. You will see that line clearly in the quote. We send the itemised quote within about two working days and bill nothing until you approve it.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form, basic SEO. For guides, clinics, professionals and shops.",
-        "<strong>From ₹20,000:</strong> 700+ pages, a page per room, tour or product range, schema and sitemap.",
+        "<strong>From ₹20,000:</strong> 299+ pages, a page per room, tour or product range, schema and sitemap.",
         "<strong>From ₹50,000:</strong> online store with UPI and cards for petha, handicrafts, leather or footwear.",
         "<strong>From ₹60,000:</strong> booking engines, tour builders, dealer portals and order tracking.",
       ],
@@ -209,7 +209,7 @@ const agra: CityContent = {
     {
       question: "How much does a website cost in Agra?",
       answer:
-        "Our prices start at ₹10,000 for a static site, ₹20,000 for a 700+ page SEO site, ₹50,000 for an online store and ₹60,000 for a custom application such as a booking engine. Local quotes range widely, so compare what is included: domain ownership, SEO basics, speed and after-launch support.",
+        "Our prices start at ₹10,000 for a static site, ₹20,000 for a 299+ page SEO site, ₹50,000 for an online store and ₹60,000 for a custom application such as a booking engine. Local quotes range widely, so compare what is included: domain ownership, SEO basics, speed and after-launch support.",
     },
     {
       question: "Agra me hotel ki website banwane me kitna kharcha aata hai?",
@@ -244,7 +244,7 @@ const agra: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom booking or portal application six to twelve weeks. The usual cause of delay is waiting for photos and content, so we provide starter text you can edit.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom booking or portal application six to twelve weeks. The usual cause of delay is waiting for photos and content, so we provide starter text you can edit.",
     },
     {
       question: "Will I own my domain and website?",

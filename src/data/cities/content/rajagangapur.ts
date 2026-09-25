@@ -39,7 +39,7 @@ const rajagangapur: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Odia, Hindi and English pages", "Vendor profile and RFQ sites", "Domain and code in your name"],
   },
   quickAnswer:
-    "A Rajgangpur business can get a website from us starting at ₹10,000, usually live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and you own everything.",
+    "A Rajgangpur business can get a website from us starting at ₹10,000, usually live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and you own everything.",
   snapshot: [
     { label: "Location", value: "Sundargarh district, about 38 km west of Rourkela and 63 km east of Sundargarh town" },
     { label: "Population", value: "About 51,000 at the 2011 Census" },
@@ -163,7 +163,7 @@ const rajagangapur: CityContent = {
       ],
       list: [
         "Static business website, up to 100 pages: from ₹10,000, usually one to two weeks",
-        "SEO website with 700+ pages for wide product, service or area coverage: from ₹20,000, three to five weeks",
+        "SEO website with 299+ pages for wide product, service or area coverage: from ₹20,000, three to five weeks",
         "Android and iOS app: from ₹40,000",
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Online store with UPI and card checkout: from ₹50,000, four to eight weeks",
@@ -237,7 +237,7 @@ const rajagangapur: CityContent = {
     {
       question: "What is the website cost in Rajgangpur?",
       answer:
-        "With us, a static business website starts at ₹10,000 and a 700+ page SEO website at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, languages, products and integrations, and it arrives itemised in writing before anything is billed.",
+        "With us, a static business website starts at ₹10,000 and a 299+ page SEO website at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, languages, products and integrations, and it arrives itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Rajgangpur businesses?",
@@ -247,7 +247,7 @@ const rajagangapur: CityContent = {
     {
       question: "How long does it take to build a website for a Rajgangpur shop?",
       answer:
-        "A simple shop or clinic site is usually live one to two weeks after we receive your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The fastest projects are the ones where the owner sends text and photos in the first few days.",
+        "A simple shop or clinic site is usually live one to two weeks after we receive your photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The fastest projects are the ones where the owner sends text and photos in the first few days.",
     },
     {
       question: "Which is the best IT services team in Rajgangpur?",
@@ -287,7 +287,7 @@ const rajagangapur: CityContent = {
     {
       question: "Rajgangpur me website ya app banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein live ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Poora quote aapke pages aur features ke hisaab se likhit mein milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein live ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Poora quote aapke pages aur features ke hisaab se likhit mein milta hai.",
     },
     {
       question: "Can you build software for truck owners and transporters?",

@@ -34,7 +34,7 @@ const udgir: CityContent = {
     pills: ["Sites from ₹10,000", "Marathi and English", "Dal mill catalogues", "Daily rate pages", "WhatsApp all week"],
   },
   quickAnswer:
-    "For Udgir businesses, our websites start from ₹10,000 and usually go live in one to two weeks. A 700+ page SEO site starts from ₹20,000, WhatsApp and AI automation from ₹40,000, an online store for dal or farm products from ₹50,000 and custom software from ₹60,000. We have no Udgir office, work remotely, and maintain each site free for five months.",
+    "For Udgir businesses, our websites start from ₹10,000 and usually go live in one to two weeks. A 299+ page SEO site starts from ₹20,000, WhatsApp and AI automation from ₹40,000, an online store for dal or farm products from ₹50,000 and custom software from ₹60,000. We have no Udgir office, work remotely, and maintain each site free for five months.",
   snapshot: [
     { label: "District", value: "Udgir is a taluka headquarters in Latur district, Marathwada, close to the Karnataka border near Bidar" },
     { label: "Economy", value: "Agriculture and pulses milling, with around 80 dal processing units reported in the area" },
@@ -90,7 +90,7 @@ const udgir: CityContent = {
       heading: "What a website costs in Udgir",
       paragraphs: [
         "Prices quoted in Udgir range from very cheap one-page designs to proposals from Pune or Hyderabad agencies that include costs a small-town business does not need. The cheapest often keep the domain in the designer's name and ignore search entirely. Our starting prices are listed so you can compare offers fairly.",
-        "A static site of up to 100 pages starts from <strong>₹10,000</strong> and typically goes live in one to two weeks. A 700+ page SEO site in Marathi and English begins at <strong>₹20,000</strong> and takes three to five weeks. WhatsApp and AI automation starts at <strong>₹40,000</strong>, online stores with UPI at <strong>₹50,000</strong> and custom software at <strong>₹60,000</strong>. Monthly SEO is available from ₹10,000. Everything is listed on our <a href=\"/pricing/\">pricing page</a>.",
+        "A static site of up to 100 pages starts from <strong>₹10,000</strong> and typically goes live in one to two weeks. A 299+ page SEO site in Marathi and English begins at <strong>₹20,000</strong> and takes three to five weeks. WhatsApp and AI automation starts at <strong>₹40,000</strong>, online stores with UPI at <strong>₹50,000</strong> and custom software at <strong>₹60,000</strong>. Monthly SEO is available from ₹10,000. Everything is listed on our <a href=\"/pricing/\">pricing page</a>.",
         "These are starting points, not final figures. Your quote shows each item separately, so you can see why a dal mill with product sheets in three languages and a stock system costs more than a clinic's five-page site.",
       ],
       list: [
@@ -227,7 +227,7 @@ const udgir: CityContent = {
     {
       question: "How much does a website cost in Udgir?",
       answer:
-        "Our business websites start from ₹10,000, 700+ page SEO sites from ₹20,000, WhatsApp and AI automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. The final quote depends on pages, languages, products and features. When comparing offers, check who owns the domain and what support you get after launch.",
+        "Our business websites start from ₹10,000, 299+ page SEO sites from ₹20,000, WhatsApp and AI automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. The final quote depends on pages, languages, products and features. When comparing offers, check who owns the domain and what support you get after launch.",
     },
     {
       question: "Udgir madhye dal mill sathi website banvayla kiti kharch yeto?",
@@ -262,7 +262,7 @@ const udgir: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "Static sites usually take one to two weeks, 700+ page SEO sites three to five weeks, online stores four to eight weeks and custom software six to twelve weeks. Most delays come from waiting for photos and text, so we draft content for you to correct.",
+        "Static sites usually take one to two weeks, 299+ page SEO sites three to five weeks, online stores four to eight weeks and custom software six to twelve weeks. Most delays come from waiting for photos and text, so we draft content for you to correct.",
     },
     {
       question: "What can WhatsApp automation do for a trader or coaching class?",

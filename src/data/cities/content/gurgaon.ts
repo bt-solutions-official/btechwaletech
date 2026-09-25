@@ -35,7 +35,7 @@ const gurgaon: CityContent = {
     pills: ["Sites from ₹10,000", "Next-gen static builds", "D2C stores with UPI", "SaaS and internal tools", "AI agents and automation"],
   },
   quickAnswer:
-    "In Gurugram, our websites start at ₹10,000 for a static site delivered in one to two weeks, ₹20,000 for a 700+ page SEO build and ₹50,000 for an online store. Custom web apps start at ₹60,000. We are a three-engineer remote team, you keep the domain, hosting and code, and maintenance is free for five months.",
+    "In Gurugram, our websites start at ₹10,000 for a static site delivered in one to two weeks, ₹20,000 for a 299+ page SEO build and ₹50,000 for an online store. Custom web apps start at ₹60,000. We are a three-engineer remote team, you keep the domain, hosting and code, and maintenance is free for five months.",
   snapshot: [
     { label: "Office districts", value: "DLF Cyber City, Golf Course Road, MG Road, Sohna Road and Golf Course Extension Road" },
     { label: "Industrial estates", value: "Udyog Vihar Phases I–VI, one of the older industrial zones in the NCR, and IMT Manesar to the south-west" },
@@ -73,12 +73,12 @@ const gurgaon: CityContent = {
       heading: "How much does a website cost in Gurgaon?",
       paragraphs: [
         "Quotes in Gurugram cover a very wide range. Freelancers on marketplaces will offer templated sites for a few thousand rupees, while established agencies commonly quote lakhs for a corporate site and more again for an app. The difference is usually project management layers, office costs in expensive commercial towers, and sometimes genuinely larger scope. It helps to know what you are actually comparing.",
-        "Our starting prices are published. A static website of up to 100 pages costs from ₹10,000 and takes one to two weeks. A 700+ page SEO site, with separate pages for services, industries and case studies, starts at ₹20,000 over three to five weeks. A D2C store with product catalogue, cart and Razorpay checkout begins at ₹50,000. Custom web applications, including SaaS MVPs, portals and internal tools, start at ₹60,000 and usually take six to twelve weeks. AI automation starts at ₹40,000 and monthly SEO at ₹10,000.",
+        "Our starting prices are published. A static website of up to 100 pages costs from ₹10,000 and takes one to two weeks. A 299+ page SEO site, with separate pages for services, industries and case studies, starts at ₹20,000 over three to five weeks. A D2C store with product catalogue, cart and Razorpay checkout begins at ₹50,000. Custom web applications, including SaaS MVPs, portals and internal tools, start at ₹60,000 and usually take six to twelve weeks. AI automation starts at ₹40,000 and monthly SEO at ₹10,000.",
         "We send an itemised quote, normally within two working days, that lists each page, feature and integration separately. Nothing is billed until you approve it in writing, and if a request falls outside the agreed scope we tell you before doing it, not on the final invoice.",
       ],
       list: [
         "<strong>Landing page or small site, from ₹10,000:</strong> product launches, consultancies, clinics and professionals.",
-        "<strong>SEO content site, from ₹20,000:</strong> 700+ pages for B2B firms and service businesses competing across the NCR.",
+        "<strong>SEO content site, from ₹20,000:</strong> 299+ pages for B2B firms and service businesses competing across the NCR.",
         "<strong>D2C store, from ₹50,000:</strong> catalogue, cart, UPI and card payments, COD rules and order notifications.",
         "<strong>Web app or SaaS MVP, from ₹60,000:</strong> authentication, roles, dashboards, APIs and admin tools.",
       ],
@@ -209,12 +209,12 @@ const gurgaon: CityContent = {
     {
       question: "How much does a website cost in Gurgaon?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO site at ₹20,000, a D2C store at ₹50,000 and a custom web app at ₹60,000. Gurugram agency quotes can be many times higher, often because of project management and office costs. Compare ownership, performance, SEO setup and post-launch support alongside the price.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO site at ₹20,000, a D2C store at ₹50,000 and a custom web app at ₹60,000. Gurugram agency quotes can be many times higher, often because of project management and office costs. Compare ownership, performance, SEO setup and post-launch support alongside the price.",
     },
     {
       question: "Gurgaon me startup ki website aur app kitne me banegi?",
       answer:
-        "Marketing website ₹10,000 se shuru hoti hai aur 700+ pages wali SEO site ₹20,000 se. Android aur iOS app ₹40,000 se banta hai, aur product ka MVP ya dashboard chahiye to custom web app ₹60,000 se shuru hota hai, features ke hisaab se. Har page aur feature ka itemised quote do working days mein mil jata hai.",
+        "Marketing website ₹10,000 se shuru hoti hai aur 299+ pages wali SEO site ₹20,000 se. Android aur iOS app ₹40,000 se banta hai, aur product ka MVP ya dashboard chahiye to custom web app ₹60,000 se shuru hota hai, features ke hisaab se. Har page aur feature ka itemised quote do working days mein mil jata hai.",
     },
     {
       question: "Do you have an office in Gurugram?",

@@ -39,7 +39,7 @@ const nawabganj: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first Google Maps SEO", "Cane and grain trade tools", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Nawabganj business, our websites start at ₹10,000 and a 700+ page SEO site at ₹20,000. Android and iOS apps and AI or WhatsApp automation start at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely, send an itemised quote within about two working days and register everything in your name.",
+    "For a Nawabganj business, our websites start at ₹10,000 and a 299+ page SEO site at ₹20,000. Android and iOS apps and AI or WhatsApp automation start at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely, send an itemised quote within about two working days and register everything in your name.",
   snapshot: [
     { label: "Status", value: "Tehsil and block headquarters in Bareilly district; Nagar Palika Parishad with 39,241 residents in the 2011 census" },
     { label: "Origin", value: "Once called Bijauria; renamed after a market built under Asaf-ud-Daula, Nawab of Oudh, in the late 1700s" },
@@ -158,7 +158,7 @@ const nawabganj: CityContent = {
       id: "website-cost-nawabganj",
       heading: "How much does a website cost in Nawabganj?",
       paragraphs: [
-        "The short answer on <strong>website cost in Nawabganj</strong>: a static site of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks. An SEO website of 700 pages or more, the size a coaching centre or dealer needs to cover every course, product and nearby village, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, an online store at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
+        "The short answer on <strong>website cost in Nawabganj</strong>: a static site of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks. An SEO website of 299 pages or more, the size a coaching centre or dealer needs to cover every course, product and nearby village, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, an online store at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
         "From those starting points, the figure moves only with what you add. Hindi and English versions, a large product list, UPI and card checkout, staff logins, delivery charge tables or a Tally link each become a separate line. If you write your own text and send phone photos, the cost stays close to the starting price; if you want us to write and photograph, that is a line too.",
         "Quotes from designers in Bareilly and beyond vary widely for work that sounds the same. When comparing, ask who registers the domain, whether the site is tested on low-cost phones, whether basic on-page SEO is included, how many rounds of changes are covered and what happens a year later. Our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and your itemised quote arrives in about two working days.",
       ],
@@ -219,7 +219,7 @@ const nawabganj: CityContent = {
     {
       question: "What is the website cost in Nawabganj, Bareilly?",
       answer:
-        "In Nawabganj, our static websites start at ₹10,000 and SEO websites of 700+ pages start at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. These are starting prices; the final amount depends on pages, Hindi content, products and integrations, and you receive it itemised in writing before any billing.",
+        "In Nawabganj, our static websites start at ₹10,000 and SEO websites of 299+ pages start at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. These are starting prices; the final amount depends on pages, Hindi content, products and integrations, and you receive it itemised in writing before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Nawabganj businesses?",
@@ -229,7 +229,7 @@ const nawabganj: CityContent = {
     {
       question: "How long does it take to build a website for a Nawabganj shop?",
       answer:
-        "A simple static website for a Nawabganj shop is usually live within one to two weeks of receiving photos and details. A 700+ page SEO site takes about three to five weeks, an online store four to eight weeks and custom software six to twelve. Projects move fastest when the owner sends content in the first few days.",
+        "A simple static website for a Nawabganj shop is usually live within one to two weeks of receiving photos and details. A 299+ page SEO site takes about three to five weeks, an online store four to eight weeks and custom software six to twelve. Projects move fastest when the owner sends content in the first few days.",
     },
     {
       question: "Which is the best IT services team in Nawabganj for a website or app?",
@@ -254,7 +254,7 @@ const nawabganj: CityContent = {
     {
       question: "Nawabganj me website banwane ka kitna kharcha aata hai?",
       answer:
-        "Nawabganj ke business ke liye hamari simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein taiyaar ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Pura quote likhit mein, har item alag karke milta hai.",
+        "Nawabganj ke business ke liye hamari simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein taiyaar ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Pura quote likhit mein, har item alag karke milta hai.",
     },
     {
       question: "You have no office in Nawabganj. How do I know the work will be done?",

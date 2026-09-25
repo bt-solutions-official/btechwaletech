@@ -83,7 +83,7 @@ const content: CityContent = {
       paragraphs: [
         "A B2B catalogue website for a Salem business is a searchable product listing with specifications, grades, pack sizes and a request-for-quote option, designed for trade buyers rather than retail shoppers. It replaces the PDF catalogue that goes out of date the moment it is shared, and it gives new buyers in other states a reason to trust you.",
         "For sago and starch producers, useful pages list grades, whiteness, moisture and packing options. For silver makers, they show designs by weight range and purity with clear photographs. For textile mills, they list counts, weaves, widths and minimum order quantities. Each product gets its own URL, which also helps search engines index the range.",
-        "Prices can be hidden behind a buyer login when they change daily or differ by customer. Buyers log in, see their own rates and submit an enquiry or order. Static catalogue websites start from ₹10,000 for up to 100 pages, and larger catalogues with 700+ pages start from ₹20,000.",
+        "Prices can be hidden behind a buyer login when they change daily or differ by customer. Buyers log in, see their own rates and submit an enquiry or order. Static catalogue websites start from ₹10,000 for up to 100 pages, and larger catalogues with 299+ pages start from ₹20,000.",
       ],
       list: [
         "Product pages with grade, specification, pack size and photographs",
@@ -212,7 +212,7 @@ const content: CityContent = {
       ],
       list: [
         "Catalogue or business website, up to 100 pages: from ₹10,000, one to two weeks",
-        "SEO website with 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website with 299+ pages: from ₹20,000, three to five weeks",
         "WhatsApp and AI automation: from ₹40,000, two to four weeks",
         "Android and iOS app: from ₹40,000, six to ten weeks",
         "Online store: from ₹50,000, four to eight weeks",

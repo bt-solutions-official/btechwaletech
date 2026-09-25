@@ -39,7 +39,7 @@ const sillod: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Marathi-first Google Maps SEO", "Trader and Sarafa software", "Domain and code in your name"],
   },
   quickAnswer:
-    "For Sillod businesses, we build static websites from ₹10,000 (ready in one to two weeks), 700+ page SEO websites from ₹20,000, Android and iOS apps from ₹40,000, AI and WhatsApp automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. We are a remote team with no Sillod office, and you own everything we build.",
+    "For Sillod businesses, we build static websites from ₹10,000 (ready in one to two weeks), 299+ page SEO websites from ₹20,000, Android and iOS apps from ₹40,000, AI and WhatsApp automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. We are a remote team with no Sillod office, and you own everything we build.",
   snapshot: [
     { label: "Location", value: "Taluka headquarters in Chhatrapati Sambhajinagar (Aurangabad) district, about 65 km north-east of the district city" },
     { label: "Highway", value: "On NH 753F between Chhatrapati Sambhajinagar and Jalgaon, with the Ajanta caves roughly 40 km to the north" },
@@ -142,7 +142,7 @@ const sillod: CityContent = {
       ],
       list: [
         "Static website, up to 100 pages: from ₹10,000, one to two weeks",
-        "SEO website, 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website, 299+ pages: from ₹20,000, three to five weeks",
         "Android and iOS app: from ₹40,000",
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Online store: from ₹50,000, four to eight weeks",
@@ -244,7 +244,7 @@ const sillod: CityContent = {
     {
       question: "How much does a website cost in Sillod?",
       answer:
-        "A static website for a Sillod business starts at ₹10,000 with us and is usually ready in one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Each figure is a starting price; your written, itemised quote depends on pages, languages and features you choose.",
+        "A static website for a Sillod business starts at ₹10,000 with us and is usually ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Each figure is a starting price; your written, itemised quote depends on pages, languages and features you choose.",
     },
     {
       question: "Do you build Android and iOS apps for Sillod businesses?",
@@ -254,7 +254,7 @@ const sillod: CityContent = {
     {
       question: "How long does a website take for a shop in Sillod?",
       answer:
-        "A simple static site for a Sillod shop is normally live one to two weeks after we receive your photographs and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content within the first few days.",
+        "A simple static site for a Sillod shop is normally live one to two weeks after we receive your photographs and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content within the first few days.",
     },
     {
       question: "Which is the best website development team in Sillod?",
@@ -279,7 +279,7 @@ const sillod: CityContent = {
     {
       question: "Sillod me website banwane ka kharcha kitna hai?",
       answer:
-        "Sillod ke liye hamari static website ₹10,000 se shuru hoti hai aur aam taur par ek se do hafte mein taiyaar ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapke pages aur features dekhkar likhit quote lagbhag do working days mein milta hai.",
+        "Sillod ke liye hamari static website ₹10,000 se shuru hoti hai aur aam taur par ek se do hafte mein taiyaar ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapke pages aur features dekhkar likhit quote lagbhag do working days mein milta hai.",
     },
     {
       question: "You have no office in Sillod. How does remote work protect me?",

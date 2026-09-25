@@ -43,7 +43,7 @@ const content: CityContent = {
     pills: ["Websites from ₹10,000", "Custom software from ₹60,000", "AI automation from ₹40,000", "Hindi and English builds", "5 months free maintenance"],
   },
   quickAnswer:
-    "IT services in Uttar Pradesh from BtechWaleTech, a freelance group of three remote engineers, start at ₹10,000 for a website, ₹20,000 for a 700+ page SEO site, ₹40,000 for AI automation, ₹50,000 for ecommerce and ₹60,000 for custom software. Websites take one to two weeks, software six to twelve. Itemised quotes arrive within about two working days.",
+    "IT services in Uttar Pradesh from BtechWaleTech, a freelance group of three remote engineers, start at ₹10,000 for a website, ₹20,000 for a 299+ page SEO site, ₹40,000 for AI automation, ₹50,000 for ecommerce and ₹60,000 for custom software. Websites take one to two weeks, software six to twelve. Itemised quotes arrive within about two working days.",
   snapshot: [
     { label: "Scale", value: "India's most populous state, with 75 districts across western UP, Awadh, Bundelkhand and Purvanchal" },
     { label: "Technology hubs", value: "Noida and Greater Noida for IT and ITeS, Lucknow's IT City on Sultanpur Road, with state plans for AI, drone and R&D hubs in Lucknow, Kanpur, Varanasi and Prayagraj" },
@@ -93,7 +93,7 @@ const content: CityContent = {
       paragraphs: [
         "Choose a software development team in Uttar Pradesh when you need a large team, formal enterprise procurement or dedicated on-site staff; choose a freelance group when you have a focused project, want direct access to the engineers and prefer lower overheads. Most MSMEs, clinics, institutes and traders in UP fall into the second category.",
         "Noida and Lucknow have many established IT companies, and district towns have countless individual freelancers. Large companies bring process and scale but also higher overheads and layers between you and the developer. Solo freelancers are affordable but can vanish mid-project. A small freelance group offers a middle path: more than one engineer, direct communication and published starting prices.",
-        "BtechWaleTech is exactly that: a freelance group of three engineers working remotely from India. We are honest about what fits us. A single dealer portal, an AI assistant or a 700-page SEO website suits us well. A state-wide government system with dozens of on-site staff does not, and we will say so before quoting.",
+        "BtechWaleTech is exactly that: a freelance group of three engineers working remotely from India. We are honest about what fits us. A single dealer portal, an AI assistant or a 299-page SEO website suits us well. A state-wide government system with dozens of on-site staff does not, and we will say so before quoting.",
       ],
     },
     {
@@ -144,7 +144,7 @@ const content: CityContent = {
       id: "up-seo-hindi",
       heading: "SEO in Uttar Pradesh: Hindi search, local SEO and AI visibility",
       paragraphs: [
-        "SEO in Uttar Pradesh means ranking for how people actually search: in Hindi, Hinglish and English, with city or locality names, and increasingly through AI answers. BtechWaleTech offers monthly SEO from ₹10,000 and builds 700+ page SEO websites from ₹20,000 for businesses that serve many districts or services.",
+        "SEO in Uttar Pradesh means ranking for how people actually search: in Hindi, Hinglish and English, with city or locality names, and increasingly through AI answers. BtechWaleTech offers monthly SEO from ₹10,000 and builds 299+ page SEO websites from ₹20,000 for businesses that serve many districts or services.",
         "A dental clinic in Gomti Nagar, a CA firm in Kanpur or a packers and movers business in Ghaziabad competes locally, so Google Business Profile, consistent listings, genuine reviews and locality pages matter most. A manufacturer or coaching brand serving many districts benefits from a large, well-structured site with one useful page per city or course, not copied text with the name swapped.",
         "We add structured data and write answer-first content so Google's AI Overviews, ChatGPT and other assistants can describe your business accurately. We never promise guaranteed rankings and never buy fake reviews. More detail is on our <a href=\"/services/seo-services/\">SEO services</a> page.",
       ],
@@ -180,13 +180,13 @@ const content: CityContent = {
       id: "up-cost-guide",
       heading: "How much do IT services cost in Uttar Pradesh?",
       paragraphs: [
-        "IT services in Uttar Pradesh with BtechWaleTech start at ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for ecommerce and ₹60,000 for custom software or web apps. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months.",
+        "IT services in Uttar Pradesh with BtechWaleTech start at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for ecommerce and ₹60,000 for custom software or web apps. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months.",
         "Prices are starting points. A bilingual five-page clinic site stays near ₹10,000; a dealer portal with role-based logins, Tally imports and a sales app costs more. You receive an itemised quote within about two working days, with every line visible so you can remove what you do not need.",
         "Because we work remotely, there is no office rent or travel charge in the quote, whether you are in Noida or a smaller district town. Compare every plan on our <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [
         "Static website: from ₹10,000, one to two weeks",
-        "700+ page SEO website: from ₹20,000, three to five weeks",
+        "299+ page SEO website: from ₹20,000, three to five weeks",
         "AI automation: from ₹40,000, two to four weeks",
         "Android and iOS app: from ₹40,000, six to ten weeks",
         "Ecommerce store: from ₹50,000, four to eight weeks",
@@ -258,7 +258,7 @@ const content: CityContent = {
     {
       question: "What does a website cost for a business in Uttar Pradesh?",
       answer:
-        "A static website starts at ₹10,000 and can include up to a hundred pages, a contact form, WhatsApp button, map and basic SEO. A 700+ page SEO website for businesses serving many districts starts at ₹20,000. Hindi and English versions, extra features and integrations affect the final price, and you get an itemised quote within about two working days.",
+        "A static website starts at ₹10,000 and can include up to a hundred pages, a contact form, WhatsApp button, map and basic SEO. A 299+ page SEO website for businesses serving many districts starts at ₹20,000. Hindi and English versions, extra features and integrations affect the final price, and you get an itemised quote within about two working days.",
     },
     {
       question: "How long does custom software take?",

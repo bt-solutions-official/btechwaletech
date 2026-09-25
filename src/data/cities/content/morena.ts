@@ -34,7 +34,7 @@ const morena: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi-first pages", "Oil mill and gajak catalogues", "Maps and reviews", "No lock-in"],
   },
   quickAnswer:
-    "In Morena, a business website with us starts at ₹10,000 and usually goes live in one to two weeks. A 700+ page SEO website starts at ₹20,000, an online store for gajak or mustard oil from ₹50,000 and WhatsApp or AI automation from ₹40,000. We work remotely, with no Morena office, and you own everything.",
+    "In Morena, a business website with us starts at ₹10,000 and usually goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store for gajak or mustard oil from ₹50,000 and WhatsApp or AI automation from ₹40,000. We work remotely, with no Morena office, and you own everything.",
   snapshot: [
     { label: "Where it sits", value: "Chambal division headquarters on NH-44 (old NH-3), about 44 km from Gwalior, 33 km from Dholpur and 90 km from Agra" },
     { label: "Farm economy", value: "One of India's leading mustard districts, with oil mills, grain trade, dairy and livestock" },
@@ -72,12 +72,12 @@ const morena: CityContent = {
       heading: "Website prices for Morena firms, explained without jargon",
       paragraphs: [
         "Quotes for a website in Morena swing wildly, from a couple of thousand rupees for a copied template to amounts that include an agency's rent in Gwalior or Bhopal. The low quotes often leave the domain in someone else's name and skip anything that helps Google. The high ones pay for things you will never use. We try to sit in the honest middle and show our working.",
-        "A static site of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. A larger SEO website of 700+ pages, where each product, crop input or treatment gets its own page, starts at ₹20,000 and takes three to five weeks. An online store with UPI checkout begins at ₹50,000, AI or WhatsApp automation from ₹40,000, and custom software such as a mill management system from ₹60,000. Monthly SEO starts at ₹10,000. The complete table is on our <a href=\"/pricing/\">pricing page</a>.",
+        "A static site of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. A larger SEO website of 299+ pages, where each product, crop input or treatment gets its own page, starts at ₹20,000 and takes three to five weeks. An online store with UPI checkout begins at ₹50,000, AI or WhatsApp automation from ₹40,000, and custom software such as a mill management system from ₹60,000. Monthly SEO starts at ₹10,000. The complete table is on our <a href=\"/pricing/\">pricing page</a>.",
         "Your final figure depends on the number of pages, the features and how much writing and photography we handle. The quote lists each item with its own price, so if the budget is tight before the rabi season you can drop a section now and add it after the harvest money comes in. Nothing is billed without your written go-ahead.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> a clear site for a clinic, lawyer, tutor, CA or shop, with WhatsApp button and basic SEO.",
-        "<strong>From ₹20,000:</strong> a 700+ page site for dealers, hospitals and institutes that want to rank for many searches.",
+        "<strong>From ₹20,000:</strong> a 299+ page site for dealers, hospitals and institutes that want to rank for many searches.",
         "<strong>From ₹50,000:</strong> an online store for gajak, oil, namkeen or farm products with UPI and card payments.",
         "<strong>From ₹60,000:</strong> custom software for mills, traders and distributors, with logins and reports.",
       ],
@@ -208,12 +208,12 @@ const morena: CityContent = {
     {
       question: "How much does a website cost in Morena?",
       answer:
-        "With us, a simple business website starts at ₹10,000 and a 700+ page SEO website starts at ₹20,000. An online store with UPI starts at ₹50,000 and custom software at ₹60,000. The final amount depends on pages and features, and you receive an itemised quote in about two working days before anything is billed.",
+        "With us, a simple business website starts at ₹10,000 and a 299+ page SEO website starts at ₹20,000. An online store with UPI starts at ₹50,000 and custom software at ₹60,000. The final amount depends on pages and features, and you receive an itemised quote in about two working days before anything is billed.",
     },
     {
       question: "Morena me website banwane ka kharcha kitna hai?",
       answer:
-        "Humare saath chhoti dukaan ya clinic ki website ₹10,000 se shuru hoti hai. 700+ pages wali SEO website ₹20,000 se aur gajak ya sarson tel ka online store ₹50,000 se shuru hota hai. Aapko kitne page aur kaunse features chahiye, usi se final rate banta hai. Har cheez ka alag rate pehle likh kar milega.",
+        "Humare saath chhoti dukaan ya clinic ki website ₹10,000 se shuru hoti hai. 299+ pages wali SEO website ₹20,000 se aur gajak ya sarson tel ka online store ₹50,000 se shuru hota hai. Aapko kitne page aur kaunse features chahiye, usi se final rate banta hai. Har cheez ka alag rate pehle likh kar milega.",
     },
     {
       question: "Do you have an office in Morena?",
@@ -248,7 +248,7 @@ const morena: CityContent = {
     {
       question: "How long will my website take?",
       answer:
-        "A static website usually takes one to two weeks, a 700+ page SEO website three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Waiting for photos and text causes most delays, so we can draft the content for you to correct.",
+        "A static website usually takes one to two weeks, a 299+ page SEO website three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Waiting for photos and text causes most delays, so we can draft the content for you to correct.",
     },
     {
       question: "What can WhatsApp automation do for a Morena business?",

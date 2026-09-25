@@ -7,7 +7,7 @@ const indore: CityContent = {
   meta: {
     title: "IT Services in Indore: Websites, Apps, SEO & AI",
     description:
-      "Freelance website development, SEO and AI automation in Indore. Websites from ₹10,000, 700+ page SEO sites from ₹20,000, 5 months free maintenance included.",
+      "Freelance website development, SEO and AI automation in Indore. Websites from ₹10,000, 299+ page SEO sites from ₹20,000, 5 months free maintenance included.",
     keywords: [
       "website development team in Indore",
       "web design team Indore",
@@ -35,7 +35,7 @@ const indore: CityContent = {
     pills: ["Websites from ₹10,000", "SEO for Indore searches", "Ecommerce with UPI", "WhatsApp automation", "Custom software"],
   },
   quickAnswer:
-    "In Indore, a basic business website with us starts at ₹10,000 and a 700+ page SEO website at ₹20,000, delivered in one to five weeks. We are a remote freelance team of three engineers, so there is no office rent in the price. Every project includes hosting setup, SEO basics and five months of free maintenance.",
+    "In Indore, a basic business website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000, delivered in one to five weeks. We are a remote freelance team of three engineers, so there is no office rent in the price. Every project includes hosting setup, SEO basics and five months of free maintenance.",
   snapshot: [
     { label: "Business districts", value: "Vijay Nagar, Palasia, MG Road, AB Road, Rajwada and Sarafa" },
     { label: "IT hubs", value: "Crystal IT Park at Bhanwarkuan and the Super Corridor, home to TCS and Infosys campuses" },
@@ -73,12 +73,12 @@ const indore: CityContent = {
       heading: "How much does a website cost in Indore?",
       paragraphs: [
         "Quotes for the same five-page website in Indore can range from ₹3,000 to ₹60,000, and the difference is rarely explained. The low end usually means a reused template, no SEO work, and hosting on the developer's own account, which becomes a problem the day you want to leave. The high end often pays for an office, a sales team and an account manager who passes your messages to a developer you never meet.",
-        "Our prices sit between the two, and we publish them. A static business website starts from ₹10,000 and is usually live in one to two weeks. A 700+ page SEO website, planned around what people in Indore actually search for and taken from design through to deployment, starts from ₹20,000. An online store with product pages, cart and UPI or card payments starts from ₹50,000. Custom web applications such as dealer portals, booking systems and dashboards start from ₹60,000. Automation work starts from ₹40,000, and monthly SEO from ₹10,000 a month.",
+        "Our prices sit between the two, and we publish them. A static business website starts from ₹10,000 and is usually live in one to two weeks. A 299+ page SEO website, planned around what people in Indore actually search for and taken from design through to deployment, starts from ₹20,000. An online store with product pages, cart and UPI or card payments starts from ₹50,000. Custom web applications such as dealer portals, booking systems and dashboards start from ₹60,000. Automation work starts from ₹40,000, and monthly SEO from ₹10,000 a month.",
         "These are starting points, not fixed packages. Twenty products with good photos cost less than two hundred products with no descriptions. You receive an itemised quote that lists every page and feature, and nothing is billed until you approve it in writing.",
       ],
       list: [
         "<strong>Static website, from ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form, basic SEO. Suits clinics, consultants, small shops and CA or legal practices.",
-        "<strong>SEO website, from ₹20,000:</strong> 700+ pages, one page per service and area, schema and sitemap. Suits service firms that want Google enquiries.",
+        "<strong>SEO website, from ₹20,000:</strong> 299+ pages, one page per service and area, schema and sitemap. Suits service firms that want Google enquiries.",
         "<strong>Ecommerce, from ₹50,000:</strong> catalogue, cart, UPI and card checkout, order emails. Suits namkeen, clothing, handicraft and food brands.",
         "<strong>Custom web app, from ₹60,000:</strong> logins, roles, dashboards, APIs. Suits distributors, manufacturers and institutes.",
       ],
@@ -200,12 +200,12 @@ const indore: CityContent = {
     {
       question: "How much does a website cost in Indore?",
       answer:
-        "With us, a static business website starts from ₹10,000, a 700+ page SEO website from ₹20,000, an online store from ₹50,000 and a custom web application from ₹60,000. Across Indore you will see quotes from about ₹3,000 to ₹60,000 for similar work. The difference usually comes down to SEO, hosting ownership and after-launch support, so compare those too, not only the price.",
+        "With us, a static business website starts from ₹10,000, a 299+ page SEO website from ₹20,000, an online store from ₹50,000 and a custom web application from ₹60,000. Across Indore you will see quotes from about ₹3,000 to ₹60,000 for similar work. The difference usually comes down to SEO, hosting ownership and after-launch support, so compare those too, not only the price.",
     },
     {
       question: "Indore me website kitne me banti hai?",
       answer:
-        "Ek simple business website humare saath ₹10,000 se shuru hoti hai, aur 700+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se shuru hota hai. Final price pages, features aur content par depend karti hai, aur kaam shuru hone se pehle aapko poora itemised quote milta hai.",
+        "Ek simple business website humare saath ₹10,000 se shuru hoti hai, aur 299+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se shuru hota hai. Final price pages, features aur content par depend karti hai, aur kaam shuru hone se pehle aapko poora itemised quote milta hai.",
     },
     {
       question: "Do you have an office in Indore? Can we meet?",
@@ -215,7 +215,7 @@ const indore: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static website usually takes one to two weeks. A 700+ page SEO website takes three to five weeks, an online store four to eight weeks, and a custom application six to twelve weeks. In practice, the most common cause of delay is waiting for content and photos, so we write starter copy for you to edit instead of waiting for blank pages to be filled.",
+        "A static website usually takes one to two weeks. A 299+ page SEO website takes three to five weeks, an online store four to eight weeks, and a custom application six to twelve weeks. In practice, the most common cause of delay is waiting for content and photos, so we write starter copy for you to edit instead of waiting for blank pages to be filled.",
     },
     {
       question: "Are you a single freelancer or a team?",

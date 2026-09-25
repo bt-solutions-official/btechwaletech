@@ -39,7 +39,7 @@ const palitana: CityContent = {
     pills: ["Sites ₹10,000 onwards", "Android & iOS apps ₹40,000 onwards", "Gujarati + Hindi local SEO", "Dharamshala room booking", "Accounts registered to you"],
   },
   quickAnswer:
-    "Palitana businesses can have a website built by us from ₹10,000, generally ready inside two weeks. Android and iOS apps and AI automation begin at ₹40,000, a 700+ page SEO site at ₹20,000, an ecommerce store at ₹50,000 and bespoke software at ₹60,000. We work remotely, have no office in Palitana, and register the domain, code and accounts to you.",
+    "Palitana businesses can have a website built by us from ₹10,000, generally ready inside two weeks. Android and iOS apps and AI automation begin at ₹40,000, a 299+ page SEO site at ₹20,000, an ecommerce store at ₹50,000 and bespoke software at ₹60,000. We work remotely, have no office in Palitana, and register the domain, code and accounts to you.",
   snapshot: [
     { label: "Location", value: "Town in Bhavnagar district, roughly 50–55 km south-west of Bhavnagar city and about 25 km south of Songadh, near the Shetrunji river" },
     { label: "Pilgrimage", value: "Shatrunjaya hill, with nearly 900 Svetambara Jain temples reached by roughly 3,500 stone steps; doli carriers take those who cannot walk" },
@@ -148,7 +148,7 @@ const palitana: CityContent = {
       id: "website-cost-palitana",
       heading: "Website cost in Palitana: starting prices and what to compare",
       paragraphs: [
-        "The <strong>website cost in Palitana</strong> with us begins at ₹10,000 for a static site with as many as 100 pages, typically delivered within a fortnight. An SEO site of 700 pages or more is ₹20,000 onwards and takes three to five weeks. Android and iOS apps and AI automation are each ₹40,000 onwards, ecommerce stores ₹50,000 onwards and custom software ₹60,000 onwards. Monthly SEO is ₹10,000 a month onwards.",
+        "The <strong>website cost in Palitana</strong> with us begins at ₹10,000 for a static site with as many as 100 pages, typically delivered within a fortnight. An SEO site of 299 pages or more is ₹20,000 onwards and takes three to five weeks. Android and iOS apps and AI automation are each ₹40,000 onwards, ecommerce stores ₹50,000 onwards and custom software ₹60,000 onwards. Monthly SEO is ₹10,000 a month onwards.",
         "Quotes from Palitana, Bhavnagar and Ahmedabad designers vary widely, so compare line by line. Ask whose name the domain and hosting will be registered in, whether Gujarati and Hindi versions cost extra, how many changes are included, what support you get after launch, and whether photographs, writing and Google profile setup are covered. Ask to see sites they built that are still running.",
         "Our itemised written estimate normally arrives in about two working days, and nothing is billed before you approve it. The <a href=\"/pricing/\">pricing page</a> lists every starting price.",
       ],
@@ -208,7 +208,7 @@ const palitana: CityContent = {
     {
       question: "What does a website cost in Palitana?",
       answer:
-        "A static site of up to 100 pages begins at ₹10,000 with us and is normally live within two weeks. A 700+ page SEO site is ₹20,000 onwards, an ecommerce store ₹50,000 onwards and custom software ₹60,000 onwards. Every item appears in a written estimate, and billing starts only after you approve.",
+        "A static site of up to 100 pages begins at ₹10,000 with us and is normally live within two weeks. A 299+ page SEO site is ₹20,000 onwards, an ecommerce store ₹50,000 onwards and custom software ₹60,000 onwards. Every item appears in a written estimate, and billing starts only after you approve.",
     },
     {
       question: "How long will my Palitana website take?",

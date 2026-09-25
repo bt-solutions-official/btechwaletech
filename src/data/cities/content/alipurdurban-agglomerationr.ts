@@ -39,7 +39,7 @@ const alipurduar: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Homestay booking pages", "Bengali and English SEO", "You keep every account"],
   },
   quickAnswer:
-    "For an Alipurduar business, our static websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely and have no Alipurduar office.",
+    "For an Alipurduar business, our static websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely and have no Alipurduar office.",
   snapshot: [
     { label: "Status", value: "Headquarters of Alipurduar district, formed in 2014 from Jalpaiguri, and of the Northeast Frontier Railway's Alipurduar division" },
     { label: "Setting", value: "Banks of the Kaljani River in the Western Dooars, at the foot of the Himalayas and near the Bhutan border" },
@@ -167,7 +167,7 @@ const alipurduar: CityContent = {
       heading: "Website cost in Alipurduar: what a quote should include",
       paragraphs: [
         "Whether you ask “Alipurduar me website banwana kitne ka hai” or search for the <strong>website cost in Alipurduar</strong>, the answer depends on what the site must do. Local quotes vary widely, so compare the details: who owns the domain, whether hosting renewal is included, how many revisions are allowed, whether content is written for you, and what support follows launch.",
-        "Our starting prices are published. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website with 700+ pages starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, Android and iOS apps at ₹40,000, AI automation at ₹40,000 and custom software at ₹60,000. The full list is on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our starting prices are published. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website with 299+ pages starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, Android and iOS apps at ₹40,000, AI automation at ₹40,000 and custom software at ₹60,000. The full list is on our <a href=\"/pricing/\">pricing page</a>.",
         "Share your requirements and you get an itemised written quote in about two working days. Nothing is billed until you approve it.",
       ],
     },
@@ -219,7 +219,7 @@ const alipurduar: CityContent = {
     {
       question: "What is the website cost in Alipurduar?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Your quote depends on pages, languages, rooms or products and features, and comes itemised in writing before anything is billed.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Your quote depends on pages, languages, rooms or products and features, and comes itemised in writing before anything is billed.",
     },
     {
       question: "How long does it take to build a homestay or business website in Alipurduar?",

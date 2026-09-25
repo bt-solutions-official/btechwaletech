@@ -35,7 +35,7 @@ const guntur: CityContent = {
     pills: ["Sites from ₹10,000", "Chilli and cotton trade tools", "Telugu and English pages", "Hospital booking", "WhatsApp automation"],
   },
   quickAnswer:
-    "In Guntur, our static business website starts at ₹10,000 and takes one to two weeks, a 700+ page SEO site starts at ₹20,000, and custom tools for traders or commission agents start at ₹60,000. We are a three-engineer remote team without a Guntur office, so prices carry no rent, and maintenance is free for five months.",
+    "In Guntur, our static business website starts at ₹10,000 and takes one to two weeks, a 299+ page SEO site starts at ₹20,000, and custom tools for traders or commission agents start at ₹60,000. We are a three-engineer remote team without a Guntur office, so prices carry no rent, and maintenance is free for five months.",
   snapshot: [
     { label: "Signature trade", value: "Guntur Mirchi Yard, widely described as Asia's largest chilli market, setting prices for much of the country" },
     { label: "Other crops", value: "Tobacco, cotton and turmeric; the Tobacco Board is headquartered in Guntur" },
@@ -73,12 +73,12 @@ const guntur: CityContent = {
       heading: "How much a website or trade tool costs in Guntur",
       paragraphs: [
         "In Guntur, website quotes range from a few thousand rupees for a single page to over a lakh from agencies in bigger cities. The cheapest often use a template, skip search setup and keep the hosting in the designer's name. The more expensive ones usually pay for sales teams and offices rather than better code. Our aim is to publish a clear middle ground.",
-        "A static website of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. A 700+ page SEO website, with separate pages for each service, speciality or product, starts at ₹20,000 and takes three to five weeks. An online store starts at ₹50,000. Custom software, such as a commission agent's lot and settlement system or a cold storage register, starts at ₹60,000. AI and WhatsApp automation starts at ₹40,000, and monthly SEO at ₹10,000. See our <a href=\"/pricing/\">pricing page</a> for details.",
+        "A static website of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO website, with separate pages for each service, speciality or product, starts at ₹20,000 and takes three to five weeks. An online store starts at ₹50,000. Custom software, such as a commission agent's lot and settlement system or a cold storage register, starts at ₹60,000. AI and WhatsApp automation starts at ₹40,000, and monthly SEO at ₹10,000. See our <a href=\"/pricing/\">pricing page</a> for details.",
         "The final cost depends on complexity. A bilingual Telugu and English site takes more effort than an English-only one, and software with many user roles or integrations costs more than a simple register. You receive an itemised quote in about two working days, and we bill nothing until you approve it in writing.",
       ],
       list: [
         "<strong>Static website, from ₹10,000:</strong> up to 100 pages, contact form, WhatsApp button, SEO basics. Suits doctors, lawyers, shops and consultants.",
-        "<strong>SEO website, from ₹20,000:</strong> 700+ pages for services, specialities or products, with schema and sitemap.",
+        "<strong>SEO website, from ₹20,000:</strong> 299+ pages for services, specialities or products, with schema and sitemap.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart, UPI and card checkout, shipping across India.",
         "<strong>Custom software, from ₹60,000:</strong> lot tracking, stock, settlements, dashboards and user logins.",
       ],
@@ -209,12 +209,12 @@ const guntur: CityContent = {
     {
       question: "How much does a website cost in Guntur?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Local quotes vary widely. When comparing, check whether SEO setup is included, whether the domain and hosting will be in your name, and what support you receive after launch.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Local quotes vary widely. When comparing, check whether SEO setup is included, whether the domain and hosting will be in your name, and what support you receive after launch.",
     },
     {
       question: "Guntur lo website cheyinchukovadaniki entha kharchu avutundi?",
       answer:
-        "Maa daggara simple business website ₹10,000 nunchi modalavutundi. 700+ pages unna SEO website ₹20,000 nunchi, online store ₹50,000 nunchi. Final dhara pages, features, content meeda aadharapadi untundi. Pani modalupettadaniki mundu anni vivaralato itemised quote raasi pampistamu.",
+        "Maa daggara simple business website ₹10,000 nunchi modalavutundi. 299+ pages unna SEO website ₹20,000 nunchi, online store ₹50,000 nunchi. Final dhara pages, features, content meeda aadharapadi untundi. Pani modalupettadaniki mundu anni vivaralato itemised quote raasi pampistamu.",
     },
     {
       question: "Do you have an office in Guntur?",
@@ -244,7 +244,7 @@ const guntur: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static website takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Content and decisions are the most common cause of delay, so we give you draft text and a checklist at the start.",
+        "A static website takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Content and decisions are the most common cause of delay, so we give you draft text and a checklist at the start.",
     },
     {
       question: "How long does SEO take to work in Guntur?",

@@ -39,7 +39,7 @@ const thiruvallur: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Tamil-first local SEO", "SIDCO supplier websites", "You hold every login"],
   },
   quickAnswer:
-    "A Thiruvallur business website from us begins at ₹10,000 and typically takes one to two weeks. Android and iOS apps and AI automation begin at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We operate remotely with no Thiruvallur office, and all accounts are registered to you.",
+    "A Thiruvallur business website from us begins at ₹10,000 and typically takes one to two weeks. Android and iOS apps and AI automation begin at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We operate remotely with no Thiruvallur office, and all accounts are registered to you.",
   snapshot: [
     { label: "Location", value: "Headquarters of Tiruvallur district, on the Coovum river about 45 km west of central Chennai" },
     { label: "Civic status", value: "Grade I municipality, part of the Chennai Metropolitan Area" },
@@ -80,7 +80,7 @@ const thiruvallur: CityContent = {
         "The SIDCO industrial estate at Kakkalur, a few kilometres from the town centre, houses small manufacturers in engineering, fabrication, chemicals, coatings, furniture and food. Across the wider district, plants of firms such as Caterpillar and Delphi TVS depend on networks of machine shops, tool rooms, packaging suppliers and service contractors, many of them small family firms.",
         "Those small firms are judged online before they are ever visited. A <strong>website development team in Thiruvallur</strong> should build them sites that answer a buyer's checklist: processes and machines, materials handled, tolerances you can honestly hold, quality systems you actually run, capacity in plain terms, sectors served, and GST and registration details. Clear photographs of your own shop floor say more than any stock image.",
         "We add a quotation form that accepts drawings and asks for material, quantity and delivery date, so enquiries arrive with what you need to price them. Customer names and logos are shown only with written permission from those customers, and certifications appear only if you hold them.",
-        "A capability website like this starts at ₹10,000 for a static build and is usually ready in one to two weeks. Firms with many products or processes often move to the 700+ page SEO website, from ₹20,000, so each capability has its own findable page.",
+        "A capability website like this starts at ₹10,000 for a static build and is usually ready in one to two weeks. Firms with many products or processes often move to the 299+ page SEO website, from ₹20,000, so each capability has its own findable page.",
       ],
     },
     {
@@ -120,7 +120,7 @@ const thiruvallur: CityContent = {
         "Because Thiruvallur sits on the western edge of greater Chennai, many families from the city look at plots and houses here, and promoters and builders market layouts around the town. Their buyers compare options online, want approval details and site photographs, and expect a quick reply before booking a visit.",
         "For promoters, we build project pages with layout plans, plot sizes, approval and registration numbers you actually hold, distance to the station and main roads stated honestly, site photographs, and a form that books site visits into a sheet your team follows up. We never publish returns or price-rise promises, which buyers distrust and regulators frown on.",
         "For shops and home brands, an <strong>ecommerce website in Thiruvallur</strong> can take orders from the town and the western suburbs, with delivery zones by pin code, UPI payment and an admin panel for dispatch. Groceries, sweets, cold-pressed oils, clothing and gift items suit this model when delivery is dependable.",
-        "Stores start at ₹50,000 and take four to eight weeks. A project page for a promoter is usually a static site from ₹10,000, or part of a 700+ page SEO website, from ₹20,000, when several layouts and localities need their own pages.",
+        "Stores start at ₹50,000 and take four to eight weeks. A project page for a promoter is usually a static site from ₹10,000, or part of a 299+ page SEO website, from ₹20,000, when several layouts and localities need their own pages.",
       ],
     },
     {
@@ -157,7 +157,7 @@ const thiruvallur: CityContent = {
       id: "website-cost-thiruvallur",
       heading: "Website cost in Thiruvallur: starting prices and how to compare",
       paragraphs: [
-        "Here are our entry prices for Thiruvallur. A static site of up to 100 pages starts at ₹10,000 and is typically finished in a week or two. A 700+ page SEO site, suited to a manufacturer with many processes, a promoter with several layouts or a college with many courses, starts at ₹20,000 and takes three to five weeks.",
+        "Here are our entry prices for Thiruvallur. A static site of up to 100 pages starts at ₹10,000 and is typically finished in a week or two. A 299+ page SEO site, suited to a manufacturer with many processes, a promoter with several layouts or a college with many courses, starts at ₹20,000 and takes three to five weeks.",
         "Android and iOS apps start at ₹40,000, and AI or WhatsApp automation starts at the same figure over two to four weeks. Online stores start at ₹50,000 and need four to eight weeks. Custom software, such as a job-card and dispatch system, starts at ₹60,000 over six to twelve weeks. Monthly SEO starts at ₹10,000 a month; after five free months of post-launch support, maintenance starts at ₹8,000 a month.",
         "Your quote rises only for things you choose: Tamil and English versions, large catalogues, drawing upload, customer logins, UPI payment or accounting exports. Each is priced on its own line so you can keep or remove it. Supplying your own content keeps the figure near the starting price.",
         "Quotes around Chennai's western edge vary a lot for work that sounds similar. Ask every provider who will own the domain, whether the site is tested on inexpensive phones, whether basic SEO is included, how many revisions are covered and what support costs later. Our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and an itemised quote for your job usually arrives within two working days.",
@@ -220,7 +220,7 @@ const thiruvallur: CityContent = {
     {
       question: "What is the website cost in Thiruvallur?",
       answer:
-        "We start static websites at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. All are starting prices. Tamil content, catalogue size and integrations decide the final figure, which reaches you in writing, item by item, before any payment.",
+        "We start static websites at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. All are starting prices. Tamil content, catalogue size and integrations decide the final figure, which reaches you in writing, item by item, before any payment.",
     },
     {
       question: "Do you build Android and iOS apps for Thiruvallur businesses?",
@@ -230,7 +230,7 @@ const thiruvallur: CityContent = {
     {
       question: "How long does it take to build a website in Thiruvallur?",
       answer:
-        "A basic static site is usually live one to two weeks after your photos and details reach us. A 700+ page SEO site takes three to five weeks, an online store four to eight and custom software six to twelve. Quick replies and early content shorten every timeline.",
+        "A basic static site is usually live one to two weeks after your photos and details reach us. A 299+ page SEO site takes three to five weeks, an online store four to eight and custom software six to twelve. Quick replies and early content shorten every timeline.",
     },
     {
       question: "Which is the best website development team in Thiruvallur?",
@@ -260,7 +260,7 @@ const thiruvallur: CityContent = {
     {
       question: "Thiruvallur-la website panna evvalavu selavu aagum?",
       answer:
-        "Engalidam simple website ₹10,000-il irundhu thodangugiradhu, pothuvaaga ondru-irandu vaarangalil ready aagividum. 700+ page SEO website ₹20,000-il irundhu, Android matrum iOS app ₹40,000-il irundhu, online store ₹50,000-il irundhu thodangugiradhu. Ungal pages matrum features-ai poruthu mulu quote ezhuthil anuppappadum.",
+        "Engalidam simple website ₹10,000-il irundhu thodangugiradhu, pothuvaaga ondru-irandu vaarangalil ready aagividum. 299+ page SEO website ₹20,000-il irundhu, Android matrum iOS app ₹40,000-il irundhu, online store ₹50,000-il irundhu thodangugiradhu. Ungal pages matrum features-ai poruthu mulu quote ezhuthil anuppappadum.",
     },
     {
       question: "You have no office in Thiruvallur. Is remote work safe?",

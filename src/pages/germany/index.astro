@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "@layouts/BaseLayout.astro";
+import { countryPageLinks } from "@data/keywords/page-links";
 import { createPageSeo } from "@lib/seo/seo-config";
 import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
 import { breadcrumbListSchema, faqSchema } from "@lib/schema/schema";
@@ -21,7 +22,7 @@ const faqs = [
   },
   {
     question: "What does a website cost for a German business?",
-    answer: `Our starting prices are ${usd("Static")} for a static company website, ${usd("SEO website")} for a 700+ page SEO website, ${usd("AI automation")} for AI automation, ${usd("Ecommerce")} for an online shop and ${usd("Custom web app")} for a custom web application. Ongoing SEO is from ${usd("Monthly SEO")} and maintenance from ${usd("Maintenance")}. All of these are starting prices, and your quote is based on your actual requirements.`,
+    answer: `Our starting prices are ${usd("Static")} for a static company website, ${usd("SEO website")} for a 299+ page SEO website, ${usd("AI automation")} for AI automation, ${usd("Ecommerce")} for an online shop and ${usd("Custom web app")} for a custom web application. Ongoing SEO is from ${usd("Monthly SEO")} and maintenance from ${usd("Maintenance")}. All of these are starting prices, and your quote is based on your actual requirements.`,
   },
   {
     question: "Can you invoice in euros?",
@@ -77,7 +78,7 @@ const faqs = [
   },
   {
     question: "How long does a project take?",
-    answer: "A static website usually takes one to two weeks, a 700+ page SEO website three to five weeks, AI automation two to four weeks, an online shop four to eight weeks and a custom web app six to twelve weeks. German projects often add time for legal texts, translation and a formal acceptance step, which we plan into the schedule.",
+    answer: "A static website usually takes one to two weeks, a 299+ page SEO website three to five weeks, AI automation two to four weeks, an online shop four to eight weeks and a custom web app six to twelve weeks. German projects often add time for legal texts, translation and a formal acceptance step, which we plan into the schedule.",
   },
   {
     question: "What happens after launch?",
@@ -359,7 +360,7 @@ const guide: Article[] = [
     ],
     list: [
       `<strong>From ${usd("Static")}, static website:</strong> a company website for a service firm, practice, craftsman business or industrial supplier with home, services, references, about, contact, Impressum and privacy pages, up to 100 pages, using text you supply.`,
-      `<strong>From ${usd("SEO website")}, SEO website with 700+ pages:</strong> a structured site planned around search intent, such as a product catalogue with many material and dimension variants or a service company covering many specialisations, built with keyword mapping, schema and internal linking.`,
+      `<strong>From ${usd("SEO website")}, SEO website with 299+ pages:</strong> a structured site planned around search intent, such as a product catalogue with many material and dimension variants or a service company covering many specialisations, built with keyword mapping, schema and internal linking.`,
       `<strong>From ${usd("AI automation")}, AI automation:</strong> one defined workflow, for example incoming orders by email being extracted, checked and handed to your ERP for approval.`,
       `<strong>From ${usd("Ecommerce")}, online shop:</strong> product and category pages, cart and checkout with German payment methods and required legal elements, order and stock basics and performance tuning, for a catalogue you supply as a structured file.`,
       `<strong>From ${usd("Custom web app")}, custom web application:</strong> a focused first version of a customer portal, configurator, dashboard or internal tool with user roles, an admin area and deployment.`,
@@ -527,6 +528,7 @@ const webPageSchema = {
   about: { "@id": `${url}#service` },
   speakable: { "@type": "SpeakableSpecification", cssSelector: ["#quick-answer", "h1"] },
 };
+const servicePages = countryPageLinks("germany");
 ---
 
 <BaseLayout meta={page} schema={[webPageSchema, professionalServiceSchema, breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs)]}>
@@ -821,6 +823,21 @@ const webPageSchema = {
       </div>
     </div>
   </section>
+
+  <!-- ===================== SERVICE PAGES ===================== -->
+  {servicePages.length > 0 && (
+    <section class="locations" aria-labelledby="service-pages-heading">
+      <div class="section-wrap">
+        <div class="section-head">
+          <p class="eyebrow">Services and guides</p>
+          <h2 id="service-pages-heading">Everything we build for German businesses</h2>
+        </div>
+        <div class="city-cloud">
+          {servicePages.map((p) => <a class="city-chip" href={p.href}>{p.name}</a>)}
+        </div>
+      </div>
+    </section>
+  )}
 
   <!-- ===================== RELATED ===================== -->
   <section class="locations" aria-labelledby="related-heading">

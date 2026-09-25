@@ -39,7 +39,7 @@ const sarni: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Contractor and vendor sites", "Hindi Google Maps setup", "Your domain, your code"],
   },
   quickAnswer:
-    "For a Sarni or Pathakhera business, a website with us starts at ₹10,000 and is usually ready in one to two weeks. Android and iOS apps and WhatsApp or AI automation each start at ₹40,000, a 700+ page SEO site at ₹20,000 and an online store at ₹50,000. We work remotely and you own the domain and code.",
+    "For a Sarni or Pathakhera business, a website with us starts at ₹10,000 and is usually ready in one to two weeks. Android and iOS apps and WhatsApp or AI automation each start at ₹40,000, a 299+ page SEO site at ₹20,000 and an online store at ₹50,000. We work remotely and you own the domain and code.",
   snapshot: [
     { label: "Town", value: "Municipality in Betul district covering four contiguous settlements: Sarni, Pathakhera, Shobhapur Colony and Bagdona" },
     { label: "Population", value: "About 86,000 at the 2011 Census, with literacy close to 85%" },
@@ -156,7 +156,7 @@ const sarni: CityContent = {
       ],
       list: [
         "<strong>Static website up to 100 pages:</strong> from ₹10,000, ready in one to two weeks.",
-        "<strong>SEO website of 700+ pages:</strong> starts at ₹20,000, three to five weeks.",
+        "<strong>SEO website of 299+ pages:</strong> starts at ₹20,000, three to five weeks.",
         "<strong>Android and iOS app:</strong> from ₹40,000, including store publishing.",
         "<strong>WhatsApp and AI automation:</strong> from ₹40,000, two to four weeks.",
         "<strong>Online store with UPI and Razorpay:</strong> starts at ₹50,000, four to eight weeks.",
@@ -231,7 +231,7 @@ const sarni: CityContent = {
     {
       question: "How much does a website cost in Sarni?",
       answer:
-        "A small website starts at ₹10,000 and is ready in one to two weeks. A 700+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software from ₹60,000. We send an itemised written quote in about two working days and bill nothing before you approve it.",
+        "A small website starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software from ₹60,000. We send an itemised written quote in about two working days and bill nothing before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Sarni businesses?",
@@ -291,7 +291,7 @@ const sarni: CityContent = {
     {
       question: "How long will my website or app take?",
       answer:
-        "A small website takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. App timelines depend on features and are written into the quote. Ready photos and text help us finish sooner.",
+        "A small website takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. App timelines depend on features and are written into the quote. Ready photos and text help us finish sooner.",
     },
     {
       question: "Who owns the website and app you build?",

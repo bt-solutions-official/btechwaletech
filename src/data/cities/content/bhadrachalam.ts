@@ -39,7 +39,7 @@ const bhadrachalam: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Festival-season booking pages", "Telugu-first local SEO", "Itemised quote in 2 working days"],
   },
   quickAnswer:
-    "Bhadrachalam businesses can get a website from us starting at ₹10,000, typically live within one to two weeks. Android and iOS apps and AI automation each start at ₹40,000; a 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no local office, and you own all accounts.",
+    "Bhadrachalam businesses can get a website from us starting at ₹10,000, typically live within one to two weeks. Android and iOS apps and AI automation each start at ₹40,000; a 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no local office, and you own all accounts.",
   snapshot: [
     { label: "District", value: "Bhadradri Kothagudem; headquarters of the Bhadrachalam revenue division" },
     { label: "Population", value: "50,087 at the 2011 census, on about 12 sq km along the Godavari" },
@@ -151,7 +151,7 @@ const bhadrachalam: CityContent = {
       paragraphs: [
         "Rather than a bare table, here is how pricing tends to work out for three kinds of local client. The complete list of starting prices is on our <a href=\"/pricing/\">pricing page</a>.",
         "<strong>A twelve-room lodge near the temple.</strong> A static site with rooms, tariffs, photographs, directions and a WhatsApp booking button starts at ₹10,000 and goes live in one to two weeks. A Telugu version, a festival-rate calendar or online advance payment each add a separate line.",
-        "<strong>A coaching centre drawing students from several mandals.</strong> A 700+ page SEO website covering every course, subject and nearby town starts at ₹20,000 and takes three to five weeks. A parent app for marks and notices starts at ₹40,000, as does WhatsApp automation for admission questions.",
+        "<strong>A coaching centre drawing students from several mandals.</strong> A 299+ page SEO website covering every course, subject and nearby town starts at ₹20,000 and takes three to five weeks. A parent app for marks and notices starts at ₹40,000, as does WhatsApp automation for admission questions.",
         "<strong>A contractor working at the Sarapaka plant.</strong> A capability site starts at ₹10,000; a job and invoice register is custom software from ₹60,000 over six to twelve weeks. If you also sell products, an online store starts at ₹50,000. Monthly SEO is from ₹10,000 a month, and maintenance from ₹8,000 a month once five free months end.",
         "Local quotes vary widely, so compare what sits behind the number: who owns the domain and code, whether pages are tested on low-cost phones, whether a map listing is included, how many changes are covered and what support costs later. Your itemised quote arrives in about two working days.",
       ],
@@ -212,7 +212,7 @@ const bhadrachalam: CityContent = {
     {
       question: "How much does a website cost in Bhadrachalam?",
       answer:
-        "Websites start at ₹10,000 for a static site of up to 100 pages. SEO websites of 700+ pages start at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; Telugu content, festival calendars, payments and logins are listed as separate items in a written quote before anything is billed.",
+        "Websites start at ₹10,000 for a static site of up to 100 pages. SEO websites of 299+ pages start at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; Telugu content, festival calendars, payments and logins are listed as separate items in a written quote before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Bhadrachalam businesses?",
@@ -247,7 +247,7 @@ const bhadrachalam: CityContent = {
     {
       question: "Bhadrachalam me website banwane me kitna time aur paisa lagta hai?",
       answer:
-        "Static website ₹10,000 se shuru hoti hai aur ek se do hafte mein taiyaar ho jaati hai. 700+ page SEO website ₹20,000 se aur teen-paanch hafte mein, Android aur iOS app ₹40,000 se, online store ₹50,000 se shuru. Poora quote likhit mein, har item alag se, do working din mein milta hai.",
+        "Static website ₹10,000 se shuru hoti hai aur ek se do hafte mein taiyaar ho jaati hai. 299+ page SEO website ₹20,000 se aur teen-paanch hafte mein, Android aur iOS app ₹40,000 se, online store ₹50,000 se shuru. Poora quote likhit mein, har item alag se, do working din mein milta hai.",
     },
     {
       question: "You have no office in Bhadrachalam. How can I trust the work?",

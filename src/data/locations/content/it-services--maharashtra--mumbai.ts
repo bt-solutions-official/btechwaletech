@@ -194,7 +194,7 @@ const content: CityContent = {
       heading: "SEO and AI-search visibility for Mumbai B2B and service firms",
       paragraphs: [
         "SEO for Mumbai firms means ranking for high-intent service and suburb searches, publishing B2B pages that procurement teams and overseas buyers trust, and being described accurately by AI tools such as Google AI Overviews and ChatGPT. It depends on fast pages, precise content, schema and consistent business information.",
-        "Mumbai search is intensely competitive, so specificity wins. A forwarder ranks better with pages for each service, commodity and port than with one generic page. A clinic ranks better with doctor and treatment pages tied to its actual neighbourhood. Static sites start at ₹10,000, 700+ page SEO websites at ₹20,000 and monthly SEO at ₹10,000.",
+        "Mumbai search is intensely competitive, so specificity wins. A forwarder ranks better with pages for each service, commodity and port than with one generic page. A clinic ranks better with doctor and treatment pages tied to its actual neighbourhood. Static sites start at ₹10,000, 299+ page SEO websites at ₹20,000 and monthly SEO at ₹10,000.",
         "We never guarantee rankings. For local website detail see the separate <a href='/mumbai/'>Mumbai websites page</a>, plus <a href='/services/seo-services/'>SEO services</a> and <a href='/services/web-development/'>web development</a>.",
       ],
     },

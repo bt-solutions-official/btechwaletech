@@ -39,7 +39,7 @@ const nasirabad: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi local SEO", "Truck body and fleet tools", "All accounts in your name"],
   },
   quickAnswer:
-    "Nasirabad workshops, shops and schools can have a website built by us from ₹10,000, normally within one to two weeks of getting photos. Android and iOS apps are quoted from ₹40,000, AI or WhatsApp automation likewise; 700+ page SEO sites run from ₹20,000, online stores from ₹50,000, custom software from ₹60,000. We work remotely and keep no office in Nasirabad.",
+    "Nasirabad workshops, shops and schools can have a website built by us from ₹10,000, normally within one to two weeks of getting photos. Android and iOS apps are quoted from ₹40,000, AI or WhatsApp automation likewise; 299+ page SEO sites run from ₹20,000, online stores from ₹50,000, custom software from ₹60,000. We work remotely and keep no office in Nasirabad.",
   snapshot: [
     { label: "Location", value: "Cantonment town in Ajmer district, roughly 24 km south-east of Ajmer, ringed by the Aravallis" },
     { label: "Population", value: "About 51,000 (Census 2011), with literacy of around 88%" },
@@ -158,7 +158,7 @@ const nasirabad: CityContent = {
       id: "website-cost-nasirabad",
       heading: "Website cost in Nasirabad: starting prices and how to judge quotes",
       paragraphs: [
-        "A website is priced much like a truck body: there is a base build, and options go on top. Our base prices are these. A static website of up to 100 pages is ₹10,000 onwards and takes one to two weeks. An SEO website of 700 pages or more, the right fit for a body builder listing many body types and districts, is ₹20,000 onwards and takes three to five weeks. Android and iOS apps and AI automation are each ₹40,000 onwards. Online stores start from ₹50,000, custom web apps from ₹60,000, and monthly SEO from ₹10,000 a month.",
+        "A website is priced much like a truck body: there is a base build, and options go on top. Our base prices are these. A static website of up to 100 pages is ₹10,000 onwards and takes one to two weeks. An SEO website of 299 pages or more, the right fit for a body builder listing many body types and districts, is ₹20,000 onwards and takes three to five weeks. Android and iOS apps and AI automation are each ₹40,000 onwards. Online stores start from ₹50,000, custom web apps from ₹60,000, and monthly SEO from ₹10,000 a month.",
         "The options are yours to pick, the way steel gauge and extra fittings are on a body: Hindi and English versions, a long product list, courier tables, UPI and card checkout, logins for staff or customers, or a Tally connection. Each has its own line on the quote, and any of them can be dropped. When you supply the text and photographs, the total stays near the base price.",
         "Quotes around Ajmer district vary widely, so compare them on the questions below rather than on the total alone. Our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and your itemised quote reaches you in about two working days.",
       ],
@@ -217,7 +217,7 @@ const nasirabad: CityContent = {
     {
       question: "What is the website cost in Nasirabad?",
       answer:
-        "Websites with us start at ₹10,000 for a static site, ₹20,000 for an SEO site of 700+ pages, ₹50,000 for an online store and ₹60,000 for custom software. These are starting figures; page count, Hindi content, the number of products and software links decide the final number. You get the quote in writing, one item per line, and pay nothing before approving it.",
+        "Websites with us start at ₹10,000 for a static site, ₹20,000 for an SEO site of 299+ pages, ₹50,000 for an online store and ₹60,000 for custom software. These are starting figures; page count, Hindi content, the number of products and software links decide the final number. You get the quote in writing, one item per line, and pay nothing before approving it.",
     },
     {
       question: "Do you build Android and iOS apps for Nasirabad businesses?",
@@ -227,7 +227,7 @@ const nasirabad: CityContent = {
     {
       question: "How long does it take to build a website in Nasirabad?",
       answer:
-        "For a workshop, shop or clinic, expect the site to be live one to two weeks after your photographs and details arrive. Larger work takes longer: three to five weeks for a 700+ page SEO site, four to eight for an online store, six to twelve for custom software. Content sent early is the surest way to finish sooner.",
+        "For a workshop, shop or clinic, expect the site to be live one to two weeks after your photographs and details arrive. Larger work takes longer: three to five weeks for a 299+ page SEO site, four to eight for an online store, six to twelve for custom software. Content sent early is the surest way to finish sooner.",
     },
     {
       question: "Which is the best website development team in Nasirabad?",

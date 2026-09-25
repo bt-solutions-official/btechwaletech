@@ -39,7 +39,7 @@ const pipariya: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Mandi and mill software", "Pachmarhi travel pages", "You hold every login"],
   },
   quickAnswer:
-    "In Pipariya, our websites start at ₹10,000 and usually take one to two weeks. Android and iOS apps and AI automation each start at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team without a local office, and the domain, code and accounts stay yours.",
+    "In Pipariya, our websites start at ₹10,000 and usually take one to two weeks. Android and iOS apps and AI automation each start at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team without a local office, and the domain, code and accounts stay yours.",
   snapshot: [
     { label: "Status", value: "Municipality and tehsil headquarters in Narmadapuram (formerly Hoshangabad) district" },
     { label: "Population", value: "48,826 in the 2011 census" },
@@ -163,7 +163,7 @@ const pipariya: CityContent = {
       id: "website-cost-pipariya",
       heading: "Website cost in Pipariya: what drives the number up or down",
       paragraphs: [
-        "It helps to think in examples. A clinic near Station Road with five or six pages, doctor timings and a map pin fits within a static website, which starts at ₹10,000 and is ready in one to two weeks. A Pachmarhi taxi operator wanting a page for every route and sightseeing plan needs a 700+ page SEO website, from ₹20,000 over three to five weeks.",
+        "It helps to think in examples. A clinic near Station Road with five or six pages, doctor timings and a map pin fits within a static website, which starts at ₹10,000 and is ready in one to two weeks. A Pachmarhi taxi operator wanting a page for every route and sightseeing plan needs a 299+ page SEO website, from ₹20,000 over three to five weeks.",
         "A dal brand selling packs online needs a store, from ₹50,000 and four to eight weeks. A grain trader's purchase and warehouse system is custom software, from ₹60,000 across six to twelve weeks. Apps and AI automation each start at ₹40,000, monthly SEO at ₹10,000 a month, and maintenance at ₹8,000 a month once the five free months are over.",
         "Hindi and English versions, long product catalogues, payment collection, staff logins and Tally links add separate lines to the quote. Other designers in and around Narmadapuram quote very differently for similar-sounding jobs, so compare on substance: who holds the domain, whether the price includes basic SEO, how many revisions are covered and what support costs after year one. Our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and your own quote arrives within about two working days.",
       ],
@@ -221,7 +221,7 @@ const pipariya: CityContent = {
     {
       question: "What is the website cost in Pipariya?",
       answer:
-        "Our static websites begin at ₹10,000, SEO websites of 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices only. The written quote lists pages, languages, products and integrations one by one, and you are not billed before approving it.",
+        "Our static websites begin at ₹10,000, SEO websites of 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices only. The written quote lists pages, languages, products and integrations one by one, and you are not billed before approving it.",
     },
     {
       question: "Do you build Android and iOS apps for Pipariya businesses?",
@@ -236,7 +236,7 @@ const pipariya: CityContent = {
     {
       question: "How soon can my Pipariya business go online?",
       answer:
-        "A small static site is usually live one to two weeks after we receive your details and photographs. An SEO website of 700+ pages takes three to five weeks, an online store four to eight, and custom software six to twelve. Sending your content early is the single biggest thing that speeds a project up.",
+        "A small static site is usually live one to two weeks after we receive your details and photographs. An SEO website of 299+ pages takes three to five weeks, an online store four to eight, and custom software six to twelve. Sending your content early is the single biggest thing that speeds a project up.",
     },
     {
       question: "Who is a good website development team in Pipariya?",
@@ -261,7 +261,7 @@ const pipariya: CityContent = {
     {
       question: "Pipariya me website ya app banwane me kitna kharcha hoga?",
       answer:
-        "Hamare yahan simple website ₹10,000 se shuru hoti hai aur lagbhag ek-do hafte lagte hain. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapki zaroorat ke hisaab se poora quote likh kar, har item alag dikhakar bhejte hain.",
+        "Hamare yahan simple website ₹10,000 se shuru hoti hai aur lagbhag ek-do hafte lagte hain. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapki zaroorat ke hisaab se poora quote likh kar, har item alag dikhakar bhejte hain.",
     },
     {
       question: "How can I trust a team with no office in Pipariya?",

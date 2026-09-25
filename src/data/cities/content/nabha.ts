@@ -39,7 +39,7 @@ const nabha: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Harvester dealer portals", "Punjabi-first local SEO", "Accounts in your name"],
   },
   quickAnswer:
-    "A Nabha business website with us starts at ₹10,000 and typically goes live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software for dealers or arhtiyas at ₹60,000. We work remotely, with no Nabha office, and you own everything.",
+    "A Nabha business website with us starts at ₹10,000 and typically goes live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software for dealers or arhtiyas at ₹60,000. We work remotely, with no Nabha office, and you own everything.",
   snapshot: [
     { label: "Location", value: "City and municipal council in Patiala district, about 25 km from Patiala" },
     { label: "History", value: "Founded as a settlement by Hamir Singh in 1755; capital of Nabha State until it joined PEPSU after 1947" },
@@ -157,7 +157,7 @@ const nabha: CityContent = {
       id: "website-cost-nabha",
       heading: "Website cost in Nabha: starting prices and how to compare quotes",
       paragraphs: [
-        "Our starting prices for Nabha are published: a static website of up to 100 pages from ₹10,000, live in one to two weeks; a 700+ page SEO website from ₹20,000, in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000; an online store from ₹50,000, in four to eight weeks; and custom software from ₹60,000, in six to twelve weeks. Monthly SEO begins at ₹10,000 a month.",
+        "Our starting prices for Nabha are published: a static website of up to 100 pages from ₹10,000, live in one to two weeks; a 299+ page SEO website from ₹20,000, in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000; an online store from ₹50,000, in four to eight weeks; and custom software from ₹60,000, in six to twelve weeks. Monthly SEO begins at ₹10,000 a month.",
         "Scope decides the final figure. Punjabi and English versions, many machine models, large spare parts catalogues, dealer logins, freight calculation and Tally links all add work. If you supply specifications, text and photographs, the quote stays close to the starting price; if we write content or organise parts data, that is listed separately.",
         "Local quotes vary widely. When comparing, ask whose name the domain and hosting will be registered in, whether source code is handed over, what happens if the developer disappears, and how changes after launch are charged. Our <a href=\"/pricing/\">pricing page</a> sets out the starting points, and your written quote arrives in about two working days.",
       ],
@@ -218,7 +218,7 @@ const nabha: CityContent = {
     {
       question: "What is the website cost in Nabha?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Your final figure depends on pages, Punjabi and English content, models or parts, and integrations, and you receive an itemised written quote before any billing.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Your final figure depends on pages, Punjabi and English content, models or parts, and integrations, and you receive an itemised written quote before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Nabha businesses?",
@@ -228,7 +228,7 @@ const nabha: CityContent = {
     {
       question: "How long does a website take for a Nabha business?",
       answer:
-        "A static website usually goes live in one to two weeks once we have your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. For machinery makers, organised model and parts data speeds things up most.",
+        "A static website usually goes live in one to two weeks once we have your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. For machinery makers, organised model and parts data speeds things up most.",
     },
     {
       question: "Which is the best website development team in Nabha?",
@@ -253,7 +253,7 @@ const nabha: CityContent = {
     {
       question: "Nabha vich website banvaun da kinna kharcha aunda hai?",
       answer:
-        "Saade naal simple website ₹10,000 ton shuru hundi hai te aam taur te ikk-do hafteyan vich tiyaar ho jaandi hai. 700+ page SEO website ₹20,000 ton, Android te iOS app ₹40,000 ton, te online store ₹50,000 ton shuru hai. Poora quote likh ke milda hai, te manzoori ton pehlan koi bill nahi.",
+        "Saade naal simple website ₹10,000 ton shuru hundi hai te aam taur te ikk-do hafteyan vich tiyaar ho jaandi hai. 299+ page SEO website ₹20,000 ton, Android te iOS app ₹40,000 ton, te online store ₹50,000 ton shuru hai. Poora quote likh ke milda hai, te manzoori ton pehlan koi bill nahi.",
     },
     {
       question: "You have no office in Nabha. Is it safe to work remotely?",

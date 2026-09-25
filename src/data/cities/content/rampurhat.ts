@@ -39,7 +39,7 @@ const rampurhat: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Bengali-first local SEO", "Tarapith lodge and hotel pages", "You own every account"],
   },
   quickAnswer:
-    "In Rampurhat, a business website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI and WhatsApp automation. A 700+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are remote, with no Rampurhat office.",
+    "In Rampurhat, a business website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI and WhatsApp automation. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are remote, with no Rampurhat office.",
   snapshot: [
     { label: "Location", value: "Subdivision headquarters in Birbhum district, close to the Jharkhand border" },
     { label: "Connectivity", value: "Rampurhat Junction, among the busiest stations of Eastern Railway, plus NH 14" },
@@ -166,7 +166,7 @@ const rampurhat: CityContent = {
       id: "website-cost-rampurhat",
       heading: "Website cost in Rampurhat: starting prices and how to compare quotes",
       paragraphs: [
-        "A simple site for a shop, lodge, clinic or class, up to 100 pages, starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website, useful for a coaching group or a trader covering many products and blocks, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and so does AI automation.",
+        "A simple site for a shop, lodge, clinic or class, up to 100 pages, starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website, useful for a coaching group or a trader covering many products and blocks, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and so does AI automation.",
         "An online store starts at ₹50,000 and takes four to eight weeks. Custom software such as a dispatch system or room booking calendar starts at ₹60,000 and takes six to twelve weeks. Monthly SEO starts at ₹10,000, and maintenance starts at ₹8,000 a month after five free months.",
         "Your quote rises only with what you choose: Bengali and English versions, many products or rooms, delivery rules, staff logins, Tally or weighbridge links. Each is a line you can keep or remove. If you provide your own text and photos, the cost barely changes.",
         "Local quotes in Birbhum vary widely for similar-sounding jobs. Compare who owns the domain, whether the site is tested on low-cost phones, whether basic SEO is included, how many revisions you get and what support costs after a year. Your itemised quote from us arrives in about two working days; start on our <a href=\"/contact/\">contact page</a>.",
@@ -228,7 +228,7 @@ const rampurhat: CityContent = {
     {
       question: "What is the website cost in Rampurhat?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, Bengali content, products and integrations, and it reaches you itemised in writing before anything is billed.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, Bengali content, products and integrations, and it reaches you itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Rampurhat businesses?",
@@ -238,7 +238,7 @@ const rampurhat: CityContent = {
     {
       question: "How long does it take to build a website in Rampurhat?",
       answer:
-        "A simple static site usually goes live within one to two weeks of receiving your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content early.",
+        "A simple static site usually goes live within one to two weeks of receiving your photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content early.",
     },
     {
       question: "Who is the best website development team in Rampurhat?",
@@ -263,7 +263,7 @@ const rampurhat: CityContent = {
     {
       question: "Rampurhat me website banwane me kitna kharcha aata hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein ban jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapke pages aur features ke hisaab se final quote likhit mein milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein ban jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapke pages aur features ke hisaab se final quote likhit mein milta hai.",
     },
     {
       question: "You have no office in Rampurhat. Is remote work safe?",

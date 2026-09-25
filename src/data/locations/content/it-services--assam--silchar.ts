@@ -203,14 +203,14 @@ const content: CityContent = {
       id: "cost-timeline-silchar",
       heading: "How much do freelance software developers in Silchar charge, and how long do projects take?",
       paragraphs: [
-        "Freelance software developers in Silchar, at BtechWaleTech's published rates, charge from ₹10,000 for a website, ₹20,000 for a 700+ page SEO site, ₹40,000 for AI or WhatsApp automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Timelines range from one to two weeks for a website to six to twelve weeks for software.",
+        "Freelance software developers in Silchar, at BtechWaleTech's published rates, charge from ₹10,000 for a website, ₹20,000 for a 299+ page SEO site, ₹40,000 for AI or WhatsApp automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Timelines range from one to two weeks for a website to six to twelve weeks for software.",
         "Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after the five free months. All figures are starting prices: a billing system for one shop costs less than one for three godowns and forty users. The itemised quote lets you phase the work so the most valuable part goes live first.",
         "Payment is only by UPI (scan our QR code) or bank transfer to our account, in INR, in stages tied to progress. Full details are on the <a href='/pricing/'>pricing page</a>, and examples of past projects are on the <a href='/portfolio/'>portfolio</a>.",
       ],
       list: [
         "Website: from ₹10,000, 1 to 2 weeks",
         "WhatsApp or AI automation: from ₹40,000, 2 to 4 weeks",
-        "SEO website of 700+ pages: from ₹20,000, 3 to 5 weeks",
+        "SEO website of 299+ pages: from ₹20,000, 3 to 5 weeks",
         "Android and iOS app: from ₹40,000, 6 to 10 weeks",
         "Online store: from ₹50,000, 4 to 8 weeks",
         "Billing, hospital or payroll software: from ₹60,000, 6 to 12 weeks",

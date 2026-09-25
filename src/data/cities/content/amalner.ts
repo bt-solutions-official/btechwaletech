@@ -35,7 +35,7 @@ const amalner: CityContent = {
     pills: ["Websites from ₹10,000", "Marathi and English pages", "Cotton and agri trade", "Pilgrim-season visibility", "WhatsApp enquiry handling"],
   },
   quickAnswer:
-    "For an Amalner shop, trader, clinic or school, a basic website with us starts at ₹10,000 and is usually ready in one to two weeks. A 700+ page SEO site starts at ₹20,000, WhatsApp automation at ₹40,000 and an online store at ₹50,000. We are a remote team without an Amalner office, and maintenance is free for five months after launch.",
+    "For an Amalner shop, trader, clinic or school, a basic website with us starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp automation at ₹40,000 and an online store at ₹50,000. We are a remote team without an Amalner office, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Location", value: "Taluka headquarters on the Bori river in Jalgaon district, about 36 km from Dhule" },
     { label: "Town population", value: "95,994 at the 2011 census" },
@@ -74,12 +74,12 @@ const amalner: CityContent = {
       heading: "Website prices in Amalner, and how to compare quotes",
       paragraphs: [
         "Website quotes in and around Amalner vary widely. You may be offered a template site by a computer class owner, a package from a Jalgaon agency, or a subscription from a national directory. Comparing only the headline number is misleading. Ask what you actually receive: how many pages, whether basic SEO is done, whose name the domain is in, how fast the site loads on mobile data and who fixes it later.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website with up to 100 pages starts at ₹10,000 and usually takes one to two weeks. That suits shops, clinics, coaching classes, small manufacturers and traders. A 700+ page SEO website, with separate pages for each service, crop, product or nearby village you serve, starts at ₹20,000 and takes three to five weeks.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website with up to 100 pages starts at ₹10,000 and usually takes one to two weeks. That suits shops, clinics, coaching classes, small manufacturers and traders. A 299+ page SEO website, with separate pages for each service, crop, product or nearby village you serve, starts at ₹20,000 and takes three to five weeks.",
         "Beyond that, WhatsApp and AI automation starts at ₹40,000, an online store at ₹50,000, and a custom web application such as a purchase register or dealer portal at ₹60,000. Monthly SEO starts at ₹10,000. Every quote is itemised and written, so you can see what each piece costs and drop anything you do not need before approving.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, Marathi and English, enquiry form, map and search basics.",
-        "<strong>From ₹20,000:</strong> 700+ pages built around what people search, including village and taluka pages.",
+        "<strong>From ₹20,000:</strong> 299+ pages built around what people search, including village and taluka pages.",
         "<strong>From ₹40,000:</strong> WhatsApp and AI automation for enquiries, orders and reminders.",
         "<strong>From ₹50,000:</strong> online store with UPI, cards and delivery options.",
         "<strong>From ₹60,000:</strong> custom tools with logins for traders, institutions and units.",
@@ -212,12 +212,12 @@ const amalner: CityContent = {
     {
       question: "How much does a website cost in Amalner?",
       answer:
-        "With us, a static website of up to 100 pages starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Other developers may quote less or far more, so compare what is included: SEO basics, domain ownership, mobile speed and support after launch.",
+        "With us, a static website of up to 100 pages starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Other developers may quote less or far more, so compare what is included: SEO basics, domain ownership, mobile speed and support after launch.",
     },
     {
       question: "Amalner madhye website banvayla kiti kharch yeto?",
       answer:
-        "Aamchyakade sadhi business website ₹10,000 pasun suru hote. 700+ pages chi SEO website ₹20,000 pasun ani online store ₹50,000 pasun suru hote. Antim kimmat pages, features ani content var avalambun aste. Kaam suru honyapurvi tumhala lekhi, itemised quote milto, ani tumchya manjuri nantarach bill banto.",
+        "Aamchyakade sadhi business website ₹10,000 pasun suru hote. 299+ pages chi SEO website ₹20,000 pasun ani online store ₹50,000 pasun suru hote. Antim kimmat pages, features ani content var avalambun aste. Kaam suru honyapurvi tumhala lekhi, itemised quote milto, ani tumchya manjuri nantarach bill banto.",
     },
     {
       question: "Do you have an office in Amalner?",
@@ -242,7 +242,7 @@ const amalner: CityContent = {
     {
       question: "How long will my website take?",
       answer:
-        "A static website usually takes one to two weeks, a 700+ page SEO website three to five weeks, AI automation two to four weeks, an online store four to eight weeks and a custom application six to twelve weeks. Most delays come from waiting for photos and text, so we prepare drafts for you to check.",
+        "A static website usually takes one to two weeks, a 299+ page SEO website three to five weeks, AI automation two to four weeks, an online store four to eight weeks and a custom application six to twelve weeks. Most delays come from waiting for photos and text, so we prepare drafts for you to check.",
     },
     {
       question: "What can WhatsApp automation do for my business?",

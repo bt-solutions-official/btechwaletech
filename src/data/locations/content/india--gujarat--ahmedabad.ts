@@ -183,12 +183,12 @@ const content: CityContent = {
       id: "ahmedabad-it-cost",
       heading: "How much do IT solutions cost in Ahmedabad?",
       paragraphs: [
-        "IT solutions in Ahmedabad start from ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software or an MVP. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000. These are starting prices, not packages.",
+        "IT solutions in Ahmedabad start from ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software or an MVP. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000. These are starting prices, not packages.",
         "The audit keeps costs predictable because each roadmap item is quoted separately and itemised within about two working days. Complexity, users, integrations and data migration drive the final figure. See our <a href='/pricing/'>pricing page</a> for plan details.",
       ],
       list: [
         "Static website: from ₹10,000, 1 to 2 weeks",
-        "700+ page SEO website: from ₹20,000, 3 to 5 weeks",
+        "299+ page SEO website: from ₹20,000, 3 to 5 weeks",
         "Android and iOS app: from ₹40,000, 6 to 10 weeks",
         "AI automation: from ₹40,000, 2 to 4 weeks",
         "Online store: from ₹50,000, 4 to 8 weeks",

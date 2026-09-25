@@ -39,7 +39,7 @@ const ozar: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Marathi local SEO", "Grape export and pack-house tools", "You own every account"],
   },
   quickAnswer:
-    "Ozar businesses can get a website from us starting at ₹10,000, ready within one to two weeks. Android and iOS apps are priced from ₹40,000, as is AI automation; 700+ page SEO sites from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. Our three engineers work remotely, so there is no Ozar office.",
+    "Ozar businesses can get a website from us starting at ₹10,000, ready within one to two weeks. Android and iOS apps are priced from ₹40,000, as is AI automation; 299+ page SEO sites from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. Our three engineers work remotely, so there is no Ozar office.",
   snapshot: [
     { label: "Location", value: "Census town in Niphad taluka, about 20 km north-east of Nashik on the Mumbai–Agra highway" },
     { label: "Population", value: "About 51,000 (Census 2011), governed by a nagar parishad" },
@@ -171,7 +171,7 @@ const ozar: CityContent = {
       ],
       list: [
         "<strong>Static website</strong>, up to 100 pages: from ₹10,000, live in one to two weeks. Enough for most clinics, shops, schools and workshops.",
-        "<strong>SEO website</strong>, 700 pages or more: from ₹20,000, three to five weeks. Suits an exporter, dealer or school covering many varieties, courses or villages.",
+        "<strong>SEO website</strong>, 299 pages or more: from ₹20,000, three to five weeks. Suits an exporter, dealer or school covering many varieties, courses or villages.",
         "<strong>Android and iOS app</strong>: from ₹40,000, with both stores covered.",
         "<strong>AI or WhatsApp automation</strong>: from ₹40,000, two to four weeks.",
         "<strong>Online store</strong>: from ₹50,000, four to eight weeks.",
@@ -234,7 +234,7 @@ const ozar: CityContent = {
     {
       question: "What is the website cost in Ozar?",
       answer:
-        "A basic website in Ozar is priced from ₹10,000. Beyond that, a 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Marathi pages, the number of products and links to other software push the figure up, and each of those shows as a separate line. Billing waits until you approve the written quote.",
+        "A basic website in Ozar is priced from ₹10,000. Beyond that, a 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Marathi pages, the number of products and links to other software push the figure up, and each of those shows as a separate line. Billing waits until you approve the written quote.",
     },
     {
       question: "Do you build Android and iOS apps for Ozar businesses?",
@@ -244,7 +244,7 @@ const ozar: CityContent = {
     {
       question: "How quickly can an Ozar business get a website?",
       answer:
-        "Once your photographs and details reach us, a clinic, shop or school site is normally online in one to two weeks. Bigger jobs need longer: three to five weeks for a 700+ page SEO site, four to eight for an online store, six to twelve for custom software. Growers do best starting in the quiet months after harvest, when there is time to check drafts.",
+        "Once your photographs and details reach us, a clinic, shop or school site is normally online in one to two weeks. Bigger jobs need longer: three to five weeks for a 299+ page SEO site, four to eight for an online store, six to twelve for custom software. Growers do best starting in the quiet months after harvest, when there is time to check drafts.",
     },
     {
       question: "Who is the best website development team in Ozar?",
@@ -274,7 +274,7 @@ const ozar: CityContent = {
     {
       question: "Ozar me website banwane me kitna kharcha aata hai?",
       answer:
-        "Basic website ka kharcha ₹10,000 se shuru hota hai, aur photos milne ke baad aam taur par 1 se 2 hafte lagte hain. 700+ pages wali SEO site ₹20,000 se, Android-iOS app ₹40,000 se aur online dukaan ₹50,000 se shuru hoti hai. Marathi ya English, jo bhi chahiye, bata dijiye; line-by-line quote do working days ke andar WhatsApp par bhej denge.",
+        "Basic website ka kharcha ₹10,000 se shuru hota hai, aur photos milne ke baad aam taur par 1 se 2 hafte lagte hain. 299+ pages wali SEO site ₹20,000 se, Android-iOS app ₹40,000 se aur online dukaan ₹50,000 se shuru hoti hai. Marathi ya English, jo bhi chahiye, bata dijiye; line-by-line quote do working days ke andar WhatsApp par bhej denge.",
     },
     {
       question: "You have no office in Ozar. Is working remotely safe?",

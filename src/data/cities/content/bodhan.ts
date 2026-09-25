@@ -150,7 +150,7 @@ const bodhan: CityContent = {
       ],
       list: [
         "<strong>Static business website, up to 100 pages:</strong> from ₹10,000, ready in one to two weeks.",
-        "<strong>SEO website of 700+ pages:</strong> from ₹20,000, three to five weeks.",
+        "<strong>SEO website of 299+ pages:</strong> from ₹20,000, three to five weeks.",
         "<strong>Android and iOS app:</strong> from ₹40,000, depending on screens and roles.",
         "<strong>AI or WhatsApp automation:</strong> from ₹40,000, two to four weeks.",
         "<strong>Online store with UPI and Razorpay:</strong> from ₹50,000, four to eight weeks.",
@@ -225,7 +225,7 @@ const bodhan: CityContent = {
     {
       question: "What is the website cost in Bodhan?",
       answer:
-        "A business website with us starts at ₹10,000 and is usually ready in one to two weeks. A 700+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. You receive an itemised written quote in about two working days and pay nothing before approving it.",
+        "A business website with us starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. You receive an itemised written quote in about two working days and pay nothing before approving it.",
     },
     {
       question: "Which is the best IT services team in Bodhan for a small business?",

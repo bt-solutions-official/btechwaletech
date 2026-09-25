@@ -192,7 +192,7 @@ const content: CityContent = {
       id: "cost-timeline-rohini",
       heading: "What does a software development team in Rohini charge, and how long does it take?",
       paragraphs: [
-        "With BtechWaleTech, Rohini projects start at ₹10,000 for a website (one to two weeks), ₹20,000 for a 700+ page SEO website (three to five weeks), ₹40,000 for AI or admission automation (two to four weeks), ₹40,000 for an Android and iOS app (six to ten weeks), ₹50,000 for a course store (four to eight weeks) and ₹60,000 for an LMS or custom software (six to twelve weeks).",
+        "With BtechWaleTech, Rohini projects start at ₹10,000 for a website (one to two weeks), ₹20,000 for a 299+ page SEO website (three to five weeks), ₹40,000 for AI or admission automation (two to four weeks), ₹40,000 for an Android and iOS app (six to ten weeks), ₹50,000 for a course store (four to eight weeks) and ₹60,000 for an LMS or custom software (six to twelve weeks).",
         "Price depends on users, branches, modules and integrations. An LMS for one centre with tests and fees costs less than a multi-branch system with live classes, question banks and a student app. Quotes are itemised so you can phase the work. Payment is in INR only, via UPI with our QR code or by direct bank transfer to our account, in milestones.",
         "Timing matters most for institutes: launch admission automation and SEO before the admission rush, and the LMS before the new session begins. Clinics and factories can launch any time, though factories often prefer the start of a quarter.",
       ],

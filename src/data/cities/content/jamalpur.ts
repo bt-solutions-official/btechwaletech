@@ -34,7 +34,7 @@ const jamalpur: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi and English", "Workshop vendor profiles", "Coaching admissions online", "WhatsApp all week"],
   },
   quickAnswer:
-    "In Jamalpur, a business website from us starts from ₹10,000 and usually goes live in one to two weeks. SEO sites of 700+ pages start from ₹20,000, WhatsApp and AI automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. We work remotely with no Jamalpur office, and maintain every site free for five months.",
+    "In Jamalpur, a business website from us starts from ₹10,000 and usually goes live in one to two weeks. SEO sites of 299+ pages start from ₹20,000, WhatsApp and AI automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. We work remotely with no Jamalpur office, and maintain every site free for five months.",
   snapshot: [
     { label: "District", value: "Jamalpur is in Munger district, about 9 km from Munger town, and the two form a twin-city area" },
     { label: "Nickname", value: "Rail Nagri, the railway town, built around the workshop founded by the East Indian Railway Company in 1862" },
@@ -82,7 +82,7 @@ const jamalpur: CityContent = {
       heading: "What a website costs in Jamalpur",
       paragraphs: [
         "Prices you hear in Jamalpur run from almost nothing for a borrowed template to agency proposals from Patna that include office rent and sales staff. The first often leaves the domain in someone else's name. The second can be hard to justify for a coaching centre or a hardware store. Our starting prices are public, so you can compare fairly.",
-        "A static website of up to 100 pages starts from <strong>₹10,000</strong> and normally launches in one to two weeks. A 700+ page SEO site in Hindi and English begins at <strong>₹20,000</strong> and needs three to five weeks. AI and WhatsApp automation starts at <strong>₹40,000</strong>, an online store with UPI at <strong>₹50,000</strong> and custom software at <strong>₹60,000</strong>. Monthly SEO is available from ₹10,000. See everything on our <a href=\"/pricing/\">pricing page</a>.",
+        "A static website of up to 100 pages starts from <strong>₹10,000</strong> and normally launches in one to two weeks. A 299+ page SEO site in Hindi and English begins at <strong>₹20,000</strong> and needs three to five weeks. AI and WhatsApp automation starts at <strong>₹40,000</strong>, an online store with UPI at <strong>₹50,000</strong> and custom software at <strong>₹60,000</strong>. Monthly SEO is available from ₹10,000. See everything on our <a href=\"/pricing/\">pricing page</a>.",
         "Each figure is a starting point. Your quote lists every item, so you can see why a coaching institute with a student login costs more than a five-page clinic site.",
       ],
       list: [
@@ -218,7 +218,7 @@ const jamalpur: CityContent = {
     {
       question: "How much does a website cost in Jamalpur?",
       answer:
-        "Our business websites start from ₹10,000, 700+ page SEO sites from ₹20,000, WhatsApp and AI automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. The final quote depends on pages, languages, products and features. When comparing offers, check whose name the domain is booked in and what happens after launch.",
+        "Our business websites start from ₹10,000, 299+ page SEO sites from ₹20,000, WhatsApp and AI automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. The final quote depends on pages, languages, products and features. When comparing offers, check whose name the domain is booked in and what happens after launch.",
     },
     {
       question: "Jamalpur me coaching institute ki website banwane ka kharcha kitna hai?",
@@ -248,7 +248,7 @@ const jamalpur: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "Static sites usually take one to two weeks, 700+ page SEO sites three to five weeks, online stores four to eight weeks and custom software six to twelve weeks. Most delays come from waiting for photos and text, so we write drafts for you to correct rather than waiting for everything to arrive.",
+        "Static sites usually take one to two weeks, 299+ page SEO sites three to five weeks, online stores four to eight weeks and custom software six to twelve weeks. Most delays come from waiting for photos and text, so we write drafts for you to correct rather than waiting for everything to arrive.",
     },
     {
       question: "Can you build an online store for my sweet shop or bookshop?",

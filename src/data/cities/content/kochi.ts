@@ -35,7 +35,7 @@ const kochi: CityContent = {
     pills: ["From ₹10,000", "Malayalam and English", "Export-ready B2B sites", "Homestay booking pages", "WhatsApp automation"],
   },
   quickAnswer:
-    "For a Kochi business, a simple website with us starts at ₹10,000 and a 700+ page SEO website at ₹20,000, delivered in one to five weeks. We are a remote team of three engineers with no Kochi office. Hosting setup, search basics and five months of free maintenance are part of every project.",
+    "For a Kochi business, a simple website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000, delivered in one to five weeks. We are a remote team of three engineers with no Kochi office. Hosting setup, search basics and five months of free maintenance are part of every project.",
   snapshot: [
     { label: "Commercial core", value: "MG Road, Broadway, Marine Drive, Kaloor, Palarivattom and Edappally" },
     { label: "Technology parks", value: "Infopark and SmartCity at Kakkanad, plus the Kerala Startup Mission complex at Kalamassery" },
@@ -73,12 +73,12 @@ const kochi: CityContent = {
       heading: "Website prices in Kochi, set out plainly",
       paragraphs: [
         "Business owners in Ernakulam have told us about quotes ranging from ₹4,000 to over ₹75,000 for a site of similar size. At the bottom end you often get a theme with placeholder text changed, hosting held by the developer and no search setup at all. At the top end you pay for account managers, office rent and a sales process rather than for anything visible on the site.",
-        "We keep our starting prices public. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site, with individual pages for services and the Kochi areas you cover, starts at ₹20,000 and takes three to five weeks. Stores with UPI and card checkout begin at ₹50,000, automation at ₹40,000 and custom applications at ₹60,000. Ongoing SEO is from ₹10,000 a month if you want it.",
+        "We keep our starting prices public. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site, with individual pages for services and the Kochi areas you cover, starts at ₹20,000 and takes three to five weeks. Stores with UPI and card checkout begin at ₹50,000, automation at ₹40,000 and custom applications at ₹60,000. Ongoing SEO is from ₹10,000 a month if you want it.",
         "The biggest factor in any quote is content: how many products or rooms, whether you need Malayalam and English, and whether photographs are ready. We list every page and function in the quote, and you are not billed for anything until you approve it in writing.",
       ],
       list: [
         "<strong>Static site, from ₹10,000:</strong> up to 100 pages, WhatsApp and call buttons, map, form. For clinics, consultants and single shops.",
-        "<strong>SEO site, from ₹20,000:</strong> 700+ pages, schema, sitemap and locality pages for areas you really serve.",
+        "<strong>SEO site, from ₹20,000:</strong> 299+ pages, schema, sitemap and locality pages for areas you really serve.",
         "<strong>Store, from ₹50,000:</strong> catalogue, cart, Razorpay UPI and cards, delivery rules. For spice, snack and textile brands.",
         "<strong>Web app, from ₹60,000:</strong> logins, roles, reports, integrations. For exporters, agencies and service firms.",
       ],
@@ -209,12 +209,12 @@ const kochi: CityContent = {
     {
       question: "How much does a website cost in Kochi?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an ecommerce store at ₹50,000 and a custom web application at ₹60,000. Kochi quotes vary widely, so compare what each includes: who owns the domain, whether search setup is done, and what support you get after launch.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an ecommerce store at ₹50,000 and a custom web application at ₹60,000. Kochi quotes vary widely, so compare what each includes: who owns the domain, whether search setup is done, and what support you get after launch.",
     },
     {
       question: "Kochiyil oru website undakkan ethra chilavakum?",
       answer:
-        "Njangalude koode oru simple business website ₹10,000 muthal thudangunnu, 700+ page ulla SEO website ₹20,000 muthal. Online store ₹50,000 muthal aanu. Final vila pages, features, content ennivaye aashrayichirikkum. Pani thudangunnathinu munpu itemised quote njangal tharum.",
+        "Njangalude koode oru simple business website ₹10,000 muthal thudangunnu, 299+ page ulla SEO website ₹20,000 muthal. Online store ₹50,000 muthal aanu. Final vila pages, features, content ennivaye aashrayichirikkum. Pani thudangunnathinu munpu itemised quote njangal tharum.",
     },
     {
       question: "Do you have an office in Kochi?",
@@ -239,7 +239,7 @@ const kochi: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks, and a custom web application six to twelve weeks. Delays usually come from waiting for photographs and text, so we write draft copy for you to correct.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks, and a custom web application six to twelve weeks. Delays usually come from waiting for photographs and text, so we write draft copy for you to correct.",
     },
     {
       question: "Can my website be in Malayalam?",

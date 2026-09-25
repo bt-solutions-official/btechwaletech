@@ -40,7 +40,7 @@ const una: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Gujarati local SEO", "Kesar and seafood trade tools", "Everything in your name"],
   },
   quickAnswer:
-    "For a business in Una, Gujarat, a website with us starts at ₹10,000 and is normally ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, have no Una office, and you own the domain and code.",
+    "For a business in Una, Gujarat, a website with us starts at ₹10,000 and is normally ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, have no Una office, and you own the domain and code.",
   snapshot: [
     { label: "Location", value: "Taluka headquarters in Gir Somnath district, Saurashtra, on the bank of the Machchundri river" },
     { label: "Population", value: "About 58,500 in the town (2011 census); Una taluka has the largest number of villages of any taluka in Gujarat" },
@@ -152,7 +152,7 @@ const una: CityContent = {
       id: "website-cost-una",
       heading: "Website cost in Una: starting prices and what affects the quote",
       paragraphs: [
-        "Static websites of up to 100 pages start at ₹10,000 and take one to two weeks. SEO websites of 700+ pages, useful when you serve many villages or list many products, start at ₹20,000 and take three to five weeks. Android and iOS apps start at ₹40,000, and AI automation starts at ₹40,000 with two to four weeks of work.",
+        "Static websites of up to 100 pages start at ₹10,000 and take one to two weeks. SEO websites of 299+ pages, useful when you serve many villages or list many products, start at ₹20,000 and take three to five weeks. Android and iOS apps start at ₹40,000, and AI automation starts at ₹40,000 with two to four weeks of work.",
         "Online stores start at ₹50,000 and take four to eight weeks. Custom web apps and business software start at ₹60,000 and take six to twelve weeks. Monthly SEO starts at ₹10,000 a month. Every launch includes five months of free maintenance, and ongoing maintenance starts at ₹8,000 a month.",
         "Quotes in the region vary widely, so compare them on the same points: domain and code ownership, Gujarati content, revisions, hosting terms and support after launch. Our itemised quote arrives in about two working days, and nothing is billed before your written approval. The full list is on our <a href=\"/pricing/\">pricing</a> page.",
       ],
@@ -214,7 +214,7 @@ const una: CityContent = {
     {
       question: "What is the website cost in Una?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices only. The final quote depends on pages, Gujarati content, products and integrations, and it comes itemised in writing before anything is billed.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices only. The final quote depends on pages, Gujarati content, products and integrations, and it comes itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Una businesses?",

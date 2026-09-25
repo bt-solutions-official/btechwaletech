@@ -35,7 +35,7 @@ const chennai: CityContent = {
     pills: ["Sites from ₹10,000", "Tamil and English SEO", "UPI-ready stores", "WhatsApp workflows", "Web apps and portals"],
   },
   quickAnswer:
-    "A business website for a Chennai company costs from ₹10,000 with us, and a 700+ page site planned for Google search starts at ₹20,000. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote three-person engineering team, and every build comes with five months of free maintenance after launch.",
+    "A business website for a Chennai company costs from ₹10,000 with us, and a 299+ page site planned for Google search starts at ₹20,000. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote three-person engineering team, and every build comes with five months of free maintenance after launch.",
   snapshot: [
     { label: "Commercial centres", value: "Anna Salai, Nungambakkam, T. Nagar, Parrys Corner, Guindy and Anna Nagar" },
     { label: "IT corridor", value: "Old Mahabalipuram Road from Perungudi to Siruseri SIPCOT IT Park, plus Tidel Park in Taramani" },
@@ -65,7 +65,7 @@ const chennai: CityContent = {
       paragraphs: [
         "Chennai's economy is unusually broad. The same metropolitan area holds a large share of India's car and two-wheeler production, a software corridor stretching down Old Mahabalipuram Road, hospitals that receive patients from across South Asia and Africa, and old trading streets in George Town where family firms have supplied the rest of South India for generations. Each of these groups buys differently, and each looks at a website for different reasons.",
         "A tier-two supplier in Ambattur needs a site that a buyer at a vehicle plant can use to confirm capabilities before a vendor audit. A cardiologist in Nungambakkam needs patients to find her clinic timings and book without calling twice. A SaaS founder in Perungudi needs a homepage that a prospect in Ohio or Sydney will trust. A saree shop in T. Nagar needs its festival collection online before Deepavali, not after. One template does not serve all of them.",
-        "That is why we start every Chennai project with a short conversation about who actually visits your site and what they need to do there. The page plan, the words and the features follow from that. Sometimes the answer is a five-page site that simply loads fast and shows your phone number clearly. Sometimes it is a 700+ page structure built around the searches your customers make. We would rather tell you which one you need than sell you the bigger one.",
+        "That is why we start every Chennai project with a short conversation about who actually visits your site and what they need to do there. The page plan, the words and the features follow from that. Sometimes the answer is a five-page site that simply loads fast and shows your phone number clearly. Sometimes it is a 299+ page structure built around the searches your customers make. We would rather tell you which one you need than sell you the bigger one.",
       ],
     },
     {
@@ -73,12 +73,12 @@ const chennai: CityContent = {
       heading: "How much does a website cost in Chennai?",
       paragraphs: [
         "Prices for a basic business website in Chennai are all over the place. Someone on a classifieds site may offer one for ₹2,500, while an agency with a reception desk on Anna Salai may quote ₹75,000 for something similar. The cheap option usually hides its costs later: the domain sits in the developer's account, there is no SEO setup, and changes are billed one by one. The expensive option is paying for rent and a sales layer between you and the person writing code.",
-        "Our numbers are published so you can compare them against anyone. A static website of up to 100 pages starts at ₹10,000 and typically goes live within one to two weeks. A 700+ page SEO website, with a page for each service and each area you genuinely serve, starts at ₹20,000 and takes three to five weeks. An online store with UPI and card payments starts at ₹50,000. Web applications with logins and dashboards start at ₹60,000. AI and WhatsApp automation starts at ₹40,000, and ongoing SEO is from ₹10,000 a month.",
+        "Our numbers are published so you can compare them against anyone. A static website of up to 100 pages starts at ₹10,000 and typically goes live within one to two weeks. A 299+ page SEO website, with a page for each service and each area you genuinely serve, starts at ₹20,000 and takes three to five weeks. An online store with UPI and card payments starts at ₹50,000. Web applications with logins and dashboards start at ₹60,000. AI and WhatsApp automation starts at ₹40,000, and ongoing SEO is from ₹10,000 a month.",
         "A starting price is exactly that. A jeweller with three hundred designs and no photographs will pay more than a consultant with six service pages ready to paste. You get an itemised quote within about two working days, and nothing is billed until you approve it in writing.",
       ],
       list: [
         "<strong>Static site, from ₹10,000:</strong> up to 100 pages, contact form, mobile layout and basic SEO. Good for clinics, auditors, architects and small showrooms.",
-        "<strong>SEO site, from ₹20,000:</strong> 700+ pages with schema, sitemap and area pages. Good for service firms that want enquiries from Google.",
+        "<strong>SEO site, from ₹20,000:</strong> 299+ pages with schema, sitemap and area pages. Good for service firms that want enquiries from Google.",
         "<strong>Online store, from ₹50,000:</strong> product catalogue, cart, UPI and cards, order notifications. Good for silk, jewellery, food and lifestyle brands.",
         "<strong>Web application, from ₹60,000:</strong> user roles, dashboards, integrations. Good for suppliers, hospitals, institutes and logistics firms.",
       ],
@@ -218,12 +218,12 @@ const chennai: CityContent = {
     {
       question: "What does a website cost in Chennai?",
       answer:
-        "Our static business websites start at ₹10,000, SEO websites with 700+ pages at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. Other Chennai providers quote anywhere from about ₹2,500 to ₹75,000 for similar work, so compare what is included: SEO setup, whether the domain is in your name, and support after launch.",
+        "Our static business websites start at ₹10,000, SEO websites with 299+ pages at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. Other Chennai providers quote anywhere from about ₹2,500 to ₹75,000 for similar work, so compare what is included: SEO setup, whether the domain is in your name, and support after launch.",
     },
     {
       question: "Chennai la oru website panna evlo aagum?",
       answer:
-        "Oru simple business website ₹10,000 la irundhu start aagum. 700+ pages SEO website ₹20,000 la irundhu, online store ₹50,000 la irundhu. Evlo pages, enna features, content ready-aa irukka nu paathu final price varum. Work start panradhukku munnadi full itemised quote anuppuvom.",
+        "Oru simple business website ₹10,000 la irundhu start aagum. 299+ pages SEO website ₹20,000 la irundhu, online store ₹50,000 la irundhu. Evlo pages, enna features, content ready-aa irukka nu paathu final price varum. Work start panradhukku munnadi full itemised quote anuppuvom.",
     },
     {
       question: "Is there a BtechWaleTech office in Chennai I can visit?",
@@ -233,7 +233,7 @@ const chennai: CityContent = {
     {
       question: "How quickly can my website go live?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Delays almost always come from waiting on content or photos, so we draft starter text for you to correct rather than waiting for blank pages to be filled.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Delays almost always come from waiting on content or photos, so we draft starter text for you to correct rather than waiting for blank pages to be filled.",
     },
     {
       question: "Can you get my clinic or shop onto Google Maps in Chennai?",

@@ -34,7 +34,7 @@ const bhavnagar: CityContent = {
     pills: ["From ₹10,000", "Gujarati and English", "Industrial catalogues", "Online food stores", "WhatsApp order logging"],
   },
   quickAnswer:
-    "A website for a Bhavnagar business starts at ₹10,000 with us and a 700+ page SEO site at ₹20,000, ready in one to five weeks. We are three engineers who work remotely and have no Bhavnagar office. Hosting setup, Google search basics and five months of free maintenance come with every project.",
+    "A website for a Bhavnagar business starts at ₹10,000 with us and a 299+ page SEO site at ₹20,000, ready in one to five weeks. We are three engineers who work remotely and have no Bhavnagar office. Hosting setup, Google search basics and five months of free maintenance come with every project.",
   snapshot: [
     { label: "Heavy trade", value: "Alang ship recycling yard on the Gulf of Khambhat, and re-rolling mills across the district" },
     { label: "Diamond work", value: "Thousands of cutting and polishing units in the district, the second-largest small-scale industry after ship breaking" },
@@ -72,12 +72,12 @@ const bhavnagar: CityContent = {
       heading: "Website costs in Bhavnagar, with nothing hidden",
       paragraphs: [
         "Quotes in Bhavnagar for a small business website run from about ₹3,000 to ₹50,000, and the difference is seldom explained. Low quotes usually mean a reused template on the developer's hosting and no search setup. High quotes often include costs that never show up on your site, such as office rent and sales commissions.",
-        "Our starting prices are published. A static website of up to 100 pages begins at ₹10,000 and takes one to two weeks. A 700+ page SEO site, with a page for each product line or service, starts at ₹20,000 and takes three to five weeks. Online stores with UPI and card payments start at ₹50,000, automation at ₹40,000 and custom web applications at ₹60,000. Monthly SEO is from ₹10,000 if you choose it.",
+        "Our starting prices are published. A static website of up to 100 pages begins at ₹10,000 and takes one to two weeks. A 299+ page SEO site, with a page for each product line or service, starts at ₹20,000 and takes three to five weeks. Online stores with UPI and card payments start at ₹50,000, automation at ₹40,000 and custom web applications at ₹60,000. Monthly SEO is from ₹10,000 if you choose it.",
         "Most of the variation comes from content: how many products, whether you need Gujarati and English, and whether photographs exist. Every page and feature is listed in the quote, and no work is billed until you approve it in writing.",
       ],
       list: [
         "<strong>Static site, from ₹10,000:</strong> up to 100 pages, map, call and WhatsApp buttons, enquiry form. For shops, clinics and traders.",
-        "<strong>SEO site, from ₹20,000:</strong> 700+ pages with product or service pages, schema and sitemap.",
+        "<strong>SEO site, from ₹20,000:</strong> 299+ pages with product or service pages, schema and sitemap.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart, Razorpay UPI and cards, shipping rules. For food brands and textiles.",
         "<strong>Web application, from ₹60,000:</strong> stock, dispatch, job-work tracking, dealer portals.",
       ],
@@ -217,12 +217,12 @@ const bhavnagar: CityContent = {
     {
       question: "How much does a website cost in Bhavnagar?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom application at ₹60,000. Bhavnagar quotes vary widely, so compare what each includes: domain ownership, search setup, hosting access and after-launch support.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom application at ₹60,000. Bhavnagar quotes vary widely, so compare what each includes: domain ownership, search setup, hosting access and after-launch support.",
     },
     {
       question: "Bhavnagar ma website banavva mate ketlo kharch thay?",
       answer:
-        "Amara sathe simple business website ₹10,000 thi sharu thay chhe, ane 700+ page vali SEO website ₹20,000 thi. Online store ₹50,000 thi sharu thay chhe. Final kimat pages, features ane content par aadhar rakhe chhe. Kaam sharu karta pehla tamne puru itemised quote aapishu.",
+        "Amara sathe simple business website ₹10,000 thi sharu thay chhe, ane 299+ page vali SEO website ₹20,000 thi. Online store ₹50,000 thi sharu thay chhe. Final kimat pages, features ane content par aadhar rakhe chhe. Kaam sharu karta pehla tamne puru itemised quote aapishu.",
     },
     {
       question: "Do you have an office in Bhavnagar?",
@@ -252,7 +252,7 @@ const bhavnagar: CityContent = {
     {
       question: "How long does a website take to build?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks, and a custom application six to twelve weeks. Delays usually come from waiting for photographs and product lists, so we draft text for you to correct.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks, and a custom application six to twelve weeks. Delays usually come from waiting for photographs and product lists, so we draft text for you to correct.",
     },
     {
       question: "What can WhatsApp automation do for a Bhavnagar business?",

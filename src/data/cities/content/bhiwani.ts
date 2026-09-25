@@ -34,7 +34,7 @@ const bhiwani: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi and Haryanvi-friendly SEO", "Academy and coaching sites", "WhatsApp lead capture", "You own the code"],
   },
   quickAnswer:
-    "A website for a Bhiwani business starts at ₹10,000 with us and is usually live within one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote team with no Bhiwani office, and the domain, hosting and code stay in your name.",
+    "A website for a Bhiwani business starts at ₹10,000 with us and is usually live within one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote team with no Bhiwani office, and the domain, hosting and code stay in your name.",
   snapshot: [
     { label: "Nickname", value: "“Mini Cuba” of Indian boxing, home to a Sports Authority of India boxing hostel and many national-level boxers" },
     { label: "Textiles", value: "Bhiwani Textile Mills on Hansi Road, a Grasim unit, and the Technological Institute of Textile & Sciences set up by the Birlas" },
@@ -72,12 +72,12 @@ const bhiwani: CityContent = {
       heading: "Website costs in Bhiwani, with nothing hidden",
       paragraphs: [
         "Ask around Bhiwani and you will hear website prices that make no sense next to each other: a few thousand rupees from a local computer shop, or a large sum from a Delhi agency. The cheap option often means a template on someone else's account. The expensive one often includes staff and office costs that add nothing to your site.",
-        "Our numbers are starting prices and they are public. A static website of up to 100 pages starts at ₹10,000 and typically goes live in one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, and custom web applications such as a wholesale billing portal at ₹60,000. Ongoing SEO starts at ₹10,000 a month. See every service on the <a href=\"/pricing/\">pricing page</a>.",
+        "Our numbers are starting prices and they are public. A static website of up to 100 pages starts at ₹10,000 and typically goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, and custom web applications such as a wholesale billing portal at ₹60,000. Ongoing SEO starts at ₹10,000 a month. See every service on the <a href=\"/pricing/\">pricing page</a>.",
         "What changes the amount is scope. We write the quote as a list of pages, features and content work, each priced separately, so you can decide what to build now and what can wait. There is no advance charge for the quote and no billing before your written approval.",
       ],
       list: [
         "<strong>Starts at ₹10,000:</strong> a neat site for a shop, clinic, tutor, advocate or CA, with WhatsApp button and SEO basics.",
-        "<strong>Starts at ₹20,000:</strong> a 700+ page site for schools, hospitals, academies and traders who want many search entry points.",
+        "<strong>Starts at ₹20,000:</strong> a 299+ page site for schools, hospitals, academies and traders who want many search entry points.",
         "<strong>Starts at ₹50,000:</strong> an online store for fabric, sports gear or food products with UPI and card payments.",
         "<strong>Starts at ₹60,000:</strong> a custom portal for billing, credit tracking, admissions or dealer orders.",
       ],
@@ -209,12 +209,12 @@ const bhiwani: CityContent = {
     {
       question: "What does a website cost in Bhiwani?",
       answer:
-        "With us, a basic business website starts at ₹10,000 and a 700+ page SEO website at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. The final price depends on pages, features and content, and you get an itemised quote within about two working days before any billing.",
+        "With us, a basic business website starts at ₹10,000 and a 299+ page SEO website at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. The final price depends on pages, features and content, and you get an itemised quote within about two working days before any billing.",
     },
     {
       question: "Bhiwani mein website banwane mein kitne paise lagte hain?",
       answer:
-        "Humare yahan dukaan, clinic ya coaching ki website ₹10,000 se shuru hoti hai. 700+ page wali SEO website ₹20,000 se aur online store ₹50,000 se shuru hota hai. Kitne page aur kya features chahiye, isse final rate tay hota hai. Kaam shuru hone se pehle har cheez ka alag hisaab likh kar diya jaata hai.",
+        "Humare yahan dukaan, clinic ya coaching ki website ₹10,000 se shuru hoti hai. 299+ page wali SEO website ₹20,000 se aur online store ₹50,000 se shuru hota hai. Kitne page aur kya features chahiye, isse final rate tay hota hai. Kaam shuru hone se pehle har cheez ka alag hisaab likh kar diya jaata hai.",
     },
     {
       question: "Is there an office in Bhiwani I can visit?",
@@ -239,7 +239,7 @@ const bhiwani: CityContent = {
     {
       question: "How long does it take?",
       answer:
-        "A static website usually takes one to two weeks, a 700+ page SEO website three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. Content is the usual bottleneck, so we can draft the text for you to correct.",
+        "A static website usually takes one to two weeks, a 299+ page SEO website three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. Content is the usual bottleneck, so we can draft the text for you to correct.",
     },
     {
       question: "Do you work with clients in Tosham, Loharu, Charkhi Dadri or Rohtak?",

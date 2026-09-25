@@ -205,7 +205,7 @@ const content: CityContent = {
       heading: "SEO for Odisha: statewide, city-level and Odia-language search",
       paragraphs: [
         "SEO in Odisha works at three levels: statewide pages for businesses serving all districts, city and area pages for local services, and Odia-language content for searches typed or spoken in Odia. Getting all three right, together with a complete Google Business Profile, makes an Odisha business visible in search results, maps and AI-generated answers.",
-        "Our <a href=\"/services/seo-services/\">SEO services</a> start from ₹10,000 a month and include technical fixes, keyword and page planning, content, schema, local listings and monthly Search Console reports. For businesses that need scale, our 700+ page SEO website, starting from ₹20,000, creates well-structured pages for each city, district or service across Odisha.",
+        "Our <a href=\"/services/seo-services/\">SEO services</a> start from ₹10,000 a month and include technical fixes, keyword and page planning, content, schema, local listings and monthly Search Console reports. For businesses that need scale, our 299+ page SEO website, starting from ₹20,000, creates well-structured pages for each city, district or service across Odisha.",
         "For AI search, we write pages that answer questions directly with named places, prices and timelines, since that is what AI Overviews and chat assistants quote. We do not promise rankings; we show the work and data each month.",
       ],
     },
@@ -213,7 +213,7 @@ const content: CityContent = {
       id: "it-services-cost-odisha",
       heading: "How much do IT services cost in Odisha?",
       paragraphs: [
-        "IT services in Odisha with BtechWaleTech start from ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software or a web application. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000. Details are on our <a href=\"/pricing/\">pricing page</a>.",
+        "IT services in Odisha with BtechWaleTech start from ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software or a web application. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000. Details are on our <a href=\"/pricing/\">pricing page</a>.",
         "Location within Odisha does not change the price; scope does. User roles, integrations with Tally or the WhatsApp Business API, Odia-language content, offline features, custom reports and data migration all add effort. We recommend a phased approach so that the first release solves the most expensive problem quickly.",
         "Clients pay us only in INR, by UPI through our QR code or by direct bank transfer to our bank account, against milestones set out in the estimate. The itemised estimate arrives in about two working days after we understand the requirement.",
       ],

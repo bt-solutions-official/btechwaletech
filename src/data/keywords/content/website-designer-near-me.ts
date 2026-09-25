@@ -306,7 +306,7 @@ const content: FreelanceContent = {
       columns: ["Project", "Starts at (India)", "Starts at (abroad)", "Typical time", "Fits"],
       rows: [
         ["Business website, up to 100 pages", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Shops, clinics, schools"],
-        ["Search-focused site, 700+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Multi-branch clinics, chains"],
+        ["Search-focused site, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Multi-branch clinics, chains"],
         ["Online store", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Shops selling beyond their area"],
         ["Monthly local SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Ongoing", "Owners who want steady search work"],
         ["Care after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Notices, offers, timings, fixes"],

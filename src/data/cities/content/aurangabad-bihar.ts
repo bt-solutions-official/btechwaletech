@@ -34,7 +34,7 @@ const aurangabadBihar: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi and Magahi-friendly copy", "Contractor profiles", "Carpet and dari catalogues", "Google Maps setup"],
   },
   quickAnswer:
-    "A business website in Aurangabad, Bihar starts from ₹10,000 with us and is usually live in one to two weeks. A 700+ page SEO site starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are three remote engineers with no office in Aurangabad, and maintenance is free for five months after launch.",
+    "A business website in Aurangabad, Bihar starts from ₹10,000 with us and is usually live in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are three remote engineers with no office in Aurangabad, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "District", value: "Headquarters of Aurangabad district, carved out of Gaya district on 26 January 1973; vehicle series BR-26" },
     { label: "Roads", value: "On NH19 (the Grand Trunk Road) where it meets NH139; about 70 km from Gaya and 140 km from Patna" },
@@ -77,7 +77,7 @@ const aurangabadBihar: CityContent = {
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages with mobile layout, map, WhatsApp button and enquiry form.",
-        "<strong>From ₹20,000:</strong> 700+ pages for schools, hospitals, contractors and dealers who serve many blocks.",
+        "<strong>From ₹20,000:</strong> 299+ pages for schools, hospitals, contractors and dealers who serve many blocks.",
         "<strong>From ₹50,000:</strong> online store with UPI and card payments for carpets, sweets or packed products.",
         "<strong>From ₹60,000:</strong> custom tools with logins, such as labour registers, material ledgers and fee systems.",
       ],
@@ -209,7 +209,7 @@ const aurangabadBihar: CityContent = {
     {
       question: "How much does a website cost in Aurangabad, Bihar?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO website from ₹20,000, automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices; your written quote depends on pages, features and content, and nothing is billed until you approve it.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO website from ₹20,000, automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices; your written quote depends on pages, features and content, and nothing is billed until you approve it.",
     },
     {
       question: "Aurangabad Bihar me website banwane me kitna kharcha lagta hai?",
@@ -259,7 +259,7 @@ const aurangabadBihar: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, automation two to four weeks, an online store four to eight weeks and custom software six to twelve weeks. Gathering photos and text is usually the slowest part, so we send a checklist on day one.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, automation two to four weeks, an online store four to eight weeks and custom software six to twelve weeks. Gathering photos and text is usually the slowest part, so we send a checklist on day one.",
     },
     {
       question: "Will I own the domain and code?",

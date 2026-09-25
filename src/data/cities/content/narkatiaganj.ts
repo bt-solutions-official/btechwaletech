@@ -39,7 +39,7 @@ const narkatiaganj: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first local SEO", "Marcha rice and chura stores", "Your name on every account"],
   },
   quickAnswer:
-    "For a Narkatiaganj business, a website with us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no local office, and you own every account.",
+    "For a Narkatiaganj business, a website with us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no local office, and you own every account.",
   snapshot: [
     { label: "Location", value: "Town and Nagar Parishad in West Champaran district, Tirhut division, about 280 km north-west of Patna" },
     { label: "Railway", value: "Narkatiaganj Junction on the Barauni–Gorakhpur line, with branches towards Raxaul and Bhikhna Thori" },
@@ -129,7 +129,7 @@ const narkatiaganj: CityContent = {
       paragraphs: [
         "Searches in and around Narkatiaganj are mostly local and mostly on mobile. People type or speak in Hindi, English or a mix: “Narkatiaganj mein kapda dukan”, “best hospital Narkatiaganj”, “rice mill near Narkatiaganj”. Google shows a map pack first, and the businesses with complete, accurate listings take most of those calls.",
         "Our <strong>SEO services in Narkatiaganj</strong> begin with the listing: correct category, hours, photographs, service areas such as Gaunaha, Shikarpur, Mainatand and Lauriya, and a pin that matches your gate. Then come website pages written around what customers actually ask, with your address, phone number and name written the same way everywhere. We also help you ask satisfied customers for honest reviews, without buying any.",
-        "For businesses selling beyond the town, such as rice sellers or coaching centres with online batches, we build topic pages that answer wider questions. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. Monthly SEO starts at ₹10,000 a month and covers new pages, listing posts, fixes and a short report in plain language. See our <a href=\"/services/seo-services/\">SEO services</a> for more.",
+        "For businesses selling beyond the town, such as rice sellers or coaching centres with online batches, we build topic pages that answer wider questions. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Monthly SEO starts at ₹10,000 a month and covers new pages, listing posts, fixes and a short report in plain language. See our <a href=\"/services/seo-services/\">SEO services</a> for more.",
         "We will not promise the number one position. What we can promise is correct groundwork, steady additions and honest reporting of calls, direction requests and enquiries.",
       ],
     },
@@ -221,7 +221,7 @@ const narkatiaganj: CityContent = {
     {
       question: "How much does a website cost in Narkatiaganj?",
       answer:
-        "With us a static website of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. An SEO website of 700+ pages starts at ₹20,000, and an online store at ₹50,000. These are starting prices; your written quote lists each item and rises only with the features you choose.",
+        "With us a static website of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. An SEO website of 299+ pages starts at ₹20,000, and an online store at ₹50,000. These are starting prices; your written quote lists each item and rises only with the features you choose.",
     },
     {
       question: "Which is the best website development team in Narkatiaganj?",
@@ -256,7 +256,7 @@ const narkatiaganj: CityContent = {
     {
       question: "Narkatiaganj me website banwane me kitna kharcha aata hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek se do hafte mein taiyar ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online dukan ₹50,000 se shuru hai. Likhit quote do working din mein milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek se do hafte mein taiyar ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online dukan ₹50,000 se shuru hai. Likhit quote do working din mein milta hai.",
     },
     {
       question: "You have no office in Narkatiaganj. How does the work happen?",

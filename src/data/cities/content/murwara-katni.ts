@@ -34,7 +34,7 @@ const murwaraKatni: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi and English pages", "Mineral supplier sites", "Dal mill dealer portals", "WhatsApp rate replies"],
   },
   quickAnswer:
-    "In Katni, a business website with us starts from ₹10,000 and usually goes live within one to two weeks. A 700+ page SEO website starts from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team of three engineers with no Katni office, and maintenance is free for five months.",
+    "In Katni, a business website with us starts from ₹10,000 and usually goes live within one to two weeks. A 299+ page SEO website starts from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team of three engineers with no Katni office, and maintenance is free for five months.",
   snapshot: [
     { label: "Official name", value: "Murwara, commonly called Katni; headquarters of Katni district, about 90 km from Jabalpur" },
     { label: "Known as", value: "The city of lime, for its limestone, lime kilns and cement-linked mining" },
@@ -72,12 +72,12 @@ const murwaraKatni: CityContent = {
       heading: "Website prices in Katni, explained plainly",
       paragraphs: [
         "Website quotes around Katni range from a couple of thousand rupees for a template, often on the developer's own domain, to large amounts from agencies elsewhere in Madhya Pradesh. The cheap option often skips search basics and cannot be updated. The expensive one includes overheads a mill or a shop has no need to pay for.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts from ₹10,000 and takes one to two weeks. An SEO website of 700+ pages starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, custom web apps and software from ₹60,000, AI and WhatsApp automation from ₹40,000, and monthly SEO from ₹10,000 a month.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts from ₹10,000 and takes one to two weeks. An SEO website of 299+ pages starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, custom web apps and software from ₹60,000, AI and WhatsApp automation from ₹40,000, and monthly SEO from ₹10,000 a month.",
         "A kirana wholesaler with ten pages needs far less work than a mineral company listing forty product grades with test data. The quote covers every page and feature line by line, and billing starts only after you approve it in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, map, enquiry form and search setup. For shops, clinics, schools and small suppliers.",
-        "<strong>From ₹20,000:</strong> 700+ pages built around what buyers actually search. For mills and suppliers who want steady leads.",
+        "<strong>From ₹20,000:</strong> 299+ pages built around what buyers actually search. For mills and suppliers who want steady leads.",
         "<strong>From ₹50,000:</strong> online store with UPI and card payments. For pulses, rice and local food brands.",
         "<strong>From ₹60,000:</strong> custom tools such as dispatch logs and dealer portals.",
       ],
@@ -218,12 +218,12 @@ const murwaraKatni: CityContent = {
     {
       question: "How much does a website cost in Katni?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO site from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. When comparing quotes, check whether they include search setup, hosting in your name and support after launch, since those are often missing.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO site from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. When comparing quotes, check whether they include search setup, hosting in your name and support after launch, since those are often missing.",
     },
     {
       question: "Katni me website banwane ka kharcha kitna hai?",
       answer:
-        "Humare saath simple website ₹10,000 se shuru hoti hai, 700+ page wali SEO website ₹20,000 se aur online store ₹50,000 se. Final price pages, features aur content par depend karta hai. Kaam shuru hone se pehle likhit itemised quote milta hai, aur aapki manzoori ke baad hi bill banta hai.",
+        "Humare saath simple website ₹10,000 se shuru hoti hai, 299+ page wali SEO website ₹20,000 se aur online store ₹50,000 se. Final price pages, features aur content par depend karta hai. Kaam shuru hone se pehle likhit itemised quote milta hai, aur aapki manzoori ke baad hi bill banta hai.",
     },
     {
       question: "Is your office in Katni?",

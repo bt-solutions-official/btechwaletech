@@ -39,7 +39,7 @@ const kunnamkulam: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Malayalam and English SEO", "Book and print catalogues", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Kunnamkulam business, our websites start at ₹10,000 and take one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are fully remote, and you own the domain, code and accounts.",
+    "For a Kunnamkulam business, our websites start at ₹10,000 and take one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are fully remote, and you own the domain, code and accounts.",
   snapshot: [
     { label: "Location", value: "Municipality in Thrissur district, about 24 km north-west of Thrissur and 8 km from Guruvayur" },
     { label: "Printing heritage", value: "Vidyarathnaprabha Press began organised printing here in 1860; the A.R.P. Press started the newspaper Aathmaposhini in 1894" },
@@ -157,7 +157,7 @@ const kunnamkulam: CityContent = {
       id: "website-cost-kunnamkulam",
       heading: "Website cost in Kunnamkulam and what changes the number",
       paragraphs: [
-        "Here are our entry prices, all of them starting figures. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 700 pages or more starts at ₹20,000 and takes three to five weeks; it suits a publisher listing every title or a college covering every course. Android and iOS apps start at ₹40,000. AI automation starts at ₹40,000 and takes two to four weeks. An online store starts at ₹50,000 and takes four to eight weeks. Custom software starts at ₹60,000 and takes six to twelve weeks. Monthly SEO starts at ₹10,000.",
+        "Here are our entry prices, all of them starting figures. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 299 pages or more starts at ₹20,000 and takes three to five weeks; it suits a publisher listing every title or a college covering every course. Android and iOS apps start at ₹40,000. AI automation starts at ₹40,000 and takes two to four weeks. An online store starts at ₹50,000 and takes four to eight weeks. Custom software starts at ₹60,000 and takes six to twelve weeks. Monthly SEO starts at ₹10,000.",
         "What moves your figure up is scope you choose: two languages instead of one, a large title list, weight-based courier rules, online payment, staff accounts with different permissions, or a connection to Tally. Each appears as its own line, so you can drop what you do not need. Supplying your own text and photographs keeps the cost close to the starting price.",
         "Quotes from other providers in Thrissur district vary widely, and the cheapest is not always the cheapest a year later. Ask each one who owns the domain and hosting, whether the code is handed over, whether Malayalam text is typed or pasted as images, how many revision rounds are covered and what happens when you need a change after launch. Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>, and an itemised quote reaches you within about two working days.",
       ],
@@ -219,7 +219,7 @@ const kunnamkulam: CityContent = {
     {
       question: "What is the website cost in Kunnamkulam?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Those are starting prices. Your final quote depends on pages, Malayalam content, products and integrations, and it arrives itemised in writing before any billing.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Those are starting prices. Your final quote depends on pages, Malayalam content, products and integrations, and it arrives itemised in writing before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Kunnamkulam businesses?",
@@ -229,7 +229,7 @@ const kunnamkulam: CityContent = {
     {
       question: "How long does it take to build a website for a Kunnamkulam shop?",
       answer:
-        "A simple shop or clinic site usually goes live one to two weeks after we receive your text and photos. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Sending content early is the single biggest factor in finishing on time.",
+        "A simple shop or clinic site usually goes live one to two weeks after we receive your text and photos. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Sending content early is the single biggest factor in finishing on time.",
     },
     {
       question: "Which is the best IT services team in Kunnamkulam?",
@@ -254,7 +254,7 @@ const kunnamkulam: CityContent = {
     {
       question: "Kunnamkulam me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur lagbhag ek-do hafte mein taiyaar ho jaati hai. Android aur iOS app ₹40,000 se, 700+ page SEO website ₹20,000 se aur online store ₹50,000 se shuru hota hai. Aapke features ke hisaab se likhit, itemised quote milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur lagbhag ek-do hafte mein taiyaar ho jaati hai. Android aur iOS app ₹40,000 se, 299+ page SEO website ₹20,000 se aur online store ₹50,000 se shuru hota hai. Aapke features ke hisaab se likhit, itemised quote milta hai.",
     },
     {
       question: "You have no office in Kunnamkulam. How do I know the work is safe?",

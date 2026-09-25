@@ -35,7 +35,7 @@ const sambalpur: CityContent = {
     pills: ["Websites from ₹10,000", "Odia and English pages", "Handloom stores with UPI", "Supplier sites for MCL vendors", "WhatsApp enquiry handling"],
   },
   quickAnswer:
-    "In Sambalpur, a static website with us starts at ₹10,000 and usually goes live within one to two weeks. A 700+ page SEO website starts from ₹20,000, an online store such as a Sambalpuri saree shop from ₹50,000, and custom software from ₹60,000. We work remotely with no Sambalpur office, and the first five months of maintenance are free.",
+    "In Sambalpur, a static website with us starts at ₹10,000 and usually goes live within one to two weeks. A 299+ page SEO website starts from ₹20,000, an online store such as a Sambalpuri saree shop from ₹50,000, and custom software from ₹60,000. We work remotely with no Sambalpur office, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Regional role", value: "District headquarters on the Mahanadi and the main commercial and administrative centre of western Odisha" },
     { label: "Signature craft", value: "Sambalpuri tie-and-dye handloom, with sarees and fabric protected by a Geographical Indication" },
@@ -73,12 +73,12 @@ const sambalpur: CityContent = {
       heading: "Website costs in Sambalpur, explained plainly",
       paragraphs: [
         "In western Odisha, website quotes swing from a couple of thousand rupees for a template to well over fifty thousand from a city agency. The cheapest versions usually skip search setup and keep the domain in the builder's account. The expensive ones cover overheads you gain nothing from.",
-        "Our figures are published on the <a href=\"/pricing/\">pricing page</a>, and every one is a starting price. A static site of up to 100 pages, which suits most shops, clinics, tutors and small suppliers, starts from ₹10,000 and takes one to two weeks. A 700+ page SEO website planned around real searches starts from ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts at ₹40,000, online stores from ₹50,000, custom software from ₹60,000, and monthly SEO from ₹10,000 a month.",
+        "Our figures are published on the <a href=\"/pricing/\">pricing page</a>, and every one is a starting price. A static site of up to 100 pages, which suits most shops, clinics, tutors and small suppliers, starts from ₹10,000 and takes one to two weeks. A 299+ page SEO website planned around real searches starts from ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts at ₹40,000, online stores from ₹50,000, custom software from ₹60,000, and monthly SEO from ₹10,000 a month.",
         "The final number depends on scope and content. A saree store with a hundred products, each needing weave details and several photographs, takes more work than a clinic with five services. We list every item in the quote so you can remove anything unnecessary before you agree.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form, map and basic SEO, for shops, clinics and small firms.",
-        "<strong>From ₹20,000:</strong> 700+ pages built around searches, for hospitals, institutes and suppliers.",
+        "<strong>From ₹20,000:</strong> 299+ pages built around searches, for hospitals, institutes and suppliers.",
         "<strong>From ₹50,000:</strong> an online store with cart, UPI and cards, for handloom and craft sellers.",
         "<strong>From ₹60,000:</strong> custom tools with logins and dashboards, for contractors, transporters and schools.",
       ],
@@ -211,12 +211,12 @@ const sambalpur: CityContent = {
     {
       question: "How much does a website cost in Sambalpur?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices; your written quote depends on pages, features and content, and nothing is billed before you approve it.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices; your written quote depends on pages, features and content, and nothing is billed before you approve it.",
     },
     {
       question: "Sambalpur re website karibaku kete kharcha hue?",
       answer:
-        "Aama paakhare sadharana website ₹10,000 ru arambha hue, 700+ page SEO website ₹20,000 ru, au online store ₹50,000 ru. Sesha dara page, feature au content upare nirbhara kare. Kaama arambha heba purbaru aapananku lekhita itemised quote miliba, au aapananka anumati pare hin bill hebe.",
+        "Aama paakhare sadharana website ₹10,000 ru arambha hue, 299+ page SEO website ₹20,000 ru, au online store ₹50,000 ru. Sesha dara page, feature au content upare nirbhara kare. Kaama arambha heba purbaru aapananku lekhita itemised quote miliba, au aapananka anumati pare hin bill hebe.",
     },
     {
       question: "Do you have an office in Sambalpur?",
@@ -241,7 +241,7 @@ const sambalpur: CityContent = {
     {
       question: "How long does a website take to build?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve. Most delays come from waiting for photos and text, so we draft content for you to correct.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve. Most delays come from waiting for photos and text, so we draft content for you to correct.",
     },
     {
       question: "I supply equipment to mining contractors. Do I need a website?",

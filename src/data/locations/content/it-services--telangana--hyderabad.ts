@@ -160,7 +160,7 @@ const content: CityContent = {
       heading: "SEO and AI-search visibility for Hyderabad products and services",
       paragraphs: [
         "SEO for Hyderabad businesses has two very different forms: product-led SEO for startups competing nationally or globally, and local SEO for clinics, restaurants, coaching centres and shops competing within a few kilometres. Both depend on fast, well-structured pages with accurate information that search engines and AI assistants can quote.",
-        "For startups we plan topic clusters, comparison and use-case pages, and programmatic pages where data supports them. Our 700+ page SEO websites start from ₹20,000. For local businesses, we build service and area pages for real service areas like Madhapur or Kukatpally and guide Google Business Profile updates. Monthly SEO starts from ₹10,000.",
+        "For startups we plan topic clusters, comparison and use-case pages, and programmatic pages where data supports them. Our 299+ page SEO websites start from ₹20,000. For local businesses, we build service and area pages for real service areas like Madhapur or Kukatpally and guide Google Business Profile updates. Monthly SEO starts from ₹10,000.",
         "We never guarantee rankings. We do provide monthly Search Console reports and honest advice. More detail is on our <a href=\"/services/seo-services/\">SEO services page</a> and <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
@@ -211,7 +211,7 @@ const content: CityContent = {
       ],
       list: [
         "Website up to 100 pages: from ₹10,000, one to two weeks",
-        "SEO website with 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website with 299+ pages: from ₹20,000, three to five weeks",
         "AI agents and automation: from ₹40,000, two to four weeks",
         "Android and iOS app: from ₹40,000, six to ten weeks",
         "Online store: from ₹50,000, four to eight weeks",

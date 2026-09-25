@@ -212,7 +212,7 @@ const content: CityContent = {
       id: "timelines-tura",
       heading: "How long does software development in Tura take?",
       paragraphs: [
-        "A simple Tura business website takes one to two weeks, a 700+ page SEO website three to five weeks, an automation two to four weeks, an online store four to eight weeks, an Android and iOS app six to ten weeks and custom software six to twelve weeks. The biggest variable is usually how quickly content, price lists and approvals arrive from your side.",
+        "A simple Tura business website takes one to two weeks, a 299+ page SEO website three to five weeks, an automation two to four weeks, an online store four to eight weeks, an Android and iOS app six to ten weeks and custom software six to twelve weeks. The biggest variable is usually how quickly content, price lists and approvals arrive from your side.",
         "A typical build follows five steps, listed below. We work in short cycles. After the first call we send the estimate; after approval we map the workflow; then you see working screens every week. Because many Tura owners juggle travel and family commitments, we keep feedback simple: comment on a voice note or a WhatsApp message, and we turn it into tasks.",
         "Holidays and festival seasons, including Christmas and Wangala, slow approvals everywhere in the Garo Hills, so we plan launches around them. If a date is fixed, such as the start of an academic session, tell us early and we will stage the build so the essential parts go live first.",
       ],

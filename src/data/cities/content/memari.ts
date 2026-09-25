@@ -39,7 +39,7 @@ const memari: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Bengali and English pages", "Rice mill and cold storage software", "Domain and code in your name"],
   },
   quickAnswer:
-    "BtechWaleTech builds websites for Memari businesses from ₹10,000, usually ready in one to two weeks, and Android and iOS apps from ₹40,000. A 700+ page SEO site starts at ₹20,000, WhatsApp or AI automation at ₹40,000, an online store at ₹50,000 and rice mill or cold storage software at ₹60,000. We work remotely and you own every account.",
+    "BtechWaleTech builds websites for Memari businesses from ₹10,000, usually ready in one to two weeks, and Android and iOS apps from ₹40,000. A 299+ page SEO site starts at ₹20,000, WhatsApp or AI automation at ₹40,000, an online store at ₹50,000 and rice mill or cold storage software at ₹60,000. We work remotely and you own every account.",
   snapshot: [
     { label: "Where it is", value: "Municipal town in the Bardhaman Sadar South subdivision of Purba Bardhaman district; PIN 713146" },
     { label: "People", value: "41,451 residents in the 2011 census, up from 36,191 in 2001; the municipality has 16 wards" },
@@ -164,7 +164,7 @@ const memari: CityContent = {
       ],
       list: [
         "Static website, up to 100 pages: from ₹10,000, one to two weeks",
-        "SEO website with 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website with 299+ pages: from ₹20,000, three to five weeks",
         "Android and iOS app: from ₹40,000",
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Online store: from ₹50,000, four to eight weeks",
@@ -237,7 +237,7 @@ const memari: CityContent = {
     {
       question: "What is the website cost in Memari?",
       answer:
-        "In Memari, a static website with BtechWaleTech starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, Bengali content, products and integrations. You receive an itemised written quote in about two working days, and nothing is billed before you approve it.",
+        "In Memari, a static website with BtechWaleTech starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, Bengali content, products and integrations. You receive an itemised written quote in about two working days, and nothing is billed before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Memari businesses?",
@@ -252,7 +252,7 @@ const memari: CityContent = {
     {
       question: "How long does it take to make a website in Memari?",
       answer:
-        "A simple Memari business website is usually live one to two weeks after we receive your details and photos. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve. If you want a site ready before Durga Puja or the potato harvest, message us a month or more ahead.",
+        "A simple Memari business website is usually live one to two weeks after we receive your details and photos. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve. If you want a site ready before Durga Puja or the potato harvest, message us a month or more ahead.",
     },
     {
       question: "Which is the best IT services team in Memari for a small business?",

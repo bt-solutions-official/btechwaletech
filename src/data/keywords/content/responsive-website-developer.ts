@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "What you get", value: "One site that adapts to every screen size" },
       { label: "New responsive site", value: `From ${P.site}, 1–2 weeks` },
       { label: "Responsive online store", value: `From ${P.shop}, 4–8 weeks` },
-      { label: "Large SEO site, 700+ pages", value: `From ${P.seoSite}, 3–5 weeks` },
+      { label: "Large SEO site, 299+ pages", value: `From ${P.seoSite}, 3–5 weeks` },
       { label: "Testing", value: "Real phones, tablets, laptops and slow networks" },
       { label: "Ownership", value: "Domain, hosting and code in your name" },
       { label: "Upkeep", value: `5 months free, then from ${P.care}` },
@@ -206,7 +206,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does a responsive website developer charge?",
       paragraphs: [
-        `With BtechWaleTech every new site is responsive by default; there is no separate charge for it. A business website of up to 100 pages starts at ${P.site}, an SEO website with 700+ pages at ${P.seoSite}, a responsive online store at ${P.shop}, and a responsive web app or portal at ${P.software}.`,
+        `With BtechWaleTech every new site is responsive by default; there is no separate charge for it. A business website of up to 100 pages starts at ${P.site}, an SEO website with 299+ pages at ${P.seoSite}, a responsive online store at ${P.shop}, and a responsive web app or portal at ${P.software}.`,
         `For retrofits, the quote depends on the number of distinct templates, the state of the existing code and any complex content like tables or calculators. We quote after reviewing the current site, itemised by template, so you can choose to fix the most visited pages first.`,
         `Across the market, quotes for responsive work vary widely. Ask whether testing on real devices, image optimisation and accessibility checks are included, because those are the parts often left out of low quotes. See <a href='/website-developer-cost/'>website developer cost</a> for a full breakdown.`,
       ],
@@ -273,7 +273,7 @@ const content: FreelanceContent = {
       columns: ["Project", "Starts at (India)", "Starts at (abroad)", "Typical timeline"],
       rows: [
         ["Responsive business website, up to 100 pages", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks"],
-        ["Responsive SEO website, 700+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks"],
+        ["Responsive SEO website, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks"],
         ["Responsive online store", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks"],
         ["Responsive web app or portal", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks"],
         ["Retrofit of an existing site", "Quoted per template after review", "Quoted per template after review", "Depends on code quality"],

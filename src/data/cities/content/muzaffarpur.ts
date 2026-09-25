@@ -34,7 +34,7 @@ const muzaffarpur: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi and Bajjika searches", "Litchi season stores", "WhatsApp order logging", "Code handed to you"],
   },
   quickAnswer:
-    "A business website in Muzaffarpur costs from ₹10,000 with us, and a 700+ page SEO website from ₹20,000. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote three-engineer team with no Muzaffarpur office, and every site includes five months of free maintenance after launch.",
+    "A business website in Muzaffarpur costs from ₹10,000 with us, and a 299+ page SEO website from ₹20,000. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote three-engineer team with no Muzaffarpur office, and every site includes five months of free maintenance after launch.",
   snapshot: [
     { label: "Known as", value: "Capital of North Bihar and the Lychee Kingdom of India" },
     { label: "Signature product", value: "Shahi litchi, GI-tagged in 2018 through a Muzaffarpur growers’ association" },
@@ -71,7 +71,7 @@ const muzaffarpur: CityContent = {
       id: "website-cost-muzaffarpur",
       heading: "What a website costs in Muzaffarpur",
       paragraphs: [
-        "We publish our starting prices so you can compare them before speaking to anyone. A basic website of up to 100 pages starts at ₹10,000 and is usually live in one to two weeks. A 700+ page SEO website, with separate pages for each service, product line or area you serve, starts at ₹20,000 and takes three to five weeks. Online stores with UPI and card payments start at ₹50,000. Custom web applications, such as distributor portals or coaching management systems, start at ₹60,000.",
+        "We publish our starting prices so you can compare them before speaking to anyone. A basic website of up to 100 pages starts at ₹10,000 and is usually live in one to two weeks. A 299+ page SEO website, with separate pages for each service, product line or area you serve, starts at ₹20,000 and takes three to five weeks. Online stores with UPI and card payments start at ₹50,000. Custom web applications, such as distributor portals or coaching management systems, start at ₹60,000.",
         "Automation starts at ₹40,000, monthly SEO at ₹10,000 a month, and maintenance at ₹8,000 a month after the first five free months. The full list is on our <a href=\"/pricing/\">pricing page</a>.",
         "Prices change with scope. A clinic with four doctors is a small job. A cloth wholesaler with six hundred designs and no product data is a bigger one. Your quote lists every item, and nothing is billed until you approve it in writing.",
       ],
@@ -217,12 +217,12 @@ const muzaffarpur: CityContent = {
     {
       question: "How much does a website cost in Muzaffarpur?",
       answer:
-        "With us, a basic website starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Local quotes vary a lot, so compare what is included, especially domain ownership, SEO setup and support after launch.",
+        "With us, a basic website starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Local quotes vary a lot, so compare what is included, especially domain ownership, SEO setup and support after launch.",
     },
     {
       question: "Muzaffarpur me dukaan ki website banwane me kitna paisa lagega?",
       answer:
-        "Humare saath ek simple website ₹10,000 se shuru hoti hai. Agar aap chahte hain ki Google par log aapko dhoondh sakein, to 700+ pages wali SEO website ₹20,000 se banti hai. Online store ₹50,000 se shuru hai. Kaam shuru hone se pehle poora likhit quote milta hai, aur aapki manzoori ke bina koi bill nahi banta.",
+        "Humare saath ek simple website ₹10,000 se shuru hoti hai. Agar aap chahte hain ki Google par log aapko dhoondh sakein, to 299+ pages wali SEO website ₹20,000 se banti hai. Online store ₹50,000 se shuru hai. Kaam shuru hone se pehle poora likhit quote milta hai, aur aapki manzoori ke bina koi bill nahi banta.",
     },
     {
       question: "Do you have an office in Muzaffarpur?",
@@ -247,7 +247,7 @@ const muzaffarpur: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A basic site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Most delays come from waiting for photos and details, so we write draft content for you to correct.",
+        "A basic site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Most delays come from waiting for photos and details, so we write draft content for you to correct.",
     },
     {
       question: "How long before SEO starts working?",

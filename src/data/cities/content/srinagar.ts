@@ -35,7 +35,7 @@ const srinagar: CityContent = {
     pills: ["Sites from ₹10,000", "Direct booking pages", "Craft ecommerce with UPI", "Hindi, Urdu and English content", "Lightweight, fast pages"],
   },
   quickAnswer:
-    "A business website for a Srinagar firm costs from ₹10,000 with us and takes one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store for crafts or dry fruits at ₹50,000. We are a remote team of three engineers with no Srinagar office, and five months of maintenance after launch is included.",
+    "A business website for a Srinagar firm costs from ₹10,000 with us and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store for crafts or dry fruits at ₹50,000. We are a remote team of three engineers with no Srinagar office, and five months of maintenance after launch is included.",
   snapshot: [
     { label: "Commercial core", value: "Lal Chowk, Residency Road, Polo View, Hari Singh High Street and Batamaloo" },
     { label: "Tourism belt", value: "Boulevard Road and Dal Lake houseboats, Nigeen Lake, Rajbagh hotels, the Mughal gardens at Nishat and Shalimar" },
@@ -73,12 +73,12 @@ const srinagar: CityContent = {
       heading: "How much does a website cost in Srinagar?",
       paragraphs: [
         "Prices in the valley vary a great deal. Some operators charge a few thousand rupees for a one-page site on a free builder, where you never own the address and cannot move the content. Agencies outside Kashmir sometimes quote ₹50,000 or more for a hotel website because they assume tourism budgets are large. Neither is necessarily a good deal, because the price says little about whether you will own the site or whether anyone will maintain it.",
-        "With us, a static website of up to 100 pages starts at ₹10,000 and normally goes live in one to two weeks. It suits a clinic, a CA practice, a small guest house or a single craft showroom. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks; this is the right size for a hotel with several room types, a travel agent with separate package pages, or a school. An online store with cart, UPI and card payments starts at ₹50,000. Booking engines, dealer portals and other <a href=\"/services/web-development/\">custom web applications</a> start at ₹60,000.",
+        "With us, a static website of up to 100 pages starts at ₹10,000 and normally goes live in one to two weeks. It suits a clinic, a CA practice, a small guest house or a single craft showroom. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks; this is the right size for a hotel with several room types, a travel agent with separate package pages, or a school. An online store with cart, UPI and card payments starts at ₹50,000. Booking engines, dealer portals and other <a href=\"/services/web-development/\">custom web applications</a> start at ₹60,000.",
         "The full breakdown is on our <a href=\"/pricing/\">pricing page</a>. Whatever you choose, you get a written quote listing every page and feature, and we bill nothing until you have approved it in writing.",
       ],
       list: [
         "<strong>Guest house or clinic site, from ₹10,000:</strong> up to 100 pages, map, enquiry form, WhatsApp button.",
-        "<strong>Hotel, travel or school site, from ₹20,000:</strong> 700+ pages, one per room type, package or course.",
+        "<strong>Hotel, travel or school site, from ₹20,000:</strong> 299+ pages, one per room type, package or course.",
         "<strong>Craft or produce store, from ₹50,000:</strong> product catalogue, UPI and card checkout, shipping rules.",
         "<strong>Booking or order system, from ₹60,000:</strong> availability calendar, staff logins, reports.",
       ],
@@ -116,7 +116,7 @@ const srinagar: CityContent = {
       paragraphs: [
         "Srinagar's medical care is concentrated around SKIMS at Soura, the SMHS and Government Medical College complex at Karan Nagar, and a growing number of private clinics, diagnostic labs and dental practices in Rajbagh, Jawahar Nagar and along the bypass. Patients often travel in from Budgam, Ganderbal or further up the valley, so they need to know timings, consultation days and exact directions before they set out on a long journey.",
         "We build clinic sites with a page for each doctor, the conditions they treat written in plain language, visiting hours that are easy to update, and a booking or callback form. A lab can list its tests with sample requirements and report times. We keep every medical claim conservative and let your doctors approve the wording, because a website that promises too much damages trust quickly in a city where most people hear about a doctor through relatives.",
-        "Education is the other big local category. Private schools in the city compete for admissions each spring, and coaching institutes prepare students for NEET, JEE and the J&K services examinations. Parents want fee structures, transport routes, results and faculty details. Students want batch timings and test schedules. A 700+ page site with a page per course, a results archive and an enquiry form routed to WhatsApp covers most of this, and a student login for notes and recorded lectures can be added later.",
+        "Education is the other big local category. Private schools in the city compete for admissions each spring, and coaching institutes prepare students for NEET, JEE and the J&K services examinations. Parents want fee structures, transport routes, results and faculty details. Students want batch timings and test schedules. A 299+ page site with a page per course, a results archive and an enquiry form routed to WhatsApp covers most of this, and a student login for notes and recorded lectures can be added later.",
       ],
     },
     {
@@ -209,12 +209,12 @@ const srinagar: CityContent = {
     {
       question: "How much does a website cost in Srinagar?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. A houseboat or guest house usually fits the first option, while a hotel or travel agent with many packages needs the second. You receive an itemised quote before any work begins and pay nothing until you approve it.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. A houseboat or guest house usually fits the first option, while a hotel or travel agent with many packages needs the second. You receive an itemised quote before any work begins and pay nothing until you approve it.",
     },
     {
       question: "Srinagar mein website banwane ka kharcha kitna aata hai?",
       answer:
-        "Humare saath ek simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein live ho jaati hai. Hotel ya travel business ke liye 700+ pages wali SEO website ₹20,000 se, aur pashmina ya dry fruits ka online store ₹50,000 se banta hai. Kaam shuru karne se pehle aapko likhit quote milta hai.",
+        "Humare saath ek simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein live ho jaati hai. Hotel ya travel business ke liye 299+ pages wali SEO website ₹20,000 se, aur pashmina ya dry fruits ka online store ₹50,000 se banta hai. Kaam shuru karne se pehle aapko likhit quote milta hai.",
     },
     {
       question: "Do you have an office in Srinagar?",

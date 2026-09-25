@@ -311,7 +311,7 @@ const content: FreelanceContent = {
       columns: ["Project", "Starts at (India)", "Starts at (abroad)", "Typical timeline"],
       rows: [
         ["Static site on S3 + CloudFront", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks"],
-        ["Search-focused site, 700+ pages, on AWS", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks"],
+        ["Search-focused site, 299+ pages, on AWS", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks"],
         ["Online store with AWS backend", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks"],
         ["Custom web app or serverless backend", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks"],
         ["AI features on AWS", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],

@@ -39,7 +39,7 @@ const tasgaon: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Marathi-first local SEO", "Bedana stores and stock software", "Accounts in your name"],
   },
   quickAnswer:
-    "For a Tasgaon business, a website with BtechWaleTech starts at ₹10,000 and takes one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation. A 700+ page SEO site starts at ₹20,000, an online bedana store at ₹50,000 and custom software at ₹60,000. We work remotely and you own every account.",
+    "For a Tasgaon business, a website with BtechWaleTech starts at ₹10,000 and takes one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation. A 299+ page SEO site starts at ₹20,000, an online bedana store at ₹50,000 and custom software at ₹60,000. We work remotely and you own every account.",
   snapshot: [
     { label: "Where it is", value: "Taluka headquarters in Sangli district, north of Sangli and Miraj; PIN 416312" },
     { label: "Civic body", value: "Municipal council founded in 1865, 19 wards; population 37,945 in the 2011 census" },
@@ -78,7 +78,7 @@ const tasgaon: CityContent = {
       paragraphs: [
         "Tasgaon has more land under grapes than any other taluka in Sangli district, and growers here send Thompson Seedless and Tas-A-Ganesh fruit to buyers in the UK, the UAE, Singapore and Bangladesh. An importer's agent or a domestic wholesaler who hears your name will look you up before picking up the phone. What they find decides whether the call happens.",
         "A <strong>website development team in Tasgaon</strong> should build that first impression from facts the buyer actually weighs: varieties grown, acreage, the usual harvest window, packing arrangements, the villages your plots are in, photographs taken in your own vineyard, and a named person who answers. For growers who sell through a packhouse or a farmer group, one shared site with a page per member often works better than twenty separate ones.",
-        "We write these sites in English for buyers and Marathi for local suppliers and workers, and we keep them short. Claims about certifications or export registrations go on the site only when you can show us the document. A grower site starts at ₹10,000; if you want pages for each variety, village and buyer market, the 700+ page SEO build starts at ₹20,000.",
+        "We write these sites in English for buyers and Marathi for local suppliers and workers, and we keep them short. Claims about certifications or export registrations go on the site only when you can show us the document. A grower site starts at ₹10,000; if you want pages for each variety, village and buyer market, the 299+ page SEO build starts at ₹20,000.",
       ],
     },
     {
@@ -162,7 +162,7 @@ const tasgaon: CityContent = {
       ],
       list: [
         "Static website, up to 100 pages: from ₹10,000, one to two weeks",
-        "SEO website of 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website of 299+ pages: from ₹20,000, three to five weeks",
         "Android and iOS app: from ₹40,000",
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Online store for raisins or dry fruit: from ₹50,000, four to eight weeks",
@@ -235,7 +235,7 @@ const tasgaon: CityContent = {
     {
       question: "What is the website cost in Tasgaon?",
       answer:
-        "A static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final amount depends on pages, Marathi content, products and integrations. You get an itemised written quote within about two working days, and nothing is billed before you approve it.",
+        "A static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final amount depends on pages, Marathi content, products and integrations. You get an itemised written quote within about two working days, and nothing is billed before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Tasgaon businesses?",
@@ -250,7 +250,7 @@ const tasgaon: CityContent = {
     {
       question: "How long does a website take in Tasgaon?",
       answer:
-        "A simple business site is usually live one to two weeks after we receive your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. If you want a site ready before harvest or the rath utsav, message us a month ahead.",
+        "A simple business site is usually live one to two weeks after we receive your photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. If you want a site ready before harvest or the rath utsav, message us a month ahead.",
     },
     {
       question: "Which is the best IT services team in Tasgaon for a small business?",

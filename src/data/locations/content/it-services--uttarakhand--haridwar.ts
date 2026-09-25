@@ -171,7 +171,7 @@ const content: CityContent = {
       id: "seo-ai-search-haridwar",
       heading: "SEO and AI-search visibility for Haridwar manufacturers and trusts",
       paragraphs: [
-        "SEO for Haridwar manufacturers and institutions works when each product line, capability or service has a clear page that answers what buyers or pilgrims actually ask. Monthly SEO with us starts at ₹10,000, and a 700+ page SEO website starts at ₹20,000.",
+        "SEO for Haridwar manufacturers and institutions works when each product line, capability or service has a clear page that answers what buyers or pilgrims actually ask. Monthly SEO with us starts at ₹10,000, and a 299+ page SEO website starts at ₹20,000.",
         "B2B pages should state materials, capacities, certifications, minimum orders and lead times plainly, because procurement teams compare suppliers on facts. Pilgrim-facing pages should answer room types, distance to Har Ki Pauri, food arrangements and rules. Short, factual answers with schema markup also make it easier for Google's AI Overviews, ChatGPT and Perplexity to cite a page.",
         "We do not guarantee rankings or AI citations. Results usually build over three to six months. See <a href='/services/seo-services/'>our SEO services</a>, and the <a href='/hardwar/'>Haridwar city guide</a> for local search and website advice for shops and hotels.",
       ],

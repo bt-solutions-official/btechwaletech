@@ -39,7 +39,7 @@ const siruguppa: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Rice mill and trader software", "Kannada local SEO", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Siruguppa business, our websites start at ₹10,000 and a 700+ page SEO site at ₹20,000. Android and iOS apps and AI or WhatsApp automation start at ₹40,000, online stores at ₹50,000 and custom software such as rice mill records at ₹60,000. We are a remote team with no Siruguppa office, and you keep every account.",
+    "For a Siruguppa business, our websites start at ₹10,000 and a 299+ page SEO site at ₹20,000. Android and iOS apps and AI or WhatsApp automation start at ₹40,000, online stores at ₹50,000 and custom software such as rice mill records at ₹60,000. We are a remote team with no Siruguppa office, and you keep every account.",
   snapshot: [
     { label: "Location", value: "Taluk headquarters in Ballari district, near the Andhra Pradesh border, about 55 km by rail from Ballari" },
     { label: "River", value: "Tungabhadra to the north-west; the Vedavathi (Hagari) joins it at Kududarhal" },
@@ -94,7 +94,7 @@ const siruguppa: CityContent = {
       heading: "Website development team in Siruguppa for rice brands and wholesale buyers",
       paragraphs: [
         "Many Siruguppa mills pack under their own brand names, but a buyer in Chennai or Pune often cannot find anything about them beyond a phone number. A clear website fixes that. It shows the varieties you mill, bag sizes, packing options, the mill's capacity in plain terms, quality checks you actually do, photos of the plant, and a form that asks the questions you would otherwise ask on the phone: quantity, destination, delivery window.",
-        "Working as a <strong>website development team in Siruguppa</strong>, we write these sites in English for distant buyers and Kannada for local farmers and agents, with separate pages for each variety so they can be found individually in search. A simple static site starts at ₹10,000 and is usually live in one to two weeks. A larger SEO site of 700+ pages, useful if you want pages for many destination cities and rice varieties, starts at ₹20,000 and takes three to five weeks.",
+        "Working as a <strong>website development team in Siruguppa</strong>, we write these sites in English for distant buyers and Kannada for local farmers and agents, with separate pages for each variety so they can be found individually in search. A simple static site starts at ₹10,000 and is usually live in one to two weeks. A larger SEO site of 299+ pages, useful if you want pages for many destination cities and rice varieties, starts at ₹20,000 and takes three to five weeks.",
         "We do not invent certifications, capacities or export claims. If the mill has an FSSAI licence or a lab report, we show it. If it does not, the page simply does not mention one. Buyers check, and a wrong claim loses the order.",
       ],
     },
@@ -158,7 +158,7 @@ const siruguppa: CityContent = {
       heading: "Website cost in Siruguppa: our starting prices, item by item",
       paragraphs: [
         "The honest answer to “what is the <strong>website cost in Siruguppa</strong>?” is that it depends on what the site must do. Quotes from local freelancers and agencies vary widely, so compare what is included rather than the headline number: who owns the domain, whether hosting renewal is extra, how many revisions you get and who fixes things after launch.",
-        "Our starting prices are public. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 700+ pages starts at ₹20,000 over three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation over two to four weeks. Online stores start at ₹50,000 and take four to eight weeks. Custom software such as a mill system starts at ₹60,000 over six to twelve weeks. Monthly SEO is from ₹10,000 and maintenance from ₹8,000 a month once the free period ends.",
+        "Our starting prices are public. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 299+ pages starts at ₹20,000 over three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation over two to four weeks. Online stores start at ₹50,000 and take four to eight weeks. Custom software such as a mill system starts at ₹60,000 over six to twelve weeks. Monthly SEO is from ₹10,000 and maintenance from ₹8,000 a month once the free period ends.",
         "You receive an itemised quote within about two working days of explaining what you need. Nothing is billed before you approve it in writing. Our <a href=\"/pricing/\">pricing page</a> lists what each starting price covers.",
       ],
     },
@@ -217,7 +217,7 @@ const siruguppa: CityContent = {
     {
       question: "How much does a website cost in Siruguppa?",
       answer:
-        "With us, a static website of up to 100 pages starts at ₹10,000, and a 700+ page SEO website starts at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. These are starting prices; Kannada content, product count and integrations change the final figure, which you see itemised in writing first.",
+        "With us, a static website of up to 100 pages starts at ₹10,000, and a 299+ page SEO website starts at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. These are starting prices; Kannada content, product count and integrations change the final figure, which you see itemised in writing first.",
     },
     {
       question: "Do you build Android and iOS apps for Siruguppa businesses?",
@@ -232,7 +232,7 @@ const siruguppa: CityContent = {
     {
       question: "How long does it take to make a website for a Siruguppa shop?",
       answer:
-        "A simple shop or clinic website normally goes live in one to two weeks, provided we receive photos, timings and service details early. A 700+ page SEO site takes three to five weeks and an online store four to eight. Delays usually come from waiting for content, so we send a checklist on day one.",
+        "A simple shop or clinic website normally goes live in one to two weeks, provided we receive photos, timings and service details early. A 299+ page SEO site takes three to five weeks and an online store four to eight. Delays usually come from waiting for content, so we send a checklist on day one.",
     },
     {
       question: "Which is the best website development team in Siruguppa?",

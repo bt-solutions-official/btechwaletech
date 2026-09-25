@@ -35,7 +35,7 @@ const kakinada: CityContent = {
     pills: ["Sites from ₹10,000", "Telugu and English pages", "Export-ready catalogues", "Uppada silk stores", "Port and SEZ vendor sites"],
   },
   quickAnswer:
-    "In Kakinada, our static business websites start at ₹10,000 and take one to two weeks. A 700+ page SEO website starts at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. We are a remote team of three engineers without a Kakinada office, and the first five months of maintenance are free.",
+    "In Kakinada, our static business websites start at ₹10,000 and take one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. We are a remote team of three engineers without a Kakinada office, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Port city", value: "Deep-water port built in 1996 under a public-private partnership, the state's second largest after Visakhapatnam, sheltered by Hope Island" },
     { label: "Main exports", value: "Seafood, rice, corn and oil meals move through the port" },
@@ -73,12 +73,12 @@ const kakinada: CityContent = {
       heading: "What a website costs in Kakinada, item by item",
       paragraphs: [
         "Owners here tend to receive quotes that are hard to compare. One vendor offers a site for ₹4,000 but keeps the domain in his own account. Another, based in Hyderabad or Visakhapatnam, quotes five figures without explaining what the money covers. A clear breakdown matters more than a low headline number.",
-        "Our starting rates are on the <a href=\"/pricing/\">pricing page</a>. A static website with up to 100 pages, mobile layout, enquiry form, map and search basics starts at ₹10,000 and takes one to two weeks. A 700+ page site mapped to real search terms starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, AI and WhatsApp automation at ₹40,000, and monthly SEO at ₹10,000.",
+        "Our starting rates are on the <a href=\"/pricing/\">pricing page</a>. A static website with up to 100 pages, mobile layout, enquiry form, map and search basics starts at ₹10,000 and takes one to two weeks. A 299+ page site mapped to real search terms starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, AI and WhatsApp automation at ₹40,000, and monthly SEO at ₹10,000.",
         "The final number depends on content and features. An exporter who needs species, count sizes, packing formats and certifications for forty products needs more pages than a tuition centre with three batches. Tell us what you sell and to whom, and we send an itemised quote in about two working days.",
       ],
       list: [
         "<strong>₹10,000 and up:</strong> compact site for a clinic, shop, tutor or agency, with map and WhatsApp button.",
-        "<strong>₹20,000 and up:</strong> 700+ pages covering products, services and the areas you serve.",
+        "<strong>₹20,000 and up:</strong> 299+ pages covering products, services and the areas you serve.",
         "<strong>₹50,000 and up:</strong> online store with cart, UPI and card payments, shipping rules and order emails.",
         "<strong>₹60,000 and up:</strong> portals and internal tools with logins, records and dashboards.",
       ],
@@ -219,12 +219,12 @@ const kakinada: CityContent = {
     {
       question: "How much does a website cost in Kakinada?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. When comparing quotes, ask whether the domain will be in your name, whether search setup is included and what support you get after launch.",
+        "Our static websites start at ₹10,000, 299+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. When comparing quotes, ask whether the domain will be in your name, whether search setup is included and what support you get after launch.",
     },
     {
       question: "Kakinada lo website cheyinchukovadaniki entha kharchu avutundi?",
       answer:
-        "Maa daggara simple website ₹10,000 nunchi modalavutundi, 700+ pages SEO website ₹20,000 nunchi, online store ₹50,000 nunchi. Pani modalupettakamundu meeku itemised quote raatapoorvakamga pampistamu. Meeru oppukunna tarvate bill chestamu, mariyu domain mee peru meede untundi.",
+        "Maa daggara simple website ₹10,000 nunchi modalavutundi, 299+ pages SEO website ₹20,000 nunchi, online store ₹50,000 nunchi. Pani modalupettakamundu meeku itemised quote raatapoorvakamga pampistamu. Meeru oppukunna tarvate bill chestamu, mariyu domain mee peru meede untundi.",
     },
     {
       question: "Do you have an office in Kakinada?",
@@ -254,7 +254,7 @@ const kakinada: CityContent = {
     {
       question: "How long does a website take to build?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. Timelines slip mainly when photos and product details arrive late, so we share a simple checklist on day one.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. Timelines slip mainly when photos and product details arrive late, so we share a simple checklist on day one.",
     },
     {
       question: "What can WhatsApp automation do for a Kakinada business?",

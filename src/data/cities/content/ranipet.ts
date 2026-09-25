@@ -35,7 +35,7 @@ const ranipet: CityContent = {
     pills: ["Sites from ₹10,000", "Export buyer pages", "Tamil and English content", "Supplier capability profiles", "WhatsApp enquiry automation"],
   },
   quickAnswer:
-    "A business website in Ranipet costs from ₹10,000 with us and is usually live in one to two weeks. A 700+ page SEO site for a manufacturer or exporter starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Ranipet office, and maintenance is free for five months after launch.",
+    "A business website in Ranipet costs from ₹10,000 with us and is usually live in one to two weeks. A 299+ page SEO site for a manufacturer or exporter starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Ranipet office, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Location", value: "On the north bank of the Palar, about 115 km west of Chennai and 26 km east of Vellore, on the Chennai–Bengaluru highway" },
     { label: "District", value: "Headquarters of Ranipet district, carved out of Vellore district in 2019, with taluks Arcot, Walajapet, Arakkonam, Sholinghur, Nemili and Kalavai" },
@@ -74,12 +74,12 @@ const ranipet: CityContent = {
       heading: "What a website costs for a Ranipet business",
       paragraphs: [
         "Prices quoted in Ranipet range from ₹3,000 for a template site with no real setup to ₹60,000 or more from Chennai agencies. The low-cost option often leaves the domain in the developer's account and does nothing for search. The high-cost option usually pays for a city office and several layers of management.",
-        "Ours are published. A static website for a shop, clinic, school or small firm starts at <strong>₹10,000</strong> and usually goes live in one to two weeks. A 700+ page site with product, process and capability pages starts at <strong>₹20,000</strong> and takes three to five weeks. Online stores with UPI checkout begin at <strong>₹50,000</strong>, automation at <strong>₹40,000</strong> and custom software at <strong>₹60,000</strong>. Monthly SEO is from ₹10,000. See our <a href=\"/pricing/\">pricing page</a> for the full list.",
+        "Ours are published. A static website for a shop, clinic, school or small firm starts at <strong>₹10,000</strong> and usually goes live in one to two weeks. A 299+ page site with product, process and capability pages starts at <strong>₹20,000</strong> and takes three to five weeks. Online stores with UPI checkout begin at <strong>₹50,000</strong>, automation at <strong>₹40,000</strong> and custom software at <strong>₹60,000</strong>. Monthly SEO is from ₹10,000. See our <a href=\"/pricing/\">pricing page</a> for the full list.",
         "These are starting points. A leather exporter with sixty articles in several colours needs more work than a tuition centre with five pages. You get a written quote naming every page and feature, and no payment is due until you approve it in writing.",
       ],
       list: [
         "<strong>Starter site from ₹10,000:</strong> up to 100 pages, mobile layout, map, WhatsApp link and basic SEO.",
-        "<strong>Capability or catalogue site from ₹20,000:</strong> 700+ pages covering products, processes, certifications and clients.",
+        "<strong>Capability or catalogue site from ₹20,000:</strong> 299+ pages covering products, processes, certifications and clients.",
         "<strong>Online store from ₹50,000:</strong> catalogue, variants, UPI and card payments, shipping and order alerts.",
         "<strong>Custom system from ₹60,000:</strong> order tracking, document management or dealer portals with logins and reports.",
       ],
@@ -214,12 +214,12 @@ const ranipet: CityContent = {
     {
       question: "How much does a website cost in Ranipet?",
       answer:
-        "Our static business sites start at ₹10,000, 700+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. Ranipet quotes range from about ₹3,000 to over ₹60,000, so compare what is included: search setup, a domain in your name and support after launch.",
+        "Our static business sites start at ₹10,000, 299+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. Ranipet quotes range from about ₹3,000 to over ₹60,000, so compare what is included: search setup, a domain in your name and support after launch.",
     },
     {
       question: "Ranipet-la oru chinna kadaikku website panna evvalavu selavaagum?",
       answer:
-        "Engaloda simple business website ₹10,000-la irundhu aarambikkudhu. 700+ page SEO website ₹20,000-la irundhu, online store ₹50,000-la irundhu. Velai aarambikkaradhukku munnaadi ovvoru page-um feature-um kaattura itemised quote anuppuvom. Neenga ezhuththula approve pannura varaikkum edhuvum charge panna maattom.",
+        "Engaloda simple business website ₹10,000-la irundhu aarambikkudhu. 299+ page SEO website ₹20,000-la irundhu, online store ₹50,000-la irundhu. Velai aarambikkaradhukku munnaadi ovvoru page-um feature-um kaattura itemised quote anuppuvom. Neenga ezhuththula approve pannura varaikkum edhuvum charge panna maattom.",
     },
     {
       question: "Do you have an office in Ranipet?",
@@ -249,7 +249,7 @@ const ranipet: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve. Delays mostly come from waiting for photos and details, so we draft content for you to correct.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve. Delays mostly come from waiting for photos and details, so we draft content for you to correct.",
     },
     {
       question: "What can WhatsApp automation do for a Ranipet factory or school?",

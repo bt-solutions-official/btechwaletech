@@ -39,7 +39,7 @@ const chirkunda: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi and Bengali pages", "Refractory and trade catalogues", "Code and domain stay yours"],
   },
   quickAnswer:
-    "In Chirkunda, our websites start at ₹10,000 and a basic site is usually ready within two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation also at ₹40,000, an SEO site of 700+ pages at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We have no local office, and the domain and code belong to you.",
+    "In Chirkunda, our websites start at ₹10,000 and a basic site is usually ready within two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation also at ₹40,000, an SEO site of 299+ pages at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We have no local office, and the domain and code belong to you.",
   snapshot: [
     { label: "Location", value: "Nirsa block of Dhanbad district, about 45 km from Dhanbad, on the Barakar river border with West Bengal" },
     { label: "Civic status", value: "Notified Area Committee from 1986, Nagar Panchayat from January 2008 with 20 wards" },
@@ -217,7 +217,7 @@ const chirkunda: CityContent = {
     {
       question: "What is the website cost in Chirkunda?",
       answer:
-        "Our static websites start at ₹10,000 and SEO websites of 700+ pages at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, Hindi and Bengali content, products and integrations, and it arrives itemised in writing before anything is billed.",
+        "Our static websites start at ₹10,000 and SEO websites of 299+ pages at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, Hindi and Bengali content, products and integrations, and it arrives itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Chirkunda businesses?",
@@ -227,7 +227,7 @@ const chirkunda: CityContent = {
     {
       question: "How long does a Chirkunda business website take?",
       answer:
-        "A static site usually goes live one to two weeks after we receive your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The biggest factor in speed is how quickly content and approvals come back from your side.",
+        "A static site usually goes live one to two weeks after we receive your photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The biggest factor in speed is how quickly content and approvals come back from your side.",
     },
     {
       question: "Who is the best website development team in Chirkunda?",
@@ -252,7 +252,7 @@ const chirkunda: CityContent = {
     {
       question: "Chirkunda me website banwane me kitna kharcha aata hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek se do hafte me taiyaar ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hota hai. Aapke pages aur features ke hisaab se likhit quote milta hai, approval se pehle koi bill nahi.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek se do hafte me taiyaar ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hota hai. Aapke pages aur features ke hisaab se likhit quote milta hai, approval se pehle koi bill nahi.",
     },
     {
       question: "You have no office in Chirkunda. How can I trust remote work?",

@@ -34,7 +34,7 @@ const khammam: CityContent = {
     pills: ["Websites from ₹10,000", "Telugu-first pages", "Chilli and cotton trade profiles", "Granite slab catalogues", "Hospital appointment flows"],
   },
   quickAnswer:
-    "For a Khammam business, a static website with us starts at ₹10,000 and is ready in one to two weeks. A 700+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team with no Khammam office; you own the domain and code, and maintenance is free for five months.",
+    "For a Khammam business, a static website with us starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team with no Khammam office; you own the domain and code, and maintenance is free for five months.",
   snapshot: [
     { label: "Location", value: "On the Munneru river, about 193 km east of Hyderabad and close to the Andhra Pradesh border near Vijayawada" },
     { label: "Market yard", value: "The Khammam Agricultural Market houses Telangana's second-largest chilli yard and handles large cotton arrivals" },
@@ -72,7 +72,7 @@ const khammam: CityContent = {
       heading: "Website prices in Khammam, broken down",
       paragraphs: [
         "Khammam quotes vary a lot. Some offers of a few thousand rupees turn out to be a template on someone else's domain with no search setup. Some agency proposals from bigger cities are several times our rate for similar work. The useful question is not only the number but what it includes and who will own the result. Our full list sits on the <a href=\"/pricing/\">pricing page</a>.",
-        "A static website of up to 100 pages, including mobile layout, Telugu and English content, a contact form, map, WhatsApp button and basic SEO, starts at ₹10,000 and usually goes live in one to two weeks. A 700+ page SEO website, with its own page for each product, variety, department or locality, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
+        "A static website of up to 100 pages, including mobile layout, Telugu and English content, a contact form, map, WhatsApp button and basic SEO, starts at ₹10,000 and usually goes live in one to two weeks. A 299+ page SEO website, with its own page for each product, variety, department or locality, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
         "Two sites at the same tier can still differ in cost. A granite unit with thirty colours and four finishes needs more pages and photography guidance than a single-doctor clinic. The itemised quote shows exactly where each rupee goes.",
       ],
       list: [
@@ -208,12 +208,12 @@ const khammam: CityContent = {
     {
       question: "How much does a website cost in Khammam?",
       answer:
-        "With us a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, languages and features. When comparing, ask who will own the domain and whether search setup and support are included.",
+        "With us a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, languages and features. When comparing, ask who will own the domain and whether search setup and support are included.",
     },
     {
       question: "Khammam lo website cheyadaniki entha avutundi?",
       answer:
-        "Maa daggara simple website ₹10,000 nundi start avutundi, oka rendu vaaralalo live chestamu. 700 pages paina unna SEO website ₹20,000 nundi, online store ₹50,000 nundi. Mundu itemised quote WhatsApp lo pamputhamu. Meeru okay cheppina tarvaate pani modalu, appati varaku emi charge undadu.",
+        "Maa daggara simple website ₹10,000 nundi start avutundi, oka rendu vaaralalo live chestamu. 299 pages paina unna SEO website ₹20,000 nundi, online store ₹50,000 nundi. Mundu itemised quote WhatsApp lo pamputhamu. Meeru okay cheppina tarvaate pani modalu, appati varaku emi charge undadu.",
     },
     {
       question: "Do you have an office in Khammam?",

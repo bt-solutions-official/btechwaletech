@@ -35,7 +35,7 @@ const ratlam: CityContent = {
     pills: ["Sites from ₹10,000", "Sev and namkeen stores", "Jeweller catalogues", "Hindi and English pages", "WhatsApp order logging"],
   },
   quickAnswer:
-    "A business website in Ratlam starts at ₹10,000 with us and is ready in one to two weeks. A 700+ page SEO site starts at ₹20,000, a namkeen or saree store with UPI at ₹50,000 and WhatsApp automation at ₹40,000. We are a remote team of three engineers without a Ratlam office, and five months of maintenance are free.",
+    "A business website in Ratlam starts at ₹10,000 with us and is ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, a namkeen or saree store with UPI at ₹50,000 and WhatsApp automation at ₹40,000. We are a remote team of three engineers without a Ratlam office, and five months of maintenance are free.",
   snapshot: [
     { label: "Location", value: "Malwa region of north-west Madhya Pradesh, close to the Rajasthan and Gujarat borders" },
     { label: "Railway hub", value: "Ratlam Junction on the Delhi–Mumbai and Ajmer–Khandwa routes, and a Western Railway division headquarters" },
@@ -73,12 +73,12 @@ const ratlam: CityContent = {
       heading: "What a website costs in Ratlam",
       paragraphs: [
         "Local quotes in Ratlam range from ₹2,000 for a single page to ₹35,000 or more from agencies in Indore. Low offers usually leave out search setup, keep the domain in the developer's name and disappear after launch. Higher ones may be solid work but carry overheads a small firm does not need.",
-        "Our starting prices are listed openly on our <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page site planned around search starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web apps at ₹60,000, AI and WhatsApp automation at ₹40,000 and monthly SEO at ₹10,000.",
+        "Our starting prices are listed openly on our <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page site planned around search starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web apps at ₹60,000, AI and WhatsApp automation at ₹40,000 and monthly SEO at ₹10,000.",
         "A sweet shop with a dozen items is quick to build. A namkeen unit with sixty products in three pack sizes, or a jeweller showing hundreds of designs, needs more time. You receive an itemised quote in about two working days and pay nothing until you approve it.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, map, WhatsApp and call buttons, basic SEO. Shops, clinics, tutors.",
-        "<strong>From ₹20,000:</strong> 700+ pages with a page per product range or service. Traders and manufacturers.",
+        "<strong>From ₹20,000:</strong> 299+ pages with a page per product range or service. Traders and manufacturers.",
         "<strong>From ₹50,000:</strong> online store with UPI, cards, pack sizes and courier zones. Namkeen, sweets, sarees.",
         "<strong>From ₹60,000:</strong> custom tools such as dealer ordering, batch tracking or billing dashboards.",
       ],
@@ -219,12 +219,12 @@ const ratlam: CityContent = {
     {
       question: "How much does a website cost in Ratlam?",
       answer:
-        "With us, a static site starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. When you compare quotes, check whether the domain is registered in your name, whether basic SEO is included, and who fixes problems after launch.",
+        "With us, a static site starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. When you compare quotes, check whether the domain is registered in your name, whether basic SEO is included, and who fixes problems after launch.",
     },
     {
       question: "Ratlam me website banwane me kitna paisa lagta hai?",
       answer:
-        "Humare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte me ban jaati hai. 700+ page wali SEO website ₹20,000 se, aur sev ya saree ka online store ₹50,000 se. Kaam shuru hone se pehle likhit, item-wise quote milta hai, aur aapki manzoori ke baad hi paisa lagta hai.",
+        "Humare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte me ban jaati hai. 299+ page wali SEO website ₹20,000 se, aur sev ya saree ka online store ₹50,000 se. Kaam shuru hone se pehle likhit, item-wise quote milta hai, aur aapki manzoori ke baad hi paisa lagta hai.",
     },
     {
       question: "Do you have an office in Ratlam?",
@@ -249,7 +249,7 @@ const ratlam: CityContent = {
     {
       question: "How long will my website take?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. Photos and product details are the usual cause of delay, so we give you a checklist and draft the text for your approval.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. Photos and product details are the usual cause of delay, so we give you a checklist and draft the text for your approval.",
     },
     {
       question: "What can WhatsApp automation do for my business?",

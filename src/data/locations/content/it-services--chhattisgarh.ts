@@ -205,7 +205,7 @@ const content: CityContent = {
       id: "cost-timelines-chhattisgarh",
       heading: "How much do IT services cost in Chhattisgarh, and how long do they take?",
       paragraphs: [
-        "BtechWaleTech's IT services in Chhattisgarh start at ₹10,000 for a website (one to two weeks), ₹20,000 for a 700+ page SEO site (three to five weeks), ₹40,000 for AI automation (two to four weeks), ₹50,000 for an online store (four to eight weeks) and ₹60,000 for custom software or web apps (six to twelve weeks). Monthly SEO is from ₹10,000 and maintenance from ₹8,000. Android and iOS apps start at ₹40,000 and take six to ten weeks.",
+        "BtechWaleTech's IT services in Chhattisgarh start at ₹10,000 for a website (one to two weeks), ₹20,000 for a 299+ page SEO site (three to five weeks), ₹40,000 for AI automation (two to four weeks), ₹50,000 for an online store (four to eight weeks) and ₹60,000 for custom software or web apps (six to twelve weeks). Monthly SEO is from ₹10,000 and maintenance from ₹8,000. Android and iOS apps start at ₹40,000 and take six to ten weeks.",
         "Cost depends on user roles, sites, reports, integrations with Tally, GPS or weighbridges, offline mobile features and data migration. Time depends on decisions: projects move fastest when one person approves each weekly demo and sample data arrives early.",
       ],
       list: [

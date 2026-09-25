@@ -35,7 +35,7 @@ const hajipur: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi and English pages", "Manufacturer and B2B sites", "Clinic and school sites", "WhatsApp automation"],
   },
   quickAnswer:
-    "A basic website for a Hajipur business starts at ₹10,000 with us and takes one to two weeks. A 700+ page SEO-focused site starts at ₹20,000, an online store at ₹50,000 and AI or WhatsApp automation at ₹40,000. We work remotely with no office in Hajipur or Patna, and maintenance is free for five months after launch.",
+    "A basic website for a Hajipur business starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO-focused site starts at ₹20,000, an online store at ₹50,000 and AI or WhatsApp automation at ₹40,000. We work remotely with no office in Hajipur or Patna, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Location", value: "Headquarters of Vaishali district, about 10 km from Patna across the Ganga, at its meeting point with the Gandak" },
     { label: "Railway role", value: "Headquarters of the East Central Railway zone, with Hajipur Junction on the lines towards Muzaffarpur and Sonepur" },
@@ -73,7 +73,7 @@ const hajipur: CityContent = {
       heading: "Website prices in Hajipur, laid out openly",
       paragraphs: [
         "Most Hajipur owners have heard a very low price from a local computer centre and a much higher one from a Patna agency. The low one usually leaves the domain in someone else's hands; the high one pays for an office on Boring Road or Fraser Road. Our rates are on the <a href=\"/pricing/\">pricing page</a> for anyone to compare.",
-        "A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks, with a mobile layout, enquiry form, map, WhatsApp button and basic search setup. A larger 700+ page site with pages for each product, service or course starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, custom web apps at ₹60,000 and monthly SEO at ₹10,000.",
+        "A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks, with a mobile layout, enquiry form, map, WhatsApp button and basic search setup. A larger 299+ page site with pages for each product, service or course starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, custom web apps at ₹60,000 and monthly SEO at ₹10,000.",
         "Scope sets the final amount. A single clinic needs far less than a manufacturer with forty products and a distributor portal. We send an itemised quote in about two working days and charge nothing until you approve it in writing.",
       ],
       list: [
@@ -226,7 +226,7 @@ const hajipur: CityContent = {
     {
       question: "What does a website cost in Hajipur?",
       answer:
-        "With us a static site starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. When comparing Hajipur or Patna quotes, check whose name the domain is in, whether basic SEO is included and what support comes after launch.",
+        "With us a static site starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. When comparing Hajipur or Patna quotes, check whose name the domain is in, whether basic SEO is included and what support comes after launch.",
     },
     {
       question: "Hajipur me factory ki website banwane ka kharcha kitna hai?",

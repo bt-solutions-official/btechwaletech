@@ -34,7 +34,7 @@ const palakkad: CityContent = {
     pills: ["Sites from ₹10,000", "Malayalam, Tamil and English", "Supplier catalogues", "Maps and reviews", "No lock-in"],
   },
   quickAnswer:
-    "In Palakkad, a business website with us starts at ₹10,000 and typically goes live in one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and AI or WhatsApp automation at ₹40,000. We are a remote team with no Palakkad office, and the domain, hosting and code belong to you.",
+    "In Palakkad, a business website with us starts at ₹10,000 and typically goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and AI or WhatsApp automation at ₹40,000. We are a remote team with no Palakkad office, and the domain, hosting and code belong to you.",
   snapshot: [
     { label: "Gateway", value: "The Palakkad Gap in the Western Ghats, Kerala's main overland route to Coimbatore and Tamil Nadu" },
     { label: "Industry", value: "Kanjikode, Kerala's second-largest industrial area, with BEML, ITI, Instrumentation Ltd, Saint-Gobain and KINFRA parks" },
@@ -72,12 +72,12 @@ const palakkad: CityContent = {
       heading: "Website pricing for Palakkad businesses, line by line",
       paragraphs: [
         "In Palakkad you can find website offers at almost any figure, from a few thousand rupees for a template to large agency quotes from Kochi or Coimbatore. The cheapest often leave the domain in the developer's name and include no search work. The priciest carry office and sales costs you never benefit from.",
-        "Our public starting prices are simple. A static website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. An online store with UPI checkout begins at ₹50,000, AI or WhatsApp automation at ₹40,000 and custom software such as a vendor job-card portal at ₹60,000. Monthly SEO starts at ₹10,000. All of it is on the <a href=\"/pricing/\">pricing page</a>.",
+        "Our public starting prices are simple. A static website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. An online store with UPI checkout begins at ₹50,000, AI or WhatsApp automation at ₹40,000 and custom software such as a vendor job-card portal at ₹60,000. Monthly SEO starts at ₹10,000. All of it is on the <a href=\"/pricing/\">pricing page</a>.",
         "What changes the total is scope: pages, features, languages and whether we write the content. Each item is priced separately in the quote, so you can start with what matters most and add languages or features later. Nothing is billed until you approve the quote in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> a professional site for a clinic, lawyer, tutor, architect or shop, with WhatsApp button and SEO basics.",
-        "<strong>From ₹20,000:</strong> a 700+ page site for suppliers, hospitals, colleges and hotels targeting many searches.",
+        "<strong>From ₹20,000:</strong> a 299+ page site for suppliers, hospitals, colleges and hotels targeting many searches.",
         "<strong>From ₹50,000:</strong> an online store for rice, snacks, ayurveda or handloom products with UPI and card payments.",
         "<strong>From ₹60,000:</strong> custom software for vendors, mills and service companies, with logins and reports.",
       ],
@@ -217,7 +217,7 @@ const palakkad: CityContent = {
     {
       question: "What does a website cost in Palakkad?",
       answer:
-        "With us, a simple business website starts at ₹10,000 and a 700+ page SEO website at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. The final price depends on pages, features and languages, and you receive an itemised quote within about two working days before anything is billed.",
+        "With us, a simple business website starts at ₹10,000 and a 299+ page SEO website at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. The final price depends on pages, features and languages, and you receive an itemised quote within about two working days before anything is billed.",
     },
     {
       question: "Palakkad-il oru website undakkan ethra chilavu varum?",
@@ -247,7 +247,7 @@ const palakkad: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Waiting for content is the usual delay, so we can draft text for you to review.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Waiting for content is the usual delay, so we can draft text for you to review.",
     },
     {
       question: "Do you work with businesses in Ottappalam, Chittur, Shoranur or Coimbatore?",

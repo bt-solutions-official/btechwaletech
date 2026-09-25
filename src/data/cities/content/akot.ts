@@ -39,7 +39,7 @@ const akot: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Marathi-first local SEO", "Cotton and APMC trade tools", "Domain and code in your name"],
   },
   quickAnswer:
-    "For an Akot business, a website with us starts at ₹10,000 and normally takes one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Akot office, and you own every account.",
+    "For an Akot business, a website with us starts at ₹10,000 and normally takes one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Akot office, and you own every account.",
   snapshot: [
     { label: "Location", value: "Tahsil headquarters in Akola district, roughly 45 km north of Akola city in western Vidarbha" },
     { label: "Population", value: "About 92,600 people in the 2011 Census" },
@@ -129,7 +129,7 @@ const akot: CityContent = {
       paragraphs: [
         "Searches around Akot are local, mobile and often spoken. People ask their phones for “Akot hospital”, “kapus bhav Akot”, “seed shop near me”, “Narnala fort timing” or “English school Akot”, in Marathi, Hindi or English. The first results are usually map listings, so for many businesses the Google Business Profile matters more than the website itself.",
         "Our <strong>SEO services in Akot</strong> start there. We set the right business category and an accurate pin, fill hours including bazaar-day and festival changes, add real photographs of the shop front and inside, list services and products, and plan a steady way to ask satisfied customers for genuine reviews. Duplicate or wrong listings, which are common in smaller towns, are cleaned up.",
-        "Then we add website pages that answer the questions your customers really ask, in the language they use, and link each page to the listing. A hospital might have pages for each speciality and doctor; a dealer might have pages by crop and season; a lodge might have a page on reaching the Shahanur gate. For businesses that want a wider reach, a 700+ page SEO website starts at ₹20,000.",
+        "Then we add website pages that answer the questions your customers really ask, in the language they use, and link each page to the listing. A hospital might have pages for each speciality and doctor; a dealer might have pages by crop and season; a lodge might have a page on reaching the Shahanur gate. For businesses that want a wider reach, a 299+ page SEO website starts at ₹20,000.",
         "Monthly SEO starts at ₹10,000 a month and covers content, listing updates and a clear report. We never promise a number one position, because map rankings depend on distance, competition and reviews that nobody controls. More on <a href=\"/services/seo-services/\">how we approach SEO</a>.",
       ],
     },
@@ -157,7 +157,7 @@ const akot: CityContent = {
       id: "website-cost-akot",
       heading: "Website cost in Akot: starting prices and what changes a quote",
       paragraphs: [
-        "Our starting prices for Akot are the same ones we publish everywhere. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000 over three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
+        "Our starting prices for Akot are the same ones we publish everywhere. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000 over three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
         "Several things push a quote above the starting figure: more pages, Marathi and English versions of every page, a large product catalogue, payment gateway setup, user logins, dealer pricing, or connections to Tally and other software. Content matters too. If you send your own text and photographs, the cost stays close to the starting price; if we write, translate and organise everything, that work is shown as its own line.",
         "Local quotes in and around Akot vary widely, and the cheapest one is not always the cheapest over three years. When you compare, ask whose name the domain and hosting are registered in, whether mobile testing and basic SEO are included, how many rounds of changes you get, what happens if the developer stops responding, and what yearly renewal will cost.",
         "Our <a href=\"/pricing/\">pricing page</a> lists every starting point. For your project, a written itemised quote normally reaches you within about two working days, and there is no charge for preparing it.",
@@ -220,7 +220,7 @@ const akot: CityContent = {
     {
       question: "What is the website cost in Akot?",
       answer:
-        "With us, static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final amount depends on pages, Marathi content, products and integrations, and you receive an itemised written quote before anything is billed.",
+        "With us, static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final amount depends on pages, Marathi content, products and integrations, and you receive an itemised written quote before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Akot businesses?",
@@ -230,7 +230,7 @@ const akot: CityContent = {
     {
       question: "How long does it take to get a website for an Akot shop?",
       answer:
-        "A static website usually goes live in one to two weeks once we have your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having your content ready is what speeds things up most.",
+        "A static website usually goes live in one to two weeks once we have your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having your content ready is what speeds things up most.",
     },
     {
       question: "Which is the best website development team in Akot?",
@@ -255,7 +255,7 @@ const akot: CityContent = {
     {
       question: "Akot me website banwane ka kitna kharcha aata hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein live ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapke pages aur features ke hisaab se likhit quote milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein live ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapke pages aur features ke hisaab se likhit quote milta hai.",
     },
     {
       question: "You have no office in Akot. How does remote work stay safe for me?",

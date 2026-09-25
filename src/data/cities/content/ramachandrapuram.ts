@@ -39,7 +39,7 @@ const ramachandrapuram: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu local SEO", "Aqua and paddy trade tools", "Domain and code in your name"],
   },
   quickAnswer:
-    "A Ramachandrapuram business can get a website from us starting at ₹10,000, usually live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, with no local office.",
+    "A Ramachandrapuram business can get a website from us starting at ₹10,000, usually live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, with no local office.",
   snapshot: [
     { label: "Administration", value: "Municipality, mandal and revenue division headquarters in Dr. B.R. Ambedkar Konaseema district (earlier East Godavari)" },
     { label: "Population", value: "43,657 in the 2011 Census, with town literacy of about 82%" },
@@ -219,7 +219,7 @@ const ramachandrapuram: CityContent = {
     {
       question: "How much does a website cost in Ramachandrapuram?",
       answer:
-        "Our static websites start at ₹10,000 and larger 700+ page SEO websites at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, Telugu content, products and features, and you get it in writing, item by item, before any billing.",
+        "Our static websites start at ₹10,000 and larger 299+ page SEO websites at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, Telugu content, products and features, and you get it in writing, item by item, before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Ramachandrapuram businesses?",
@@ -234,7 +234,7 @@ const ramachandrapuram: CityContent = {
     {
       question: "How long does it take to build a website for a Ramachandrapuram shop?",
       answer:
-        "A simple shop or clinic website is usually live in one to two weeks after we receive your details and photos. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content early.",
+        "A simple shop or clinic website is usually live in one to two weeks after we receive your details and photos. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content early.",
     },
     {
       question: "Can you put my Ramachandrapuram business on Google Maps?",
@@ -254,7 +254,7 @@ const ramachandrapuram: CityContent = {
     {
       question: "Ramachandrapuram lo website cheyinchalante entha kharchu avutundi?",
       answer:
-        "Maa daggara simple website ₹10,000 nundi modalavutundi, okati rendu vaarallo ready avutundi. 700+ pages unna SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalavutayi. Mee pages, features batti final quote raasi pamputhamu, meeru okay annake pani modalu.",
+        "Maa daggara simple website ₹10,000 nundi modalavutundi, okati rendu vaarallo ready avutundi. 299+ pages unna SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalavutayi. Mee pages, features batti final quote raasi pamputhamu, meeru okay annake pani modalu.",
     },
     {
       question: "You have no office in Ramachandrapuram. How is remote work safe?",

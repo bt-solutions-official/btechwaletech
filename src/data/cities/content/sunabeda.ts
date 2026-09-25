@@ -39,7 +39,7 @@ const sunabeda: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Odia-first local SEO", "Contractor and vendor sites", "Accounts in your name"],
   },
   quickAnswer:
-    "In Sunabeda, a website from us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, without a Sunabeda office, and you own everything.",
+    "In Sunabeda, a website from us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, without a Sunabeda office, and you own everything.",
   snapshot: [
     { label: "Location", value: "Municipality in Koraput district, roughly 20 km from Koraput town and 43 km from Jeypore" },
     { label: "Altitude", value: "About 1,000 m above sea level on the Koraput plateau" },
@@ -143,7 +143,7 @@ const sunabeda: CityContent = {
       id: "website-cost-sunabeda",
       heading: "Website cost in Sunabeda: starting prices and how to compare quotes",
       paragraphs: [
-        "Our starting prices are the same in Sunabeda as elsewhere: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 700+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. Monthly SEO begins at ₹10,000 a month.",
+        "Our starting prices are the same in Sunabeda as elsewhere: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 299+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. Monthly SEO begins at ₹10,000 a month.",
         "Scope decides the final amount. Additional pages, separate Odia and English versions, large product lists, payment and courier links, staff logins or a Tally connection each add a line. If you supply text and photographs, the price stays near the starting figure; content writing and photography by us are listed separately.",
         "Local quotes vary widely, so compare the details rather than the headline number. Ask whose name the domain and hosting are in, whether mobile testing and basic SEO are included, how many revision rounds you get and who fixes problems after launch. The starting points are on our <a href=\"/pricing/\">pricing page</a>, and your written quote arrives in about two working days.",
       ],
@@ -213,7 +213,7 @@ const sunabeda: CityContent = {
     {
       question: "What is the website cost in Sunabeda?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Odia content, products and integrations. You receive it itemised in writing, and nothing is billed until you approve it.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Odia content, products and integrations. You receive it itemised in writing, and nothing is billed until you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Sunabeda businesses?",
@@ -223,7 +223,7 @@ const sunabeda: CityContent = {
     {
       question: "How soon can a Sunabeda business get a website?",
       answer:
-        "A static website usually goes live in one to two weeks once we have your text and photographs. A 700+ page SEO website takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having content ready early is the biggest factor in how fast we finish.",
+        "A static website usually goes live in one to two weeks once we have your text and photographs. A 299+ page SEO website takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having content ready early is the biggest factor in how fast we finish.",
     },
     {
       question: "Who is the best website development team in Sunabeda?",
@@ -248,12 +248,12 @@ const sunabeda: CityContent = {
     {
       question: "Sunabeda re website banaibaku kete kharcha heba?",
       answer:
-        "Amathare saral website ₹10,000 ru arambha hue au eka ru dui saptaha bhitare tiari hue. 700+ page SEO website ₹20,000 ru, Android o iOS app ₹40,000 ru, online store ₹50,000 ru arambha. Apananka pages o features anusare itemised quote likhitare pathaibu, approval pare hin billing.",
+        "Amathare saral website ₹10,000 ru arambha hue au eka ru dui saptaha bhitare tiari hue. 299+ page SEO website ₹20,000 ru, Android o iOS app ₹40,000 ru, online store ₹50,000 ru arambha. Apananka pages o features anusare itemised quote likhitare pathaibu, approval pare hin billing.",
     },
     {
       question: "Sunabeda me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein ban jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Final quote aapke pages aur features ke hisaab se likhit mein milega.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein ban jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Final quote aapke pages aur features ke hisaab se likhit mein milega.",
     },
     {
       question: "You have no office in Sunabeda. How do we work together?",

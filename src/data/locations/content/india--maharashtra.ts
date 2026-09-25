@@ -158,7 +158,7 @@ const content: CityContent = {
       paragraphs: [
         "Local SEO in Maharashtra works city by city: a customer in Kolhapur wants Kolhapur results, and a business serving several cities needs a distinct, genuinely useful page and Google Business Profile for each. Language adds another layer, with English, Marathi and Hindi searches all common depending on the service and audience.",
         "We build Marathi, English or bilingual sites with proper Devanagari fonts and language tags so each version can rank for its own queries. For AI-search tools like Google AI Overviews and ChatGPT, we write clear, answer-first sections and keep business facts consistent everywhere.",
-        "Websites start at ₹10,000, SEO websites of 700+ pages at ₹20,000 and monthly SEO at ₹10,000. For specific cities, see our pages on <a href='/mumbai/'>Mumbai</a>, <a href='/pune/'>Pune</a>, <a href='/nagpur/'>Nagpur</a> and <a href='/nashik/'>Nashik</a>, or our <a href='/services/seo-services/'>SEO services</a>.",
+        "Websites start at ₹10,000, SEO websites of 299+ pages at ₹20,000 and monthly SEO at ₹10,000. For specific cities, see our pages on <a href='/mumbai/'>Mumbai</a>, <a href='/pune/'>Pune</a>, <a href='/nagpur/'>Nagpur</a> and <a href='/nashik/'>Nashik</a>, or our <a href='/services/seo-services/'>SEO services</a>.",
       ],
     },
     {
@@ -219,7 +219,7 @@ const content: CityContent = {
       id: "cost-choosing-partner-maharashtra",
       heading: "How much do IT projects cost in Maharashtra, and how should you choose a partner?",
       paragraphs: [
-        "IT projects with us across Maharashtra start at ₹10,000 for a static website, ₹20,000 for an SEO website of 700+ pages, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for ecommerce and ₹60,000 for custom software. Timelines range from one to two weeks for simple sites to six to twelve weeks for custom systems. Full details are on our <a href='/pricing/'>pricing page</a>.",
+        "IT projects with us across Maharashtra start at ₹10,000 for a static website, ₹20,000 for an SEO website of 299+ pages, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for ecommerce and ₹60,000 for custom software. Timelines range from one to two weeks for simple sites to six to twelve weeks for custom systems. Full details are on our <a href='/pricing/'>pricing page</a>.",
         "When choosing any IT partner, get an itemised written quote, confirm your domain, hosting and code will be in your name, check live work, and know exactly who will build and support your project. Very low prices often hide missing backups, pirated themes or recurring fees.",
         "See our <a href='/portfolio/'>portfolio</a>, read about the team on the <a href='/about/'>about page</a>, or explore city-level consulting on our <a href='/india/maharashtra/mumbai/'>Mumbai</a> and <a href='/india/maharashtra/pune/'>Pune</a> IT solutions pages.",
       ],

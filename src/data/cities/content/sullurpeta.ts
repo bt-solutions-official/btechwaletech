@@ -39,7 +39,7 @@ const sullurpeta: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu + Tamil pages", "Sri City vendor sites", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Sullurpeta business, our websites start at ₹10,000 and typically go live within one to two weeks. Android and iOS apps start at ₹40,000, as does AI automation; a 700+ page SEO site starts at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We are fully remote, with no Sullurpeta office.",
+    "For a Sullurpeta business, our websites start at ₹10,000 and typically go live within one to two weeks. Android and iOS apps start at ₹40,000, as does AI automation; a 299+ page SEO site starts at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We are fully remote, with no Sullurpeta office.",
   snapshot: [
     { label: "Location", value: "Municipality and revenue division headquarters in Tirupati district, about 83 km north of Chennai and 77 km east of Tirupati" },
     { label: "Space centre", value: "About 16 km west of Sriharikota island and the Satish Dhawan Space Centre (SDSC SHAR)" },
@@ -158,7 +158,7 @@ const sullurpeta: CityContent = {
       id: "website-cost-sullurpeta",
       heading: "Website cost in Sullurpeta: starting prices and what changes a quote",
       paragraphs: [
-        "Our published starting prices are the same for Sullurpeta as anywhere: a static site of up to 100 pages from ₹10,000 in one to two weeks; a 700+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; an online store from ₹50,000 in four to eight weeks; and custom web software from ₹60,000 in six to twelve weeks. Monthly SEO is ₹10,000 a month onwards.",
+        "Our published starting prices are the same for Sullurpeta as anywhere: a static site of up to 100 pages from ₹10,000 in one to two weeks; a 299+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; an online store from ₹50,000 in four to eight weeks; and custom web software from ₹60,000 in six to twelve weeks. Monthly SEO is ₹10,000 a month onwards.",
         "The quote grows with real scope, not guesswork. Three languages cost more than one. A hundred products cost more than ten. Payment gateways, logins, booking calendars and links to Tally or other accounts software each add work. If you send your own text and photographs, the price stays close to the starting figure; if we write and arrange the content, that appears as its own line.",
         "Local quotes vary widely, so compare on the right points: whose name the domain and hosting are in, whether mobile testing and basic SEO are included, how many rounds of changes you get, and who fixes things after launch. Our <a href=\"/pricing/\">pricing page</a> lists the starting points, and your written quote normally arrives within two working days.",
       ],
@@ -209,7 +209,7 @@ const sullurpeta: CityContent = {
     {
       question: "How much does a website cost in Sullurpeta?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, languages, products and integrations, and it is sent itemised in writing before any billing.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, languages, products and integrations, and it is sent itemised in writing before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Sullurpeta businesses?",
@@ -219,7 +219,7 @@ const sullurpeta: CityContent = {
     {
       question: "How long does it take to build a website for a Sullurpeta shop?",
       answer:
-        "A static site usually goes live in one to two weeks once we have your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. The biggest factor in speed is how quickly content and approvals come in.",
+        "A static site usually goes live in one to two weeks once we have your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. The biggest factor in speed is how quickly content and approvals come in.",
     },
     {
       question: "Which is the best website development team in Sullurpeta?",
@@ -244,7 +244,7 @@ const sullurpeta: CityContent = {
     {
       question: "Sullurpeta me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath basic website ₹10,000 se shuru hoti hai aur ek se do hafte mein taiyaar ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapka final quote pages aur features dekh kar likhit mein bheja jaata hai.",
+        "Hamare saath basic website ₹10,000 se shuru hoti hai aur ek se do hafte mein taiyaar ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapka final quote pages aur features dekh kar likhit mein bheja jaata hai.",
     },
     {
       question: "You have no office in Sullurpeta. How does remote work stay safe?",

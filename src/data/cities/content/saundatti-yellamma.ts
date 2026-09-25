@@ -39,7 +39,7 @@ const saundattiYellamma: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Kannada, Marathi and Telugu pages", "Jatre-week WhatsApp replies", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Saundatti-Yellamma business, a website with us starts at ₹10,000 and usually goes live in one to two weeks. A 700+ page SEO site starts at ₹20,000, Android and iOS apps at ₹40,000, AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely and you own every account.",
+    "For a Saundatti-Yellamma business, a website with us starts at ₹10,000 and usually goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, Android and iOS apps at ₹40,000, AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely and you own every account.",
   snapshot: [
     { label: "Where it is", value: "Taluk town in Belagavi district, about 78 km from Belagavi and 41 km from Dharwad" },
     { label: "Population", value: "41,215 in the town and 311,714 in the rural taluk (Census 2011)" },
@@ -87,7 +87,7 @@ const saundattiYellamma: CityContent = {
       paragraphs: [
         "The Yellamma temple draws large numbers from Maharashtra, Goa and Andhra Pradesh as well as Karnataka. Many of those visitors search in Marathi, Telugu or Hindi, and a Kannada-only page will not match what they type. A <strong>website development team in Saundatti</strong> that serves pilgrim trade should plan for more than one language from the start.",
         "Our approach is simple. The main pages go up in Kannada and English, then separate Marathi, Telugu or Hindi versions are added for the audiences you actually receive, each with its own address so Google can show the right one. We draft the text, but a native speaker you trust, often a relative or regular customer, reads it before it goes live. A machine translation left unchecked tends to get room rates, directions or the goddess's names wrong, and devotees notice.",
-        "For transport operators and larger lodges, a 700+ page SEO website from ₹20,000 can cover the routes people really search, such as travel from Kolhapur, Belagavi, Hubballi or Bagalkot, the jatre calendar, and practical guides to parking and darshan timings. We only publish a page when it carries facts that are true for that route. Thin pages that swap one city name for another get ignored by search engines and make a business look careless.",
+        "For transport operators and larger lodges, a 299+ page SEO website from ₹20,000 can cover the routes people really search, such as travel from Kolhapur, Belagavi, Hubballi or Bagalkot, the jatre calendar, and practical guides to parking and darshan timings. We only publish a page when it carries facts that are true for that route. Thin pages that swap one city name for another get ignored by search engines and make a business look careless.",
       ],
     },
     {
@@ -162,7 +162,7 @@ const saundattiYellamma: CityContent = {
       ],
       list: [
         "Static website up to 100 pages, for a lodge, clinic or shop: from ₹10,000, one to two weeks",
-        "SEO website of 700+ pages, for transport operators or multi-language pilgrim guides: from ₹20,000, three to five weeks",
+        "SEO website of 299+ pages, for transport operators or multi-language pilgrim guides: from ₹20,000, three to five weeks",
         "Android and iOS app: from ₹40,000",
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Online store with UPI and card checkout: from ₹50,000, four to eight weeks",
@@ -214,7 +214,7 @@ const saundattiYellamma: CityContent = {
   ],
   industries: [
     { name: "Lodges and guesthouses", need: "Bookings from devotees before they leave home", build: "Multilingual site, WhatsApp booking assistant, Maps listing" },
-    { name: "Jeep, taxi and tempo operators", need: "Trips from Dharwad, Hubballi and Belagavi booked in advance", build: "Route pages, enquiry form, 700+ page SEO site" },
+    { name: "Jeep, taxi and tempo operators", need: "Trips from Dharwad, Hubballi and Belagavi booked in advance", build: "Route pages, enquiry form, 299+ page SEO site" },
     { name: "Puja-goods and devotional shops", need: "Orders from devotees between yearly visits", build: "Online store with UPI and card checkout, WhatsApp catalogue" },
     { name: "Cane growers and harvesting contractors", need: "Clear records of advances, labour and mill payments", build: "Supply ledger web app, attendance app, dues dashboard" },
     { name: "Seed, fertiliser and pesticide dealers", need: "Credit and stock control across many villages", build: "Credit ledger with WhatsApp reminders, retailer re-order app" },
@@ -226,7 +226,7 @@ const saundattiYellamma: CityContent = {
     {
       question: "What is the website cost in Saundatti?",
       answer:
-        "In Saundatti, our static websites start at ₹10,000, SEO websites with 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Languages, rooms or products, booking features and integrations change the total, and you receive an itemised quote in writing before anything is billed.",
+        "In Saundatti, our static websites start at ₹10,000, SEO websites with 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Languages, rooms or products, booking features and integrations change the total, and you receive an itemised quote in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Saundatti businesses?",
@@ -241,7 +241,7 @@ const saundattiYellamma: CityContent = {
     {
       question: "How long does a website take for a Saundatti shop or clinic?",
       answer:
-        "A simple Saundatti shop or clinic website usually goes live one to two weeks after we receive photographs and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Sending your content in the first few days is the easiest way to keep the date.",
+        "A simple Saundatti shop or clinic website usually goes live one to two weeks after we receive photographs and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Sending your content in the first few days is the easiest way to keep the date.",
     },
     {
       question: "Which is the best IT services team in Saundatti for a website or app?",
@@ -261,7 +261,7 @@ const saundattiYellamma: CityContent = {
     {
       question: "Saundattiyalli website maadisalu eshtu kharchu aagutte?",
       answer:
-        "Namma jothe Saundattiyalli simple website ₹10,000 inda shuru aagutte, saamaanyavaagi ondu-eradu vaaradalli ready aagutte. 700+ page SEO website ₹20,000 inda, Android mattu iOS app ₹40,000 inda, online store ₹50,000 inda shuru. Nimma pages mattu features nodi itemised quote bareda roopadalli kalisuttheve.",
+        "Namma jothe Saundattiyalli simple website ₹10,000 inda shuru aagutte, saamaanyavaagi ondu-eradu vaaradalli ready aagutte. 299+ page SEO website ₹20,000 inda, Android mattu iOS app ₹40,000 inda, online store ₹50,000 inda shuru. Nimma pages mattu features nodi itemised quote bareda roopadalli kalisuttheve.",
     },
     {
       question: "You have no office in Saundatti. How do I know the work is safe?",

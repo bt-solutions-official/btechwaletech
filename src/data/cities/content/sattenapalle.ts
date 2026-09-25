@@ -39,7 +39,7 @@ const sattenapalle: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu Google Maps SEO", "Dealer credit software", "Code and domain are yours"],
   },
   quickAnswer:
-    "Sattenapalle businesses can get a website from us starting at ₹10,000, or a 700+ page SEO site from ₹20,000. Android and iOS apps start at ₹40,000, as does AI and WhatsApp automation; online stores start at ₹50,000 and custom software at ₹60,000. We are remote, with no Sattenapalle office, and everything is registered to you.",
+    "Sattenapalle businesses can get a website from us starting at ₹10,000, or a 299+ page SEO site from ₹20,000. Android and iOS apps start at ₹40,000, as does AI and WhatsApp automation; online stores start at ₹50,000 and custom software at ₹60,000. We are remote, with no Sattenapalle office, and everything is registered to you.",
   snapshot: [
     { label: "Location", value: "Palnadu district, about 37 km from Guntur railway station, within the APCRDA capital region" },
     { label: "Population", value: "About 56,721 in the town at the 2011 census; around 1.3 lakh in the mandal" },
@@ -155,7 +155,7 @@ const sattenapalle: CityContent = {
       id: "website-cost-sattenapalle",
       heading: "Website cost in Sattenapalle: our starting points and what to check in any quote",
       paragraphs: [
-        "Every conversation in Sattenapalle turns to cost early, so the figures are public. For up to 100 pages, a static site begins at ₹10,000, delivered in one to two weeks. For 700 pages or more, the kind of SEO build a college covering many courses or a dealer covering many villages might use, the entry point is ₹20,000 with three to five weeks of work. Apps for Android and iPhone and AI or WhatsApp automation each begin at ₹40,000. Online stores begin at ₹50,000, custom software at ₹60,000, and monthly SEO at ₹10,000 per month.",
+        "Every conversation in Sattenapalle turns to cost early, so the figures are public. For up to 100 pages, a static site begins at ₹10,000, delivered in one to two weeks. For 299 pages or more, the kind of SEO build a college covering many courses or a dealer covering many villages might use, the entry point is ₹20,000 with three to five weeks of work. Apps for Android and iPhone and AI or WhatsApp automation each begin at ₹40,000. Online stores begin at ₹50,000, custom software at ₹60,000, and monthly SEO at ₹10,000 per month.",
         "The quote grows only where you ask for more: Telugu alongside English, a long product catalogue, dealer or parent logins, UPI and card checkout, delivery rules, or a link to Tally. Every addition is shown on its own line so you can cut what you do not need. Sending your own photos and text keeps the price near the base figure.",
         "Local quotes vary widely, from Guntur and Vijayawada studios to freelancers online. When comparing, check whose name the domain and hosting will be in, whether the site is tested on entry-level phones, whether page titles and descriptions for Google are included, how many revision rounds you get, and who supports you after launch. Our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and an itemised quote comes to you within roughly two working days.",
       ],
@@ -216,7 +216,7 @@ const sattenapalle: CityContent = {
     {
       question: "How much does a website cost in Sattenapalle?",
       answer:
-        "Static sites with us start at ₹10,000, 700+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. All are starting prices. Telugu content, product lists, logins and payment options change the final figure, and you get it as an itemised written quote before any billing.",
+        "Static sites with us start at ₹10,000, 299+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. All are starting prices. Telugu content, product lists, logins and payment options change the final figure, and you get it as an itemised written quote before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Sattenapalle businesses?",
@@ -231,7 +231,7 @@ const sattenapalle: CityContent = {
     {
       question: "How long will my Sattenapalle website take?",
       answer:
-        "Expect one to two weeks for a static website once your photos and text arrive. A 700+ page SEO build needs three to five weeks, an online store four to eight, and custom software six to twelve. Delays usually come from missing content, so sending it early speeds everything up.",
+        "Expect one to two weeks for a static website once your photos and text arrive. A 299+ page SEO build needs three to five weeks, an online store four to eight, and custom software six to twelve. Delays usually come from missing content, so sending it early speeds everything up.",
     },
     {
       question: "Which is the best IT services team in Sattenapalle for websites?",
@@ -251,7 +251,7 @@ const sattenapalle: CityContent = {
     {
       question: "Sattenapalli lo website cheyinchukovalante entha avutundi?",
       answer:
-        "Maa daggara simple website ₹10,000 nundi modalavutundi, sumaru okati rendu vaaralalo ready avutundi. 700+ pages SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalu. Mee avasaralaku taggattu itemised quote rendu working days lo pamputamu.",
+        "Maa daggara simple website ₹10,000 nundi modalavutundi, sumaru okati rendu vaaralalo ready avutundi. 299+ pages SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalu. Mee avasaralaku taggattu itemised quote rendu working days lo pamputamu.",
     },
     {
       question: "There is no office in Sattenapalle. How is the work protected?",

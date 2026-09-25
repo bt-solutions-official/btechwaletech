@@ -38,7 +38,7 @@ const sibsagar: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Assamese-first local SEO", "Heritage tourism pages", "You keep every login"],
   },
   quickAnswer:
-    "A Sivasagar business website with us starts at ₹10,000 and typically goes live in one to two weeks. Android and iOS apps start at ₹40,000, the same as AI or WhatsApp automation; a 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team, and every account stays in your name.",
+    "A Sivasagar business website with us starts at ₹10,000 and typically goes live in one to two weeks. Android and iOS apps start at ₹40,000, the same as AI or WhatsApp automation; a 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team, and every account stays in your name.",
   snapshot: [
     { label: "History", value: "As Rangpur, capital of the Ahom kingdom from 1699 to 1788" },
     { label: "Landmarks", value: "Borpukhuri (Sivasagar tank, 1733) with Shivadol, Vishnudol and Devidol; Rang Ghar; Talatal Ghar; Joysagar tank" },
@@ -156,7 +156,7 @@ const sibsagar: CityContent = {
       id: "website-cost-sivasagar",
       heading: "Website cost in Sivasagar: starting prices and fair comparisons",
       paragraphs: [
-        "Our entry prices, since that is usually the first question: a static website for a hotel, shop, clinic or supplier, up to 100 pages, starts at ₹10,000 and takes one to two weeks. A large SEO site of 700 pages or more, which suits a college, a tour operator or a seller with many products, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and so does AI automation. An online store starts at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000 a month.",
+        "Our entry prices, since that is usually the first question: a static website for a hotel, shop, clinic or supplier, up to 100 pages, starts at ₹10,000 and takes one to two weeks. A large SEO site of 299 pages or more, which suits a college, a tour operator or a seller with many products, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and so does AI automation. An online store starts at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000 a month.",
         "Anything above that comes only from choices you make. Assamese and English versions, a big catalogue, booking forms, online payment, staff logins or a Tally link are each a separate line you can keep or strike out. Send your own text and photographs and the quote hardly changes.",
         "Local quotes for similar-sounding work vary widely across Upper Assam, so compare them on the same questions. Who will own the domain and hosting? Is the site tested on low-cost phones? Is basic on-page SEO included? How many rounds of changes are covered, and what does support cost a year later? Our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and your written, itemised quote arrives within about two working days.",
       ],
@@ -217,7 +217,7 @@ const sibsagar: CityContent = {
     {
       question: "What is the website cost in Sivasagar?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices, and your quote depends on pages, Assamese content, products and integrations. It reaches you itemised in writing within about two working days, with no billing before you approve it.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices, and your quote depends on pages, Assamese content, products and integrations. It reaches you itemised in writing within about two working days, with no billing before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Sivasagar businesses?",
@@ -227,7 +227,7 @@ const sibsagar: CityContent = {
     {
       question: "How long does a website take for a Sivasagar hotel or shop?",
       answer:
-        "A simple static site is usually live one to two weeks after we receive photographs and details. Larger work takes longer: about three to five weeks for a 700+ page SEO site, four to eight weeks for an online store and six to twelve weeks for custom software. Owners who send content early get the fastest results.",
+        "A simple static site is usually live one to two weeks after we receive photographs and details. Larger work takes longer: about three to five weeks for a 299+ page SEO site, four to eight weeks for an online store and six to twelve weeks for custom software. Owners who send content early get the fastest results.",
     },
     {
       question: "Who is the best IT services team in Sivasagar?",
@@ -252,7 +252,7 @@ const sibsagar: CityContent = {
     {
       question: "Sivasagar me website banwane me kitna kharcha aayega?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein live ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Final quote aapke pages aur features ke hisaab se likhit mein milta hai, approval ke baad hi kaam shuru hota hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein live ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Final quote aapke pages aur features ke hisaab se likhit mein milta hai, approval ke baad hi kaam shuru hota hai.",
     },
     {
       question: "You have no office in Sivasagar. Is remote work safe?",

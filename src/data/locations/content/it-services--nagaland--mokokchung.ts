@@ -217,7 +217,7 @@ const content: CityContent = {
       id: "price-guide-mokokchung",
       heading: "How much do IT solutions cost in Mokokchung?",
       paragraphs: [
-        "IT solutions in Mokokchung start from ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software, with monthly SEO from ₹10,000 and maintenance from ₹8,000. Full details are on the <a href=\"/pricing/\">pricing page</a>.",
+        "IT solutions in Mokokchung start from ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software, with monthly SEO from ₹10,000 and maintenance from ₹8,000. Full details are on the <a href=\"/pricing/\">pricing page</a>.",
         "The final figure depends on scope: number of pages or screens, user roles, integrations, languages, content writing and data migration. A clinic's site with five pages and a WhatsApp button costs close to the starting price. A school portal for several hundred students with fees, results and parent notices costs more.",
         "Payments are made only in INR, by UPI through our QR code or by direct bank transfer to our bank account, against milestones agreed at the start. There are no hidden renewals that we control, because domains and hosting are in your name.",
       ],

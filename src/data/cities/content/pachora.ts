@@ -39,7 +39,7 @@ const pachora: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Marathi-first local SEO", "Ginning and mandi software", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Pachora business, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, and you own everything we build.",
+    "For a Pachora business, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, and you own everything we build.",
   snapshot: [
     { label: "Location", value: "Taluka town in Jalgaon district on the Hivra river, roughly 48 km from Jalgaon; 59,609 people in the 2011 census" },
     { label: "Civic body", value: "Municipal council since 1 April 1947; the taluka counts 95 gram panchayats" },
@@ -177,7 +177,7 @@ const pachora: CityContent = {
       id: "website-cost-pachora",
       heading: "Website cost in Pachora: starting prices and what changes the figure",
       paragraphs: [
-        "The most common first question from Pachora is simply how much. Here are the entry points. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A large SEO site of 700 pages or more, useful for a dealer or institute that wants a page for each product, course or village it serves, starts at ₹20,000 and takes three to five weeks.",
+        "The most common first question from Pachora is simply how much. Here are the entry points. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A large SEO site of 299 pages or more, useful for a dealer or institute that wants a page for each product, course or village it serves, starts at ₹20,000 and takes three to five weeks.",
         "Android and iOS apps start at ₹40,000, and so do AI and WhatsApp automation projects, which take two to four weeks. An online store starts at ₹50,000 over four to eight weeks. Custom software such as a ginning register or dealer ledger starts at ₹60,000 over six to twelve weeks. Monthly SEO is from ₹10,000 a month, and paid maintenance from ₹8,000 a month once the free period ends.",
         "Your figure goes up only for what you choose: Marathi and English versions, product photography edits, a long product list, payment checkout, staff logins, reports, or a link to Tally. Send your own text and phone photographs, and the cost stays close to the starting point.",
         "Local quotes in Jalgaon district vary widely for jobs that sound the same. When comparing, ask who will own the domain and hosting, whether the site is tested on cheap Android phones, how many revision rounds are included, whether basic on-page SEO is part of the job, and who answers the phone a year later. Our full list is on the <a href=\"/pricing/\">pricing page</a>, and your itemised quote reaches you in about two working days.",
@@ -231,7 +231,7 @@ const pachora: CityContent = {
     {
       question: "How much does a website cost in Pachora?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final figure depends on pages, Marathi and English versions, products and integrations, and it reaches you as a written, itemised quote before anything is billed.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final figure depends on pages, Marathi and English versions, products and integrations, and it reaches you as a written, itemised quote before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Pachora businesses?",
@@ -241,7 +241,7 @@ const pachora: CityContent = {
     {
       question: "How long does it take to build a website for a Pachora shop?",
       answer:
-        "A shop or clinic site is usually live within one to two weeks after we receive your photographs, timings and product details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Delays mostly come from waiting for content, so sending it early helps.",
+        "A shop or clinic site is usually live within one to two weeks after we receive your photographs, timings and product details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Delays mostly come from waiting for content, so sending it early helps.",
     },
     {
       question: "Which is the best website development team in Pachora?",

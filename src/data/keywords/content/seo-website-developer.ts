@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `SEO Website Developer: 700+ Page Sites from ${P.seoSite}`,
-    description: `SEO website developer building search-first sites with 700+ pages, schema and fast Core Web Vitals, from ${P.seoSite}. See structure, costs and timelines.`,
+    description: `SEO website developer building search-first sites with 299+ pages, schema and fast Core Web Vitals, from ${P.seoSite}. See structure, costs and timelines.`,
     keywords: [
       "SEO website developer", "SEO website developer in India", "SEO website developer near me", "SEO website developer for hire",
       "SEO website development cost", "SEO friendly website price", "best SEO website developer", "SEO wali website banwani hai",
@@ -26,10 +26,10 @@ const content: FreelanceContent = {
     ],
   },
   hero: {
-    eyebrow: "SEO website developer · Structure, schema, 700+ pages",
+    eyebrow: "SEO website developer · Structure, schema, 299+ pages",
     h1: "SEO website developer: sites planned for search before a single page is designed",
     lede: `An SEO website developer builds the site around how people search, so the page structure, internal links, schema and speed are right on launch day instead of patched later. BtechWaleTech is three freelance developers in India who build search-first websites with 700+ service, location and topic pages generated from structured data, starting from ${P.seoSite} in 3–5 weeks. This page explains the architecture, what makes large sites safe from thin content, costs, timelines and how to judge whoever builds yours.`,
-    pills: ["700+ page architecture", "Service × location pages", "Schema markup", "Core Web Vitals", "XML sitemaps", "Search Console setup", "No ranking guarantees"],
+    pills: ["299+ page architecture", "Service × location pages", "Schema markup", "Core Web Vitals", "XML sitemaps", "Search Console setup", "No ranking guarantees"],
     origin: "Three freelance developers · Remote from India · Search-first sites for Indian and overseas businesses",
   },
   facts: [
@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What does an SEO website developer do differently from a normal web developer?",
-    text: `An SEO website developer plans pages from keyword and intent research first, then builds a structure search engines can crawl easily: clean URLs, hub and detail pages, internal links, schema, sitemaps and fast loading on phones. With BtechWaleTech an SEO website of 700+ pages starts at ${P.seoSite} (${P.seoSiteUsd}) and takes 3–5 weeks. Nobody can guarantee rankings; the build removes technical reasons not to rank.`,
+    text: `An SEO website developer plans pages from keyword and intent research first, then builds a structure search engines can crawl easily: clean URLs, hub and detail pages, internal links, schema, sitemaps and fast loading on phones. With BtechWaleTech an SEO website of 299+ pages starts at ${P.seoSite} (${P.seoSiteUsd}) and takes 3–5 weeks. Nobody can guarantee rankings; the build removes technical reasons not to rank.`,
     more: `For ongoing optimisation after launch, see <a href='/freelance-seo-expert/'>freelance SEO</a>. For the crawling and indexing side on an existing site, see <a href='/technical-seo-freelancer/'>technical SEO</a>.`,
   },
   snapshot: {
@@ -56,7 +56,7 @@ const content: FreelanceContent = {
     rows: [
       { label: "Built for", value: "Businesses that want leads from Google, not only a brochure" },
       { label: "Starting price", value: `From ${P.seoSite} (${P.seoSiteUsd})` },
-      { label: "Scale", value: "700+ pages from services, locations and topics" },
+      { label: "Scale", value: "299+ pages from services, locations and topics" },
       { label: "Timeline", value: "3–5 weeks from approved page map" },
       { label: "Technical base", value: "Static or server-rendered HTML, schema, sitemaps, canonicals" },
       { label: "After launch", value: `Optional monthly SEO from ${P.seo}` },
@@ -93,11 +93,11 @@ const content: FreelanceContent = {
       ["Rankings promised", "Sometimes, falsely", "Sometimes", "Never; nobody can guarantee rankings"],
       ["Ownership", "Varies", "Varies", "Domain, code and Search Console in your name"],
     ],
-    fine: "If your market is one city and five services, a well-built static site of a few pages may serve you as well as a 700-page build; we will say so rather than sell pages you do not need.",
+    fine: "If your market is one city and five services, a well-built static site of a few pages may serve you as well as a 299-page build; we will say so rather than sell pages you do not need.",
   },
   pricing: {
     heading: "SEO website pricing: starting points",
-    note: `The SEO website plan starts at ${P.seoSite} for 700+ pages generated from structured data; the table also shows our other plans for context. What moves an SEO website quote is not the page count itself but the data behind the pages: how many distinct fields each page carries, who researches and writes that data, how many template types you need (service, location, topic, comparison), and whether we migrate an old site with redirects. You receive an itemised estimate in about two working days, and monthly SEO from ${P.seo} is a separate, optional line.`,
+    note: `The SEO website plan starts at ${P.seoSite} for 299+ pages generated from structured data; the table also shows our other plans for context. What moves an SEO website quote is not the page count itself but the data behind the pages: how many distinct fields each page carries, who researches and writes that data, how many template types you need (service, location, topic, comparison), and whether we migrate an old site with redirects. You receive an itemised estimate in about two working days, and monthly SEO from ${P.seo} is a separate, optional line.`,
   },
   guideLabel: "SEO website developer guide",
   guide: [
@@ -148,7 +148,7 @@ const content: FreelanceContent = {
     },
     {
       id: "scale",
-      heading: "How are 700+ pages built without becoming thin or duplicate content?",
+      heading: "How are 299+ pages built without becoming thin or duplicate content?",
       paragraphs: [
         `Large sites are built from templates plus data. The danger is pages that differ only by a swapped city name. Google’s spam policies specifically name scaled content abuse: many pages made mainly to rank rather than to help. A page count is never the goal; useful, distinct pages are.`,
         `So each template needs data fields that genuinely change per page. For a service business, a location page might carry the local areas served, the specific problems common there, timings, prices where you publish them, local landmarks for directions, reviews from that area if you have them, and FAQs that differ by place. For a product catalogue, the fields are specifications, uses, compatibility and comparisons.`,
@@ -218,7 +218,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does an SEO website developer cost in India?",
       paragraphs: [
-        `With us, an SEO website with 700+ pages starts at ${P.seoSite} (${P.seoSiteUsd} for clients abroad) and takes 3–5 weeks. A smaller site that simply needs strong on-page basics fits the static website plan, from ${P.site}. An online store built for search, with product and category schema, starts at ${P.shop}.`,
+        `With us, an SEO website with 299+ pages starts at ${P.seoSite} (${P.seoSiteUsd} for clients abroad) and takes 3–5 weeks. A smaller site that simply needs strong on-page basics fits the static website plan, from ${P.site}. An online store built for search, with product and category schema, starts at ${P.shop}.`,
         `The biggest variable is data and content. If you can supply service details, areas covered and local facts in a sheet, the build is mostly engineering. If we need to research and write that data for hundreds of pages, the content line grows. The second variable is migration: redirecting an old site’s URLs and preserving what already ranks.`,
         `Elsewhere in the market, quotes for “an SEO website” range widely, partly because the term means different things. Some mean a theme with an SEO plugin. Compare what is actually delivered: number of templates, schema types, page map, speed targets and Search Console setup. More detail on budgets is on <a href='/website-making-cost-in-india/'>website making cost in India</a>.`,
       ],
@@ -280,7 +280,7 @@ const content: FreelanceContent = {
         `This is a hypothetical example to illustrate the method; it is not a client case.`,
         `Imagine a pest control business covering several districts in one state, offering eight services such as termite treatment and cockroach control. It gets most work from phone calls and has a five-page site that ranks only for its own name.`,
         `The page map would include eight service hubs, district and town pages where the business actually operates, and service-in-location pages only where it has crews and something specific to say, for example which pests are common in that season or locality. Each page would carry the areas covered, typical visit timing, treatment method, safety notes and FAQs that vary by service. Templates would include LocalBusiness and Service schema, breadcrumbs, and a sticky call and WhatsApp bar.`,
-        `The result might be 700-plus pages on the ${P.seoSite} plan, with a line for writing service data if the owner cannot, built in about four weeks. After launch, monthly SEO would add seasonal articles and refine pages based on Search Console queries.`,
+        `The result might be 299-plus pages on the ${P.seoSite} plan, with a line for writing service data if the owner cannot, built in about four weeks. After launch, monthly SEO would add seasonal articles and refine pages based on Search Console queries.`,
       ],
     },
     {
@@ -391,7 +391,7 @@ const content: FreelanceContent = {
     { question: "How much does an SEO website cost in India?", answer: `With BtechWaleTech, an SEO website with 700+ structured pages starts at ${P.seoSite}, or ${P.seoSiteUsd} for clients abroad, and takes 3–5 weeks. The final quote depends on how many template types you need, who supplies the data for each page, and whether an old site must be migrated with redirects. Every quote is itemised.` },
     { question: "What is the difference between an SEO website and a normal website?", answer: "A normal website is planned around design and a handful of pages about the business. An SEO website is planned around what people search: many distinct pages for services, locations and questions, linked in a clear hierarchy with schema and fast templates. Both can be well built; the SEO version is designed to earn traffic from many queries." },
     { question: "Can an SEO website developer guarantee first-page rankings?", answer: "No. Nobody can guarantee rankings, because search engines decide based on competition, content quality, links and many other factors outside a developer’s control. A good SEO website developer removes technical obstacles and builds a strong structure, then reports honestly on progress. Treat any ranking guarantee as a warning sign." },
-    { question: "Are 700 pages too many for a small business?", answer: "They can be. Pages should exist only where there is real search demand and something distinct to say, such as a service offered in a specific area with local details. If your business serves one town with a few services, a smaller site may be better. We plan the page count from your data, not from a target number." },
+    { question: "Are 299 pages too many for a small business?", answer: "They can be. Pages should exist only where there is real search demand and something distinct to say, such as a service offered in a specific area with local details. If your business serves one town with a few services, a smaller site may be better. We plan the page count from your data, not from a target number." },
     { question: "Will Google penalise a site with hundreds of generated pages?", answer: "Generated pages are fine when each one is genuinely useful and different. Google’s spam policies target scaled content made mainly to manipulate rankings, such as pages that differ only by a swapped city name. Giving each page unique data, useful details and a clear purpose, and cutting pages that lack them, keeps a large site on the right side of those policies." },
     { question: "Which platform is best for an SEO website?", answer: "Any platform can work if it outputs clean HTML quickly. For large, fast sites we prefer static or server-rendered frameworks such as Astro or Next.js, which serve full content in the first response. WordPress can work well with a light theme and few plugins when staff need to publish often. JavaScript-only single-page apps are the hardest to get indexed reliably." },
     { question: "What schema markup does an SEO website need?", answer: "Most business sites need Organization or LocalBusiness and BreadcrumbList. Service pages use Service, blogs use Article, stores use Product with offers, and courses, events or jobs have their own types. Markup should match visible content and be tested in Google’s Rich Results Test. It helps understanding but is not a ranking switch on its own." },

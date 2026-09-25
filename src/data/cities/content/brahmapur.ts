@@ -34,7 +34,7 @@ const brahmapur: CityContent = {
     pills: ["Sites from ₹10,000", "Odia, Telugu and English searches", "Silk and sweets stores with UPI", "WhatsApp enquiry automation", "Domain in your name"],
   },
   quickAnswer:
-    "In Berhampur (Brahmapur), a business website with us starts at ₹10,000 and a 700+ page SEO website at ₹20,000. Online stores begin at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three engineers with no local office, and every project includes five months of free maintenance.",
+    "In Berhampur (Brahmapur), a business website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000. Online stores begin at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three engineers with no local office, and every project includes five months of free maintenance.",
   snapshot: [
     { label: "Known as", value: "The Silk City of Odisha, also called the state’s food capital" },
     { label: "Main markets", value: "Bada Bazaar, Annapurna Market, Bhapur Bazaar and Gate Bazar" },
@@ -71,7 +71,7 @@ const brahmapur: CityContent = {
       id: "website-cost-berhampur",
       heading: "Website prices for Berhampur businesses",
       paragraphs: [
-        "We publish our starting prices so you can plan before talking to anyone. A simple website of up to 100 pages starts at ₹10,000 and is usually live within one to two weeks. A 700+ page SEO site, with separate pages for each service, product line and area you cover, starts at ₹20,000 and takes three to five weeks. An online store with UPI and card payments starts at ₹50,000. Custom web applications such as booking systems or dealer portals start at ₹60,000.",
+        "We publish our starting prices so you can plan before talking to anyone. A simple website of up to 100 pages starts at ₹10,000 and is usually live within one to two weeks. A 299+ page SEO site, with separate pages for each service, product line and area you cover, starts at ₹20,000 and takes three to five weeks. An online store with UPI and card payments starts at ₹50,000. Custom web applications such as booking systems or dealer portals start at ₹60,000.",
         "Automation projects begin at ₹40,000, monthly SEO at ₹10,000 a month, and maintenance at ₹8,000 a month once the five free months are over. You can compare these on our <a href=\"/pricing/\">pricing page</a>.",
         "What changes the final number is scope. A sweet shop with fifteen items and good photos is quicker to build than a saree store with three hundred designs and no descriptions. We list every page and feature in the quote, and nothing is billed until you approve it in writing.",
       ],
@@ -217,12 +217,12 @@ const brahmapur: CityContent = {
     {
       question: "How much does a website cost in Berhampur?",
       answer:
-        "With us, a basic business website starts at ₹10,000 and a 700+ page SEO website at ₹20,000. Online stores start at ₹50,000 and custom web applications at ₹60,000. Local quotes vary a lot, so compare what is included, especially domain ownership, SEO setup and support after launch.",
+        "With us, a basic business website starts at ₹10,000 and a 299+ page SEO website at ₹20,000. Online stores start at ₹50,000 and custom web applications at ₹60,000. Local quotes vary a lot, so compare what is included, especially domain ownership, SEO setup and support after launch.",
     },
     {
       question: "Berhampur re website banaiba pain kete tanka lagiba?",
       answer:
-        "Ama sahita gote sadharana business website ₹10,000 ru arambha hue, au 700+ page ra SEO website ₹20,000 ru. Online store ₹50,000 ru arambha. Kama arambha heba agaru apananku likhita itemised quote diajiba, au approval bina kichhi bill heba nahin.",
+        "Ama sahita gote sadharana business website ₹10,000 ru arambha hue, au 299+ page ra SEO website ₹20,000 ru. Online store ₹50,000 ru arambha. Kama arambha heba agaru apananku likhita itemised quote diajiba, au approval bina kichhi bill heba nahin.",
     },
     {
       question: "Do you have an office in Berhampur?",
@@ -247,7 +247,7 @@ const brahmapur: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A starter site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Most delays come from waiting for photos and text, so we write draft content for you to correct.",
+        "A starter site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Most delays come from waiting for photos and text, so we write draft content for you to correct.",
     },
     {
       question: "What can WhatsApp automation do for a small business here?",

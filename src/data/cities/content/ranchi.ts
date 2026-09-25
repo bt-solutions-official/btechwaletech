@@ -35,7 +35,7 @@ const ranchi: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi and English SEO", "Tender-ready company profiles", "WhatsApp automation", "5 months free upkeep"],
   },
   quickAnswer:
-    "In Ranchi, a business website with us starts at ₹10,000 and is usually live in one to two weeks. A 700+ page SEO website starts at ₹20,000 and an online store at ₹50,000. We are a remote team of three engineers, so there is no office cost in the price, you own the domain and code, and maintenance is free for five months.",
+    "In Ranchi, a business website with us starts at ₹10,000 and is usually live in one to two weeks. A 299+ page SEO website starts at ₹20,000 and an online store at ₹50,000. We are a remote team of three engineers, so there is no office cost in the price, you own the domain and code, and maintenance is free for five months.",
   snapshot: [
     { label: "Status", value: "Capital of Jharkhand since the state was formed in 2000, and the main administrative and trade centre for the region" },
     { label: "Business districts", value: "Main Road, Upper Bazar, Lalpur, Doranda, Hindpiri and the Firayalal Chowk area" },
@@ -73,12 +73,12 @@ const ranchi: CityContent = {
       heading: "How much does a website cost in Ranchi?",
       paragraphs: [
         "The range of website quotes in Ranchi is wide. A local operator might charge ₹3,000 for a template site built on his own hosting account, while a Kolkata or Delhi agency might ask for ₹50,000 or more for something similar in size. Neither number tells you whether the site will bring enquiries, whether you will own it, or who will fix it when something breaks.",
-        "Our prices are published. A simple website with up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website, planned around the services you offer and the areas you serve, starts at ₹20,000 and takes three to five weeks. An online store with UPI and card payments starts at ₹50,000 and takes four to eight weeks. Custom web applications, such as a contractor's project tracker or a school management portal, start at ₹60,000. AI automation starts at ₹40,000 and monthly SEO at ₹10,000.",
+        "Our prices are published. A simple website with up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website, planned around the services you offer and the areas you serve, starts at ₹20,000 and takes three to five weeks. An online store with UPI and card payments starts at ₹50,000 and takes four to eight weeks. Custom web applications, such as a contractor's project tracker or a school management portal, start at ₹60,000. AI automation starts at ₹40,000 and monthly SEO at ₹10,000.",
         "The final price depends mainly on the number of pages and products, the features you need and whether content is ready. We send an itemised quote within about two working days, and nothing is billed until you approve it in writing.",
       ],
       list: [
         "<strong>Starter website, from ₹10,000:</strong> clinics, shops, consultants, small contractors.",
-        "<strong>SEO website, from ₹20,000:</strong> 700+ pages for service businesses and institutes wanting search enquiries.",
+        "<strong>SEO website, from ₹20,000:</strong> 299+ pages for service businesses and institutes wanting search enquiries.",
         "<strong>Online store, from ₹50,000:</strong> handloom, food, gifts and retail brands selling across India.",
         "<strong>Custom software, from ₹60,000:</strong> project tracking, billing, school and hospital portals.",
       ],
@@ -209,12 +209,12 @@ const ranchi: CityContent = {
     {
       question: "How much does a website cost in Ranchi?",
       answer:
-        "Our websites start at ₹10,000 for a simple site and ₹20,000 for a 700+ page SEO website. Online stores start at ₹50,000 and custom web apps at ₹60,000. Quotes in Ranchi vary a lot, so compare domain ownership, SEO setup, hosting handover and support after launch, not just the price.",
+        "Our websites start at ₹10,000 for a simple site and ₹20,000 for a 299+ page SEO website. Online stores start at ₹50,000 and custom web apps at ₹60,000. Quotes in Ranchi vary a lot, so compare domain ownership, SEO setup, hosting handover and support after launch, not just the price.",
     },
     {
       question: "Ranchi me website banwane me kitna kharcha aata hai?",
       answer:
-        "Humare saath simple business website ₹10,000 se shuru hoti hai aur 700+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se shuru hota hai. Final price pages, products aur features par depend karta hai. Kaam shuru hone se pehle aapko poora itemised quote likhit mein milta hai.",
+        "Humare saath simple business website ₹10,000 se shuru hoti hai aur 299+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se shuru hota hai. Final price pages, products aur features par depend karta hai. Kaam shuru hone se pehle aapko poora itemised quote likhit mein milta hai.",
     },
     {
       question: "Do you have an office in Ranchi?",

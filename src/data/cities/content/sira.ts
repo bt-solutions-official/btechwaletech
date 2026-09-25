@@ -39,7 +39,7 @@ const sira: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Kannada-first local SEO", "Groundnut and ragi trade tools", "NH48 business listings"],
   },
   quickAnswer:
-    "In Sira, our websites begin at ₹10,000 and usually take one to two weeks. Android and iOS apps start at ₹40,000, and so does AI automation; a 700+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are remote, keep no Sira office, and register the domain, code and accounts to you.",
+    "In Sira, our websites begin at ₹10,000 and usually take one to two weeks. Android and iOS apps start at ₹40,000, and so does AI automation; a 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are remote, keep no Sira office, and register the domain, code and accounts to you.",
   snapshot: [
     { label: "Status", value: "City municipal council and headquarters of Sira taluk, Tumakuru district" },
     { label: "Population", value: "About 57,550 in the city (Census 2011); the taluk is the district's largest by area" },
@@ -160,7 +160,7 @@ const sira: CityContent = {
       id: "website-cost-sira",
       heading: "Website cost in Sira: the starting prices and what changes them",
       paragraphs: [
-        "Here are the figures Sira owners ask for first. A static website up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. An SEO website of 700 pages or more, useful for a dealer or institute that wants a page per product, course or village, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and so does AI automation.",
+        "Here are the figures Sira owners ask for first. A static website up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. An SEO website of 299 pages or more, useful for a dealer or institute that wants a page per product, course or village, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and so does AI automation.",
         "An online store starts at ₹50,000, custom software or a web app at ₹60,000, and monthly SEO at ₹10,000 a month. Maintenance is free for five months after launch; after that it starts at ₹8,000 a month if you want us to continue.",
         "The quote goes up only for what you pick: extra languages, a long product list, courier rates, UPI checkout, staff logins, GPS or Tally sync. If you write your own text and send phone photos, content adds very little.",
         "Local quotes vary widely, so compare with care. Ask who owns the domain, whether the site is tested on low-cost phones, what SEO basics are included, how many revisions are covered and what support costs after a year. Our full list is on the <a href=\"/pricing/\">pricing page</a>, and an itemised quote usually reaches you within two working days.",
@@ -213,7 +213,7 @@ const sira: CityContent = {
     {
       question: "What is the website cost in Sira?",
       answer:
-        "Static websites begin at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Your itemised written quote covers pages, Kannada or Urdu content, products and integrations, and nothing is billed until you approve it.",
+        "Static websites begin at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Your itemised written quote covers pages, Kannada or Urdu content, products and integrations, and nothing is billed until you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Sira businesses?",
@@ -223,7 +223,7 @@ const sira: CityContent = {
     {
       question: "How long does a website take for a Sira business?",
       answer:
-        "A simple business site usually goes live one to two weeks after we receive your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight and custom software six to twelve. Sending your content in the first few days is what keeps projects on schedule.",
+        "A simple business site usually goes live one to two weeks after we receive your photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight and custom software six to twelve. Sending your content in the first few days is what keeps projects on schedule.",
     },
     {
       question: "Which is the best website development team in Sira?",

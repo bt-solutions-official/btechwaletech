@@ -72,12 +72,12 @@ const ballari: CityContent = {
       heading: "Website pricing in Ballari: what you pay for",
       paragraphs: [
         "Offers around Ballari range from a ₹2,500 one-pager put together on a template to ₹45,000 or more from a Bengaluru agency. At the bottom end, the site often has no search setup, sits on the maker's hosting and never gets updated. At the top, the work may be good but you are also funding a city office and a sales team you will never meet.",
-        "Everything we charge is listed on our <a href=\"/pricing/\">pricing page</a>. A small static site, enough for a clinic near VIMS or a shop in Brucepet, is from ₹10,000 upwards and takes a week or two. A 700+ page site structured around real Ballari searches is from ₹20,000 upwards over three to five weeks. Stores with online payment begin at ₹50,000, custom software such as a production tracker at ₹60,000, WhatsApp and AI workflows at ₹40,000, and monthly SEO at ₹10,000.",
+        "Everything we charge is listed on our <a href=\"/pricing/\">pricing page</a>. A small static site, enough for a clinic near VIMS or a shop in Brucepet, is from ₹10,000 upwards and takes a week or two. A 299+ page site structured around real Ballari searches is from ₹20,000 upwards over three to five weeks. Stores with online payment begin at ₹50,000, custom software such as a production tracker at ₹60,000, WhatsApp and AI workflows at ₹40,000, and monthly SEO at ₹10,000.",
         "Scope sets the final quote. A single-doctor clinic needs a fraction of the work of a jeans unit with sixty styles, five washes and a separate dealer price list. You get an itemised estimate in roughly two working days, and billing starts only after you sign off on it in writing.",
       ],
       list: [
         "<strong>₹10,000 and up:</strong> a compact site of up to 100 pages with enquiry form, map pin and search basics. Right for clinics, tutors and single shops.",
-        "<strong>₹20,000 and up:</strong> 700+ pages, one per service, product line or area served. Right for hospitals, contractors and colleges.",
+        "<strong>₹20,000 and up:</strong> 299+ pages, one per service, product line or area served. Right for hospitals, contractors and colleges.",
         "<strong>₹50,000 and up:</strong> a full store with cart, UPI, cards and order alerts. Right for denim labels and retail brands.",
         "<strong>₹60,000 and up:</strong> bespoke web software with user roles and reports. Right for garment units, contractors and distributors.",
       ],
@@ -216,12 +216,12 @@ const ballari: CityContent = {
     {
       question: "What does a website cost in Ballari?",
       answer:
-        "Our static sites begin at ₹10,000, 700+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom web software at ₹60,000. Across Ballari you may be quoted anything from ₹2,500 to ₹45,000 for work that sounds similar. The better comparison is what each quote includes: search setup, whether you own the domain, and who fixes things after launch.",
+        "Our static sites begin at ₹10,000, 299+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom web software at ₹60,000. Across Ballari you may be quoted anything from ₹2,500 to ₹45,000 for work that sounds similar. The better comparison is what each quote includes: search setup, whether you own the domain, and who fixes things after launch.",
     },
     {
       question: "Ballariyalli website maadisalu eshtu kharchu aagutte?",
       answer:
-        "Namma hattira saamaanya business website ₹10,000 inda shuru aagutte. 700+ pages iruva SEO website ₹20,000 inda, online store ₹50,000 inda shuru. Pages, features mattu neevu kodo content mele final bele nirdhaara aagutte. Kelasa shuru maaduva mundhe prathi item vivaradondige barahadalli quote kalisuttheve, neevu oppige kotta nanthara maatra bill maaduttheve.",
+        "Namma hattira saamaanya business website ₹10,000 inda shuru aagutte. 299+ pages iruva SEO website ₹20,000 inda, online store ₹50,000 inda shuru. Pages, features mattu neevu kodo content mele final bele nirdhaara aagutte. Kelasa shuru maaduva mundhe prathi item vivaradondige barahadalli quote kalisuttheve, neevu oppige kotta nanthara maatra bill maaduttheve.",
     },
     {
       question: "Is there an office in Ballari we can visit?",
@@ -246,7 +246,7 @@ const ballari: CityContent = {
     {
       question: "How quickly can the website be ready?",
       answer:
-        "Static sites usually take one to two weeks and 700+ page SEO sites three to five weeks. Online stores need four to eight weeks and custom software six to twelve. The biggest cause of delay is waiting for photos and product details, so we write first drafts ourselves and you correct them.",
+        "Static sites usually take one to two weeks and 299+ page SEO sites three to five weeks. Online stores need four to eight weeks and custom software six to twelve. The biggest cause of delay is waiting for photos and product details, so we write first drafts ourselves and you correct them.",
     },
     {
       question: "Will online payments work for my Ballari store?",

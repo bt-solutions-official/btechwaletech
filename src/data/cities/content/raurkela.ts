@@ -35,7 +35,7 @@ const raurkela: CityContent = {
     pills: ["Sites from ₹10,000", "Vendor and tender-ready profiles", "Kalunga B2B catalogues", "Odia, Hindi and English", "Coaching and clinic sites"],
   },
   quickAnswer:
-    "In Rourkela, our business websites start at ₹10,000 and a 700+ page SEO website at ₹20,000, delivered in one to five weeks. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a three-engineer remote team with no Rourkela office, and five months of maintenance after launch is included free.",
+    "In Rourkela, our business websites start at ₹10,000 and a 299+ page SEO website at ₹20,000, delivered in one to five weeks. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a three-engineer remote team with no Rourkela office, and five months of maintenance after launch is included free.",
   snapshot: [
     { label: "Anchor industry", value: "SAIL's Rourkela Steel Plant, set up with German collaboration and India's first integrated steel plant in the public sector" },
     { label: "Industrial estate", value: "Kalunga, on the Rourkela–Sambalpur road, known for sponge iron, refractories, ferro alloys and chemicals" },
@@ -73,12 +73,12 @@ const raurkela: CityContent = {
       heading: "Website costs in Rourkela, without the guesswork",
       paragraphs: [
         "In Rourkela, the price for a small business website can run from a couple of thousand rupees to fifty thousand or more, and quotes rarely explain why. Very cheap sites are usually templates with no SEO and hosting kept in the developer's name. Very expensive ones often carry the costs of a city-centre office or an out-of-state agency.",
-        "Our figures are published. A static website of up to 100 pages starts at ₹10,000 and typically goes live within one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. An online store with cart and UPI or card checkout starts at ₹50,000. Custom web applications such as vendor portals, job-card systems or admission platforms start at ₹60,000. Automation work starts at ₹40,000, and monthly SEO at ₹10,000 a month.",
+        "Our figures are published. A static website of up to 100 pages starts at ₹10,000 and typically goes live within one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. An online store with cart and UPI or card checkout starts at ₹50,000. Custom web applications such as vendor portals, job-card systems or admission platforms start at ₹60,000. Automation work starts at ₹40,000, and monthly SEO at ₹10,000 a month.",
         "Scope decides the final number. A fabrication firm with six service lines and good site photos costs less than a trader with five hundred products and no descriptions. You receive an itemised quote in about two working days, and nothing is billed until you approve it in writing. See the complete list on our <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [
         "<strong>Static site, from ₹10,000:</strong> up to 100 pages, enquiry form, map and basic SEO. Suits clinics, shops and consultants.",
-        "<strong>SEO site, from ₹20,000:</strong> 700+ pages, one per service and area, with schema and sitemap.",
+        "<strong>SEO site, from ₹20,000:</strong> 299+ pages, one per service and area, with schema and sitemap.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart, UPI and card payments, delivery rules and order alerts.",
         "<strong>Custom web app, from ₹60,000:</strong> logins, roles, dashboards and document workflows for contractors and manufacturers.",
       ],
@@ -210,12 +210,12 @@ const raurkela: CityContent = {
     {
       question: "How much does a website cost in Rourkela?",
       answer:
-        "With us, a static site starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. Rourkela quotes for similar work range from a few thousand rupees to over ₹50,000, so compare what each includes: SEO setup, domain and hosting ownership, and support after launch.",
+        "With us, a static site starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. Rourkela quotes for similar work range from a few thousand rupees to over ₹50,000, so compare what each includes: SEO setup, domain and hosting ownership, and support after launch.",
     },
     {
       question: "Rourkela re website banaiba pain kete kharcha heba?",
       answer:
-        "Amara sahita gote sadharana business website ₹10,000 ru arambha hue, au 700+ page ra SEO website ₹20,000 ru. Online store ₹50,000 ru arambha. Sesha dara pages, products au features upare nirbhar kare. Kama arambha pain agaru apana likhita itemised quote paibe, au apananka anumati bina kichhi bill hue nahin.",
+        "Amara sahita gote sadharana business website ₹10,000 ru arambha hue, au 299+ page ra SEO website ₹20,000 ru. Online store ₹50,000 ru arambha. Sesha dara pages, products au features upare nirbhar kare. Kama arambha pain agaru apana likhita itemised quote paibe, au apananka anumati bina kichhi bill hue nahin.",
     },
     {
       question: "Do you have an office in Rourkela?",

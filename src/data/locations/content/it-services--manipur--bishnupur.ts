@@ -205,7 +205,7 @@ const content: CityContent = {
       id: "cost-choose-bishnupur",
       heading: "What does IT work cost in Bishnupur, and how do you choose a provider?",
       paragraphs: [
-        "IT work for Bishnupur clients with BtechWaleTech starts at ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for automation, ₹40,000 for an Android and iOS app, ₹50,000 for a store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months. See the <a href='/pricing/'>pricing page</a>.",
+        "IT work for Bishnupur clients with BtechWaleTech starts at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for automation, ₹40,000 for an Android and iOS app, ₹50,000 for a store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months. See the <a href='/pricing/'>pricing page</a>.",
         "If you are comparing a software development team for Bishnupur with a freelance team, ask to see earlier work, who writes the code, whether the scope is written down, whether the domain, hosting and store accounts will be in your name, and how the system copes with weak signal. Local providers can visit; remote teams usually cost less for software and web work.",
         "Payments to us are made only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in rupees and in milestones. See our <a href='/portfolio/'>portfolio</a> and <a href='/about/'>about page</a>.",
       ],

@@ -35,7 +35,7 @@ const kharagpur: CityContent = {
     pills: ["Sites from ₹10,000", "Bengali, Hindi, English", "Vendor and contractor sites", "Startup landing pages", "WhatsApp automation"],
   },
   quickAnswer:
-    "A Kharagpur business website with us starts at ₹10,000 and goes live in one to two weeks; a 700+ page SEO website starts at ₹20,000 and takes three to five weeks. Stores start at ₹50,000. We are three remote engineers with no Kharagpur office, and every project includes five months of free maintenance.",
+    "A Kharagpur business website with us starts at ₹10,000 and goes live in one to two weeks; a 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Stores start at ₹50,000. We are three remote engineers with no Kharagpur office, and every project includes five months of free maintenance.",
   snapshot: [
     { label: "Railways", value: "Divisional headquarters of South Eastern Railway, a large workshop, and a 1,072-metre platform at the junction" },
     { label: "Education", value: "IIT Kharagpur, India's first IIT (1951); Kharagpur College, Hijli College, a medical college" },
@@ -73,12 +73,12 @@ const kharagpur: CityContent = {
       heading: "What websites cost in Kharagpur",
       paragraphs: [
         "Quotes in Kharagpur range from ₹3,000 for a template to Kolkata agency packages of ₹50,000 or more. The cheap option usually means the developer keeps the domain and there is no SEO. The expensive one pays for an office on Park Street and a sales team you never meet.",
-        "Our prices are public. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page site planned for Google, with a page for each service or product, starts at ₹20,000 and takes three to five weeks. An online store with UPI and card checkout starts at ₹50,000. Custom web applications such as vendor portals or student systems start at ₹60,000. Automation starts at ₹40,000 and monthly SEO at ₹10,000. Details are on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our prices are public. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page site planned for Google, with a page for each service or product, starts at ₹20,000 and takes three to five weeks. An online store with UPI and card checkout starts at ₹50,000. Custom web applications such as vendor portals or student systems start at ₹60,000. Automation starts at ₹40,000 and monthly SEO at ₹10,000. Details are on our <a href=\"/pricing/\">pricing page</a>.",
         "Your quote lists each page and feature separately, so you can remove items or phase the work. Nothing is billed until you approve the quote in writing, and hosting set-up and basic SEO are included, not charged as extras.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> site of up to 100 pages for tutors, doctors, shops and consultants",
-        "<strong>From ₹20,000:</strong> 700+ page site for contractors, suppliers, schools and clinics",
+        "<strong>From ₹20,000:</strong> 299+ page site for contractors, suppliers, schools and clinics",
         "<strong>From ₹50,000:</strong> online store for sweets, handloom, crafts or local brands",
         "<strong>From ₹60,000:</strong> vendor portals, dashboards and student systems",
       ],
@@ -219,7 +219,7 @@ const kharagpur: CityContent = {
     {
       question: "How much does a website cost in Kharagpur?",
       answer:
-        "With us, a static website starts at ₹10,000 and a 700+ page SEO website at ₹20,000. Online stores start at ₹50,000 and custom applications at ₹60,000. Kharagpur quotes range from very cheap to Kolkata agency rates, so compare domain ownership, SEO basics and after-launch support, not just the headline price.",
+        "With us, a static website starts at ₹10,000 and a 299+ page SEO website at ₹20,000. Online stores start at ₹50,000 and custom applications at ₹60,000. Kharagpur quotes range from very cheap to Kolkata agency rates, so compare domain ownership, SEO basics and after-launch support, not just the headline price.",
     },
     {
       question: "Kharagpur-e website banate koto khoroch hoy?",
@@ -254,7 +254,7 @@ const kharagpur: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO website three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. Waiting for text and photos causes most delays, so we draft content for you to review.",
+        "A static site takes one to two weeks, a 299+ page SEO website three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. Waiting for text and photos causes most delays, so we draft content for you to review.",
     },
     {
       question: "Do you work with businesses in Midnapore, Haldia and Tamluk?",

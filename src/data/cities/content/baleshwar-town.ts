@@ -34,7 +34,7 @@ const baleshwarTown: CityContent = {
     pills: ["Sites from ₹10,000", "Odia, English and Bengali pages", "Seafood export profiles", "Chandipur hotel booking", "WhatsApp automation"],
   },
   quickAnswer:
-    "In Balasore, a static website of up to 100 pages starts from ₹10,000 and takes one to two weeks, a 700+ page SEO website starts from ₹20,000, and online stores start from ₹50,000. We are a remote team of three engineers with no office in Balasore, and five months of maintenance after launch are free.",
+    "In Balasore, a static website of up to 100 pages starts from ₹10,000 and takes one to two weeks, a 299+ page SEO website starts from ₹20,000, and online stores start from ₹50,000. We are a remote team of three engineers with no office in Balasore, and five months of maintenance after launch are free.",
   snapshot: [
     { label: "Town", value: "Headquarters of Balasore (Baleswar) district; about 144,000 people in the municipality at the 2011 Census" },
     { label: "Location", value: "On NH 16 and the Howrah–Chennai main line, roughly 215 km from Bhubaneswar and 240 km from Kolkata" },
@@ -73,7 +73,7 @@ const baleshwarTown: CityContent = {
       heading: "Website prices in Balasore, explained line by line",
       paragraphs: [
         "Ask around Balasore and you will get quotes that range from a very small amount for a template to large sums from out-of-town firms with no breakdown. The cheap option often leaves the domain in someone else's name; the expensive one rarely tells you what you are paying for.",
-        "Our <a href=\"/pricing/\">pricing page</a> lists starting prices only, so every number below is where a project begins. A static website with up to 100 pages starts from ₹10,000 and is ready in one to two weeks. An SEO website with 700+ pages, such as one page per product, service, route or area served, starts from ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts from ₹40,000, online stores from ₹50,000, custom web software from ₹60,000 and monthly SEO from ₹10,000.",
+        "Our <a href=\"/pricing/\">pricing page</a> lists starting prices only, so every number below is where a project begins. A static website with up to 100 pages starts from ₹10,000 and is ready in one to two weeks. An SEO website with 299+ pages, such as one page per product, service, route or area served, starts from ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts from ₹40,000, online stores from ₹50,000, custom web software from ₹60,000 and monthly SEO from ₹10,000.",
         "The final figure depends on scope: number of pages, languages, product listings, payment gateways, logins and connections to your billing or ERP system. A small lodge in Chandipur needs much less than a seafood processor that wants a buyer portal with shipment documents.",
         "You see each item written out before we bill anything, and you can remove features you do not need today.",
       ],
@@ -227,7 +227,7 @@ const baleshwarTown: CityContent = {
     {
       question: "How much does a website cost in Balasore?",
       answer:
-        "A static website starts from ₹10,000, an SEO website with 700+ pages from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices. The final amount depends on your pages, products and features, and you get an itemised quote before any billing.",
+        "A static website starts from ₹10,000, an SEO website with 299+ pages from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices. The final amount depends on your pages, products and features, and you get an itemised quote before any billing.",
     },
     {
       question: "Baleswar re website banaibaku kete tanka lagiba?",

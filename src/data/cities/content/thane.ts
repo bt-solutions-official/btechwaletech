@@ -35,7 +35,7 @@ const thane: CityContent = {
     pills: ["Starts at ₹10,000", "Ghodbunder Road local SEO", "Clinic and class bookings", "UPI stores", "WhatsApp workflows"],
   },
   quickAnswer:
-    "In Thane, we build static business websites from ₹10,000 and 700+ page SEO websites from ₹20,000, usually within one to five weeks. Online stores start at ₹50,000 and custom web applications at ₹60,000. We are a remote team of three engineers, so you pay no agency overheads, you own everything, and maintenance is free for five months.",
+    "In Thane, we build static business websites from ₹10,000 and 299+ page SEO websites from ₹20,000, usually within one to five weeks. Online stores start at ₹50,000 and custom web applications at ₹60,000. We are a remote team of three engineers, so you pay no agency overheads, you own everything, and maintenance is free for five months.",
   snapshot: [
     { label: "Old city centre", value: "Naupada, Gokhale Road, Ram Maruti Road, Jambli Naka and the streets around Masunda (Talao Pali) lake" },
     { label: "Growth corridor", value: "Ghodbunder Road, Majiwada, Manpada, Hiranandani Estate, Kolshet and Balkum" },
@@ -73,7 +73,7 @@ const thane: CityContent = {
       heading: "How much does a website cost in Thane?",
       paragraphs: [
         "Because Thane sits beside Mumbai, owners often receive Mumbai agency quotes of ₹40,000 to ₹1.5 lakh for a simple site, alongside freelancer offers of ₹3,000 that include little more than a template. Neither extreme tells you much. What matters is who owns the domain and hosting, whether SEO is set up properly, and what happens after launch.",
-        "Our starting prices are published openly. A static website of up to 100 pages starts at ₹10,000 and goes live in one to two weeks. A 700+ page SEO site, with a page per service and for each area you realistically serve, starts at ₹20,000 and takes three to five weeks. An online store with UPI and cards starts at ₹50,000 over four to eight weeks, and custom applications such as booking systems or portals start at ₹60,000 over six to twelve weeks.",
+        "Our starting prices are published openly. A static website of up to 100 pages starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO site, with a page per service and for each area you realistically serve, starts at ₹20,000 and takes three to five weeks. An online store with UPI and cards starts at ₹50,000 over four to eight weeks, and custom applications such as booking systems or portals start at ₹60,000 over six to twelve weeks.",
         "Automation starts at ₹40,000 and monthly SEO at ₹10,000. Our <a href=\"/pricing/\">pricing page</a> has the complete breakdown. An itemised quote usually reaches you within two working days, and nothing is billed until you approve it in writing.",
       ],
       list: [
@@ -218,7 +218,7 @@ const thane: CityContent = {
     {
       question: "How much does a website cost in Thane?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Thane and Mumbai quotes range from a few thousand to over ₹1 lakh, so compare what each includes: ownership, SEO setup and support after launch.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Thane and Mumbai quotes range from a few thousand to over ₹1 lakh, so compare what each includes: ownership, SEO setup and support after launch.",
     },
     {
       question: "Thane madhe website banvayla kiti paise lagtat?",
@@ -238,7 +238,7 @@ const thane: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "One to two weeks for a static site, three to five weeks for a 700+ page SEO site, four to eight weeks for an online store and six to twelve weeks for a custom application. The usual delay is waiting for photos and details, so we draft the text for you and you correct it.",
+        "One to two weeks for a static site, three to five weeks for a 299+ page SEO site, four to eight weeks for an online store and six to twelve weeks for a custom application. The usual delay is waiting for photos and details, so we draft the text for you and you correct it.",
     },
     {
       question: "Can you build an online ordering site for my bakery or cloud kitchen?",

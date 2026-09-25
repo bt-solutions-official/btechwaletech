@@ -35,7 +35,7 @@ const deoghar: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi and English pages", "Room booking enquiries", "Peda and prasad stores", "Shravani Mela ready"],
   },
   quickAnswer:
-    "A website for a Deoghar business starts from ₹10,000 with our team and is ready in one to two weeks. A 700+ page SEO website starts from ₹20,000, AI and WhatsApp automation from ₹40,000 and an online store from ₹50,000. We are a remote team of three engineers with no Deoghar office, and the first five months of maintenance are free.",
+    "A website for a Deoghar business starts from ₹10,000 with our team and is ready in one to two weeks. A 299+ page SEO website starts from ₹20,000, AI and WhatsApp automation from ₹40,000 and an online store from ₹50,000. We are a remote team of three engineers with no Deoghar office, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Known for", value: "Baba Baidyanath Temple, one of the twelve Jyotirlingas, which gives the town the name Baba Dham" },
     { label: "Biggest season", value: "Shravani Mela in Shravan, when Kanwariyas carry Ganga water about 108 km on foot from Sultanganj" },
@@ -73,12 +73,12 @@ const deoghar: CityContent = {
       heading: "Website prices in Deoghar, written down",
       paragraphs: [
         "Quotes in Deoghar swing from a couple of thousand rupees for a template page to large figures from agencies in Ranchi or Kolkata. Cheap sites often have no search setup, sit on the developer's domain and stop working when he moves on. Expensive ones may carry costs that a lodge or clinic does not need.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts from ₹10,000 and is ready in one to two weeks. A 700+ page SEO website, planned around what pilgrims and local customers search for, starts from ₹20,000 and takes three to five weeks. AI automation starts from ₹40,000, an online store from ₹50,000, custom software from ₹60,000 and monthly SEO from ₹10,000.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts from ₹10,000 and is ready in one to two weeks. A 299+ page SEO website, planned around what pilgrims and local customers search for, starts from ₹20,000 and takes three to five weeks. AI automation starts from ₹40,000, an online store from ₹50,000, custom software from ₹60,000 and monthly SEO from ₹10,000.",
         "The final number depends on the number of pages and rooms, languages, features and the content you already have. You receive an itemised quote in writing, and we bill nothing until you say yes.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages with mobile layout, enquiry form, map and basic SEO for lodges, shops and clinics.",
-        "<strong>From ₹20,000:</strong> 700+ pages covering rooms, services, routes and FAQs for hotels, hospitals and travel firms.",
+        "<strong>From ₹20,000:</strong> 299+ pages covering rooms, services, routes and FAQs for hotels, hospitals and travel firms.",
         "<strong>From ₹50,000:</strong> online store with UPI, cards and shipping rules for peda and prasad sellers.",
         "<strong>From ₹60,000:</strong> custom booking registers, ledgers and dashboards with staff logins.",
       ],
@@ -212,7 +212,7 @@ const deoghar: CityContent = {
     {
       question: "How much does a website cost in Deoghar?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO website from ₹20,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. Your final amount depends on pages, rooms, languages and features, and you get an itemised written quote first.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO website from ₹20,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. Your final amount depends on pages, rooms, languages and features, and you get an itemised written quote first.",
     },
     {
       question: "Deoghar me hotel ki website banwane me kitna kharcha aata hai?",

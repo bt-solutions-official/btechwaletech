@@ -34,7 +34,7 @@ const adoni: CityContent = {
     pills: ["Sites from ₹10,000", "Ginning and oil mill pages", "Telugu, Kannada, Urdu, English", "Buyer enquiry automation", "5 free upkeep months"],
   },
   quickAnswer:
-    "An Adoni business website starts at ₹10,000 with us and takes one to two weeks. A 700+ page SEO website starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote team with no Adoni office, and the first five months of maintenance are free.",
+    "An Adoni business website starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote team with no Adoni office, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Trade", value: "Home to the Adoni cotton market, described as the largest cotton market in Rayalaseema" },
     { label: "Industry", value: "Cotton ginning and pressing, spinning mills, and a groundnut oil mills cluster of micro and small units" },
@@ -72,12 +72,12 @@ const adoni: CityContent = {
       heading: "How much a website costs in Adoni",
       paragraphs: [
         "In Adoni you will hear prices ranging from a few thousand rupees for a template to large figures quoted by agencies in Kurnool, Hyderabad or Bengaluru. The cheapest options often leave the domain in the developer's name and skip search basics. The most expensive include costs you never use. We list every item so you can compare fairly.",
-        "Our prices are starting prices. A static website of up to 100 pages starts at ₹10,000 and is usually live within one to two weeks. A 700+ page SEO website, with separate pages for each product, grade or service, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom software at ₹60,000 and AI or WhatsApp automation at ₹40,000. Monthly SEO starts at ₹10,000. The full table is on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our prices are starting prices. A static website of up to 100 pages starts at ₹10,000 and is usually live within one to two weeks. A 299+ page SEO website, with separate pages for each product, grade or service, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom software at ₹60,000 and AI or WhatsApp automation at ₹40,000. Monthly SEO starts at ₹10,000. The full table is on our <a href=\"/pricing/\">pricing page</a>.",
         "Scope decides the final number. A ginner with several cotton varieties, test reports and a buyer portal needs more work than a tuition centre with three courses. If the total runs above your budget, we mark the items that can wait until after the season.",
       ],
       list: [
         "<strong>Static site from ₹10,000:</strong> up to 100 pages, enquiry form, WhatsApp button, SEO basics.",
-        "<strong>SEO site from ₹20,000:</strong> 700+ pages, schema, sitemap, Search Console.",
+        "<strong>SEO site from ₹20,000:</strong> 299+ pages, schema, sitemap, Search Console.",
         "<strong>Store from ₹50,000:</strong> catalogue, UPI and card checkout, shipping zones, order alerts.",
         "<strong>Custom app from ₹60,000:</strong> lot registers, buyer logins, dispatch reports.",
       ],
@@ -218,12 +218,12 @@ const adoni: CityContent = {
     {
       question: "How much does a website cost in Adoni?",
       answer:
-        "With us, a static website starts at ₹10,000 and a 700+ page SEO website starts at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. The final amount depends on the pages and features you need, and you get an itemised quote before anything is billed.",
+        "With us, a static website starts at ₹10,000 and a 299+ page SEO website starts at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. The final amount depends on the pages and features you need, and you get an itemised quote before anything is billed.",
     },
     {
       question: "Adoni lo website cheyinchadaniki entha kharchu avutundi?",
       answer:
-        "Maa daggara chinna business website ₹10,000 nundi modalavutundi, 700+ pages unna SEO website ₹20,000 nundi. Online store ₹50,000 nundi modalavutundi. Enni pages, ye features kavali ane daani batti final dhara nirnayistamu. Pani modalupettaka mundu prathi item dhara raasi pamputamu.",
+        "Maa daggara chinna business website ₹10,000 nundi modalavutundi, 299+ pages unna SEO website ₹20,000 nundi. Online store ₹50,000 nundi modalavutundi. Enni pages, ye features kavali ane daani batti final dhara nirnayistamu. Pani modalupettaka mundu prathi item dhara raasi pamputamu.",
     },
     {
       question: "Do you have an office in Adoni?",
@@ -248,7 +248,7 @@ const adoni: CityContent = {
     {
       question: "How long does it take to make a website?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Most delays come from waiting for photographs and text, so we draft content for you to correct.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Most delays come from waiting for photographs and text, so we draft content for you to correct.",
     },
     {
       question: "Do you work with businesses in Yemmiganur, Alur, Kurnool and Ballari?",

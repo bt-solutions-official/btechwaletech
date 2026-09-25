@@ -39,7 +39,7 @@ const udumalaipettai: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Tamil-first local SEO", "Coconut and textile trade tools", "You hold every account"],
   },
   quickAnswer:
-    "Udumalpet businesses can get a website from us from ₹10,000, usually built in one to two weeks. Android and iOS apps begin at ₹40,000, as does AI and WhatsApp automation; a 700+ page SEO website begins at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team and keep no Udumalaipettai office.",
+    "Udumalpet businesses can get a website from us from ₹10,000, usually built in one to two weeks. Android and iOS apps begin at ₹40,000, as does AI and WhatsApp automation; a 299+ page SEO website begins at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team and keep no Udumalaipettai office.",
   snapshot: [
     { label: "Civic body", value: "Special grade municipality, first formed in 1918, covering about 24 sq km; taluk headquarters in Tiruppur district" },
     { label: "Population", value: "About 61,100 in the town at the 2011 census" },
@@ -161,7 +161,7 @@ const udumalaipettai: CityContent = {
       id: "website-cost-udumalpet",
       heading: "Website cost in Udumalaipettai: starting prices and fair comparisons",
       paragraphs: [
-        "Here are our starting points for Udumalpet: a static site up to 100 pages from ₹10,000, ready in one to two weeks; an SEO site with 700+ pages from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; an online store from ₹50,000 in four to eight weeks; custom software from ₹60,000 in six to twelve weeks; and monthly SEO from ₹10,000.",
+        "Here are our starting points for Udumalpet: a static site up to 100 pages from ₹10,000, ready in one to two weeks; an SEO site with 299+ pages from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; an online store from ₹50,000 in four to eight weeks; custom software from ₹60,000 in six to twelve weeks; and monthly SEO from ₹10,000.",
         "Quotes grow with scope: Tamil plus English versions, long catalogues, bookings, payment and courier links, staff logins and Tally connections. If you give us the text and photographs, the figure stays close to the starting point; writing or photography done by us is listed separately.",
         "Prices from designers in Tiruppur district vary widely. Before you choose, ask who will own the domain and hosting, whether phone testing and basic SEO are part of the price, how many change rounds are included and who handles problems after launch. Our <a href=\"/pricing/\">pricing page</a> sets out the starting figures, and your line-by-line quote normally follows within two working days.",
       ],
@@ -213,7 +213,7 @@ const udumalaipettai: CityContent = {
     {
       question: "What is the website cost in Udumalaipettai?",
       answer:
-        "Static websites begin at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. All are starting prices; the written, itemised quote depends on pages, Tamil content, products and integrations, and nothing is billed before you approve it.",
+        "Static websites begin at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. All are starting prices; the written, itemised quote depends on pages, Tamil content, products and integrations, and nothing is billed before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Udumalaipettai businesses?",
@@ -223,7 +223,7 @@ const udumalaipettai: CityContent = {
     {
       question: "How long does a website take in Udumalpet?",
       answer:
-        "Once we have your text and photographs, a basic site is normally live in one to two weeks. Allow three to five weeks for a 700+ page SEO site, four to eight for a store and six to twelve for custom software. Content arriving late is the usual reason for delays.",
+        "Once we have your text and photographs, a basic site is normally live in one to two weeks. Allow three to five weeks for a 299+ page SEO site, four to eight for a store and six to twelve for custom software. Content arriving late is the usual reason for delays.",
     },
     {
       question: "Which is the best website development team in Udumalaipettai?",
@@ -248,7 +248,7 @@ const udumalaipettai: CityContent = {
     {
       question: "Udumalpet-la website seiya evvalavu selavu aagum?",
       answer:
-        "Engalidam saadharana website ₹10,000-il irundhu thodangugiradhu, pothuvaaga onru-irandu vaarangalil thayaaraagum. 700+ page SEO website ₹20,000-il irundhu, Android matrum iOS app ₹40,000-il irundhu, online store ₹50,000-il irundhu thodangugiradhu. Ungal pages matrum features paarthu ezhuthu moolamaaga quote anuppuvom.",
+        "Engalidam saadharana website ₹10,000-il irundhu thodangugiradhu, pothuvaaga onru-irandu vaarangalil thayaaraagum. 299+ page SEO website ₹20,000-il irundhu, Android matrum iOS app ₹40,000-il irundhu, online store ₹50,000-il irundhu thodangugiradhu. Ungal pages matrum features paarthu ezhuthu moolamaaga quote anuppuvom.",
     },
     {
       question: "You have no office in Udumalpet. Is working remotely safe?",

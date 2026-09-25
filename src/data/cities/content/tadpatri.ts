@@ -34,7 +34,7 @@ const tadpatri: CityContent = {
     pills: ["Websites from ₹10,000", "Granite and stone catalogues", "Telugu and English SEO", "Fleet and trip software", "Everything in your name"],
   },
   quickAnswer:
-    "A Tadpatri business can launch a website from ₹10,000 in one to two weeks. A 700+ page SEO site starts at ₹20,000, WhatsApp and AI automation at ₹40,000, an online store at ₹50,000 and custom software such as trip or order tracking at ₹60,000. We work remotely, and you own the domain and code.",
+    "A Tadpatri business can launch a website from ₹10,000 in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp and AI automation at ₹40,000, an online store at ₹50,000 and custom software such as trip or order tracking at ₹60,000. We work remotely, and you own the domain and code.",
   snapshot: [
     { label: "Setting", value: "Selection grade municipality on the southern bank of the Penna (Pennar) river, Anantapur district" },
     { label: "Population", value: "About 1.08 lakh in the 2011 Census" },
@@ -142,7 +142,7 @@ const tadpatri: CityContent = {
       ],
       list: [
         "<strong>Static website, up to 100 pages:</strong> from ₹10,000, one to two weeks.",
-        "<strong>SEO website with 700+ pages:</strong> starts at ₹20,000, three to five weeks.",
+        "<strong>SEO website with 299+ pages:</strong> starts at ₹20,000, three to five weeks.",
         "<strong>AI and WhatsApp automation:</strong> from ₹40,000, two to four weeks.",
         "<strong>Ecommerce store with UPI:</strong> starts at ₹50,000, four to eight weeks.",
         "<strong>Custom software, such as trip or slab stock tracking:</strong> from ₹60,000, six to twelve weeks.",
@@ -223,7 +223,7 @@ const tadpatri: CityContent = {
     {
       question: "What does a website cost in Tadpatri?",
       answer:
-        "A small website starts at ₹10,000 and takes one to two weeks. An SEO website of 700+ pages starts at ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We send an itemised written quote in about two working days and bill nothing before you approve it.",
+        "A small website starts at ₹10,000 and takes one to two weeks. An SEO website of 299+ pages starts at ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We send an itemised written quote in about two working days and bill nothing before you approve it.",
     },
     {
       question: "Tadipatri lo maa shop ki website kavali, entha kharchu avutundi?",
@@ -283,7 +283,7 @@ const tadpatri: CityContent = {
     {
       question: "How long does it take?",
       answer:
-        "A small site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having material photographs, price ranges and basic text ready before we start keeps the project on schedule.",
+        "A small site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having material photographs, price ranges and basic text ready before we start keeps the project on schedule.",
     },
     {
       question: "Do you guarantee first rank on Google?",

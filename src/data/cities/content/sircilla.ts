@@ -39,7 +39,7 @@ const sircilla: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu-first local SEO", "Loom and order tracking", "All accounts in your name"],
   },
   quickAnswer:
-    "Sircilla businesses can get a website from us starting at ₹10,000, usually live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, have no Sircilla office, and register every account to you.",
+    "Sircilla businesses can get a website from us starting at ₹10,000, usually live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, have no Sircilla office, and register every account to you.",
   snapshot: [
     { label: "Location", value: "Headquarters of Rajanna Sircilla district, about 40 km west of Karimnagar and 120 km north of Secunderabad" },
     { label: "Civic status", value: "First-grade municipality with 34 wards" },
@@ -88,7 +88,7 @@ const sircilla: CityContent = {
       paragraphs: [
         "Since 2018, Sircilla's looms have woven Bathukamma sarees ordered by the state government for distribution to women across Telangana's districts before the festival, and the cluster also turns out uniform cloth, check shirting, PV suiting, Pongal sarees for Tamil Nadu, silk sarees, linen shirting and tie-dye fabric. Traders here sell to wholesalers and retailers in many states.",
         "A <strong>website development team in Sircilla</strong> can give these traders a catalogue that works harder than a WhatsApp photo dump. Each fabric or saree gets its own page with clear photographs, count, width, weight, colour options, minimum order and lead time. A wholesale enquiry form asks for quantity, destination and delivery date, and buyers can download a current price list if you choose to share one.",
-        "We never state that a trader supplies a government scheme or a named retailer unless you confirm it in writing, and we never invent production capacity. A catalogue site starts at ₹10,000, and a larger 700+ page site that targets fabric searches by type and city starts at ₹20,000.",
+        "We never state that a trader supplies a government scheme or a named retailer unless you confirm it in writing, and we never invent production capacity. A catalogue site starts at ₹10,000, and a larger 299+ page site that targets fabric searches by type and city starts at ₹20,000.",
       ],
     },
     {
@@ -160,7 +160,7 @@ const sircilla: CityContent = {
       id: "website-cost-sircilla",
       heading: "Website cost in Sircilla: where prices start and what raises them",
       paragraphs: [
-        "In Sircilla, a static business website of up to 100 pages is priced from ₹10,000 and takes one to two weeks. A 700+ page SEO website is priced from ₹20,000 and needs three to five weeks. Apps for Android and iOS are priced from ₹40,000. AI and WhatsApp automation is priced from ₹40,000 and takes two to four weeks. An online store is priced from ₹50,000 over four to eight weeks, and custom software from ₹60,000 over six to twelve weeks.",
+        "In Sircilla, a static business website of up to 100 pages is priced from ₹10,000 and takes one to two weeks. A 299+ page SEO website is priced from ₹20,000 and needs three to five weeks. Apps for Android and iOS are priced from ₹40,000. AI and WhatsApp automation is priced from ₹40,000 and takes two to four weeks. An online store is priced from ₹50,000 over four to eight weeks, and custom software from ₹60,000 over six to twelve weeks.",
         "The figure goes up with Telugu and English versions of every page, large design catalogues, payments, buyer logins and any link to billing or accounting software. When you send your own text and photos, the quote stays near the starting figure; content writing and photo editing are shown as separate lines.",
         "Other quotes in Karimnagar and Sircilla vary widely. Compare them on the terms: who holds the domain, whether phones were tested, how many revisions are included and who supports you after launch. See our <a href=\"/pricing/\">pricing page</a>, or <a href=\"/contact/\">write to us</a> for a written estimate.",
       ],
@@ -212,7 +212,7 @@ const sircilla: CityContent = {
     {
       question: "What is the website cost in Sircilla?",
       answer:
-        "A static website with us is priced from ₹10,000, a 700+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices only. Telugu content, catalogue size and integrations decide the final figure, which you see line by line and approve before any invoice.",
+        "A static website with us is priced from ₹10,000, a 299+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices only. Telugu content, catalogue size and integrations decide the final figure, which you see line by line and approve before any invoice.",
     },
     {
       question: "Do you build Android and iOS apps for Sircilla businesses?",
@@ -222,7 +222,7 @@ const sircilla: CityContent = {
     {
       question: "How long does a website take for a Sircilla business?",
       answer:
-        "With your text and photos in hand, a static website is normally ready in one to two weeks. A 700+ page SEO site needs three to five weeks, an online store four to eight and custom software six to twelve. For textile catalogues, photographing designs is often the slowest part, so start on it early.",
+        "With your text and photos in hand, a static website is normally ready in one to two weeks. A 299+ page SEO site needs three to five weeks, an online store four to eight and custom software six to twelve. For textile catalogues, photographing designs is often the slowest part, so start on it early.",
     },
     {
       question: "Who is the best website development team in Sircilla?",
@@ -247,7 +247,7 @@ const sircilla: CityContent = {
     {
       question: "Sircilla lo website cheyinchukovadaniki entha kharchu avutundi?",
       answer:
-        "Maa daggara simple website ₹10,000 nundi modalavutundi, okati rendu vaaralalo ready avutundi. 700+ page SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalu. Mee pages, features chusi raatapurvakamga quote istamu; meeru approve chesina tarvate billing.",
+        "Maa daggara simple website ₹10,000 nundi modalavutundi, okati rendu vaaralalo ready avutundi. 299+ page SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalu. Mee pages, features chusi raatapurvakamga quote istamu; meeru approve chesina tarvate billing.",
     },
     {
       question: "You have no office in Sircilla. Is remote work safe?",

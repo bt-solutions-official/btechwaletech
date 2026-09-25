@@ -35,7 +35,7 @@ const tadepalligudem: CityContent = {
     pills: ["Sites from ₹10,000", "Telugu and English", "Rice mill catalogues", "Aqua dealer pages", "Replies 7 days a week"],
   },
   quickAnswer:
-    "A Tadepalligudem business website with us costs from ₹10,000 and is ready in roughly one to two weeks. Bigger builds scale up: 700+ page SEO sites from ₹20,000, WhatsApp or AI automation from ₹40,000, UPI stores from ₹50,000 and custom software from ₹60,000. Our team is remote, keeps no local office, and covers maintenance free for five months.",
+    "A Tadepalligudem business website with us costs from ₹10,000 and is ready in roughly one to two weeks. Bigger builds scale up: 299+ page SEO sites from ₹20,000, WhatsApp or AI automation from ₹40,000, UPI stores from ₹50,000 and custom software from ₹60,000. Our team is remote, keeps no local office, and covers maintenance free for five months.",
   snapshot: [
     { label: "District", value: "West Godavari district, Andhra Pradesh; a municipality since 1958 on the Godavari delta's upland edge" },
     { label: "Population", value: "232,346 in the 2011 census, with literacy above 83%" },
@@ -219,12 +219,12 @@ const tadepalligudem: CityContent = {
     {
       question: "How much does a website cost in Tadepalligudem?",
       answer:
-        "Pricing begins at ₹10,000 for a business site of up to 100 pages. A 700+ page SEO build begins at ₹20,000, WhatsApp or AI automation at ₹40,000, a UPI store at ₹50,000 and bespoke software at ₹60,000. Where you land above those floors depends on pages, languages and features. Whoever you hire, confirm that the domain will be registered to you.",
+        "Pricing begins at ₹10,000 for a business site of up to 100 pages. A 299+ page SEO build begins at ₹20,000, WhatsApp or AI automation at ₹40,000, a UPI store at ₹50,000 and bespoke software at ₹60,000. Where you land above those floors depends on pages, languages and features. Whoever you hire, confirm that the domain will be registered to you.",
     },
     {
       question: "Tadepalligudem lo chinna shop ki website cheyinchadaniki entha kharchu avutundi?",
       answer:
-        "Maa simple business website ₹10,000 nundi modalavutundi, saadharanamga okati rendu vaaralalo ready avutundi. 700+ page SEO website ₹20,000 nundi, online store ₹50,000 nundi modalavutundi. Pani modalupettadaniki mundu prathi item tho quote pampistamu; meeru rasi approve chese varaku emi charge cheyamu.",
+        "Maa simple business website ₹10,000 nundi modalavutundi, saadharanamga okati rendu vaaralalo ready avutundi. 299+ page SEO website ₹20,000 nundi, online store ₹50,000 nundi modalavutundi. Pani modalupettadaniki mundu prathi item tho quote pampistamu; meeru rasi approve chese varaku emi charge cheyamu.",
     },
     {
       question: "Is there a BtechWaleTech office in Tadepalligudem?",
@@ -254,7 +254,7 @@ const tadepalligudem: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "Plan on one to two weeks for a static site, three to five for a 700+ page SEO build, four to eight for a store and six to twelve for custom software. Hostel owners should begin well ahead of admission season. The usual hold-up is missing photos or text, which is why we write first drafts for you to correct.",
+        "Plan on one to two weeks for a static site, three to five for a 299+ page SEO build, four to eight for a store and six to twelve for custom software. Hostel owners should begin well ahead of admission season. The usual hold-up is missing photos or text, which is why we write first drafts for you to correct.",
     },
     {
       question: "What can WhatsApp automation do for a hostel or dealer?",

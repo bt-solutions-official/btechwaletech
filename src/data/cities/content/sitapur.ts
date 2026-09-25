@@ -35,7 +35,7 @@ const sitapur: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi-first pages", "Durrie export catalogues", "Neemsar pilgrim bookings", "Free upkeep for 5 months"],
   },
   quickAnswer:
-    "Sitapur businesses can start with a website from ₹10,000, typically ready in one to two weeks. SEO sites with 700+ pages start from ₹20,000, WhatsApp and AI automation from ₹40,000, online stores for durries or food products from ₹50,000 and custom software from ₹60,000. We are a remote team with no Sitapur office, and maintenance is free for five months.",
+    "Sitapur businesses can start with a website from ₹10,000, typically ready in one to two weeks. SEO sites with 299+ pages start from ₹20,000, WhatsApp and AI automation from ₹40,000, online stores for durries or food products from ₹50,000 and custom software from ₹60,000. We are a remote team with no Sitapur office, and maintenance is free for five months.",
   snapshot: [
     { label: "Location", value: "District headquarters in Lucknow division, about 90 km north of Lucknow on the highway toward Shahjahanpur" },
     { label: "Rail", value: "Two stations, Sitapur Junction and Sitapur City, with broad-gauge links to Lucknow, Lakhimpur, Gonda and Moradabad" },
@@ -79,7 +79,7 @@ const sitapur: CityContent = {
       ],
       list: [
         "<strong>Starter site from ₹10,000:</strong> up to 100 pages, mobile layout, map, WhatsApp button and SEO basics.",
-        "<strong>SEO site from ₹20,000:</strong> 700+ pages in Hindi and English with schema, sitemap and Search Console.",
+        "<strong>SEO site from ₹20,000:</strong> 299+ pages in Hindi and English with schema, sitemap and Search Console.",
         "<strong>Store from ₹50,000:</strong> catalogue, UPI and card payments, shipping rates and order alerts.",
         "<strong>Custom software from ₹60,000:</strong> loom tracking, dealer ledgers, school portals and similar tools.",
       ],
@@ -221,12 +221,12 @@ const sitapur: CityContent = {
     {
       question: "How much does a website cost in Sitapur?",
       answer:
-        "Our business websites start from ₹10,000, 700+ page SEO sites from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. Your quote depends on pages, products, languages and features. When you compare offers, check who owns the domain, whether search basics are included and what support continues after launch.",
+        "Our business websites start from ₹10,000, 299+ page SEO sites from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. Your quote depends on pages, products, languages and features. When you compare offers, check who owns the domain, whether search basics are included and what support continues after launch.",
     },
     {
       question: "Sitapur me chhote business ki website kitne me banegi?",
       answer:
-        "Hamari simple website ₹10,000 se shuru hoti hai aur zyada tar ek-do hafte me live ho jaati hai. 700+ pages wali SEO site ₹20,000 se, online store ₹50,000 se shuru hai. Pehle har kaam ka alag-alag quote likh kar bhejte hain, aur jab tak aap likhit me haan nahi kehte, koi payment nahi.",
+        "Hamari simple website ₹10,000 se shuru hoti hai aur zyada tar ek-do hafte me live ho jaati hai. 299+ pages wali SEO site ₹20,000 se, online store ₹50,000 se shuru hai. Pehle har kaam ka alag-alag quote likh kar bhejte hain, aur jab tak aap likhit me haan nahi kehte, koi payment nahi.",
     },
     {
       question: "Is there a BtechWaleTech office in Sitapur?",
@@ -256,7 +256,7 @@ const sitapur: CityContent = {
     {
       question: "How long does a project take?",
       answer:
-        "Static sites usually take one to two weeks, 700+ page SEO sites three to five weeks, online stores four to eight weeks and custom software six to twelve. Delays mostly come from waiting for photos and text, so we draft content in Hindi or English for you to correct.",
+        "Static sites usually take one to two weeks, 299+ page SEO sites three to five weeks, online stores four to eight weeks and custom software six to twelve. Delays mostly come from waiting for photos and text, so we draft content in Hindi or English for you to correct.",
     },
     {
       question: "What can WhatsApp automation do for a Sitapur business?",

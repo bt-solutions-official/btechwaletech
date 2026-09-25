@@ -55,7 +55,7 @@ const content: FreelanceContent = {
     rows: [
       { label: "Pehla kadam", value: "WhatsApp par apna business aur maqsad batayiye" },
       { label: "Static website", value: `${P.site} se, 1–2 hafte` },
-      { label: "SEO website (700+ pages)", value: `${P.seoSite} se, 3–5 hafte` },
+      { label: "SEO website (299+ pages)", value: `${P.seoSite} se, 3–5 hafte` },
       { label: "Online dukaan", value: `${P.shop} se, 4–8 hafte` },
       { label: "Payment", value: "UPI ya bank transfer, stages mein" },
       { label: "Malik", value: "Domain, hosting aur code aapke naam par" },
@@ -69,7 +69,7 @@ const content: FreelanceContent = {
     cards: [
       { name: "Dukaan ya service ki simple website", note: `Home, about, services, photos, map aur WhatsApp button. 100 pages tak, ${P.site} se. Zyada tar chhote business isi se shuru karte hain.`, href: "/website-for-local-business/", size: "lg" },
       { name: "Online dukaan (ecommerce)", note: `Products, cart, UPI aur card se payment, order ki email. ${P.shop} se shuru, 4–8 hafte.`, href: "/freelance-ecommerce-developer/", size: "lg" },
-      { name: "Google ke liye SEO website", note: `Har service aur har area ka alag page, 700+ pages tak, ${P.seoSite} se. Jinhe Google se lagatar enquiry chahiye.`, href: "/seo-website-developer/", size: "md" },
+      { name: "Google ke liye SEO website", note: `Har service aur har area ka alag page, 299+ pages tak, ${P.seoSite} se. Jinhe Google se lagatar enquiry chahiye.`, href: "/seo-website-developer/", size: "md" },
       { name: "Booking ya login wali website", note: `Appointment, member login ya dashboard chahiye toh custom web app, ${P.software} se.`, href: "/web-application-developer/", size: "md" },
       { name: "Purani website naye sire se", note: "Purani, slow ya mobile par tooti website ko naya banana, bina purane Google traffic ko khoye.", href: "/website-redesign-freelancer/", size: "md" },
       { name: "Android aur iPhone app", note: `Website ke baad app chahiye toh Flutter ya React Native se, ${P.app} se shuru.`, href: "/app-banwana-hai/", size: "sm" },
@@ -149,7 +149,7 @@ const content: FreelanceContent = {
       id: "kharcha",
       heading: "Website banwane mein kitna kharcha aata hai?",
       paragraphs: [
-        `Kharcha website ke type par depend karta hai, shehar par nahi. Hamare saath shuruaati daam yeh hain: 100 pages tak static website ${P.site} se, 700+ pages wali SEO website ${P.seoSite} se, online store ${P.shop} se, aur login ya booking wala custom web app ${P.software} se.`,
+        `Kharcha website ke type par depend karta hai, shehar par nahi. Hamare saath shuruaati daam yeh hain: 100 pages tak static website ${P.site} se, 299+ pages wali SEO website ${P.seoSite} se, online store ${P.shop} se, aur login ya booking wala custom web app ${P.software} se.`,
         `In daamon ke alawa do chhote kharche alag se aate hain jo seedhe aap company ko dete hain: domain (har saal renew hota hai) aur hosting (static website ke liye kaafi kam, dynamic ke liye thoda zyada). Yeh dono aapke card se, aapke naam par hote hain; hum inme koi margin nahi lete.`,
         `Market mein alag-alag log bahut alag quote dete hain. Farak aksar kaam ki matra mein chhupa hota hai: kisi quote mein text likhna, photos, speed ka kaam aur 6 mahine support shamil hai; kisi mein sirf template aur launch. Isliye sirf total mat dekhiye, har line padhiye. Website kaise banwaye yeh samajhne ka sabse achha tareeka hai do quotes ko line by line milana. Zyada detail ke liye <a href='/website-developer-cost/'>website developer cost</a> page dekhiye.`,
       ],
@@ -300,7 +300,7 @@ const content: FreelanceContent = {
       columns: ["Website ka type", "India mein", "Videsh mein", "Time", "Kiske liye"],
       rows: [
         ["Static website, 100 pages tak", `${P.site} se`, `${P.siteUsd} se`, "1–2 hafte", "Dukaan, clinic, coaching, consultant"],
-        ["SEO website, 700+ pages", `${P.seoSite} se`, `${P.seoSiteUsd} se`, "3–5 hafte", "Kai area ya services wale business"],
+        ["SEO website, 299+ pages", `${P.seoSite} se`, `${P.seoSiteUsd} se`, "3–5 hafte", "Kai area ya services wale business"],
         ["Online store", `${P.shop} se`, `${P.shopUsd} se`, "4–8 hafte", "UPI aur card se bechne wale"],
         ["Custom web app", `${P.software} se`, `${P.softwareUsd} se`, "6–12 hafte", "Booking, login, dashboard"],
         ["Android & iOS app", `${P.app} se`, `${P.appUsd} se`, "6–10 hafte", "Baar-baar order karne wale customer"],
@@ -377,7 +377,7 @@ const content: FreelanceContent = {
   faqHeading: "Website kaise banwaye: aam sawal",
   faqs: [
     { question: "Website kaise banwaye agar mujhe coding nahi aati?", answer: `Coding aane ki zaroorat nahi hai. Aapko sirf maqsad, logo, photos, services ki list aur contact details deni hoti hain. Developer design, code, hosting setup aur launch karta hai. BtechWaleTech ke saath aap WhatsApp par baat karte hain, staging link par phone mein kaam dekhte hain, aur simple website ${P.site} se shuru hoti hai.` },
-    { question: "Website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath 100 pages tak ki static website ${P.site} se, 700+ pages wali SEO website ${P.seoSite} se aur online store ${P.shop} se shuru hota hai. Domain aur hosting ka chhota kharcha alag hota hai jo aap seedhe company ko dete hain. Final daam pages, features aur content par depend karta hai, aur quote line by line milta hai.` },
+    { question: "Website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath 100 pages tak ki static website ${P.site} se, 299+ pages wali SEO website ${P.seoSite} se aur online store ${P.shop} se shuru hota hai. Domain aur hosting ka chhota kharcha alag hota hai jo aap seedhe company ko dete hain. Final daam pages, features aur content par depend karta hai, aur quote line by line milta hai.` },
     { question: "Website banne mein kitne din lagte hain?", answer: "Static business website aam taur par 1–2 hafte mein, SEO website 3–5 hafte mein aur online store 4–8 hafte mein banta hai. Sabse zyada deri text, photos aur approval ke intezaar mein hoti hai. Agar saara saamaan pehli call se pehle taiyaar ho, toh website jaldi live ho jaati hai." },
     { question: "Website banwane ke liye kya kya documents chahiye?", answer: "Koi sarkari document zaroori nahi hai. Aapko business ka naam, logo, services ya products ki list, photos, address, phone aur WhatsApp number chahiye. Online bechna hai toh GST number aur bank details kaam aati hain. Domain registration ke liye aapka naam, email aur payment ka tareeka chahiye hota hai." },
     { question: "Domain aur hosting kya hota hai?", answer: "Domain aapki website ka naam ya pata hai, jaise aapkadukaan.in, jo har saal renew hota hai. Hosting woh server hai jahan website ki files rakhi jaati hain. Dono aapke naam, aapki email aur aapke card se lene chahiye, taaki website hamesha aapke control mein rahe aur koi developer use rok na sake." },

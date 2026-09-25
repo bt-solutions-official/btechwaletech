@@ -148,7 +148,7 @@ const rudrapur: CityContent = {
       ],
       list: [
         "<strong>Static website, up to 100 pages:</strong> from ₹10,000, one to two weeks.",
-        "<strong>SEO website, 700+ pages:</strong> from ₹20,000, three to five weeks.",
+        "<strong>SEO website, 299+ pages:</strong> from ₹20,000, three to five weeks.",
         "<strong>Android and iOS app:</strong> from ₹40,000.",
         "<strong>AI or WhatsApp automation:</strong> from ₹40,000, two to four weeks.",
         "<strong>Ecommerce website with UPI and Razorpay:</strong> from ₹50,000, four to eight weeks.",
@@ -231,7 +231,7 @@ const rudrapur: CityContent = {
     {
       question: "What is the website cost in Rudrapur?",
       answer:
-        "A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website with 700+ pages starts at ₹20,000, an ecommerce store at ₹50,000 and custom software at ₹60,000. We send an itemised written quote in about two working days and bill nothing before you approve it.",
+        "A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website with 299+ pages starts at ₹20,000, an ecommerce store at ₹50,000 and custom software at ₹60,000. We send an itemised written quote in about two working days and bill nothing before you approve it.",
     },
     {
       question: "Rudrapur me website ya app banwane ka kharcha kitna hai?",
@@ -256,7 +256,7 @@ const rudrapur: CityContent = {
     {
       question: "How long does a website or app take?",
       answer:
-        "A static website takes one to two weeks, a 700+ page SEO site three to five weeks, AI automation two to four weeks, an ecommerce store four to eight weeks and custom software six to twelve weeks. App timelines depend on features. Ready photographs and content keep the schedule on track.",
+        "A static website takes one to two weeks, a 299+ page SEO site three to five weeks, AI automation two to four weeks, an ecommerce store four to eight weeks and custom software six to twelve weeks. App timelines depend on features. Ready photographs and content keep the schedule on track.",
     },
     {
       question: "Can you help my business rank on Google Maps in Rudrapur?",

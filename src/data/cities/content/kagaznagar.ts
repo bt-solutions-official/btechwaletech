@@ -39,7 +39,7 @@ const kagaznagar: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu, Marathi and English", "Vendor and ginning mill tools", "Accounts in your own name"],
   },
   quickAnswer:
-    "Kagaznagar firms can get a business website from ₹10,000, typically delivered inside two weeks. Android and iOS apps begin at ₹40,000, as does AI automation; a large 700+ page SEO site begins at ₹20,000, ecommerce at ₹50,000 and bespoke software at ₹60,000. Our three engineers work remotely, without a Kagaznagar office, and register everything to you.",
+    "Kagaznagar firms can get a business website from ₹10,000, typically delivered inside two weeks. Android and iOS apps begin at ₹40,000, as does AI automation; a large 299+ page SEO site begins at ₹20,000, ecommerce at ₹50,000 and bespoke software at ₹60,000. Our three engineers work remotely, without a Kagaznagar office, and register everything to you.",
   snapshot: [
     { label: "District", value: "Largest town of Komaram Bheem Asifabad district and seat of the Kagaznagar revenue division" },
     { label: "Paper mill", value: "Sirpur Paper Mills, founded in 1938 with production from 1942, shut in 2014 and restarted under JK Paper in August 2018" },
@@ -168,7 +168,7 @@ const kagaznagar: CityContent = {
       heading: "Website cost in Kagaznagar: starting prices and fair comparison",
       paragraphs: [
         "Two quotes for <strong>website cost in Kagaznagar</strong> can differ several times over and still both be fair, because they cover different things. Local quotes vary widely. Put them side by side on a few points: the name on the domain, the years of hosting included, the page count, who writes the Telugu text, speed on a basic phone, and what support looks like once the site is live.",
-        "Here is our side of that table. Static sites of up to 100 pages are from ₹10,000, delivered in a week or two. SEO sites with 700+ pages are from ₹20,000 and need three to five weeks. Mobile apps for Android and iOS are from ₹40,000, and so is AI automation. Stores begin at ₹50,000 and bespoke software at ₹60,000. The <a href=\"/pricing/\">pricing page</a> breaks each one down.",
+        "Here is our side of that table. Static sites of up to 100 pages are from ₹10,000, delivered in a week or two. SEO sites with 299+ pages are from ₹20,000 and need three to five weeks. Mobile apps for Android and iOS are from ₹40,000, and so is AI automation. Stores begin at ₹50,000 and bespoke software at ₹60,000. The <a href=\"/pricing/\">pricing page</a> breaks each one down.",
         "More products, a second or third language, payment and Tally links, user logins and extra app screens all push the figure up. Sending your own text and photos, and launching with a smaller first version, pulls it down.",
         "Expect the itemised quote within roughly two working days. We raise no bill until you have approved it in writing.",
       ],
@@ -222,7 +222,7 @@ const kagaznagar: CityContent = {
     {
       question: "What is the website cost in Kagaznagar?",
       answer:
-        "Entry points are ₹10,000 for a static site, ₹20,000 for an SEO build of 700+ pages, ₹50,000 for an online store and ₹60,000 for bespoke software. All of these are starting figures. Page count, Telugu or Marathi text, product numbers and integrations move the number, which you will see line by line in writing before any invoice exists.",
+        "Entry points are ₹10,000 for a static site, ₹20,000 for an SEO build of 299+ pages, ₹50,000 for an online store and ₹60,000 for bespoke software. All of these are starting figures. Page count, Telugu or Marathi text, product numbers and integrations move the number, which you will see line by line in writing before any invoice exists.",
     },
     {
       question: "Do you build Android and iOS apps for Kagaznagar businesses?",

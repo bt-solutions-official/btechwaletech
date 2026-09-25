@@ -35,7 +35,7 @@ const lalitpur: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi-first pages", "Trader and supplier sites", "Clinic and coaching pages", "WhatsApp enquiry tools"],
   },
   quickAnswer:
-    "For a Lalitpur business, a static website with up to 100 pages starts from ₹10,000 and takes one to two weeks. A 700+ page SEO site starts from ₹20,000, WhatsApp or AI automation from ₹40,000 and an online store from ₹50,000. We are a remote team with no Lalitpur office, and upkeep is free for five months after launch.",
+    "For a Lalitpur business, a static website with up to 100 pages starts from ₹10,000 and takes one to two weeks. A 299+ page SEO site starts from ₹20,000, WhatsApp or AI automation from ₹40,000 and an online store from ₹50,000. We are a remote team with no Lalitpur office, and upkeep is free for five months after launch.",
   snapshot: [
     { label: "District role", value: "Headquarters of Lalitpur district, carved out of Jhansi in 1974, in the Jhansi division of Bundelkhand" },
     { label: "Borders", value: "A salient of Uttar Pradesh surrounded by Madhya Pradesh on three sides, with the Betwa river on the west" },
@@ -74,7 +74,7 @@ const lalitpur: CityContent = {
       heading: "Website costs in Lalitpur, stated upfront",
       paragraphs: [
         "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static website with up to 100 pages starts from ₹10,000 and is usually ready in one to two weeks. It includes a mobile layout, service or product pages, photos, enquiry form, map, WhatsApp button and basic search setup, with Hindi pages as standard.",
-        "A 700+ page SEO website, useful for a trader with many commodities or a school with many programmes, starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, AI and WhatsApp automation from ₹40,000, custom software from ₹60,000 and monthly SEO from ₹10,000.",
+        "A 299+ page SEO website, useful for a trader with many commodities or a school with many programmes, starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, AI and WhatsApp automation from ₹40,000, custom software from ₹60,000 and monthly SEO from ₹10,000.",
         "These are starting prices, not final figures. A single-doctor clinic needs far less than a hospital with departments and online reports. Tell us what you need and we send an itemised quote in about two working days. You approve it in writing before any work is billed.",
       ],
       list: [
@@ -232,7 +232,7 @@ const lalitpur: CityContent = {
     {
       question: "How much does a website cost in Lalitpur?",
       answer:
-        "Our static websites start from ₹10,000, 700+ page SEO sites from ₹20,000, online stores from ₹50,000 and custom web applications from ₹60,000. When you compare quotes, check who owns the domain, whether search setup is included and what support comes after launch.",
+        "Our static websites start from ₹10,000, 299+ page SEO sites from ₹20,000, online stores from ₹50,000 and custom web applications from ₹60,000. When you compare quotes, check who owns the domain, whether search setup is included and what support comes after launch.",
     },
     {
       question: "Lalitpur me dukaan ya clinic ki website kitne me banegi?",

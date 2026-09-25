@@ -107,7 +107,7 @@ const content: CityContent = {
       id: "export-b2b-gujarat",
       heading: "Export websites and RFQ automation for Gujarat exporters",
       paragraphs: [
-        "An export website for a Gujarat manufacturer should answer an overseas buyer's first questions within a minute: products and specifications, certifications, capacity, packaging, ports used and a way to request a quote. Business websites start from ₹10,000, and 700+ page SEO sites that target many product searches start from ₹20,000.",
+        "An export website for a Gujarat manufacturer should answer an overseas buyer's first questions within a minute: products and specifications, certifications, capacity, packaging, ports used and a way to request a quote. Business websites start from ₹10,000, and 299+ page SEO sites that target many product searches start from ₹20,000.",
         "Exporters in Morbi selling tiles, Jamnagar selling brass parts, Rajkot selling castings and pumps, Ahmedabad selling chemicals and pharma intermediates, and Surat selling fabrics all compete with suppliers worldwide. A slow, outdated website or a single PDF brochure makes a poor first impression. Product pages with technical data, downloadable catalogues and clear contact options win more enquiries.",
         "Behind the website, we can add RFQ automation: an AI agent reads incoming enquiries, extracts product, quantity, destination and terms, checks your price sheet and drafts a quotation for your export team to approve. We never let automation send commercial commitments without a person signing off.",
       ],
@@ -204,7 +204,7 @@ const content: CityContent = {
       ],
       list: [
         "<strong>Website:</strong> from ₹10,000, one to two weeks",
-        "<strong>700+ page SEO website:</strong> from ₹20,000, three to five weeks",
+        "<strong>299+ page SEO website:</strong> from ₹20,000, three to five weeks",
         "<strong>AI or WhatsApp automation:</strong> from ₹40,000, two to four weeks",
         "<strong>Android and iOS app:</strong> from ₹40,000, six to ten weeks",
         "<strong>Online store:</strong> from ₹50,000, four to eight weeks",

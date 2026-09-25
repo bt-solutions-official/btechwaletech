@@ -39,7 +39,7 @@ const mandi: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-English local SEO", "Hotel and homestay bookings", "Your name on every account"],
   },
   quickAnswer:
-    "For Mandi businesses, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; 700+ page SEO sites start at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Mandi office, and you own everything we build.",
+    "For Mandi businesses, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; 299+ page SEO sites start at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Mandi office, and you own everything we build.",
   snapshot: [
     { label: "Location", value: "District headquarters on the Beas at its confluence with the Suketi Khad, roughly 145 km north of Shimla" },
     { label: "Elevation", value: "Around 760 to 880 metres above sea level" },
@@ -158,7 +158,7 @@ const mandi: CityContent = {
       id: "website-cost-mandi",
       heading: "Website cost in Mandi: starting prices and what changes the quote",
       paragraphs: [
-        "Our starting prices apply in Mandi as elsewhere: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 700+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000, an online store from ₹50,000, and custom software from ₹60,000. Monthly SEO starts at ₹10,000 a month. The full list is on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our starting prices apply in Mandi as elsewhere: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 299+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000, an online store from ₹50,000, and custom software from ₹60,000. Monthly SEO starts at ₹10,000 a month. The full list is on our <a href=\"/pricing/\">pricing page</a>.",
         "The quote rises with scope: more pages, both Hindi and English versions, a large product catalogue, booking calendars, payment and courier integration, staff logins, or a link to Tally. Content also matters. If you supply text and photographs, the price stays close to the starting figure; if we write, translate and organise everything, that appears as a separate line.",
         "Quotes from other developers in the area vary widely, so compare like with like. Ask whose name the domain and hosting will be in, whether mobile testing and basic SEO are included, how many rounds of changes you get, and who fixes problems after launch. Our itemised written quote normally reaches you within about two working days.",
       ],
@@ -210,7 +210,7 @@ const mandi: CityContent = {
     {
       question: "What is the website cost in Mandi?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, Hindi content, products, bookings and integrations. You get the quote itemised in writing before anything is billed.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, Hindi content, products, bookings and integrations. You get the quote itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Mandi businesses?",
@@ -220,7 +220,7 @@ const mandi: CityContent = {
     {
       question: "How long does it take to build a website for a Mandi hotel?",
       answer:
-        "A static hotel website usually goes live one to two weeks after we receive your room photographs, tariffs and policies. Adding a booking calendar or payment takes longer. A 700+ page SEO site needs three to five weeks and an online store four to eight weeks. Ready content is the biggest factor.",
+        "A static hotel website usually goes live one to two weeks after we receive your room photographs, tariffs and policies. Adding a booking calendar or payment takes longer. A 299+ page SEO site needs three to five weeks and an online store four to eight weeks. Ready content is the biggest factor.",
     },
     {
       question: "Which is the best website development team in Mandi?",
@@ -245,7 +245,7 @@ const mandi: CityContent = {
     {
       question: "Mandi me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek se do hafte mein taiyar ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Pura quote aapko likhit mein milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek se do hafte mein taiyar ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Pura quote aapko likhit mein milta hai.",
     },
     {
       question: "You have no office in Mandi. How does remote work stay safe?",

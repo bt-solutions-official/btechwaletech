@@ -34,7 +34,7 @@ const munger: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi and English pages", "Coaching and school sites", "Clinic and lab sites", "WhatsApp automation"],
   },
   quickAnswer:
-    "In Munger, our static business websites start from ₹10,000 and take one to two weeks; 700+ page SEO websites start from ₹20,000 and online stores from ₹50,000. We are a remote team of three engineers with no Munger office, and every website we build comes with five months of free maintenance after launch.",
+    "In Munger, our static business websites start from ₹10,000 and take one to two weeks; 299+ page SEO websites start from ₹20,000 and online stores from ₹50,000. We are a remote team of three engineers with no Munger office, and every website we build comes with five months of free maintenance after launch.",
   snapshot: [
     { label: "Location", value: "On the south bank of the Ganga, about 180 km east of Patna; the Munger Ganga rail-cum-road bridge links it to the north bank" },
     { label: "Industry", value: "Jamalpur Locomotive Workshop (1862), the ITC factory, a dairy unit and a historic gun factory" },
@@ -72,7 +72,7 @@ const munger: CityContent = {
       heading: "What a website costs in Munger",
       paragraphs: [
         "Website quotes in Munger range from a couple of thousand rupees for a copied template to large figures from agencies in Patna or Kolkata. The cheap version usually leaves you without search setup, without control of your domain, and without anyone to call when it breaks. The expensive version often includes costs you never see explained.",
-        "Our starting prices are published on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts from ₹10,000 and takes one to two weeks. An SEO website of 700+ pages, with a page for every course, service or area you cover, starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, AI and WhatsApp automation from ₹40,000, custom software from ₹60,000 and monthly SEO from ₹10,000.",
+        "Our starting prices are published on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts from ₹10,000 and takes one to two weeks. An SEO website of 299+ pages, with a page for every course, service or area you cover, starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, AI and WhatsApp automation from ₹40,000, custom software from ₹60,000 and monthly SEO from ₹10,000.",
         "The final figure depends on what you need. A coaching centre with online fee payment and a student login needs more work than a clinic with three doctors. We list every item so you can drop what you do not want before approving the quote.",
       ],
       list: [
@@ -214,12 +214,12 @@ const munger: CityContent = {
     {
       question: "How much does a website cost in Munger?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. The final price depends on pages, features and content, and you receive an itemised quote before any work is billed.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. The final price depends on pages, features and content, and you receive an itemised quote before any work is billed.",
     },
     {
       question: "Munger mein website banwane ka kharcha kitna hai?",
       answer:
-        "Humare saath ek simple business website ₹10,000 se shuru hoti hai, aur 700+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se shuru hota hai. Asli kharcha pages, features aur content par depend karta hai. Kaam shuru hone se pehle aapko likhit, itemised quote milta hai.",
+        "Humare saath ek simple business website ₹10,000 se shuru hoti hai, aur 299+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se shuru hota hai. Asli kharcha pages, features aur content par depend karta hai. Kaam shuru hone se pehle aapko likhit, itemised quote milta hai.",
     },
     {
       question: "Do you have an office in Munger?",

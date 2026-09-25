@@ -39,7 +39,7 @@ const kothagudem: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu-first local SEO", "Contractor and fleet tools", "You keep every login"],
   },
   quickAnswer:
-    "In Kothagudem, our websites begin at ₹10,000 and a small site is normally online in one to two weeks. Android and iOS apps begin at ₹40,000, as does WhatsApp and AI automation. SEO sites of 700+ pages begin at ₹20,000 and online stores at ₹50,000. We are a remote team with no Kothagudem office, and every account stays in your name.",
+    "In Kothagudem, our websites begin at ₹10,000 and a small site is normally online in one to two weeks. Android and iOS apps begin at ₹40,000, as does WhatsApp and AI automation. SEO sites of 299+ pages begin at ₹20,000 and online stores at ₹50,000. We are a remote team with no Kothagudem office, and every account stays in your name.",
   snapshot: [
     { label: "Status", value: "Headquarters of Bhadradri Kothagudem, the largest district in Telangana by area (about 7,483 sq km)" },
     { label: "Main employer", value: "Singareni Collieries Company Limited, headquartered here and jointly owned by the Telangana government and the Union Ministry of Coal" },
@@ -156,7 +156,7 @@ const kothagudem: CityContent = {
       id: "website-cost-kothagudem",
       heading: "Website cost in Kothagudem: where prices start and what raises them",
       paragraphs: [
-        "Every project type has a published starting point. Static websites with up to 100 pages are ₹10,000 onwards and take about one to two weeks. SEO websites of 700 pages or more are ₹20,000 onwards with three to five weeks of work. Apps for Android and iOS are ₹40,000 onwards. AI automation is also ₹40,000 onwards and runs two to four weeks. An ecommerce store is ₹50,000 onwards over four to eight weeks, custom software ₹60,000 onwards over six to twelve weeks, and monthly SEO ₹10,000 onwards.",
+        "Every project type has a published starting point. Static websites with up to 100 pages are ₹10,000 onwards and take about one to two weeks. SEO websites of 299 pages or more are ₹20,000 onwards with three to five weeks of work. Apps for Android and iOS are ₹40,000 onwards. AI automation is also ₹40,000 onwards and runs two to four weeks. An ecommerce store is ₹50,000 onwards over four to eight weeks, custom software ₹60,000 onwards over six to twelve weeks, and monthly SEO ₹10,000 onwards.",
         "Scope decides the rest. Telugu and English versions, a long product catalogue, courier and UPI setup, customer or staff logins, and connections to Tally or a billing tool each add effort. If you hand over your own text and photographs, the quote stays close to the starting point; content writing by us is listed separately so you can choose.",
         "Quotes from different providers around Kothagudem vary widely. Put the same questions to each: whose name the domain will carry, whether phone testing and basic search setup are included, how many revision rounds you get, and who handles problems a year from now. Our <a href=\"/pricing/\">pricing page</a> has all the starting points, and your itemised quote comes within about two working days.",
       ],
@@ -217,7 +217,7 @@ const kothagudem: CityContent = {
     {
       question: "What is the website cost in Kothagudem?",
       answer:
-        "Our Kothagudem work begins at ₹10,000 for a static site, ₹20,000 for an SEO site of 700+ pages, ₹50,000 for an online store and ₹60,000 for custom software. The actual figure rises with pages, Telugu and English versions, products and integrations. You see an itemised quote in writing, and nothing is charged before you approve it.",
+        "Our Kothagudem work begins at ₹10,000 for a static site, ₹20,000 for an SEO site of 299+ pages, ₹50,000 for an online store and ₹60,000 for custom software. The actual figure rises with pages, Telugu and English versions, products and integrations. You see an itemised quote in writing, and nothing is charged before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Kothagudem businesses?",

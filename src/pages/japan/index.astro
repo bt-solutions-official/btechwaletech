@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "@layouts/BaseLayout.astro";
+import { countryPageLinks } from "@data/keywords/page-links";
 import { createPageSeo } from "@lib/seo/seo-config";
 import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
 import { breadcrumbListSchema, faqSchema } from "@lib/schema/schema";
@@ -74,7 +75,7 @@ const faqs = [
   },
   {
     question: "How long does a project take?",
-    answer: "A static website usually takes one to two weeks, a 700+ page SEO website three to five weeks, AI automation two to four weeks, an ecommerce store four to eight weeks and a custom web app six to twelve weeks. Japanese translation and approvals from several people inside your company are the most common reasons for extra time, so we plan for them in the schedule.",
+    answer: "A static website usually takes one to two weeks, a 299+ page SEO website three to five weeks, AI automation two to four weeks, an ecommerce store four to eight weeks and a custom web app six to twelve weeks. Japanese translation and approvals from several people inside your company are the most common reasons for extra time, so we plan for them in the schedule.",
   },
   {
     question: "Do you do SEO for Google and Yahoo! JAPAN?",
@@ -367,7 +368,7 @@ const guide: Article[] = [
     ],
     list: [
       `<strong>From ${both("Static")}, static website:</strong> a service firm, clinic, manufacturer, school or consultancy with home, services, company profile, access, news and contact pages, up to 100 pages, using content you supply. Enquiry forms with postal code address lookup, basic SEO tags and a sitemap are included.`,
-      `<strong>From ${both("SEO website")}, SEO website of 700+ pages:</strong> a structured site planned around search intent, for example a real estate company with pages for many stations and property types, or a distributor with a large catalogue of product categories, built with keyword planning, schema and internal linking.`,
+      `<strong>From ${both("SEO website")}, SEO website of 299+ pages:</strong> a structured site planned around search intent, for example a real estate company with pages for many stations and property types, or a distributor with a large catalogue of product categories, built with keyword planning, schema and internal linking.`,
       `<strong>From ${both("AI automation")}, AI automation:</strong> one well-defined workflow, such as enquiries from your website flowing into kintone, assigned to the right salesperson and followed up automatically on LINE.`,
       `<strong>From ${both("Ecommerce")}, ecommerce store:</strong> product and category pages, cart, checkout with cards and konbini payment, delivery time slots, order and inventory basics and performance tuning, for a catalogue you can supply in a structured sheet.`,
       `<strong>From ${both("Android")}, Android and iOS app:</strong> one app for iPhone and Android with login, forms, push notifications and an admin panel, published to both stores.`,
@@ -678,6 +679,7 @@ const webPageSchema = {
   about: { "@id": `${url}#service` },
   speakable: { "@type": "SpeakableSpecification", cssSelector: ["#quick-answer", "h1"] },
 };
+const servicePages = countryPageLinks("japan");
 ---
 
 <BaseLayout meta={page} schema={[webPageSchema, professionalServiceSchema, breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs)]}>
@@ -973,6 +975,21 @@ const webPageSchema = {
       </div>
     </div>
   </section>
+
+  <!-- ===================== SERVICE PAGES ===================== -->
+  {servicePages.length > 0 && (
+    <section class="locations" aria-labelledby="service-pages-heading">
+      <div class="section-wrap">
+        <div class="section-head">
+          <p class="eyebrow">Services and guides</p>
+          <h2 id="service-pages-heading">Everything we build for Japanese businesses</h2>
+        </div>
+        <div class="city-cloud">
+          {servicePages.map((p) => <a class="city-chip" href={p.href}>{p.name}</a>)}
+        </div>
+      </div>
+    </section>
+  )}
 
   <!-- ===================== RELATED ===================== -->
   <section class="locations" aria-labelledby="related-heading">

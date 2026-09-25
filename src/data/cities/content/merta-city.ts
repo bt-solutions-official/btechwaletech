@@ -39,7 +39,7 @@ const mertaCity: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first local SEO", "Mandi and spice software", "Every account in your name"],
   },
   quickAnswer:
-    "In Merta City, a business website from us starts at ₹10,000 and is generally live in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation also at ₹40,000, SEO sites of 700+ pages at ₹20,000 and online stores at ₹50,000. We are a remote team without a local office, and you own every account.",
+    "In Merta City, a business website from us starts at ₹10,000 and is generally live in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation also at ₹40,000, SEO sites of 299+ pages at ₹20,000 and online stores at ₹50,000. We are a remote team without a local office, and you own every account.",
   snapshot: [
     { label: "District", value: "Nagaur district, Ajmer division, Rajasthan; Merta is also a tehsil headquarters" },
     { label: "Known as", value: "The City of Meera, birthplace of the poet-saint Meera Bai, granddaughter of Rao Duda who founded the Mertiya Rathore line" },
@@ -164,7 +164,7 @@ const mertaCity: CityContent = {
       id: "website-cost-merta-city",
       heading: "Website cost in Merta City: starting prices and what pushes them up",
       paragraphs: [
-        "Start with the smallest thing that works. A shop, clinic or guest house site of up to 100 pages is ₹10,000 onwards and usually takes one to two weeks. If you want broad search coverage, such as a page for every spice, every village you buy from or every course you teach, an SEO site of 700 pages or more is ₹20,000 onwards over three to five weeks.",
+        "Start with the smallest thing that works. A shop, clinic or guest house site of up to 100 pages is ₹10,000 onwards and usually takes one to two weeks. If you want broad search coverage, such as a page for every spice, every village you buy from or every course you teach, an SEO site of 299 pages or more is ₹20,000 onwards over three to five weeks.",
         "Beyond websites, Android and iOS apps start at ₹40,000, and AI or WhatsApp automation starts at the same figure. An online spice store is ₹50,000 onwards, mandi or transport software ₹60,000 onwards, and a monthly SEO plan ₹10,000 onwards. Upkeep after the free period starts at ₹8,000 a month.",
         "What raises the figure is always named on the quote: Hindi and English versions, many products or price tiers, online payment, staff logins, a Tally export, or content we write for you. Send your own text and phone photographs and the price stays near the start.",
         "Quotes in Nagaur and Ajmer vary widely for similar-looking work. Compare them on ownership of the domain and code, testing on low-cost phones, whether on-page SEO is included, how many changes are covered and what support looks like after a year. Our full list is on the <a href=\"/pricing/\">pricing page</a>, and your itemised quote arrives in about two working days.",
@@ -226,7 +226,7 @@ const mertaCity: CityContent = {
     {
       question: "What is the website cost in Merta City?",
       answer:
-        "Our static websites begin at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. All of these are starting prices. The final quote depends on pages, Hindi and English content, products and integrations, and it reaches you itemised in writing before any billing.",
+        "Our static websites begin at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. All of these are starting prices. The final quote depends on pages, Hindi and English content, products and integrations, and it reaches you itemised in writing before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Merta City businesses?",
@@ -236,7 +236,7 @@ const mertaCity: CityContent = {
     {
       question: "How long does a website take for a Merta City business?",
       answer:
-        "A simple static site is normally ready in one to two weeks once we have your text and photographs. Larger work takes longer: three to five weeks for a 700+ page SEO site, four to eight for an online store and six to twelve for custom software. Sending content early is the easiest way to finish on time.",
+        "A simple static site is normally ready in one to two weeks once we have your text and photographs. Larger work takes longer: three to five weeks for a 299+ page SEO site, four to eight for an online store and six to twelve for custom software. Sending content early is the easiest way to finish on time.",
     },
     {
       question: "Who is the best website development team in Merta City?",
@@ -266,7 +266,7 @@ const mertaCity: CityContent = {
     {
       question: "Merta City me website banwane ka kitna kharcha aata hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein taiyaar ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online dukaan ₹50,000 se shuru hai. Aapke features ke hisaab se likhit quote milta hai, manzoori se pehle koi bill nahi.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein taiyaar ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online dukaan ₹50,000 se shuru hai. Aapke features ke hisaab se likhit quote milta hai, manzoori se pehle koi bill nahi.",
     },
     {
       question: "Is it safe to hire a team with no office in Merta City?",

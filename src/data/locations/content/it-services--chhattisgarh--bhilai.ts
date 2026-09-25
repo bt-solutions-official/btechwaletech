@@ -198,7 +198,7 @@ const content: CityContent = {
       id: "cost-timeline-bhilai",
       heading: "What do freelance software developers in Bhilai cost, and how long does it take?",
       paragraphs: [
-        "BtechWaleTech's starting prices for Bhilai are ₹10,000 for a B2B website (one to two weeks), ₹20,000 for a 700+ page SEO site, ₹40,000 for AI automation (two to four weeks), ₹40,000 for Android and iOS apps (six to ten weeks), ₹50,000 for an online store and ₹60,000 for quotation, contractor or other custom software (six to twelve weeks). Monthly SEO is from ₹10,000.",
+        "BtechWaleTech's starting prices for Bhilai are ₹10,000 for a B2B website (one to two weeks), ₹20,000 for a 299+ page SEO site, ₹40,000 for AI automation (two to four weeks), ₹40,000 for Android and iOS apps (six to ten weeks), ₹50,000 for an online store and ₹60,000 for quotation, contractor or other custom software (six to twelve weeks). Monthly SEO is from ₹10,000.",
         "Scope sets the final price: users, sites, rate-library complexity, report formats, offline apps, integrations with Tally and data migration. Timelines depend on feedback; a single decision-maker and early sample data, such as three real quotations and a bill format, speed things up considerably.",
       ],
     },

@@ -39,7 +39,7 @@ const tikamgarh: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first local SEO", "Brass craft online stores", "Domain and code in your name"],
   },
   quickAnswer:
-    "For Tikamgarh businesses, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely without a local office, and every account stays in your name.",
+    "For Tikamgarh businesses, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely without a local office, and every account stays in your name.",
   snapshot: [
     { label: "Location", value: "District headquarters in Sagar division, Bundelkhand, about 500 km from Delhi by road" },
     { label: "History", value: "Capital of the Bundela state of Orchha from the late 18th century; earlier called Tehri, renamed after Tikam, a name of Krishna" },
@@ -158,7 +158,7 @@ const tikamgarh: CityContent = {
       id: "website-cost-tikamgarh",
       heading: "Website cost in Tikamgarh: starting prices and what changes them",
       paragraphs: [
-        "Our published starting prices apply in Tikamgarh as everywhere: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 700+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000 in two to four weeks, an online store from ₹50,000 and custom software from ₹60,000. Monthly SEO starts at ₹10,000 a month.",
+        "Our published starting prices apply in Tikamgarh as everywhere: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 299+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000 in two to four weeks, an online store from ₹50,000 and custom software from ₹60,000. Monthly SEO starts at ₹10,000 a month.",
         "The quote grows with scope. More pages, Hindi and English versions, a large product catalogue, payment and courier integration, user logins and Tally links all add work. Content also counts: if you supply text and photographs, the price stays close to the starting figure; if we write it, that appears as a separate line.",
         "Local quotes for similar work vary widely. When comparing, ask whose name the domain and hosting will be registered in, whether mobile testing and basic SEO are included, how many rounds of changes you get, and who answers the phone after launch. Our <a href=\"/pricing/\">pricing page</a> lists the starting points, and your written quote arrives in about two working days.",
       ],
@@ -209,7 +209,7 @@ const tikamgarh: CityContent = {
     {
       question: "What is the website cost in Tikamgarh?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, Hindi content, products and integrations. You get the quote itemised in writing, and nothing is billed until you approve it.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, Hindi content, products and integrations. You get the quote itemised in writing, and nothing is billed until you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Tikamgarh businesses?",
@@ -219,7 +219,7 @@ const tikamgarh: CityContent = {
     {
       question: "How long does a website take for a Tikamgarh shop?",
       answer:
-        "A static site usually goes live one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having your content ready is what speeds things up most.",
+        "A static site usually goes live one to two weeks after we receive your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having your content ready is what speeds things up most.",
     },
     {
       question: "Which is the best website development team in Tikamgarh?",
@@ -244,7 +244,7 @@ const tikamgarh: CityContent = {
     {
       question: "Tikamgarh me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein taiyaar ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hota hai. Aakhri quote aapke pages aur features dekh kar likhit mein diya jaata hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein taiyaar ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hota hai. Aakhri quote aapke pages aur features dekh kar likhit mein diya jaata hai.",
     },
     {
       question: "You have no office in Tikamgarh. How does remote work stay safe?",

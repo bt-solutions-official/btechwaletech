@@ -1,0 +1,481 @@
+import { inr, usd } from "@data/countries/international";
+import type { FreelanceContent } from "@data/freelance/types";
+
+const P = {
+  site: inr("Static"), siteUsd: usd("Static"), seoSite: inr("SEO website"), seoSiteUsd: usd("SEO website"),
+  shop: inr("Ecommerce"), shopUsd: usd("Ecommerce"), app: inr("Android"), appUsd: usd("Android"),
+  software: inr("Custom web app"), softwareUsd: usd("Custom web app"), ai: inr("AI automation"), aiUsd: usd("AI automation"),
+  seo: inr("Monthly SEO"), seoUsd: usd("Monthly SEO"), care: inr("Maintenance"), careUsd: usd("Maintenance"),
+};
+
+const content: FreelanceContent = {
+  path: "/coaching-app-kaise-banaye/",
+  crumb: "Coaching app kaise banaye",
+  updated: "2026-09-25",
+  meta: {
+    title: `Coaching App Kaise Banaye: Apna Branded App ${P.app} se`,
+    description: `Coaching app kaise banaye? Ready-made platform vs custom app, live class, recorded video, test series, fee collection, piracy se bachav aur kharcha. App ${P.app} se.`,
+    keywords: [
+      "coaching app kaise banaye", "coaching institute ka app kaise banaye", "apni coaching ka app kaise banaye",
+      "coaching app banane me kitna kharcha", "coaching app development cost india", "coaching app for institute",
+      "online coaching app kaise banaye", "tuition app kaise banaye", "coaching app with live classes",
+      "recorded video lecture app", "test series app kaise banaye", "online test app for coaching",
+      "coaching fees collection app", "video piracy se kaise bache coaching app", "screen recording block app",
+      "white label coaching app vs custom app", "readymade coaching app", "coaching app play store par kaise dale",
+      "education app developer india", "coaching app developer near me", "neet jee coaching app development",
+      "coaching app for teachers", "coaching app jaipur", "coaching app patna", "coaching app kaise banaye free",
+      "lms for coaching institute",
+    ],
+  },
+  hero: {
+    eyebrow: "Coaching institutes, tuition centres aur online teachers ke liye",
+    h1: "Coaching app kaise banaye: ready-made platform ya apna custom app, aur videos ko chori se kaise bachayein",
+    lede: `Coaching app kaise banaye, yeh sawaal asal mein do faislon ka hai: kya aap kisi ready-made platform par apna logo lagakar shuru karein, ya apna khud ka app banwayein jiska code, students ka data aur Play Store account aapke naam ho. Hum teen freelance developers hain aur Flutter ya React Native mein Android aur iOS coaching app ${P.app} se banate hain: live class, recorded lectures, test series, fee reminder aur video protection ke saath. Neeche har module ka sach, kharcha aur limits hain. Pehle poora <a href='/education-app-developer/'>education app</a> scope dekhna ho toh wahan se shuru kijiye.`,
+    pills: [`Android + iOS app ${P.app} se`, "Live aur recorded classes", "Test series aur rank list", "Fee reminder aur receipts", "Screenshot aur recording block (Android)", "Play Store account aapke naam", "Hindi aur English interface"],
+    origin: "Teen freelance developers, India se remote · WhatsApp par hafte ke saaton din jawab",
+  },
+  facts: [
+    ["Android & iOS app", `${P.app} se · 6–10 hafte`],
+    ["Web portal / LMS", `${P.software} se · 6–12 hafte`],
+    ["Coaching website", `${P.site} se · 1–2 hafte`],
+    ["Google Play fee", "US$25, ek baar (Google ka)"],
+    ["Apple Developer fee", "US$99 har saal (Apple ka)"],
+    ["Free maintenance", "Launch ke baad 5 mahine"],
+  ],
+  stats: [
+    { value: "3", label: "Developers: app, backend aur video setup ek hi team mein" },
+    { value: "5", label: "Mahine free maintenance launch ke baad" },
+    { value: "2", label: "Working din mein line-by-line quote" },
+    { value: "0", label: "Per-student fee jo hum lete hain" },
+  ],
+  answer: {
+    heading: "Coaching app kaise banaye aur kitna kharcha aata hai?",
+    text: `Coaching app banane ke do raaste hain: ready-made platform par apna logo (jaldi, par monthly fee aur limited control), ya custom app jiska code aur data aapka ho. Hamare saath Android aur iOS coaching app ${P.app} se shuru hota hai, 6–10 hafte mein; live class, test series aur video protection scope ke hisaab se judte hain. Play Store aur App Store fees alag lagti hain.`,
+    more: `Poore budget ka breakdown <a href='/education-app-development-cost/'>education app development cost</a> par hai, aur dono raaston ki tulna <a href='/readymade-app-vs-custom-app/'>readymade app vs custom app</a> par.`,
+  },
+  snapshot: {
+    caption: "Coaching app: faisle se pehle ek nazar",
+    rows: [
+      { label: "Sabse tez shuruaat", value: "Ready-made white-label platform" },
+      { label: "Poora control", value: `Custom app, ${P.app} se` },
+      { label: "Zaroori modules", value: "Login, batches, videos, tests, notices, fees" },
+      { label: "Piracy se bachav", value: "DRM, screenshot block, watermark: kam hota hai, zero nahi" },
+      { label: "In-app course bechna", value: "Google Play Payments policy check zaroori" },
+      { label: "Launch", value: "Play Console aur App Store Connect, aapke account se" },
+      { label: "Time", value: "6–10 hafte, scope ke hisaab se" },
+    ],
+  },
+  services: {
+    eyebrow: "Coaching app ke modules",
+    heading: "Aapke institute ko kaunse hisse chahiye, kaunse baad mein",
+    note: "Pehle version mein wahi rakhiye jo roz kaam aayega. Har extra module time aur kharcha badhata hai, aur student sirf wahi use karte hain jo seedha kaam ka ho.",
+    cards: [
+      { name: "Recorded lectures with protection", note: "Batch-wise video library, encrypted streaming, Android par screenshot aur screen recording block, aur har frame par student ka naam ya number watermark. Videos aapke cloud account mein.", href: "/education-app-developer/", size: "lg" },
+      { name: "Test series aur rank list", note: "MCQ aur numerical tests, timer, negative marking, turant result, topic-wise analysis aur batch ki rank list. Question bank Excel se upload.", href: "/lms-developer/", size: "lg" },
+      { name: "Live classes", note: "Scheduled live class, sirf enrolled students ke liye, chat ya doubt ke saath, aur class khatam hote hi recording library mein.", size: "md" },
+      { name: "Fee collection aur reminders", note: "Installments, UPI aur card payment, receipt, aur due date par parents ko WhatsApp reminder. Offline fees bhi record hoti hain.", href: "/whatsapp-payment-reminder-automation/", size: "md" },
+      { name: "Admin panel", note: "Batches, teachers, students, videos, tests aur notices ek web panel se. Staff ke liye alag permissions.", href: "/coaching-institute-management-software/", size: "md" },
+      { name: "Parent app ya parent login", note: "Attendance, test marks aur fee status parents ko alag login se.", size: "sm" },
+      { name: "Coaching website", note: `Admission enquiries aur Google par dikhne ke liye, ${P.site} se.`, href: "/coaching-ki-website-kaise-banaye/", size: "sm" },
+      { name: "Doubt section", note: "Student photo ke saath sawaal bheje, teacher jawab de, sab ek jagah.", size: "sm" },
+    ],
+  },
+  comparison: {
+    heading: "Coaching app ke teen raaste: kaunsa aapke institute ke liye",
+    note: "Kai institutes pehle jugaad se chalte hain, phir ready-made, phir custom. Har step ka apna sahi waqt hai.",
+    columns: ["Baat", "YouTube + Telegram + Google Form", "Ready-made white-label platform", "BtechWaleTech custom app"],
+    rows: [
+      ["Shuru karne ka time", "Ek din", "Kuch din se kuch hafte", "6–10 hafte"],
+      ["Kharcha", "Lagbhag zero", "Monthly ya per-student fee aam", `App ${P.app} se, ek baar ka build`],
+      ["Brand", "YouTube aur Telegram ka", "Aapka logo, platform ka dhaancha", "Poori tarah aapka"],
+      ["Video chori se bachav", "Bahut kam, link share ho jaata hai", "Platform par depend", "DRM, screenshot block, watermark"],
+      ["Test series", "Google Form, rank list haath se", "Standard tests", "Aapke exam pattern ke hisaab se"],
+      ["Students ka data", "Bikhra hua", "Platform ke server par", "Aapke cloud account mein"],
+      ["Chhodna ho toh", "Kuch nahi", "Videos aur data nikalna mushkil ho sakta hai", "Code aur data aapke paas"],
+      ["Kiske liye sahi", "Naya teacher, 50 se kam students", "Jaldi online jaana, standard zaroorat", "Bade batches, apna brand, apne niyam"],
+    ],
+    fine: "Agar aapke paas abhi 100 se kam online students hain aur kaam standard hai, toh ready-made platform se shuru karna aksar samajhdari hai; custom app tab banwaiye jab platform ki fee ya limits sach mein chubhne lagein.",
+  },
+  pricing: {
+    heading: "Coaching app ka kharcha: kaunsa module kitna badhata hai",
+    note: `Android aur iOS coaching app hamare saath ${P.app} se shuru hota hai, ek codebase (Flutter ya React Native) se dono platform. Kharcha sabse zyada teen cheezein badhati hain: live class ka tareeka, video protection ka level (DRM ya sirf encryption), aur test engine kitna customised hai. Bada web LMS ya poora institute management system ${P.software} se banta hai. Iske alawa aapke chalu kharche alag hain: video hosting aur streaming, server, Google Play ki ek baar ki US$25 fee aur Apple ki US$99 saalana fee. Launch ke baad 5 mahine maintenance free, phir ${P.care} se.`,
+  },
+  guideLabel: "Coaching app banane ki poori guide",
+  guide: [
+    {
+      id: "pehla-faisla",
+      heading: "Coaching app kaise banaye: pehla faisla ready-made ya custom",
+      paragraphs: [
+        `Coaching app banane ka pehla sawaal technology ka nahi, control ka hai. Ready-made platform aapko jaldi online le jaata hai; custom app aapko apna brand, apna data aur apne niyam deta hai. Dono sahi hain, alag waqt par.`,
+        `Ready-made white-label platform mein company ka bana hua app hota hai jisme aapka logo, naam aur rang lag jaata hai. Videos upload kijiye, tests banaiye, students jodiye. Fayda: kuch hi dinon mein shuru. Nuksaan: har mahine ya har student ki fee, features utne hi jitne platform de, aur students ka data unke server par. Kai platform par aapka app unke developer account se publish hota hai, jiska matlab Play Store listing bhi aapki nahi.`,
+        `Custom app mein hum aapke liye alag app banate hain. Code aapke repository mein, videos aapke cloud account mein, aur app aapke Google Play aur Apple developer account se publish. Shuruaat mein kharcha zyada aur time 6–10 hafte, par baad mein per-student fee nahi aur jo feature chahiye woh jod sakte hain.`,
+      ],
+      list: [
+        `<strong>Ready-made chuniye jab:</strong> abhi test kar rahe hain ki online chalega ya nahi, students kam hain, budget tight hai.`,
+        `<strong>Custom chuniye jab:</strong> platform ki fee har saal badh rahi hai, videos chori ho rahe hain, ya aapka exam pattern platform mein fit nahi hota.`,
+      ],
+      after: [
+        `Yeh faisla detail mein <a href='/readymade-app-vs-custom-app/'>readymade app vs custom app</a> par hai.`,
+      ],
+    },
+    {
+      id: "pehle-kya",
+      heading: "Coaching app banane se pehle yeh 5 sawaal khud se poochiye",
+      paragraphs: [
+        `App banwane se pehle aapko paanch cheezein saaf honi chahiye: kaun use karega, kya padhaya jaayega, paisa kaise aayega, videos kahan rahenge, aur app kaun sambhalega. Inke jawab se hi scope aur kharcha tay hota hai.`,
+      ],
+      subs: [
+        { heading: "1. Students kaun hain?", text: "Offline batch ke students jinhe extra material chahiye, ya poori tarah online students jo kabhi institute nahi aayenge? Pehle wale ke liye simple app kaafi hai, doosre ke liye live class aur strong video protection zaroori hai." },
+        { heading: "2. Content kya hai?", text: "Sirf recorded lectures, sirf tests, ya dono plus live class? Har ek alag module hai aur alag kharcha." },
+        { heading: "3. Fees kaise lenge?", text: "Admission ke waqt offline, ya app ke andar course bech kar? App ke andar digital course bechne par Play Store ke payment niyam lagte hain." },
+        { heading: "4. Videos kitne hain?", text: "50 ghante ya 2,000 ghante? Storage aur streaming ka monthly kharcha isi par tikta hai." },
+        { heading: "5. Kaun sambhalega?", text: "Videos upload, tests banana, students jodna: institute mein kisi ek insaan ki zimmedari tay kijiye." },
+      ],
+      after: [
+        `In sawaalon ki aur lambi list <a href='/questions-to-ask-app-developer/'>questions to ask an app developer</a> par hai.`,
+      ],
+    },
+    {
+      id: "recorded",
+      heading: "Recorded lectures: video kahan rakhein aur kaise chalayein?",
+      paragraphs: [
+        `Recorded lectures ko YouTube ya Google Drive par nahi, ek streaming service par rakhiye jo video ko chhote encrypted tukdon mein bhejti hai aur sirf login kiye hue student ko chalane deti hai. Isse video ki seedhi file kisi ke haath nahi lagti.`,
+        `Hum videos aapke cloud account mein rakhte hain aur adaptive streaming (HLS ya DASH) use karte hain, jisse slow internet par video apne aap kam quality mein chalta rahe. Coaching ke bahut se students chhote shehron mein, budget phones aur mobile data par padhte hain; wahan 1080p par atakne wala video ek baar mein app uninstall karwa deta hai.`,
+        `Student ke hisaab se library batch-wise dikhti hai: sirf wahi chapters jo uske batch mein hain, aur batch khatam hone par access apne aap band. Resume from last position, playback speed 1.25x ya 1.5x, aur notes ki PDF saath mein; yeh chhoti cheezein students roz use karte hain.`,
+      ],
+      list: [
+        `<strong>Offline download:</strong> app ke andar encrypted download, jo sirf usi app mein chale. Gallery mein file nahi jaati.`,
+        `<strong>Kharcha:</strong> jitne zyada ghante aur students, utna storage aur streaming ka monthly bill. Yeh aapke cloud account mein seedha lagta hai.`,
+      ],
+    },
+    {
+      id: "live",
+      heading: "Coaching app mein live class kaise chalayein?",
+      paragraphs: [
+        `Live class ke teen tareeke hain: app ke andar apna live streaming, ek video-meeting SDK jo app mein juda ho, ya bahar ka tool (jaise Zoom ya YouTube Live) jiska link sirf enrolled students ko app mein dikhe. Teesra sabse sasta hai, pehla sabse mehenga.`,
+        `Bade batch, jahan ek teacher sau se zyada students ko padhata hai aur students ko bolna nahi hota, wahan one-way live stream theek hai: teacher bolta hai, students chat mein sawaal likhte hain. Chhote batch, jahan baat-cheet chahiye, wahan meeting-style video behtar hai.`,
+        `Hamari salah zyada tar institutes ke liye: pehle version mein live class bahar ke tool se, par link aur attendance app ke andar. Class ki recording baad mein library mein daal di jaati hai. Jab live classes roz ki baat ban jaayein aur tool ki limits chubhne lagein, tab app ke andar live streaming jodiye. Is tarah pehla version jaldi aur sasta banta hai.`,
+      ],
+      after: [
+        `Live class ki link bhi WhatsApp par jaaye aur reminder bhi, toh <a href='/whatsapp-automation-kaise-kare/'>WhatsApp automation</a> se class se pehle apne aap message chala jaata hai.`,
+      ],
+    },
+    {
+      id: "test-series",
+      heading: "Test series app kaise banaye: coaching ki asli kamai yahan hai",
+      paragraphs: [
+        `Kai institutes ke liye test series app video app se zyada kaam ka hai, kyunki students mock tests ke liye hi baar-baar app kholte hain. Achha test engine exam ka pattern, timer, negative marking aur rank list sahi dikhata hai.`,
+        `Test engine mein yeh cheezein chahiye: MCQ, multiple-correct, numerical answer aur match-the-following jaise sawaal; section-wise timer; negative marking ke apne niyam; maths aur chemistry ke formulas sahi dikhana; aur Hindi aur English dono mein sawaal. Result ke baad topic-wise analysis, ki student kis chapter mein kamzor hai, sabse zyada pasand aata hai.`,
+        `Sawaal daalne ka kaam aasaan hona chahiye, warna teacher test banayenge hi nahi. Hum Excel ya Word template se question bank upload karne ka tareeka dete hain, images ke saath. Rank list batch ke andar aur poore institute mein alag-alag.`,
+      ],
+      list: [
+        `NEET, JEE, SSC, banking aur state exams ka pattern alag hai; engine configurable hona chahiye.`,
+        `Test ke waqt app band ho ya net jaaye toh answers bache rahein.`,
+        `Answer key aur solutions test khatam hone ke baad hi khulein.`,
+      ],
+      after: [
+        `Bada LMS jisme courses, assignments aur certificates bhi hon, <a href='/lms-developer/'>LMS developer</a> page par hai; uska budget <a href='/lms-development-cost/'>LMS development cost</a> par.`,
+      ],
+    },
+    {
+      id: "piracy",
+      heading: "Coaching app ke videos ko piracy se kaise bachayein?",
+      paragraphs: [
+        `Sach yeh hai ki koi bhi app piracy ko 100% nahi rok sakta; koi doosre phone se screen ki video bana sakta hai. Par sahi tareekon se aap chori ko mushkil, dheema aur pakadne layak bana sakte hain, aur yahi practical lakshya hai.`,
+        `Pehli parat: DRM. Android par Google ka Media3 (ExoPlayer) Widevine DRM support karta hai, aur Apple devices ke liye FairPlay Streaming hai, jiske production use ke liye content owner ko Apple se approval lena hota hai. DRM mein video key ke bina nahi chalta, isliye download ki gayi file bekaar hoti hai.`,
+        `Doosri parat: screenshot aur screen recording block. Android ka FLAG_SECURE setting screenshot rokti hai aur video ko TV ya projector jaise non-secure display par nahi jaane deti. Android ki apni documentation yeh bhi maanti hai ki purane Android versions par yeh har device par pakka kaam nahi karta.`,
+        `Teesri parat: dikhne wala watermark. Video par student ka naam ya phone number halka sa chalta rehta hai. Isse chori rukti nahi, par leaked video kis account se nikla, yeh pata chal jaata hai, aur students ko yeh maloom hota hai.`,
+      ],
+      list: [
+        `Ek account, ek ya do device ki limit.`,
+        `Batch khatam hone par access apne aap band.`,
+        `Ajeeb pattern pakadna, jaise ek account se ek raat mein 40 videos.`,
+      ],
+    },
+    {
+      id: "fees",
+      heading: "Fee collection in a coaching app: installments, UPI and Play Store rules",
+      paragraphs: [
+        `Most Indian coaching institutes collect fees at admission, offline or through a payment link, and use the app only to deliver classes. That keeps things simple. Selling courses inside the app is possible but brings app-store payment rules into play, so decide this early.`,
+        `Google Play's Payments policy lists education among the subscription services that must use Google Play's billing system when sold as in-app purchases, while physical goods and physical services are exempt. The same policy notes that developers in eligible countries may offer an alternative billing system. Apple has its own App Store rules. We review the current policies with you before designing checkout, because they decide what the purchase screen can look like.`,
+        `For fees collected outside the app, we build what institutes actually need: installment plans per student, UPI and card payments through a payment page, automatic receipts, a record of offline cash or cheque payments, and reminders before each due date. Parents get the reminder on WhatsApp, and the office sees who is pending without a register.`,
+      ],
+      list: [
+        `Installment schedule per student, with discounts and scholarships recorded.`,
+        `Receipts generated automatically; GST details on invoices where your institute is registered.`,
+        `Access to a batch paused, if you choose, when fees are overdue.`,
+      ],
+      after: [
+        `The reminder flow is covered on <a href='/whatsapp-payment-reminder-automation/'>WhatsApp payment reminder automation</a>.`,
+      ],
+    },
+    {
+      id: "cost",
+      heading: "Coaching app banane me kitna kharcha aata hai?",
+      paragraphs: [
+        `Hamare saath Android aur iOS coaching app ${P.app} se shuru hota hai. Ek chhota app jisme login, batches, recorded videos, PDF notes aur notices hon, starting range ke paas rehta hai. Test engine, live class, parent login aur strong DRM har ek scope badhate hain.`,
+        `Build ke alawa chalu kharche hain jo aapke apne accounts mein lagte hain: video storage aur streaming (ghante aur students ke hisaab se), server, SMS ya WhatsApp messages, aur store fees. Google Play ki developer registration fee US$25 ek baar hai, aur Apple Developer Program US$99 saalana.`,
+        `Market mein quotes bahut alag-alag milte hain. Farak aam taur par in cheezon se aata hai: kya iOS bhi shamil hai, kya admin panel ready template hai ya aapke hisaab se bana, video protection mein DRM hai ya sirf basic encryption, aur launch ke baad kaun sambhalega. Har quote se yeh chaaron sawaal poochiye.`,
+      ],
+      after: [
+        `App ke general budget ke liye <a href='/app-banane-me-kitna-kharcha/'>app banane me kitna kharcha</a> aur education apps ke liye <a href='/education-app-development-cost/'>education app development cost</a> dekhiye. Kam budget mein shuru karne ke tareeke <a href='/kam-paise-me-app-kaise-banwaye/'>kam paise me app kaise banwaye</a> par hain.`,
+      ],
+    },
+    {
+      id: "tech",
+      heading: "Tech choices: Flutter, React Native, web app or PWA?",
+      paragraphs: [
+        `For most coaching apps we recommend Flutter or React Native, which build Android and iOS from one codebase. That keeps cost near the starting price and means one team fixes bugs on both platforms at once. A fully native app is rarely worth the extra cost for this category.`,
+        `The admin side is a web panel, not an app: teachers upload videos and questions from a laptop, which is far easier than on a phone. The backend runs on a cloud account in your name, with the video pipeline handling encoding, encryption and streaming.`,
+        `A progressive web app (a website that installs like an app) is tempting because it skips the stores. For coaching it has a real weakness: you cannot block screenshots or use Android's secure-window setting from a browser in the same way, and strong DRM is harder. It works for test series and notes, less well for paid video.`,
+      ],
+      subs: [
+        { heading: "Android first?", text: "In most Indian coaching markets, students overwhelmingly use Android phones, so many institutes launch Android first and add iOS a little later. With Flutter or React Native, adding iOS is mostly a publishing task." },
+        { heading: "Low-end phones", text: "We test on budget Android devices with limited storage, keep the app size small and let videos download in lower quality to save data." },
+      ],
+      after: [
+        `Background reading: <a href='/android-or-ios-app-first/'>Android or iOS app first</a> and <a href='/pwa-vs-native-app/'>PWA vs native app</a>.`,
+      ],
+    },
+    {
+      id: "launch",
+      heading: "Publishing a coaching app on Google Play and the App Store",
+      paragraphs: [
+        `Your app should be published from your own Google Play Console and Apple App Store Connect accounts, not the developer's. That way the listing, reviews, download numbers and the app itself belong to your institute.`,
+        `On Google Play, a new personal developer account created after 13 November 2023 must run a closed test with at least 12 testers opted in continuously for 14 days before it can apply for production access, according to Play Console Help. Your own teachers and a few students are ideal testers. We plan this fortnight into the schedule from day one so it does not surprise you at the end.`,
+        `Apple reviews every app before release. Coaching apps typically need a demo login for the reviewer, a clear privacy policy and accurate descriptions of what is free and what is paid. We prepare the store listing text, screenshots and the data-safety and privacy answers with you, because the institute is the publisher.`,
+      ],
+      list: [
+        `Google Play: US$25 one-time registration, closed-testing rule for new personal accounts.`,
+        `Apple: US$99 per year Developer Program membership.`,
+        `Privacy policy page on your website, covering student data.`,
+      ],
+      after: [
+        `If Google Play rejects the app, the usual causes and fixes are on <a href='/app-rejected-by-google-play/'>app rejected by Google Play</a>. Full timelines are on <a href='/app-banane-me-kitna-time/'>app banane me kitna time</a>.`,
+      ],
+    },
+    {
+      id: "ownership",
+      heading: "Who owns the app, the videos and the student data?",
+      paragraphs: [
+        `Your institute should own all of it: the source code, the Play Console and App Store accounts, the cloud account holding videos, and the student database. Our work is paid for once per the written quote, and ownership sits with you from the start.`,
+        `This is where custom apps differ most from ready-made platforms. On a platform, leaving can mean exporting thousands of videos and student records, if the platform allows it, and your app may disappear from the store because it was published under someone else's account. On a custom build, you can change developers without students noticing.`,
+        `Student data includes phone numbers, names, sometimes parents' details and test performance. We keep it to what you need, restrict staff access by role, and host it in your cloud account. Data protection obligations sit with the institute, so have your own adviser review your privacy policy.`,
+      ],
+      list: [
+        `Code: in a Git repository owned by the institute.`,
+        `Store accounts: registered in the institute's name.`,
+        `Videos and database: in your cloud account, billed to your card.`,
+        `Handover: a document listing services, keys and how to publish updates.`,
+      ],
+    },
+    {
+      id: "timeline",
+      heading: "Coaching app banane me kitna time lagta hai?",
+      paragraphs: [
+        `Hamare saath coaching app aam taur par 6–10 hafte mein launch hota hai. Sirf videos aur notes wala app neeche wale hisse mein, aur test engine, live class aur fee module ke saath upar wale hisse mein.`,
+        `Pehle do hafte design aur scope mein jaate hain: screens, batches ka dhaancha, test pattern. Phir 3–4 hafte build: app, admin panel aur video pipeline. Phir testing, aur saath mein Google Play ka closed test jo naye personal account ke liye 14 din chalta hai. Aakhri hafta store listing aur launch ka.`,
+        `Sabse bada deri ka kaaran aksar code nahi, content hota hai: videos taiyaar nahi, question bank Excel mein nahi, ya batches ki list final nahi. Build ke saath-saath content taiyaar karna shuru kar dijiye.`,
+      ],
+      after: [
+        `Admission season se pehle launch chahiye toh do mahine pehle baat shuru kijiye.`,
+      ],
+    },
+    {
+      id: "risks",
+      heading: "Coaching app banwate waqt kin baaton se bachein",
+      paragraphs: [
+        `Sabse bade risk teen hain: app kisi aur ke account se publish hona, "100% piracy-proof" jaisa jhootha waada, aur launch ke baad dekhbhaal ka koi plan na hona. Teeno quote ke waqt hi pakde ja sakte hain.`,
+      ],
+      list: [
+        `"Hum aapke naam se Play Store par daal denge" par account developer ka ho.`,
+        `"Koi bhi video record nahi kar payega": koi yeh guarantee nahi de sakta.`,
+        `Source code dene se mana karna, ya uske liye alag se bada paisa.`,
+        `Videos developer ke server par, aapke account mein nahi.`,
+        `Sirf demo app dikhana, test phone par chalane na dena.`,
+        `Quote mein iOS, admin panel ya store publishing ka zikr hi nahi.`,
+        `Maintenance ke baare mein koi baat nahi; Android aur iOS updates ke baad app tootne ka risk.`,
+      ],
+      after: [
+        `Freelancer aur company ke beech ka farak <a href='/app-development-company-vs-freelancer/'>app development company vs freelancer</a> par hai.`,
+      ],
+    },
+    {
+      id: "marketing",
+      heading: "App bana liya, ab students kaise aayenge?",
+      paragraphs: [
+        `App khud students nahi laata; admissions website, Google Maps profile, purane students aur WhatsApp se aate hain. App tab kaam aata hai jab student aa chuka ho aur use roz padhai ke liye kuch chahiye.`,
+        `Isliye app ke saath ek saaf coaching website zaroori hai: courses, batch timings, fee structure kaise banta hai, results ke asli aankde jo aap sabit kar sakein, aur ek enquiry button. Parents Google par institute ka naam search karke website aur reviews dekhte hain, app store nahi.`,
+        `Institute ka Google Business Profile bhi theek rakhiye: sahi category, photos, timings aur reviews. Local parents "coaching near me" jaisi searches se hi aapko dhoondhte hain. Play Store par app ki listing, description aur screenshots bhi dhyaan se banaiye taaki log jo naam se dhoondhein, sahi app install karein.`,
+      ],
+      after: [
+        `Website ke liye <a href='/coaching-ki-website-kaise-banaye/'>coaching ki website kaise banaye</a>, Maps ke liye <a href='/google-map-par-dukan-kaise-dale/'>Google map par listing</a>, aur search ke liye <a href='/seo-for-coaching-institute/'>SEO for coaching institute</a> dekhiye.`,
+      ],
+    },
+    {
+      id: "example",
+      heading: "A worked example: a Patna coaching centre moves 400 students onto its own app",
+      paragraphs: [
+        `This is a hypothetical example to explain how scope gets decided, not a client story. Say a Patna institute preparing students for state and central exams runs four offline batches of about 100 students each. Lectures are recorded on a phone and shared on a Telegram channel; within a week the videos appear in other groups. Tests happen on paper and rank lists go up on a notice board.`,
+        `Phase one (about 8 weeks): an Android and iOS app with student login tied to batch, encrypted streaming with Android screenshot blocking and a moving phone-number watermark, PDF notes, notices, and a test engine with negative marking and batch rank lists. An admin web panel lets two office staff upload lectures and question banks from Excel. Fees stay offline, but the app shows each student's paid and pending installments, and WhatsApp reminders go to parents.`,
+        `Phase two, only if phase one gets used: live classes for a new online-only batch, and a parent login. The build sits in the app plan starting at ${P.app}; streaming and storage bills go to the institute's cloud account. Would piracy stop completely? No. But a leaked video would now carry the uploader's number, and the file itself would not play outside the app.`,
+      ],
+      after: [
+        `Institute-wide software, with attendance and staff payroll, is covered on <a href='/coaching-institute-management-software/'>coaching institute management software</a>.`,
+      ],
+    },
+    {
+      id: "checklist",
+      heading: "Coaching app kaise banaye: developer se baat se pehle checklist",
+      paragraphs: [
+        `Yeh list bhar kar developer ko bhejiye; isse quote sahi aur jaldi aata hai, aur baad mein "yeh toh scope mein nahi tha" wali behas kam hoti hai.`,
+      ],
+      list: [
+        `Kitne students, kitne batches, kaunse exams?`,
+        `Android, iOS ya dono? Pehle kaunsa?`,
+        `Recorded videos kitne ghante ke, aur kitne naye har mahine?`,
+        `Live class chahiye? Kitne students ek class mein?`,
+        `Test pattern: sawaalon ke type, timer, negative marking?`,
+        `Fees app ke andar ya bahar? Installments?`,
+        `Piracy se bachav kitna zaroori: DRM, watermark, device limit?`,
+        `Hindi, English ya dono?`,
+        `Play Console aur Apple account institute ke naam par banenge?`,
+        `Code, videos aur data kiske account mein?`,
+        `Launch ke baad updates kaun karega, aur kitne din free?`,
+      ],
+      after: [
+        `Checklist bhar kar <a href='/contact/'>WhatsApp par bhejiye</a>. Hamare terms written quote mein hote hain; general niyam <a href='/terms/'>terms</a> par.`,
+      ],
+    },
+  ],
+  tables: [
+    {
+      id: "scope-cost",
+      eyebrow: "Starting prices",
+      heading: "Coaching app ka scope aur shuruaati kharcha",
+      note: `Sab starting prices hain; final quote modules aur content ke hisaab se. <a href='/pricing/'>Saare plans</a> ek jagah.`,
+      columns: ["Aapki zaroorat", "Kya banega", "Starting price", "Time"],
+      rows: [
+        ["Admissions aur enquiries", "Coaching website", `${P.site} se`, "1–2 hafte"],
+        ["Videos, notes, notices", "Android + iOS app, admin panel", `${P.app} se`, "6–8 hafte"],
+        ["Upar ke saath test series", "App + test engine + rank list", `${P.app} se, scope badhta hai`, "8–10 hafte"],
+        ["Poora LMS ya institute software", "Web portal + app", `${P.software} se`, "6–12 hafte"],
+        ["Fee reminders WhatsApp par", "Automation flow", `${P.ai} se`, "2–4 hafte"],
+        ["Launch ke baad", "Maintenance", `5 mahine free, phir ${P.care} se`, "Ongoing"],
+      ],
+      hideSm: [1],
+    },
+    {
+      id: "piracy-layers",
+      eyebrow: "Content protection",
+      heading: "Piracy se bachav: har tareeka kya rokta hai, kya nahi",
+      note: "Android aur Apple ki developer documentation par aadharit. Koi bhi tareeka ya tareekon ka mel 100% bachav nahi deta.",
+      columns: ["Tareeka", "Kya rokta hai", "Kya nahi rokta"],
+      rows: [
+        ["DRM (Widevine / FairPlay)", "Download ki gayi file ko app ke bahar chalna", "Doosre phone se screen ki recording"],
+        ["FLAG_SECURE (Android)", "Screenshot, non-secure display par video", "Har purane Android device par pakka nahi"],
+        ["Moving watermark", "Kuch nahi rokta", "Par leak kis account se hua, pata chalta hai"],
+        ["Device limit", "Ek login ko das logon mein baantna", "Ek hi device se chori"],
+        ["Batch-wise access", "Batch khatam hone ke baad dekhna", "Batch ke dauraan chori"],
+        ["Usage monitoring", "Ajeeb pattern pakadna", "Dheere-dheere ki gayi chori"],
+      ],
+    },
+    {
+      id: "ready-vs-custom",
+      eyebrow: "Platform comparison",
+      heading: "Ready-made platform vs custom app: feature by feature",
+      note: "Ready-made platforms alag-alag hote hain; yeh aam pattern hai. Sign karne se pehle apne platform ki terms padhiye.",
+      columns: ["Feature", "Ready-made platform", "Custom app"],
+      rows: [
+        ["Play Store listing", "Kabhi platform ke account se", "Institute ke account se"],
+        ["Chalu kharcha", "Monthly ya per-student fee", "Sirf hosting, streaming, store fees"],
+        ["Test pattern", "Platform ke options tak", "Aapke exam ke hisaab se"],
+        ["Naya feature", "Platform ki roadmap par", "Jab chahein, quote ke saath"],
+        ["Data nikalna", "Platform ki export limit", "Poora database aapka"],
+        ["Shuruaat ka time", "Din ya hafte", "6–10 hafte"],
+        ["Shuruaati kharcha", "Kam", `${P.app} se`],
+      ],
+    },
+  ],
+  areas: {
+    eyebrow: "Coaching apps across India",
+    heading: "Coaching towns aur unki app zaroorat",
+    note: "Hum remote kaam karte hain, isliye app ka starting price har shehar mein same hai. Har shehar ki coaching ki apni khaasiyat hai.",
+    cards: [
+      { name: "Entrance-exam coaching apps in Sikar", note: "Sikar’s medical and engineering entrance institutes run large residential batches, where test series with rank lists and protected recorded lectures matter more than live video.", href: "/sikar/" },
+      { name: "Competitive-exam apps in Patna", note: "Patna’s coaching centres for state and central government exams serve students from across Bihar, many on budget phones, so light apps and low-data video are essential.", href: "/patna/" },
+      { name: "Civil services coaching in Delhi", note: "Delhi’s civil-services and judiciary coaching institutes publish vast lecture libraries and answer-writing tests, making watermarking and batch-wise access valuable.", href: "/delhi/" },
+      { name: "Government-exam apps in Prayagraj", note: "Prayagraj’s long tradition of competitive-exam coaching means big Hindi-medium batches that need bilingual tests, PDF notes and affordable Android-first apps.", href: "/allahabad/" },
+      { name: "Coaching apps in Jaipur", note: "Jaipur’s coaching institutes cover school boards, entrance exams and state services, and a single app with separate batch libraries keeps these audiences apart.", href: "/jaipur/" },
+      { name: "Commerce and CA coaching in Indore", note: "Indore’s commerce and professional-course coaching draws students from across central India, who value recorded lectures they can revise before exams.", href: "/indore/" },
+      { name: "Engineering coaching in Hyderabad", note: "Hyderabad’s entrance-exam and engineering coaching market is competitive, so detailed test analytics and parent progress views help institutes stand apart.", href: "/hyderabad/" },
+      { name: "School tuition apps in Lucknow", note: "Lucknow’s tuition centres for board classes need homework, notes and parent updates more than heavy video, which keeps a first app small and affordable.", href: "/lucknow/" },
+      { name: "Banking and SSC coaching in Bhopal", note: "Bhopal’s banking, SSC and state-exam coaching runs frequent mock tests, where a configurable test engine with sectional timers earns daily use.", href: "/bhopal/" },
+      { name: "Coaching apps in Ranchi", note: "Ranchi’s institutes teach students from smaller Jharkhand towns with patchy internet, so offline encrypted downloads and small app sizes matter.", href: "/ranchi/" },
+      { name: "Defence-exam coaching in Dehradun", note: "Dehradun’s defence-entrance academies combine written-exam prep with interview guidance, a mix that suits recorded lectures plus scheduled live doubt sessions.", href: "/dehradun/" },
+      { name: "IELTS and entrance coaching in Chandigarh", note: "Chandigarh’s language-test and entrance coaching centres serve students across Punjab and Haryana, where speaking-practice scheduling and mock tests drive app use.", href: "/chandigarh/" },
+      { name: "Coaching apps in Pune", note: "Pune’s coaching for engineering, management entrance and board exams attracts outstation students who want recorded lectures to revise at their own pace.", href: "/pune/" },
+      { name: "Coaching apps in Kolkata", note: "Kolkata’s institutes teaching in Bengali and English need bilingual interfaces and question banks, plus fee installment tracking for parents.", href: "/kolkata/" },
+      { name: "Coaching apps in Muzaffarpur", note: "Muzaffarpur’s growing coaching scene serves north Bihar students on Android phones, making Hindi tests, low-data video and WhatsApp fee reminders the practical priorities.", href: "/muzaffarpur/" },
+    ],
+  },
+  process: {
+    heading: "Coaching app hamare saath kaise banta hai",
+    steps: [
+      ["Checklist WhatsApp par bhejiye", "Students, batches, exams, videos ke ghante, test pattern aur fees ka tareeka. Adhoori ho toh bhi chalega; hum baaki sawaal pooch lenge."],
+      ["Scope call aur quote", "Kya pehle version mein, kya baad mein, yeh saath mein tay hota hai. Lagbhag 2 working din mein itemised quote; likhit approval se pehle koi billing nahi."],
+      ["Accounts aapke naam", "Google Play Console, Apple developer account aur cloud account institute ke naam par banaye jaate hain. Hamein sirf zaroori access milta hai."],
+      ["Design aur build", "Screens pehle dikhate hain, phir app, admin panel aur video pipeline. Har hafte test build aapke phone par, taaki surprise na ho."],
+      ["Testing aur closed test", "Teachers aur kuch students ke saath asli testing, aur naye personal Play account ke liye 14 din ka closed test isi dauraan."],
+      ["Launch aur 5 mahine free", "Store listing, launch, staff training, aur 5 mahine free maintenance. Uske baad chahein toh monthly maintenance."],
+    ],
+  },
+  faqHeading: "Coaching app kaise banaye: aam sawaal",
+  faqs: [
+    { question: "Coaching app kaise banaye bina coding ke?", answer: "Bina coding ke do raaste hain: ready-made white-label coaching platform par apna logo lagakar app lena, ya YouTube, Telegram aur Google Form se kaam chalana. Pehla jaldi shuru hota hai par monthly ya per-student fee aur limited control ke saath. Apna brand, apna data aur piracy se behtar bachav chahiye toh custom app banwana padta hai." },
+    { question: "Coaching app banane me kitna kharcha aata hai?", answer: `Hamare saath Android aur iOS coaching app ${P.app} se shuru hota hai, 6–10 hafte mein. Test engine, live class, parent login aur DRM jaise modules scope badhate hain. Iske alawa video storage, streaming aur server ka chalu kharcha aapke cloud account mein lagta hai, aur Google Play ki US$25 ek baar aur Apple ki US$99 saalana fee alag hai.` },
+    { question: "Kya coaching app ke videos ko record hone se roka ja sakta hai?", answer: "Poori tarah nahi. Android par FLAG_SECURE se screenshot aur zyada tar screen recording rukti hai, DRM se download ki gayi file app ke bahar nahi chalti, aur watermark se leak ka account pata chalta hai. Par doosre phone se screen ki video koi bhi bana sakta hai. Jo developer 100% piracy-proof bolta hai, woh sach nahi bol raha." },
+    { question: "Ready-made coaching app lein ya custom banwayein?", answer: "Kam students, tight budget aur standard zaroorat ho toh ready-made se shuru kijiye. Jab platform ki fee har saal chubhne lage, videos chori hon, ya aapka test pattern platform mein fit na ho, tab custom app samajh mein aata hai. Custom mein code, videos aur Play Store listing aapke naam par hoti hai." },
+    { question: "Coaching app me live class kaise chalaye?", answer: "Teen tareeke hain: app ke andar apni live streaming, app mein juda video-meeting SDK, ya Zoom ya YouTube Live jaisa bahar ka tool jiska link sirf enrolled students ko app mein dikhe. Zyada tar institutes ke liye pehle version mein teesra tareeka sabse sasta aur jaldi hai, aur recording baad mein library mein chali jaati hai." },
+    { question: "Test series app kaise banaye?", answer: "Test engine mein MCQ, multiple-correct aur numerical sawaal, section-wise timer, negative marking, formulas ka sahi display aur Hindi-English support chahiye. Question bank Excel ya Word template se upload ho, taaki teachers aasaani se test banayein. Result ke baad topic-wise analysis aur batch ki rank list students ko baar-baar app kholne ki wajah deti hai." },
+    { question: "Coaching app Play Store par kaise dale?", answer: "Institute ke naam se Google Play Console account banaiye, jiski ek baar ki fee US$25 hai. Naye personal account ko production se pehle kam se kam 12 testers ke saath 14 din ka closed test chalana hota hai. Phir store listing, screenshots, privacy policy aur data-safety jawab bhar kar app review ke liye bhejiye. Hum yeh poora process aapke account mein karwate hain." },
+    { question: "Can students pay course fees inside the coaching app?", answer: "They can, but app-store rules apply. Google Play's Payments policy lists education among subscription services that must use Google Play billing when sold in-app, with an alternative billing option for developers in eligible countries. Apple has its own rules. Many institutes collect fees outside the app through a payment page and use the app to deliver classes." },
+    { question: "How long does it take to build a coaching app?", answer: "Usually 6–10 weeks with us. A video, notes and notices app sits at the shorter end; adding a test engine, live classes and fee tracking moves it toward ten weeks. Content readiness often decides the date more than code, so start preparing videos, question banks and batch lists while the app is being built." },
+    { question: "Will the app work on cheap Android phones with slow internet?", answer: "It should, and we test for it. We keep the app size small, use adaptive streaming so videos drop to lower quality on weak connections, allow encrypted offline downloads for later viewing, and test on budget Android devices. Many coaching students study on shared or low-storage phones, so this matters as much as any feature." },
+    { question: "Who owns the coaching app and its content?", answer: "Your institute does. The source code sits in a repository you own, the app is published from your Play Console and App Store Connect accounts, and videos and student data live in your cloud account. If you ever change developers, the next team starts from the same code and accounts without students noticing." },
+    { question: "Flutter or React Native for a coaching app?", answer: "Either works well, and both build Android and iOS from one codebase, which keeps cost down. We choose based on the video player and DRM libraries the project needs and on what your future developers are likely to know. A fully native app costs more and is rarely necessary for coaching." },
+    { question: "Can I launch on Android first and add iOS later?", answer: "Yes, and many Indian coaching institutes do, because most of their students use Android. With Flutter or React Native, the iOS version comes from the same code, so adding it later is mostly Apple account setup, iOS-specific testing and App Store review rather than a rebuild." },
+    { question: "Does the app need a separate admin panel?", answer: "Yes. Teachers and office staff upload lectures, create tests, manage batches and post notices far more easily on a laptop than a phone, so the admin side is a web panel. Staff get role-based access, so a teacher can upload content but cannot see fee records unless you allow it." },
+    { question: "Can parents see attendance and marks in the app?", answer: "Yes, through a parent login or a separate section of the same app. Parents see attendance, test scores, notices and fee status for their child. Many institutes add this in a second phase once students are using the app regularly, because it depends on attendance being recorded consistently." },
+    { question: "What does maintenance cover after launch?", answer: `The first 5 months after launch are free: bug fixes, compatibility updates when Android or iOS changes, and small adjustments. After that, maintenance starts from ${P.care} per month if you want it. New features, such as adding live classes later, are quoted separately so you always know the cost first.` },
+    { question: "Coaching app ke saath website bhi chahiye kya?", answer: `Haan, aksar. Parents aur naye students Google par institute ka naam search karke website dekhte hain: courses, batch timing, fees kaise banti hai aur enquiry ka tareeka. App padhai ke liye hai, website admissions ke liye. Coaching website hamare saath ${P.site} se shuru hoti hai aur app ke download links bhi wahin hote hain.` },
+    { question: "Kya app Hindi mein ban sakta hai?", answer: "Haan. App ka interface Hindi, English ya dono mein ho sakta hai, aur test engine mein sawaal Hindi aur English dono bhashaon mein rakhe ja sakte hain. Hindi-medium batch ke students ke liye buttons aur messages Hindi mein rakhna app ko kaafi aasaan bana deta hai. Content aur translation aap dete ya approve karte hain." },
+    { question: "Do you record lectures or create course content?", answer: "No. We build the app, the admin panel and the video pipeline; your teachers create the lectures, notes and question banks. We can advise on recording formats and file sizes that stream well, and we set up bulk uploads, but teaching content always comes from your institute." },
+    { question: "How do I pay for the coaching app?", answer: "Institutes in India pay by UPI or bank transfer against an invoice, usually in milestones set out in the written quote; clients abroad pay in USD by Wise, bank wire or PayPal. Nothing is billed before you approve the itemised quote. Store fees and cloud bills are paid by you directly to Google, Apple and your hosting provider." },
+    { question: "Coaching app banwane ke liye milna padega?", answer: "Nahi. Hum poori tarah remote kaam karte hain aur site visit nahi karte. Saari baat WhatsApp, phone ya video call par Hindi ya English mein hoti hai. Har hafte test build aapke phone par aata hai, aur staff training bhi video call par hoti hai, isliye aapke institute ka kaam rukta nahi." },
+  ],
+  related: {
+    heading: "Coaching app aur education se jude pages",
+    links: [
+      { name: "Education app developer", href: "/education-app-developer/" },
+      { name: "Education app development cost", href: "/education-app-development-cost/" },
+      { name: "LMS developer", href: "/lms-developer/" },
+      { name: "Coaching institute management software", href: "/coaching-institute-management-software/" },
+      { name: "Coaching ki website kaise banaye", href: "/coaching-ki-website-kaise-banaye/" },
+      { name: "Readymade app vs custom app", href: "/readymade-app-vs-custom-app/" },
+      { name: "App banane me kitna kharcha", href: "/app-banane-me-kitna-kharcha/" },
+      { name: "App banwana hai", href: "/app-banwana-hai/" },
+      { name: "SEO for coaching institute", href: "/seo-for-coaching-institute/" },
+      { name: "WhatsApp automation kaise kare", href: "/whatsapp-automation-kaise-kare/" },
+      { name: "Android & iOS app development", href: "/it-services/android-ios-app/" },
+      { name: "All starting prices", href: "/pricing/" },
+      { name: "Contact the team", href: "/contact/" },
+    ],
+  },
+  cta: {
+    heading: "Apni coaching ka app banwana hai? Pehle scope saaf kijiye",
+    note: "WhatsApp par students ki sankhya, batches, exams, videos aur fees ka tareeka bhejiye. Hum batayenge ki ready-made se shuru karna theek hai ya custom app, pehle version mein kya rakhein, aur itemised quote lagbhag do working din mein denge.",
+  },
+};
+
+export default content;

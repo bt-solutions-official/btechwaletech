@@ -34,7 +34,7 @@ const bhiwandi: CityContent = {
     pills: ["Sites from ₹10,000", "Warehouse and dispatch tools", "Fabric catalogues", "Transporter websites", "WhatsApp order logging"],
   },
   quickAnswer:
-    "In Bhiwandi, our static business website starts at ₹10,000 and takes one to two weeks, a 700+ page SEO site starts at ₹20,000, and custom tools such as warehouse or dispatch dashboards start at ₹60,000. We are a remote three-engineer team with no local office, and maintenance is free for five months after launch.",
+    "In Bhiwandi, our static business website starts at ₹10,000 and takes one to two weeks, a 299+ page SEO site starts at ₹20,000, and custom tools such as warehouse or dispatch dashboards start at ₹60,000. We are a remote three-engineer team with no local office, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Civic body", value: "Bhiwandi-Nizampur City Municipal Corporation, Thane district, Mumbai Metropolitan Region" },
     { label: "Textiles", value: "One of India's largest powerloom clusters, often ranked second only to Surat" },
@@ -72,12 +72,12 @@ const bhiwandi: CityContent = {
       heading: "What websites and software cost in Bhiwandi",
       paragraphs: [
         "Website prices in Bhiwandi vary from a few thousand rupees for a single page bundled with a directory listing to well over a lakh for a logistics company's corporate site. The cheapest offers usually lock you into the seller's hosting and a yearly renewal with no clear explanation of what you get. The most expensive ones often include design work that looks impressive but does not help a buyer understand what you do.",
-        "Our starting prices are published openly. A static website of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. A 700+ page site with a page for each product line, service and area starts at ₹20,000 and takes three to five weeks. An online store starts at ₹50,000. Custom software, such as a warehouse register, dispatch tracker or loom production log, starts at ₹60,000. Automation starts at ₹40,000 and monthly SEO at ₹10,000. The <a href=\"/pricing/\">pricing page</a> lists what each tier includes.",
+        "Our starting prices are published openly. A static website of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page site with a page for each product line, service and area starts at ₹20,000 and takes three to five weeks. An online store starts at ₹50,000. Custom software, such as a warehouse register, dispatch tracker or loom production log, starts at ₹60,000. Automation starts at ₹40,000 and monthly SEO at ₹10,000. The <a href=\"/pricing/\">pricing page</a> lists what each tier includes.",
         "Software costs depend mostly on how many types of user are involved and what it needs to connect to. A single-godown stock register with three users is a small project. A multi-warehouse system with client logins, barcode scanning and invoice generation is a larger one. You receive an itemised quote in around two working days, and nothing is billed until you approve it in writing.",
       ],
       list: [
         "<strong>Static website, from ₹10,000:</strong> up to 100 pages with enquiry form and WhatsApp button. Suits clinics, schools, traders and small firms.",
-        "<strong>SEO website, from ₹20,000:</strong> 700+ pages covering products, services and locations you really serve.",
+        "<strong>SEO website, from ₹20,000:</strong> 299+ pages covering products, services and locations you really serve.",
         "<strong>Online store, from ₹50,000:</strong> product catalogue, cart, UPI and card checkout, shipping rules.",
         "<strong>Custom software, from ₹60,000:</strong> stock, dispatch, production or billing tools with logins and dashboards.",
       ],
@@ -199,12 +199,12 @@ const bhiwandi: CityContent = {
     {
       question: "How much does a website cost in Bhiwandi?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software such as stock or dispatch tools at ₹60,000. Local offers vary widely. When comparing, check who owns the domain and hosting, whether SEO setup is included, and what support you get after launch.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software such as stock or dispatch tools at ₹60,000. Local offers vary widely. When comparing, check who owns the domain and hosting, whether SEO setup is included, and what support you get after launch.",
     },
     {
       question: "Bhiwandi me website banwane ka kharcha kitna hai?",
       answer:
-        "Humare saath simple business website ₹10,000 se shuru hoti hai, 700+ pages wali SEO website ₹20,000 se, aur online store ₹50,000 se. Godown ya dispatch ka software ₹60,000 se banta hai. Final price aapke pages aur features par depend karti hai, aur kaam shuru karne se pehle aapko likhit mein itemised quote milta hai.",
+        "Humare saath simple business website ₹10,000 se shuru hoti hai, 299+ pages wali SEO website ₹20,000 se, aur online store ₹50,000 se. Godown ya dispatch ka software ₹60,000 se banta hai. Final price aapke pages aur features par depend karti hai, aur kaam shuru karne se pehle aapko likhit mein itemised quote milta hai.",
     },
     {
       question: "Do you have an office in Bhiwandi?",
@@ -234,7 +234,7 @@ const bhiwandi: CityContent = {
     {
       question: "How long does a project take?",
       answer:
-        "A static website usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Delays usually come from waiting for photos, product details or decisions, so we prepare draft content and a clear checklist at the start.",
+        "A static website usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Delays usually come from waiting for photos, product details or decisions, so we prepare draft content and a clear checklist at the start.",
     },
     {
       question: "How long does SEO take for a Bhiwandi business?",

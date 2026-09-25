@@ -40,7 +40,7 @@ Robots: [https://btechwaletech.in/robots.txt](https://btechwaletech.in/robots.tx
 All figures are starting prices. The final quote depends on pages, features, integrations, and content. INR applies in India and USD to international clients.
 
 - Static website (up to 100 pages): from ₹10,000 / US$150
-- SEO website (700+ pages): from ₹20,000 / US$300
+- SEO website (299+ pages): from ₹20,000 / US$300
 - AI automation: from ₹40,000 / US$600
 - Android and iOS app: from ₹40,000 / US$600
 - Ecommerce store: from ₹50,000 / US$750
@@ -169,7 +169,7 @@ Typical timelines: static website 1 to 2 weeks, AI automation 2 to 4 weeks, SEO 
 BtechWaleTech builds fast, SEO-ready business websites for small businesses across India, starting at ₹10,000.
 
 **How much does a website cost in India?**
-At BtechWaleTech, a static website starts at ₹10,000, an SEO website with 700+ pages starts at ₹20,000, an ecommerce store starts at ₹50,000, and custom software starts at ₹60,000.
+At BtechWaleTech, a static website starts at ₹10,000, an SEO website with 299+ pages starts at ₹20,000, an ecommerce store starts at ₹50,000, and custom software starts at ₹60,000.
 
 **Does BtechWaleTech work with businesses outside metro cities?**
 Yes. Work is delivered remotely, so businesses in any Indian city, town, or state can hire BtechWaleTech.

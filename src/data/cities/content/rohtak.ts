@@ -35,7 +35,7 @@ const rohtak: CityContent = {
     pills: ["Websites from ₹10,000", "Vendor capability sites", "Rohtak local SEO", "UPI stores", "AI and WhatsApp bots"],
   },
   quickAnswer:
-    "In Rohtak, our websites start at ₹10,000 for a static site ready in one to two weeks, and ₹20,000 for a 700+ page SEO site built in three to five weeks. Stores start at ₹50,000. We are a remote team of three engineers without a Rohtak office, and every launch includes five months of free maintenance.",
+    "In Rohtak, our websites start at ₹10,000 for a static site ready in one to two weeks, and ₹20,000 for a 299+ page SEO site built in three to five weeks. Stores start at ₹50,000. We are a remote team of three engineers without a Rohtak office, and every launch includes five months of free maintenance.",
   snapshot: [
     { label: "Industrial base", value: "IMT Rohtak, developed by HSIIDC, with Maruti Suzuki's 600-acre R&D centre and proving ground" },
     { label: "Other employers", value: "Suzuki Motorcycle, Asian Paints, Amul, Aisin Automotive, Nippon Carbide and a forging and fastener cluster" },
@@ -73,12 +73,12 @@ const rohtak: CityContent = {
       heading: "Website prices in Rohtak, explained",
       paragraphs: [
         "Because Rohtak is so close to NCR, you will see quotes that follow Gurugram pricing for work that does not need it, and bargain offers that leave out everything important. A ₹3,000 website often means a reused theme, hosting in someone else's account and no SEO. A ₹60,000 quote often includes an agency's office, sales team and margin.",
-        "Our figures are public. A static site with up to 100 pages starts at ₹10,000. A 700+ page website planned around Rohtak searches, with schema and sitemap, starts at ₹20,000. An ecommerce store with UPI and card payments starts at ₹50,000. Custom web applications, such as a supplier portal or an admissions system, start at ₹60,000. Automation begins at ₹40,000 and monthly SEO at ₹10,000. The detail is on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our figures are public. A static site with up to 100 pages starts at ₹10,000. A 299+ page website planned around Rohtak searches, with schema and sitemap, starts at ₹20,000. An ecommerce store with UPI and card payments starts at ₹50,000. Custom web applications, such as a supplier portal or an admissions system, start at ₹60,000. Automation begins at ₹40,000 and monthly SEO at ₹10,000. The detail is on our <a href=\"/pricing/\">pricing page</a>.",
         "The final price depends on what you actually need. Twenty products with good photos cost less than two hundred without descriptions. We send an itemised quote so you can see and cut each line, and we do not start billing until you approve it in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> a site of up to 100 pages for a doctor, CA, lawyer, tutor or shop",
-        "<strong>From ₹20,000:</strong> 700+ page SEO site for suppliers, hospitals and institutes",
+        "<strong>From ₹20,000:</strong> 299+ page SEO site for suppliers, hospitals and institutes",
         "<strong>From ₹50,000:</strong> online store for sweets, clothing, dairy or local brands",
         "<strong>From ₹60,000:</strong> portals, dashboards and web apps with logins and roles",
       ],
@@ -211,7 +211,7 @@ const rohtak: CityContent = {
     {
       question: "How much does a website cost in Rohtak?",
       answer:
-        "Our static websites start at ₹10,000 and SEO websites of 700+ pages at ₹20,000. Online stores start at ₹50,000 and custom applications at ₹60,000. Rohtak quotes range widely because some follow NCR agency pricing and others skip essentials, so compare domain ownership, SEO and support, not just the price.",
+        "Our static websites start at ₹10,000 and SEO websites of 299+ pages at ₹20,000. Online stores start at ₹50,000 and custom applications at ₹60,000. Rohtak quotes range widely because some follow NCR agency pricing and others skip essentials, so compare domain ownership, SEO and support, not just the price.",
     },
     {
       question: "Rohtak me website banwani ho to kya process hai?",
@@ -241,7 +241,7 @@ const rohtak: CityContent = {
     {
       question: "How long will my website take?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO website three to five weeks, a store four to eight weeks and a custom web app six to twelve weeks. The usual delay is waiting for photos and text, so we draft content for you to correct rather than waiting for you to write from scratch.",
+        "A static site takes one to two weeks, a 299+ page SEO website three to five weeks, a store four to eight weeks and a custom web app six to twelve weeks. The usual delay is waiting for photos and text, so we draft content for you to correct rather than waiting for you to write from scratch.",
     },
     {
       question: "Do you also work in Sonipat, Jhajjar, Bahadurgarh and Bhiwani?",

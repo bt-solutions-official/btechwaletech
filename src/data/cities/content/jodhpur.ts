@@ -35,7 +35,7 @@ const jodhpur: CityContent = {
     pills: ["From ₹10,000", "Export catalogues", "Heritage stay bookings", "Hindi and English SEO", "UPI stores"],
   },
   quickAnswer:
-    "A Jodhpur business website with us starts at ₹10,000 and is ready in one to two weeks. A 700+ page SEO website costs from ₹20,000, an export catalogue or online store from ₹50,000, and custom software from ₹60,000. We are three engineers working remotely without a Jodhpur office, and five months of maintenance is free after launch.",
+    "A Jodhpur business website with us starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO website costs from ₹20,000, an export catalogue or online store from ₹50,000, and custom software from ₹60,000. We are three engineers working remotely without a Jodhpur office, and five months of maintenance is free after launch.",
   snapshot: [
     { label: "Old city markets", value: "Ghanta Ghar and Sardar Market, Nai Sarak, Tripolia Bazaar, Sojati Gate and Jalori Gate" },
     { label: "Newer commercial areas", value: "Sardarpura, Shastri Nagar, Ratanada, Paota, Pal Road and Chopasni Housing Board" },
@@ -73,7 +73,7 @@ const jodhpur: CityContent = {
       heading: "How much does a website cost in Jodhpur?",
       paragraphs: [
         "Jodhpur quotes range from ₹2,500 for a template page to lakhs from export-focused agencies in bigger cities. The cheapest sites often lack SEO basics and sit on the developer's account. The most expensive ones are sometimes justified and sometimes just padded. Without a written breakdown, you cannot tell.",
-        "Here is what we charge. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. An online store or a large product catalogue with enquiry cart starts at ₹50,000 and takes four to eight weeks. Production trackers, buyer portals and other custom web applications start at ₹60,000 and take six to twelve weeks.",
+        "Here is what we charge. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. An online store or a large product catalogue with enquiry cart starts at ₹50,000 and takes four to eight weeks. Production trackers, buyer portals and other custom web applications start at ₹60,000 and take six to twelve weeks.",
         "Full details are on our <a href=\"/pricing/\">pricing page</a>. You receive an itemised quote listing every page and feature, and we bill nothing until you approve it in writing.",
       ],
       list: [
@@ -107,7 +107,7 @@ const jodhpur: CityContent = {
       paragraphs: [
         "Jodhpur's heritage hotels, haveli guest houses in the old city and resorts on the outskirts compete with each other and with online travel platforms for every booking. The city is also a major destination-wedding venue, which supports planners, decorators, caterers, photographers and folk performers. These businesses sell an experience, and their website has to show it honestly.",
         "A hotel site needs each room type with true photographs and sizes, what the rate includes, how to reach you from the airport or railway station, cancellation terms, and a direct booking or enquiry form that confirms on WhatsApp. Old-city properties should explain access clearly, since cars cannot always reach the door. Pages about Mehrangarh, the stepwells and day trips to Osian or the dunes answer guests' planning questions and bring in search traffic months before travel.",
-        "Wedding businesses need galleries organised by event, package outlines, venue capacity and a date-availability form. We will not use photographs you do not have rights to, and we keep claims about past celebrity events off the site unless you can document them. A booking system with a calendar starts from ₹60,000; most hotels begin with a 700+ page site and add booking later.",
+        "Wedding businesses need galleries organised by event, package outlines, venue capacity and a date-availability form. We will not use photographs you do not have rights to, and we keep claims about past celebrity events off the site unless you can document them. A booking system with a calendar starts from ₹60,000; most hotels begin with a 299+ page site and add booking later.",
       ],
     },
     {
@@ -125,7 +125,7 @@ const jodhpur: CityContent = {
       paragraphs: [
         "With the principal seat of the Rajasthan High Court in the city, Jodhpur has a large legal community, as well as chartered accountants, tax consultants and company secretaries serving the region's traders and exporters. Professional websites work differently from business ones, and advocates in particular must follow Bar Council of India rules that restrict advertising and solicitation.",
         "For advocates, we build restrained sites that share the information the rules allow: name, contact details, enrolment, qualifications and areas of practice, without testimonials, success claims or promotional language. For CAs and consultants there is more room to explain services, such as GST registration, export documentation or audit, and publish helpful guides that clients search for.",
-        "Both groups benefit from a strong Google Business Profile and a site that loads quickly on a phone, because clients often look up the office on their way to it. A static site from ₹10,000 usually covers a practice; a 700+ page site suits firms that want to publish articles regularly.",
+        "Both groups benefit from a strong Google Business Profile and a site that loads quickly on a phone, because clients often look up the office on their way to it. A static site from ₹10,000 usually covers a practice; a 299+ page site suits firms that want to publish articles regularly.",
       ],
     },
     {
@@ -144,7 +144,7 @@ const jodhpur: CityContent = {
         "Jodhpur's pink and beige sandstone is used in buildings across India, and quarrying, cutting and carving businesses serve architects, builders and temple projects. Real estate developers are active along Pal Road, Chopasni Road and the city's newer colonies. Western Rajasthan's solar belt, including the large parks around Bhadla, has also created demand for installers, EPC contractors and maintenance firms.",
         "Stone suppliers need galleries of finishes, sizes and project photographs, with a quote form that captures quantity, thickness and delivery location. Developers need project pages with RERA registration numbers, floor plans, location maps and site-visit booking, and nothing that overstates amenities. Solar contractors need clear service pages, capacity handled, subsidy guidance where it applies, and completed installation examples.",
         "For these buyers, detail wins. An architect comparing three stone suppliers will pick the one whose website shows the exact finish they need, in a photograph taken in daylight rather than under showroom lamps. A builder choosing a solar installer wants to see rooftop jobs of a similar size, the panel and inverter brands used, and what happens when something fails in the fifth year.",
-        "We usually start these businesses on a 700+ page site, because each finish, project or service deserves a page of its own and those pages are what bring search traffic over time. Quote forms route to WhatsApp so a site manager can reply from the quarry or the rooftop, and a simple gallery editor lets your staff add new project photos without calling us.",
+        "We usually start these businesses on a 299+ page site, because each finish, project or service deserves a page of its own and those pages are what bring search traffic over time. Quote forms route to WhatsApp so a site manager can reply from the quarry or the rooftop, and a simple gallery editor lets your staff add new project photos without calling us.",
       ],
     },
     {
@@ -219,12 +219,12 @@ const jodhpur: CityContent = {
     {
       question: "How much does a website cost in Jodhpur?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores and export catalogues at ₹50,000, and custom web applications at ₹60,000. A lawyer or clinic usually needs the first, a hotel or manufacturer the second. You get an itemised quote and pay nothing before approving it in writing.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores and export catalogues at ₹50,000, and custom web applications at ₹60,000. A lawyer or clinic usually needs the first, a hotel or manufacturer the second. You get an itemised quote and pay nothing before approving it in writing.",
     },
     {
       question: "Jodhpur me website banwane ka kharcha kitna hai?",
       answer:
-        "Humare saath simple website ₹10,000 se shuru hoti hai aur 1-2 hafte me ban jaati hai. 700+ pages ki SEO website ₹20,000 se, aur furniture ya handicraft ka export catalogue ya online store ₹50,000 se. Kaam shuru karne se pehle aapko likhit, itemised quote milta hai.",
+        "Humare saath simple website ₹10,000 se shuru hoti hai aur 1-2 hafte me ban jaati hai. 299+ pages ki SEO website ₹20,000 se, aur furniture ya handicraft ka export catalogue ya online store ₹50,000 se. Kaam shuru karne se pehle aapko likhit, itemised quote milta hai.",
     },
     {
       question: "Do you have an office in Jodhpur?",
@@ -249,7 +249,7 @@ const jodhpur: CityContent = {
     {
       question: "Can you build a direct booking site for a heritage hotel?",
       answer:
-        "Yes. A 700+ page site from ₹20,000 covers room pages, inclusions, directions and an enquiry form that confirms on WhatsApp. A full booking system with an availability calendar starts at ₹60,000. It will not replace booking platforms entirely, but it gives returning guests and referrals a commission-free option.",
+        "Yes. A 299+ page site from ₹20,000 covers room pages, inclusions, directions and an enquiry form that confirms on WhatsApp. A full booking system with an availability calendar starts at ₹60,000. It will not replace booking platforms entirely, but it gives returning guests and referrals a commission-free option.",
     },
     {
       question: "How long does SEO take to show results in Jodhpur?",

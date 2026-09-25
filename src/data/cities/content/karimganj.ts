@@ -39,7 +39,7 @@ const karimganj: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Bengali and English pages", "Border trade and export sites", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Sribhumi (Karimganj) business, a website with us starts at ₹10,000 and is usually live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are remote, with no local office.",
+    "For a Sribhumi (Karimganj) business, a website with us starts at ₹10,000 and is usually live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are remote, with no local office.",
   snapshot: [
     { label: "Location", value: "Headquarters of Sribhumi (formerly Karimganj) district in the Barak Valley of southern Assam" },
     { label: "Name change", value: "Assam government renamed the district and town Sribhumi in November 2024; many people still search “Karimganj”" },
@@ -158,7 +158,7 @@ const karimganj: CityContent = {
       id: "website-cost-karimganj",
       heading: "Website cost in Karimganj: starting prices and what to compare",
       paragraphs: [
-        "Owners in Sribhumi usually want a figure first, so here are our entry points. A simple site for a shop, clinic or agent, anything up to 100 pages, costs from ₹10,000 and is normally ready in one to two weeks. A large SEO website of 700 pages or more, useful for a coaching group or distributor covering many courses, products and towns, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation. Online stores start at ₹50,000, custom software at ₹60,000, and monthly SEO at ₹10,000.",
+        "Owners in Sribhumi usually want a figure first, so here are our entry points. A simple site for a shop, clinic or agent, anything up to 100 pages, costs from ₹10,000 and is normally ready in one to two weeks. A large SEO website of 299 pages or more, useful for a coaching group or distributor covering many courses, products and towns, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation. Online stores start at ₹50,000, custom software at ₹60,000, and monthly SEO at ₹10,000.",
         "The final number moves only with what you choose: Bengali and English versions, a large catalogue, courier rate tables, online payment, staff logins, export document fields or a connection to Tally. Each is a separate line you can accept or remove. If you write your own text and send your own photographs, the figure stays close to the starting price.",
         "Local quotes for similar-looking work vary widely. When comparing, ask who owns the domain and hosting, whether the site is tested on low-cost phones, whether basic on-page SEO is included, how many rounds of changes are covered and what support costs after a year. Our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and an itemised written quote reaches you in about two working days.",
       ],
@@ -219,7 +219,7 @@ const karimganj: CityContent = {
     {
       question: "What is the website cost in Karimganj?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the quote grows with pages, Bengali content, products and integrations. You get it itemised in writing, and nothing is billed before you approve it.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the quote grows with pages, Bengali content, products and integrations. You get it itemised in writing, and nothing is billed before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Karimganj businesses?",
@@ -234,7 +234,7 @@ const karimganj: CityContent = {
     {
       question: "How long does a website take for a Karimganj shop?",
       answer:
-        "A simple static site is usually live within one to two weeks after we receive your photos and details. A 700+ page SEO site takes about three to five weeks, an online store four to eight, and custom software six to twelve. Projects finish fastest when the owner sends content in the first few days.",
+        "A simple static site is usually live within one to two weeks after we receive your photos and details. A 299+ page SEO site takes about three to five weeks, an online store four to eight, and custom software six to twelve. Projects finish fastest when the owner sends content in the first few days.",
     },
     {
       question: "Which is the best IT services team in Karimganj?",
@@ -259,7 +259,7 @@ const karimganj: CityContent = {
     {
       question: "Karimganj me website banwane me kitna kharcha lagega?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein taiyaar ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapke pages aur features ke hisaab se poora quote likhit mein milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein taiyaar ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapke pages aur features ke hisaab se poora quote likhit mein milta hai.",
     },
     {
       question: "You have no office in Karimganj. How do I know the work is safe?",

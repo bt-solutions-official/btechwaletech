@@ -39,7 +39,7 @@ const nanjangud: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Kannada-first local SEO", "KIADB vendor sites", "Every login in your name"],
   },
   quickAnswer:
-    "A Nanjangud business website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI and WhatsApp automation. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and have no Nanjangud office.",
+    "A Nanjangud business website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI and WhatsApp automation. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and have no Nanjangud office.",
   snapshot: [
     { label: "Location", value: "Taluk headquarters on the Kabini river, about 23 km south of Mysuru" },
     { label: "Temple", value: "Srikanteshwara (Nanjundeshwara) temple, with the Dodda Jatre chariot festival on the ratha beedi" },
@@ -166,7 +166,7 @@ const nanjangud: CityContent = {
       id: "website-cost-nanjangud",
       heading: "Website cost in Nanjangud: starting prices and what to check",
       paragraphs: [
-        "A simple site for a shop, lodge, clinic or vendor, up to 100 pages, starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site, useful for a school group or a dealer with a big range, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation.",
+        "A simple site for a shop, lodge, clinic or vendor, up to 100 pages, starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site, useful for a school group or a dealer with a big range, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation.",
         "An online store starts at ₹50,000 and takes four to eight weeks. Custom software such as attendance, trip or booking systems starts at ₹60,000 and takes six to twelve weeks. Monthly SEO starts at ₹10,000, and maintenance starts at ₹8,000 a month after five free months.",
         "The quote grows only with what you choose: Kannada and English versions, many rooms or products, delivery rules, staff logins, Tally links. Each is a line you can accept or remove. If you send your own text and photographs, the cost barely moves.",
         "Quotes around Mysuru vary widely for jobs that sound alike. Compare who owns the domain, whether the site is tested on low-cost phones, whether on-page SEO is included, how many revisions you get and the cost of support after a year. Your itemised quote from us comes in about two working days; ask via our <a href=\"/contact/\">contact page</a>.",
@@ -228,7 +228,7 @@ const nanjangud: CityContent = {
     {
       question: "What is the website cost in Nanjangud?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, Kannada content, products and integrations, and it comes itemised in writing before anything is billed.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, Kannada content, products and integrations, and it comes itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Nanjangud businesses?",
@@ -238,7 +238,7 @@ const nanjangud: CityContent = {
     {
       question: "How long does a website take in Nanjangud?",
       answer:
-        "A simple static site is usually live within one to two weeks of getting your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Sending content early is the surest way to keep things quick.",
+        "A simple static site is usually live within one to two weeks of getting your photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Sending content early is the surest way to keep things quick.",
     },
     {
       question: "Who is the best website development team in Nanjangud?",
@@ -263,7 +263,7 @@ const nanjangud: CityContent = {
     {
       question: "Nanjangud me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein live ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapke pages aur features ke hisaab se final quote likhit mein diya jaata hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein live ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapke pages aur features ke hisaab se final quote likhit mein diya jaata hai.",
     },
     {
       question: "You have no office in Nanjangud. Is it safe to work remotely?",

@@ -197,7 +197,7 @@ const content: CityContent = {
       paragraphs: [
         "SEO across Bihar means making a business visible for searches in its city and district, in Hindi, Hinglish and English, and in AI-generated answers. Patna is competitive for coaching, healthcare and real estate; district towns are less crowded, so accurate listings and good pages there show results sooner.",
         "Many Bihar searches are typed in Hinglish, such as 'Patna me best coaching for NEET' or 'Muzaffarpur me dentist', and a growing share are spoken into phones in Hindi. We research these phrasings, build pages for the services and areas you genuinely serve, and keep your Google Business Profile and directory listings consistent.",
-        "For AI search, we write answer-first pages that name the place and service explicitly and include schema markup. <a href='/services/seo-services/'>Monthly SEO</a> starts at ₹10,000 with a plain-language report; very large service catalogues suit our 700+ page SEO website from ₹20,000. We never guarantee rankings.",
+        "For AI search, we write answer-first pages that name the place and service explicitly and include schema markup. <a href='/services/seo-services/'>Monthly SEO</a> starts at ₹10,000 with a plain-language report; very large service catalogues suit our 299+ page SEO website from ₹20,000. We never guarantee rankings.",
       ],
     },
     {
@@ -253,7 +253,7 @@ const content: CityContent = {
     {
       question: "How much do IT services cost in Bihar?",
       answer:
-        "From ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after five free months. Quotes are itemised.",
+        "From ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after five free months. Quotes are itemised.",
     },
     {
       question: "How long do projects take?",

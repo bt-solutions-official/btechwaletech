@@ -34,7 +34,7 @@ const vapi: CityContent = {
     pills: ["Sites from ₹10,000", "Product and TDS catalogues", "Hindi, Gujarati and English", "Plant and dispatch tools", "WhatsApp enquiry logging"],
   },
   quickAnswer:
-    "In Vapi, a static business website with us starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site or product catalogue starts from ₹20,000, and custom software for plants or traders from ₹60,000. We are a remote three-engineer team with no Vapi office, and maintenance is free for five months after launch.",
+    "In Vapi, a static business website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site or product catalogue starts from ₹20,000, and custom software for plants or traders from ₹60,000. We are a remote three-engineer team with no Vapi office, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Location", value: "Valsad district, on the Damanganga river, bordered by Daman and Dadra and Nagar Haveli" },
     { label: "Industrial base", value: "Large GIDC estate across several phases, known for chemicals, dyes, pigments and pharmaceuticals" },
@@ -72,7 +72,7 @@ const vapi: CityContent = {
       heading: "Website and software costs in Vapi",
       paragraphs: [
         "Quotes in Vapi vary widely, from template pages offered cheaply to large figures from Mumbai agencies. The cheapest often have no search setup and hosting in the developer's name. The most expensive may include overheads a mid-sized manufacturer should not be paying for.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site, suited to large product catalogues, starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, custom software from ₹60,000, WhatsApp and AI automation from ₹40,000, and monthly SEO from ₹10,000.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site, suited to large product catalogues, starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, custom software from ₹60,000, WhatsApp and AI automation from ₹40,000, and monthly SEO from ₹10,000.",
         "The final price depends on product count, documents, languages and integrations. You receive an itemised quote in about two working days, and we bill only after written approval.",
       ],
       list: [
@@ -236,12 +236,12 @@ const vapi: CityContent = {
     {
       question: "How much does a website cost in Vapi?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO site or large catalogue from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. The final quote depends on products, documents, languages and integrations. Check any quote for domain ownership, search setup and support after launch.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO site or large catalogue from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. The final quote depends on products, documents, languages and integrations. Check any quote for domain ownership, search setup and support after launch.",
     },
     {
       question: "Vapi ma website banavvano kharcho ketlo thay?",
       answer:
-        "Amara paase simple business website ₹10,000 thi sharu thay chhe ane ek-be athavadiya ma taiyar thay chhe. 700+ page vali SEO website ₹20,000 thi ane online store ₹50,000 thi sharu thay chhe. Kaam sharu karta pehla tamne lakhit itemised quote malse, ane tamari manjuri pachhi j bill banse.",
+        "Amara paase simple business website ₹10,000 thi sharu thay chhe ane ek-be athavadiya ma taiyar thay chhe. 299+ page vali SEO website ₹20,000 thi ane online store ₹50,000 thi sharu thay chhe. Kaam sharu karta pehla tamne lakhit itemised quote malse, ane tamari manjuri pachhi j bill banse.",
     },
     {
       question: "Do you have an office in Vapi?",
@@ -271,7 +271,7 @@ const vapi: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site or catalogue three to five weeks, an online store four to eight weeks and custom software six to twelve. Preparing product data is often the slowest part, so we give you a simple template to fill.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site or catalogue three to five weeks, an online store four to eight weeks and custom software six to twelve. Preparing product data is often the slowest part, so we give you a simple template to fill.",
     },
     {
       question: "What can WhatsApp automation do for us?",

@@ -178,7 +178,7 @@ const content: CityContent = {
       id: "seo-surat",
       heading: "SEO and AI-search visibility for Surat businesses",
       paragraphs: [
-        "SEO for a Surat business means ranking for national searches from retailers and resellers looking for Surat sarees, fabrics and suppliers, and for local searches in areas such as Adajan, Vesu, Varachha and Katargam. Our <a href='/services/seo-services/'>SEO services</a> start from ₹10,000 a month, and 700+ page SEO websites from ₹20,000.",
+        "SEO for a Surat business means ranking for national searches from retailers and resellers looking for Surat sarees, fabrics and suppliers, and for local searches in areas such as Adajan, Vesu, Varachha and Katargam. Our <a href='/services/seo-services/'>SEO services</a> start from ₹10,000 a month, and 299+ page SEO websites from ₹20,000.",
         "For wholesalers and manufacturers, we build category and product pages with clear specifications and wholesale terms. For local services, we optimise Google Business Profiles and create honest area pages. We write factual passages and add schema so AI assistants describe your business correctly. Reporting is monthly from Search Console, and rankings are never guaranteed.",
       ],
     },
@@ -206,7 +206,7 @@ const content: CityContent = {
       ],
       list: [
         "<strong>Website:</strong> from ₹10,000, one to two weeks",
-        "<strong>700+ page SEO website:</strong> from ₹20,000, three to five weeks",
+        "<strong>299+ page SEO website:</strong> from ₹20,000, three to five weeks",
         "<strong>AI or WhatsApp automation:</strong> from ₹40,000, two to four weeks",
         "<strong>Android and iOS app:</strong> from ₹40,000, six to ten weeks",
         "<strong>Online store:</strong> from ₹50,000, four to eight weeks",

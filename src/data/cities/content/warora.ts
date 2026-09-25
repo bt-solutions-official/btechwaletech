@@ -39,7 +39,7 @@ const warora: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Marathi-first SEO", "Fleet and contractor software", "Accounts registered to you"],
   },
   quickAnswer:
-    "For Warora contractors, traders, colleges and clinics, we build websites from ₹10,000 (ready in one to two weeks) and Android and iOS apps from ₹40,000. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000, AI automation at ₹40,000 and custom software at ₹60,000. We are fully remote, and every quote comes itemised in writing.",
+    "For Warora contractors, traders, colleges and clinics, we build websites from ₹10,000 (ready in one to two weeks) and Android and iOS apps from ₹40,000. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000, AI automation at ₹40,000 and custom software at ₹60,000. We are fully remote, and every quote comes itemised in writing.",
   snapshot: [
     { label: "Location", value: "Taluka headquarters in Chandrapur district, eastern Vidarbha" },
     { label: "Population", value: "46,532 in the municipal area at the 2011 Census" },
@@ -210,7 +210,7 @@ const warora: CityContent = {
     {
       question: "What is the website cost in Warora?",
       answer:
-        "A static website up to 100 pages starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Marathi content, number of products, checkout and integrations shape the final figure, which you receive as a written itemised quote before any billing.",
+        "A static website up to 100 pages starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. Marathi content, number of products, checkout and integrations shape the final figure, which you receive as a written itemised quote before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Warora businesses?",
@@ -220,7 +220,7 @@ const warora: CityContent = {
     {
       question: "How long does it take to make a website in Warora?",
       answer:
-        "A standard business website takes one to two weeks once we have your text and photos. A 700+ page SEO site needs three to five weeks, an online store four to eight, and custom software such as a fleet system six to twelve weeks in stages. Slow content from the client side is the most common cause of delay.",
+        "A standard business website takes one to two weeks once we have your text and photos. A 299+ page SEO site needs three to five weeks, an online store four to eight, and custom software such as a fleet system six to twelve weeks in stages. Slow content from the client side is the most common cause of delay.",
     },
     {
       question: "Who is the best website development team in Warora?",
@@ -265,7 +265,7 @@ const warora: CityContent = {
     {
       question: "Warora me app ya website banwane me kitna kharcha aata hai?",
       answer:
-        "Hamare yahan simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein taiyaar ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aap jo features chunte hain, uske hisaab se poora quote likhit mein aata hai, har cheez alag line mein.",
+        "Hamare yahan simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein taiyaar ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aap jo features chunte hain, uske hisaab se poora quote likhit mein aata hai, har cheez alag line mein.",
     },
     {
       question: "Warora madhye website banvayla kiti kharch yeto?",

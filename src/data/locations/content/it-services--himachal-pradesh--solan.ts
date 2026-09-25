@@ -196,7 +196,7 @@ const content: CityContent = {
       id: "cost-solan-software",
       heading: "How much do freelance software developers in Solan charge?",
       paragraphs: [
-        "BtechWaleTech's starting prices in Solan district are ₹10,000 for a static website, ₹20,000 for a 700+ page SEO site, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software, with monthly SEO from ₹10,000 and maintenance from ₹8,000 a month. Quotes depend on modules, users, integrations and data migration.",
+        "BtechWaleTech's starting prices in Solan district are ₹10,000 for a static website, ₹20,000 for a 299+ page SEO site, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software, with monthly SEO from ₹10,000 and maintenance from ₹8,000 a month. Quotes depend on modules, users, integrations and data migration.",
         "Some reference points: a purchase-order reading agent sits near the automation starting price. An MR reporting app for a small field team sits a little above the custom software starting price. A multi-brand order portal with artwork workflow, dispatch tracking and a management dashboard costs more and is best delivered in phases.",
         "Every quote is itemised so you can start with the most urgent module. Payments follow milestones, only by UPI QR or bank transfer in INR. See the <a href='/pricing/'>pricing page</a> for full package details.",
       ],

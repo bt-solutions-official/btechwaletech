@@ -39,7 +39,7 @@ const ramanagaram: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Kannada and English SEO", "Silk and cocoon trade tools", "Domain and code in your name"],
   },
   quickAnswer:
-    "A Ramanagara business can get a website from ₹10,000, live in one to two weeks. A 700+ page SEO site starts at ₹20,000, Android and iOS apps and AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Our team works remotely, has no local office, and registers everything in your name.",
+    "A Ramanagara business can get a website from ₹10,000, live in one to two weeks. A 299+ page SEO site starts at ₹20,000, Android and iOS apps and AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Our team works remotely, has no local office, and registers everything in your name.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of the district renamed Bengaluru South in May 2025, about 50 km south-west of Bengaluru" },
     { label: "Population", value: "About 95,000 in the 2011 Census" },
@@ -124,7 +124,7 @@ const ramanagaram: CityContent = {
       paragraphs: [
         "Local search in Ramanagara has three layers. There are residents searching in Kannada or English for a doctor, school, tailor or hardware shop. There are people in Bengaluru searching for silk, toys or a supplier on the corridor. And since the Bengaluru–Mysuru expressway opened, travellers look for food, fuel and places to stop near the town's exits.",
         "Our <strong>SEO services in Ramanagara</strong> start with the Google Business Profile: correct category, accurate hours, real photographs, services listed properly and a steady flow of genuine reviews. Then we build pages that match how people actually search, such as “raw silk supplier Ramanagara”, “Channapatna toys wholesale” or “Ramanagara hospital near railway station”, in the language they use.",
-        "For businesses with many products or services, a 700+ page SEO website starting at ₹20,000 covers each grade, product or service area on its own page. Monthly SEO starts at ₹10,000 a month and includes content, listing updates and a plain report. We never promise a first-place ranking; nobody honest can. See <a href=\"/services/seo-services/\">SEO services</a> for how we work.",
+        "For businesses with many products or services, a 299+ page SEO website starting at ₹20,000 covers each grade, product or service area on its own page. Monthly SEO starts at ₹10,000 a month and includes content, listing updates and a plain report. We never promise a first-place ranking; nobody honest can. See <a href=\"/services/seo-services/\">SEO services</a> for how we work.",
       ],
     },
     {
@@ -149,7 +149,7 @@ const ramanagaram: CityContent = {
       id: "website-cost-ramanagara",
       heading: "Website cost in Ramanagara: starting prices and what changes them",
       paragraphs: [
-        "The most common question we get is what a website costs in Ramanagara. Our starting prices are public: a static website of up to 100 pages from ₹10,000, a 700+ page SEO website from ₹20,000, an Android and iOS app from ₹40,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. Monthly SEO starts at ₹10,000 a month.",
+        "The most common question we get is what a website costs in Ramanagara. Our starting prices are public: a static website of up to 100 pages from ₹10,000, a 299+ page SEO website from ₹20,000, an Android and iOS app from ₹40,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. Monthly SEO starts at ₹10,000 a month.",
         "What moves the number up is scope: more pages, Kannada and English versions, product catalogues with many variants, payment and courier links, logins, or connections to Tally and factory portals. Content matters too. If you supply text and photographs, the cost stays lower; if we write and organise everything, the quote shows that as a separate line.",
         "Local quotes vary widely, so compare carefully. Ask who owns the domain and hosting, whether basic SEO is included, how many revisions are allowed, what happens after launch and who fixes things when they break. Our <a href=\"/pricing/\">pricing page</a> lists the starting points, and your quote arrives in writing within about two working days.",
       ],
@@ -210,7 +210,7 @@ const ramanagaram: CityContent = {
     {
       question: "How much does a website cost in Ramanagara?",
       answer:
-        "With us, a static website of up to 100 pages starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. The final quote depends on pages, Kannada content, products and integrations, and it arrives itemised before anything is billed.",
+        "With us, a static website of up to 100 pages starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. The final quote depends on pages, Kannada content, products and integrations, and it arrives itemised before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Ramanagaram businesses?",
@@ -220,7 +220,7 @@ const ramanagaram: CityContent = {
     {
       question: "How long does it take to build a website in Ramanagara?",
       answer:
-        "A static business website usually takes one to two weeks once we have your content. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Delays mostly come from waiting for photos and text, so having them ready helps.",
+        "A static business website usually takes one to two weeks once we have your content. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Delays mostly come from waiting for photos and text, so having them ready helps.",
     },
     {
       question: "Which is the best IT services team in Ramanagara for a small business?",
@@ -245,7 +245,7 @@ const ramanagaram: CityContent = {
     {
       question: "Ramanagara me website banwane me kitna kharcha aata hai?",
       answer:
-        "Hamare saath static website ₹10,000 se shuru hoti hai, 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se. Ye sab starting prices hain. Aapke pages, products aur features ke hisaab se likhit quote do working days mein milta hai.",
+        "Hamare saath static website ₹10,000 se shuru hoti hai, 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se. Ye sab starting prices hain. Aapke pages, products aur features ke hisaab se likhit quote do working days mein milta hai.",
     },
     {
       question: "You have no office in Ramanagara. How does the work happen?",

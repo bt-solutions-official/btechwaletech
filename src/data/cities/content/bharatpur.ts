@@ -35,7 +35,7 @@ const bharatpur: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi and English pages", "Oil mill catalogues", "Hotel booking pages", "WhatsApp enquiry logging"],
   },
   quickAnswer:
-    "A business website in Bharatpur starts at ₹10,000 with us and takes one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are three engineers working remotely with no Bharatpur office, and maintenance is free for five months after launch.",
+    "A business website in Bharatpur starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are three engineers working remotely with no Bharatpur office, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Regional role", value: "Divisional and district headquarters in eastern Rajasthan, about 56 km from Agra and on the routes to Delhi and Jaipur" },
     { label: "Mustard and oil", value: "A major mustard-growing district with hundreds of registered oil mills and an edible oil mill cluster in the city" },
@@ -73,7 +73,7 @@ const bharatpur: CityContent = {
       heading: "Website costs in Bharatpur, laid out in advance",
       paragraphs: [
         "Local prices for a website vary from a couple of thousand rupees for a one-page template to agency quotes from Jaipur, Agra or Delhi that run several times ours. The cheapest often skip search setup and keep the domain in the developer's name; the costliest include office overheads that a Bharatpur mill or guest house does not need. Our rates are on the <a href=\"/pricing/\">pricing page</a>.",
-        "A static website with up to 100 pages, mobile layout, contact form, map and basic SEO starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site with separate pages for each product, room type, department or service starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, custom web applications at ₹60,000, and monthly SEO at ₹10,000.",
+        "A static website with up to 100 pages, mobile layout, contact form, map and basic SEO starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site with separate pages for each product, room type, department or service starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, custom web applications at ₹60,000, and monthly SEO at ₹10,000.",
         "A hotel with several room categories and a bird-season guide, or a mill with several brands and pack sizes, needs more pages than a single clinic. You receive an itemised quote in about two working days, and nothing is billed until you approve it in writing.",
       ],
       list: [
@@ -209,12 +209,12 @@ const bharatpur: CityContent = {
     {
       question: "How much does a website cost in Bharatpur?",
       answer:
-        "With us a static website starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. When comparing other Bharatpur quotes, check whether the domain and hosting will be in your name and whether search setup and support after launch are included.",
+        "With us a static website starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. When comparing other Bharatpur quotes, check whether the domain and hosting will be in your name and whether search setup and support after launch are included.",
     },
     {
       question: "Bharatpur me website banwane ka kharcha kitna aata hai?",
       answer:
-        "Humare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte me taiyaar ho jaati hai. 700+ page wali SEO website ₹20,000 se aur online dukaan ₹50,000 se. Kaam shuru hone se pehle aapko likhit quote milta hai jisme har cheez alag se likhi hoti hai, aur aapki haan ke bina koi bill nahi banta.",
+        "Humare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte me taiyaar ho jaati hai. 299+ page wali SEO website ₹20,000 se aur online dukaan ₹50,000 se. Kaam shuru hone se pehle aapko likhit quote milta hai jisme har cheez alag se likhi hoti hai, aur aapki haan ke bina koi bill nahi banta.",
     },
     {
       question: "Do you have an office in Bharatpur?",

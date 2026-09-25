@@ -56,7 +56,7 @@ const content: FreelanceContent = {
     rows: [
       { label: "Scope types", value: "Brochure site, SEO site, store, web app, integrations" },
       { label: "Static website", value: `From ${P.site}, 1–2 weeks` },
-      { label: "SEO website, 700+ pages", value: `From ${P.seoSite}, 3–5 weeks` },
+      { label: "SEO website, 299+ pages", value: `From ${P.seoSite}, 3–5 weeks` },
       { label: "Custom web app", value: `From ${P.software}, 6–12 weeks` },
       { label: "Handed over", value: "Code repository, admin logins, hosting and domain in your name" },
       { label: "Billing", value: "Staged; UPI or bank transfer in India, Wise, wire or PayPal abroad" },
@@ -382,7 +382,7 @@ const content: FreelanceContent = {
   faqHeading: "Freelance web development: common questions",
   faqs: [
     { question: "What is freelance web development?", answer: "Freelance web development is the building of websites and web applications by independent developers who take on defined projects for clients, rather than working as employees. The client agrees a scope, stack, price and timeline, pays in stages and receives the code and accounts at the end. It suits business sites, stores and web apps with a clear goal." },
-    { question: "How much does freelance web development cost in India?", answer: `It depends on scope. With BtechWaleTech a static business site of up to 100 pages starts at ${P.site}, an SEO website with 700+ pages at ${P.seoSite}, an online store at ${P.shop} and a custom web app at ${P.software}. Each quote is itemised by templates, features, content and integrations, so you can see what drives the total.` },
+    { question: "How much does freelance web development cost in India?", answer: `It depends on scope. With BtechWaleTech a static business site of up to 100 pages starts at ${P.site}, an SEO website with 299+ pages at ${P.seoSite}, an online store at ${P.shop} and a custom web app at ${P.software}. Each quote is itemised by templates, features, content and integrations, so you can see what drives the total.` },
     { question: "What deliverables should I get from a freelance web development project?", answer: "You should receive the source code in a repository you control, the domain and hosting in your name, admin logins with your own user, Google Search Console and analytics verified under your account, and written documentation covering deployment and third-party services. Ask for this list in the proposal, not after launch." },
     { question: "Which technology is best for a business website or web app?", answer: "There is no single best stack. Static builds with Astro suit business and SEO sites because they are fast and cheap to host. WordPress suits teams who post content daily. Node.js or Python with PostgreSQL suits portals and apps with logins. A good provider explains the choice for your case in plain language." },
     { question: "Is freelance web development cheaper than an agency?", answer: "Usually, because freelancers carry less overhead such as sales teams and large offices. But the real comparison is value: what is included, who owns the result and what happens after launch. A cheap quote that leaves you without code access or aftercare can cost more in the end than a slightly higher one that covers both." },

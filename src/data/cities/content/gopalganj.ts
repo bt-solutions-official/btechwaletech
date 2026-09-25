@@ -39,7 +39,7 @@ const gopalganj: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first local SEO", "Rice mill and sugar records", "You own every login"],
   },
   quickAnswer:
-    "Gopalganj businesses can get a website from ₹10,000, typically live in a week or two. Android and iOS apps begin at ₹40,000, as does AI and WhatsApp automation; a 700+ page SEO site begins at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Our team is remote, has no Gopalganj office, and registers every account to you.",
+    "Gopalganj businesses can get a website from ₹10,000, typically live in a week or two. Android and iOS apps begin at ₹40,000, as does AI and WhatsApp automation; a 299+ page SEO site begins at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Our team is remote, has no Gopalganj office, and registers every account to you.",
   snapshot: [
     { label: "Location", value: "District headquarters in north-west Bihar, bordering Kushinagar district of Uttar Pradesh to the west" },
     { label: "Town size", value: "Nagar Parishad town of 67,339 people (2011 census), about 11 sq km" },
@@ -238,7 +238,7 @@ const gopalganj: CityContent = {
     {
       question: "How quickly can a Gopalganj shop get a website?",
       answer:
-        "Once your text and photos reach us, a static site normally goes live inside two weeks. Bigger jobs take longer: roughly three to five weeks for a 700+ page SEO site, four to eight for a store and six to twelve for custom software. Delays almost always come from waiting on content, not on coding.",
+        "Once your text and photos reach us, a static site normally goes live inside two weeks. Bigger jobs take longer: roughly three to five weeks for a 299+ page SEO site, four to eight for a store and six to twelve for custom software. Delays almost always come from waiting on content, not on coding.",
     },
     {
       question: "Who is the best website development team in Gopalganj?",

@@ -39,7 +39,7 @@ const nangal: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Punjabi, Hindi and English pages", "Vendor and contractor software", "Your name on every account"],
   },
   quickAnswer:
-    "In Nangal, a business website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; SEO websites of 700+ pages start at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely, with no Nangal office.",
+    "In Nangal, a business website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; SEO websites of 299+ pages start at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely, with no Nangal office.",
   snapshot: [
     { label: "District", value: "Rupnagar (Ropar) district, Punjab, on the Himachal Pradesh border" },
     { label: "Origin", value: "Settled in 1948 on land acquired for the Bhakra project on the Sutlej" },
@@ -227,7 +227,7 @@ const nangal: CityContent = {
     {
       question: "How much does a website cost in Nangal?",
       answer:
-        "Our Nangal websites start at ₹10,000 for a static site of up to 100 pages. An SEO site of 700+ pages starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, languages, products and integrations, with every item listed separately.",
+        "Our Nangal websites start at ₹10,000 for a static site of up to 100 pages. An SEO site of 299+ pages starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, languages, products and integrations, with every item listed separately.",
     },
     {
       question: "Do you build Android and iOS apps for Nangal businesses?",

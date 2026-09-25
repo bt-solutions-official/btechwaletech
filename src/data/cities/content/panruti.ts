@@ -39,7 +39,7 @@ const panruti: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Tamil-first local SEO", "Jackfruit and cashew stores", "You own the code"],
   },
   quickAnswer:
-    "Panruti traders, processors and shops can get a website from ₹10,000, normally built within a fortnight. Android and iOS apps cost ₹40,000 onwards, as does WhatsApp or AI automation. SEO sites of 700+ pages begin at ₹20,000, cashew or jackfruit stores at ₹50,000 and bespoke software at ₹60,000. Our team is remote; there is no Panruti office.",
+    "Panruti traders, processors and shops can get a website from ₹10,000, normally built within a fortnight. Android and iOS apps cost ₹40,000 onwards, as does WhatsApp or AI automation. SEO sites of 299+ pages begin at ₹20,000, cashew or jackfruit stores at ₹50,000 and bespoke software at ₹60,000. Our team is remote; there is no Panruti office.",
   snapshot: [
     { label: "Location", value: "Municipality and taluk headquarters in Cuddalore district, between Cuddalore and Neyveli" },
     { label: "River", value: "Gadilam flows through the town, with the Thenpennai close by" },
@@ -155,7 +155,7 @@ const panruti: CityContent = {
       id: "website-cost-panruti",
       heading: "Website cost in Panruti: starting prices and how to compare quotes",
       paragraphs: [
-        "Price is the first question in Panruti, so here it is. For ₹10,000 onwards you get a static site that can run to 100 pages, typically finished inside a fortnight. When a trader or exporter wants a separate page for every kernel grade, product and buyer town, that becomes an SEO build of 700-plus pages, from ₹20,000 over three to five weeks. Mobile apps for both Android and iPhone begin at ₹40,000, which is also where AI automation begins. A cashew store is ₹50,000 onwards, bespoke software ₹60,000 onwards, and an SEO retainer ₹10,000 onwards per month.",
+        "Price is the first question in Panruti, so here it is. For ₹10,000 onwards you get a static site that can run to 100 pages, typically finished inside a fortnight. When a trader or exporter wants a separate page for every kernel grade, product and buyer town, that becomes an SEO build of 299-plus pages, from ₹20,000 over three to five weeks. Mobile apps for both Android and iPhone begin at ₹40,000, which is also where AI automation begins. A cashew store is ₹50,000 onwards, bespoke software ₹60,000 onwards, and an SEO retainer ₹10,000 onwards per month.",
         "Your quote grows only with the features you choose: Tamil and English versions, long product lists, courier rates, UPI checkout, staff logins or a Tally link. Copywriting is optional, and if you send your own text and phone photographs, the cost barely changes.",
         "Quotes from designers in Cuddalore, Neyveli, Puducherry and online vary widely. Ask who owns the domain, whether the site is tested on cheap phones, whether basic SEO is included, how many revisions are covered and what support costs after a year. Our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and you receive a written, itemised quote in about two working days.",
       ],
@@ -216,7 +216,7 @@ const panruti: CityContent = {
     {
       question: "What is the website cost in Panruti?",
       answer:
-        "For a Panruti business, expect ₹10,000 onwards for a static site, ₹20,000 onwards for an SEO site of 700+ pages, ₹50,000 onwards for a cashew or dry fruit store and ₹60,000 onwards for custom software. The written quote lists each item, including Tamil pages, grades, courier rates and integrations, and you approve it before any billing.",
+        "For a Panruti business, expect ₹10,000 onwards for a static site, ₹20,000 onwards for an SEO site of 299+ pages, ₹50,000 onwards for a cashew or dry fruit store and ₹60,000 onwards for custom software. The written quote lists each item, including Tamil pages, grades, courier rates and integrations, and you approve it before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Panruti businesses?",
@@ -226,7 +226,7 @@ const panruti: CityContent = {
     {
       question: "How long does it take to build a website in Panruti?",
       answer:
-        "Once your photographs, price list and contact details reach us, a basic site for a Panruti shop or trader is usually online within a fortnight. Bigger work runs longer: three to five weeks for a 700+ page SEO build, four to eight for a cashew store, six to twelve for processing software. Content that arrives late is the usual cause of delay.",
+        "Once your photographs, price list and contact details reach us, a basic site for a Panruti shop or trader is usually online within a fortnight. Bigger work runs longer: three to five weeks for a 299+ page SEO build, four to eight for a cashew store, six to twelve for processing software. Content that arrives late is the usual cause of delay.",
     },
     {
       question: "Which is the best website development team in Panruti?",
@@ -256,7 +256,7 @@ const panruti: CityContent = {
     {
       question: "Panruti-la website seiya evvalavu selavagum?",
       answer:
-        "Engaludaiya simple website ₹10,000-il irundhu thodangugiradhu, pothuvaaga onru allathu irandu vaarathil ready aagum. 700+ page SEO website ₹20,000 muthal, Android, iOS app ₹40,000 muthal, online store ₹50,000 muthal. Ungal pages, features-ai poruthu final quote ezhuthil anuppuvom.",
+        "Engaludaiya simple website ₹10,000-il irundhu thodangugiradhu, pothuvaaga onru allathu irandu vaarathil ready aagum. 299+ page SEO website ₹20,000 muthal, Android, iOS app ₹40,000 muthal, online store ₹50,000 muthal. Ungal pages, features-ai poruthu final quote ezhuthil anuppuvom.",
     },
     {
       question: "Panruti me website banwane ka kharcha kitna hai?",

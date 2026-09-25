@@ -159,7 +159,7 @@ const content: CityContent = {
       paragraphs: [
         "SEO for Gangtok businesses means appearing when travellers search specific needs, such as “hotel with Kanchenjunga view Gangtok” or “Gangtok to Lachung package price”, ranking on Google Maps for local searches like “bakery near MG Marg”, and being described accurately when people ask ChatGPT or Google's AI Overviews for recommendations.",
         "We build pages around those specific searches, add structured data for hotels, tours, restaurants and local businesses, and keep the name, address and phone consistent across Google Business Profile and directories. Clear pages that answer one question each are what both search engines and AI assistants quote.",
-        "The SEO website plan from ₹20,000 builds 700+ pages, useful for travel operators covering dozens of routes and add-ons. Monthly SEO from ₹10,000 adds technical fixes, content and Search Console reporting. We never guarantee rankings, especially against big travel portals. Read more on our <a href='/services/seo-services/'>SEO services page</a>.",
+        "The SEO website plan from ₹20,000 builds 299+ pages, useful for travel operators covering dozens of routes and add-ons. Monthly SEO from ₹10,000 adds technical fixes, content and Search Console reporting. We never guarantee rankings, especially against big travel portals. Read more on our <a href='/services/seo-services/'>SEO services page</a>.",
       ],
     },
     {
@@ -184,7 +184,7 @@ const content: CityContent = {
       id: "gangtok-software-cost",
       heading: "How much does software development cost in Gangtok?",
       paragraphs: [
-        "Software development for Gangtok businesses with BtechWaleTech starts at ₹60,000 for custom software such as travel agency systems or school portals, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store, ₹20,000 for a 700+ page SEO website and ₹10,000 for a static website, with monthly SEO from ₹10,000 and maintenance from ₹8,000.",
+        "Software development for Gangtok businesses with BtechWaleTech starts at ₹60,000 for custom software such as travel agency systems or school portals, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store, ₹20,000 for a 299+ page SEO website and ₹10,000 for a static website, with monthly SEO from ₹10,000 and maintenance from ₹8,000.",
         "These are starting prices. A single-hotel booking engine sits near the lower end; a travel company's package builder, voucher system, driver app and dashboard is a larger build, often split into phases. Every quote is itemised so you can decide what to do now and what to leave for later.",
         "Payments are in INR only, by UPI QR code or direct bank transfer, tied to milestones. Details are on our <a href='/pricing/'>pricing page</a>.",
       ],

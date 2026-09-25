@@ -34,7 +34,7 @@ const puri: CityContent = {
     pills: ["Sites from ₹10,000", "Odia, Bengali, Telugu and Hindi visitors", "Booking enquiries on WhatsApp", "Pattachitra and appliqué stores", "Your domain, your code"],
   },
   quickAnswer:
-    "A Puri business website with us starts at ₹10,000, and a 700+ page SEO website starts at ₹20,000. Hotel booking and store builds begin from ₹50,000, custom software from ₹60,000. We are a remote three-engineer team with no office in Puri, and five months of maintenance come free after launch.",
+    "A Puri business website with us starts at ₹10,000, and a 299+ page SEO website starts at ₹20,000. Hotel booking and store builds begin from ₹50,000, custom software from ₹60,000. We are a remote three-engineer team with no office in Puri, and five months of maintenance come free after launch.",
   snapshot: [
     { label: "Economy", value: "Tourism supports roughly 80 per cent of the city’s economy" },
     { label: "Landmark", value: "Shree Jagannath Temple, begun in the 12th century, on a 10.7-acre complex" },
@@ -71,7 +71,7 @@ const puri: CityContent = {
       id: "puri-website-cost",
       heading: "Website costs for Puri hotels and shops",
       paragraphs: [
-        "Our starting prices are public. A business website of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks, which suits a guest house, restaurant or shop. An SEO website with 700+ pages, with pages for every room type, nearby attraction, travel route and common question, starts at ₹20,000 and takes three to five weeks. An online store or a site with online booking and payment starts from ₹50,000, and a custom booking or property management system starts from ₹60,000.",
+        "Our starting prices are public. A business website of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks, which suits a guest house, restaurant or shop. An SEO website with 299+ pages, with pages for every room type, nearby attraction, travel route and common question, starts at ₹20,000 and takes three to five weeks. An online store or a site with online booking and payment starts from ₹50,000, and a custom booking or property management system starts from ₹60,000.",
         "AI and WhatsApp automation starts at ₹40,000. Monthly SEO starts at ₹10,000 a month, and maintenance at ₹8,000 a month after the first five free months. The complete list is on our <a href=\"/pricing/\">pricing page</a>.",
         "The final figure depends on scope. A ten-room lodge with good photos is fast to build. A hotel group with three properties, four languages and a live availability calendar needs more. Every item appears in the quote, and nothing is billed before you approve it in writing.",
       ],
@@ -220,12 +220,12 @@ const puri: CityContent = {
     {
       question: "How much does a hotel or business website cost in Puri?",
       answer:
-        "With us, a business or guest house website starts at ₹10,000, and an SEO website with 700+ pages starts at ₹20,000. Sites with online booking or an online store start from ₹50,000, and custom booking systems from ₹60,000. Compare quotes carefully, especially domain ownership and support after launch.",
+        "With us, a business or guest house website starts at ₹10,000, and an SEO website with 299+ pages starts at ₹20,000. Sites with online booking or an online store start from ₹50,000, and custom booking systems from ₹60,000. Compare quotes carefully, especially domain ownership and support after launch.",
     },
     {
       question: "Puri re gote website tiari karibaku kete kharcha heba?",
       answer:
-        "Ama paakharu sadharana business website ₹10,000 ru arambha hue. 700+ page thiba SEO website ₹20,000 ru au online store ₹50,000 ru arambha. Kama suru karibara purbaru likhita itemised quote pathaibu, au apananka sammati bina kounasi bill heba nahin.",
+        "Ama paakharu sadharana business website ₹10,000 ru arambha hue. 299+ page thiba SEO website ₹20,000 ru au online store ₹50,000 ru arambha. Kama suru karibara purbaru likhita itemised quote pathaibu, au apananka sammati bina kounasi bill heba nahin.",
     },
     {
       question: "Do you have an office in Puri?",
@@ -255,7 +255,7 @@ const puri: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A guest house or shop website takes one to two weeks, a 700+ page SEO website three to five weeks, a booking site or store four to eight weeks and a custom system six to twelve weeks. We recommend starting at least two months before a major festival season.",
+        "A guest house or shop website takes one to two weeks, a 299+ page SEO website three to five weeks, a booking site or store four to eight weeks and a custom system six to twelve weeks. We recommend starting at least two months before a major festival season.",
     },
     {
       question: "What can WhatsApp automation do for a Puri hotel?",

@@ -195,7 +195,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Local visibility in India runs through two places: Google search results and Google Maps. A website helps both, but only if it is built with clear location signals.`,
         `We add your full address, phone and hours in the same format everywhere, schema markup describing your business type and service area, and a map embed on the contact page. Your Google Business Profile should link to the site, and the site should link back. If you serve several towns, a dedicated page per town with real details, such as how you deliver there or which branch serves it, works far better than one page listing every city name.`,
-        `For businesses covering a whole state or many districts, an SEO website with hundreds of structured location pages is the usual answer. That is the job our 700+ page plan exists for. Remember that nobody can guarantee rankings; what a freelance website developer in India can promise is a site that gives Google clean, useful signals. Our <a href='/local-seo-expert/'>local SEO</a> page covers the Maps side in depth.`,
+        `For businesses covering a whole state or many districts, an SEO website with hundreds of structured location pages is the usual answer. That is the job our 299+ page plan exists for. Remember that nobody can guarantee rankings; what a freelance website developer in India can promise is a site that gives Google clean, useful signals. Our <a href='/local-seo-expert/'>local SEO</a> page covers the Maps side in depth.`,
       ],
     },
     {
@@ -278,7 +278,7 @@ const content: FreelanceContent = {
       columns: ["Project", "Starts at", "Timeline", "Indian-market features included"],
       rows: [
         ["Business website, up to 100 pages", `From ${P.site}`, "1–2 weeks", "WhatsApp and call buttons, Maps, phone-first layout"],
-        ["SEO website, 700+ pages", `From ${P.seoSite}`, "3–5 weeks", "Town and district pages from a data sheet"],
+        ["SEO website, 299+ pages", `From ${P.seoSite}`, "3–5 weeks", "Town and district pages from a data sheet"],
         ["Online store", `From ${P.shop}`, "4–8 weeks", "UPI and card checkout, pincode rules, GST lines"],
         ["Portal or web app", `From ${P.software}`, "6–12 weeks", "Logins, fee collection, bookings"],
         ["Android and iOS app", `From ${P.app}`, "6–10 weeks", "Same data as the website, published in your accounts"],
@@ -354,7 +354,7 @@ const content: FreelanceContent = {
   },
   faqHeading: "Freelance website developer in India: common questions",
   faqs: [
-    { question: "How much does a freelance website developer in India charge?", answer: `Most quote per project. With BtechWaleTech a business website of up to 100 pages starts at ${P.site}, an online store at ${P.shop}, and an SEO website with 700+ pages at ${P.seoSite}. Extra language versions, catalogue work and payment rules add to the base figure. You receive an itemised quote before paying anything.` },
+    { question: "How much does a freelance website developer in India charge?", answer: `Most quote per project. With BtechWaleTech a business website of up to 100 pages starts at ${P.site}, an online store at ${P.shop}, and an SEO website with 299+ pages at ${P.seoSite}. Extra language versions, catalogue work and payment rules add to the base figure. You receive an itemised quote before paying anything.` },
     { question: "Can you make my website in Hindi as well as English?", answer: "Yes. We build a separate Hindi version of the pages you choose, with its own web addresses, proper language tags so Google shows the right version, and fonts that render cleanly on older phones. Most clients start with the home page, main services and contact page in Hindi, then add more later if enquiries justify it." },
     { question: "Do you build websites in Tamil, Marathi, Bengali or other regional languages?", answer: "Yes, for any language with standard Unicode fonts, including Tamil, Telugu, Kannada, Malayalam, Marathi, Gujarati, Bengali, Odia and Punjabi. We handle layout, fonts and technical tags. For the wording itself, we arrange a draft and ask a native speaker on your side to review it, because tone matters for trust." },
     { question: "Can customers pay by UPI on my website?", answer: `Yes. For online stores we connect a licensed payment provider that you sign up with, so customers can pay by UPI, cards or net banking and money settles directly in your bank account. For simple fee or booking pages, a UPI payment link may be enough. Stores start at ${P.shop}.` },

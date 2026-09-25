@@ -34,7 +34,7 @@ const saharanpur: CityContent = {
     pills: ["Sites from ₹10,000", "Wood craft export catalogues", "UPI online stores", "Hindi and Urdu pages", "WhatsApp enquiry logging"],
   },
   quickAnswer:
-    "For Saharanpur businesses, our static website starts at ₹10,000 and is ready in one to two weeks, a 700+ page SEO site starts at ₹20,000, and an online store for wood craft or other products starts at ₹50,000. We are a remote team of three engineers with no office in the city, and maintenance is free for five months.",
+    "For Saharanpur businesses, our static website starts at ₹10,000 and is ready in one to two weeks, a 299+ page SEO site starts at ₹20,000, and an online store for wood craft or other products starts at ₹50,000. We are a remote team of three engineers with no office in the city, and maintenance is free for five months.",
   snapshot: [
     { label: "Signature craft", value: "Saharanpur Wood Craft, GI-registered in 2014, known for carved sheesham furniture, screens, boxes and jaali work" },
     { label: "Wood market", value: "Lakkad Bazaar in the old city, lined with carving workshops and showrooms" },
@@ -72,12 +72,12 @@ const saharanpur: CityContent = {
       heading: "How much a website costs in Saharanpur",
       paragraphs: [
         "In Saharanpur you will find website offers starting at two or three thousand rupees and going up to fifty thousand or more from agencies in Delhi or Dehradun. The cheapest ones usually mean a template on the designer's hosting, no search setup, and no clear handover of passwords. The expensive ones often charge for meetings, office costs and design flourishes that add little for a workshop or a school.",
-        "Our starting prices are published. A static site of up to 100 pages starts at ₹10,000 and is normally ready in one to two weeks. A 700+ page SEO website, with separate pages for each product type or service, starts at ₹20,000 and takes three to five weeks. An online store with UPI, card payments and shipping rules starts at ₹50,000. Custom web applications start at ₹60,000, AI and WhatsApp automation at ₹40,000, and monthly SEO at ₹10,000. Details are on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our starting prices are published. A static site of up to 100 pages starts at ₹10,000 and is normally ready in one to two weeks. A 299+ page SEO website, with separate pages for each product type or service, starts at ₹20,000 and takes three to five weeks. An online store with UPI, card payments and shipping rules starts at ₹50,000. Custom web applications start at ₹60,000, AI and WhatsApp automation at ₹40,000, and monthly SEO at ₹10,000. Details are on our <a href=\"/pricing/\">pricing page</a>.",
         "For wood craft businesses, the biggest cost driver is the product catalogue: how many items, how many photos and how much description each needs. A workshop with forty signature pieces costs less to launch than one with four hundred. We quote line by line, usually within two working days, and nothing is billed until you approve in writing.",
       ],
       list: [
         "<strong>Static website, from ₹10,000:</strong> up to 100 pages with enquiry form and WhatsApp button. Suits clinics, lawyers, tutors and small shops.",
-        "<strong>SEO website, from ₹20,000:</strong> 700+ pages for products, services and areas, with schema and sitemap.",
+        "<strong>SEO website, from ₹20,000:</strong> 299+ pages for products, services and areas, with schema and sitemap.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart, UPI and card checkout, domestic and international shipping options.",
         "<strong>Custom web app, from ₹60,000:</strong> order tracking, artisan job cards, inventory and dashboards.",
       ],
@@ -208,12 +208,12 @@ const saharanpur: CityContent = {
     {
       question: "How much does a website cost in Saharanpur?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Local quotes vary widely. Compare whether the price includes SEO setup, whether the domain and hosting will be in your name, and what support you get after launch.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Local quotes vary widely. Compare whether the price includes SEO setup, whether the domain and hosting will be in your name, and what support you get after launch.",
     },
     {
       question: "Saharanpur me website banwane me kitna kharcha aata hai?",
       answer:
-        "Humare saath ek simple business website ₹10,000 se shuru hoti hai, 700+ pages wali SEO website ₹20,000 se, aur lakdi ke saamaan ya kisi bhi product ka online store ₹50,000 se. Aakhri keemat pages, products aur features par nirbhar karti hai. Kaam shuru hone se pehle aapko likhit mein poora itemised quote milta hai.",
+        "Humare saath ek simple business website ₹10,000 se shuru hoti hai, 299+ pages wali SEO website ₹20,000 se, aur lakdi ke saamaan ya kisi bhi product ka online store ₹50,000 se. Aakhri keemat pages, products aur features par nirbhar karti hai. Kaam shuru hone se pehle aapko likhit mein poora itemised quote milta hai.",
     },
     {
       question: "Do you have an office in Saharanpur?",
@@ -243,7 +243,7 @@ const saharanpur: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static website takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Product photos and descriptions are usually the slowest part, so we give you a checklist and draft text to correct rather than waiting for everything at once.",
+        "A static website takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Product photos and descriptions are usually the slowest part, so we give you a checklist and draft text to correct rather than waiting for everything at once.",
     },
     {
       question: "How long does SEO take to show results in Saharanpur?",

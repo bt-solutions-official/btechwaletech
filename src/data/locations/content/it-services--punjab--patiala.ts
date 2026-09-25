@@ -165,7 +165,7 @@ const content: CityContent = {
       paragraphs: [
         "An online store lets Patiala makers of juttis, salwar suits, parandas and phulkari reach buyers across India and the diaspora, not just visitors to the old bazaars. Stores start at ₹50,000 and take four to eight weeks, with size guides, colour variants, UPI and card checkout through a payment gateway account in your name, and shipping rules.",
         "Getting found requires SEO. We build category and product pages with honest descriptions and clear photos, add product schema, and write helpful guides, for example on choosing jutti sizes or caring for phulkari. For local businesses, we set up Google Business Profile and neighbourhood pages.",
-        "Monthly SEO starts at ₹10,000 and a 700+ page SEO website at ₹20,000. Expect three to six months for steady results; we never guarantee rankings. For the website-focused view of the city, see our <a href='/patiala/'>Patiala page</a>, and for service detail, <a href='/services/seo-services/'>SEO services</a>.",
+        "Monthly SEO starts at ₹10,000 and a 299+ page SEO website at ₹20,000. Expect three to six months for steady results; we never guarantee rankings. For the website-focused view of the city, see our <a href='/patiala/'>Patiala page</a>, and for service detail, <a href='/services/seo-services/'>SEO services</a>.",
       ],
     },
     {
@@ -181,7 +181,7 @@ const content: CityContent = {
       id: "cost-patiala",
       heading: "How much do freelance software developers in Patiala charge?",
       paragraphs: [
-        "BtechWaleTech's starting prices in Patiala are ₹10,000 for a website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI or WhatsApp automation, ₹50,000 for an online store and ₹60,000 for custom software such as an institute ERP or clinic system. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000.",
+        "BtechWaleTech's starting prices in Patiala are ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI or WhatsApp automation, ₹50,000 for an online store and ₹60,000 for custom software such as an institute ERP or clinic system. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000.",
         "Your final price depends on modules, users, branches and integrations. A single-branch coaching system sits near the starting figure; a multi-branch school with transport, hostel and exam modules costs more. The quote is itemised so you can phase work.",
         "We accept payment only in INR through UPI by scanning our QR code, or by direct bank transfer to our bank account. Milestones are paid after you review working software on a preview link.",
       ],
@@ -342,7 +342,7 @@ const content: CityContent = {
     {
       question: "Do you build websites as well as software?",
       answer:
-        "Yes. Websites start at ₹10,000, 700+ page SEO websites at ₹20,000 and online stores at ₹50,000. We usually connect the website to your software or CRM so every enquiry lands in one place and can be followed up automatically.",
+        "Yes. Websites start at ₹10,000, 299+ page SEO websites at ₹20,000 and online stores at ₹50,000. We usually connect the website to your software or CRM so every enquiry lands in one place and can be followed up automatically.",
     },
   ],
   nearby: ["mohali", "zirakpur", "chandigarh", "khanna", "malerkotla", "ludhiana", "barnala", "bathinda"],

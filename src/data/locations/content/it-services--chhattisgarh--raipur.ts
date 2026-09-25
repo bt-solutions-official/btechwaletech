@@ -146,7 +146,7 @@ const content: CityContent = {
       heading: "Corporate websites that support B2B sales from Raipur",
       paragraphs: [
         "A corporate website for a Raipur manufacturer or service firm should help a distant buyer trust the company enough to send an enquiry: it needs clear product and capacity information, certifications, plant photographs, client sectors served and an easy way to request a quotation. A website that only says 'quality products at best prices' does none of that.",
-        "We build fast, well-structured corporate sites with product and capability pages, downloadable catalogues, enquiry forms that ask for grade, quantity and delivery location, and schema markup that helps search engines and AI assistants understand the business. Sites start at ₹10,000 for up to 100 pages and go live in one to two weeks; larger 700+ page SEO sites start at ₹20,000. See <a href='/services/web-development/'>web development</a> for more.",
+        "We build fast, well-structured corporate sites with product and capability pages, downloadable catalogues, enquiry forms that ask for grade, quantity and delivery location, and schema markup that helps search engines and AI assistants understand the business. Sites start at ₹10,000 for up to 100 pages and go live in one to two weeks; larger 299+ page SEO sites start at ₹20,000. See <a href='/services/web-development/'>web development</a> for more.",
       ],
     },
     {
@@ -218,7 +218,7 @@ const content: CityContent = {
       id: "cost-timeline-raipur",
       heading: "What do freelance software developers in Raipur cost, and how long does it take?",
       paragraphs: [
-        "BtechWaleTech's starting prices for Raipur are ₹60,000 for custom software, ERP-style tools or web apps (six to twelve weeks), ₹40,000 for AI automation (two to four weeks), ₹50,000 for an online store (four to eight weeks), ₹10,000 for a corporate website (one to two weeks) and ₹20,000 for a 700+ page SEO site. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000. Android and iOS apps start at ₹40,000 and take six to ten weeks.",
+        "BtechWaleTech's starting prices for Raipur are ₹60,000 for custom software, ERP-style tools or web apps (six to twelve weeks), ₹40,000 for AI automation (two to four weeks), ₹50,000 for an online store (four to eight weeks), ₹10,000 for a corporate website (one to two weeks) and ₹20,000 for a 299+ page SEO site. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000. Android and iOS apps start at ₹40,000 and take six to ten weeks.",
         "Scope drives cost: user roles, plants or branches, reports, integrations with Tally, GPS, weighbridges or payment gateways, offline apps and data migration. Every project includes five months of free maintenance after launch, covering fixes, updates, backups and small changes. We answer on WhatsApp seven days a week, and urgent issues come first. Read more <a href='/about/'>about us</a> or compare with <a href='/it-services/chhattisgarh/bhilai/'>Bhilai</a> and <a href='/it-services/chhattisgarh/durg/'>Durg</a>.",
       ],
     },

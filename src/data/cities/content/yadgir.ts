@@ -39,7 +39,7 @@ const yadgir: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Kannada, Urdu and English pages", "Kadechur supplier sites", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Yadgir business, a website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps and AI or WhatsApp automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Yadgir office.",
+    "For a Yadgir business, a website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps and AI or WhatsApp automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Yadgir office.",
   snapshot: [
     { label: "Status", value: "Headquarters of Yadgir district, formed from Kalaburagi district on 10 April 2010" },
     { label: "River", value: "The Bhima flows past the town; the Krishna crosses the south of the district" },
@@ -157,7 +157,7 @@ const yadgir: CityContent = {
       id: "website-cost-yadgir",
       heading: "Website cost in Yadgir: starting prices and what moves the quote",
       paragraphs: [
-        "Our published starting prices apply in Yadgir: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 700+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000 in two to four weeks, an online store from ₹50,000 in four to eight weeks, and custom software from ₹60,000 in six to twelve weeks. Monthly SEO starts at ₹10,000 a month.",
+        "Our published starting prices apply in Yadgir: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 299+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000 in two to four weeks, an online store from ₹50,000 in four to eight weeks, and custom software from ₹60,000 in six to twelve weeks. Monthly SEO starts at ₹10,000 a month.",
         "Several things push a quote up: more pages, content in three languages, large product lists, logins, payments, courier integration and data imported from old registers. If you give us your text and photographs, the cost stays close to the starting figure. If we write, translate and organise content, that appears as a separate line so you can decide.",
         "Quotes from local designers vary widely, so compare what is included rather than the headline number. Ask whose name the domain is registered in, who holds the hosting login, whether mobile testing and basic SEO are part of the job, how many revision rounds you get, and who fixes things after launch.",
         "Our <a href=\"/pricing/\">pricing page</a> lists every starting point. Your itemised quote reaches you in about two working days after the first call.",
@@ -219,7 +219,7 @@ const yadgir: CityContent = {
     {
       question: "What is the website cost in Yadgir?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. The final figure depends on pages, languages, products and integrations, and you get it itemised in writing before anything is billed.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices. The final figure depends on pages, languages, products and integrations, and you get it itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Yadgir businesses?",
@@ -229,7 +229,7 @@ const yadgir: CityContent = {
     {
       question: "How long does it take to make a website in Yadgir?",
       answer:
-        "A static site usually goes live one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. The biggest factor in speed is how quickly content and approvals come from your side.",
+        "A static site usually goes live one to two weeks after we receive your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. The biggest factor in speed is how quickly content and approvals come from your side.",
     },
     {
       question: "Which is the best website development team in Yadgir?",
@@ -259,7 +259,7 @@ const yadgir: CityContent = {
     {
       question: "Yadgir me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek se do hafte mein live ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapke features ke hisaab se likhit quote milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek se do hafte mein live ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapke features ke hisaab se likhit quote milta hai.",
     },
     {
       question: "You have no office in Yadgir. How does remote work stay safe?",

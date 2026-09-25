@@ -318,7 +318,7 @@ const content: FreelanceContent = {
       columns: ["Project", "India, from", "Abroad, from", "Usual timeline"],
       rows: [
         ["NGO website with donation page", `${P.site}`, `${P.siteUsd}`, "1–2 weeks"],
-        ["Cause-focused SEO website, 700+ pages", `${P.seoSite}`, `${P.seoSiteUsd}`, "3–5 weeks"],
+        ["Cause-focused SEO website, 299+ pages", `${P.seoSite}`, `${P.seoSiteUsd}`, "3–5 weeks"],
         ["Donor management system", `${P.software}`, `${P.softwareUsd}`, "6–12 weeks"],
         ["WhatsApp thank-yous and updates", `${P.ai}`, `${P.aiUsd}`, "2–4 weeks"],
         ["Monthly SEO", `${P.seo}`, `${P.seoUsd}`, "Ongoing"],

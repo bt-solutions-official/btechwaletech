@@ -35,7 +35,7 @@ const machilipatnam: CityContent = {
     pills: ["Websites from ₹10,000", "Jewellery catalogues", "Telugu and English pages", "Stores with UPI checkout", "Wholesale orders on WhatsApp"],
   },
   quickAnswer:
-    "A Machilipatnam business website starts at ₹10,000 with us and is usually ready in one to two weeks. Large catalogue sites of 700+ pages start at ₹20,000, online stores for jewellery or Kalamkari start at ₹50,000 and WhatsApp automation at ₹40,000. We are a remote team without a Machilipatnam office, and maintenance is free for five months.",
+    "A Machilipatnam business website starts at ₹10,000 with us and is usually ready in one to two weeks. Large catalogue sites of 299+ pages start at ₹20,000, online stores for jewellery or Kalamkari start at ₹50,000 and WhatsApp automation at ₹40,000. We are a remote team without a Machilipatnam office, and maintenance is free for five months.",
   snapshot: [
     { label: "Administration", value: "Headquarters of Krishna district, about 60 km from Vijayawada on the Bay of Bengal coast" },
     { label: "History", value: "Old port known as Masulipatnam or Bandar; Dutch and English traders set up here, the English in 1611" },
@@ -94,12 +94,12 @@ const machilipatnam: CityContent = {
       heading: "What a website costs in Machilipatnam",
       paragraphs: [
         "In Machilipatnam you will find quotes from a few thousand rupees for a template to large sums from agencies in Vijayawada or Hyderabad. The cheap version rarely includes search setup, and the expensive one often includes features you will never use. Our starting prices are on the <a href=\"/pricing/\">pricing page</a> for anyone to see.",
-        "A static site of up to 100 pages starts at <strong>₹10,000</strong> and is ready in one to two weeks, suitable for a shop, clinic, school or small trader. A 700+ page SEO site for a jewellery or Kalamkari catalogue starts at <strong>₹20,000</strong> and takes three to five weeks. WhatsApp and AI automation begins at <strong>₹40,000</strong>, online stores at <strong>₹50,000</strong> and custom software at <strong>₹60,000</strong>. Monthly SEO starts at ₹10,000, and maintenance from ₹8,000 a month after five free months.",
+        "A static site of up to 100 pages starts at <strong>₹10,000</strong> and is ready in one to two weeks, suitable for a shop, clinic, school or small trader. A 299+ page SEO site for a jewellery or Kalamkari catalogue starts at <strong>₹20,000</strong> and takes three to five weeks. WhatsApp and AI automation begins at <strong>₹40,000</strong>, online stores at <strong>₹50,000</strong> and custom software at <strong>₹60,000</strong>. Monthly SEO starts at ₹10,000, and maintenance from ₹8,000 a month after five free months.",
         "Your final price depends on page count, product count, features and how much content you already have. The quote arrives in about two working days.",
       ],
       list: [
         "<strong>Shop, clinic or school site, from ₹10,000:</strong> up to 100 pages, Telugu and English, maps and WhatsApp.",
-        "<strong>Design catalogue, from ₹20,000:</strong> 700+ pages for jewellery codes or fabric designs.",
+        "<strong>Design catalogue, from ₹20,000:</strong> 299+ pages for jewellery codes or fabric designs.",
         "<strong>Reseller WhatsApp automation, from ₹40,000:</strong> design sharing, order capture and follow-ups.",
         "<strong>Online store, from ₹50,000:</strong> UPI and card checkout, shipping rules, order alerts.",
       ],
@@ -220,12 +220,12 @@ const machilipatnam: CityContent = {
     {
       question: "How much does a website cost in Machilipatnam?",
       answer:
-        "Our websites start at ₹10,000 for a static site, ₹20,000 for a 700+ page SEO site, ₹40,000 for AI automation, ₹50,000 for an online store and ₹60,000 for custom software. These are starting prices. You receive an itemised quote in around two working days and nothing is billed until you approve it.",
+        "Our websites start at ₹10,000 for a static site, ₹20,000 for a 299+ page SEO site, ₹40,000 for AI automation, ₹50,000 for an online store and ₹60,000 for custom software. These are starting prices. You receive an itemised quote in around two working days and nothing is billed until you approve it.",
     },
     {
       question: "Machilipatnam lo website cheyinchukovadaniki entha kharchu avutundi?",
       answer:
-        "Chinna shop leda clinic website ₹10,000 nundi modalavutundi. Designs ekkuva unna jewellery leda Kalamkari catalogue kosam 700+ pages SEO website ₹20,000 nundi modalu. Pani modalupettaka mundu prati page, feature raasina quote pamputamu. Meeru approve cheyyakunda emi bill cheyyamu.",
+        "Chinna shop leda clinic website ₹10,000 nundi modalavutundi. Designs ekkuva unna jewellery leda Kalamkari catalogue kosam 299+ pages SEO website ₹20,000 nundi modalu. Pani modalupettaka mundu prati page, feature raasina quote pamputamu. Meeru approve cheyyakunda emi bill cheyyamu.",
     },
     {
       question: "Do you have an office in Machilipatnam?",
@@ -250,7 +250,7 @@ const machilipatnam: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "Static sites usually take one to two weeks, 700+ page SEO sites three to five weeks, automation two to four weeks, online stores four to eight weeks and custom software six to twelve. Delays usually come from waiting for photos and product details, so we share a checklist at the start.",
+        "Static sites usually take one to two weeks, 299+ page SEO sites three to five weeks, automation two to four weeks, online stores four to eight weeks and custom software six to twelve. Delays usually come from waiting for photos and product details, so we share a checklist at the start.",
     },
     {
       question: "How can WhatsApp automation help jewellery resellers?",

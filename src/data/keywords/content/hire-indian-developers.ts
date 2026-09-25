@@ -163,7 +163,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "What does it cost to hire Indian developers for a project?",
       paragraphs: [
-        `Project prices, not hourly guesses, give you the clearest answer. Our starting points in US dollars: a static website of up to 100 pages from ${P.siteUsd}; an SEO website with 700+ pages from ${P.seoSiteUsd}; an online store from ${P.shopUsd}; a custom web app or portal from ${P.softwareUsd}; an Android plus iOS app from ${P.appUsd}; AI automation from ${P.aiUsd}. Monthly SEO starts at ${P.seoUsd} and maintenance, after the free five months, from ${P.careUsd}.`,
+        `Project prices, not hourly guesses, give you the clearest answer. Our starting points in US dollars: a static website of up to 100 pages from ${P.siteUsd}; an SEO website with 299+ pages from ${P.seoSiteUsd}; an online store from ${P.shopUsd}; a custom web app or portal from ${P.softwareUsd}; an Android plus iOS app from ${P.appUsd}; AI automation from ${P.aiUsd}. Monthly SEO starts at ${P.seoUsd} and maintenance, after the free five months, from ${P.careUsd}.`,
         `When you hire Indian developers on the open market, quotes for the same brief vary enormously. The spread reflects experience, whether design is original or a bought template, how much testing is included, who writes content, and whether support after launch is part of the price. It has little to do with which Indian city the developer lives in.`,
         `When you compare offers, line up scope first. A quote that looks half the price may simply leave out the admin panel, the email templates, or the three rounds of changes you assumed were included. Our <a href='/freelance-web-developer-rates/'>guide to hourly and project rates</a> shows how to normalise quotes before comparing them.`,
       ],
@@ -334,7 +334,7 @@ const content: FreelanceContent = {
       columns: ["Project", "Starts at (USD)", "Starts at (INR)", "Typical timeline"],
       rows: [
         ["Static website, up to 100 pages", `From ${P.siteUsd}`, `From ${P.site}`, "1–2 weeks"],
-        ["SEO website, 700+ pages", `From ${P.seoSiteUsd}`, `From ${P.seoSite}`, "3–5 weeks"],
+        ["SEO website, 299+ pages", `From ${P.seoSiteUsd}`, `From ${P.seoSite}`, "3–5 weeks"],
         ["Online store", `From ${P.shopUsd}`, `From ${P.shop}`, "4–8 weeks"],
         ["Web app, portal or SaaS MVP", `From ${P.softwareUsd}`, `From ${P.software}`, "6–12 weeks"],
         ["Android & iOS app", `From ${P.appUsd}`, `From ${P.app}`, "6–10 weeks"],

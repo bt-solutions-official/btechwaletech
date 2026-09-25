@@ -35,7 +35,7 @@ const kolkata: CityContent = {
     pills: ["Websites from ₹10,000", "Bengali and English SEO", "Stores with UPI", "WhatsApp order flows", "Portals and dashboards"],
   },
   quickAnswer:
-    "In Kolkata, our business websites start at ₹10,000 and a 700+ page website built for Google search starts at ₹20,000, usually live in one to five weeks. Online stores begin at ₹50,000. We are a remote freelance team of three engineers with no Kolkata office, and each project includes five months of maintenance free.",
+    "In Kolkata, our business websites start at ₹10,000 and a 299+ page website built for Google search starts at ₹20,000, usually live in one to five weeks. Online stores begin at ₹50,000. We are a remote freelance team of three engineers with no Kolkata office, and each project includes five months of maintenance free.",
   snapshot: [
     { label: "Business districts", value: "BBD Bag and Dalhousie, Park Street, Camac Street, Esplanade and Chowringhee" },
     { label: "IT hubs", value: "Salt Lake Sector V and New Town, together the main technology cluster in eastern India" },
@@ -73,12 +73,12 @@ const kolkata: CityContent = {
       heading: "How much does a website cost in Kolkata?",
       paragraphs: [
         "A five-page site in Kolkata can be quoted at ₹3,000 by one person and ₹50,000 by another, and the difference is almost never explained. Cheap offers often skip SEO entirely, host the site on the developer's own account and charge for every small change. Expensive ones often include a lot of overhead that does nothing for your site.",
-        "Our starting prices are published openly. A static website of up to 100 pages costs from ₹10,000 and takes one to two weeks. A 700+ page SEO website, with separate pages for each service and each area you genuinely serve, costs from ₹20,000 and takes three to five weeks. An online store with UPI, cards and order emails costs from ₹50,000 and takes four to eight weeks. Custom web applications such as dealer portals or order systems start from ₹60,000. Automation starts from ₹40,000 and monthly SEO from ₹10,000.",
+        "Our starting prices are published openly. A static website of up to 100 pages costs from ₹10,000 and takes one to two weeks. A 299+ page SEO website, with separate pages for each service and each area you genuinely serve, costs from ₹20,000 and takes three to five weeks. An online store with UPI, cards and order emails costs from ₹50,000 and takes four to eight weeks. Custom web applications such as dealer portals or order systems start from ₹60,000. Automation starts from ₹40,000 and monthly SEO from ₹10,000.",
         "What moves the price is scope: the number of pages, the number of products, whether you have photographs and whether any integrations are needed. You receive an itemised quote in about two working days, and we bill nothing until you have approved it in writing.",
       ],
       list: [
         "<strong>Static website, from ₹10,000:</strong> up to 100 pages, enquiry form, mobile layout, basic SEO. Suits chambers, clinics, consultants and small shops.",
-        "<strong>SEO website, from ₹20,000:</strong> 700+ pages, schema, sitemap, area pages. Suits firms that want steady enquiries from Google.",
+        "<strong>SEO website, from ₹20,000:</strong> 299+ pages, schema, sitemap, area pages. Suits firms that want steady enquiries from Google.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart, UPI and card payments. Suits tea, sweets, handloom and jewellery brands.",
         "<strong>Web application, from ₹60,000:</strong> logins, roles, reports and integrations. Suits wholesalers, distributors and service firms.",
       ],
@@ -227,12 +227,12 @@ const kolkata: CityContent = {
     {
       question: "How much does a website cost in Kolkata?",
       answer:
-        "Our static websites start from ₹10,000, SEO websites with 700+ pages from ₹20,000, online stores from ₹50,000 and custom web applications from ₹60,000. Kolkata quotes for similar work range roughly from ₹3,000 to ₹50,000. Check whether a quote includes SEO setup, hosting in your name and support after launch before comparing numbers.",
+        "Our static websites start from ₹10,000, SEO websites with 299+ pages from ₹20,000, online stores from ₹50,000 and custom web applications from ₹60,000. Kolkata quotes for similar work range roughly from ₹3,000 to ₹50,000. Check whether a quote includes SEO setup, hosting in your name and support after launch before comparing numbers.",
     },
     {
       question: "Kolkata te ekta website banate koto khoroch hoy?",
       answer:
-        "Amader kache ekta simple business website ₹10,000 theke shuru. 700+ page-er SEO website ₹20,000 theke, ar online store ₹50,000 theke. Kotogulo page, ki ki feature, ar content ready ache kina, tar upor final dam depend kore. Kaj shuru korar age apni puro itemised quote paben.",
+        "Amader kache ekta simple business website ₹10,000 theke shuru. 299+ page-er SEO website ₹20,000 theke, ar online store ₹50,000 theke. Kotogulo page, ki ki feature, ar content ready ache kina, tar upor final dam depend kore. Kaj shuru korar age apni puro itemised quote paben.",
     },
     {
       question: "Do you have an office in Kolkata?",
@@ -242,7 +242,7 @@ const kolkata: CityContent = {
     {
       question: "How long does a website take to build?",
       answer:
-        "Static websites usually take one to two weeks. A 700+ page SEO website takes three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Waiting for content and photographs causes most delays, so we write draft text for you to correct instead of waiting on empty pages.",
+        "Static websites usually take one to two weeks. A 299+ page SEO website takes three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Waiting for content and photographs causes most delays, so we write draft text for you to correct instead of waiting on empty pages.",
     },
     {
       question: "Can you help my business appear on Google Maps in Kolkata?",

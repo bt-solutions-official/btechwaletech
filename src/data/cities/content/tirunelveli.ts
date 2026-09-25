@@ -35,7 +35,7 @@ const tirunelveli: CityContent = {
     pills: ["Sites from ₹10,000", "Halwa and sweet stores", "Tamil and English pages", "College and school sites", "Gangaikondan B2B catalogues"],
   },
   quickAnswer:
-    "In Tirunelveli, our websites start at ₹10,000 for a static business site and ₹20,000 for a 700+ page SEO site, delivered in one to five weeks. Online stores begin at ₹50,000 and custom web apps at ₹60,000. We are a remote three-engineer team with no Tirunelveli office, and every launch includes five months of free maintenance.",
+    "In Tirunelveli, our websites start at ₹10,000 for a static business site and ₹20,000 for a 299+ page SEO site, delivered in one to five weeks. Online stores begin at ₹50,000 and custom web apps at ₹60,000. We are a remote three-engineer team with no Tirunelveli office, and every launch includes five months of free maintenance.",
   snapshot: [
     { label: "Heritage", value: "Nellaiappar Temple, a twin Shiva–Parvati temple mentioned in 7th-century Saiva hymns" },
     { label: "Signature product", value: "Tirunelveli halwa, with the famous Iruttu Kadai opposite the temple" },
@@ -73,12 +73,12 @@ const tirunelveli: CityContent = {
       heading: "Website prices in Tirunelveli, laid out plainly",
       paragraphs: [
         "Ask around Tirunelveli and you will hear website prices from ₹2,000 to ₹50,000 or more for what sounds like the same job. The cheapest often mean a copied theme with no SEO and the domain held by the developer. The most expensive sometimes pay for a Chennai or Madurai agency's overheads.",
-        "Our starting prices are public. A static site of up to 100 pages begins at ₹10,000 and is usually live within one to two weeks. A 700+ page SEO site begins at ₹20,000 and takes three to five weeks. An online store with UPI and card payments begins at ₹50,000. Custom web applications such as admission systems, dealer portals or order trackers begin at ₹60,000. Automation starts at ₹40,000 and monthly SEO at ₹10,000 a month.",
+        "Our starting prices are public. A static site of up to 100 pages begins at ₹10,000 and is usually live within one to two weeks. A 299+ page SEO site begins at ₹20,000 and takes three to five weeks. An online store with UPI and card payments begins at ₹50,000. Custom web applications such as admission systems, dealer portals or order trackers begin at ₹60,000. Automation starts at ₹40,000 and monthly SEO at ₹10,000 a month.",
         "Scope sets the final figure. A halwa shop with ten products and good photos costs less than a store with three hundred items and no descriptions. You receive an itemised quote in about two working days, and nothing is billed until you approve it in writing. The full breakdown is on our <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [
         "<strong>Static site, from ₹10,000:</strong> up to 100 pages, contact form, map and basic SEO. Suits clinics, advocates and shops.",
-        "<strong>SEO site, from ₹20,000:</strong> 700+ pages in Tamil and English, one per service or area, with schema and sitemap.",
+        "<strong>SEO site, from ₹20,000:</strong> 299+ pages in Tamil and English, one per service or area, with schema and sitemap.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart, UPI and card payments, delivery rules. Suits halwa, sweet and textile sellers.",
         "<strong>Custom web app, from ₹60,000:</strong> logins, dashboards and workflows for institutions and manufacturers.",
       ],
@@ -218,12 +218,12 @@ const tirunelveli: CityContent = {
     {
       question: "How much does a website cost in Tirunelveli?",
       answer:
-        "With us, a static site starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. Local quotes for similar work range from about ₹2,000 to ₹50,000, so compare SEO setup, domain and hosting ownership and after-launch support, not just the price.",
+        "With us, a static site starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. Local quotes for similar work range from about ₹2,000 to ₹50,000, so compare SEO setup, domain and hosting ownership and after-launch support, not just the price.",
     },
     {
       question: "Tirunelveli la website panna evvalavu selavu aagum?",
       answer:
-        "Engaludan oru simple business website ₹10,000 la irundhu thodangum, 700+ pages ulla SEO website ₹20,000 la irundhu. Online store ₹50,000 la irundhu. Final vilai pages, products, features ellam poruthu maarum. Velai thodangum munbu ungalukku ezhuthu moolam itemised quote kidaikkum, ungal oppudhal illamal endha bill-um varaadhu.",
+        "Engaludan oru simple business website ₹10,000 la irundhu thodangum, 299+ pages ulla SEO website ₹20,000 la irundhu. Online store ₹50,000 la irundhu. Final vilai pages, products, features ellam poruthu maarum. Velai thodangum munbu ungalukku ezhuthu moolam itemised quote kidaikkum, ungal oppudhal illamal endha bill-um varaadhu.",
     },
     {
       question: "Do you have an office in Tirunelveli?",

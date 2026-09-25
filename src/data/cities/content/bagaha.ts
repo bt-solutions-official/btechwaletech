@@ -35,7 +35,7 @@ const bagaha: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi and English pages", "Safari and stay pages", "Trader catalogues", "WhatsApp replies"],
   },
   quickAnswer:
-    "In Bagaha, a static website starts from ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000, AI and WhatsApp automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. We are a three-engineer remote team with no office in Bagaha, and the first five months of maintenance are free.",
+    "In Bagaha, a static website starts from ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, AI and WhatsApp automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. We are a three-engineer remote team with no office in Bagaha, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Location", value: "Subdivision headquarters on the left bank of the Gandak in West Champaran, about 64 km north-west of Bettiah" },
     { label: "Administration", value: "Municipal town, subdivision headquarters and a separate police district of Bihar Police" },
@@ -74,7 +74,7 @@ const bagaha: CityContent = {
       heading: "Website costs in Bagaha, explained before you ask",
       paragraphs: [
         "Many owners in Bagaha have never been told clearly what a website costs, so they assume it is either very cheap or far out of reach. The truth sits in between, and we put our starting figures on the <a href=\"/pricing/\">pricing page</a> so you can see them without a sales call.",
-        "A static site of up to 100 pages starts at ₹10,000 and is typically ready in one to two weeks. It includes a phone-friendly layout, call and WhatsApp buttons, a map, a contact form and basic search setup, in Hindi, English or both. A 700+ page SEO website planned around what people in Champaran search for starts at ₹20,000 and takes three to five weeks. Automation starts at ₹40,000, online stores at ₹50,000, custom software at ₹60,000 and monthly SEO from ₹10,000 a month.",
+        "A static site of up to 100 pages starts at ₹10,000 and is typically ready in one to two weeks. It includes a phone-friendly layout, call and WhatsApp buttons, a map, a contact form and basic search setup, in Hindi, English or both. A 299+ page SEO website planned around what people in Champaran search for starts at ₹20,000 and takes three to five weeks. Automation starts at ₹40,000, online stores at ₹50,000, custom software at ₹60,000 and monthly SEO from ₹10,000 a month.",
         "Your scope sets the final number. A clinic or school may need a dozen pages. A grain wholesaler wants a product list and a dealer order form. A Valmikinagar hotel needs room pages and a booking flow. We send an item-by-item quote, and work starts only after you approve it in writing.",
       ],
       list: [
@@ -217,7 +217,7 @@ const bagaha: CityContent = {
     {
       question: "How much does a website cost in Bagaha?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. The final quote depends on your pages, languages and features, and nothing is billed until you approve it in writing.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. The final quote depends on your pages, languages and features, and nothing is billed until you approve it in writing.",
     },
     {
       question: "Bagaha me website banwane ka kharcha kitna hai?",
@@ -252,7 +252,7 @@ const bagaha: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Gathering photographs and details is usually the slowest part, so we send a checklist on the first day.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Gathering photographs and details is usually the slowest part, so we send a checklist on the first day.",
     },
     {
       question: "What can WhatsApp automation do for my business?",

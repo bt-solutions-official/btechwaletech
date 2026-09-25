@@ -39,7 +39,7 @@ const dhoraji: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "B2B catalogues for manufacturers", "Gujarati-first local SEO", "Domain and code in your name"],
   },
   quickAnswer:
-    "A website for a Dhoraji business starts at ₹10,000 with us and usually takes one to two weeks. Android and iOS apps and AI or WhatsApp automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and register the domain, code and accounts to you.",
+    "A website for a Dhoraji business starts at ₹10,000 with us and usually takes one to two weeks. Android and iOS apps and AI or WhatsApp automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and register the domain, code and accounts to you.",
   snapshot: [
     { label: "Location", value: "Taluka headquarters in Rajkot district, on the Safura river, a tributary of the Bhadar" },
     { label: "Population", value: "Roughly 81,000 at the 2001 census, with later estimates around 85,000" },
@@ -78,7 +78,7 @@ const dhoraji: CityContent = {
       paragraphs: [
         "Dhoraji has grown into a cluster for plastic goods, and a manufacturers' association has been registered in the town since 2010. Units here make ropes, twine, filaments, granules, woven sacks, household items and other moulded or extruded products, selling through dealers and traders across Gujarat and other states. Buyers who have never visited Dhoraji now check a supplier online before sending an order.",
         "A <strong>website development team in Dhoraji</strong> should give such a unit a clear B2B catalogue: product ranges with sizes, deniers, colours and packing, minimum order quantities, raw materials used, GST details, factory photographs, dispatch options and named contact people. Pages load fast and read well on the phone of a dealer in Maharashtra or Rajasthan, with an enquiry form that asks for product, quantity and delivery city so each lead arrives complete.",
-        "A catalogue site starts at ₹10,000, or ₹20,000 onwards for a 700+ page SEO site covering every product and size. We never list a certification you do not hold or name a customer without written consent. More on this at our <a href=\"/services/web-development/\">web development page</a>.",
+        "A catalogue site starts at ₹10,000, or ₹20,000 onwards for a 299+ page SEO site covering every product and size. We never list a certification you do not hold or name a customer without written consent. More on this at our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
     {
@@ -155,7 +155,7 @@ const dhoraji: CityContent = {
       ],
       list: [
         "Static website (up to 100 pages): starts at ₹10,000, around 1–2 weeks",
-        "SEO website (700+ pages): starts at ₹20,000, around 3–5 weeks",
+        "SEO website (299+ pages): starts at ₹20,000, around 3–5 weeks",
         "Android and iOS app: starts at ₹40,000",
         "AI or WhatsApp automation: starts at ₹40,000, around 2–4 weeks",
         "Online store with UPI checkout: starts at ₹50,000, around 4–8 weeks",
@@ -219,7 +219,7 @@ const dhoraji: CityContent = {
     {
       question: "What is the website cost in Dhoraji?",
       answer:
-        "A static website starts at ₹10,000 with us. Bigger builds rise from there: ₹20,000 onwards for a 700+ page SEO site, ₹50,000 onwards for an online store and ₹60,000 onwards for custom software. The final price depends on scope, and you see every line in writing before anything is charged.",
+        "A static website starts at ₹10,000 with us. Bigger builds rise from there: ₹20,000 onwards for a 299+ page SEO site, ₹50,000 onwards for an online store and ₹60,000 onwards for custom software. The final price depends on scope, and you see every line in writing before anything is charged.",
     },
     {
       question: "Do you build Android and iOS apps for Dhoraji businesses?",
@@ -229,7 +229,7 @@ const dhoraji: CityContent = {
     {
       question: "How long does it take to make a website for a Dhoraji business?",
       answer:
-        "A simple site usually takes one to two weeks after your text and photos arrive. A 700+ page SEO site takes three to five weeks, a store four to eight weeks and custom software six to twelve weeks. Late product photos or details are the most common reason for delay.",
+        "A simple site usually takes one to two weeks after your text and photos arrive. A 299+ page SEO site takes three to five weeks, a store four to eight weeks and custom software six to twelve weeks. Late product photos or details are the most common reason for delay.",
     },
     {
       question: "Which is the best IT services team in Dhoraji?",
@@ -244,7 +244,7 @@ const dhoraji: CityContent = {
     {
       question: "Can you make a website for a plastic manufacturer in Dhoraji?",
       answer:
-        "Yes. We build B2B catalogues with product ranges, sizes, colours, packing, minimum order quantities, GST details, factory photos and an enquiry form that captures product, quantity and delivery city. A catalogue site starts at ₹10,000, and a 700+ page SEO site covering every product from ₹20,000.",
+        "Yes. We build B2B catalogues with product ranges, sizes, colours, packing, minimum order quantities, GST details, factory photos and an enquiry form that captures product, quantity and delivery city. A catalogue site starts at ₹10,000, and a 299+ page SEO site covering every product from ₹20,000.",
     },
     {
       question: "Do you offer AI and WhatsApp automation in Dhoraji?",

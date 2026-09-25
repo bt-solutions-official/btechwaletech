@@ -35,7 +35,7 @@ const rewa: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi-first pages", "Coaching and hospital sites", "Supplier sites for Chorhata units", "WhatsApp enquiry handling"],
   },
   quickAnswer:
-    "In Rewa, a static business website with us starts from ₹10,000 and is usually ready in one to two weeks. An SEO website with 700+ pages starts at ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team with no office in Rewa, and the first five months of maintenance are free.",
+    "In Rewa, a static business website with us starts from ₹10,000 and is usually ready in one to two weeks. An SEO website with 299+ pages starts at ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team with no office in Rewa, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of Rewa district and Rewa division in north-eastern Madhya Pradesh, on the Rewa plateau between the Vindhya and Kaimur ranges" },
     { label: "Industry", value: "Cement plants drawing on the district's limestone belt, and MPIDC's Udyog Vihar at Chorhata, home to cable and electrical manufacturers" },
@@ -73,7 +73,7 @@ const rewa: CityContent = {
       heading: "What a website costs in Rewa",
       paragraphs: [
         "Website prices in Rewa range from a few thousand rupees for a template made by a local designer to fifty thousand or more from an agency in a bigger city. Cheap sites often miss basic search setup and leave the domain in someone else's name. Expensive ones may be well built but carry agency overheads.",
-        "Our prices are on the <a href=\"/pricing/\">pricing page</a>, and each is a starting figure. A static website of up to 100 pages, right for most shops, clinics, tutors and small firms, starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website built around real searches starts from ₹20,000 and takes three to five weeks. WhatsApp and AI automation begins at ₹40,000, online stores at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000 a month.",
+        "Our prices are on the <a href=\"/pricing/\">pricing page</a>, and each is a starting figure. A static website of up to 100 pages, right for most shops, clinics, tutors and small firms, starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website built around real searches starts from ₹20,000 and takes three to five weeks. WhatsApp and AI automation begins at ₹40,000, online stores at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000 a month.",
         "Your quote depends on scope. A hospital with twenty departments and doctor profiles needs more pages than a sweet shop. We list every page and feature in the quote, so you can cut anything you don't need before approving.",
       ],
       list: [
@@ -210,12 +210,12 @@ const rewa: CityContent = {
     {
       question: "How much does a website cost in Rewa?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices; the written quote depends on pages, features and content, and nothing is billed until you approve it.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices; the written quote depends on pages, features and content, and nothing is billed until you approve it.",
     },
     {
       question: "Rewa me website banwane ka kharcha kitna hai?",
       answer:
-        "Humare saath simple website ₹10,000 se shuru hoti hai, 700+ page wali SEO website ₹20,000 se, aur online store ₹50,000 se. Aakhri keemat pages, features aur content par nirbhar karti hai. Kaam shuru hone se pehle aapko likhit, itemised quote milta hai, aur aapki manzoori ke bina koi bill nahi banta.",
+        "Humare saath simple website ₹10,000 se shuru hoti hai, 299+ page wali SEO website ₹20,000 se, aur online store ₹50,000 se. Aakhri keemat pages, features aur content par nirbhar karti hai. Kaam shuru hone se pehle aapko likhit, itemised quote milta hai, aur aapki manzoori ke bina koi bill nahi banta.",
     },
     {
       question: "Do you have an office in Rewa?",
@@ -240,7 +240,7 @@ const rewa: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve. Delays usually come from waiting for photos and text, so we draft content for you to check.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve. Delays usually come from waiting for photos and text, so we draft content for you to check.",
     },
     {
       question: "Can I sell Sundarja mangoes online?",

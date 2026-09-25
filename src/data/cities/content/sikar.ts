@@ -34,7 +34,7 @@ const sikar: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi and English pages", "Coaching admission funnels", "Hostel and PG listings", "Pilgrim hotel bookings"],
   },
   quickAnswer:
-    "In Sikar, a static website with us starts at ₹10,000 and is ready in one to two weeks. A 700+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and an online store at ₹50,000. We are a remote three-engineer team without a Sikar office; you own the domain and code, and five months of maintenance are free.",
+    "In Sikar, a static website with us starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and an online store at ₹50,000. We are a remote three-engineer team without a Sikar office; you own the domain and code, and five months of maintenance are free.",
   snapshot: [
     { label: "Regional role", value: "Largest city of Shekhawati (Sikar, Jhunjhunu and Churu districts), about 114 km north-west of Jaipur on NH 52" },
     { label: "Education", value: "Often called Rajasthan's “Mini Kota” for its NEET and IIT-JEE coaching institutes, concentrated around Piprali Road and Nawalgarh Road" },
@@ -72,7 +72,7 @@ const sikar: CityContent = {
       heading: "What a website costs in Sikar",
       paragraphs: [
         "Sikar quotes range from a couple of thousand rupees for a template on a free subdomain to Jaipur agency proposals that include overheads a local business does not need to fund. Cheap work often skips search setup and keeps the domain in the builder's account. Expensive work sometimes adds features nobody uses. Our rates sit on the <a href=\"/pricing/\">pricing page</a> so you can compare them openly.",
-        "A static website of up to 100 pages, with mobile layout, Hindi and English content, enquiry form, map, WhatsApp button and basic SEO, starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website, with a page for every course, batch, locality, product or room type, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, automation at ₹40,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
+        "A static website of up to 100 pages, with mobile layout, Hindi and English content, enquiry form, map, WhatsApp button and basic SEO, starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website, with a page for every course, batch, locality, product or room type, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, automation at ₹40,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
         "A coaching institute with ten courses and a results archive needs more work than a single hostel, and bilingual writing takes extra time. You will see every item listed in the quote before anything is charged.",
       ],
       list: [
@@ -217,7 +217,7 @@ const sikar: CityContent = {
     {
       question: "How much does a website cost in Sikar?",
       answer:
-        "With us a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. These are starting prices, and the final quote depends on pages, languages and features. When comparing local offers, check who owns the domain and whether search setup and support are included.",
+        "With us a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. These are starting prices, and the final quote depends on pages, languages and features. When comparing local offers, check who owns the domain and whether search setup and support are included.",
     },
     {
       question: "Sikar me coaching ya hostel ki website banwane ka kitna kharcha hai?",

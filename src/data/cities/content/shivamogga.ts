@@ -35,7 +35,7 @@ const shivamogga: CityContent = {
     pills: ["Websites from ₹10,000", "Kannada and English pages", "Foundry capability sites", "Homestay booking pages", "WhatsApp enquiry logging"],
   },
   quickAnswer:
-    "In Shivamogga, a small business website with us starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site in Kannada and English starts at ₹20,000, an online store at ₹50,000 and WhatsApp automation at ₹40,000. We are three remote engineers with no Shivamogga office, and five months of maintenance are free after launch.",
+    "In Shivamogga, a small business website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site in Kannada and English starts at ₹20,000, an online store at ₹50,000 and WhatsApp automation at ₹40,000. We are three remote engineers with no Shivamogga office, and five months of maintenance are free after launch.",
   snapshot: [
     { label: "Location", value: "District headquarters on the Tunga river, about 267 km from Bengaluru, known as the Gateway to Malnad" },
     { label: "Taluks", value: "Shivamogga, Bhadravathi, Sagara, Shikaripura, Soraba, Hosanagara and Thirthahalli" },
@@ -74,12 +74,12 @@ const shivamogga: CityContent = {
       heading: "Website costs in Shivamogga, with the numbers written down",
       paragraphs: [
         "Quotes around Shivamogga range widely. A local freelancer may offer a one-page site for ₹3,000, while a Bengaluru agency may ask ₹50,000 or more for something similar. The difference is often in what is left out: hosting in whose name, basic search setup, and whether anyone answers the phone after launch.",
-        "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages is from ₹10,000 and takes one to two weeks. A 700+ page SEO site, often in two languages, is from ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web apps at ₹60,000, AI and WhatsApp automation at ₹40,000 and ongoing SEO at ₹10,000 a month.",
+        "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages is from ₹10,000 and takes one to two weeks. A 299+ page SEO site, often in two languages, is from ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web apps at ₹60,000, AI and WhatsApp automation at ₹40,000 and ongoing SEO at ₹10,000 a month.",
         "Two languages add writing and checking time, and a catalogue of two hundred castings takes longer than a list of five services. You get an itemised quote in about two working days, and nothing is billed without your written approval.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, Kannada and English, mobile layout, map, WhatsApp button and basic SEO.",
-        "<strong>From ₹20,000:</strong> 700+ pages built for search, with a page per service, product or room type.",
+        "<strong>From ₹20,000:</strong> 299+ pages built for search, with a page per service, product or room type.",
         "<strong>From ₹50,000:</strong> online store with UPI, cards and delivery rules for spices, pickles or crafts.",
         "<strong>From ₹60,000:</strong> custom systems such as dispatch tracking, trader ledgers or booking management.",
       ],
@@ -220,12 +220,12 @@ const shivamogga: CityContent = {
     {
       question: "How much does a website cost in Shivamogga?",
       answer:
-        "With us, a static site starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. When comparing other quotes, check whether the domain is in your name, whether basic SEO is included and who handles fixes after launch.",
+        "With us, a static site starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. When comparing other quotes, check whether the domain is in your name, whether basic SEO is included and who handles fixes after launch.",
     },
     {
       question: "Shivamogga dalli website maadisalu eshtu kharchu aagutte?",
       answer:
-        "Namma jothe saadharana website ₹10,000 inda shuru aagutte, ondu athava eradu vaaradalli ready aagutte. 700+ page SEO website ₹20,000 inda, online store ₹50,000 inda. Kelasa shuru maaduva modalu nimage baravanigeyalli itemised quote siguttade, neevu oppida mele maatra bill maadtheevi.",
+        "Namma jothe saadharana website ₹10,000 inda shuru aagutte, ondu athava eradu vaaradalli ready aagutte. 299+ page SEO website ₹20,000 inda, online store ₹50,000 inda. Kelasa shuru maaduva modalu nimage baravanigeyalli itemised quote siguttade, neevu oppida mele maatra bill maadtheevi.",
     },
     {
       question: "Do you have an office in Shivamogga?",
@@ -255,7 +255,7 @@ const shivamogga: CityContent = {
     {
       question: "How long does it take?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom web app six to twelve weeks. Two-language sites need a little extra time for writing and review. Waiting for photos and details is the usual cause of delay.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom web app six to twelve weeks. Two-language sites need a little extra time for writing and review. Waiting for photos and details is the usual cause of delay.",
     },
     {
       question: "What can WhatsApp automation do for an areca trader or mill?",

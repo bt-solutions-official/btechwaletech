@@ -39,7 +39,7 @@ const nilambur: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Malayalam and English SEO", "Teak and terracotta sellers", "Accounts in your name"],
   },
   quickAnswer:
-    "For Nilambur businesses, our websites start at ₹10,000 and usually go live in one to two weeks, while Android and iOS apps start at ₹40,000. A 700+ page SEO site is from ₹20,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. We work remotely, with no Nilambur office, and you own everything.",
+    "For Nilambur businesses, our websites start at ₹10,000 and usually go live in one to two weeks, while Android and iOS apps start at ₹40,000. A 299+ page SEO site is from ₹20,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. We work remotely, with no Nilambur office, and you own everything.",
   snapshot: [
     { label: "Where", value: "Malappuram district, on the Chaliyar close to the Nilgiris range of the Western Ghats" },
     { label: "Size", value: "Municipality of 46,366 people (2011 census); Nilambur taluk is the largest in Kerala by area" },
@@ -169,7 +169,7 @@ const nilambur: CityContent = {
       ],
       list: [
         "Static website, up to 100 pages: from ₹10,000, one to two weeks",
-        "SEO website of 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website of 299+ pages: from ₹20,000, three to five weeks",
         "Android and iOS app: from ₹40,000",
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Ecommerce store: from ₹50,000, four to eight weeks",
@@ -225,7 +225,7 @@ const nilambur: CityContent = {
     {
       question: "What is the website cost in Nilambur?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices only. The quote you receive lists each extra, such as Malayalam pages, payments or logins, separately, and nothing is billed until you approve it in writing.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices only. The quote you receive lists each extra, such as Malayalam pages, payments or logins, separately, and nothing is billed until you approve it in writing.",
     },
     {
       question: "Do you build Android and iOS apps for Nilambur businesses?",
@@ -235,7 +235,7 @@ const nilambur: CityContent = {
     {
       question: "How long does a website take for a Nilambur business?",
       answer:
-        "A static site for a shop, clinic or homestay usually takes one to two weeks once we have your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Delays almost always come from missing content, so sending text and pictures early is the fastest shortcut.",
+        "A static site for a shop, clinic or homestay usually takes one to two weeks once we have your photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Delays almost always come from missing content, so sending text and pictures early is the fastest shortcut.",
     },
     {
       question: "Which is the best IT services team in Nilambur for websites and apps?",
@@ -270,7 +270,7 @@ const nilambur: CityContent = {
     {
       question: "Nilamburil oru website cheyyan ethra chilavakum?",
       answer:
-        "Oru simple website ₹10,000 muthal thudangunnu, sadharana onno rando aazhchakkullil ready aakum. 700+ page SEO website ₹20,000 muthal, Android, iOS app ₹40,000 muthal, online store ₹50,000 muthal. Ningalude pages, features okke nokki ezhuthiya quote randu working days-il WhatsApp-il kittum. Approve cheyyunnathinu munpu oru paisayum vangilla.",
+        "Oru simple website ₹10,000 muthal thudangunnu, sadharana onno rando aazhchakkullil ready aakum. 299+ page SEO website ₹20,000 muthal, Android, iOS app ₹40,000 muthal, online store ₹50,000 muthal. Ningalude pages, features okke nokki ezhuthiya quote randu working days-il WhatsApp-il kittum. Approve cheyyunnathinu munpu oru paisayum vangilla.",
     },
     {
       question: "You have no office in Nilambur. How do meetings work?",

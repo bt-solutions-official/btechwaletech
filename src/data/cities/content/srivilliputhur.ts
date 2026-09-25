@@ -39,7 +39,7 @@ const srivilliputhur: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Tamil-first local SEO", "Palkova and saree stores", "You own every account"],
   },
   quickAnswer:
-    "For Srivilliputhur businesses, our websites start at ₹10,000 and a basic one usually takes one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely without a local office, and you own all of it.",
+    "For Srivilliputhur businesses, our websites start at ₹10,000 and a basic one usually takes one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely without a local office, and you own all of it.",
   snapshot: [
     { label: "Location", value: "Municipality in Virudhunagar district, at the foot of the Western Ghats, roughly 75 km south-west of Madurai" },
     { label: "Temple", value: "Andal temple, one of the 108 Divya Desams; its tiered tower of about 192 ft appears on the Tamil Nadu state emblem" },
@@ -159,7 +159,7 @@ const srivilliputhur: CityContent = {
       id: "website-cost-srivilliputhur",
       heading: "Website cost in Srivilliputhur and how to judge a quote",
       paragraphs: [
-        "Our starting prices are published: a static website of up to 100 pages from ₹10,000 in one to two weeks; a 700+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; an online store from ₹50,000 in four to eight weeks; and custom software from ₹60,000 in six to twelve weeks.",
+        "Our starting prices are published: a static website of up to 100 pages from ₹10,000 in one to two weeks; a 299+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; an online store from ₹50,000 in four to eight weeks; and custom software from ₹60,000 in six to twelve weeks.",
         "What pushes the figure up is scope: Tamil and English versions, many products, courier integration, logins, booking calendars and billing links. If you provide text and photographs, the price stays close to the starting point; if we write and arrange the content, it appears as its own line.",
         "Quotes from local designers vary widely. Ask each one whose name the domain and hosting will be registered in, whether mobile testing and basic SEO are included, how many changes you get and who fixes problems later. Our <a href=\"/pricing/\">pricing page</a> shows the starting points, and a written quote reaches you in about two working days.",
       ],
@@ -220,7 +220,7 @@ const srivilliputhur: CityContent = {
     {
       question: "What is the website cost in Srivilliputhur?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Tamil content, products and features. You receive it itemised in writing before anything is billed.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Tamil content, products and features. You receive it itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Srivilliputhur businesses?",
@@ -230,7 +230,7 @@ const srivilliputhur: CityContent = {
     {
       question: "How long does a website take in Srivilliputhur?",
       answer:
-        "A static website usually goes live one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having content ready makes the biggest difference.",
+        "A static website usually goes live one to two weeks after we receive your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having content ready makes the biggest difference.",
     },
     {
       question: "Which is the best website development team in Srivilliputhur?",
@@ -255,7 +255,7 @@ const srivilliputhur: CityContent = {
     {
       question: "Srivilliputhur-la website panna evlo selavu aagum?",
       answer:
-        "Engaloda static website ₹10,000-la irundhu aarambikkudhu, pothuvaa onnu rendu vaarathula ready aagidum. 700+ page SEO website ₹20,000-la irundhu, Android, iOS app ₹40,000-la irundhu, online store ₹50,000-la irundhu. Final quote unga pages, features-a poruthu ezhuthi tharuvom.",
+        "Engaloda static website ₹10,000-la irundhu aarambikkudhu, pothuvaa onnu rendu vaarathula ready aagidum. 299+ page SEO website ₹20,000-la irundhu, Android, iOS app ₹40,000-la irundhu, online store ₹50,000-la irundhu. Final quote unga pages, features-a poruthu ezhuthi tharuvom.",
     },
     {
       question: "You have no office in Srivilliputhur. Is remote work safe?",

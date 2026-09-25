@@ -169,7 +169,7 @@ const content: CityContent = {
       id: "dharmanagar-costs",
       heading: "What do IT services cost in Dharmanagar?",
       paragraphs: [
-        "IT services in Dharmanagar with BtechWaleTech start at ₹10,000 for a website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software or a web app. SEO support starts at ₹10,000 a month and maintenance at ₹8,000 a month after five free months.",
+        "IT services in Dharmanagar with BtechWaleTech start at ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software or a web app. SEO support starts at ₹10,000 a month and maintenance at ₹8,000 a month after five free months.",
         "The final price depends on scope. A single-counter billing system is close to the starting figure. A combined wholesale and transport system with driver apps, WhatsApp reminders and dashboards costs more. We send an itemised quote within about two working days, and you can remove anything you do not need. Compare plans on our <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [

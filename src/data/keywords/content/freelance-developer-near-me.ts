@@ -177,7 +177,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does a freelance developer near me cost for web, app and automation?",
       paragraphs: [
-        `Freelance quotes in India vary widely because scope, experience and what is included differ so much. Compare what each quote covers, line by line, rather than the headline number. With us, the starting points are: static website from ${P.site}, SEO website of 700+ pages from ${P.seoSite}, online store from ${P.shop}, Android and iOS app from ${P.app}, AI automation from ${P.ai}, and custom software from ${P.software}.`,
+        `Freelance quotes in India vary widely because scope, experience and what is included differ so much. Compare what each quote covers, line by line, rather than the headline number. With us, the starting points are: static website from ${P.site}, SEO website of 299+ pages from ${P.seoSite}, online store from ${P.shop}, Android and iOS app from ${P.app}, AI automation from ${P.ai}, and custom software from ${P.software}.`,
         `Three things push a quote above these floors: the number of distinct screens or page designs, the number of integrations (payment, SMS, WhatsApp, accounting, maps), and how much content or data we must prepare. The framework rarely changes cost much.`,
         `When one freelance developer near you builds several pieces, later quotes shrink because the backend, login and admin screens already exist. Ask any candidate how much of the website work the app will reuse. If the answer is “none”, you are paying twice for the same foundations.`,
         `Running costs are separate from build cost: domain renewal, hosting, app store developer accounts, WhatsApp Business Platform conversation charges and AI API usage are billed by those providers directly to accounts in your name. We list each in the quote so there are no surprises in month three.`,
@@ -302,7 +302,7 @@ const content: FreelanceContent = {
       columns: ["Piece", "Starts at (India)", "Starts at (abroad)", "Typical time", "Reuses from earlier work"],
       rows: [
         ["Static website, up to 100 pages", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Nothing; it is usually first"],
-        ["SEO website, 700+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Brand, content structure"],
+        ["SEO website, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Brand, content structure"],
         ["Online store", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Design system, hosting setup"],
         ["AI or WhatsApp automation", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Enquiry data, customer list"],
         ["Android & iOS app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Backend, logins, admin panel"],

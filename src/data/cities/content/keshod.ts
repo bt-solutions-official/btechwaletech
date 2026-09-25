@@ -39,7 +39,7 @@ const keshod: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Gujarati local SEO", "Oil mill and furniture tools", "Accounts in your name"],
   },
   quickAnswer:
-    "In Keshod, a business website with us starts from ₹10,000 and is usually ready in one to two weeks. Android and iOS apps start from ₹40,000, as does AI automation; a 700+ page SEO site from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We work remotely without a Keshod office, and you own everything.",
+    "In Keshod, a business website with us starts from ₹10,000 and is usually ready in one to two weeks. Android and iOS apps start from ₹40,000, as does AI automation; a 299+ page SEO site from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We work remotely without a Keshod office, and you own everything.",
   snapshot: [
     { label: "Location", value: "Town in Junagadh district, Saurashtra, about 30 km inland from the Arabian Sea" },
     { label: "Farming", value: "Groundnut and cotton are the main crops; farming is the largest employer" },
@@ -132,7 +132,7 @@ const keshod: CityContent = {
       paragraphs: [
         "When someone in Junagadh district searches for “oil mill near me” or “best hospital Keshod”, Google usually shows three map listings before any website. Getting into that group depends on a verified Google Business Profile, the correct category, consistent name, address and phone number, recent photographs and genuine reviews from real customers.",
         "Our <strong>SEO services in Keshod</strong> start there. We fix your profile, write a plain description in Gujarati and English, add products and services, and set up a simple way to ask happy customers for reviews. Then we connect it to a website whose pages match real searches, including the names of the villages and towns you serve.",
-        "For businesses that sell across Gujarat, such as oil brands or furniture makers, we can build a larger SEO website of 700+ pages from ₹20,000 in three to five weeks. Monthly SEO starts from ₹10,000 a month, covering content, technical checks and a short report on calls and enquiries.",
+        "For businesses that sell across Gujarat, such as oil brands or furniture makers, we can build a larger SEO website of 299+ pages from ₹20,000 in three to five weeks. Monthly SEO starts from ₹10,000 a month, covering content, technical checks and a short report on calls and enquiries.",
         "We never promise a number-one ranking. What we do show you each month is whether calls, direction requests and enquiries from search are going up. More detail is on our <a href=\"/services/seo-services/\">SEO services page</a>.",
       ],
     },
@@ -167,7 +167,7 @@ const keshod: CityContent = {
       id: "website-cost-keshod",
       heading: "Website cost in Keshod: starting prices and what moves them",
       paragraphs: [
-        "Here are our published starting prices for Keshod projects. A static website of up to 100 pages from ₹10,000, in one to two weeks. An SEO website of 700+ pages from ₹20,000, in three to five weeks. An Android and iOS app from ₹40,000. AI automation from ₹40,000, in two to four weeks. An ecommerce store from ₹50,000, in four to eight weeks. Custom software or a web app from ₹60,000, in six to twelve weeks.",
+        "Here are our published starting prices for Keshod projects. A static website of up to 100 pages from ₹10,000, in one to two weeks. An SEO website of 299+ pages from ₹20,000, in three to five weeks. An Android and iOS app from ₹40,000. AI automation from ₹40,000, in two to four weeks. An ecommerce store from ₹50,000, in four to eight weeks. Custom software or a web app from ₹60,000, in six to twelve weeks.",
         "The final <strong>website cost in Keshod</strong> depends on scope. Gujarati plus English takes more writing than one language. A furniture catalogue with 300 designs takes longer to set up than one with 30. An app with payments and dealer ledgers is more work than one that shows a catalogue. Tally integration adds work too.",
         "Quotes in the area vary widely. When comparing, check who owns the domain and hosting, whether you get the source code, what maintenance costs after the free period, and whether the site loads quickly on a phone. We send an itemised quote in about two working days, and nothing is billed until you approve it in writing. See <a href=\"/pricing/\">our pricing page</a> for detail.",
       ],
@@ -219,7 +219,7 @@ const keshod: CityContent = {
     {
       question: "How much does a website cost in Keshod?",
       answer:
-        "A static website of up to 100 pages starts from ₹10,000 and usually takes one to two weeks. An SEO website of 700+ pages starts at ₹20,000, and an online store from ₹50,000. Your final amount depends on pages, languages and features. We send an itemised quote in about two working days and bill nothing before your written approval.",
+        "A static website of up to 100 pages starts from ₹10,000 and usually takes one to two weeks. An SEO website of 299+ pages starts at ₹20,000, and an online store from ₹50,000. Your final amount depends on pages, languages and features. We send an itemised quote in about two working days and bill nothing before your written approval.",
     },
     {
       question: "Do you build Android and iOS apps for Keshod businesses?",

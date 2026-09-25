@@ -204,7 +204,7 @@ const content: CityContent = {
       id: "cost-timeline-dwarka",
       heading: "What does a software development team in Dwarka charge, and how long do projects take?",
       paragraphs: [
-        "With BtechWaleTech, Dwarka projects start at ₹10,000 for a website (one to two weeks), ₹20,000 for a 700+ page SEO website (three to five weeks), ₹40,000 for WhatsApp or AI automation (two to four weeks) or an Android and iOS app (six to ten weeks), ₹50,000 for an online store (four to eight weeks) and ₹60,000 for custom software such as booking systems or society apps (six to twelve weeks).",
+        "With BtechWaleTech, Dwarka projects start at ₹10,000 for a website (one to two weeks), ₹20,000 for a 299+ page SEO website (three to five weeks), ₹40,000 for WhatsApp or AI automation (two to four weeks) or an Android and iOS app (six to ten weeks), ₹50,000 for an online store (four to eight weeks) and ₹60,000 for custom software such as booking systems or society apps (six to twelve weeks).",
         "Costs depend on users, branches, integrations and features such as payments or report delivery. We itemise quotes and suggest a first phase that solves the most pressing problem. Payment is in INR only, by UPI through our QR code or by bank transfer to our account, in milestones.",
         "Plan launches around your calendar: schools before admission season, clinics before seasonal peaks, and societies before the annual general meeting when committees change. Tell us your date and we will plan backwards from it.",
       ],

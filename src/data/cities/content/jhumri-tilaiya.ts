@@ -40,7 +40,7 @@ const jhumriTilaiya: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first content", "Mineral trader catalogues", "School and coaching portals"],
   },
   quickAnswer:
-    "In Jhumri Tilaiya, our static websites start from ₹10,000 and usually launch in one to two weeks, while Android and iOS apps start from ₹40,000. SEO websites of 700+ pages begin at ₹20,000 and online stores at ₹50,000. We are a three-person remote team without a Koderma office, and every quote arrives itemised.",
+    "In Jhumri Tilaiya, our static websites start from ₹10,000 and usually launch in one to two weeks, while Android and iOS apps start from ₹40,000. SEO websites of 299+ pages begin at ₹20,000 and online stores at ₹50,000. We are a three-person remote team without a Koderma office, and every quote arrives itemised.",
   snapshot: [
     { label: "District", value: "Most populous town of Koderma district, Jharkhand, with about 87,900 residents at the 2011 census" },
     { label: "Railway", value: "Koderma Junction on the Grand Chord line, reached from Station Road in Jhumri Tilaiya" },
@@ -105,12 +105,12 @@ const jhumriTilaiya: CityContent = {
       heading: "Website cost in Jhumri Tilaiya, and how to judge a quote",
       paragraphs: [
         "Quotes in Jhumri Tilaiya range from a very cheap template made by a local freelancer to large proposals from Ranchi or Dhanbad agencies. Local quotes vary widely, so the useful question is what each includes: domain in your name or theirs, hosting access, basic SEO setup, mobile speed, content writing and who fixes problems after launch.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website up to 100 pages starts at ₹10,000 with a one-to-two-week timeline. An SEO website of 700+ pages, with dedicated pages for each product, course or area, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation also at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO begins at ₹10,000.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website up to 100 pages starts at ₹10,000 with a one-to-two-week timeline. An SEO website of 299+ pages, with dedicated pages for each product, course or area, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation also at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO begins at ₹10,000.",
         "A single-doctor clinic needs far less than a school with two thousand students, and a mineral trader with four products less than a hardware dealer with a thousand. The written quote lists everything line by line, so you can cut features you do not need before giving approval.",
       ],
       list: [
         "<strong>₹10,000 onwards:</strong> up to 100 pages, mobile layout, contact form, map and basic SEO",
-        "<strong>₹20,000 onwards:</strong> 700+ pages planned around real Koderma searches",
+        "<strong>₹20,000 onwards:</strong> 299+ pages planned around real Koderma searches",
         "<strong>₹40,000 onwards:</strong> Android and iOS app, or AI and WhatsApp automation",
         "<strong>₹50,000 onwards:</strong> online store with UPI, cards and delivery tracking",
         "<strong>₹60,000 onwards:</strong> custom web software with staff logins and reports",
@@ -217,7 +217,7 @@ const jhumriTilaiya: CityContent = {
     {
       question: "What does a website cost in Jhumri Tilaiya?",
       answer:
-        "Our static websites start from ₹10,000, SEO websites of 700+ pages from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. These are starting prices, and your quote depends on pages and features. When comparing offers in Koderma, ask about domain ownership, hosting access, SEO setup and support after launch.",
+        "Our static websites start from ₹10,000, SEO websites of 299+ pages from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. These are starting prices, and your quote depends on pages and features. When comparing offers in Koderma, ask about domain ownership, hosting access, SEO setup and support after launch.",
     },
     {
       question: "Jhumri Tilaiya me website banwane ka kharcha kitna hai?",

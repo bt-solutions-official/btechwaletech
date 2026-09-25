@@ -35,7 +35,7 @@ const balangir: CityContent = {
     pills: ["Websites ₹10,000 onwards", "Odia, Kosli and English content", "Bandha saree stores with UPI", "Clinic and school pages", "WhatsApp enquiry tracking"],
   },
   quickAnswer:
-    "In Balangir, a static website with our team starts at ₹10,000 and usually takes one to two weeks. An SEO website of 700+ pages starts from ₹20,000, an online store for Bandha sarees or other goods from ₹50,000, and custom software from ₹60,000. We work remotely with no office in Balangir, and maintenance is free for five months after launch.",
+    "In Balangir, a static website with our team starts at ₹10,000 and usually takes one to two weeks. An SEO website of 299+ pages starts from ₹20,000, an online store for Bandha sarees or other goods from ₹50,000, and custom software from ₹60,000. We work remotely with no office in Balangir, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Role", value: "Headquarters of Balangir district since 1871, when the capital of the Patna state moved here from Patnagarh" },
     { label: "Craft", value: "Sambalpuri Bandha (tie-and-dye) sarees and dress material woven across the district" },
@@ -74,12 +74,12 @@ const balangir: CityContent = {
       heading: "Website prices in Balangir and what to compare",
       paragraphs: [
         "Quotes for websites in western Odisha differ enormously, and a lower figure often hides the costs that matter later. Before you compare, check who registers the domain, whether page titles and the Google Business Profile are included, whether you can edit prices yourself, and what each change costs after launch. A cheap site you cannot update is not cheap.",
-        "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages, which suits most shops, clinics, tutors, dealers and small firms, starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website, built around the searches your customers really make, starts at ₹20,000 and takes three to five weeks. AI and WhatsApp automation begins at ₹40,000, online stores at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000 a month.",
+        "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages, which suits most shops, clinics, tutors, dealers and small firms, starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website, built around the searches your customers really make, starts at ₹20,000 and takes three to five weeks. AI and WhatsApp automation begins at ₹40,000, online stores at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000 a month.",
         "Scope decides the final quote. Two hundred sarees, each with several photos and a description of the pattern, take much more time than a clinic with eight services. Online payment, booking, Odia and English versions and custom forms each add work. Every line is shown separately, so you can remove what you do not need.",
       ],
       list: [
         "<strong>₹10,000 onwards:</strong> up to 100 pages, mobile design, enquiry form, map pin and search basics.",
-        "<strong>₹20,000 onwards:</strong> 700+ pages for hospitals, schools, dealers and institutes with many services.",
+        "<strong>₹20,000 onwards:</strong> 299+ pages for hospitals, schools, dealers and institutes with many services.",
         "<strong>₹50,000 onwards:</strong> a store with cart, UPI and cards for saree and handloom sellers.",
         "<strong>₹60,000 onwards:</strong> custom software with logins and reports for dealers, schools and transporters.",
       ],
@@ -219,7 +219,7 @@ const balangir: CityContent = {
     {
       question: "What does a website cost in Balangir?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. All of these are starting prices. The written quote depends on pages, features and content, and billing begins only after you approve it.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. All of these are starting prices. The written quote depends on pages, features and content, and billing begins only after you approve it.",
     },
     {
       question: "Balangir re gote website banaibaku kete tanka lagiba?",
@@ -249,7 +249,7 @@ const balangir: CityContent = {
     {
       question: "How soon can my website go live?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve. Delays mostly come from waiting for photos and text, so we draft content for you to correct.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve. Delays mostly come from waiting for photos and text, so we draft content for you to correct.",
     },
     {
       question: "I run a clinic near the medical college. What should my site include?",

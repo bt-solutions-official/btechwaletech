@@ -187,7 +187,7 @@ const content: CityContent = {
       paragraphs: [
         "SEO in Bangalore splits into two games: product companies competing nationally or globally for informational and comparison searches, and local businesses competing for neighbourhood searches such as \"physiotherapist in HSR Layout\" or \"bakery near Indiranagar\". Both now also need visibility in AI answers from Google, ChatGPT and Perplexity.",
         "For product sites built on React or Next.js, the technical basics come first: server-rendered content, fast loading, clean internal linking and structured data. For local businesses, Google Business Profile quality, reviews and genuinely local pages matter most. For AI search, clear answer-first writing and consistent facts across the web help your pages get cited.",
-        "Monthly SEO starts at ₹10,000 and SEO-first websites of 700+ pages from ₹20,000. We report honestly and never guarantee positions. Our <a href='/services/seo-services/'>SEO services</a> page explains the method in more detail, and our <a href='/bengaluru/'>Bengaluru city page</a> covers website builds for local businesses.",
+        "Monthly SEO starts at ₹10,000 and SEO-first websites of 299+ pages from ₹20,000. We report honestly and never guarantee positions. Our <a href='/services/seo-services/'>SEO services</a> page explains the method in more detail, and our <a href='/bengaluru/'>Bengaluru city page</a> covers website builds for local businesses.",
       ],
     },
     {
@@ -208,7 +208,7 @@ const content: CityContent = {
       ],
       list: [
         "Static website: from ₹10,000, one to two weeks",
-        "SEO website of 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website of 299+ pages: from ₹20,000, three to five weeks",
         "AI automation: from ₹40,000, two to four weeks",
         "Android and iOS app: from ₹40,000, six to ten weeks",
         "Ecommerce store: from ₹50,000, four to eight weeks",

@@ -39,7 +39,7 @@ const hansi: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Arhtiya and mandi tools", "Hindi-first local SEO", "Everything registered to you"],
   },
   quickAnswer:
-    "A website for a Hansi business starts at ₹10,000 with us and is usually live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and put the domain, code and accounts in your name.",
+    "A website for a Hansi business starts at ₹10,000 with us and is usually live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and put the domain, code and accounts in your name.",
   snapshot: [
     { label: "Status", value: "Headquarters of Hansi district, notified in December 2025 as Haryana's 23rd district, carved out of Hisar" },
     { label: "District", value: "Hansi and Narnaund subdivisions; Hansi, Narnaund and Bass tehsils; about 1,350 sq km" },
@@ -164,7 +164,7 @@ const hansi: CityContent = {
       ],
       list: [
         "Static website with up to 100 pages: ₹10,000 onwards, about 1–2 weeks",
-        "SEO website of 700+ pages: ₹20,000 onwards, about 3–5 weeks",
+        "SEO website of 299+ pages: ₹20,000 onwards, about 3–5 weeks",
         "Android and iOS app: ₹40,000 onwards",
         "AI or WhatsApp automation: ₹40,000 onwards, about 2–4 weeks",
         "Online store with UPI payments: ₹50,000 onwards, about 4–8 weeks",
@@ -219,7 +219,7 @@ const hansi: CityContent = {
     {
       question: "What is the website cost in Hansi?",
       answer:
-        "A static website starts at ₹10,000 with us, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final amount depends on your scope, and you see every line in a written quote before anything is billed.",
+        "A static website starts at ₹10,000 with us, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final amount depends on your scope, and you see every line in a written quote before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Hansi businesses?",
@@ -229,7 +229,7 @@ const hansi: CityContent = {
     {
       question: "How long does it take to build a website for a Hansi shop?",
       answer:
-        "A simple shop website usually takes one to two weeks after we receive your photographs and text. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Content arriving late is the most common cause of delay.",
+        "A simple shop website usually takes one to two weeks after we receive your photographs and text. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Content arriving late is the most common cause of delay.",
     },
     {
       question: "Which is the best IT services team in Hansi?",

@@ -34,7 +34,7 @@ const ujjain: CityContent = {
     pills: ["Sites from ₹10,000", "Hotel and puja bookings", "Batik stores with UPI", "Hindi search pages", "Ready for Simhastha traffic"],
   },
   quickAnswer:
-    "For an Ujjain business, a basic website with us starts at ₹10,000 and is usually live within two weeks. A 700+ page SEO website starts at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. We are a remote team without an Ujjain office, and every project includes five months of free maintenance.",
+    "For an Ujjain business, a basic website with us starts at ₹10,000 and is usually live within two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. We are a remote team without an Ujjain office, and every project includes five months of free maintenance.",
   snapshot: [
     { label: "Pilgrimage", value: "Mahakaleshwar Jyotirlinga, the Shri Mahakal Lok corridor, Kal Bhairav, Harsiddhi and Ram Ghat on the Shipra" },
     { label: "Next big event", value: "Simhastha 2028, with very large pilgrim numbers expected and major city works under way" },
@@ -72,12 +72,12 @@ const ujjain: CityContent = {
       heading: "Website costs in Ujjain, with no guesswork",
       paragraphs: [
         "In Ujjain, owners are quoted anything from ₹2,500 to ₹55,000 for a small business site. The cheapest options usually mean a copied template, no search setup and hosting in the developer's name. Expensive quotes often include Indore agency overheads, travel and features you may never use.",
-        "Our starting prices are published. A static business website starts at <strong>₹10,000</strong> and typically takes one to two weeks. A 700+ page SEO website starts at <strong>₹20,000</strong> and takes three to five weeks. Online stores start at ₹50,000, automation at ₹40,000 and custom applications such as booking systems at ₹60,000. Monthly SEO starts at ₹10,000. The <a href=\"/pricing/\">pricing page</a> has the full detail.",
+        "Our starting prices are published. A static business website starts at <strong>₹10,000</strong> and typically takes one to two weeks. A 299+ page SEO website starts at <strong>₹20,000</strong> and takes three to five weeks. Online stores start at ₹50,000, automation at ₹40,000 and custom applications such as booking systems at ₹60,000. Monthly SEO starts at ₹10,000. The <a href=\"/pricing/\">pricing page</a> has the full detail.",
         "For hotels and puja services, booking features and payment handling are the main cost drivers. For traders and manufacturers, it is usually the number of products. Every quote lists items separately, and nothing is billed until you approve it in writing.",
       ],
       list: [
         "<strong>Starting at ₹10,000:</strong> a site of up to 100 pages for a clinic, pandit, shop or small guest house.",
-        "<strong>Starting at ₹20,000:</strong> 700+ pages, with a page for each service, puja or room type.",
+        "<strong>Starting at ₹20,000:</strong> 299+ pages, with a page for each service, puja or room type.",
         "<strong>Starting at ₹50,000:</strong> a store with UPI and card checkout for batik, puja items or food products.",
         "<strong>Starting at ₹60,000:</strong> booking systems, dealer portals and admin dashboards.",
       ],
@@ -225,12 +225,12 @@ const ujjain: CityContent = {
     {
       question: "How much does a website cost in Ujjain?",
       answer:
-        "With us, a static business website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. Other Ujjain quotes may run from ₹2,500 to ₹55,000. Compare what is included, especially SEO basics, domain ownership and support after launch.",
+        "With us, a static business website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. Other Ujjain quotes may run from ₹2,500 to ₹55,000. Compare what is included, especially SEO basics, domain ownership and support after launch.",
     },
     {
       question: "Ujjain me hotel ki website banwane me kitna kharcha aata hai?",
       answer:
-        "Hamare saath ek simple hotel ya business website ₹10,000 se shuru hoti hai, aur 700+ pages wali SEO website ₹20,000 se. Online booking aur payment wala system features ke hisaab se thoda zyada lagta hai. Kaam shuru hone se pehle aapko har cheez ka alag-alag quote milta hai.",
+        "Hamare saath ek simple hotel ya business website ₹10,000 se shuru hoti hai, aur 299+ pages wali SEO website ₹20,000 se. Online booking aur payment wala system features ke hisaab se thoda zyada lagta hai. Kaam shuru hone se pehle aapko har cheez ka alag-alag quote milta hai.",
     },
     {
       question: "Do you have an office in Ujjain?",
@@ -255,7 +255,7 @@ const ujjain: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, a store four to eight weeks and a custom application six to twelve weeks. Delays usually come from waiting for photos and text, so we prepare draft content for you to review.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, a store four to eight weeks and a custom application six to twelve weeks. Delays usually come from waiting for photos and text, so we prepare draft content for you to review.",
     },
     {
       question: "Can you build an online store for batik prints?",

@@ -38,7 +38,7 @@ const mokameh: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first local SEO", "Dal and grain trader sites", "Everything registered to you"],
   },
   quickAnswer:
-    "Mokama businesses can start with a website from ₹10,000, usually online within one to two weeks. Android and iOS apps start from ₹40,000, AI automation also from ₹40,000, a 700+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. Our team is fully remote and has no Mokama office.",
+    "Mokama businesses can start with a website from ₹10,000, usually online within one to two weeks. Android and iOS apps start from ₹40,000, AI automation also from ₹40,000, a 299+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. Our team is fully remote and has no Mokama office.",
   snapshot: [
     { label: "Location", value: "Municipal town in Patna district, about 90 km east of Patna on the south bank of the Ganga" },
     { label: "Bridges", value: "Rajendra Setu road-cum-rail bridge, and the six-lane Aunta–Simaria Ganga bridge opened in August 2025" },
@@ -157,7 +157,7 @@ const mokameh: CityContent = {
       id: "website-cost-mokama",
       heading: "Website cost in Mokama: starting prices and what to check",
       paragraphs: [
-        "A quick guide to our Mokama rates. A basic site for a shop, clinic, trader or workshop, up to 100 pages, starts from ₹10,000 and usually needs a week or two. A big SEO website of 700 pages or more, suited to a coaching institute or trader covering many courses, products and villages, starts from ₹20,000 and takes three to five weeks. Android and iOS apps start from ₹40,000, and AI automation from the same. Online stores start from ₹50,000, custom software from ₹60,000, and monthly SEO from ₹10,000.",
+        "A quick guide to our Mokama rates. A basic site for a shop, clinic, trader or workshop, up to 100 pages, starts from ₹10,000 and usually needs a week or two. A big SEO website of 299 pages or more, suited to a coaching institute or trader covering many courses, products and villages, starts from ₹20,000 and takes three to five weeks. Android and iOS apps start from ₹40,000, and AI automation from the same. Online stores start from ₹50,000, custom software from ₹60,000, and monthly SEO from ₹10,000.",
         "The amount goes up only with extras you pick: Hindi and English versions, a long product list, courier rate tables, online payment, staff logins, trip or lot modules, or a Tally connection. Each is written as a separate line you can keep or drop. Sending your own text and photographs keeps the cost near the starting price.",
         "Prices quoted locally for similar jobs vary widely, so compare on substance. Ask who will own the domain and hosting, whether the site is tested on low-cost phones, whether on-page SEO is included, how many change rounds you get and what support costs next year. Our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and a written, itemised quote comes within about two working days.",
       ],
@@ -218,7 +218,7 @@ const mokameh: CityContent = {
     {
       question: "What is the website cost in Mokama?",
       answer:
-        "Static sites start from ₹10,000, SEO websites of 700+ pages from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. All are starting prices; Hindi content, product numbers and integrations change the total. You receive a written, itemised quote and pay nothing until you approve it.",
+        "Static sites start from ₹10,000, SEO websites of 299+ pages from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. All are starting prices; Hindi content, product numbers and integrations change the total. You receive a written, itemised quote and pay nothing until you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Mokama businesses?",
@@ -228,7 +228,7 @@ const mokameh: CityContent = {
     {
       question: "How quickly can I get a website in Mokama?",
       answer:
-        "Basic sites usually go live one to two weeks after your photos and details arrive. A 700+ page SEO build needs three to five weeks, a store four to eight and custom software six to twelve. Sending content early is the single biggest thing that speeds a project up.",
+        "Basic sites usually go live one to two weeks after your photos and details arrive. A 299+ page SEO build needs three to five weeks, a store four to eight and custom software six to twelve. Sending content early is the single biggest thing that speeds a project up.",
     },
     {
       question: "Which is the best IT services team in Mokama?",

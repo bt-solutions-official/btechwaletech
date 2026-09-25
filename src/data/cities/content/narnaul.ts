@@ -39,7 +39,7 @@ const narnaul: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi local SEO", "Crusher and transport software", "Domain and code in your name"],
   },
   quickAnswer:
-    "Narnaul shops, institutes and transporters can get a website from ₹10,000, typically delivered inside a fortnight. Android and iOS apps begin at ₹40,000, as does AI automation, while 700+ page SEO sites begin at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. Our team is remote, keeps no Narnaul office and hands you full ownership.",
+    "Narnaul shops, institutes and transporters can get a website from ₹10,000, typically delivered inside a fortnight. Android and iOS apps begin at ₹40,000, as does AI automation, while 299+ page SEO sites begin at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. Our team is remote, keeps no Narnaul office and hands you full ownership.",
   snapshot: [
     { label: "Location", value: "Headquarters of Mahendragarh district, southern Haryana, within the National Capital Region" },
     { label: "Population", value: "About 1.46 lakh in the 2011 Census; Hindi, Haryanvi and Ahirwati are widely spoken" },
@@ -141,7 +141,7 @@ const narnaul: CityContent = {
       paragraphs: [
         "When someone types “orthopaedic doctor Narnaul” or “coaching centre near me” in Mahendragarh district, Google shows a few map results before any website. Many Narnaul businesses are missing, have duplicate listings, or show an old phone number. Fixing that is often the cheapest and fastest win.",
         "Our <strong>SEO services in Narnaul</strong> begin with your Google Business Profile: the right category, accurate pin, hours, services, photographs and a description in plain Hindi and English. We help you set up a simple routine for collecting genuine reviews and link the profile to a website whose pages match real local searches, including nearby towns you serve such as Ateli, Nangal Chaudhary and Mahendragarh.",
-        "For businesses serving the wider region, a larger SEO website of 700+ pages starts from ₹20,000 and takes three to five weeks. Monthly SEO starts at ₹10,000 a month with content updates, technical checks and a short report. We never promise a top ranking. More is on our <a href=\"/services/seo-services/\">SEO services page</a>.",
+        "For businesses serving the wider region, a larger SEO website of 299+ pages starts from ₹20,000 and takes three to five weeks. Monthly SEO starts at ₹10,000 a month with content updates, technical checks and a short report. We never promise a top ranking. More is on our <a href=\"/services/seo-services/\">SEO services page</a>.",
       ],
     },
     {
@@ -166,7 +166,7 @@ const narnaul: CityContent = {
       id: "website-cost-narnaul",
       heading: "Website cost in Narnaul: starting prices and what affects them",
       paragraphs: [
-        "Here is where each kind of Narnaul project begins. Static sites of up to 100 pages: ₹10,000 onwards, one or two weeks. SEO sites running to 700+ pages: ₹20,000 onwards, three to five weeks. Android plus iOS apps: ₹40,000 onwards. AI and WhatsApp automation: ₹40,000 onwards, two to four weeks. Online stores: ₹50,000 onwards, four to eight weeks. Custom web apps and business software: ₹60,000 onwards, six to twelve weeks.",
+        "Here is where each kind of Narnaul project begins. Static sites of up to 100 pages: ₹10,000 onwards, one or two weeks. SEO sites running to 299+ pages: ₹20,000 onwards, three to five weeks. Android plus iOS apps: ₹40,000 onwards. AI and WhatsApp automation: ₹40,000 onwards, two to four weeks. Online stores: ₹50,000 onwards, four to eight weeks. Custom web apps and business software: ₹60,000 onwards, six to twelve weeks.",
         "The final <strong>website cost in Narnaul</strong> depends on scope. Hindi and English together means more writing. A coaching site with a result archive takes longer than a five-page profile. A crusher billing system with weighbridge import is more work than a simple ledger. We list each item so you can drop or delay what is not needed yet.",
         "Quotes you collect around Mahendragarh district will differ a lot. Put four questions to each one: whose name goes on the domain, will I receive the code, what does year two cost, and how fast does the site open on a mid-range phone? Our own quote arrives itemised within roughly two working days, and billing waits for your signed go-ahead. Details sit on <a href=\"/pricing/\">our pricing page</a>.",
       ],
@@ -218,7 +218,7 @@ const narnaul: CityContent = {
     {
       question: "How much does a website cost in Narnaul?",
       answer:
-        "For a Narnaul business, a static site of up to 100 pages begins at ₹10,000 and is normally ready within a fortnight. Large SEO sites of 700+ pages begin at ₹20,000 and online shops at ₹50,000. Page count, Hindi plus English, and features decide the final figure. You receive an itemised written quote first, and billing waits for your approval.",
+        "For a Narnaul business, a static site of up to 100 pages begins at ₹10,000 and is normally ready within a fortnight. Large SEO sites of 299+ pages begin at ₹20,000 and online shops at ₹50,000. Page count, Hindi plus English, and features decide the final figure. You receive an itemised written quote first, and billing waits for your approval.",
     },
     {
       question: "Do you build Android and iOS apps for Narnaul businesses?",

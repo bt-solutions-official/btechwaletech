@@ -34,7 +34,7 @@ const nadiad: CityContent = {
     pills: ["Sites from ₹10,000", "Gujarati and English", "Snack and food stores", "GIDC supplier sites", "WhatsApp order replies"],
   },
   quickAnswer:
-    "In Nadiad, a business website with us starts from ₹10,000 and is usually ready in one to two weeks. A 700+ page SEO website starts from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team of three engineers with no office in Nadiad, and the first five months of maintenance are free.",
+    "In Nadiad, a business website with us starts from ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO website starts from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team of three engineers with no office in Nadiad, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Role", value: "Headquarters of Kheda district, in the Charotar region between Ahmedabad and Vadodara" },
     { label: "Rail and road", value: "Nadiad Junction on the Ahmedabad–Mumbai main line, with a high-speed rail station under construction" },
@@ -72,12 +72,12 @@ const nadiad: CityContent = {
       heading: "Website cost in Nadiad, without hidden extras",
       paragraphs: [
         "Nadiad quotes range from low-cost templates, often on the developer's own hosting, to Ahmedabad agencies that bundle social media retainers and charge accordingly. The cheapest often skip search basics; the most expensive may include much more than a shop or unit needs.",
-        "Every figure we quote begins from a published floor, listed on our <a href=\"/pricing/\">pricing page</a>. Static sites of up to 100 pages begin at ₹10,000, with delivery in roughly one to two weeks. Larger SEO builds of 700+ pages begin at ₹20,000 and need three to five weeks. Stores with payments begin at ₹50,000, bespoke software at ₹60,000, WhatsApp or AI automation at ₹40,000, and ongoing SEO at ₹10,000 per month.",
+        "Every figure we quote begins from a published floor, listed on our <a href=\"/pricing/\">pricing page</a>. Static sites of up to 100 pages begin at ₹10,000, with delivery in roughly one to two weeks. Larger SEO builds of 299+ pages begin at ₹20,000 and need three to five weeks. Stores with payments begin at ₹50,000, bespoke software at ₹60,000, WhatsApp or AI automation at ₹40,000, and ongoing SEO at ₹10,000 per month.",
         "A single clinic with eight pages is simple. A snack brand with ninety products, weights and bilingual descriptions needs more work. Your quote lists every page and feature, and billing starts only after you approve it in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> a phone-friendly site of up to 100 pages with directions, a contact form and title and sitemap setup. Suits a clinic, a showroom or a small GIDC unit.",
-        "<strong>From ₹20,000:</strong> 700+ pages for businesses that want enquiries from many different searches.",
+        "<strong>From ₹20,000:</strong> 299+ pages for businesses that want enquiries from many different searches.",
         "<strong>From ₹50,000:</strong> online store with UPI and card payments. For snack, farsan and food brands.",
         "<strong>From ₹60,000:</strong> custom tools such as dealer portals and dispatch trackers.",
       ],
@@ -217,12 +217,12 @@ const nadiad: CityContent = {
     {
       question: "How much does a website cost in Nadiad?",
       answer:
-        "Our floor prices are ₹10,000 for a static site, ₹20,000 for a 700+ page SEO build, ₹50,000 for an online store and ₹60,000 for bespoke software. What you actually pay depends on the number of pages and products, the languages and any integrations. The written estimate breaks this down item by item, and no invoice goes out until you sign off.",
+        "Our floor prices are ₹10,000 for a static site, ₹20,000 for a 299+ page SEO build, ₹50,000 for an online store and ₹60,000 for bespoke software. What you actually pay depends on the number of pages and products, the languages and any integrations. The written estimate breaks this down item by item, and no invoice goes out until you sign off.",
     },
     {
       question: "Nadiad ma website banavva no kharch ketlo thay?",
       answer:
-        "Amara sathe simple website ₹10,000 thi sharu thay chhe, 700+ page ni SEO website ₹20,000 thi ane online store ₹50,000 thi. Final kimat pages, features ane content par aadhar rakhe chhe. Kaam sharu karta pehla lekhit itemised quote aapiye chhiye, ane tame manjuri aapo pachhi j bill thay chhe.",
+        "Amara sathe simple website ₹10,000 thi sharu thay chhe, 299+ page ni SEO website ₹20,000 thi ane online store ₹50,000 thi. Final kimat pages, features ane content par aadhar rakhe chhe. Kaam sharu karta pehla lekhit itemised quote aapiye chhiye, ane tame manjuri aapo pachhi j bill thay chhe.",
     },
     {
       question: "Do you have an office in Nadiad?",
@@ -252,7 +252,7 @@ const nadiad: CityContent = {
     {
       question: "How long will my website take?",
       answer:
-        "Plan on one to two weeks for a static site, three to five for a 700+ page SEO build, four to eight for a store and six to twelve for bespoke software. Projects slip mainly when product photos or owner approvals are slow, so we share a short list of what we need on day one and prepare draft copy you only have to correct.",
+        "Plan on one to two weeks for a static site, three to five for a 299+ page SEO build, four to eight for a store and six to twelve for bespoke software. Projects slip mainly when product photos or owner approvals are slow, so we share a short list of what we need on day one and prepare draft copy you only have to correct.",
     },
     {
       question: "What can WhatsApp automation do for my business?",

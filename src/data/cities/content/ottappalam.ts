@@ -38,7 +38,7 @@ const ottappalam: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Malayalam-first local SEO", "KINFRA supplier sites", "Every login in your name"],
   },
   quickAnswer:
-    "Ottappalam firms can get a website from us for ₹10,000 onwards, typically live inside a fortnight. Apps for Android phones and iPhones cost ₹40,000 onwards, with AI and WhatsApp automation priced the same way. SEO sites of 700+ pages begin at ₹20,000, online shops at ₹50,000 and bespoke software at ₹60,000. Our team is remote; ownership stays with you.",
+    "Ottappalam firms can get a website from us for ₹10,000 onwards, typically live inside a fortnight. Apps for Android phones and iPhones cost ₹40,000 onwards, with AI and WhatsApp automation priced the same way. SEO sites of 299+ pages begin at ₹20,000, online shops at ₹50,000 and bespoke software at ₹60,000. Our team is remote; ownership stays with you.",
   snapshot: [
     { label: "Location", value: "Taluk headquarters on the Bharathappuzha, about 34 km from Palakkad town" },
     { label: "Population", value: "About 53,800 at the 2011 census, the second most populous town in Palakkad district" },
@@ -156,7 +156,7 @@ const ottappalam: CityContent = {
       id: "website-cost-ottappalam",
       heading: "Website cost in Ottappalam: starting prices and fair comparison",
       paragraphs: [
-        "Kerala buyers like to see numbers early, so here they are. Up to 100 static pages for a clinic, homestay, textile shop or engineering unit: ₹10,000 onwards, delivered in a week or two. A content-heavy build of 700 pages or more, which a parallel college or a spice seller with a long catalogue might want: ₹20,000 onwards, over three to five weeks. Mobile apps for both platforms and AI automation projects each begin at ₹40,000. Online shops begin at ₹50,000, bespoke software at ₹60,000, and an ongoing SEO retainer at ₹10,000 per month.",
+        "Kerala buyers like to see numbers early, so here they are. Up to 100 static pages for a clinic, homestay, textile shop or engineering unit: ₹10,000 onwards, delivered in a week or two. A content-heavy build of 299 pages or more, which a parallel college or a spice seller with a long catalogue might want: ₹20,000 onwards, over three to five weeks. Mobile apps for both platforms and AI automation projects each begin at ₹40,000. Online shops begin at ₹50,000, bespoke software at ₹60,000, and an ongoing SEO retainer at ₹10,000 per month.",
         "The figure rises only with the choices you make. Malayalam and English versions, a large catalogue, booking forms, online payment, staff logins or a Tally link each become a separate line that you can keep or remove. If you supply your own text and photographs, the quote stays close to the starting price.",
         "Two proposals from Palakkad or Thrissur designers can differ several times over for what reads like identical work. Put a short checklist beside each one: whose name goes on the domain registration, which cheap handsets the pages were tried on, whether titles and descriptions are written as part of the job, how many change rounds are allowed, and what a year of support will cost once the build is done. Every entry point we charge is published on our <a href=\"/pricing/\">pricing page</a>; the written breakdown for your own project usually follows within two working days.",
       ],
@@ -217,7 +217,7 @@ const ottappalam: CityContent = {
     {
       question: "What is the website cost in Ottappalam?",
       answer:
-        "Entry points are ₹10,000 for a static site of up to 100 pages, ₹20,000 for an SEO build of 700 pages or more, ₹50,000 for an online shop and ₹60,000 for bespoke software. Malayalam copy, catalogue size and integrations decide where your figure lands above that. You get a line-by-line written estimate in roughly two working days, and no invoice before sign-off.",
+        "Entry points are ₹10,000 for a static site of up to 100 pages, ₹20,000 for an SEO build of 299 pages or more, ₹50,000 for an online shop and ₹60,000 for bespoke software. Malayalam copy, catalogue size and integrations decide where your figure lands above that. You get a line-by-line written estimate in roughly two working days, and no invoice before sign-off.",
     },
     {
       question: "Do you build Android and iOS apps for Ottappalam businesses?",
@@ -227,7 +227,7 @@ const ottappalam: CityContent = {
     {
       question: "How quickly can an Ottappalam business get a website?",
       answer:
-        "Once photos and basic details reach us, a straightforward static site usually goes live inside a fortnight. Heavier builds need more time: three to five weeks for 700+ SEO pages, four to eight for an online shop, and six to twelve for bespoke software. Owners who answer questions and send material promptly see the shortest schedules.",
+        "Once photos and basic details reach us, a straightforward static site usually goes live inside a fortnight. Heavier builds need more time: three to five weeks for 299+ SEO pages, four to eight for an online shop, and six to twelve for bespoke software. Owners who answer questions and send material promptly see the shortest schedules.",
     },
     {
       question: "Which is the best IT services team in Ottappalam?",
@@ -252,7 +252,7 @@ const ottappalam: CityContent = {
     {
       question: "Ottappalathu oru website undakkan ethra chilavakum?",
       answer:
-        "Njangalude simple website ₹10,000 muthal thudangunnu, oru randu aazhchakkullil ready aakum. 700+ page SEO website ₹20,000 muthal, Android, iOS app ₹40,000 muthal, online store ₹50,000 muthal aanu. Ningalude pages, features anusarichu final quote ezhuthi ayachu tharum, approve cheyyunnathinu munpu oru paisayum vangilla.",
+        "Njangalude simple website ₹10,000 muthal thudangunnu, oru randu aazhchakkullil ready aakum. 299+ page SEO website ₹20,000 muthal, Android, iOS app ₹40,000 muthal, online store ₹50,000 muthal aanu. Ningalude pages, features anusarichu final quote ezhuthi ayachu tharum, approve cheyyunnathinu munpu oru paisayum vangilla.",
     },
     {
       question: "You have no office in Ottappalam. Is remote work safe?",

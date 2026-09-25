@@ -186,7 +186,7 @@ const content: CityContent = {
       ],
       list: [
         "Static website: from ₹10,000, one to two weeks",
-        "SEO website of 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website of 299+ pages: from ₹20,000, three to five weeks",
         "AI automation: from ₹40,000, two to four weeks",
         "Android and iOS app: from ₹40,000, six to ten weeks",
         "Ecommerce store: from ₹50,000, four to eight weeks",

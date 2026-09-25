@@ -34,7 +34,7 @@ const mancherial: CityContent = {
     pills: ["Websites starting ₹10,000", "Telugu and English content", "Contractor and vendor profiles", "Hospital and college sites", "WhatsApp automation"],
   },
   quickAnswer:
-    "For Mancherial businesses, static websites of up to 100 pages start at ₹10,000 and take one to two weeks, 700+ page SEO websites start at ₹20,000, and online stores start at ₹50,000. We are three engineers working remotely with no Mancherial office, and each site gets five months of free maintenance after it goes live.",
+    "For Mancherial businesses, static websites of up to 100 pages start at ₹10,000 and take one to two weeks, 299+ page SEO websites start at ₹20,000, and online stores start at ₹50,000. We are three engineers working remotely with no Mancherial office, and each site gets five months of free maintenance after it goes live.",
   snapshot: [
     { label: "City", value: "Headquarters of Mancherial district; municipality since 1952, upgraded to a municipal corporation in January 2025" },
     { label: "Location", value: "North bank of the Godavari, about 244 km from Hyderabad on NH 63 and NH 363" },
@@ -73,7 +73,7 @@ const mancherial: CityContent = {
       heading: "Website costs in Mancherial: what you pay and why",
       paragraphs: [
         "Quotes in Mancherial swing between very cheap template offers, often with hosting and domain held by the seller, and high figures from city agencies with no breakdown attached. Neither helps an owner decide sensibly.",
-        "Our <a href=\"/pricing/\">pricing page</a> lists what each type of project starts at. A static website with up to 100 pages starts at ₹10,000 and is ready in one to two weeks. An SEO website with 700+ pages, for instance one page per service, machine, product or town served, starts at ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts at ₹40,000, online stores at ₹50,000, custom web applications at ₹60,000 and monthly SEO at ₹10,000.",
+        "Our <a href=\"/pricing/\">pricing page</a> lists what each type of project starts at. A static website with up to 100 pages starts at ₹10,000 and is ready in one to two weeks. An SEO website with 299+ pages, for instance one page per service, machine, product or town served, starts at ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts at ₹40,000, online stores at ₹50,000, custom web applications at ₹60,000 and monthly SEO at ₹10,000.",
         "The final number depends on scope: pages, product counts, languages, payment gateways, staff logins and any connection to your accounting software. A single clinic needs far less than a contractor who wants a work order system with site-wise billing.",
         "We write out every item in the quote before any work is billed, so you can cut what you do not need now and add it later.",
       ],
@@ -229,7 +229,7 @@ const mancherial: CityContent = {
     {
       question: "How much does a website cost in Mancherial?",
       answer:
-        "Static websites start at ₹10,000, SEO websites with 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final amount depends on pages, products and features. You get an itemised quote before any billing.",
+        "Static websites start at ₹10,000, SEO websites with 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final amount depends on pages, products and features. You get an itemised quote before any billing.",
     },
     {
       question: "Mancherial lo website kavali ante entha kharchu?",

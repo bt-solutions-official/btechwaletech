@@ -173,7 +173,7 @@ const content: CityContent = {
       paragraphs: [
         "SEO for a Rajkot manufacturer means being the page that a buyer, a procurement engineer or an AI assistant finds when they search for a specific product, model or capability, not ranking for a vague phrase like “best company”. Buyers now ask tools such as Google's AI Overviews and ChatGPT questions like which Rajkot firms make three-phase openwell submersibles or who offers CNC turning for small batches in Saurashtra. Those systems quote pages that answer the question clearly.",
         "That favours the way we build: one page per product family or model with a specification table, application notes, certifications you actually hold, and a plain explanation of minimum order quantities and delivery times. Structured data marks up products and the organisation so search engines understand them. Separate pages address Gujarati and Hindi queries where local buyers use them.",
-        "For shops, clinics, showrooms and service businesses on Kalawad Road or 150 Feet Ring Road, local SEO carries more weight: a complete Google Business Profile, consistent name and address across listings, photographs, genuine reviews gathered through a follow-up message, and service pages tied to the neighbourhood. Our <a href='/services/seo-services/'>SEO services</a> start from ₹10,000 a month, and a 700+ page SEO website from ₹20,000.",
+        "For shops, clinics, showrooms and service businesses on Kalawad Road or 150 Feet Ring Road, local SEO carries more weight: a complete Google Business Profile, consistent name and address across listings, photographs, genuine reviews gathered through a follow-up message, and service pages tied to the neighbourhood. Our <a href='/services/seo-services/'>SEO services</a> start from ₹10,000 a month, and a 299+ page SEO website from ₹20,000.",
         "Search results take time. Technical fixes show up within weeks, but durable enquiry growth from organic search usually takes three to six months in competitive categories. We report from Search Console so you see real queries, not vanity charts, and we don't promise rankings anyone cannot control.",
       ],
     },
@@ -205,7 +205,7 @@ const content: CityContent = {
       ],
       list: [
         "Static company website: from ₹10,000, one to two weeks",
-        "700+ page SEO website: from ₹20,000, three to five weeks",
+        "299+ page SEO website: from ₹20,000, three to five weeks",
         "AI automation or agent: from ₹40,000, two to four weeks",
         "Online store: from ₹50,000, four to eight weeks",
         "Custom web app or software: from ₹60,000, six to twelve weeks",

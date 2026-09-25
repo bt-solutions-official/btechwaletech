@@ -185,7 +185,7 @@ const content: CityContent = {
       id: "udaipur-software-cost",
       heading: "How much does a software development team in Udaipur charge?",
       paragraphs: [
-        "With BtechWaleTech, Udaipur projects start at ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software such as a booking engine or event CRM, with SEO from ₹10,000 and maintenance from ₹8,000 per month.",
+        "With BtechWaleTech, Udaipur projects start at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software such as a booking engine or event CRM, with SEO from ₹10,000 and maintenance from ₹8,000 per month.",
         "These are starting prices; the final figure moves with scope. A single-property booking engine with one payment option sits near the starting point; a multi-property system with a channel manager connection, multilingual AI concierge and owner dashboard sits well above it. We break every quote into line items so you can drop or phase anything that is not essential.",
         "All payments are in INR through UPI QR code or direct bank transfer, split into milestones tied to working deliverables. The complete list is on the <a href='/pricing/'>pricing page</a>.",
       ],

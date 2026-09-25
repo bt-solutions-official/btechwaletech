@@ -35,7 +35,7 @@ const darbhanga: CityContent = {
     pills: ["Websites from ₹10,000", "Makhana online stores", "Hindi and English SEO", "Clinic booking pages", "WhatsApp automation"],
   },
   quickAnswer:
-    "In Darbhanga, a basic website with us costs from ₹10,000 and takes one to two weeks, a 700+ page SEO website from ₹20,000 in three to five weeks, and a makhana or art store from ₹50,000. We are three remote engineers with no Darbhanga office. Five months of maintenance after launch are free.",
+    "In Darbhanga, a basic website with us costs from ₹10,000 and takes one to two weeks, a 299+ page SEO website from ₹20,000 in three to five weeks, and a makhana or art store from ₹50,000. We are three remote engineers with no Darbhanga office. Five months of maintenance after launch are free.",
   snapshot: [
     { label: "Signature product", value: "Mithila Makhana, GI-tagged in 2022; the Mithila wetlands supply most of the world's fox nut" },
     { label: "Art and culture", value: "Heart of Mithila: Maithili language, Madhubani (Mithila) painting, Sanskrit scholarship" },
@@ -73,12 +73,12 @@ const darbhanga: CityContent = {
       heading: "What a website costs in Darbhanga",
       paragraphs: [
         "Prices quoted in Darbhanga vary from ₹2,000 for a single page on a free builder to ₹40,000 or more from a Patna agency. The cheap option usually means no domain in your name and no SEO. The expensive one often pays for an office and a sales team you never deal with.",
-        "Our prices are published starting points. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page website planned for Google, with a page for each service, product or course, starts at ₹20,000 and takes three to five weeks. An online store with UPI checkout starts at ₹50,000. Custom tools such as an institute's student portal or a trader's order system start at ₹60,000. Automation starts at ₹40,000, and monthly SEO at ₹10,000. See our <a href=\"/pricing/\">pricing page</a> for more detail.",
+        "Our prices are published starting points. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page website planned for Google, with a page for each service, product or course, starts at ₹20,000 and takes three to five weeks. An online store with UPI checkout starts at ₹50,000. Custom tools such as an institute's student portal or a trader's order system start at ₹60,000. Automation starts at ₹40,000, and monthly SEO at ₹10,000. See our <a href=\"/pricing/\">pricing page</a> for more detail.",
         "Your quote lists every page and feature with its own cost. If budget is tight, we can launch a smaller site first and add pages later. Nothing is billed before you approve the quote in writing, and there are no hidden charges for hosting set-up or basic SEO.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> a site of up to 100 pages for a doctor, lawyer, shop or tuition centre",
-        "<strong>From ₹20,000:</strong> 700+ page site for hospitals, schools, institutes and traders",
+        "<strong>From ₹20,000:</strong> 299+ page site for hospitals, schools, institutes and traders",
         "<strong>From ₹50,000:</strong> online store for makhana, art or Mithila food products",
         "<strong>From ₹60,000:</strong> student portals, order systems and dashboards",
       ],
@@ -210,12 +210,12 @@ const darbhanga: CityContent = {
     {
       question: "How much does a website cost in Darbhanga?",
       answer:
-        "With us, a static website starts at ₹10,000 and a 700+ page SEO website at ₹20,000. Online stores for makhana or art start at ₹50,000, and custom portals at ₹60,000. Local quotes range from very cheap to agency prices, so check domain ownership, SEO basics and after-launch support before comparing.",
+        "With us, a static website starts at ₹10,000 and a 299+ page SEO website at ₹20,000. Online stores for makhana or art start at ₹50,000, and custom portals at ₹60,000. Local quotes range from very cheap to agency prices, so check domain ownership, SEO basics and after-launch support before comparing.",
     },
     {
       question: "Darbhanga me website banwane me kitna paisa lagta hai?",
       answer:
-        "Humare saath simple website ₹10,000 se shuru hoti hai aur 700+ pages wali SEO website ₹20,000 se. Makhana ya painting bechne ke liye online store ₹50,000 se banta hai. Final rate pages aur features par depend karta hai, aur kaam shuru hone se pehle aapko poora quote likh kar milta hai.",
+        "Humare saath simple website ₹10,000 se shuru hoti hai aur 299+ pages wali SEO website ₹20,000 se. Makhana ya painting bechne ke liye online store ₹50,000 se banta hai. Final rate pages aur features par depend karta hai, aur kaam shuru hone se pehle aapko poora quote likh kar milta hai.",
     },
     {
       question: "Do you have an office in Darbhanga?",
@@ -240,7 +240,7 @@ const darbhanga: CityContent = {
     {
       question: "How long does it take to make a website?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO website three to five weeks, an online store four to eight weeks and a custom portal six to twelve weeks. Waiting for photos and text is the most common delay, so we draft the content ourselves for you to check and correct.",
+        "A static site takes one to two weeks, a 299+ page SEO website three to five weeks, an online store four to eight weeks and a custom portal six to twelve weeks. Waiting for photos and text is the most common delay, so we draft the content ourselves for you to check and correct.",
     },
     {
       question: "Do you work with businesses in Madhubani, Samastipur and Sitamarhi?",

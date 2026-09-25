@@ -186,7 +186,7 @@ const content: CityContent = {
       id: "ecommerce-websites-dehradun",
       heading: "Websites and ecommerce as part of a Dehradun software project",
       paragraphs: [
-        "A website is often the public front of a larger Dehradun software project, feeding admissions, appointments or orders into the back-office system. Static sites start at ₹10,000, 700+ page SEO sites at ₹20,000 and online stores at ₹50,000.",
+        "A website is often the public front of a larger Dehradun software project, feeding admissions, appointments or orders into the back-office system. Static sites start at ₹10,000, 299+ page SEO sites at ₹20,000 and online stores at ₹50,000.",
         "Doon bakeries, basmati and organic food brands, woollen and handloom sellers and gift shops can sell online with a store that includes product pages, cart, checkout through a payment gateway account in their own name, and an admin panel for orders and stock. For institutions, the public site and the portal share the same data, so a course or fee changed once updates everywhere.",
         "Our city guide at <a href='/dehradun/'>the Dehradun page</a> covers websites and local SEO in more depth for shops and small service businesses.",
       ],

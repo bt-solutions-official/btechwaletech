@@ -34,7 +34,7 @@ const kapurthala: CityContent = {
     pills: ["Sites from ₹10,000", "Punjabi, Hindi and English pages", "NRI-friendly design", "Vendor capability sites", "Google Maps setup"],
   },
   quickAnswer:
-    "A website for a Kapurthala business starts from ₹10,000 with us and usually takes one to two weeks. A 700+ page SEO site starts from ₹20,000, WhatsApp and AI automation from ₹40,000 and an online store from ₹50,000. We are a remote three-person team with no Kapurthala office, and the first five months of maintenance are free.",
+    "A website for a Kapurthala business starts from ₹10,000 with us and usually takes one to two weeks. A 299+ page SEO site starts from ₹20,000, WhatsApp and AI automation from ₹40,000 and an online store from ₹50,000. We are a remote three-person team with no Kapurthala office, and the first five months of maintenance are free.",
   snapshot: [
     { label: "History", value: "Former capital of Kapurthala State; the city was taken by Jassa Singh Ahluwalia in 1743 and is named after Nawab Kapur Singh" },
     { label: "Sub-divisions", value: "Kapurthala, Phagwara, Sultanpur Lodhi and Bhulath; Phagwara tehsil is separate from the main part of the district" },
@@ -77,7 +77,7 @@ const kapurthala: CityContent = {
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages with mobile layout, map, WhatsApp button and enquiry form.",
-        "<strong>From ₹20,000:</strong> 700+ pages for institutes, consultants and suppliers wanting steady search traffic.",
+        "<strong>From ₹20,000:</strong> 299+ pages for institutes, consultants and suppliers wanting steady search traffic.",
         "<strong>From ₹50,000:</strong> online store with UPI, card and international payment options where supported.",
         "<strong>From ₹60,000:</strong> custom tools such as vendor order trackers, fee systems and client document portals.",
       ],
@@ -208,7 +208,7 @@ const kapurthala: CityContent = {
     {
       question: "How much does a website cost in Kapurthala?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO website from ₹20,000, automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices; your written quote depends on the pages, features and content you need, and nothing is billed until you approve it.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO website from ₹20,000, automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices; your written quote depends on the pages, features and content you need, and nothing is billed until you approve it.",
     },
     {
       question: "Kapurthala vich website banaun da kharcha kinna aunda hai?",
@@ -258,7 +258,7 @@ const kapurthala: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, automation two to four weeks, an online store four to eight weeks and custom software six to twelve weeks. Gathering photos and text is often the slowest step, so we share a checklist at the start.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, automation two to four weeks, an online store four to eight weeks and custom software six to twelve weeks. Gathering photos and text is often the slowest step, so we share a checklist at the start.",
     },
     {
       question: "Will I own the domain and code?",

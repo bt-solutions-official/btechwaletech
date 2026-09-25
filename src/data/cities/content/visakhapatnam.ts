@@ -35,7 +35,7 @@ const visakhapatnam: CityContent = {
     pills: ["Websites from ₹10,000", "Telugu and English SEO", "Stores with UPI checkout", "WhatsApp automation", "Portals and dashboards"],
   },
   quickAnswer:
-    "For a Visakhapatnam business, our websites start at ₹10,000 for a static site and ₹20,000 for a 700+ page SEO site, with stores from ₹50,000 and custom web apps from ₹60,000. We are a remote freelance team of three engineers, you own the domain and code, and maintenance is free for five months after launch.",
+    "For a Visakhapatnam business, our websites start at ₹10,000 for a static site and ₹20,000 for a 299+ page SEO site, with stores from ₹50,000 and custom web apps from ₹60,000. We are a remote freelance team of three engineers, you own the domain and code, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Commercial areas", value: "Dwaraka Nagar, Jagadamba Junction, MVP Colony, Siripuram, Asilmetta and Gajuwaka" },
     { label: "Ports", value: "Visakhapatnam Port and Gangavaram Port, with container freight stations and logistics firms around them" },
@@ -73,12 +73,12 @@ const visakhapatnam: CityContent = {
       heading: "How much does a website cost in Visakhapatnam?",
       paragraphs: [
         "Prices for a basic website in Vizag range from a couple of thousand rupees to well over fifty thousand, often for sites that look almost the same. The difference is usually hidden: whether SEO is done at all, who holds the domain and hosting, and whether anyone will answer when something breaks a few months later.",
-        "Ours are published. A static site of up to 100 pages starts from ₹10,000 and is normally live within one to two weeks. A 700+ page site planned around what people in Visakhapatnam search for starts from ₹20,000 and takes three to five weeks. An online store with UPI and card checkout starts from ₹50,000 over four to eight weeks. Custom web applications, such as shipment trackers, vendor portals or booking systems, begin at ₹60,000 and take six to twelve weeks. Automation work starts at ₹40,000 and ongoing SEO at ₹10,000 per month.",
+        "Ours are published. A static site of up to 100 pages starts from ₹10,000 and is normally live within one to two weeks. A 299+ page site planned around what people in Visakhapatnam search for starts from ₹20,000 and takes three to five weeks. An online store with UPI and card checkout starts from ₹50,000 over four to eight weeks. Custom web applications, such as shipment trackers, vendor portals or booking systems, begin at ₹60,000 and take six to twelve weeks. Automation work starts at ₹40,000 and ongoing SEO at ₹10,000 per month.",
         "Scope moves the number. Ten products with ready photographs cost less than three hundred without descriptions, and a single-branch clinic costs less than a hospital group. The quote spells this out line by line so you can drop anything you don't need.",
       ],
       list: [
         "<strong>Static site, from ₹10,000:</strong> up to 100 pages, mobile layout, contact form, basic on-page SEO. Good for consultants, clinics, shops and agents.",
-        "<strong>SEO site, from ₹20,000:</strong> 700+ pages covering each service and area served, with schema and a submitted sitemap.",
+        "<strong>SEO site, from ₹20,000:</strong> 299+ pages covering each service and area served, with schema and a submitted sitemap.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart, UPI and card payments, shipping rules, order notifications.",
         "<strong>Web application, from ₹60,000:</strong> logins, roles, dashboards and integrations for logistics, industry and education.",
       ],
@@ -209,12 +209,12 @@ const visakhapatnam: CityContent = {
     {
       question: "How much does a website cost in Visakhapatnam?",
       answer:
-        "Our static sites start at ₹10,000, 700+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom web apps at ₹60,000. Quotes across Vizag vary a lot for similar-looking sites, so check what is included: SEO setup, who owns the domain and hosting, and what support continues after launch.",
+        "Our static sites start at ₹10,000, 299+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom web apps at ₹60,000. Quotes across Vizag vary a lot for similar-looking sites, so check what is included: SEO setup, who owns the domain and hosting, and what support continues after launch.",
     },
     {
       question: "Vizag lo website cheyinchadaniki entha avutundi?",
       answer:
-        "Maa daggara simple business website ₹10,000 nundi start avutundi, 700+ pages SEO website ₹20,000 nundi. Online store ₹50,000 nundi untundi. Mee pages, features batti final price untundi. Pani modalupettaka mundu itemised quote pampistamu, mee approval lekunda emi charge cheyamu.",
+        "Maa daggara simple business website ₹10,000 nundi start avutundi, 299+ pages SEO website ₹20,000 nundi. Online store ₹50,000 nundi untundi. Mee pages, features batti final price untundi. Pani modalupettaka mundu itemised quote pampistamu, mee approval lekunda emi charge cheyamu.",
     },
     {
       question: "Do you have an office in Vizag where I can visit?",
@@ -239,7 +239,7 @@ const visakhapatnam: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "Usually one to two weeks for a static site, three to five weeks for a 700+ page SEO site, four to eight weeks for a store and six to twelve weeks for a custom app. Waiting on content is the most common delay, so we draft text for you to correct instead of starting from blank pages.",
+        "Usually one to two weeks for a static site, three to five weeks for a 299+ page SEO site, four to eight weeks for a store and six to twelve weeks for a custom app. Waiting on content is the most common delay, so we draft text for you to correct instead of starting from blank pages.",
     },
     {
       question: "Can my website be in Telugu as well as English?",

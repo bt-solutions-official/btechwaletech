@@ -39,7 +39,7 @@ const mahuva: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Exporter catalogues", "Gujarati and English SEO", "WhatsApp replies 7 days"],
   },
   quickAnswer:
-    "In Mahuva, a business website starts at ₹10,000 and is ready in one to two weeks. Android and iOS apps start at ₹40,000, as does AI and WhatsApp automation. A 700+ page SEO site begins at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and you own everything.",
+    "In Mahuva, a business website starts at ₹10,000 and is ready in one to two weeks. Android and iOS apps start at ₹40,000, as does AI and WhatsApp automation. A 299+ page SEO site begins at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and you own everything.",
   snapshot: [
     { label: "Setting", value: "Coastal town and taluka seat in Bhavnagar district, on the Gulf of Khambhat side of Saurashtra" },
     { label: "Population", value: "About 98,500 in the town at the 2011 Census; about 4.5 lakh in the taluka" },
@@ -152,7 +152,7 @@ const mahuva: CityContent = {
       ],
       list: [
         "<strong>Static website, up to 100 pages:</strong> from ₹10,000, one to two weeks.",
-        "<strong>SEO website with 700+ pages:</strong> starts at ₹20,000, three to five weeks.",
+        "<strong>SEO website with 299+ pages:</strong> starts at ₹20,000, three to five weeks.",
         "<strong>Android and iOS app:</strong> from ₹40,000, published on Google Play and the App Store.",
         "<strong>AI and WhatsApp automation:</strong> ₹40,000 onwards, two to four weeks.",
         "<strong>Ecommerce store with UPI and Razorpay:</strong> from ₹50,000, four to eight weeks.",
@@ -228,7 +228,7 @@ const mahuva: CityContent = {
     {
       question: "What does a website cost in Mahuva?",
       answer:
-        "A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. You get an itemised written quote in about two working days, and nothing is billed until you approve it.",
+        "A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. You get an itemised written quote in about two working days, and nothing is billed until you approve it.",
     },
     {
       question: "Mahuva ma website banavvano kharch ketlo thay?",

@@ -39,7 +39,7 @@ const macherla: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu-first local SEO", "Chilli and cotton traders", "You hold every login"],
   },
   quickAnswer:
-    "In Macherla, our websites start at ₹10,000 and a simple site usually takes one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, without a Macherla office, and every account is registered to you.",
+    "In Macherla, our websites start at ₹10,000 and a simple site usually takes one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, without a Macherla office, and every account is registered to you.",
   snapshot: [
     { label: "Location", value: "Mandal headquarters in Gurazala revenue division, Palnadu district, about 24 km from Nagarjuna Sagar" },
     { label: "History", value: "Scene of the 12th-century Palnati Yuddham era; linked with the reformer-minister Brahmanaidu" },
@@ -129,7 +129,7 @@ const macherla: CityContent = {
       paragraphs: [
         "Searches for Macherla businesses are mostly local, mostly on phones and often in Telugu or a Telugu-English mix: “Macherla lo hospital”, “hotels near Nagarjuna Sagar”, “cement dealer Macherla”. Google shows map results first, and complete, accurate listings take most of the calls.",
         "Our <strong>SEO services in Macherla</strong> start with your Google Business Profile: right category, hours, photographs, service areas such as Rentachintala, Gurazala and Veldurthi, and a pin that matches your entrance. Then come Telugu and English pages built around real questions customers ask, consistent name, address and phone details everywhere, and a simple way to request genuine reviews.",
-        "For businesses that sell beyond Palnadu, such as chilli traders or hotels catering to Hyderabad visitors, we add topic pages that answer wider searches. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. Monthly SEO starts at ₹10,000 a month; read more on our <a href=\"/services/seo-services/\">SEO services</a> page.",
+        "For businesses that sell beyond Palnadu, such as chilli traders or hotels catering to Hyderabad visitors, we add topic pages that answer wider searches. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Monthly SEO starts at ₹10,000 a month; read more on our <a href=\"/services/seo-services/\">SEO services</a> page.",
         "Nobody can honestly guarantee the first result, and we do not. We guarantee correct groundwork, steady additions and plain reports on calls, direction requests and enquiries.",
       ],
     },
@@ -157,7 +157,7 @@ const macherla: CityContent = {
       id: "website-cost-macherla",
       heading: "Website cost in Macherla: starting prices and what to compare",
       paragraphs: [
-        "The <strong>website cost in Macherla</strong> depends on what the site must do. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 700+ pages starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom software at ₹60,000, and Android and iOS apps and AI automation at ₹40,000.",
+        "The <strong>website cost in Macherla</strong> depends on what the site must do. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 299+ pages starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom software at ₹60,000, and Android and iOS apps and AI automation at ₹40,000.",
         "Quotes around Palnadu and Guntur vary widely. Compare the number of pages, who writes the Telugu content, whether the domain and hosting are in your name, how many change rounds are included, what support follows launch and what renewals cost in year two. A cheap first price with an expensive renewal is common.",
         "Our quote arrives in about two working days with each item separate, and nothing is billed until you approve it in writing. All figures are starting prices and increase only with the features you choose. The full list is on the <a href=\"/pricing/\">pricing page</a>.",
         "If money is tight, start with a small site and a correct Google listing. Add a store, software or app when the business proves it needs one. That sequence is nearly always cheaper.",
@@ -220,7 +220,7 @@ const macherla: CityContent = {
     {
       question: "How much does a website cost in Macherla?",
       answer:
-        "A static website of up to 100 pages starts at ₹10,000 with us and takes one to two weeks. An SEO website of 700+ pages starts at ₹20,000, and an online store at ₹50,000. These are starting prices; your written quote itemises every part and rises only with the features you pick.",
+        "A static website of up to 100 pages starts at ₹10,000 with us and takes one to two weeks. An SEO website of 299+ pages starts at ₹20,000, and an online store at ₹50,000. These are starting prices; your written quote itemises every part and rises only with the features you pick.",
     },
     {
       question: "Who is the best website development team in Macherla?",
@@ -255,7 +255,7 @@ const macherla: CityContent = {
     {
       question: "Macherla lo website cheyinchali ante entha kharchu avutundi?",
       answer:
-        "Maa daggara simple website ₹10,000 nundi modalavutundi, okati rendu vaaralalo ready avutundi. 700+ pages SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalavutayi. Written quote dadapu rendu working rojullo vastundi.",
+        "Maa daggara simple website ₹10,000 nundi modalavutundi, okati rendu vaaralalo ready avutundi. 299+ pages SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalavutayi. Written quote dadapu rendu working rojullo vastundi.",
     },
     {
       question: "You have no office in Macherla. How does the project run?",

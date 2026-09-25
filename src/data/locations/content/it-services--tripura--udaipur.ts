@@ -175,7 +175,7 @@ const content: CityContent = {
       id: "udaipur-cost-guide",
       heading: "How much do IT services cost in Udaipur, Tripura?",
       paragraphs: [
-        "IT services in Udaipur, Tripura with BtechWaleTech start at ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months.",
+        "IT services in Udaipur, Tripura with BtechWaleTech start at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months.",
         "The final price depends on scope. A three-page lodge website with ready photos stays close to the starting figure. A trading system with customer accounts, SMS reminders and a dashboard costs more. We send an itemised estimate within about two working days, and you can drop any line you do not need.",
         "There is no travel or office charge because we work remotely. Compare every plan on our <a href=\"/pricing/\">pricing page</a>, and see how Udaipur fits into our wider <a href=\"/it-services/tripura/\">Tripura IT services</a> coverage.",
       ],

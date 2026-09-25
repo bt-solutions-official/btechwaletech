@@ -39,7 +39,7 @@ const umred: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Marathi-first local SEO", "Safari stay booking pages", "Your domain, your code"],
   },
   quickAnswer:
-    "For an Umred business, a website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and you own everything.",
+    "For an Umred business, a website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and you own everything.",
   snapshot: [
     { label: "Location", value: "Taluka headquarters in Nagpur district, roughly 50 km south-east of Nagpur on State Highway 9" },
     { label: "Population", value: "About 54,000 at the 2011 census, governed by Umred Municipal Council" },
@@ -157,7 +157,7 @@ const umred: CityContent = {
       id: "website-cost-umred",
       heading: "Website cost in Umred: starting prices and what to compare",
       paragraphs: [
-        "Here are the entry points, since price is usually the first question. A static website for a shop, clinic or homestay, up to 100 pages, starts at ₹10,000 and takes one to two weeks. A larger SEO website of 700 pages or more, useful for a coaching institute or a produce seller covering many products and towns, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation. An online store starts at ₹50,000, custom software at ₹60,000, and monthly SEO at ₹10,000 a month.",
+        "Here are the entry points, since price is usually the first question. A static website for a shop, clinic or homestay, up to 100 pages, starts at ₹10,000 and takes one to two weeks. A larger SEO website of 299 pages or more, useful for a coaching institute or a produce seller covering many products and towns, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation. An online store starts at ₹50,000, custom software at ₹60,000, and monthly SEO at ₹10,000 a month.",
         "From there, the figure rises only for things you ask for. Marathi and English versions, a large product catalogue, safari booking forms, online payment, staff logins or a Tally link each become a separate line that you can accept or remove. If you write the text yourself and send phone photographs, the quote barely moves.",
         "Quotes from different designers around Nagpur district vary widely for jobs that sound alike, so compare them on the same points. Ask who will own the domain and hosting, whether the site is tested on low-cost phones, whether basic on-page SEO is included, how many rounds of changes are covered and what support costs a year later. Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>, and your written, itemised quote reaches you in about two working days.",
       ],
@@ -218,7 +218,7 @@ const umred: CityContent = {
     {
       question: "What is the website cost in Umred?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, Marathi content, products and integrations. You receive it itemised in writing within about two working days, and nothing is billed before you approve it.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, Marathi content, products and integrations. You receive it itemised in writing within about two working days, and nothing is billed before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Umred businesses?",
@@ -228,7 +228,7 @@ const umred: CityContent = {
     {
       question: "How long does it take to make a website for an Umred shop?",
       answer:
-        "A simple static site for a shop or clinic is usually live one to two weeks after we receive your photographs and details. Bigger projects take longer: about three to five weeks for a 700+ page SEO site, four to eight weeks for an online store and six to twelve weeks for custom software. Sending content early is what speeds things up most.",
+        "A simple static site for a shop or clinic is usually live one to two weeks after we receive your photographs and details. Bigger projects take longer: about three to five weeks for a 299+ page SEO site, four to eight weeks for an online store and six to twelve weeks for custom software. Sending content early is what speeds things up most.",
     },
     {
       question: "Which is the best IT services team in Umred?",
@@ -253,7 +253,7 @@ const umred: CityContent = {
     {
       question: "Umred me website banwane ka kitna kharcha aata hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek se do hafte mein taiyaar ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapka final quote pages aur features dekhkar likhit mein diya jaata hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek se do hafte mein taiyaar ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapka final quote pages aur features dekhkar likhit mein diya jaata hai.",
     },
     {
       question: "You have no office in Umred. How is remote work safe for me?",

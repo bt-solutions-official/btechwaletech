@@ -39,7 +39,7 @@ const nedumangad: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Malayalam-first local SEO", "Spice and produce stores", "All accounts in your name"],
   },
   quickAnswer:
-    "In Nedumangad, a business website with us starts at ₹10,000 and is usually live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Nedumangad office, and you own all the work.",
+    "In Nedumangad, a business website with us starts at ₹10,000 and is usually live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Nedumangad office, and you own all the work.",
   snapshot: [
     { label: "Location", value: "Municipality roughly 16 to 18 km north-east of Thiruvananthapuram city" },
     { label: "Administration", value: "Headquarters of Nedumangad taluk and revenue division; second most populous municipality in the district in 2011" },
@@ -158,7 +158,7 @@ const nedumangad: CityContent = {
       id: "website-cost-nedumangad",
       heading: "Website cost in Nedumangad: starting prices and how to compare quotes",
       paragraphs: [
-        "Our starting prices for Nedumangad: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 700+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000, an online store from ₹50,000, and custom software from ₹60,000. Monthly SEO starts at ₹10,000 a month. See our <a href=\"/pricing/\">pricing page</a> for detail.",
+        "Our starting prices for Nedumangad: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 299+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000, an online store from ₹50,000, and custom software from ₹60,000. Monthly SEO starts at ₹10,000 a month. See our <a href=\"/pricing/\">pricing page</a> for detail.",
         "Scope raises the quote: more pages, both Malayalam and English versions, large catalogues, delivery and payment integration, staff logins, or links to Tally. Content counts too. If you provide text and photographs, the cost stays near the starting figure; if we write and translate everything, that is a separate line.",
         "Local quotes vary widely. When comparing, ask whose name the domain and hosting are in, whether mobile testing and basic SEO are included, how many change rounds are allowed, and who fixes problems after launch. Our itemised quote usually reaches you within two working days.",
       ],
@@ -210,7 +210,7 @@ const nedumangad: CityContent = {
     {
       question: "What is the website cost in Nedumangad?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final amount depends on pages, Malayalam content, products and integrations. The quote is itemised in writing, and nothing is billed before you approve it.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final amount depends on pages, Malayalam content, products and integrations. The quote is itemised in writing, and nothing is billed before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Nedumangad businesses?",
@@ -220,7 +220,7 @@ const nedumangad: CityContent = {
     {
       question: "How quickly can a Nedumangad shop get a website?",
       answer:
-        "A static website usually goes live within one to two weeks of receiving your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having content ready, in Malayalam or English, speeds everything up.",
+        "A static website usually goes live within one to two weeks of receiving your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having content ready, in Malayalam or English, speeds everything up.",
     },
     {
       question: "Which is the best website development team in Nedumangad?",
@@ -245,7 +245,7 @@ const nedumangad: CityContent = {
     {
       question: "Nedumangad-il oru website undakkan ethra chilavakum?",
       answer:
-        "Njangalude simple website ₹10,000 muthal thudangunnu, sadharana onno rando aazhchakkullil ready aakum. 700+ page SEO website ₹20,000 muthal, Android, iOS app ₹40,000 muthal, online store ₹50,000 muthal. Ningalude pages, features anusarichulla quote ezhuthi tharum; approve cheyyunnathinu munpu onnum bill cheyyilla.",
+        "Njangalude simple website ₹10,000 muthal thudangunnu, sadharana onno rando aazhchakkullil ready aakum. 299+ page SEO website ₹20,000 muthal, Android, iOS app ₹40,000 muthal, online store ₹50,000 muthal. Ningalude pages, features anusarichulla quote ezhuthi tharum; approve cheyyunnathinu munpu onnum bill cheyyilla.",
     },
     {
       question: "You have no office in Nedumangad. Is working remotely safe?",

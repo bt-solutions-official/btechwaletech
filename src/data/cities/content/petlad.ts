@@ -39,7 +39,7 @@ const petlad: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Gujarati local SEO", "GIDC and trader tools", "Your domain, your code"],
   },
   quickAnswer:
-    "Websites for Petlad shops, clinics, schools and GIDC units start at ₹10,000 and typically take one to two weeks. Android and iOS apps are ₹40,000 onwards, and so is AI automation. Larger work: SEO sites of 700+ pages from ₹20,000, online stores from ₹50,000, custom software from ₹60,000. We are remote, with no Petlad office.",
+    "Websites for Petlad shops, clinics, schools and GIDC units start at ₹10,000 and typically take one to two weeks. Android and iOS apps are ₹40,000 onwards, and so is AI automation. Larger work: SEO sites of 299+ pages from ₹20,000, online stores from ₹50,000, custom software from ₹60,000. We are remote, with no Petlad office.",
   snapshot: [
     { label: "Location", value: "Taluka headquarters in Anand district, in the Charotar region of central Gujarat" },
     { label: "Civic history", value: "Municipality since 1876; the area was part of the Gaekwad-ruled Baroda State" },
@@ -167,7 +167,7 @@ const petlad: CityContent = {
       id: "website-cost-petlad",
       heading: "Website cost in Petlad: three typical budgets and our starting prices",
       paragraphs: [
-        "Cost is easier to discuss with examples. A Gujarati and English website for a Petlad clinic, school or shop is a static site: ₹10,000 onwards for up to 100 pages, usually ready in one to two weeks. A GIDC manufacturer whose catalogue runs to hundreds of products, or a trader covering dozens of villages, fits our SEO website: 700 pages or more from ₹20,000, three to five weeks. A dealer re-order app for Android and iPhone starts at ₹40,000.",
+        "Cost is easier to discuss with examples. A Gujarati and English website for a Petlad clinic, school or shop is a static site: ₹10,000 onwards for up to 100 pages, usually ready in one to two weeks. A GIDC manufacturer whose catalogue runs to hundreds of products, or a trader covering dozens of villages, fits our SEO website: 299 pages or more from ₹20,000, three to five weeks. A dealer re-order app for Android and iPhone starts at ₹40,000.",
         "The rest of our range: AI or WhatsApp automation from ₹40,000, online stores from ₹50,000, custom web apps and software from ₹60,000, and monthly SEO from ₹10,000 a month. The number rises only with choices you make, such as two languages, a big product list, courier tables, UPI and card checkout, dealer or owner logins, or a Tally connection, and each choice is a line you can strike off. If your family writes the text and supplies the photographs, you stay close to the floor.",
         "Anand district quotes vary a great deal for jobs that sound the same. Before comparing totals, compare answers. In whose name will the domain be booked? Has the site been opened on an inexpensive phone? Is basic SEO in the price? How many rounds of changes are allowed, and what does support cost from the second year? The <a href=\"/pricing/\">pricing page</a> lists our starting prices, and an itemised quote follows in roughly two working days.",
       ],
@@ -224,7 +224,7 @@ const petlad: CityContent = {
     {
       question: "What is the website cost in Petlad?",
       answer:
-        "Our static websites are priced from ₹10,000, SEO websites of 700+ pages from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. The final number depends on page count, how much Gujarati content you need, the products listed and any software links. You receive the quote item by item, in writing, and no bill is raised before you say yes.",
+        "Our static websites are priced from ₹10,000, SEO websites of 299+ pages from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. The final number depends on page count, how much Gujarati content you need, the products listed and any software links. You receive the quote item by item, in writing, and no bill is raised before you say yes.",
     },
     {
       question: "Do you build Android and iOS apps for Petlad businesses?",
@@ -234,7 +234,7 @@ const petlad: CityContent = {
     {
       question: "How long does it take to make a website in Petlad?",
       answer:
-        "Allow one to two weeks for a shop, clinic or school site, counted from the day your photographs and details arrive. SEO sites of 700+ pages need three to five weeks, online stores four to eight, and custom software six to twelve. The quickest projects are the ones where the family settles the text early.",
+        "Allow one to two weeks for a shop, clinic or school site, counted from the day your photographs and details arrive. SEO sites of 299+ pages need three to five weeks, online stores four to eight, and custom software six to twelve. The quickest projects are the ones where the family settles the text early.",
     },
     {
       question: "Which is the best website development team in Petlad?",

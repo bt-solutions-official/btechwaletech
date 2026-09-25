@@ -39,7 +39,7 @@ const mandapeta: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu local SEO", "Rice mill and poultry tools", "Your domain, your code"],
   },
   quickAnswer:
-    "For a Mandapeta business, a website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, a 700+ page SEO site at ₹20,000 and an online store at ₹50,000. We work remotely, have no Mandapeta office, and register everything in your name.",
+    "For a Mandapeta business, a website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, a 299+ page SEO site at ₹20,000 and an online store at ₹50,000. We work remotely, have no Mandapeta office, and register everything in your name.",
   snapshot: [
     { label: "Location", value: "Godavari delta town about 30 km from Rajamahendravaram airport, reached via Dwarapudi" },
     { label: "District", value: "Part of undivided East Godavari; currently grouped with Dr. B. R. Ambedkar Konaseema district" },
@@ -155,7 +155,7 @@ const mandapeta: CityContent = {
       id: "website-cost-mandapeta",
       heading: "Website cost in Mandapeta: what each type of project starts at",
       paragraphs: [
-        "Here is how our starting prices line up against the kind of work Mandapeta businesses usually need. A shop, clinic or mill profile with up to 100 pages starts from ₹10,000 and takes one to two weeks. A larger SEO site of 700+ pages, suited to a trader covering many products and towns, is ₹20,000 onwards over three to five weeks. An online store for packed rice, oil or snacks starts from ₹50,000 and takes four to eight weeks.",
+        "Here is how our starting prices line up against the kind of work Mandapeta businesses usually need. A shop, clinic or mill profile with up to 100 pages starts from ₹10,000 and takes one to two weeks. A larger SEO site of 299+ pages, suited to a trader covering many products and towns, is ₹20,000 onwards over three to five weeks. An online store for packed rice, oil or snacks starts from ₹50,000 and takes four to eight weeks.",
         "Android and iOS apps and AI or WhatsApp automation each begin at ₹40,000. Custom software, such as a paddy intake and dispatch system, is ₹60,000 onwards and is built over six to twelve weeks. Monthly SEO starts from ₹10,000 a month, and maintenance from ₹8,000 a month once the free five months end.",
         "The number rises only with what you add: Telugu and English versions, many product pages, payment options, staff logins, links to your billing software, or content writing if you would rather not write your own. Each of these appears as a separate line in the quote, which reaches you in about two working days.",
         "Quotes from different developers in the delta can vary a great deal for work that sounds the same. Compare who owns the domain and code, whether the site is tested on cheap phones, how many revisions are included and what happens after launch. Our full list is on the <a href=\"/pricing/\">pricing page</a>.",
@@ -218,7 +218,7 @@ const mandapeta: CityContent = {
     {
       question: "How much does a website cost in Mandapeta?",
       answer:
-        "Our websites for Mandapeta businesses start at ₹10,000 for a static site of up to 100 pages. SEO websites with 700+ pages start at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your written quote lists each item, and nothing is billed until you approve it.",
+        "Our websites for Mandapeta businesses start at ₹10,000 for a static site of up to 100 pages. SEO websites with 299+ pages start at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your written quote lists each item, and nothing is billed until you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Mandapeta businesses?",
@@ -233,7 +233,7 @@ const mandapeta: CityContent = {
     {
       question: "How long does it take to build a website in Mandapeta?",
       answer:
-        "A static website is usually ready in one to two weeks after we receive your details and photographs. An SEO site with 700+ pages takes three to five weeks, an online store four to eight, and custom software six to twelve. Sending your content early is the single biggest thing that speeds a project up.",
+        "A static website is usually ready in one to two weeks after we receive your details and photographs. An SEO site with 299+ pages takes three to five weeks, an online store four to eight, and custom software six to twelve. Sending your content early is the single biggest thing that speeds a project up.",
     },
     {
       question: "Which is the best IT services team in Mandapeta?",
@@ -253,7 +253,7 @@ const mandapeta: CityContent = {
     {
       question: "Mandapeta lo website cheyinchadaniki entha kharchu avutundi?",
       answer:
-        "Maa daggara simple website ₹10,000 nundi start avutundi, sadharananga okati rendu vaaralalo ready avutundi. 700+ pages SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalavutundi. Meeku kavalsina pages, features batti final quote rasi pampistamu.",
+        "Maa daggara simple website ₹10,000 nundi start avutundi, sadharananga okati rendu vaaralalo ready avutundi. 299+ pages SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalavutundi. Meeku kavalsina pages, features batti final quote rasi pampistamu.",
     },
     {
       question: "You have no office in Mandapeta. How do I know the work is safe?",

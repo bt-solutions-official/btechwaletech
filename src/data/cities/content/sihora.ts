@@ -39,7 +39,7 @@ const sihora: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first Google Maps SEO", "Mine and transport records", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Sihora business, a website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and you own everything.",
+    "For a Sihora business, a website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; a 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and you own everything.",
   snapshot: [
     { label: "Where it is", value: "Tehsil headquarters in Jabalpur district, on NH30 roughly 48 km from Jabalpur and 53 km from Katni" },
     { label: "Tehsil", value: "162 villages over about 475 sq km, bordered by Majhauli, Bahoriband, Dhimarkheda and Panagar tehsils" },
@@ -167,7 +167,7 @@ const sihora: CityContent = {
       id: "website-cost-sihora",
       heading: "Website cost in Sihora: starting prices and how to judge a quote",
       paragraphs: [
-        "How much does a website cost in Sihora? With us, a static site of up to 100 pages starts at ₹10,000 and takes one to two weeks. A large SEO site of 700 pages or more, useful for a coaching centre or dealer covering many villages and products, starts at ₹20,000 and takes three to five weeks. Apps and AI automation each start at ₹40,000, an online store at ₹50,000, custom software at ₹60,000, and monthly SEO at ₹10,000.",
+        "How much does a website cost in Sihora? With us, a static site of up to 100 pages starts at ₹10,000 and takes one to two weeks. A large SEO site of 299 pages or more, useful for a coaching centre or dealer covering many villages and products, starts at ₹20,000 and takes three to five weeks. Apps and AI automation each start at ₹40,000, an online store at ₹50,000, custom software at ₹60,000, and monthly SEO at ₹10,000.",
         "Your quote goes up only for what you pick. Separate Hindi and English versions, a long product or vehicle list, online payments, staff logins, delivery rules or a Tally link are each listed on their own line so you can keep or drop them. If you write your own text and send phone photos, the amount barely changes.",
         "Local quotes for similar-sounding jobs vary widely around Jabalpur district, so compare on substance rather than headline figure. Ask who will own the domain and hosting, whether the site is tested on low-cost Android phones, whether basic on-page SEO and the Google Maps setup are included, how many rounds of changes are covered, and what support costs after the first year. Our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and a written itemised quote reaches you in about two working days.",
       ],
@@ -228,7 +228,7 @@ const sihora: CityContent = {
     {
       question: "What is the website cost in Sihora?",
       answer:
-        "In Sihora, our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, Hindi and English content, products and integrations, and you receive it itemised in writing before anything is billed.",
+        "In Sihora, our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, Hindi and English content, products and integrations, and you receive it itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Sihora businesses?",
@@ -238,7 +238,7 @@ const sihora: CityContent = {
     {
       question: "How long does it take to make a website for a Sihora shop?",
       answer:
-        "A simple website for a Sihora shop usually goes live in one to two weeks after we receive photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content in the first few days.",
+        "A simple website for a Sihora shop usually goes live in one to two weeks after we receive photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content in the first few days.",
     },
     {
       question: "Which is the best website development team in Sihora?",
@@ -263,7 +263,7 @@ const sihora: CityContent = {
     {
       question: "Sihora me website banwane ka kharcha kitna hai?",
       answer:
-        "Sihora me hamare saath simple website ₹10,000 se shuru hoti hai aur ek se do hafte me taiyaar ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Poora quote aapke pages aur features ke hisaab se likhit me milta hai.",
+        "Sihora me hamare saath simple website ₹10,000 se shuru hoti hai aur ek se do hafte me taiyaar ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Poora quote aapke pages aur features ke hisaab se likhit me milta hai.",
     },
     {
       question: "You have no office in Sihora. How is remote work safe?",

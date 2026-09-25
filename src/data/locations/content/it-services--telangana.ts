@@ -142,7 +142,7 @@ const content: CityContent = {
       heading: "SEO, local SEO and AI-search visibility across Telangana",
       paragraphs: [
         "SEO in Telangana means being found for specific searches in Hyderabad neighbourhoods and district towns, and being described correctly in Google Maps and AI assistant answers. Searches are often local and specific, such as a hospital in Hanamkonda, a coaching centre in Karimnagar or a rice supplier in Miryalaguda, and many are typed in Telugu or a mix of Telugu and English.",
-        "We build websites with pages for each service, product and genuine service area, with schema markup, FAQs and accurate contact details. Static websites start at ₹10,000 and 700+ page SEO websites from ₹20,000. Monthly SEO from ₹10,000 covers technical fixes, content, local listings and Search Console reporting.",
+        "We build websites with pages for each service, product and genuine service area, with schema markup, FAQs and accurate contact details. Static websites start at ₹10,000 and 299+ page SEO websites from ₹20,000. Monthly SEO from ₹10,000 covers technical fixes, content, local listings and Search Console reporting.",
         "We never promise rankings. What we deliver is well-structured, factual pages and honest monthly reports. Details are on our <a href=\"/services/seo-services/\">SEO services page</a>, and website builds are covered under <a href=\"/services/web-development/\">web development</a>.",
       ],
     },
@@ -200,7 +200,7 @@ const content: CityContent = {
       ],
       list: [
         "Website up to 100 pages: from ₹10,000, one to two weeks",
-        "SEO website with 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website with 299+ pages: from ₹20,000, three to five weeks",
         "AI and WhatsApp automation: from ₹40,000, two to four weeks",
         "Android and iOS app: from ₹40,000, six to ten weeks",
         "Online store: from ₹50,000, four to eight weeks",
@@ -268,7 +268,7 @@ const content: CityContent = {
     {
       question: "What do IT services cost for a Telangana business?",
       answer:
-        "Websites start from ₹10,000, 700+ page SEO websites from ₹20,000, AI and WhatsApp automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000 after the free five months. Final cost depends on scope, and every quote is itemised within about two working days.",
+        "Websites start from ₹10,000, 299+ page SEO websites from ₹20,000, AI and WhatsApp automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000 after the free five months. Final cost depends on scope, and every quote is itemised within about two working days.",
     },
     {
       question: "How do clients pay you?",

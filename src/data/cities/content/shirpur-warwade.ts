@@ -39,7 +39,7 @@ const shirpurWarwade: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Marathi-first local SEO", "Ginning and trade software", "All accounts in your name"],
   },
   quickAnswer:
-    "In Shirpur-Warwade, a business website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, a 700+ page SEO website at ₹20,000, an ecommerce store at ₹50,000 and custom software at ₹60,000. We are remote, with no Shirpur office.",
+    "In Shirpur-Warwade, a business website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, a 299+ page SEO website at ₹20,000, an ecommerce store at ₹50,000 and custom software at ₹60,000. We are remote, with no Shirpur office.",
   snapshot: [
     { label: "Civic body", value: "Shirpur-Warwade Municipal Council, established in 1869, covering about 16 sq km" },
     { label: "Population", value: "About 76,900 in the municipal area at the 2011 census" },
@@ -160,7 +160,7 @@ const shirpurWarwade: CityContent = {
       id: "website-cost-shirpur",
       heading: "Website cost in Shirpur: starting prices and what to compare",
       paragraphs: [
-        "Our starting prices for Shirpur-Warwade are the same ones we publish everywhere: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 700+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000, an online store from ₹50,000 in four to eight weeks and custom software from ₹60,000 in six to twelve weeks.",
+        "Our starting prices for Shirpur-Warwade are the same ones we publish everywhere: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 299+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000, an online store from ₹50,000 in four to eight weeks and custom software from ₹60,000 in six to twelve weeks.",
         "Scope raises the figure. Marathi and English versions, long catalogues, payment gateways, courier integration, staff logins, weighbridge or Tally links all add work. If you provide text and photographs the price stays near the starting point; writing and photography arranged by us appear as separate lines.",
         "Quotes from local designers vary widely. When comparing, ask whose name the domain and hosting are registered in, whether mobile testing and basic SEO are included, how many change rounds you get and who handles problems after launch. Our <a href=\"/pricing/\">pricing page</a> lists the starting points, and your itemised quote usually arrives within two working days.",
       ],
@@ -212,7 +212,7 @@ const shirpurWarwade: CityContent = {
     {
       question: "What is the website cost in Shirpur?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, Marathi content, products and integrations, and it is sent itemised in writing before anything is billed.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, Marathi content, products and integrations, and it is sent itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Shirpur businesses?",
@@ -222,7 +222,7 @@ const shirpurWarwade: CityContent = {
     {
       question: "How fast can a Shirpur business get a website?",
       answer:
-        "A static website is normally live within one to two weeks of receiving your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Ready content is the biggest factor in speed.",
+        "A static website is normally live within one to two weeks of receiving your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Ready content is the biggest factor in speed.",
     },
     {
       question: "Who is the best website development team in Shirpur?",

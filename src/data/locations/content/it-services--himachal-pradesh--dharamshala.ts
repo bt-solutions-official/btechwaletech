@@ -166,7 +166,7 @@ const content: CityContent = {
       heading: "SEO and AI-search visibility for Dharamshala, McLeod Ganj and the Kangra valley",
       paragraphs: [
         "SEO for a Dharamshala business means ranking for the specific place and activity visitors search for, such as 'guesthouse in Dharamkot', 'yoga teacher training McLeod Ganj' or 'taxi Gaggal airport to Bhagsu', rather than chasing the single word Dharamshala. Visitors search in layers: first the town, then the neighbourhood, then the exact experience, and each layer is a chance to be found.",
-        "We build separate, genuinely useful pages for each service and area you actually cover, add structured data so search engines understand your rooms, courses and prices, and help you set up and complete your Google Business Profile. We also write the kind of plain, factual answers that AI search tools and Google's AI Overviews tend to quote, such as how long the walk from McLeod Ganj to Bhagsu takes or what a ten-day course includes. Our <a href='/services/seo-services/'>SEO services</a> start from ₹10,000 a month, and a 700+ page SEO website starts from ₹20,000.",
+        "We build separate, genuinely useful pages for each service and area you actually cover, add structured data so search engines understand your rooms, courses and prices, and help you set up and complete your Google Business Profile. We also write the kind of plain, factual answers that AI search tools and Google's AI Overviews tend to quote, such as how long the walk from McLeod Ganj to Bhagsu takes or what a ten-day course includes. Our <a href='/services/seo-services/'>SEO services</a> start from ₹10,000 a month, and a 299+ page SEO website starts from ₹20,000.",
         "Honest expectations matter. Nobody can guarantee a ranking, and anyone who promises page one in a week is guessing. For a new site, early movement for neighbourhood and long-tail searches often shows within two to four months, and more competitive terms take longer. We report what changed each month from Google Search Console, in plain language, so you can judge the work yourself.",
       ],
     },
@@ -201,14 +201,14 @@ const content: CityContent = {
       id: "cost-guide-dharamshala",
       heading: "Software development cost in Dharamshala: what do freelance developers charge?",
       paragraphs: [
-        "With BtechWaleTech, a static business website starts at ₹10,000, an SEO website of 700+ pages from ₹20,000, an online store from ₹50,000, custom software or a booking system from ₹60,000, AI automation or an Android and iOS app from ₹40,000, monthly SEO from ₹10,000, and maintenance from ₹8,000 a month after the free period. These are starting prices, and the final quote depends on scope.",
+        "With BtechWaleTech, a static business website starts at ₹10,000, an SEO website of 299+ pages from ₹20,000, an online store from ₹50,000, custom software or a booking system from ₹60,000, AI automation or an Android and iOS app from ₹40,000, monthly SEO from ₹10,000, and maintenance from ₹8,000 a month after the free period. These are starting prices, and the final quote depends on scope.",
         "What pushes the price up is usually integrations and content, not design. Connecting to a channel manager, an accounting export or several payment methods adds work. So does writing descriptions for two hundred handicraft items, or translating a site into three languages. What keeps it down is having your photos, room details and policies ready, and starting with the core features before adding extras in a second phase.",
         "You get an itemised quote in about two working days after we understand the requirement. It lists each page, feature and integration with its cost, so you can remove items you do not need. Work begins only after you approve it. Payments to us are made only by UPI QR scan or direct bank transfer in INR, usually split across milestones rather than paid in full upfront.",
       ],
       list: [
         "<strong>Website:</strong> from ₹10,000, one to two weeks",
         "<strong>Android and iOS app:</strong> from ₹40,000, six to ten weeks",
-        "<strong>SEO website, 700+ pages:</strong> from ₹20,000, three to five weeks",
+        "<strong>SEO website, 299+ pages:</strong> from ₹20,000, three to five weeks",
         "<strong>Online store:</strong> from ₹50,000, four to eight weeks",
         "<strong>AI automation:</strong> from ₹40,000, two to four weeks",
         "<strong>Custom software or booking system:</strong> from ₹60,000, six to twelve weeks",

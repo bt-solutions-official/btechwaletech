@@ -64,7 +64,7 @@ const content: CityContent = {
   whyUsIntro:
     "Gurgaon has no shortage of developers, so the difference is in how work is run. You speak to the three engineers who architect, code and deploy your application, see a live preview every week, and keep ownership of the code from the first commit.",
   pricingIntro:
-    "Web development prices in Gurugram below are starting points: static sites from ₹10,000, SEO websites of 700+ pages from ₹20,000, ecommerce from ₹50,000, Android and iOS apps from ₹40,000 and custom web applications from ₹60,000.",
+    "Web development prices in Gurugram below are starting points: static sites from ₹10,000, SEO websites of 299+ pages from ₹20,000, ecommerce from ₹50,000, Android and iOS apps from ₹40,000 and custom web applications from ₹60,000.",
   sections: [
     {
       id: "web-development-in-gurgaon-what-we-build",
@@ -189,13 +189,13 @@ const content: CityContent = {
       id: "web-development-cost-and-timeline-gurgaon",
       heading: "How long does web development take in Gurgaon, and what drives the cost?",
       paragraphs: [
-        "Web development in Gurgaon takes one to two weeks for a static site, three to five weeks for an SEO website of 700+ pages, four to eight weeks for ecommerce and six to twelve weeks for a custom web application. The biggest cost drivers are the number of user roles, integrations with other systems, custom design, content preparation and how quickly decisions are made on your side.",
+        "Web development in Gurgaon takes one to two weeks for a static site, three to five weeks for an SEO website of 299+ pages, four to eight weeks for ecommerce and six to twelve weeks for a custom web application. The biggest cost drivers are the number of user roles, integrations with other systems, custom design, content preparation and how quickly decisions are made on your side.",
         "Content is the most underestimated delay. Many projects wait weeks for product photos, service descriptions or approvals. We can write first drafts of copy for you, which speeds things up, but a person from your business must confirm facts, prices and claims.",
         "Every quote we send is itemised: design, each module, integrations, hosting setup, testing and training appear as separate lines, with starting prices from our <a href='/pricing/'>pricing page</a>. That lets you remove or postpone items to fit a budget, rather than negotiating a single mysterious number.",
       ],
       list: [
         "Static website: from ₹10,000, one to two weeks",
-        "SEO website of 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website of 299+ pages: from ₹20,000, three to five weeks",
         "Ecommerce store: from ₹50,000, four to eight weeks",
         "Android and iOS app: from ₹40,000, six to ten weeks",
         "Custom web app or software: from ₹60,000, six to twelve weeks",
@@ -260,7 +260,7 @@ const content: CityContent = {
     {
       question: "How much does website development cost in Gurgaon?",
       answer:
-        "A static business website starts at ₹10,000 for up to 100 pages, an SEO website of 700+ pages from ₹20,000, an ecommerce store from ₹50,000 and a custom web application from ₹60,000. These are starting prices, not fixed ones. Your itemised quote depends on features, integrations and content, and arrives in about two working days.",
+        "A static business website starts at ₹10,000 for up to 100 pages, an SEO website of 299+ pages from ₹20,000, an ecommerce store from ₹50,000 and a custom web application from ₹60,000. These are starting prices, not fixed ones. Your itemised quote depends on features, integrations and content, and arrives in about two working days.",
     },
     {
       question: "How long does it take to build a web application?",

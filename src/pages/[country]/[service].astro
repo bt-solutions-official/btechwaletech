@@ -1,0 +1,26 @@
+---
+import FreelancePage from "@components/freelance/FreelancePage.astro";
+import { markets, type Market } from "@data/keywords/markets";
+import type { FreelanceContent } from "@data/freelance/types";
+
+// /{country}/{service}/ keyword pages for the countries in markets.ts. Like [keyword].astro, a page is only generated once its content file exists.
+export function getStaticPaths() {
+  const modules = import.meta.glob<{ default: FreelanceContent }>("../../data/keywords/countries/*/*.ts", { eager: true });
+  return Object.entries(modules).map(([file, { default: content }]) => {
+    const [country, service] = file.replace(/\.ts$/, "").split("/").slice(-2);
+    const market = markets.find((m) => m.slug === country);
+    if (!market) throw new Error(`${file}: "${country}" is not in src/data/keywords/markets.ts`);
+    if (content.path !== `/${country}/${service}/`) throw new Error(`${file} has path "${content.path}", expected "/${country}/${service}/"`);
+    return { params: { country, service }, props: { content, market } };
+  });
+}
+
+interface Props {
+  content: FreelanceContent;
+  market: Market;
+}
+
+const { content, market } = Astro.props;
+---
+
+<FreelancePage content={content} market={market} />

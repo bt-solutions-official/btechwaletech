@@ -35,7 +35,7 @@ const vasaiVirar: CityContent = {
     pills: ["Sites from ₹10,000", "Catalogues for industrial galas", "Resort and banquet booking", "Marathi, Hindi, English SEO", "5 months free maintenance"],
   },
   quickAnswer:
-    "In Vasai-Virar, a basic website with us starts at ₹10,000 and a 700+ page SEO website at ₹20,000, delivered in one to five weeks. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three engineers with no local office, you own everything we build, and maintenance is free for five months.",
+    "In Vasai-Virar, a basic website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000, delivered in one to five weeks. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three engineers with no local office, you own everything we build, and maintenance is free for five months.",
   snapshot: [
     { label: "Civic body", value: "Vasai-Virar City Municipal Corporation, formed in 2010 from four municipal councils and 53 gram panchayats" },
     { label: "Rail stations", value: "Naigaon, Vasai Road, Nalasopara and Virar on the Western Railway suburban line" },
@@ -73,12 +73,12 @@ const vasaiVirar: CityContent = {
       heading: "How much does a website cost in Vasai-Virar?",
       paragraphs: [
         "Prices for websites in Vasai-Virar are all over the place. Some local operators charge ₹2,500 for a page on a shared template, with the domain in their own name. Mumbai agencies may ask for ₹60,000 or more for a site that is only slightly better, because the price carries their office rent and sales staff.",
-        "We publish our starting prices so you can plan. A static website of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks. A 700+ page SEO website, with separate pages for your services, products and the areas you serve, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000. Custom web applications such as dealer portals, production trackers or booking systems start at ₹60,000. Automation work starts at ₹40,000, and monthly SEO at ₹10,000.",
+        "We publish our starting prices so you can plan. A static website of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks. A 299+ page SEO website, with separate pages for your services, products and the areas you serve, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000. Custom web applications such as dealer portals, production trackers or booking systems start at ₹60,000. Automation work starts at ₹40,000, and monthly SEO at ₹10,000.",
         "Your quote lists every page and feature separately, so you can decide what to keep and what to leave for later. We don't bill anything until you approve the quote in writing. See the details on our <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [
         "<strong>Starting ₹10,000:</strong> a small site for a clinic, school, shop, tutor or service provider with enquiry form and SEO basics.",
-        "<strong>Starting ₹20,000:</strong> a 700+ page SEO site for manufacturers and service firms that want Google enquiries.",
+        "<strong>Starting ₹20,000:</strong> a 299+ page SEO site for manufacturers and service firms that want Google enquiries.",
         "<strong>Starting ₹50,000:</strong> an online store with UPI, cards, delivery zones and order notifications.",
         "<strong>Starting ₹60,000:</strong> custom software for galas, resorts, distributors and institutes.",
       ],
@@ -210,12 +210,12 @@ const vasaiVirar: CityContent = {
     {
       question: "How much does a website cost in Vasai-Virar?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Locally you will see quotes from ₹2,500 to Mumbai agency figures above ₹60,000. Compare what is included, especially domain ownership, SEO setup and support after launch.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Locally you will see quotes from ₹2,500 to Mumbai agency figures above ₹60,000. Compare what is included, especially domain ownership, SEO setup and support after launch.",
     },
     {
       question: "Vasai madhe website banvaychi aahe, kiti kharch yeil?",
       answer:
-        "Aamchyakade sadhi business website ₹10,000 pasun suru hote ani 700+ pages chi SEO website ₹20,000 pasun. Online store ₹50,000 pasun suru hoto. Final kimmat pages, products ani features var thartey, ani kaam suru honyaadhi tumhala sagla lihun dilela quote milto.",
+        "Aamchyakade sadhi business website ₹10,000 pasun suru hote ani 299+ pages chi SEO website ₹20,000 pasun. Online store ₹50,000 pasun suru hoto. Final kimmat pages, products ani features var thartey, ani kaam suru honyaadhi tumhala sagla lihun dilela quote milto.",
     },
     {
       question: "Do you have an office in Vasai or Virar?",
@@ -240,7 +240,7 @@ const vasaiVirar: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "One to two weeks for a static site, three to five weeks for a 700+ page SEO site, four to eight weeks for an online store and six to twelve weeks for custom software. The usual delay is collecting photos and text, so we draft the content and you correct it.",
+        "One to two weeks for a static site, three to five weeks for a 299+ page SEO site, four to eight weeks for an online store and six to twelve weeks for custom software. The usual delay is collecting photos and text, so we draft the content and you correct it.",
     },
     {
       question: "Can my website be in Marathi or Hindi?",

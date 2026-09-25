@@ -34,7 +34,7 @@ const bengaluru: CityContent = {
     pills: ["Sites from ₹10,000", "Startup landing pages", "SEO in English and Kannada", "AI agents and automation", "Web apps from ₹60,000"],
   },
   quickAnswer:
-    "In Bengaluru, a static business website with us starts at ₹10,000 and a 700+ page SEO website at ₹20,000, taking one to five weeks. AI automation starts at ₹40,000 and custom web apps at ₹60,000. We are a remote three-engineer team without a Bengaluru office, and five months of maintenance come free after launch.",
+    "In Bengaluru, a static business website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000, taking one to five weeks. AI automation starts at ₹40,000 and custom web apps at ₹60,000. We are a remote three-engineer team without a Bengaluru office, and five months of maintenance come free after launch.",
   snapshot: [
     { label: "Tech corridors", value: "Whitefield and ITPL, Outer Ring Road, Electronic City and Manyata Tech Park near Hebbal" },
     { label: "Startup neighbourhoods", value: "Koramangala, HSR Layout, Indiranagar and Domlur" },
@@ -72,12 +72,12 @@ const bengaluru: CityContent = {
       heading: "How much does a website cost in Bengaluru?",
       paragraphs: [
         "Bengaluru quotes range from a few thousand rupees on freelance marketplaces to several lakhs from design studios on 100 Feet Road. Cheap builds tend to skip SEO, analytics and handover, while premium studios often charge for brand strategy that a small business will never use. The useful question is what you get for the money, and who owns it afterwards.",
-        "Our starting prices are published. A static site with up to 100 pages costs from ₹10,000 and takes one to two weeks. A 700+ page SEO site costs from ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web apps and MVPs at ₹60,000, AI automation at ₹40,000, and monthly SEO at ₹10,000 a month.",
+        "Our starting prices are published. A static site with up to 100 pages costs from ₹10,000 and takes one to two weeks. A 299+ page SEO site costs from ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web apps and MVPs at ₹60,000, AI automation at ₹40,000, and monthly SEO at ₹10,000 a month.",
         "Scope decides the rest. A landing page with a waitlist form is a small job; a multi-tenant dashboard with role-based access is not. You get a written quote listing each page and feature within about two working days, and we bill nothing until you approve it in writing. Details of each tier are on the <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [
         "<strong>Static site, from ₹10,000:</strong> up to 100 pages, mobile layout, form, SEO basics. For clinics, consultants, interior firms and restaurants.",
-        "<strong>SEO site, from ₹20,000:</strong> 700+ pages, service and area pages, schema. For firms targeting specific neighbourhoods.",
+        "<strong>SEO site, from ₹20,000:</strong> 299+ pages, service and area pages, schema. For firms targeting specific neighbourhoods.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart, UPI and cards. For D2C brands, silk sellers and food businesses.",
         "<strong>Web app or MVP, from ₹60,000:</strong> logins, dashboards, APIs. For founders, manufacturers and service companies.",
       ],
@@ -209,12 +209,12 @@ const bengaluru: CityContent = {
     {
       question: "How much does a website cost in Bengaluru?",
       answer:
-        "With us, a static site starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web app or MVP at ₹60,000. Bengaluru quotes range from a few thousand rupees to several lakhs. Compare SEO, analytics, ownership of accounts and after-launch support, not only the headline price.",
+        "With us, a static site starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web app or MVP at ₹60,000. Bengaluru quotes range from a few thousand rupees to several lakhs. Compare SEO, analytics, ownership of accounts and after-launch support, not only the headline price.",
     },
     {
       question: "Bengaluru nalli website maadisoke eshtu kharchu aagutte?",
       answer:
-        "A simple business website with us starts at ₹10,000, and a 700+ page SEO website at ₹20,000. Online stores start at ₹50,000. We can build the site in Kannada, English or both. You get an itemised quote first, and nothing is billed until you approve it in writing.",
+        "A simple business website with us starts at ₹10,000, and a 299+ page SEO website at ₹20,000. Online stores start at ₹50,000. We can build the site in Kannada, English or both. You get an itemised quote first, and nothing is billed until you approve it in writing.",
     },
     {
       question: "You don't have an office in Bengaluru. How do meetings work?",
@@ -239,7 +239,7 @@ const bengaluru: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, and an online store four to eight weeks. The most common delay is content, so we draft starter copy for you to edit rather than waiting on empty pages.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, and an online store four to eight weeks. The most common delay is content, so we draft starter copy for you to edit rather than waiting on empty pages.",
     },
     {
       question: "Can you make my website in Kannada?",

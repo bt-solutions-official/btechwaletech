@@ -185,7 +185,7 @@ const content: CityContent = {
       paragraphs: [
         "SEO for a Jamshedpur manufacturer means appearing when purchase teams search for a specific process, product or capability, such as CNC turning, press shop components, heavy fabrication or forgings in Jamshedpur or Jharkhand, and giving them enough verified detail to send an enquiry. B2B searches are few but valuable, and one good-fit enquiry can outweigh thousands of casual visits.",
         "We build websites with separate pages for each process, product family and industry served, backed by machine lists, capacities, materials handled, quality practices and photographs of real work. Structured data describes your organisation and location. Clear factual passages are what Google's AI Overviews and assistants such as ChatGPT and Perplexity tend to quote when a buyer asks where to source a part. We avoid inflated claims because buyers verify during audits.",
-        "B2B websites start from ₹10,000, large SEO websites of 700+ pages from ₹20,000, and monthly <a href='/services/seo-services/'>SEO services</a> from ₹10,000. We never guarantee rankings. For specific process and location searches, early movement usually shows within two to four months, with monthly Search Console reports.",
+        "B2B websites start from ₹10,000, large SEO websites of 299+ pages from ₹20,000, and monthly <a href='/services/seo-services/'>SEO services</a> from ₹10,000. We never guarantee rankings. For specific process and location searches, early movement usually shows within two to four months, with monthly Search Console reports.",
       ],
     },
     {
@@ -210,7 +210,7 @@ const content: CityContent = {
       id: "cost-jamshedpur-software",
       heading: "Software development cost in Jamshedpur: what do freelance developers charge?",
       paragraphs: [
-        "Our starting prices for Jamshedpur projects are ₹10,000 for a website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store, ₹60,000 for production, quality, portal or dashboard software, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after five free months. These are starting points.",
+        "Our starting prices for Jamshedpur projects are ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store, ₹60,000 for production, quality, portal or dashboard software, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after five free months. These are starting points.",
         "Costs depend on how many modules, users and integrations you need and how clean your existing data is. A job tracker for one section with twenty part numbers is simpler than a plant-wide system with inspection plans, maintenance and supplier portals. Building one module, using it for a month and then adding the next keeps risk and cash flow manageable.",
         "You receive an itemised quote in about two working days, and work begins after written approval. Payment to us is made only by UPI (scan our QR code) or direct bank transfer to our bank account in INR, typically in milestones against approved deliverables.",
       ],

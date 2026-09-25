@@ -39,7 +39,7 @@ const nokha: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first local SEO", "Bhujia and papad stores", "You keep every login"],
   },
   quickAnswer:
-    "Nokha firms can get a simple website from ₹10,000, normally live inside a fortnight. Apps for Android and iOS begin at ₹40,000, as does AI automation; a 700+ page SEO build begins at ₹20,000, ecommerce at ₹50,000 and bespoke software at ₹60,000. No Nokha office, all remote, and every login stays yours.",
+    "Nokha firms can get a simple website from ₹10,000, normally live inside a fortnight. Apps for Android and iOS begin at ₹40,000, as does AI automation; a 299+ page SEO build begins at ₹20,000, ecommerce at ₹50,000 and bespoke software at ₹60,000. No Nokha office, all remote, and every login stays yours.",
   snapshot: [
     { label: "Location", value: "Tehsil town and municipality in Bikaner district, on the Bikaner–Nagaur highway" },
     { label: "Founded", value: "Established on 19 September 1927 by Maharaja Ganga Singh of Bikaner as a planned krishi mandi" },
@@ -105,7 +105,7 @@ const nokha: CityContent = {
       paragraphs: [
         "Beyond food, Nokha's small and medium units make or process groundnut oil and oil cake, guar gum, cement and PVC pipes, electric wire and cables, plastic goods, woollen yarn and blankets, spices and more. Their buyers are traders, contractors and other factories, often in other states, who compare suppliers before calling.",
         "As a <strong>website development team in Nokha</strong> for these units, we build product pages with specifications, pack or bale sizes, certifications, minimum order quantities and dispatch terms, along with an enquiry form that asks for quantity and destination. PDF catalogues can be downloaded, and every product gets its own page so that specific searches can find it.",
-        "For a unit with a short product list, a focused B2B site can begin at ₹10,000. A wide catalogue that needs hundreds of pages fits the SEO website plan instead, from ₹20,000 for 700+ pages over three to five weeks. What a standard build covers is set out on our <a href=\"/services/web-development/\">web development service</a> page.",
+        "For a unit with a short product list, a focused B2B site can begin at ₹10,000. A wide catalogue that needs hundreds of pages fits the SEO website plan instead, from ₹20,000 for 299+ pages over three to five weeks. What a standard build covers is set out on our <a href=\"/services/web-development/\">web development service</a> page.",
       ],
     },
     {
@@ -157,7 +157,7 @@ const nokha: CityContent = {
       id: "website-cost-nokha",
       heading: "Website cost in Nokha: starting prices and how to compare",
       paragraphs: [
-        "Here is the ladder. Up to 100 static pages: from ₹10,000, one to two weeks. A 700+ page SEO site for a factory with a long catalogue or a firm covering many villages: from ₹20,000, three to five weeks. Android and iOS apps, and AI automation: each from ₹40,000.",
+        "Here is the ladder. Up to 100 static pages: from ₹10,000, one to two weeks. A 299+ page SEO site for a factory with a long catalogue or a firm covering many villages: from ₹20,000, three to five weeks. Android and iOS apps, and AI automation: each from ₹40,000.",
         "Selling bhujia or papad online through your own store begins at ₹50,000, with four to eight weeks of work. A mandi ledger or distributor portal is custom software, from ₹60,000 over six to twelve weeks. Ongoing SEO is from ₹10,000 per month.",
         "Quotes around Nokha and Bikaner swing a long way. Before choosing, check whose name the domain is in, whether a person fluent in Hindi wrote the text, how the site behaves on an ordinary phone and what you will pay each year after launch. Our line-by-line figures are on the <a href=\"/pricing/\">pricing page</a>.",
       ],
@@ -209,12 +209,12 @@ const nokha: CityContent = {
     {
       question: "How much does a website cost in Nokha?",
       answer:
-        "Expect a 100-page static site from ₹10,000, done in roughly one to two weeks. Bigger jobs climb in steps: an SEO site of 700+ pages from ₹20,000, a store from ₹50,000, bespoke software from ₹60,000. The itemised quote lands within about two working days, and you pay nothing before approving it on paper or WhatsApp.",
+        "Expect a 100-page static site from ₹10,000, done in roughly one to two weeks. Bigger jobs climb in steps: an SEO site of 299+ pages from ₹20,000, a store from ₹50,000, bespoke software from ₹60,000. The itemised quote lands within about two working days, and you pay nothing before approving it on paper or WhatsApp.",
     },
     {
       question: "How many weeks does a Nokha website or app take?",
       answer:
-        "Small sites are usually done in one to two weeks; the slow part is gathering photos and approving Hindi copy. SEO builds of 700+ pages need three to five weeks, stores four to eight and custom tools six to twelve. Apps depend on screens, and every stage comes to you as a preview link.",
+        "Small sites are usually done in one to two weeks; the slow part is gathering photos and approving Hindi copy. SEO builds of 299+ pages need three to five weeks, stores four to eight and custom tools six to twelve. Apps depend on screens, and every stage comes to you as a preview link.",
     },
     {
       question: "Which is the best website development team in Nokha?",

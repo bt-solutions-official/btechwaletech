@@ -40,7 +40,7 @@ const sheopur: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi local SEO", "Kuno safari stay bookings", "Domain and code in your name"],
   },
   quickAnswer:
-    "In Sheopur, a business website with us starts at ₹10,000 and is generally ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Sheopur office, and every account stays in your name.",
+    "In Sheopur, a business website with us starts at ₹10,000 and is generally ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Sheopur office, and every account stays in your name.",
   snapshot: [
     { label: "Administration", value: "Headquarters of Sheopur district in the Chambal division, with tehsils at Sheopur, Vijaypur, Karahal, Birpur and Badoda" },
     { label: "Population", value: "About 1.05 lakh in the town at the 2011 census" },
@@ -150,7 +150,7 @@ const sheopur: CityContent = {
       id: "website-cost-sheopur",
       heading: "Website cost in Sheopur: starting prices explained",
       paragraphs: [
-        "Most owners in Sheopur start by asking what a website will cost. A static website of up to 100 pages starts at ₹10,000 and is ready in one to two weeks. When you want pages for every service, crop, village or safari question, an SEO website of 700+ pages starts at ₹20,000 and takes three to five weeks.",
+        "Most owners in Sheopur start by asking what a website will cost. A static website of up to 100 pages starts at ₹10,000 and is ready in one to two weeks. When you want pages for every service, crop, village or safari question, an SEO website of 299+ pages starts at ₹20,000 and takes three to five weeks.",
         "Beyond websites, Android and iOS apps start at ₹40,000, AI and WhatsApp automation starts at ₹40,000 over two to four weeks, online stores start at ₹50,000 over four to eight weeks, and custom software such as a mandi register starts at ₹60,000 over six to twelve weeks. Monthly SEO starts at ₹10,000 a month, and maintenance starts at ₹8,000 a month once the five free months after launch are over.",
         "Quotes from different providers in Sheopur, Gwalior and Kota vary widely, so compare them carefully: who owns the domain, whether Hindi content is included, how many revisions you get and what support looks like after launch. We send an itemised quote in about two working days and bill nothing before your approval. The full list is on our <a href=\"/pricing/\">pricing</a> page.",
       ],
@@ -211,7 +211,7 @@ const sheopur: CityContent = {
     {
       question: "What is the website cost in Sheopur?",
       answer:
-        "Websites start at ₹10,000 for a static site, ₹20,000 for a 700+ page SEO site, ₹50,000 for an online store and ₹60,000 for custom software. All of these are starting prices. The final amount depends on pages, Hindi content, features and integrations, and you get it itemised in writing before any billing.",
+        "Websites start at ₹10,000 for a static site, ₹20,000 for a 299+ page SEO site, ₹50,000 for an online store and ₹60,000 for custom software. All of these are starting prices. The final amount depends on pages, Hindi content, features and integrations, and you get it itemised in writing before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Sheopur businesses?",

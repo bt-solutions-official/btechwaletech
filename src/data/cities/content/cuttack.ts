@@ -35,7 +35,7 @@ const cuttack: CityContent = {
     pills: ["Sites from ₹10,000", "Odia and English pages", "Filigree and jewellery stores", "WhatsApp order flows", "Free upkeep for 5 months"],
   },
   quickAnswer:
-    "A business website for a Cuttack shop, clinic or practice starts at ₹10,000 with us and takes one to two weeks; a 700+ page SEO website starts at ₹20,000. We are three engineers working remotely, with no Cuttack office, and every build includes hosting setup, Google basics and five months of free maintenance.",
+    "A business website for a Cuttack shop, clinic or practice starts at ₹10,000 with us and takes one to two weeks; a 299+ page SEO website starts at ₹20,000. We are three engineers working remotely, with no Cuttack office, and every build includes hosting setup, Google basics and five months of free maintenance.",
   snapshot: [
     { label: "Trade streets", value: "Choudhury Bazaar, Buxi Bazaar, Link Road, Badambadi, Nayasarak and Chandni Chowk" },
     { label: "Industrial estates", value: "Jagatpur (IDCO), Khapuria and Madhupatna estates for MSME and ancillary units" },
@@ -73,12 +73,12 @@ const cuttack: CityContent = {
       heading: "What a website costs in Cuttack, line by line",
       paragraphs: [
         "Owners in Cuttack tell us they have been quoted anything from ₹2,500 to ₹50,000 for what sounded like the same five-page site. The cheapest offers tend to be a template with your name swapped in, hosted on the seller's account and without any work on Google. The expensive ones usually include agency overheads that do not improve the site itself. Neither end tells you what you are paying for.",
-        "Our starting prices are published openly. A static website for a clinic, chamber or shop starts at ₹10,000 and usually goes live in one to two weeks. A 700+ page SEO website with separate pages for each service and locality begins at ₹20,000 and takes three to five weeks. Online stores with UPI and card checkout start at ₹50,000, automation projects at ₹40,000, and custom web applications at ₹60,000. Monthly SEO is from ₹10,000 a month and optional.",
+        "Our starting prices are published openly. A static website for a clinic, chamber or shop starts at ₹10,000 and usually goes live in one to two weeks. A 299+ page SEO website with separate pages for each service and locality begins at ₹20,000 and takes three to five weeks. Online stores with UPI and card checkout start at ₹50,000, automation projects at ₹40,000, and custom web applications at ₹60,000. Monthly SEO is from ₹10,000 a month and optional.",
         "What moves a quote upwards is mostly content: the number of products, whether you need Odia and English versions, and whether photographs exist. We list every page and feature in writing, and no invoice is raised until you have approved that list.",
       ],
       list: [
         "<strong>Static site, from ₹10,000:</strong> up to 100 pages, call and WhatsApp buttons, map, enquiry form. Good for advocates, doctors and single-outlet shops.",
-        "<strong>SEO site, from ₹20,000:</strong> 700+ pages covering services and the Cuttack areas you serve, with schema and sitemap.",
+        "<strong>SEO site, from ₹20,000:</strong> 299+ pages covering services and the Cuttack areas you serve, with schema and sitemap.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart, UPI and cards through Razorpay, shipping rules. Suits filigree, textiles and food brands.",
         "<strong>Web application, from ₹60,000:</strong> logins, roles, reports. Suits distributors, labs and small manufacturers.",
       ],
@@ -209,12 +209,12 @@ const cuttack: CityContent = {
     {
       question: "What does a website cost in Cuttack?",
       answer:
-        "With us, a static business website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom application at ₹60,000. Cuttack quotes for similar work range widely, so compare what is included: domain ownership, search setup, hosting access and support after launch, not only the headline figure.",
+        "With us, a static business website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom application at ₹60,000. Cuttack quotes for similar work range widely, so compare what is included: domain ownership, search setup, hosting access and support after launch, not only the headline figure.",
     },
     {
       question: "Cuttack re website banaiba pain kete kharcha heba?",
       answer:
-        "Amara sahita sadharana business website ₹10,000 ru arambha hue, au 700+ page wala SEO website ₹20,000 ru. Online store ₹50,000 ru arambha. Sesha dara pages, features au content upare nirbhara kare, au kama arambha pain agaru apananku sampurna itemised quote diajiba.",
+        "Amara sahita sadharana business website ₹10,000 ru arambha hue, au 299+ page wala SEO website ₹20,000 ru. Online store ₹50,000 ru arambha. Sesha dara pages, features au content upare nirbhara kare, au kama arambha pain agaru apananku sampurna itemised quote diajiba.",
     },
     {
       question: "Do you have an office in Cuttack where I can visit?",
@@ -239,7 +239,7 @@ const cuttack: CityContent = {
     {
       question: "How long does a website take to build?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks, and a custom web application six to twelve weeks. The most common delay is waiting for photographs and text, so we draft starter copy that you correct rather than write from scratch.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks, and a custom web application six to twelve weeks. The most common delay is waiting for photographs and text, so we draft starter copy that you correct rather than write from scratch.",
     },
     {
       question: "Can you make my website in Odia as well as English?",

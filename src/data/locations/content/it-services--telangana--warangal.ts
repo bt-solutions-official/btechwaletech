@@ -158,7 +158,7 @@ const content: CityContent = {
       heading: "Local SEO and AI-search visibility in Warangal, Hanamkonda and Kazipet",
       paragraphs: [
         "Local SEO in Warangal means appearing when people search for a specific course, specialty or service in Hanamkonda, Kazipet or Warangal, and being described accurately in Google Maps and AI assistant answers. Parents compare colleges online, patients check hospitals before travelling, and many of these searches mix Telugu and English.",
-        "We build pages for each course, specialty or service with schema markup, FAQs, fees or timings where appropriate, and accurate addresses. Google Business Profile guidance covers categories, photos, posts and review requests. Websites start at ₹10,000, 700+ page SEO websites at ₹20,000, and monthly SEO at ₹10,000.",
+        "We build pages for each course, specialty or service with schema markup, FAQs, fees or timings where appropriate, and accurate addresses. Google Business Profile guidance covers categories, photos, posts and review requests. Websites start at ₹10,000, 299+ page SEO websites at ₹20,000, and monthly SEO at ₹10,000.",
         "We never promise rankings. We report monthly from Search Console on impressions, clicks and enquiries. See our <a href=\"/services/seo-services/\">SEO services</a> and <a href=\"/services/web-development/\">web development</a> pages for details.",
       ],
     },
@@ -206,7 +206,7 @@ const content: CityContent = {
       ],
       list: [
         "Website with lead capture, up to 100 pages: from ₹10,000, one to two weeks",
-        "SEO website with 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website with 299+ pages: from ₹20,000, three to five weeks",
         "WhatsApp and AI automation: from ₹40,000, two to four weeks",
         "Android and iOS app: from ₹40,000, six to ten weeks",
         "Online store: from ₹50,000, four to eight weeks",

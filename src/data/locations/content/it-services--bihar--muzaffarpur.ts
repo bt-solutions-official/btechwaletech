@@ -206,7 +206,7 @@ const content: CityContent = {
       id: "cost-timelines-muzaffarpur",
       heading: "What do freelance software developers in Muzaffarpur cost, and how long do projects take?",
       paragraphs: [
-        "With BtechWaleTech, custom software for a Muzaffarpur business starts at ₹60,000 and takes six to twelve weeks, AI automation starts at ₹40,000 and takes two to four weeks, an online store starts at ₹50,000, a website at ₹10,000 and a 700+ page SEO site at ₹20,000. Monthly SEO is from ₹10,000 and support from ₹8,000 a month. Android and iOS apps start at ₹40,000 and take six to ten weeks.",
+        "With BtechWaleTech, custom software for a Muzaffarpur business starts at ₹60,000 and takes six to twelve weeks, AI automation starts at ₹40,000 and takes two to four weeks, an online store starts at ₹50,000, a website at ₹10,000 and a 299+ page SEO site at ₹20,000. Monthly SEO is from ₹10,000 and support from ₹8,000 a month. Android and iOS apps start at ₹40,000 and take six to ten weeks.",
         "Cost is driven by scope: the number of user roles, screens and reports, integrations with Tally, SMS or a payment gateway, offline features in mobile apps, and how messy the existing data is. Timelines depend on how fast feedback comes back. Projects move quickest when one decision-maker reviews each weekly demo and sample data such as item lists and retailer ledgers is shared early.",
       ],
       list: [

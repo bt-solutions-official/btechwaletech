@@ -177,7 +177,7 @@ const content: CityContent = {
       paragraphs: [
         "SEO for Tamil Nadu businesses means ranking in Google search and Maps for Tamil and English queries in the towns you serve, and making your information clear enough that AI assistants such as ChatGPT, Gemini and Google AI Overviews describe you accurately. Monthly SEO with us starts from ₹10,000.",
         "Local SEO covers a well-maintained Google Business Profile for each location, consistent name, address and phone details across directories, genuine reviews and photos, and a location page for each town you truly serve. For businesses targeting several cities, we write each page separately rather than cloning text. Tamil pages often rank faster because fewer competitors write good Tamil content, particularly for services such as repairs, clinics and education.",
-        "For larger catalogues or service areas, our <a href='/services/seo-services/'>SEO services</a> include 700+ page SEO websites from ₹20,000. We use structured data, fast static pages and FAQ sections that answer real questions. We never promise rankings; local results usually improve within three to six months when fundamentals are done well, and we share Search Console reports each month.",
+        "For larger catalogues or service areas, our <a href='/services/seo-services/'>SEO services</a> include 299+ page SEO websites from ₹20,000. We use structured data, fast static pages and FAQ sections that answer real questions. We never promise rankings; local results usually improve within three to six months when fundamentals are done well, and we share Search Console reports each month.",
       ],
     },
     {
@@ -261,7 +261,7 @@ const content: CityContent = {
     {
       question: "How long do projects take?",
       answer:
-        "Static websites take one to two weeks, AI automation two to four weeks, 700+ page SEO websites three to five weeks, online stores four to eight weeks, apps six to ten weeks and custom software six to twelve weeks. Timelines depend heavily on how quickly content, data and approvals arrive from your side.",
+        "Static websites take one to two weeks, AI automation two to four weeks, 299+ page SEO websites three to five weeks, online stores four to eight weeks, apps six to ten weeks and custom software six to twelve weeks. Timelines depend heavily on how quickly content, data and approvals arrive from your side.",
     },
     {
       question: "Can you integrate with Tally or our existing ERP?",

@@ -39,7 +39,7 @@ const sunam: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Punjabi-first local SEO", "Arhtiya and wholesale tools", "Code and domain in your name"],
   },
   quickAnswer:
-    "For Sunam businesses, our websites start at ₹10,000 and are usually ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Sunam office, and you own every account.",
+    "For Sunam businesses, our websites start at ₹10,000 and are usually ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Sunam office, and you own every account.",
   snapshot: [
     { label: "Location", value: "Town and tehsil in Sangrur district, about 13 km from Sangrur city" },
     { label: "Railway", value: "Sunam Udham Singh Wala station on the Ludhiana–Hisar line" },
@@ -157,7 +157,7 @@ const sunam: CityContent = {
       id: "website-cost-sunam",
       heading: "Website cost in Sunam: starting prices and what to compare",
       paragraphs: [
-        "Most conversations in Sunam open with “kinne da banega?”, so the entry points come first. A plain business site, anything up to 100 pages, begins at ₹10,000 and is normally finished inside a fortnight. A larger search-focused build of 700-plus pages, the kind a cloth house with dozens of ranges or a college with many courses needs, begins at ₹20,000 and runs three to five weeks.",
+        "Most conversations in Sunam open with “kinne da banega?”, so the entry points come first. A plain business site, anything up to 100 pages, begins at ₹10,000 and is normally finished inside a fortnight. A larger search-focused build of 299-plus pages, the kind a cloth house with dozens of ranges or a college with many courses needs, begins at ₹20,000 and runs three to five weeks.",
         "Phone apps for Android and iPhone begin at ₹40,000. WhatsApp and AI automation also begins at ₹40,000 and usually needs two to four weeks. A retailer catalogue or online shop begins at ₹50,000 with four to eight weeks of work, and custom tools such as an arhtiya ledger begin at ₹60,000 over six to twelve weeks. Ongoing SEO work begins at ₹10,000 per month, and after the free five-month support period, upkeep begins at ₹8,000 per month for those who want it.",
         "The figure moves up only for options you pick: three languages instead of one, a thousand-item catalogue, retailer logins, UPI collection or an export for your accountant. Every option is a separate line that you may accept or cross out, and sending your own photographs and write-up keeps the total close to the base.",
         "Two quotes in Sangrur district for similar-sounding work can be far apart. Put the same questions to everyone: in whose name will the domain sit, will the site be tried on an inexpensive handset, is on-page SEO part of the job, how many change rounds are allowed, and what will support cost in year two. Our base rates are listed on the <a href=\"/pricing/\">pricing page</a>, and a line-by-line quote for your job follows within roughly two working days.",
@@ -220,7 +220,7 @@ const sunam: CityContent = {
     {
       question: "What is the website cost in Sunam?",
       answer:
-        "A basic site from us begins at ₹10,000, a 700+ page search-focused site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Treat these as base rates: Punjabi content, catalogue size and integrations decide the final figure, which you see line by line in writing before paying anything.",
+        "A basic site from us begins at ₹10,000, a 299+ page search-focused site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Treat these as base rates: Punjabi content, catalogue size and integrations decide the final figure, which you see line by line in writing before paying anything.",
     },
     {
       question: "Do you build Android and iOS apps for Sunam businesses?",
@@ -230,7 +230,7 @@ const sunam: CityContent = {
     {
       question: "How long does a website take for a Sunam shop?",
       answer:
-        "Once photographs and shop details reach us, a basic site generally goes live within a fortnight. Bigger work needs longer: roughly three to five weeks for a 700+ page site, four to eight for a store and six to twelve for software. Owners who send material early see their site sooner.",
+        "Once photographs and shop details reach us, a basic site generally goes live within a fortnight. Bigger work needs longer: roughly three to five weeks for a 299+ page site, four to eight for a store and six to twelve for software. Owners who send material early see their site sooner.",
     },
     {
       question: "Which is the best website development team in Sunam?",
@@ -260,7 +260,7 @@ const sunam: CityContent = {
     {
       question: "Sunam vich website banaun da kinna kharcha aunda hai?",
       answer:
-        "Saade naal simple website ₹10,000 ton shuru hundi hai te ikk-do hafteyan vich tiyaar ho jandi hai. 700+ page SEO website ₹20,000 ton, Android te iOS app ₹40,000 ton te online store ₹50,000 ton shuru hai. Tuhade pages te features de hisaab naal poora quote likhti roop vich bhejeya janda hai.",
+        "Saade naal simple website ₹10,000 ton shuru hundi hai te ikk-do hafteyan vich tiyaar ho jandi hai. 299+ page SEO website ₹20,000 ton, Android te iOS app ₹40,000 ton te online store ₹50,000 ton shuru hai. Tuhade pages te features de hisaab naal poora quote likhti roop vich bhejeya janda hai.",
     },
     {
       question: "You have no office in Sunam. Is remote work safe for me?",

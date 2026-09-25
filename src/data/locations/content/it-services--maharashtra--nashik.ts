@@ -162,7 +162,7 @@ const content: CityContent = {
       paragraphs: [
         "SEO for a Nashik firm means being found by the right buyer at the moment they search, whether that is a purchase manager looking for a CNC machining vendor in Nashik, a family searching for a hospital near Gangapur Road, or a student comparing pharmacy colleges. Increasingly, the answer also comes from AI summaries, which draw on clear, factual pages.",
         "Our approach starts with the pages you need rather than the keywords you want. A manufacturer usually needs one page per capability, material and industry served, with drawings, tolerances and certifications stated plainly. A clinic needs one page per treatment and doctor. We add structured data, a sitemap, internal links and Google Business Profile guidance, and write in Marathi where your customers search in Marathi.",
-        "We do not promise rankings, because nobody honestly can. What we can show is measured progress in Search Console over three to six months. Ongoing SEO starts at ₹10,000 a month, and a large 700+ page SEO website starts at ₹20,000. More detail is on our <a href='/services/seo-services/'>SEO services page</a>.",
+        "We do not promise rankings, because nobody honestly can. What we can show is measured progress in Search Console over three to six months. Ongoing SEO starts at ₹10,000 a month, and a large 299+ page SEO website starts at ₹20,000. More detail is on our <a href='/services/seo-services/'>SEO services page</a>.",
       ],
     },
     {
@@ -179,7 +179,7 @@ const content: CityContent = {
       heading: "How much does a software development team in Nashik charge?",
       paragraphs: [
         "A software development team in Nashik typically prices custom work by screens, roles and integrations; with BtechWaleTech, custom software starts at ₹60,000, and most first versions for small and mid-sized firms fall somewhere above that depending on screens, user roles and integrations. A simple job tracker with one user type sits near the starting price; a multi-location system with approvals, reports and Tally sync costs more.",
-        "Other starting prices are public too. A static website of up to 100 pages starts at ₹10,000. A 700+ page SEO website starts at ₹20,000. An online store starts at ₹50,000. AI automation starts at ₹40,000, and so do Android and iOS apps. Monthly SEO starts at ₹10,000, and maintenance after the free period starts at ₹8,000 a month. The complete table sits on our <a href='/pricing/'>pricing page</a>.",
+        "Other starting prices are public too. A static website of up to 100 pages starts at ₹10,000. A 299+ page SEO website starts at ₹20,000. An online store starts at ₹50,000. AI automation starts at ₹40,000, and so do Android and iOS apps. Monthly SEO starts at ₹10,000, and maintenance after the free period starts at ₹8,000 a month. The complete table sits on our <a href='/pricing/'>pricing page</a>.",
         "What keeps costs sensible is scope discipline. We would rather build the three screens your team will use every day than a thirty-screen system that looks impressive in a demo. You receive an itemised quote within about two working days of describing the requirement, and nothing is charged until you approve it.",
       ],
     },

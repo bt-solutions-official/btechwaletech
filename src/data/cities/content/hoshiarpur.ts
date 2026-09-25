@@ -34,7 +34,7 @@ const hoshiarpur: CityContent = {
     pills: ["Sites from ₹10,000", "Wood inlay catalogues", "Punjabi and English content", "Enquiries from abroad", "5 free maintenance months"],
   },
   quickAnswer:
-    "In Hoshiarpur, a business website with us starts at ₹10,000 and takes one to two weeks, while a 700+ page SEO website starts at ₹20,000. Online stores start at ₹50,000 and automation at ₹40,000. We are three remote engineers with no local office, and the first five months of maintenance are free.",
+    "In Hoshiarpur, a business website with us starts at ₹10,000 and takes one to two weeks, while a 299+ page SEO website starts at ₹20,000. Online stores start at ₹50,000 and automation at ₹40,000. We are three remote engineers with no local office, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Region", value: "Doaba region of Punjab, Jalandhar division, bordering Kangra and Una districts of Himachal Pradesh" },
     { label: "Signature craft", value: "Hoshiarpur wood inlay, a GI-tagged craft of engraved sheesham inlaid with acrylic, bone and shell" },
@@ -72,12 +72,12 @@ const hoshiarpur: CityContent = {
       heading: "Website costs in Hoshiarpur, itemised",
       paragraphs: [
         "Ask around Hoshiarpur and you will hear anything from a few thousand rupees for a template to large agency quotes from Jalandhar or Chandigarh. The cheap route often leaves the domain in someone else's email, and the expensive one often pays for an office you never visit. We prefer to show you each line of the cost.",
-        "Our prices are starting prices. A static website of up to 100 pages starts at ₹10,000 and is normally ready in one to two weeks. A 700+ page SEO website, with its own page for each product, service or area, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom software at ₹60,000 and AI or WhatsApp automation at ₹40,000. Monthly SEO starts at ₹10,000. The full table is on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our prices are starting prices. A static website of up to 100 pages starts at ₹10,000 and is normally ready in one to two weeks. A 299+ page SEO website, with its own page for each product, service or area, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom software at ₹60,000 and AI or WhatsApp automation at ₹40,000. Monthly SEO starts at ₹10,000. The full table is on our <a href=\"/pricing/\">pricing page</a>.",
         "What changes the figure is scope. Three hundred inlay products with photographs and international shipping rules take longer than a four-page consultancy site. If the total is more than you planned, we mark which items can wait, so you launch with the pages most likely to bring enquiries.",
       ],
       list: [
         "<strong>Static site from ₹10,000:</strong> up to 100 pages, enquiry form, WhatsApp button, on-page SEO.",
-        "<strong>SEO site from ₹20,000:</strong> 700+ pages, schema, sitemap and Search Console.",
+        "<strong>SEO site from ₹20,000:</strong> 299+ pages, schema, sitemap and Search Console.",
         "<strong>Store from ₹50,000:</strong> catalogue, UPI and card checkout, shipping zones, order alerts.",
         "<strong>Custom app from ₹60,000:</strong> logins, case files, dealer pricing and reports.",
       ],
@@ -217,12 +217,12 @@ const hoshiarpur: CityContent = {
     {
       question: "How much does a website cost in Hoshiarpur?",
       answer:
-        "With us, a static website starts at ₹10,000 and a 700+ page SEO website starts at ₹20,000. Stores with UPI start at ₹50,000 and custom software at ₹60,000. The final amount depends on pages and features, and you get an itemised quote before anything is billed.",
+        "With us, a static website starts at ₹10,000 and a 299+ page SEO website starts at ₹20,000. Stores with UPI start at ₹50,000 and custom software at ₹60,000. The final amount depends on pages and features, and you get an itemised quote before anything is billed.",
     },
     {
       question: "Hoshiarpur vich website banwaun te kinna kharcha aunda hai?",
       answer:
-        "Saade kol chhoti business website ₹10,000 ton shuru hundi hai, te 700+ pages wali SEO website ₹20,000 ton. Online store ₹50,000 ton shuru hunda hai. Pages te features de hisaab naal final rate tay hunda hai, te kamm shuru hon ton pehlan tuhanu har item da rate likh ke bhejeya janda hai.",
+        "Saade kol chhoti business website ₹10,000 ton shuru hundi hai, te 299+ pages wali SEO website ₹20,000 ton. Online store ₹50,000 ton shuru hunda hai. Pages te features de hisaab naal final rate tay hunda hai, te kamm shuru hon ton pehlan tuhanu har item da rate likh ke bhejeya janda hai.",
     },
     {
       question: "Is your office in Hoshiarpur?",
@@ -247,7 +247,7 @@ const hoshiarpur: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static website usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Most delays come from waiting for photos and text, so we draft content for you to correct.",
+        "A static website usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Most delays come from waiting for photos and text, so we draft content for you to correct.",
     },
     {
       question: "Do you work with businesses in Dasuya, Mukerian, Garhshankar and nearby towns?",

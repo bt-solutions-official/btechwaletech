@@ -196,13 +196,13 @@ const content: CityContent = {
       id: "namsai-cost-timeline",
       heading: "How much do freelance software developers in Namsai charge, and how long does it take?",
       paragraphs: [
-        "Freelance software developers in Namsai, working at BtechWaleTech's published rates, charge from ₹10,000 for a mobile-first website, ₹20,000 for a 700+ page SEO site, ₹40,000 for automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Timelines run from one to two weeks for a website up to six to twelve weeks for software.",
+        "Freelance software developers in Namsai, working at BtechWaleTech's published rates, charge from ₹10,000 for a mobile-first website, ₹20,000 for a 299+ page SEO site, ₹40,000 for automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Timelines run from one to two weeks for a website up to six to twelve weeks for software.",
         "Those are starting figures. An admission portal for a single school costs less than one for a university with dozens of programmes and category-wise seat matrices. A booking page for one homestay is simpler than a multi-property system. The itemised quote lists each part separately, so you can phase the work and start with the most valuable part first.",
         "Payment is by UPI (scanning our QR code) or bank transfer to our account, in INR, in stages linked to progress. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after the free period. See the complete <a href='/pricing/'>pricing</a> for details.",
       ],
       list: [
         "Mobile-first website: from ₹10,000, 1 to 2 weeks",
-        "700+ page SEO website: from ₹20,000, 3 to 5 weeks",
+        "299+ page SEO website: from ₹20,000, 3 to 5 weeks",
         "Workflow or AI automation: from ₹40,000, 2 to 4 weeks",
         "Android and iOS app: from ₹40,000, 6 to 10 weeks",
         "Online store: from ₹50,000, 4 to 8 weeks",

@@ -150,7 +150,7 @@ const content: CityContent = {
       id: "kanpur-b2b-web-seo",
       heading: "B2B catalogues, websites and SEO for Kanpur suppliers",
       paragraphs: [
-        "A B2B catalogue website for a Kanpur supplier presents products with specifications, materials, finishes, capacities and certifications, plus a quick RFQ form. BtechWaleTech builds static sites from ₹10,000 and 700+ page SEO websites from ₹20,000 for manufacturers with large product ranges, with monthly SEO from ₹10,000.",
+        "A B2B catalogue website for a Kanpur supplier presents products with specifications, materials, finishes, capacities and certifications, plus a quick RFQ form. BtechWaleTech builds static sites from ₹10,000 and 299+ page SEO websites from ₹20,000 for manufacturers with large product ranges, with monthly SEO from ₹10,000.",
         "Importers and industrial buyers search for specific products, such as a type of saddlery, a leather grade or an engineered component, and compare suppliers quickly. One detailed page per product family, with real photographs of your facility and clear minimum order quantities, earns both rankings and trust. Hindi pages and a Google Business Profile help local customers find traders and service businesses.",
         "We add schema markup and answer-first content that AI search tools can quote, and we never promise guaranteed rankings. See our <a href=\"/services/seo-services/\">SEO services</a> and <a href=\"/services/web-development/\">web development</a> pages, or the <a href=\"/kanpur/\">Kanpur website design page</a> if you mainly need a website.",
       ],
@@ -185,7 +185,7 @@ const content: CityContent = {
       id: "kanpur-cost",
       heading: "What does software development cost in Kanpur?",
       paragraphs: [
-        "Software development in Kanpur with BtechWaleTech starts at ₹60,000 for custom production, export or dealer software, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for ecommerce, ₹20,000 for a 700+ page SEO website and ₹10,000 for a static website. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after five free months.",
+        "Software development in Kanpur with BtechWaleTech starts at ₹60,000 for custom production, export or dealer software, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for ecommerce, ₹20,000 for a 299+ page SEO website and ₹10,000 for a static website. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after five free months.",
         "Costs rise with modules, users, integrations and data migration. A single-unit order tracker sits near the starting price; a multi-unit export system with supervisor apps, document storage and buyer updates costs more. You get an itemised quote within about two working days. See all plans on our <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [

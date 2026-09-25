@@ -176,7 +176,7 @@ const content: CityContent = {
       paragraphs: [
         "SEO for a Mandi business means making sure people searching for your product or service in Mandi, Sundernagar, Nerchowk or nearby valleys find you on Google, Google Maps and AI assistants, with accurate details and pages that answer their questions. Local SEO relies heavily on a complete Google Business Profile, consistent contact details and useful, specific pages on your site.",
         "Search demand around Mandi is layered. Residents look for doctors, schools, hardware and repair services. Travellers passing through to Kullu or Manali search for hotels, food and fuel along the highway. Pilgrims and visitors look up the temples of Chhoti Kashi, the Shivratri fair, Rewalsar lake and Prashar lake. Students and parents search for coaching, hostels and PG rooms near colleges and IIT Mandi. Each group uses different words, often mixing Hindi and English, and each deserves a page written for it.",
-        "We build those pages, add structured data so search engines and AI tools understand your business, and write clear factual passages that answer engines like Google's AI Overviews can quote. Our monthly <a href='/services/seo-services/'>SEO services</a> start from ₹10,000, and a large SEO website of 700+ pages starts from ₹20,000. Rankings are never guaranteed; realistic early movement for local, specific searches often appears within two to four months, and we share Search Console data every month.",
+        "We build those pages, add structured data so search engines and AI tools understand your business, and write clear factual passages that answer engines like Google's AI Overviews can quote. Our monthly <a href='/services/seo-services/'>SEO services</a> start from ₹10,000, and a large SEO website of 299+ pages starts from ₹20,000. Rankings are never guaranteed; realistic early movement for local, specific searches often appears within two to four months, and we share Search Console data every month.",
       ],
     },
     {
@@ -210,7 +210,7 @@ const content: CityContent = {
       id: "cost-software-mandi",
       heading: "Software development cost in Mandi: what do our freelance developers charge?",
       paragraphs: [
-        "BtechWaleTech's starting prices for Mandi clients are ₹10,000 for a website, ₹20,000 for a 700+ page SEO website, ₹50,000 for an online store, ₹40,000 for AI automation or an Android and iOS app, ₹60,000 for custom software or a web app, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after the free five months. These are starting prices, not fixed packages.",
+        "BtechWaleTech's starting prices for Mandi clients are ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹50,000 for an online store, ₹40,000 for AI automation or an Android and iOS app, ₹60,000 for custom software or a web app, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after the free five months. These are starting prices, not fixed packages.",
         "The final figure depends on scope. A billing tool for one counter with fifty items is simpler than a multi-godown system with route planning. A fleet app for five trucks is simpler than one for fifty with fuel-card imports. Integrations, data migration from old registers, and multiple languages add effort. Clear requirements, ready data and a phased approach keep costs down.",
         "You receive an itemised quote in about two working days, listing every module with its cost and timeline, and work starts only after written approval. Payment is made to us only by UPI (scan our QR code) or direct bank transfer to our bank account, in INR, usually in milestones such as advance, design approval, test version and launch.",
       ],
@@ -332,7 +332,7 @@ const content: CityContent = {
     {
       question: "Do you build websites as well, or only software?",
       answer:
-        "Both. We build business websites from ₹10,000, large SEO websites of 700+ pages from ₹20,000 and online stores from ₹50,000, alongside custom software and automation. Many Mandi clients start with a website and add billing or automation later. See the <a href='/services/web-development/'>web development service</a> page for details on how we build sites.",
+        "Both. We build business websites from ₹10,000, large SEO websites of 299+ pages from ₹20,000 and online stores from ₹50,000, alongside custom software and automation. Many Mandi clients start with a website and add billing or automation later. See the <a href='/services/web-development/'>web development service</a> page for details on how we build sites.",
     },
     {
       question: "How do we start and how fast will we get a quote?",

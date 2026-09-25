@@ -38,7 +38,7 @@ const bobbili: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu-first local SEO", "Veena maker stores", "Domain and code in your name"],
   },
   quickAnswer:
-    "Bobbili shops, contractors and craftsmen can get a website from us starting at ₹10,000, typically delivered inside a fortnight. Android and iOS apps begin at ₹40,000, as does AI automation; a 700+ page SEO build begins at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Everything is handled remotely.",
+    "Bobbili shops, contractors and craftsmen can get a website from us starting at ₹10,000, typically delivered inside a fortnight. Android and iOS apps begin at ₹40,000, as does AI automation; a 299+ page SEO build begins at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. Everything is handled remotely.",
   snapshot: [
     { label: "Location", value: "Municipal town in Vizianagaram district, north coastal Andhra Pradesh" },
     { label: "Known for", value: "Bobbili veena, carved from jackfruit wood, GI-registered in 2012; made in Bobbili and nearby Gollapalli" },
@@ -157,7 +157,7 @@ const bobbili: CityContent = {
       id: "website-cost-bobbili",
       heading: "Website cost in Bobbili: starting prices and how to compare",
       paragraphs: [
-        "Bobbili price points, in brief. Small sites of up to 100 pages, the usual choice for a shop, clinic or plant contractor, begin at ₹10,000 and take a week or two. SEO builds running past 700 pages, handy when a school group or trader must cover dozens of products and mandals, begin at ₹20,000 and need three to five weeks. Apps for Android and iPhone begin at ₹40,000; AI automation shares that figure. Stores begin at ₹50,000, bespoke software at ₹60,000, and a monthly SEO plan at ₹10,000.",
+        "Bobbili price points, in brief. Small sites of up to 100 pages, the usual choice for a shop, clinic or plant contractor, begin at ₹10,000 and take a week or two. SEO builds running past 299 pages, handy when a school group or trader must cover dozens of products and mandals, begin at ₹20,000 and need three to five weeks. Apps for Android and iPhone begin at ₹40,000; AI automation shares that figure. Stores begin at ₹50,000, bespoke software at ₹60,000, and a monthly SEO plan at ₹10,000.",
         "The final figure rises only with what you choose: Telugu and English versions, a large product list, courier rates, online payment, staff logins, attendance or dispatch modules, or a Tally connection. Each is a separate line you can accept or remove. If you provide your own text and photographs, the cost stays close to the starting price.",
         "Two Bobbili quotes for what sounds like the same site can be far apart. Put the same checklist to each: in whose name will the domain and server sit, has the site been opened on a budget handset, is basic on-page SEO part of it, how many change rounds are allowed, and what will support cost in year two? Our entry figures live on the <a href=\"/pricing/\">pricing page</a>; a written, line-by-line quote follows within roughly two working days.",
       ],
@@ -218,7 +218,7 @@ const bobbili: CityContent = {
     {
       question: "What is the website cost in Bobbili?",
       answer:
-        "Entry points are ₹10,000 for a static site, ₹20,000 for a 700+ page SEO site, ₹50,000 for an online store and ₹60,000 for custom software. They are starting figures only: Telugu pages, product counts and integrations move the total. You see every line in writing, and no bill is raised before you say yes.",
+        "Entry points are ₹10,000 for a static site, ₹20,000 for a 299+ page SEO site, ₹50,000 for an online store and ₹60,000 for custom software. They are starting figures only: Telugu pages, product counts and integrations move the total. You see every line in writing, and no bill is raised before you say yes.",
     },
     {
       question: "Do you build Android and iOS apps for Bobbili businesses?",
@@ -228,7 +228,7 @@ const bobbili: CityContent = {
     {
       question: "How long does a Bobbili website take?",
       answer:
-        "Once your photos and shop details reach us, a basic site is generally up within seven to fourteen days. Bigger builds need more: three to five weeks for 700+ SEO pages, four to eight for a store, six to twelve for bespoke software. Owners who hand over content in week one see the quickest launches.",
+        "Once your photos and shop details reach us, a basic site is generally up within seven to fourteen days. Bigger builds need more: three to five weeks for 299+ SEO pages, four to eight for a store, six to twelve for bespoke software. Owners who hand over content in week one see the quickest launches.",
     },
     {
       question: "Which is the best website development team in Bobbili?",

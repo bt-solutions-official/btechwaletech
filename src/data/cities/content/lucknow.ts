@@ -35,7 +35,7 @@ const lucknow: CityContent = {
     pills: ["Sites from ₹10,000", "Chikan stores with UPI", "Gomti Nagar local SEO", "WhatsApp enquiry bots", "Portals and dashboards"],
   },
   quickAnswer:
-    "A business website for a Lucknow firm costs from ₹10,000 with us and is usually ready in one to two weeks. A 700+ page site planned for Google search starts at ₹20,000, and an online store at ₹50,000. We are a remote three-engineer team, you own the domain and code, and five months of maintenance after launch are free.",
+    "A business website for a Lucknow firm costs from ₹10,000 with us and is usually ready in one to two weeks. A 299+ page site planned for Google search starts at ₹20,000, and an online store at ₹50,000. We are a remote three-engineer team, you own the domain and code, and five months of maintenance after launch are free.",
   snapshot: [
     { label: "Commercial centres", value: "Hazratganj, Aminabad, Chowk, Kapoorthala, Alambagh and the Vibhuti Khand office area of Gomti Nagar" },
     { label: "Signature craft", value: "Chikankari embroidery, sold wholesale and retail around Chowk and Aminabad and shipped across India" },
@@ -73,12 +73,12 @@ const lucknow: CityContent = {
       heading: "How much does a website cost in Lucknow?",
       paragraphs: [
         "Ask five Lucknow developers for a quote on a small business site and you may hear ₹2,500, ₹8,000, ₹18,000, ₹35,000 and “depends”. The cheapest usually means a copied theme on the developer's own hosting, which you cannot move later. The most expensive usually includes an office in Gomti Nagar and a salesperson. Neither number tells you what the site will actually do for you.",
-        "Here is what your money buys with us. From ₹10,000 you get a static site of up to 100 pages, mobile layout, enquiry form and SEO basics, usually live within two weeks. From ₹20,000 you get a site of 700+ pages, planned around what Lucknow customers actually type into Google, with one page per service and per area you genuinely cover; that takes three to five weeks. Stores with cart and UPI checkout start at ₹50,000 and take four to eight weeks. Portals, booking systems and dashboards start at ₹60,000, over six to twelve weeks.",
+        "Here is what your money buys with us. From ₹10,000 you get a static site of up to 100 pages, mobile layout, enquiry form and SEO basics, usually live within two weeks. From ₹20,000 you get a site of 299+ pages, planned around what Lucknow customers actually type into Google, with one page per service and per area you genuinely cover; that takes three to five weeks. Stores with cart and UPI checkout start at ₹50,000 and take four to eight weeks. Portals, booking systems and dashboards start at ₹60,000, over six to twelve weeks.",
         "Automation work starts at ₹40,000 and ongoing SEO at ₹10,000 a month. See the full breakdown on our <a href=\"/pricing/\">pricing page</a>. Whatever you choose, you get an itemised quote in about two working days and pay nothing until you have approved it in writing.",
       ],
       list: [
         "<strong>₹10,000 and up:</strong> a lean static site of up to 100 pages for a clinic, tutor, CA, boutique or caterer.",
-        "<strong>₹20,000 and up:</strong> a 700+ page search-ready site for firms that want enquiries from Google across the city.",
+        "<strong>₹20,000 and up:</strong> a 299+ page search-ready site for firms that want enquiries from Google across the city.",
         "<strong>₹50,000 and up:</strong> a store for chikankari, attar, sweets or handicraft sellers shipping across India.",
         "<strong>₹60,000 and up:</strong> admission portals, dealer panels and internal tools with logins and roles.",
       ],
@@ -218,12 +218,12 @@ const lucknow: CityContent = {
     {
       question: "How much does a website cost in Lucknow?",
       answer:
-        "Our Lucknow projects start at ₹10,000 for a static site of up to 100 pages, ₹20,000 for a 700+ page SEO site, ₹50,000 for an online store and ₹60,000 for a custom web application. Local quotes range from a couple of thousand rupees to well over ₹50,000, so compare what each includes: SEO basics, ownership of the domain and hosting, and support after launch.",
+        "Our Lucknow projects start at ₹10,000 for a static site of up to 100 pages, ₹20,000 for a 299+ page SEO site, ₹50,000 for an online store and ₹60,000 for a custom web application. Local quotes range from a couple of thousand rupees to well over ₹50,000, so compare what each includes: SEO basics, ownership of the domain and hosting, and support after launch.",
     },
     {
       question: "Lucknow me website banwane me kitna kharcha aata hai?",
       answer:
-        "Humare saath chhoti business website ₹10,000 se shuru hoti hai aur 700+ page wali SEO website ₹20,000 se. Online dukaan, jaise chikan ya attar ka store, ₹50,000 se banta hai. Kaam shuru karne se pehle aapko har page aur feature ka alag-alag quote milta hai, aur approval ke bina koi paisa nahi liya jaata.",
+        "Humare saath chhoti business website ₹10,000 se shuru hoti hai aur 299+ page wali SEO website ₹20,000 se. Online dukaan, jaise chikan ya attar ka store, ₹50,000 se banta hai. Kaam shuru karne se pehle aapko har page aur feature ka alag-alag quote milta hai, aur approval ke bina koi paisa nahi liya jaata.",
     },
     {
       question: "Is your office in Lucknow? Can I come and meet you?",
@@ -243,7 +243,7 @@ const lucknow: CityContent = {
     {
       question: "How long will my website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. The biggest delay is usually waiting for photos and text, so we draft the copy ourselves and you only need to correct it.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. The biggest delay is usually waiting for photos and text, so we draft the copy ourselves and you only need to correct it.",
     },
     {
       question: "Do you build admission and enquiry systems for coaching institutes?",

@@ -38,7 +38,7 @@ const viramgam: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Gujarati-first local SEO", "Cotton and logistics records", "Accounts in your name"],
   },
   quickAnswer:
-    "Viramgam businesses can start with a website from ₹10,000, usually built within two weeks. From ₹40,000 we make Android and iOS apps and AI automation; a 700+ page SEO site begins at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team without a Viramgam office, and the domain, code and store accounts are yours.",
+    "Viramgam businesses can start with a website from ₹10,000, usually built within two weeks. From ₹40,000 we make Android and iOS apps and AI automation; a 299+ page SEO site begins at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team without a Viramgam office, and the domain, code and store accounts are yours.",
   snapshot: [
     { label: "Location", value: "Taluka town in Ahmedabad district, roughly 65 km west of Ahmedabad by road; population about 50,600 (2011)" },
     { label: "Railway", value: "Viramgam Junction, where lines to Ahmedabad, Mahesana, Surendranagar and Samakhiyali meet" },
@@ -157,7 +157,7 @@ const viramgam: CityContent = {
       id: "website-cost-viramgam",
       heading: "Website cost in Viramgam: entry prices and questions to ask",
       paragraphs: [
-        "Price is usually the opening question in Viramgam, so here is the ladder. Static sites of up to 100 pages for a shop, clinic, school or small factory begin at ₹10,000 and need about one to two weeks. SEO sites of 700 pages or more, which suit a ginner, transporter or institute that wants a page for every service, product or nearby taluka, begin at ₹20,000 and need three to five weeks. Android and iOS apps begin at ₹40,000, as does AI automation. Online stores begin at ₹50,000, bespoke software at ₹60,000 and monthly SEO at ₹10,000.",
+        "Price is usually the opening question in Viramgam, so here is the ladder. Static sites of up to 100 pages for a shop, clinic, school or small factory begin at ₹10,000 and need about one to two weeks. SEO sites of 299 pages or more, which suit a ginner, transporter or institute that wants a page for every service, product or nearby taluka, begin at ₹20,000 and need three to five weeks. Android and iOS apps begin at ₹40,000, as does AI automation. Online stores begin at ₹50,000, bespoke software at ₹60,000 and monthly SEO at ₹10,000.",
         "Anything above the entry price comes from choices you make: Gujarati beside English, a long catalogue, delivery tables, online payments, staff logins or a Tally connection. Each appears as a line you can accept or cut, and supplying your own text and photographs removes the writing cost.",
         "Local quotes for similar work differ a great deal, so compare on substance. Ask who legally holds the domain, whether the site is tested on inexpensive phones, whether on-page SEO basics are included, how many rounds of edits you get and what support looks like after the first year. Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>, and your itemised quote follows in about two working days.",
       ],
@@ -218,7 +218,7 @@ const viramgam: CityContent = {
     {
       question: "What is the website cost in Viramgam?",
       answer:
-        "Entry prices are ₹10,000 for a static site, ₹20,000 for a 700+ page SEO site, ₹50,000 for an online store and ₹60,000 for custom software. The amount you finally pay depends on pages, Gujarati text, products and integrations. We send it as an itemised written quote, and nothing is invoiced before you approve it.",
+        "Entry prices are ₹10,000 for a static site, ₹20,000 for a 299+ page SEO site, ₹50,000 for an online store and ₹60,000 for custom software. The amount you finally pay depends on pages, Gujarati text, products and integrations. We send it as an itemised written quote, and nothing is invoiced before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Viramgam businesses?",
@@ -228,7 +228,7 @@ const viramgam: CityContent = {
     {
       question: "How many days does a website take in Viramgam?",
       answer:
-        "A static site generally goes live one to two weeks after you send details and photographs. Larger work takes longer: three to five weeks for a 700+ page SEO site, four to eight for an online store and six to twelve for custom software. Sending content early is the single biggest factor in speed.",
+        "A static site generally goes live one to two weeks after you send details and photographs. Larger work takes longer: three to five weeks for a 299+ page SEO site, four to eight for an online store and six to twelve for custom software. Sending content early is the single biggest factor in speed.",
     },
     {
       question: "Who is the best IT services team in Viramgam?",
@@ -253,7 +253,7 @@ const viramgam: CityContent = {
     {
       question: "Viramgam ma website banavva no kharcho ketlo thay?",
       answer:
-        "Amari sathe simple website ₹10,000 thi sharu thay chhe ane ek-be athvadiya ma taiyar thai jay chhe. 700+ page ni SEO website ₹20,000 thi, Android ane iOS app ₹40,000 thi ane online store ₹50,000 thi sharu thay chhe. Final quote tamara pages ane features pramane lekhit ma aapiye chhiye.",
+        "Amari sathe simple website ₹10,000 thi sharu thay chhe ane ek-be athvadiya ma taiyar thai jay chhe. 299+ page ni SEO website ₹20,000 thi, Android ane iOS app ₹40,000 thi ane online store ₹50,000 thi sharu thay chhe. Final quote tamara pages ane features pramane lekhit ma aapiye chhiye.",
     },
     {
       question: "You have no office in Viramgam. Is remote work safe?",

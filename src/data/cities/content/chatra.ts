@@ -39,7 +39,7 @@ const chatra: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first pages", "Coal-belt contractor software", "All accounts in your name"],
   },
   quickAnswer:
-    "In Chatra, a business website with us starts at ₹10,000 and is usually ready in one to two weeks. Android and iOS apps start at ₹40,000, as does AI automation; 700+ page SEO sites start at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely with no Chatra office, and you own everything.",
+    "In Chatra, a business website with us starts at ₹10,000 and is usually ready in one to two weeks. Android and iOS apps start at ₹40,000, as does AI automation; 299+ page SEO sites start at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely with no Chatra office, and you own everything.",
   snapshot: [
     { label: "Status", value: "Headquarters of Chatra district, formed on 29 May 1991, with Chatra and Simaria sub-divisions" },
     { label: "Town", value: "Nagar Parishad of 22 wards, about 50,000 people at the 2011 census, PIN 825401" },
@@ -176,7 +176,7 @@ const chatra: CityContent = {
       id: "website-cost-chatra",
       heading: "Website cost in Chatra and how our quotes are laid out",
       paragraphs: [
-        "Here are our starting points. A static website up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 700 pages or more, suited to a wholesaler, school group or travel operator covering many products and places, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation.",
+        "Here are our starting points. A static website up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 299 pages or more, suited to a wholesaler, school group or travel operator covering many products and places, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation.",
         "Online stores start at ₹50,000, custom software such as a transport trip register starts at ₹60,000, and monthly SEO starts at ₹10,000 a month. These are starting prices only. Hindi content, extra pages, product uploads, payments and integrations appear as separate lines you can keep or remove. See our <a href=\"/pricing/\">pricing page</a> for the full list.",
         "Quotes from local providers vary widely. When you compare, ask who registers the domain and code, how many revision rounds are included, what support follows launch and what hosting will cost at renewal. Our itemised quote reaches you in about two working days, and nothing is billed before you approve it.",
       ],
@@ -219,7 +219,7 @@ const chatra: CityContent = {
     {
       question: "What is the website cost in Chatra?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. All are starting prices. The quote depends on pages, Hindi content, products and integrations, and it arrives itemised in about two working days, before anything is billed.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. All are starting prices. The quote depends on pages, Hindi content, products and integrations, and it arrives itemised in about two working days, before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Chatra businesses?",

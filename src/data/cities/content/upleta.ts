@@ -39,7 +39,7 @@ const upleta: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Gujarati-first local SEO", "Oil brand online stores", "Domain and code stay yours"],
   },
   quickAnswer:
-    "Upleta firms can start with a website at ₹10,000, normally finished in one to two weeks. Android and iOS apps are priced from ₹40,000, with AI and WhatsApp automation also from ₹40,000. SEO websites of 700+ pages start at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely and have no Upleta office.",
+    "Upleta firms can start with a website at ₹10,000, normally finished in one to two weeks. Android and iOS apps are priced from ₹40,000, with AI and WhatsApp automation also from ₹40,000. SEO websites of 299+ pages start at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely and have no Upleta office.",
   snapshot: [
     { label: "Location", value: "City and taluka headquarters in Rajkot district, on the banks of the Moj river, about 19 km from Dhoraji" },
     { label: "Taluka", value: "Two towns, Upleta and Bhayavadar, and 49 villages, with Paneli Moti the most populous village" },
@@ -211,7 +211,7 @@ const upleta: CityContent = {
     {
       question: "What is the website cost in Upleta?",
       answer:
-        "Our Upleta websites begin at ₹10,000 for a static site, ₹20,000 for a 700+ page SEO site, ₹50,000 for an online store and ₹60,000 for custom software. Those are floors. Gujarati content, product counts and integrations decide the final figure, which you see line by line in writing before paying anything.",
+        "Our Upleta websites begin at ₹10,000 for a static site, ₹20,000 for a 299+ page SEO site, ₹50,000 for an online store and ₹60,000 for custom software. Those are floors. Gujarati content, product counts and integrations decide the final figure, which you see line by line in writing before paying anything.",
     },
     {
       question: "Do you build Android and iOS apps for Upleta businesses?",
@@ -221,7 +221,7 @@ const upleta: CityContent = {
     {
       question: "How many days does a website take in Upleta?",
       answer:
-        "Once your photographs and wording reach us, a simple site takes around one to two weeks. SEO builds of 700+ pages need three to five weeks, stores four to eight, and bespoke software six to twelve. The single biggest cause of delay is waiting for content, so collecting it early saves real time.",
+        "Once your photographs and wording reach us, a simple site takes around one to two weeks. SEO builds of 299+ pages need three to five weeks, stores four to eight, and bespoke software six to twelve. The single biggest cause of delay is waiting for content, so collecting it early saves real time.",
     },
     {
       question: "Who is the best website development team in Upleta?",
@@ -246,7 +246,7 @@ const upleta: CityContent = {
     {
       question: "Upleta ma website banavva no kharch ketlo thay?",
       answer:
-        "Amari saathe saadi website ₹10,000 thi sharu thay chhe ane ek-be athavadiya ma taiyar thai jay chhe. 700+ page SEO website ₹20,000 thi, Android ane iOS app ₹40,000 thi ane online store ₹50,000 thi sharu thay chhe. Tamara pages ane features pramane lekhit quote apishu, manjuri pachhi j bill.",
+        "Amari saathe saadi website ₹10,000 thi sharu thay chhe ane ek-be athavadiya ma taiyar thai jay chhe. 299+ page SEO website ₹20,000 thi, Android ane iOS app ₹40,000 thi ane online store ₹50,000 thi sharu thay chhe. Tamara pages ane features pramane lekhit quote apishu, manjuri pachhi j bill.",
     },
     {
       question: "Upleta me website banwane ka kharcha kitna hota hai?",

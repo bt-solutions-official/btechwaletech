@@ -35,7 +35,7 @@ const khair: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi and Braj-friendly copy", "Google Maps pin fixes", "WhatsApp enquiry bots", "You own the domain"],
   },
   quickAnswer:
-    "A business website in Khair starts from ₹10,000 with us and usually goes live in one to two weeks. Larger SEO sites of 700+ pages start at ₹20,000, WhatsApp or AI automation from ₹40,000 and online stores from ₹50,000. We are three remote engineers with no office in Khair, and upkeep is free for five months after launch.",
+    "A business website in Khair starts from ₹10,000 with us and usually goes live in one to two weeks. Larger SEO sites of 299+ pages start at ₹20,000, WhatsApp or AI automation from ₹40,000 and online stores from ₹50,000. We are three remote engineers with no office in Khair, and upkeep is free for five months after launch.",
   snapshot: [
     { label: "Where it is", value: "Tehsil headquarters in Aligarh district, about 27 km from Aligarh, 60 km from Mathura and 114 km from Delhi" },
     { label: "Civic body", value: "Nagar Palika Parishad; PIN code 202138 and vehicle series UP-81" },
@@ -78,7 +78,7 @@ const khair: CityContent = {
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages with a mobile layout, map, WhatsApp button and enquiry form, suited to shops, clinics, tutors and dealers.",
-        "<strong>From ₹20,000:</strong> 700+ pages for schools, dealers and service firms that want steady search traffic from many villages.",
+        "<strong>From ₹20,000:</strong> 299+ pages for schools, dealers and service firms that want steady search traffic from many villages.",
         "<strong>From ₹50,000:</strong> an online store with UPI and card payments for packed food, dairy products or clothing.",
         "<strong>From ₹60,000:</strong> custom tools with logins, such as storage receipts, credit ledgers and fee records.",
       ],
@@ -209,7 +209,7 @@ const khair: CityContent = {
     {
       question: "What does a website cost in Khair?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO website from ₹20,000, automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices only. Your written quote depends on pages, features and content, and nothing is charged until you approve it.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO website from ₹20,000, automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices only. Your written quote depends on pages, features and content, and nothing is charged until you approve it.",
     },
     {
       question: "Khair me dukaan ki website banwane me kitna kharcha aata hai?",
@@ -249,7 +249,7 @@ const khair: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, automation two to four weeks, an online store four to eight weeks and custom software six to twelve weeks. Waiting for photos and product details is usually the slowest step, so we send a checklist on day one.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, automation two to four weeks, an online store four to eight weeks and custom software six to twelve weeks. Waiting for photos and product details is usually the slowest step, so we send a checklist on day one.",
     },
     {
       question: "Who owns the domain and code after launch?",

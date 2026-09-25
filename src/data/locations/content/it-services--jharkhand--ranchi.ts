@@ -186,7 +186,7 @@ const content: CityContent = {
       paragraphs: [
         "SEO for a Ranchi business means being found on Google, Google Maps and AI assistants when people search for your service in their part of the city, with pages that answer their questions clearly. For software-heavy businesses such as institutes, clinics, builders and consultancies, search visibility feeds the CRM and automation systems described above with a steady flow of enquiries.",
         "We build service and area pages for neighbourhoods such as Lalpur, Kanke Road, Harmu, Doranda, Bariatu and Morabadi where you genuinely serve customers, add structured data, and help you complete your Google Business Profile. We write factual passages about prices, timings and processes that Google's AI Overviews, ChatGPT and Perplexity can quote, and we avoid thin copy-paste location pages that search engines ignore.",
-        "Monthly <a href='/services/seo-services/'>SEO services</a> start from ₹10,000, and a 700+ page SEO website from ₹20,000. Rankings cannot be guaranteed by anyone. For specific local searches, early movement usually shows within two to four months, and we share Search Console data each month so you can judge the work.",
+        "Monthly <a href='/services/seo-services/'>SEO services</a> start from ₹10,000, and a 299+ page SEO website from ₹20,000. Rankings cannot be guaranteed by anyone. For specific local searches, early movement usually shows within two to four months, and we share Search Console data each month so you can judge the work.",
       ],
     },
     {
@@ -202,7 +202,7 @@ const content: CityContent = {
       id: "cost-ranchi-software",
       heading: "Software development cost in Ranchi: what do our freelance developers charge?",
       paragraphs: [
-        "Our starting prices for Ranchi projects are ₹10,000 for a website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store, ₹60,000 for custom software, CRMs, web apps or dashboards, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after five free months. All are starting prices.",
+        "Our starting prices for Ranchi projects are ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store, ₹60,000 for custom software, CRMs, web apps or dashboards, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after five free months. All are starting prices.",
         "Costs rise with integrations, user roles, data migration and complex reports. A CRM for five salespeople with one project is simpler than one for three projects with channel partners and payment schedules. A test platform with only multiple-choice questions is simpler than one with numerical answers, images and sectional timing. Phasing the build keeps early costs down.",
         "You receive an itemised quote in about two working days and approve it before work starts. Payment is made to us only by UPI (scan our QR code) or direct bank transfer to our bank account in INR, usually in milestones tied to approved deliverables.",
       ],

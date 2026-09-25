@@ -201,7 +201,7 @@ const content: CityContent = {
       id: "it-services-nongpoh-cost",
       heading: "How much do IT services in Nongpoh cost?",
       paragraphs: [
-        "IT services in Nongpoh with us start at ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software or a web app. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month.",
+        "IT services in Nongpoh with us start at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software or a web app. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month.",
         "The final price depends on scope: number of pages or screens, user roles, integrations with WhatsApp, Tally or payment accounts, data migration and content writing. We break the estimate into line items so you can drop features to fit a budget, or phase them over several months.",
         "Payments are in INR against milestones, only by UPI via our QR code or direct bank transfer to our account. You never pay for work you have not seen. Before comparing quotes, check whether others include hosting setup, deployment and post-launch maintenance, because ours do.",
       ],

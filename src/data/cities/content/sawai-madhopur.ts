@@ -34,7 +34,7 @@ const sawaiMadhopur: CityContent = {
     pills: ["Sites from ₹10,000", "Hotel and safari enquiry forms", "Hindi and English pages", "Guava and farm stores", "Google Maps setup"],
   },
   quickAnswer:
-    "In Sawai Madhopur, a business website with us starts from ₹10,000 and usually goes live in one to two weeks. Hotels wanting a 700+ page SEO site start at ₹20,000, WhatsApp and AI automation at ₹40,000 and online stores at ₹50,000. We are a remote team with no local office, and maintenance is free for five months.",
+    "In Sawai Madhopur, a business website with us starts from ₹10,000 and usually goes live in one to two weeks. Hotels wanting a 299+ page SEO site start at ₹20,000, WhatsApp and AI automation at ₹40,000 and online stores at ₹50,000. We are a remote team with no local office, and maintenance is free for five months.",
   snapshot: [
     { label: "Founded", value: "19 January 1763 by Maharaja Sawai Madho Singh I, laid out on the pattern of Jaipur" },
     { label: "Town layout", value: "Man Town with the railway station and Bajariya market, the old walled city about 4 km away in a valley, and Alanpur" },
@@ -77,7 +77,7 @@ const sawaiMadhopur: CityContent = {
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, room or service pages, map, WhatsApp button and enquiry form.",
-        "<strong>From ₹20,000:</strong> 700+ pages for resorts, tour operators and institutes that want year-round search traffic.",
+        "<strong>From ₹20,000:</strong> 299+ pages for resorts, tour operators and institutes that want year-round search traffic.",
         "<strong>From ₹40,000:</strong> WhatsApp automation for rate, availability and safari questions.",
         "<strong>From ₹60,000:</strong> custom booking registers, guest records and dealer ledgers with logins.",
       ],
@@ -209,7 +209,7 @@ const sawaiMadhopur: CityContent = {
     {
       question: "How much does a hotel or business website cost in Sawai Madhopur?",
       answer:
-        "A static website starts from ₹10,000 with us, a 700+ page SEO website from ₹20,000, WhatsApp automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices; your written quote depends on rooms, pages and features.",
+        "A static website starts from ₹10,000 with us, a 299+ page SEO website from ₹20,000, WhatsApp automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices; your written quote depends on rooms, pages and features.",
     },
     {
       question: "Sawai Madhopur me hotel ki website banwane ka kharcha kitna hai?",
@@ -254,7 +254,7 @@ const sawaiMadhopur: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, automation two to four weeks, a store or booking engine four to eight weeks and custom software six to twelve weeks. Room photos and descriptions are often the slowest part, so we ask for them first.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, automation two to four weeks, a store or booking engine four to eight weeks and custom software six to twelve weeks. Room photos and descriptions are often the slowest part, so we ask for them first.",
     },
     {
       question: "Will I own my domain, hosting and code?",

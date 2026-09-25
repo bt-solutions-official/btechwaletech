@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "@layouts/BaseLayout.astro";
+import { countryPageLinks } from "@data/keywords/page-links";
 import { createPageSeo } from "@lib/seo/seo-config";
 import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
 import { breadcrumbListSchema, faqSchema } from "@lib/schema/schema";
@@ -29,7 +30,7 @@ const faqs = [
   },
   {
     question: "How much does a website cost for a Canadian business?",
-    answer: `Our starting prices are ${P.site} for a static business website, ${P.seoSite} for a 700+ page SEO website, ${P.ai} for AI automation, ${P.shop} for an ecommerce store and ${P.app} for a custom web app, with SEO from ${P.seo} and maintenance from ${P.care}. These are starting prices in US dollars; a bilingual English and French build adds pages and testing, and every final quote depends on your requirements.`,
+    answer: `Our starting prices are ${P.site} for a static business website, ${P.seoSite} for a 299+ page SEO website, ${P.ai} for AI automation, ${P.shop} for an ecommerce store and ${P.app} for a custom web app, with SEO from ${P.seo} and maintenance from ${P.care}. These are starting prices in US dollars; a bilingual English and French build adds pages and testing, and every final quote depends on your requirements.`,
   },
   {
     question: "Can we be invoiced and pay in Canadian dollars?",
@@ -93,7 +94,7 @@ const faqs = [
   },
   {
     question: "How long does a Canadian website project take?",
-    answer: "Typical timelines are one to two weeks for a static website, three to five for a 700+ page SEO website, two to four for AI automation, four to eight for an ecommerce store and six to twelve for a custom web app. A bilingual build adds time, mostly waiting for translated copy. You get a written timeline with milestones before work starts.",
+    answer: "Typical timelines are one to two weeks for a static website, three to five for a 299+ page SEO website, two to four for AI automation, four to eight for an ecommerce store and six to twelve for a custom web app. A bilingual build adds time, mostly waiting for translated copy. You get a written timeline with milestones before work starts.",
   },
   {
     question: "Who owns the finished website?",
@@ -390,7 +391,7 @@ const guide = [
     ],
     list: [
       `<strong>From ${P.site}, static website:</strong> a contractor, clinic, consultancy or small manufacturer with home, services, about, contact and gallery pages, up to 100 pages, using content you supply.`,
-      `<strong>From ${P.seoSite}, SEO website of 700+ pages:</strong> a structured site built around search intent, such as a trades company covering many services across dozens of towns, planned with keywords, schema and internal linking.`,
+      `<strong>From ${P.seoSite}, SEO website of 299+ pages:</strong> a structured site built around search intent, such as a trades company covering many services across dozens of towns, planned with keywords, schema and internal linking.`,
       `<strong>From ${P.ai}, AI automation:</strong> one well-defined workflow, for example bilingual enquiry routing with first-draft replies in the right language for a person to approve.`,
       `<strong>From ${P.shop}, ecommerce store:</strong> product and category pages, cart, checkout, payment setup, provincial tax rules, shipping rates and performance tuning.`,
       `<strong>From ${P.app}, custom web app:</strong> a focused first version of a booking system, client portal or dashboard with accounts, roles, an admin panel and deployment.`,
@@ -579,6 +580,7 @@ const webPageSchema = {
   about: { "@id": `${url}#service` },
   speakable: { "@type": "SpeakableSpecification", cssSelector: ["#quick-answer", "h1"] },
 };
+const servicePages = countryPageLinks("canada");
 ---
 
 <BaseLayout meta={page} schema={[webPageSchema, professionalServiceSchema, breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs)]}>
@@ -917,6 +919,21 @@ const webPageSchema = {
       </div>
     </div>
   </section>
+
+  <!-- ===================== SERVICE PAGES ===================== -->
+  {servicePages.length > 0 && (
+    <section class="locations" aria-labelledby="service-pages-heading">
+      <div class="section-wrap">
+        <div class="section-head">
+          <p class="eyebrow">Services and guides</p>
+          <h2 id="service-pages-heading">Everything we build for Canadian businesses</h2>
+        </div>
+        <div class="city-cloud">
+          {servicePages.map((p) => <a class="city-chip" href={p.href}>{p.name}</a>)}
+        </div>
+      </div>
+    </section>
+  )}
 
   <!-- ===================== RELATED ===================== -->
   <section class="locations" aria-labelledby="related-heading">

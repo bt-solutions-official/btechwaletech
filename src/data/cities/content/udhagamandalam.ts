@@ -39,7 +39,7 @@ const udhagamandalam: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Booking and enquiry automation", "Stores for tea and chocolates", "You own all accounts"],
   },
   quickAnswer:
-    "In Ooty (Udhagamandalam), a business website with us starts at ₹10,000 and typically launches in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and have no Ooty office.",
+    "In Ooty (Udhagamandalam), a business website with us starts at ₹10,000 and typically launches in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and have no Ooty office.",
   snapshot: [
     { label: "Status", value: "Headquarters of the Nilgiris district, in the Nilgiri hills of the Western Ghats" },
     { label: "Altitude", value: "About 2,240 m above sea level; a municipality since 1866 and once the summer capital of the Madras Presidency" },
@@ -157,7 +157,7 @@ const udhagamandalam: CityContent = {
       id: "website-cost-ooty",
       heading: "Website cost in Ooty and how quotes are built",
       paragraphs: [
-        "Here are our starting prices for anyone asking about the <strong>website cost in Ooty</strong>. Static websites with up to 100 pages start at ₹10,000 and take one to two weeks. SEO websites with 700+ pages start at ₹20,000 and take three to five weeks. Android and iOS apps and AI automation start at ₹40,000, online stores at ₹50,000 and custom software, including booking engines, at ₹60,000.",
+        "Here are our starting prices for anyone asking about the <strong>website cost in Ooty</strong>. Static websites with up to 100 pages start at ₹10,000 and take one to two weeks. SEO websites with 299+ pages start at ₹20,000 and take three to five weeks. Android and iOS apps and AI automation start at ₹40,000, online stores at ₹50,000 and custom software, including booking engines, at ₹60,000.",
         "The quote moves with the number of pages, rooms or products, whether we write text in English and Tamil or you supply it, booking and payment setup, and app screens. You receive an itemised written quote in about two working days, and nothing is billed before you approve it.",
         "Quotes from other providers in the hills vary widely. Compare them by asking who owns the domain and hosting, what is included in maintenance, how seasonal rate changes will be updated and who answers when bookings stop coming through. Our full rate card is on the <a href=\"/pricing/\">pricing page</a>.",
       ],
@@ -218,7 +218,7 @@ const udhagamandalam: CityContent = {
     {
       question: "What is the website cost in Ooty?",
       answer:
-        "Static websites start at ₹10,000, SEO websites with 700+ pages at ₹20,000, online stores at ₹50,000 and custom software such as booking engines at ₹60,000. These are starting prices. The quote depends on pages, rooms or products, languages and integrations, and it is itemised in writing before any billing.",
+        "Static websites start at ₹10,000, SEO websites with 299+ pages at ₹20,000, online stores at ₹50,000 and custom software such as booking engines at ₹60,000. These are starting prices. The quote depends on pages, rooms or products, languages and integrations, and it is itemised in writing before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Ooty businesses?",
@@ -248,7 +248,7 @@ const udhagamandalam: CityContent = {
     {
       question: "Ooty-la website seiya evvalavu selavu aagum?",
       answer:
-        "Simple website ₹10,000-la irundhu aarambikkudhu, 1–2 vaarathula ready aagum. 700+ page SEO website ₹20,000-la irundhu, online store ₹50,000-la irundhu, Android–iOS app ₹40,000-la irundhu aarambam. Final quote pages, features-a poruthu maarum. Neenga approve pannama edhuvum bill panna maattom.",
+        "Simple website ₹10,000-la irundhu aarambikkudhu, 1–2 vaarathula ready aagum. 299+ page SEO website ₹20,000-la irundhu, online store ₹50,000-la irundhu, Android–iOS app ₹40,000-la irundhu aarambam. Final quote pages, features-a poruthu maarum. Neenga approve pannama edhuvum bill panna maattom.",
     },
     {
       question: "Do you offer AI and WhatsApp automation in Ooty?",

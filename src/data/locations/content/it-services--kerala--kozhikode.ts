@@ -226,7 +226,7 @@ const content: CityContent = {
       id: "software-cost-kozhikode",
       heading: "What does a software development team in Kozhikode charge compared with us?",
       paragraphs: [
-        "A software development team in Kozhikode usually prices office rent, sales and management into its quote. Our starting prices are published: websites ₹10,000, 700+ page SEO websites ₹20,000, AI automation ₹40,000, Android and iOS apps ₹40,000, ecommerce ₹50,000, custom software ₹60,000, monthly SEO ₹10,000 and maintenance ₹8,000 a month.",
+        "A software development team in Kozhikode usually prices office rent, sales and management into its quote. Our starting prices are published: websites ₹10,000, 299+ page SEO websites ₹20,000, AI automation ₹40,000, Android and iOS apps ₹40,000, ecommerce ₹50,000, custom software ₹60,000, monthly SEO ₹10,000 and maintenance ₹8,000 a month.",
         "The final cost depends on modules, users, integrations and data migration. See the <a href='/pricing/'>pricing page</a>. Payment is in INR, only by UPI QR or bank transfer, in milestones after you review work on staging.",
       ],
     },

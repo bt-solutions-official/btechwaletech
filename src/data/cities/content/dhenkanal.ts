@@ -39,7 +39,7 @@ const dhenkanal: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Odia local SEO", "Dokra and brass stores", "Every account in your name"],
   },
   quickAnswer:
-    "A Dhenkanal business website with us starts at ₹10,000 and typically goes live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI automation. A 700+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team without a local office, and you own all the work.",
+    "A Dhenkanal business website with us starts at ₹10,000 and typically goes live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI automation. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team without a local office, and you own all the work.",
   snapshot: [
     { label: "Role", value: "Headquarters of Dhenkanal district in central Odisha, bordering Angul, Cuttack, Jajpur and Kendujhar" },
     { label: "Population", value: "67,414 in the 2011 census" },
@@ -151,7 +151,7 @@ const dhenkanal: CityContent = {
       id: "website-cost-dhenkanal",
       heading: "Website cost in Dhenkanal: starting prices and how to compare",
       paragraphs: [
-        "Our starting prices for Dhenkanal: a static website of up to 100 pages from ₹10,000 in one to two weeks; a 700+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; an online store from ₹50,000 in four to eight weeks; and custom software from ₹60,000 across six to twelve weeks. Monthly SEO begins at ₹10,000, and paid maintenance at ₹8,000 a month after the free period.",
+        "Our starting prices for Dhenkanal: a static website of up to 100 pages from ₹10,000 in one to two weeks; a 299+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; an online store from ₹50,000 in four to eight weeks; and custom software from ₹60,000 across six to twelve weeks. Monthly SEO begins at ₹10,000, and paid maintenance at ₹8,000 a month after the free period.",
         "The <strong>website cost in Dhenkanal</strong> rises with scope: more pages, both Odia and English, large catalogues, logins, payment set-up, or an ERP or Tally link. If you provide text and photos, the quote stays lower; writing, translation and photo editing by us appear as separate items.",
         "Local quotes vary widely. Compare them on whose name the domain and hosting are in, whether mobile testing and basic SEO are included, how many changes you get, and who fixes problems after launch. Our full breakdown is on the <a href=\"/pricing/\">pricing page</a>.",
       ],
@@ -212,7 +212,7 @@ const dhenkanal: CityContent = {
     {
       question: "What is the website cost in Dhenkanal?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Your quote depends on pages, Odia and English content, payments and integrations, and every item is shown separately before you approve.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Your quote depends on pages, Odia and English content, payments and integrations, and every item is shown separately before you approve.",
     },
     {
       question: "Do you build Android and iOS apps for Dhenkanal businesses?",
@@ -222,7 +222,7 @@ const dhenkanal: CityContent = {
     {
       question: "How long does it take to build a website in Dhenkanal?",
       answer:
-        "A static site usually goes live in one to two weeks after we receive text and photos. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Preparing content early is the easiest way to stay on schedule.",
+        "A static site usually goes live in one to two weeks after we receive text and photos. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Preparing content early is the easiest way to stay on schedule.",
     },
     {
       question: "Which is the best website development team in Dhenkanal?",
@@ -247,7 +247,7 @@ const dhenkanal: CityContent = {
     {
       question: "Dhenkanal me website banwane me kitne paise lagte hain?",
       answer:
-        "Hamare saath basic website ₹10,000 se shuru hoti hai aur zyadatar ek-do hafte mein live ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Asli quote aapke pages aur features par tay hota hai, aur manzoori ke bina koi bill nahi banta.",
+        "Hamare saath basic website ₹10,000 se shuru hoti hai aur zyadatar ek-do hafte mein live ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Asli quote aapke pages aur features par tay hota hai, aur manzoori ke bina koi bill nahi banta.",
     },
     {
       question: "You have no office in Dhenkanal. Is remote work reliable?",

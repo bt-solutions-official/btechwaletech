@@ -35,7 +35,7 @@ const firozpur: CityContent = {
     pills: ["Static sites from ₹10,000", "Punjabi, Hindi, English", "Mandi and trader tools", "Chilli product catalogues", "5 months free upkeep"],
   },
   quickAnswer:
-    "For a Firozpur business, a static website with us starts at ₹10,000 and is usually ready in one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store from ₹50,000, WhatsApp or AI automation from ₹40,000 and custom software from ₹60,000. We work remotely with no Firozpur office, and maintenance is free for five months.",
+    "For a Firozpur business, a static website with us starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store from ₹50,000, WhatsApp or AI automation from ₹40,000 and custom software from ₹60,000. We work remotely with no Firozpur office, and maintenance is free for five months.",
   snapshot: [
     { label: "Where it sits", value: "District headquarters on the Sutlej, close to the India–Pakistan border, with a large Cantonment beside the city" },
     { label: "Old city", value: "The walled town grew inside ten gates, including Zira Gate, Makhu Gate, Amritsari Gate and Baghdadi Gate" },
@@ -78,7 +78,7 @@ const firozpur: CityContent = {
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages in Punjabi, Hindi or English with WhatsApp, map and basic search setup.",
-        "<strong>From ₹20,000:</strong> 700+ pages, for example one per product, service, village or course.",
+        "<strong>From ₹20,000:</strong> 299+ pages, for example one per product, service, village or course.",
         "<strong>From ₹50,000:</strong> an online store with cart, UPI and card payments, and courier rules.",
         "<strong>From ₹60,000:</strong> custom tools such as a trader ledger or dealer order system.",
       ],
@@ -218,7 +218,7 @@ const firozpur: CityContent = {
     {
       question: "How much does a website cost in Firozpur?",
       answer:
-        "Our static websites start at ₹10,000, SEO websites with 700+ pages from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. These are starting prices only. You get an itemised written quote for your actual requirements, and nothing is billed until you approve it.",
+        "Our static websites start at ₹10,000, SEO websites with 299+ pages from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. These are starting prices only. You get an itemised written quote for your actual requirements, and nothing is billed until you approve it.",
     },
     {
       question: "Ferozepur vich website banwaun te kinna kharcha aunda?",

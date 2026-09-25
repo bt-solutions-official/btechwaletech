@@ -34,7 +34,7 @@ const content: FreelanceContent = {
   },
   facts: [
     ["Catalogue site from", `${P.site} · ${P.siteUsd}`],
-    ["700+ page catalogue from", `${P.seoSite} · ${P.seoSiteUsd}`],
+    ["299+ page catalogue from", `${P.seoSite} · ${P.seoSiteUsd}`],
     ["Dealer portal from", P.software],
     ["Typical timeline", "1–2 weeks static, 3–5 weeks large catalogue"],
     ["Quote", "Itemised in about 2 working days"],
@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What should a manufacturer website developer build for an Indian factory?",
-    text: `A manufacturer website should let buyers find a product by name or specification, check technical details, download a datasheet and send an enquiry that reaches the right salesperson. It should also show capacity, certifications and dealers. With BtechWaleTech a catalogue website starts from ${P.site} and a large catalogue of 700+ pages from ${P.seoSite}, with the domain and code in your name.`,
+    text: `A manufacturer website should let buyers find a product by name or specification, check technical details, download a datasheet and send an enquiry that reaches the right salesperson. It should also show capacity, certifications and dealers. With BtechWaleTech a catalogue website starts from ${P.site} and a large catalogue of 299+ pages from ${P.seoSite}, with the domain and code in your name.`,
     more: `If you mainly sell to other businesses through quotations, read <a href='/b2b-website-developer/'>B2B website developer</a>; for overseas buyers, see <a href='/export-business-website-developer/'>export business website developer</a>.`,
   },
   snapshot: {
@@ -56,7 +56,7 @@ const content: FreelanceContent = {
     rows: [
       { label: "Core pages", value: "Catalogue, product pages, industries served, plant and quality, dealers, contact" },
       { label: "Catalogue site", value: `From ${P.site}, up to 100 pages, 1–2 weeks` },
-      { label: "Large catalogue", value: `From ${P.seoSite}, 700+ pages, 3–5 weeks` },
+      { label: "Large catalogue", value: `From ${P.seoSite}, 299+ pages, 3–5 weeks` },
       { label: "Dealer or distributor portal", value: `From ${P.software}, 6–12 weeks` },
       { label: "Enquiries go to", value: "Email, WhatsApp and a lead sheet, by product line" },
       { label: "Search features", value: "Product schema, clean URLs, sitemaps, Search Console" },
@@ -187,7 +187,7 @@ const content: FreelanceContent = {
       heading: "How much does a manufacturer website developer charge in India?",
       paragraphs: [
         `The honest answer is that it depends on your catalogue. Quotes for “a manufacturer website” vary widely because one factory has twelve products and another has four thousand SKUs, and the effort is not comparable.`,
-        `With us, a catalogue website of up to 100 pages starts from ${P.site} (${P.siteUsd}) and takes 1–2 weeks once product data is ready. A large catalogue of 700+ pages generated from structured data starts from ${P.seoSite} (${P.seoSiteUsd}) and takes 3–5 weeks. Dealer portals start from ${P.software}. Ongoing SEO starts from ${P.seo} a month if you want steady work on product visibility.`,
+        `With us, a catalogue website of up to 100 pages starts from ${P.site} (${P.siteUsd}) and takes 1–2 weeks once product data is ready. A large catalogue of 299+ pages generated from structured data starts from ${P.seoSite} (${P.seoSiteUsd}) and takes 3–5 weeks. Dealer portals start from ${P.software}. Ongoing SEO starts from ${P.seo} a month if you want steady work on product visibility.`,
         `The lines that change the price most are product data work (cleaning spreadsheets, writing descriptions, editing photos), the number of distinct page layouts, languages, and links to your ERP or inventory. Every line is listed separately in the quote, so you can drop or postpone items. Maintenance is free for five months after launch, then optional from ${P.care}.`,
       ],
     },
@@ -266,7 +266,7 @@ const content: FreelanceContent = {
       columns: ["What you need", "Starts at (India)", "Starts at (abroad)", "Typical timeline", "Suits"],
       rows: [
         ["Catalogue site, up to 100 pages", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks after data is ready", "Makers with a focused product range"],
-        ["Large catalogue, 700+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Many models, sizes, grades or applications"],
+        ["Large catalogue, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Many models, sizes, grades or applications"],
         ["Dealer or distributor portal", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Growing dealer networks"],
         ["Online store for spares or retail range", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Selling standard items with UPI and card checkout"],
         ["Enquiry automation and lead scoring", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "High enquiry volumes"],
@@ -328,7 +328,7 @@ const content: FreelanceContent = {
   faqHeading: "Manufacturer website developer: questions buyers of websites ask",
   faqs: [
     { question: "What does a manufacturer website developer do?", answer: "A manufacturer website developer builds sites for factories and industrial firms, focusing on product catalogues with specifications, datasheet downloads, dealer and buyer enquiry forms, plant and quality pages, and search visibility for product names. The work usually starts with structuring your product data so that every product gets a clear, searchable page." },
-    { question: "How much does a manufacturer website cost in India?", answer: `It depends mainly on catalogue size and features. With BtechWaleTech a catalogue website of up to 100 pages starts from ${P.site}, a large catalogue of 700+ pages from ${P.seoSite}, and a dealer portal from ${P.software}. Product data work, languages and ERP links are itemised separately in the quote.` },
+    { question: "How much does a manufacturer website cost in India?", answer: `It depends mainly on catalogue size and features. With BtechWaleTech a catalogue website of up to 100 pages starts from ${P.site}, a large catalogue of 299+ pages from ${P.seoSite}, and a dealer portal from ${P.software}. Product data work, languages and ERP links are itemised separately in the quote.` },
     { question: "How long does it take to build a manufacturing company website?", answer: "A catalogue site of up to 100 pages takes 1–2 weeks once product data is ready, and a large catalogue 3–5 weeks. The main factor is how quickly your team can supply accurate specifications, photos and datasheets. Starting the product spreadsheet early is the best way to launch on time." },
     { question: "Should I put my product catalogue as a PDF or as web pages?", answer: "As web pages, with PDFs as downloads. Each product page can be found in Google search, shows the specification table on a phone and has an enquiry button. A single large PDF is hard to search, slow on mobile and gives buyers no easy way to contact you about a specific product." },
     { question: "Do I need a website if I am already on B2B marketplaces?", answer: "Marketplace listings can bring enquiries, but your competitors appear next to you and you control little of the presentation. Your own website holds full specifications, certifications and dealer information, and buyers who find you on a marketplace often check it before calling. Many manufacturers use both." },
@@ -352,7 +352,7 @@ const content: FreelanceContent = {
     links: [
       { name: "B2B website developer for RFQs and catalogues", href: "/b2b-website-developer/" },
       { name: "Export business website developer", href: "/export-business-website-developer/" },
-      { name: "SEO website developer for 700+ page catalogues", href: "/seo-website-developer/" },
+      { name: "SEO website developer for 299+ page catalogues", href: "/seo-website-developer/" },
       { name: "Portal development for dealers and vendors", href: "/portal-development-freelancer/" },
       { name: "ERP software developer for SMEs", href: "/erp-software-developer/" },
       { name: "Inventory management software", href: "/inventory-management-software-developer/" },

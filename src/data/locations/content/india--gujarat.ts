@@ -175,7 +175,7 @@ const content: CityContent = {
       paragraphs: [
         "SEO for Gujarat businesses means ranking for both local Gujarati searches and national or export searches in English, and making sure AI assistants describe your products, location and credentials accurately. A Morbi tile maker, a Surat saree wholesaler and an Ahmedabad clinic need very different keyword plans, even though all three sit in the same state.",
         "We build product, capability and location pages with real specifications, add Gujarati pages where local customers search that way, keep Google Business Profiles accurate, and add structured data and FAQs that AI search tools can cite. For manufacturers, cluster terms such as a product plus Rajkot or GIDC often convert better than broad terms.",
-        "Monthly SEO starts from ₹10,000, and a 700+ page SEO website from ₹20,000 for firms with large catalogues. Rankings are never guaranteed. See our <a href='/services/seo-services/'>SEO services page</a>.",
+        "Monthly SEO starts from ₹10,000, and a 299+ page SEO website from ₹20,000 for firms with large catalogues. Rankings are never guaranteed. See our <a href='/services/seo-services/'>SEO services page</a>.",
       ],
     },
     {
@@ -190,12 +190,12 @@ const content: CityContent = {
       id: "gujarat-it-cost",
       heading: "How much do IT solutions cost for a Gujarat business?",
       paragraphs: [
-        "IT solutions for a Gujarat business start from ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000. All are starting prices.",
+        "IT solutions for a Gujarat business start from ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000. All are starting prices.",
         "Costs rise with users, departments, integrations and data migration, and fall when the first release is tightly focused. Each roadmap item is quoted separately and itemised within about two working days. Plan details are on our <a href='/pricing/'>pricing page</a>.",
       ],
       list: [
         "Static website: from ₹10,000, 1 to 2 weeks",
-        "700+ page SEO website: from ₹20,000, 3 to 5 weeks",
+        "299+ page SEO website: from ₹20,000, 3 to 5 weeks",
         "Android and iOS app: from ₹40,000, 6 to 10 weeks",
         "AI automation: from ₹40,000, 2 to 4 weeks",
         "Online store: from ₹50,000, 4 to 8 weeks",

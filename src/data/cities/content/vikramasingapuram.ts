@@ -39,7 +39,7 @@ const vikramasingapuram: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Tamil local SEO", "Papanasam visitor pages", "Domain and code in your name"],
   },
   quickAnswer:
-    "For a Vikramasingapuram business, a website with us starts at ₹10,000 and is typically live in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 700+ page SEO site at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely and you own everything.",
+    "For a Vikramasingapuram business, a website with us starts at ₹10,000 and is typically live in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 299+ page SEO site at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely and you own everything.",
   snapshot: [
     { label: "Where", value: "Second grade municipality in Ambasamudram taluk, Tirunelveli district, roughly 50 km west of Tirunelveli city" },
     { label: "Population", value: "47,241 at the 2011 census" },
@@ -210,7 +210,7 @@ const vikramasingapuram: CityContent = {
     {
       question: "What is the website cost in Vikramasingapuram?",
       answer:
-        "Static websites start at ₹10,000, SEO websites of 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, Tamil content, products and integrations, and it arrives itemised in writing before anything is billed.",
+        "Static websites start at ₹10,000, SEO websites of 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, Tamil content, products and integrations, and it arrives itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Vikramasingapuram businesses?",
@@ -220,7 +220,7 @@ const vikramasingapuram: CityContent = {
     {
       question: "How long does a website take for a shop in Singai?",
       answer:
-        "A simple shop or clinic site is usually live within one to two weeks after we receive your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Sending content early is the biggest thing you can do to speed it up.",
+        "A simple shop or clinic site is usually live within one to two weeks after we receive your photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Sending content early is the biggest thing you can do to speed it up.",
     },
     {
       question: "Which is the best website development team in Vikramasingapuram?",
@@ -245,7 +245,7 @@ const vikramasingapuram: CityContent = {
     {
       question: "Vikramasingapuram me website banwane ka kharcha kitna hai?",
       answer:
-        "Simple website ₹10,000 se shuru hoti hai aur lagbhag ek-do hafte mein taiyaar ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapka final quote pages aur features ke hisaab se likhit mein milta hai.",
+        "Simple website ₹10,000 se shuru hoti hai aur lagbhag ek-do hafte mein taiyaar ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapka final quote pages aur features ke hisaab se likhit mein milta hai.",
     },
     {
       question: "You have no office near Vikramasingapuram. Why should I trust a remote team?",

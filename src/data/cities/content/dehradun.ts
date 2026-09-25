@@ -35,7 +35,7 @@ const dehradun: CityContent = {
     pills: ["Sites from ₹10,000", "School and admissions sites", "Pharma B2B catalogues", "Homestay bookings", "Hindi and English pages"],
   },
   quickAnswer:
-    "For a Dehradun business, a simple website with us starts at ₹10,000 and a 700+ page SEO website at ₹20,000, live in one to five weeks. We are a remote team of three engineers with no Dehradun office. Every project includes hosting setup, search basics and five months of free maintenance after launch.",
+    "For a Dehradun business, a simple website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000, live in one to five weeks. We are a remote team of three engineers with no Dehradun office. Every project includes hosting setup, search basics and five months of free maintenance after launch.",
   snapshot: [
     { label: "Shopping streets", value: "Paltan Bazaar from the Clock Tower to the railway station, Rajpur Road, Dhamawala" },
     { label: "Industry", value: "Pharma City and the Selaqui industrial area, SIDCUL IT Park on Sahastradhara Road" },
@@ -73,12 +73,12 @@ const dehradun: CityContent = {
       heading: "Website prices in Dehradun, itemised",
       paragraphs: [
         "Dehradun businesses describe quotes from ₹3,000 to ₹70,000 for a small website. The cheapest usually reuse a template on the developer's own hosting, with no search setup. The most expensive often come from Delhi-NCR agencies whose price covers offices and sales teams. Neither tends to explain what exactly you are buying.",
-        "Our starting prices are published openly. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website, with a page for each service, course or area, starts at ₹20,000 and takes three to five weeks. Online stores with UPI and card payments start at ₹50,000, automation at ₹40,000 and custom applications such as school portals at ₹60,000. Monthly SEO is from ₹10,000 if you want it.",
+        "Our starting prices are published openly. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website, with a page for each service, course or area, starts at ₹20,000 and takes three to five weeks. Online stores with UPI and card payments start at ₹50,000, automation at ₹40,000 and custom applications such as school portals at ₹60,000. Monthly SEO is from ₹10,000 if you want it.",
         "The biggest driver of cost is content and features: a school with admissions forms, galleries and a parent portal is more work than a clinic's five pages. Every page and feature appears in the quote, and nothing is billed until you approve it in writing.",
       ],
       list: [
         "<strong>Static site, from ₹10,000:</strong> up to 100 pages, map, call and WhatsApp buttons, form. For clinics, shops and consultants.",
-        "<strong>SEO site, from ₹20,000:</strong> 700+ pages, schema, sitemap, pages per service or course.",
+        "<strong>SEO site, from ₹20,000:</strong> 299+ pages, schema, sitemap, pages per service or course.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart, Razorpay UPI and cards, shipping rules. For food and craft brands.",
         "<strong>Web application, from ₹60,000:</strong> admissions, fee tracking, portals, dashboards.",
       ],
@@ -218,12 +218,12 @@ const dehradun: CityContent = {
     {
       question: "How much does a website cost in Dehradun?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom application at ₹60,000. Dehradun quotes vary widely, so compare what is included: domain ownership, search setup, hosting access and support after launch.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom application at ₹60,000. Dehradun quotes vary widely, so compare what is included: domain ownership, search setup, hosting access and support after launch.",
     },
     {
       question: "Dehradun me website banwane me kitna kharcha hota hai?",
       answer:
-        "Humare saath ek simple business website ₹10,000 se shuru hoti hai aur 700+ pages ki SEO website ₹20,000 se. Online store ₹50,000 se shuru hota hai. Final price pages, features aur content par nirbhar karti hai. Kaam shuru karne se pehle aapko poora itemised quote milta hai.",
+        "Humare saath ek simple business website ₹10,000 se shuru hoti hai aur 299+ pages ki SEO website ₹20,000 se. Online store ₹50,000 se shuru hota hai. Final price pages, features aur content par nirbhar karti hai. Kaam shuru karne se pehle aapko poora itemised quote milta hai.",
     },
     {
       question: "Do you have an office in Dehradun?",
@@ -248,7 +248,7 @@ const dehradun: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks, and a custom application six to twelve weeks. For schools, we recommend starting at least two months before admissions open. Delays usually come from waiting for photographs and text.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks, and a custom application six to twelve weeks. For schools, we recommend starting at least two months before admissions open. Delays usually come from waiting for photographs and text.",
     },
     {
       question: "Can a homestay near Mussoorie road take direct bookings?",

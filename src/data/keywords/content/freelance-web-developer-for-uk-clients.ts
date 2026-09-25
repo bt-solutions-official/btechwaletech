@@ -171,7 +171,7 @@ const content: FreelanceContent = {
       heading: "How much does a freelance web developer for UK clients cost?",
       paragraphs: [
         `Quotes vary widely across UK and offshore freelancers, and the gap is mostly explained by scope, experience and how much support is included, not by location alone. Compare line items, not totals.`,
-        `Our starting prices in USD: a business website of up to 100 pages from ${P.siteUsd}, a search-focused site with 700+ pages from ${P.seoSiteUsd}, an online store from ${P.shopUsd}, a custom web app or portal from ${P.softwareUsd}, an Android and iOS app from ${P.appUsd}, and AI automation from ${P.aiUsd}. Monthly SEO starts at ${P.seoUsd}, and maintenance after five free months starts at ${P.careUsd}.`,
+        `Our starting prices in USD: a business website of up to 100 pages from ${P.siteUsd}, a search-focused site with 299+ pages from ${P.seoSiteUsd}, an online store from ${P.shopUsd}, a custom web app or portal from ${P.softwareUsd}, an Android and iOS app from ${P.appUsd}, and AI automation from ${P.aiUsd}. Monthly SEO starts at ${P.seoUsd}, and maintenance after five free months starts at ${P.careUsd}.`,
         `UK-specific work can add lines: a detailed cookie audit, accessibility testing beyond the standard checks, a Welsh-language version, integration with UK accounting or delivery services, or content written in a UK voice. Each appears separately so you can decide. For hourly versus project billing across markets, see <a href='/freelance-web-developer-rates/'>freelance web developer rates</a>.`,
       ],
     },
@@ -305,7 +305,7 @@ const content: FreelanceContent = {
       columns: ["Project", "Starts at (USD)", "INR equivalent", "Typical timeline"],
       rows: [
         ["Business website, up to 100 pages", `From ${P.siteUsd}`, `From ${P.site}`, "1–2 weeks"],
-        ["Search-focused site, 700+ pages", `From ${P.seoSiteUsd}`, `From ${P.seoSite}`, "3–5 weeks"],
+        ["Search-focused site, 299+ pages", `From ${P.seoSiteUsd}`, `From ${P.seoSite}`, "3–5 weeks"],
         ["Online store", `From ${P.shopUsd}`, `From ${P.shop}`, "4–8 weeks"],
         ["Custom web app or portal", `From ${P.softwareUsd}`, `From ${P.software}`, "6–12 weeks"],
         ["Android & iOS app", `From ${P.appUsd}`, `From ${P.app}`, "6–10 weeks"],

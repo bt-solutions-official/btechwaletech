@@ -39,7 +39,7 @@ const arwal: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first local SEO", "Coaching and clinic pages", "You own every account"],
   },
   quickAnswer:
-    "For an Arwal business, a website with us starts at ₹10,000 and a 700+ page SEO site at ₹20,000. Android and iOS apps and WhatsApp or AI automation start at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Arwal office, and the domain, code and app accounts stay yours.",
+    "For an Arwal business, a website with us starts at ₹10,000 and a 299+ page SEO site at ₹20,000. Android and iOS apps and WhatsApp or AI automation start at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Arwal office, and the domain, code and app accounts stay yours.",
   snapshot: [
     { label: "Location", value: "Right bank of the Sone river in south-west Bihar, roughly 65 km from Patna by road" },
     { label: "District", value: "Formed on 20 August 2001 from part of Jehanabad; one subdivision and five blocks" },
@@ -155,7 +155,7 @@ const arwal: CityContent = {
       id: "website-cost-arwal",
       heading: "Website cost in Arwal: starting prices and how to compare quotes",
       paragraphs: [
-        "People in Arwal usually want the number before the details. A plain site for a shop, clinic or school, anything up to 100 pages, begins at ₹10,000 and is typically live inside a fortnight. A coaching institute that wants a page for every exam, subject and block can take a 700-plus page SEO build, which begins at ₹20,000 and needs three to five weeks. Apps for Android and iPhone begin at ₹40,000, and so does WhatsApp or AI automation. Stores begin at ₹50,000, bespoke software at ₹60,000, and ongoing SEO at ₹10,000 per month.",
+        "People in Arwal usually want the number before the details. A plain site for a shop, clinic or school, anything up to 100 pages, begins at ₹10,000 and is typically live inside a fortnight. A coaching institute that wants a page for every exam, subject and block can take a 299-plus page SEO build, which begins at ₹20,000 and needs three to five weeks. Apps for Android and iPhone begin at ₹40,000, and so does WhatsApp or AI automation. Stores begin at ₹50,000, bespoke software at ₹60,000, and ongoing SEO at ₹10,000 per month.",
         "Your figure rises only for things you choose: Hindi and English pages, a long product list, delivery zones, online payment, staff logins or a link to your accounts software. Each is a separate line you can keep or strike out. If you provide your own text and photos, the price stays near the starting point.",
         "Quotes from designers in Patna, Jehanabad and online can vary widely for work that looks the same. Before deciding, ask who will own the domain, whether the site is tested on cheap phones, whether basic on-page SEO is included, how many rounds of changes are covered and what support looks like after launch. Our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and an itemised written quote reaches you within about two working days.",
       ],
@@ -216,7 +216,7 @@ const arwal: CityContent = {
     {
       question: "What is the website cost in Arwal?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final quote depends on pages, Hindi content, products and features, and you receive it itemised in writing before anything is billed.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final quote depends on pages, Hindi content, products and features, and you receive it itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Arwal businesses?",
@@ -231,7 +231,7 @@ const arwal: CityContent = {
     {
       question: "How quickly can an Arwal shop get a website?",
       answer:
-        "A simple shop website is usually ready one to two weeks after we receive your photos and details. A 700+ page SEO site takes about three to five weeks, an online store four to eight and custom software six to twelve. Projects move fastest when content arrives early.",
+        "A simple shop website is usually ready one to two weeks after we receive your photos and details. A 299+ page SEO site takes about three to five weeks, an online store four to eight and custom software six to twelve. Projects move fastest when content arrives early.",
     },
     {
       question: "Which is the best website development team in Arwal?",
@@ -251,7 +251,7 @@ const arwal: CityContent = {
     {
       question: "Arwal me website banwane me kitna kharcha lagta hai?",
       answer:
-        "Hamare yahan simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein ban jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapki zaroorat ke hisaab se likhit quote do working days mein bhej dete hain.",
+        "Hamare yahan simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein ban jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapki zaroorat ke hisaab se likhit quote do working days mein bhej dete hain.",
     },
     {
       question: "You have no office in Arwal. Is it safe to work remotely?",

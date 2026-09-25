@@ -34,7 +34,7 @@ const khanna: CityContent = {
     pills: ["Sites from ₹10,000", "Arhtiya record software", "Punjabi and Hindi search", "WhatsApp lead logging", "Code and domain in your name"],
   },
   quickAnswer:
-    "In Khanna, our static business website starts from ₹10,000, and a 700+ page SEO website starts from ₹20,000, taking roughly one to five weeks. Custom trade software starts from ₹60,000. We are three remote engineers with no Khanna office, so the quote carries no rent, and each launch comes with five months of free maintenance.",
+    "In Khanna, our static business website starts from ₹10,000, and a 299+ page SEO website starts from ₹20,000, taking roughly one to five weeks. Custom trade software starts from ₹60,000. We are three remote engineers with no Khanna office, so the quote carries no rent, and each launch comes with five months of free maintenance.",
   snapshot: [
     { label: "District", value: "Khanna city and tehsil, Ludhiana district, about 40 km from Ludhiana on GT Road" },
     { label: "Signature trade", value: "Grain market often described as Asia's largest, with the new grain market beside GT Road" },
@@ -72,12 +72,12 @@ const khanna: CityContent = {
       heading: "Website prices in Khanna, explained without the sales pitch",
       paragraphs: [
         "In Khanna you will hear quotes ranging from a couple of thousand rupees to more than fifty thousand for a basic site. At the lower end, the developer usually reuses a theme, keeps the domain in his own name and skips SEO. At the higher end you may be paying for a Ludhiana or Chandigarh agency's office and its sales team.",
-        "Our starting prices are these. A static business website, up to 100 pages, starts from ₹10,000 and is usually live within one to two weeks. A 700+ page SEO website starts from ₹20,000 and takes three to five weeks. An ecommerce store with UPI and card payments starts from ₹50,000. Custom software, such as an arhtiya ledger or a stock and dispatch system, starts from ₹60,000. AI and WhatsApp automation starts from ₹40,000, and monthly SEO from ₹10,000 a month.",
+        "Our starting prices are these. A static business website, up to 100 pages, starts from ₹10,000 and is usually live within one to two weeks. A 299+ page SEO website starts from ₹20,000 and takes three to five weeks. An ecommerce store with UPI and card payments starts from ₹50,000. Custom software, such as an arhtiya ledger or a stock and dispatch system, starts from ₹60,000. AI and WhatsApp automation starts from ₹40,000, and monthly SEO from ₹10,000 a month.",
         "What pushes a quote up is scope: more pages, more product lines, bilingual content, logins for staff, payment integration or reports. We list each item separately so you can drop what you don't need. Full details are on our <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [
         "<strong>Static site, from ₹10,000:</strong> clinics, shops, consultants and small dealers who need a trustworthy presence.",
-        "<strong>SEO site, from ₹20,000:</strong> 700+ pages for firms that want steady Google enquiries from the wider region.",
+        "<strong>SEO site, from ₹20,000:</strong> 299+ pages for firms that want steady Google enquiries from the wider region.",
         "<strong>Online store, from ₹50,000:</strong> cart, UPI checkout, shipping rules and order alerts.",
         "<strong>Custom software, from ₹60,000:</strong> ledgers, stock, payments and reports tailored to your trade.",
       ],
@@ -208,12 +208,12 @@ const khanna: CityContent = {
     {
       question: "How much does a website cost in Khanna?",
       answer:
-        "Our static business website starts from ₹10,000, a 700+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. The final amount depends on pages, languages, features and integrations. You get an itemised quote in about two working days, and nothing is billed until you approve it in writing.",
+        "Our static business website starts from ₹10,000, a 299+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. The final amount depends on pages, languages, features and integrations. You get an itemised quote in about two working days, and nothing is billed until you approve it in writing.",
     },
     {
       question: "Khanna vich website banaun da kharcha kinna hai?",
       answer:
-        "Saade naal simple business website ₹10,000 ton shuru hundi hai, te 700+ pages wali SEO website ₹20,000 ton. Online store ₹50,000 ton shuru hunda hai. Final keemat pages, features te content te nirbhar kardi hai. Kamm shuru karan ton pehlan tuhanu poora itemised quote bhejiya janda hai, te tuhadi manzoori ton bina koi bill nahi.",
+        "Saade naal simple business website ₹10,000 ton shuru hundi hai, te 299+ pages wali SEO website ₹20,000 ton. Online store ₹50,000 ton shuru hunda hai. Final keemat pages, features te content te nirbhar kardi hai. Kamm shuru karan ton pehlan tuhanu poora itemised quote bhejiya janda hai, te tuhadi manzoori ton bina koi bill nahi.",
     },
     {
       question: "Do you have an office in Khanna?",
@@ -238,7 +238,7 @@ const khanna: CityContent = {
     {
       question: "How long will my website take?",
       answer:
-        "A static website takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. If you want launch before the wheat or paddy season, tell us early. The usual delay is waiting for photos and details, so we write draft text for you to correct.",
+        "A static website takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. If you want launch before the wheat or paddy season, tell us early. The usual delay is waiting for photos and details, so we write draft text for you to correct.",
     },
     {
       question: "Can you build a website for a school or coaching centre in Khanna?",

@@ -35,7 +35,7 @@ const salem: CityContent = {
     pills: ["Sites from ₹10,000", "Tamil and English pages", "Wholesale catalogues", "UPI stores for textiles", "WhatsApp order logging"],
   },
   quickAnswer:
-    "A business website for a Salem firm starts at ₹10,000 with us and goes live in one to two weeks. A 700+ page SEO website starts at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. We are a remote three-engineer team with no Salem office, and maintenance is free for five months after launch.",
+    "A business website for a Salem firm starts at ₹10,000 with us and goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. We are a remote three-engineer team with no Salem office, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Trade centres", value: "Shevapet, Leigh Bazaar, Chinnakadai Street, Five Roads, Four Roads and the New Bus Stand area" },
     { label: "Textiles", value: "More than 75,000 handlooms plus spinning mills; Salem silk (Salem Venpattu) is a registered GI" },
@@ -73,12 +73,12 @@ const salem: CityContent = {
       heading: "How website pricing works for Salem businesses",
       paragraphs: [
         "Salem quotes for a small website can range from ₹2,500 to ₹50,000. At the cheap end you usually get a reused template, no search work and hosting on the designer's account, which you only discover when you try to leave. At the expensive end you pay for office rent, a sales team and a coordinator between you and the actual developer.",
-        "We keep things open. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website, with a page for each product line or service, starts at ₹20,000 and takes three to five weeks. An online store with UPI and card payments starts at ₹50,000 and takes four to eight weeks. Custom web applications such as dealer portals or production trackers start at ₹60,000. Automation starts at ₹40,000, and monthly SEO at ₹10,000.",
+        "We keep things open. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website, with a page for each product line or service, starts at ₹20,000 and takes three to five weeks. An online store with UPI and card payments starts at ₹50,000 and takes four to eight weeks. Custom web applications such as dealer portals or production trackers start at ₹60,000. Automation starts at ₹40,000, and monthly SEO at ₹10,000.",
         "Your quote is broken into lines for every page and feature, so a weaving unit with two hundred designs can see why it costs more than a clinic with five services. You can remove items you don't need, and nothing is billed until you approve the quote in writing.",
       ],
       list: [
         "<strong>Static website, from ₹10,000:</strong> up to 100 pages, enquiry form, SEO basics. Suits clinics, auditors, shops and tutors.",
-        "<strong>SEO website, from ₹20,000:</strong> 700+ pages, schema, sitemap, Search Console. Suits manufacturers and schools.",
+        "<strong>SEO website, from ₹20,000:</strong> 299+ pages, schema, sitemap, Search Console. Suits manufacturers and schools.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart, UPI and card checkout. Suits sarees, anklets and food products.",
         "<strong>Custom web application, from ₹60,000:</strong> logins, workflows and reports. Suits mills, distributors and exporters.",
       ],
@@ -211,12 +211,12 @@ const salem: CityContent = {
     {
       question: "What does a website cost in Salem?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Local quotes for similar work range from about ₹2,500 to ₹50,000. Compare who owns the domain and hosting, whether SEO is included and what support you get after launch.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Local quotes for similar work range from about ₹2,500 to ₹50,000. Compare who owns the domain and hosting, whether SEO is included and what support you get after launch.",
     },
     {
       question: "Salem-la business-ku website podanumna evlo aagum?",
       answer:
-        "Engakitta oru simple business website ₹10,000-la irundhu start aagudhu. 700+ page SEO website ₹20,000 muthal, online store ₹50,000 muthal. Evlo pages, enna features, content ready-a illaiya nu paathu dhaan final vilai. Velai start panradhukku munnadiye itemised quote tharuvom, neenga ok sonna apram dhaan payment.",
+        "Engakitta oru simple business website ₹10,000-la irundhu start aagudhu. 299+ page SEO website ₹20,000 muthal, online store ₹50,000 muthal. Evlo pages, enna features, content ready-a illaiya nu paathu dhaan final vilai. Velai start panradhukku munnadiye itemised quote tharuvom, neenga ok sonna apram dhaan payment.",
     },
     {
       question: "Do you have an office in Salem?",
@@ -246,7 +246,7 @@ const salem: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site usually takes one to two weeks and a 700+ page SEO site three to five weeks. Online stores take four to eight weeks and custom applications six to twelve. Large catalogues depend on how quickly photographs and codes are ready, so we give you a simple sheet to fill in while we build.",
+        "A static site usually takes one to two weeks and a 299+ page SEO site three to five weeks. Online stores take four to eight weeks and custom applications six to twelve. Large catalogues depend on how quickly photographs and codes are ready, so we give you a simple sheet to fill in while we build.",
     },
     {
       question: "How long does SEO take for a Salem business?",

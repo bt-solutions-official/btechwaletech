@@ -34,7 +34,7 @@ const erode: CityContent = {
     pills: ["Sites from ₹10,000", "Tamil and English pages", "Login-based wholesale catalogues", "WhatsApp order automation", "Domain and hosting in your name"],
   },
   quickAnswer:
-    "For Erode businesses, our websites start at ₹10,000 and a 700+ page SEO website at ₹20,000. Wholesale stores and ecommerce begin from ₹50,000, and custom software from ₹60,000. We are a remote three-engineer team with no office in Erode, and every launch comes with five months of free maintenance.",
+    "For Erode businesses, our websites start at ₹10,000 and a 299+ page SEO website at ₹20,000. Wholesale stores and ecommerce begin from ₹50,000, and custom software from ₹60,000. We are a remote three-engineer team with no office in Erode, and every launch comes with five months of free maintenance.",
   snapshot: [
     { label: "Known as", value: "Turmeric City and a major handloom, powerloom and textile trading centre" },
     { label: "GI products", value: "Erode turmeric (GI in 2019) and Bhavani Jamakkalam bedspreads (GI in 2005)" },
@@ -71,7 +71,7 @@ const erode: CityContent = {
       id: "erode-website-cost",
       heading: "What websites cost for Erode firms",
       paragraphs: [
-        "We publish our starting prices so you can plan in advance. A business website of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks. An SEO website with 700+ pages, where each product line, fabric type, count or variety has its own page, starts at ₹20,000 and takes three to five weeks. Online stores and wholesale catalogues with UPI and card payment start from ₹50,000, and custom web applications start from ₹60,000.",
+        "We publish our starting prices so you can plan in advance. A business website of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks. An SEO website with 299+ pages, where each product line, fabric type, count or variety has its own page, starts at ₹20,000 and takes three to five weeks. Online stores and wholesale catalogues with UPI and card payment start from ₹50,000, and custom web applications start from ₹60,000.",
         "AI and WhatsApp automation projects begin at ₹40,000. Monthly SEO starts at ₹10,000 a month, and maintenance starts at ₹8,000 a month after the five free months. The full list is on our <a href=\"/pricing/\">pricing page</a>.",
         "Scope decides the final number. A clinic with eight pages is quick. A textile wholesaler with 600 products, several price levels, dealer logins and a Tamil version needs far more work. Every item is listed in the quote, and nothing is billed until you approve it in writing.",
       ],
@@ -220,12 +220,12 @@ const erode: CityContent = {
     {
       question: "How much does a website cost in Erode?",
       answer:
-        "With us, a business website starts at ₹10,000 and an SEO website with 700+ pages at ₹20,000. Online stores and wholesale catalogues start from ₹50,000, and custom web applications from ₹60,000. When comparing quotes, check domain ownership, SEO setup and support after launch.",
+        "With us, a business website starts at ₹10,000 and an SEO website with 299+ pages at ₹20,000. Online stores and wholesale catalogues start from ₹50,000, and custom web applications from ₹60,000. When comparing quotes, check domain ownership, SEO setup and support after launch.",
     },
     {
       question: "Erode la oru website uruvaakka evvalavu aagum?",
       answer:
-        "Engal kitta oru saadharana business website ₹10,000 mudhal aarambikkiradhu. 700+ pages ulla SEO website ₹20,000 mudhal, online store ₹50,000 mudhal aarambam. Ovvoru selavaiyum pirithu kaattum quote-ai munnaadiye anuppuvom, neengal ezhuthil ok sonna piragu dhaan bill.",
+        "Engal kitta oru saadharana business website ₹10,000 mudhal aarambikkiradhu. 299+ pages ulla SEO website ₹20,000 mudhal, online store ₹50,000 mudhal aarambam. Ovvoru selavaiyum pirithu kaattum quote-ai munnaadiye anuppuvom, neengal ezhuthil ok sonna piragu dhaan bill.",
     },
     {
       question: "Do you have an office in Erode?",
@@ -255,7 +255,7 @@ const erode: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A business website takes one to two weeks, a 700+ page SEO website three to five weeks, an online store or wholesale catalogue four to eight weeks and a custom application six to twelve weeks. Product photos and codes are usually the slowest part, so we help you organise them early.",
+        "A business website takes one to two weeks, a 299+ page SEO website three to five weeks, an online store or wholesale catalogue four to eight weeks and a custom application six to twelve weeks. Product photos and codes are usually the slowest part, so we help you organise them early.",
     },
     {
       question: "What can WhatsApp automation do for an Erode trader?",

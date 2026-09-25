@@ -35,7 +35,7 @@ const malappuram: CityContent = {
     pills: ["Sites from ₹10,000", "Malayalam and English pages", "Clinic and Ayurveda sites", "WhatsApp enquiry bots", "Code in your name"],
   },
   quickAnswer:
-    "A Malappuram business website with us starts at ₹10,000 and usually goes live in one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000, AI or WhatsApp automation at ₹40,000 and custom software at ₹60,000. We work remotely with no Malappuram office, and you own the domain, hosting and code.",
+    "A Malappuram business website with us starts at ₹10,000 and usually goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000, AI or WhatsApp automation at ₹40,000 and custom software at ₹60,000. We work remotely with no Malappuram office, and you own the domain, hosting and code.",
   snapshot: [
     { label: "Town and region", value: "About 1.01 lakh people in the municipality (2011), inside an urban agglomeration of roughly 28 lakh that ranks among Kerala's largest" },
     { label: "Economy", value: "Heavily shaped by Gulf remittances, with strong healthcare, trade and agri-processing sectors" },
@@ -73,7 +73,7 @@ const malappuram: CityContent = {
       heading: "What a website costs in Malappuram, line by line",
       paragraphs: [
         "Quotes in Malappuram swing widely. A friend-of-a-friend may offer a site for very little, built on a theme on his own hosting account. A Kochi or Bengaluru agency may quote several times more because of its office and sales staff. Neither tells you what you are actually paying for.",
-        "Our figures are starting prices, published openly. A static website of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000 and custom web applications, such as a visa-file tracker or a lab report portal, at ₹60,000. Monthly SEO starts at ₹10,000. The full list sits on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our figures are starting prices, published openly. A static website of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000 and custom web applications, such as a visa-file tracker or a lab report portal, at ₹60,000. Monthly SEO starts at ₹10,000. The full list sits on our <a href=\"/pricing/\">pricing page</a>.",
         "The amount grows only with scope: more pages, two languages instead of one, product photography edits, payment integrations or custom logic. Each of those is a separate line in your quote, so you can build the essentials now and add the rest after the first season's results.",
       ],
       list: [
@@ -218,7 +218,7 @@ const malappuram: CityContent = {
     {
       question: "How much does a website cost in Malappuram?",
       answer:
-        "With us, a business website starts at ₹10,000 and a 700+ page SEO website at ₹20,000. Online stores start at ₹50,000, automation at ₹40,000 and custom software at ₹60,000. The final figure depends on pages, languages and features, and you receive an itemised quote in about two working days before anything is billed.",
+        "With us, a business website starts at ₹10,000 and a 299+ page SEO website at ₹20,000. Online stores start at ₹50,000, automation at ₹40,000 and custom software at ₹60,000. The final figure depends on pages, languages and features, and you receive an itemised quote in about two working days before anything is billed.",
     },
     {
       question: "Malappurathu oru website undakkan ethra chilavakum?",
@@ -253,7 +253,7 @@ const malappuram: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static website usually takes one to two weeks, a 700+ page SEO website three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. Content is the usual delay, so we can draft Malayalam and English text for you to check.",
+        "A static website usually takes one to two weeks, a 299+ page SEO website three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. Content is the usual delay, so we can draft Malayalam and English text for you to check.",
     },
     {
       question: "What can WhatsApp automation do for a Malappuram business?",

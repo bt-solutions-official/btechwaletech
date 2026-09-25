@@ -38,7 +38,7 @@ const bellampalle: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu-first local SEO", "Contractor trip registers", "Accounts in your name"],
   },
   quickAnswer:
-    "In Bellampalle, a business website with us starts at ₹10,000 and is normally live within one to two weeks. Android and iOS apps and AI or WhatsApp automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, and you own the domain, code and accounts.",
+    "In Bellampalle, a business website with us starts at ₹10,000 and is normally live within one to two weeks. Android and iOS apps and AI or WhatsApp automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, and you own the domain, code and accounts.",
   snapshot: [
     { label: "Location", value: "Municipality and mandal headquarters in Mancherial district, about 273 km north of Hyderabad" },
     { label: "Population", value: "Around 55,000 to 67,000 at the 2011 census depending on the boundary counted, across 32 municipal wards" },
@@ -156,7 +156,7 @@ const bellampalle: CityContent = {
       id: "website-cost-bellampalle",
       heading: "Website cost in Bellampalle: starting prices and how to compare quotes",
       paragraphs: [
-        "Price is usually the first question, so here are our entry points. A static website for a shop, clinic or supplier, up to 100 pages, starts at ₹10,000 and takes one to two weeks. A large SEO site of 700 pages or more, suited to a coaching institute or a distributor covering many products and mandals, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation. Online stores start at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000 a month.",
+        "Price is usually the first question, so here are our entry points. A static website for a shop, clinic or supplier, up to 100 pages, starts at ₹10,000 and takes one to two weeks. A large SEO site of 299 pages or more, suited to a coaching institute or a distributor covering many products and mandals, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation. Online stores start at ₹50,000, custom software at ₹60,000 and monthly SEO at ₹10,000 a month.",
         "Your figure rises only for the things you choose. Telugu and English versions, a large catalogue, online payment, staff logins, a customer portal or a Tally link each become a separate line that you can keep or drop. If you provide your own text and phone photographs, the quote changes very little.",
         "Local quotes vary widely for work that sounds similar, so compare on the same terms. Ask who will own the domain and hosting, whether the site is tested on low-cost phones, whether basic on-page SEO is part of the job, how many revision rounds are included and what support will cost after a year. Our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and your written, itemised quote comes within about two working days.",
       ],
@@ -217,7 +217,7 @@ const bellampalle: CityContent = {
     {
       question: "What is the website cost in Bellampalle?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices, and your quote depends on pages, Telugu content, products and integrations. It comes itemised in writing within about two working days, and nothing is billed before you approve it.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices, and your quote depends on pages, Telugu content, products and integrations. It comes itemised in writing within about two working days, and nothing is billed before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Bellampalle businesses?",
@@ -227,7 +227,7 @@ const bellampalle: CityContent = {
     {
       question: "How fast can a Bellampalle shop get a website?",
       answer:
-        "A simple static website for a shop or clinic is usually live one to two weeks after we get your photographs and details. Bigger jobs take longer: roughly three to five weeks for a 700+ page SEO site, four to eight weeks for an online store and six to twelve weeks for custom software. Quick replies with content speed up every project.",
+        "A simple static website for a shop or clinic is usually live one to two weeks after we get your photographs and details. Bigger jobs take longer: roughly three to five weeks for a 299+ page SEO site, four to eight weeks for an online store and six to twelve weeks for custom software. Quick replies with content speed up every project.",
     },
     {
       question: "Which is the best website development team in Bellampalle?",
@@ -252,7 +252,7 @@ const bellampalle: CityContent = {
     {
       question: "Bellampalli me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein ban jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapke pages aur features dekhkar final quote likhit mein bheja jaata hai, approval se pehle koi payment nahi.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein ban jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapke pages aur features dekhkar final quote likhit mein bheja jaata hai, approval se pehle koi payment nahi.",
     },
     {
       question: "You have no office in Bellampalle. Is working remotely safe?",

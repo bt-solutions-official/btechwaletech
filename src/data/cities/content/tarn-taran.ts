@@ -39,7 +39,7 @@ const tarnTaran: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Punjabi-first local SEO", "Arhtiya and dealer software", "You hold every login"],
   },
   quickAnswer:
-    "In Tarn Taran, a website with us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We have no Tarn Taran office; we work remotely, and you own everything.",
+    "In Tarn Taran, a website with us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We have no Tarn Taran office; we work remotely, and you own everything.",
   snapshot: [
     { label: "Status", value: "Headquarters of Tarn Taran district in the Majha region, south of Amritsar" },
     { label: "Founded", value: "By Guru Arjan Dev in 1596, around the sarovar of Gurdwara Sri Tarn Taran Sahib" },
@@ -174,7 +174,7 @@ const tarnTaran: CityContent = {
       id: "website-cost-tarn-taran",
       heading: "Website cost in Tarn Taran: starting prices and comparing quotes",
       paragraphs: [
-        "When asked about the <strong>website cost in Tarn Taran</strong>, we start with our published figures: a static website of up to 100 pages from ₹10,000, a 700+ page SEO website from ₹20,000, an Android and iOS app from ₹40,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting points, not final prices.",
+        "When asked about the <strong>website cost in Tarn Taran</strong>, we start with our published figures: a static website of up to 100 pages from ₹10,000, a 299+ page SEO website from ₹20,000, an Android and iOS app from ₹40,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting points, not final prices.",
         "The amount grows with content in both Punjabi and English, the size of your catalogue, payment integration, logins for customers or staff, and connections to Tally or your ledgers. Photography and writing, if you want us to arrange them, are listed separately.",
         "Local quotes vary widely. Compare them on who owns the domain and hosting, whether you receive the source code, how many changes are included, how long free support lasts and what yearly renewals cost. A cheap site controlled by someone else often ends up costing more.",
         "We send an itemised quote in about two working days and bill nothing before your written approval. The full list is on our <a href=\"/pricing/\">pricing page</a>.",
@@ -229,7 +229,7 @@ const tarnTaran: CityContent = {
     {
       question: "What is the website cost in Tarn Taran?",
       answer:
-        "Our static websites start at ₹10,000 and 700+ page SEO websites at ₹20,000. Online stores start at ₹50,000, Android and iOS apps and AI automation at ₹40,000, and custom software at ₹60,000. These are starting prices; your quote depends on pages, Punjabi and English content, payments and integrations.",
+        "Our static websites start at ₹10,000 and 299+ page SEO websites at ₹20,000. Online stores start at ₹50,000, Android and iOS apps and AI automation at ₹40,000, and custom software at ₹60,000. These are starting prices; your quote depends on pages, Punjabi and English content, payments and integrations.",
     },
     {
       question: "How long does it take to make a website in Tarn Taran?",

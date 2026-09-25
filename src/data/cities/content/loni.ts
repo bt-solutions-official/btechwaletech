@@ -34,7 +34,7 @@ const loni: CityContent = {
     pills: ["Sites from ₹10,000", "Tronica City units", "Hindi and Hinglish SEO", "WhatsApp enquiry tools", "Your domain, your code"],
   },
   quickAnswer:
-    "A website for a Loni business costs from ₹10,000 with us and is ready in one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote three-engineer team, you own the domain, hosting and code, and the first five months of maintenance are free.",
+    "A website for a Loni business costs from ₹10,000 with us and is ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote three-engineer team, you own the domain, hosting and code, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Location", value: "Ghaziabad district, Uttar Pradesh, on the Delhi border north-east of Shahdara, in the Ganga–Yamuna doab" },
     { label: "Civic body", value: "Loni Nagar Palika Parishad, formed in 1971, with 55 wards; Loni became a separate tehsil in 2015" },
@@ -72,12 +72,12 @@ const loni: CityContent = {
       heading: "Website prices in Loni, without the guesswork",
       paragraphs: [
         "A cousin who knows computers might offer to make your site for ₹1,500, and an agency in Connaught Place might ask for ₹70,000. The first often disappears after a few months with your domain in his name. The second charges for a smart office you will never visit. What you actually need is somewhere in between and clearly written down.",
-        "Our starting prices are public. A simple website of up to 100 pages costs from ₹10,000 and takes one to two weeks. A 700+ page website planned for Google, with separate pages for each product, service or area, starts at ₹20,000 and takes three to five weeks. An online store with UPI and card payments starts at ₹50,000 and needs four to eight weeks. WhatsApp and AI automation begins at ₹40,000, custom software such as a job-work tracker at ₹60,000, and monthly SEO at ₹10,000.",
+        "Our starting prices are public. A simple website of up to 100 pages costs from ₹10,000 and takes one to two weeks. A 299+ page website planned for Google, with separate pages for each product, service or area, starts at ₹20,000 and takes three to five weeks. An online store with UPI and card payments starts at ₹50,000 and needs four to eight weeks. WhatsApp and AI automation begins at ₹40,000, custom software such as a job-work tracker at ₹60,000, and monthly SEO at ₹10,000.",
         "The final cost depends on what you ask for, not on who you are. A clinic with three doctors needs fewer pages than a school with fourteen classes and a transport section. A garment unit showing twenty styles costs less than one listing five hundred SKUs. Our <a href=\"/pricing/\">pricing page</a> has the full breakdown, and we send an itemised quote in about two working days.",
       ],
       list: [
         "<strong>Basic site from ₹10,000:</strong> shops, tutors, clinics and service providers.",
-        "<strong>SEO site from ₹20,000:</strong> 700+ pages for units, schools and hospitals.",
+        "<strong>SEO site from ₹20,000:</strong> 299+ pages for units, schools and hospitals.",
         "<strong>Online store from ₹50,000:</strong> garments, furniture and packaged foods with UPI.",
         "<strong>Custom software from ₹60,000:</strong> job-work, stock and dispatch tracking.",
       ],
@@ -217,12 +217,12 @@ const loni: CityContent = {
     {
       question: "How much does a website cost in Loni?",
       answer:
-        "Our basic websites start at ₹10,000 and 700+ page SEO websites at ₹20,000. Online stores start at ₹50,000, automation at ₹40,000 and custom software at ₹60,000. Whatever quote you compare, ask who will own the domain and hosting, and what happens after launch.",
+        "Our basic websites start at ₹10,000 and 299+ page SEO websites at ₹20,000. Online stores start at ₹50,000, automation at ₹40,000 and custom software at ₹60,000. Whatever quote you compare, ask who will own the domain and hosting, and what happens after launch.",
     },
     {
       question: "Loni me website banwane ka kharcha kitna hai?",
       answer:
-        "Chhoti business website ₹10,000 se shuru hoti hai aur ek-do hafte mein ban jaati hai. 700+ pages wali SEO website ₹20,000 se, aur online dukaan ₹50,000 se shuru hoti hai. Kaam shuru karne se pehle aapko likhit mein poora quote milega, aur domain aapke naam par hi hoga.",
+        "Chhoti business website ₹10,000 se shuru hoti hai aur ek-do hafte mein ban jaati hai. 299+ pages wali SEO website ₹20,000 se, aur online dukaan ₹50,000 se shuru hoti hai. Kaam shuru karne se pehle aapko likhit mein poora quote milega, aur domain aapke naam par hi hoga.",
     },
     {
       question: "Do you have an office in Loni or Ghaziabad?",

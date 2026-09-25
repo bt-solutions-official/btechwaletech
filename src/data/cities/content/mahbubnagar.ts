@@ -34,7 +34,7 @@ const mahbubnagar: CityContent = {
     pills: ["Sites from ₹10,000", "Telugu, Urdu and English searches", "Supplier sites for Jadcherla industry", "WhatsApp enquiry automation", "Hosting in your own name"],
   },
   quickAnswer:
-    "In Mahbubnagar, a business website with us starts at ₹10,000, and an SEO website of 700+ pages starts at ₹20,000. Ecommerce stores start from ₹50,000 and custom web apps from ₹60,000. We are a remote team of three engineers without a local office, and each launch includes five free months of maintenance.",
+    "In Mahbubnagar, a business website with us starts at ₹10,000, and an SEO website of 299+ pages starts at ₹20,000. Ecommerce stores start from ₹50,000 and custom web apps from ₹60,000. We are a remote team of three engineers without a local office, and each launch includes five free months of maintenance.",
   snapshot: [
     { label: "Old name", value: "Palamoor, renamed in 1890 after Mir Mahbub Ali Khan, the sixth Nizam" },
     { label: "Distance to Hyderabad", value: "About 98 km by NH 44; Rajiv Gandhi International Airport is roughly 86 km" },
@@ -71,7 +71,7 @@ const mahbubnagar: CityContent = {
       id: "mahbubnagar-pricing",
       heading: "Website prices for Mahbubnagar firms",
       paragraphs: [
-        "We publish starting prices so you can plan without a sales visit. A business website of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. An SEO website with 700+ pages, covering each service, department or product and the towns you serve, starts at ₹20,000 and takes three to five weeks. Online stores with UPI and card payment start from ₹50,000, and custom web applications start from ₹60,000.",
+        "We publish starting prices so you can plan without a sales visit. A business website of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. An SEO website with 299+ pages, covering each service, department or product and the towns you serve, starts at ₹20,000 and takes three to five weeks. Online stores with UPI and card payment start from ₹50,000, and custom web applications start from ₹60,000.",
         "AI and WhatsApp automation begins at ₹40,000. Monthly SEO starts at ₹10,000 a month, and maintenance starts at ₹8,000 a month after the five free months. All of this is on our <a href=\"/pricing/\">pricing page</a>.",
         "The final number follows the scope. A dental clinic with eight pages is quick work. A college that needs course pages for every branch, an admissions form, a results archive and Telugu versions of the key pages takes longer. The quote lists every page and feature, and you are not billed for anything until you approve it in writing.",
       ],
@@ -220,12 +220,12 @@ const mahbubnagar: CityContent = {
     {
       question: "How much does a website cost in Mahbubnagar?",
       answer:
-        "With us, a business website starts at ₹10,000 and an SEO website with 700+ pages starts at ₹20,000. Online stores start from ₹50,000 and custom web applications from ₹60,000. Compare what each quote includes, especially domain ownership, SEO setup and support after launch.",
+        "With us, a business website starts at ₹10,000 and an SEO website with 299+ pages starts at ₹20,000. Online stores start from ₹50,000 and custom web applications from ₹60,000. Compare what each quote includes, especially domain ownership, SEO setup and support after launch.",
     },
     {
       question: "Mahbubnagar lo website cheyinchukovadaniki entha kharchu avutundi?",
       answer:
-        "Maa daggara saadharana business website ₹10,000 nundi modalavutundi, 700+ pages unna SEO website ₹20,000 nundi modalavutundi. Online store ₹50,000 nundi modalavutundi. Pani modalu pettaka mundu meeku itemised quote raatha poorvakamga pampistaamu, mee approval lekunda edi bill cheyyamu.",
+        "Maa daggara saadharana business website ₹10,000 nundi modalavutundi, 299+ pages unna SEO website ₹20,000 nundi modalavutundi. Online store ₹50,000 nundi modalavutundi. Pani modalu pettaka mundu meeku itemised quote raatha poorvakamga pampistaamu, mee approval lekunda edi bill cheyyamu.",
     },
     {
       question: "Do you have an office in Mahbubnagar?",
@@ -250,7 +250,7 @@ const mahbubnagar: CityContent = {
     {
       question: "How long does a website take to build?",
       answer:
-        "A business website takes one to two weeks, a 700+ page SEO website three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Waiting for photos and content causes most delays, so we write drafts for you to correct.",
+        "A business website takes one to two weeks, a 299+ page SEO website three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Waiting for photos and content causes most delays, so we write drafts for you to correct.",
     },
     {
       question: "What can WhatsApp automation do for a college or hospital?",

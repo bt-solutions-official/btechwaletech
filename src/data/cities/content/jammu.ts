@@ -35,7 +35,7 @@ const jammu: CityContent = {
     pills: ["Sites from ₹10,000", "Pilgrim and hotel bookings", "Dry fruit stores with UPI", "Dogri and Hindi search", "Bari Brahmana B2B sites"],
   },
   quickAnswer:
-    "A business website for a Jammu company costs from ₹10,000 with us and a 700+ page SEO site from ₹20,000, delivered in one to five weeks. Online stores start at ₹50,000. We are a remote three-person team with no Jammu office, so you pay for engineering, not rent, and maintenance is free for five months after launch.",
+    "A business website for a Jammu company costs from ₹10,000 with us and a 299+ page SEO site from ₹20,000, delivered in one to five weeks. Online stores start at ₹50,000. We are a remote three-person team with no Jammu office, so you pay for engineering, not rent, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Old city trade", value: "Raghunath Bazaar, Residency Road and the lanes around the Raghunath Temple" },
     { label: "Newer retail", value: "Gole Market in Gandhi Nagar and Bahu Plaza in Trikuta Nagar" },
@@ -73,12 +73,12 @@ const jammu: CityContent = {
       heading: "Website prices in Jammu, explained line by line",
       paragraphs: [
         "Ask five providers in Jammu for a small business site and you will get five very different numbers, from a few thousand rupees to well over fifty thousand. The cheap end is usually a recycled theme with your logo pasted in and the hosting kept in the developer's name. The expensive end often pays for someone else's office and sales staff. Neither tells you what you are actually buying.",
-        "Our figures are public. A static site of up to 100 pages begins at ₹10,000 and usually goes live within one or two weeks. A 700+ page SEO site, with one page for each service and each area you genuinely serve, begins at ₹20,000 and takes three to five weeks. A proper online store with cart, UPI and card checkout starts at ₹50,000. Dealer portals, booking engines and similar custom web applications start at ₹60,000. AI and WhatsApp automation projects begin at ₹40,000, and ongoing SEO costs from ₹10,000 a month.",
+        "Our figures are public. A static site of up to 100 pages begins at ₹10,000 and usually goes live within one or two weeks. A 299+ page SEO site, with one page for each service and each area you genuinely serve, begins at ₹20,000 and takes three to five weeks. A proper online store with cart, UPI and card checkout starts at ₹50,000. Dealer portals, booking engines and similar custom web applications start at ₹60,000. AI and WhatsApp automation projects begin at ₹40,000, and ongoing SEO costs from ₹10,000 a month.",
         "These are floors, not packages. A dry fruit store with forty products and good photographs costs less than one with four hundred products and no descriptions. You get a written, itemised quote within about two working days, and no invoice is raised until you approve it in writing. You can see the full breakdown on our <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [
         "<strong>Static site, from ₹10,000:</strong> up to 100 pages, enquiry form, map, basic SEO. Good for lawyers, CAs, clinics and single shops.",
-        "<strong>SEO site, from ₹20,000:</strong> 700+ pages built around what Jammu customers search for, with schema and a sitemap.",
+        "<strong>SEO site, from ₹20,000:</strong> 299+ pages built around what Jammu customers search for, with schema and a sitemap.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart, UPI and card payments, shipping rules and order alerts.",
         "<strong>Custom web app, from ₹60,000:</strong> logins, roles, dashboards and integrations for distributors and manufacturers.",
       ],
@@ -209,12 +209,12 @@ const jammu: CityContent = {
     {
       question: "How much does a website cost in Jammu?",
       answer:
-        "With us, a static business site starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Quotes in Jammu range from a few thousand rupees to over ₹50,000 for similar work, so compare what is included: SEO basics, who owns the hosting, and what support you get after launch.",
+        "With us, a static business site starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Quotes in Jammu range from a few thousand rupees to over ₹50,000 for similar work, so compare what is included: SEO basics, who owns the hosting, and what support you get after launch.",
     },
     {
       question: "Jammu mein website banwane ka kharcha kitna hai?",
       answer:
-        "Humare saath ek simple business website ₹10,000 se shuru hoti hai aur 700+ pages wali SEO website ₹20,000 se. Online dukaan ₹50,000 se banti hai. Asli kharcha pages, products aur features par depend karta hai. Kaam shuru hone se pehle aapko har cheez ka alag-alag likha hua quote milta hai, aur approval ke bina koi bill nahi.",
+        "Humare saath ek simple business website ₹10,000 se shuru hoti hai aur 299+ pages wali SEO website ₹20,000 se. Online dukaan ₹50,000 se banti hai. Asli kharcha pages, products aur features par depend karta hai. Kaam shuru hone se pehle aapko har cheez ka alag-alag likha hua quote milta hai, aur approval ke bina koi bill nahi.",
     },
     {
       question: "Do you have an office in Jammu where I can visit?",

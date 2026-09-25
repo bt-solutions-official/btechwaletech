@@ -35,7 +35,7 @@ const bhopal: CityContent = {
     pills: ["Business sites from ₹10,000", "Hindi and English SEO", "UPI-ready online stores", "WhatsApp lead handling", "Vendor and dealer portals"],
   },
   quickAnswer:
-    "A business website for a Bhopal firm costs from ₹10,000 with us, and a 700+ page site planned for Google searches costs from ₹20,000. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote three-person team, so quotes carry no office overhead, and five months of maintenance after launch are free.",
+    "A business website for a Bhopal firm costs from ₹10,000 with us, and a 299+ page site planned for Google searches costs from ₹20,000. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote three-person team, so quotes carry no office overhead, and five months of maintenance after launch are free.",
   snapshot: [
     { label: "Commercial centres", value: "MP Nagar Zone I and II, New Market at TT Nagar, Arera Colony, 10 Number Market and Chowk Bazaar in the old city" },
     { label: "Industrial areas", value: "Govindpura industrial estate beside BHEL, and Mandideep on the Bhopal–Hoshangabad highway about 22 km away" },
@@ -65,7 +65,7 @@ const bhopal: CityContent = {
       paragraphs: [
         "Bhopal is a capital city first. A large share of its economy moves through the state secretariat, directorates, public sector undertakings, universities and hospitals, and a great many private businesses exist to serve them: consultants, contractors, printers, caterers, training firms, suppliers of office equipment. Alongside that sits an older layer of trade in the walled city around Chowk, and a newer layer of offices, showrooms and clinics that has spread along Hoshangabad Road, Kolar Road and Ayodhya Bypass.",
         "Each of those groups searches and buys differently. A procurement officer comparing training vendors wants documents, past work and registration details. A family in Kolar looking for a paediatrician wants timings, directions and reviews. A buyer in Pune looking for zardozi work from the old city wants photographs and a way to pay. One template cannot serve all three well, which is why so many Bhopal websites feel generic and bring in few enquiries.",
-        "We start by asking who your buyer is and what they need to see before they pick up the phone. The answer decides the page structure, the language mix and the calls to action. For some Bhopal businesses the right answer is a five-page site with strong photographs; for others it is 700+ pages built around the searches people make across the city's many neighbourhoods.",
+        "We start by asking who your buyer is and what they need to see before they pick up the phone. The answer decides the page structure, the language mix and the calls to action. For some Bhopal businesses the right answer is a five-page site with strong photographs; for others it is 299+ pages built around the searches people make across the city's many neighbourhoods.",
       ],
     },
     {
@@ -73,12 +73,12 @@ const bhopal: CityContent = {
       heading: "How much does a website cost in Bhopal?",
       paragraphs: [
         "Ask five Bhopal developers for a price on a small business site and you may hear ₹2,500, ₹8,000, ₹15,000, ₹35,000 and “depends”. The cheapest offers usually rest on a page builder, a stock theme and hosting kept in the developer's name. The most expensive include office rent and a salesperson's commission. Neither end tells you what you are paying for.",
-        "Our rates are public. A static website of up to 100 pages starts at ₹10,000 and typically goes live within one to two weeks. A 700+ page SEO website, with a page for each service and each area you genuinely serve, starts at ₹20,000 and takes three to five weeks. An online store with UPI and cards begins at ₹50,000 and needs four to eight weeks. A custom web application, for example a vendor portal or a booking system with staff logins, starts at ₹60,000 and runs six to twelve weeks. Automation projects begin at ₹40,000, monthly SEO at ₹10,000.",
+        "Our rates are public. A static website of up to 100 pages starts at ₹10,000 and typically goes live within one to two weeks. A 299+ page SEO website, with a page for each service and each area you genuinely serve, starts at ₹20,000 and takes three to five weeks. An online store with UPI and cards begins at ₹50,000 and needs four to eight weeks. A custom web application, for example a vendor portal or a booking system with staff logins, starts at ₹60,000 and runs six to twelve weeks. Automation projects begin at ₹40,000, monthly SEO at ₹10,000.",
         "The final figure moves with scope. A clinic with three doctors and no online booking costs less than a hospital with twelve departments and appointment slots. We send a written quote, usually within two working days, that lists each page and feature separately so you can remove anything you don't need before approving it.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> a site of up to 100 pages for a practice, shop or consultant, with mobile layout, enquiry form and on-page SEO basics.",
-        "<strong>From ₹20,000:</strong> 700+ page site structured around Bhopal services and localities, with schema, sitemap and Search Console setup.",
+        "<strong>From ₹20,000:</strong> 299+ page site structured around Bhopal services and localities, with schema, sitemap and Search Console setup.",
         "<strong>From ₹50,000:</strong> online store with catalogue, cart, UPI and card payments, shipping rules and order notifications.",
         "<strong>From ₹60,000:</strong> custom web app such as a vendor portal, admissions system or dispatch tracker with user roles.",
       ],
@@ -209,12 +209,12 @@ const bhopal: CityContent = {
     {
       question: "What does it cost to get a website made in Bhopal?",
       answer:
-        "With us, a static site starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. Other Bhopal quotes range widely for similar work, so compare what is included: who owns the domain, whether SEO basics are done, and what support you get after launch.",
+        "With us, a static site starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. Other Bhopal quotes range widely for similar work, so compare what is included: who owns the domain, whether SEO basics are done, and what support you get after launch.",
     },
     {
       question: "Bhopal me website banwane me kitna kharcha aata hai?",
       answer:
-        "Humare saath chhoti business website ₹10,000 se shuru hoti hai aur 700+ pages wali SEO website ₹20,000 se. Online dukaan ₹50,000 se banti hai. Aapke pages aur features ke hisaab se final quote milta hai, jo do working days me itemised form me bhej dete hain. Approval se pehle koi payment nahi.",
+        "Humare saath chhoti business website ₹10,000 se shuru hoti hai aur 299+ pages wali SEO website ₹20,000 se. Online dukaan ₹50,000 se banti hai. Aapke pages aur features ke hisaab se final quote milta hai, jo do working days me itemised form me bhej dete hain. Approval se pehle koi payment nahi.",
     },
     {
       question: "You have no office in Bhopal. How do we work together?",
@@ -234,7 +234,7 @@ const bhopal: CityContent = {
     {
       question: "How long will my website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Content is the usual bottleneck, so we draft starter text for you to correct rather than waiting for you to write every page.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Content is the usual bottleneck, so we draft starter text for you to correct rather than waiting for you to write every page.",
     },
     {
       question: "Is a freelance team safe for a hospital or institute website?",

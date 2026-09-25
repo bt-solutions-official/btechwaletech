@@ -35,7 +35,7 @@ const barnala: CityContent = {
     pills: ["Websites from ₹10,000", "Punjabi, Hindi, English", "Machinery catalogues", "Mandi season automation", "Domain in your name"],
   },
   quickAnswer:
-    "In Barnala, our static business website starts at ₹10,000 and is usually ready in one to two weeks. A 700+ page SEO site starts at ₹20,000, WhatsApp or AI automation from ₹40,000, and a UPI-enabled store from ₹50,000. We are a remote team of three with no Barnala office, and the first five months of maintenance are free.",
+    "In Barnala, our static business website starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp or AI automation from ₹40,000, and a UPI-enabled store from ₹50,000. We are a remote team of three with no Barnala office, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Region", value: "District headquarters in Punjab's Malwa belt, about 60 km from Ludhiana, with Punjabi (Malwai) spoken by nearly everyone" },
     { label: "Machinery", value: "Known for agricultural machinery; Standard Corporation India, maker of combine harvesters, tractors and hydraulic cranes, is based here" },
@@ -73,12 +73,12 @@ const barnala: CityContent = {
       heading: "Website prices in Barnala and what you actually get",
       paragraphs: [
         "In Barnala you can find someone to put up a basic site for a small amount, or a Ludhiana or Chandigarh agency quoting many times more. The low offers often skip search setup and register the domain under the builder's name. The high ones may be well made, but part of the fee pays for a sales team and an office.",
-        "Our static websites, up to 100 pages, start at ₹10,000 and take one to two weeks. A 700+ page SEO site, with separate pages for each machine model, spare, service or course, starts at ₹20,000 and takes three to five weeks. WhatsApp and AI automation starts at ₹40,000, online stores at ₹50,000 and custom web software such as dealer or service systems at ₹60,000. Monthly SEO starts at ₹10,000. Everything is laid out on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our static websites, up to 100 pages, start at ₹10,000 and take one to two weeks. A 299+ page SEO site, with separate pages for each machine model, spare, service or course, starts at ₹20,000 and takes three to five weeks. WhatsApp and AI automation starts at ₹40,000, online stores at ₹50,000 and custom web software such as dealer or service systems at ₹60,000. Monthly SEO starts at ₹10,000. Everything is laid out on our <a href=\"/pricing/\">pricing page</a>.",
         "Every one of those numbers is a starting point. A tuition centre with three courses needs much less than a harvester maker with twenty models, specification sheets and a dealer map across several states. You get an itemised quote in about two working days, and nothing is billed until you approve it in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form, map and basic SEO. For clinics, shops, tutors and consultants.",
-        "<strong>From ₹20,000:</strong> 700+ pages built around what buyers search. For machinery makers, dealers and hospitals.",
+        "<strong>From ₹20,000:</strong> 299+ pages built around what buyers search. For machinery makers, dealers and hospitals.",
         "<strong>From ₹50,000:</strong> online store with UPI and card payments. For spare parts, jutti, phulkari and packaged foods.",
         "<strong>From ₹60,000:</strong> custom software with logins and reports. For dealer networks, service teams and arhtiyas.",
       ],
@@ -217,7 +217,7 @@ const barnala: CityContent = {
     {
       question: "How much does a website cost in Barnala?",
       answer:
-        "With us, a static business website starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom web software at ₹60,000. These are starting prices, and the final amount depends on pages, features and content. You receive an itemised written quote in about two working days before anything is billed.",
+        "With us, a static business website starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom web software at ₹60,000. These are starting prices, and the final amount depends on pages, features and content. You receive an itemised written quote in about two working days before anything is billed.",
     },
     {
       question: "Barnala vich website banaun da kharcha kinna aunda hai?",
@@ -247,7 +247,7 @@ const barnala: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static website usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Most delays come from waiting for photos and details, so we write draft text for you to correct.",
+        "A static website usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Most delays come from waiting for photos and details, so we write draft text for you to correct.",
     },
     {
       question: "Can you build an online store with UPI and Razorpay?",

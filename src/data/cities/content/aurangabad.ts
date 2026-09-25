@@ -35,7 +35,7 @@ const aurangabad: CityContent = {
     pills: ["Sites from ₹10,000", "Marathi, Hindi and English", "MIDC supplier catalogues", "Hotel and tour booking", "Custom software from ₹60,000"],
   },
   quickAnswer:
-    "In Aurangabad (Chhatrapati Sambhajinagar), a business website with us starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site starts at ₹20,000, AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no local office, and maintenance is free for five months.",
+    "In Aurangabad (Chhatrapati Sambhajinagar), a business website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no local office, and maintenance is free for five months.",
   snapshot: [
     { label: "Name", value: "The city was officially renamed Chhatrapati Sambhajinagar in February 2023; many people and businesses still search for Aurangabad" },
     { label: "Industrial estates", value: "MIDC areas at Waluj, Chikalthana and Shendra, plus the Shendra–Bidkin Industrial Area (AURIC) on the Delhi–Mumbai Industrial Corridor" },
@@ -82,7 +82,7 @@ const aurangabad: CityContent = {
       heading: "Website and software costs in Aurangabad, with our starting prices",
       paragraphs: [
         "A component maker in Waluj, a hotel near the railway station and a Paithani boutique in Gulmandi need very different things, so a single price means little. We publish our starting points on the <a href=\"/pricing/\">pricing page</a> and then quote each job line by line.",
-        "A static website with up to 100 pages, mobile layout, enquiry forms, maps and basic search setup starts from ₹10,000 and takes one to two weeks. A 700+ page site, with a page for each product, process, room type, service or area, planned around real searches, starts from ₹20,000 and takes three to five weeks. AI automation starts from ₹40,000, online stores from ₹50,000, custom web applications and vendor portals from ₹60,000, and monthly SEO from ₹10,000.",
+        "A static website with up to 100 pages, mobile layout, enquiry forms, maps and basic search setup starts from ₹10,000 and takes one to two weeks. A 299+ page site, with a page for each product, process, room type, service or area, planned around real searches, starts from ₹20,000 and takes three to five weeks. AI automation starts from ₹40,000, online stores from ₹50,000, custom web applications and vendor portals from ₹60,000, and monthly SEO from ₹10,000.",
         "Scope sets the final number: the number of products, languages, integrations with Tally or an ERP, user roles and how much content we write. We send an itemised quote in about two working days and bill nothing until you approve it in writing.",
       ],
       list: [
@@ -218,7 +218,7 @@ const aurangabad: CityContent = {
     {
       question: "How much does a website cost in Aurangabad?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO site from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. When comparing other Aurangabad quotes, check whose name the domain and code are in, whether SEO basics are included and what support follows launch.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO site from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. When comparing other Aurangabad quotes, check whose name the domain and code are in, whether SEO basics are included and what support follows launch.",
     },
     {
       question: "Sambhajinagar madhye website banvayla kiti kharcha yeto?",

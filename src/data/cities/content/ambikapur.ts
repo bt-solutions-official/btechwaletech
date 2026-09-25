@@ -34,7 +34,7 @@ const ambikapur: CityContent = {
     pills: ["Static sites from ₹10,000", "Hindi-first pages", "Mainpat stay bookings", "Clinic and college sites", "WhatsApp replies every day"],
   },
   quickAnswer:
-    "In Ambikapur, a basic business website with us starts at ₹10,000 and usually goes live within one to two weeks. A 700+ page SEO website starts at ₹20,000, AI automation at ₹40,000 and an online store at ₹50,000. We are three engineers working remotely, with no office in Ambikapur, and maintenance is free for five months after launch.",
+    "In Ambikapur, a basic business website with us starts at ₹10,000 and usually goes live within one to two weeks. A 299+ page SEO website starts at ₹20,000, AI automation at ₹40,000 and an online store at ₹50,000. We are three engineers working remotely, with no office in Ambikapur, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of Surguja district and of the Surguja division in northern Chhattisgarh" },
     { label: "Setting", value: "A plateau town at roughly 600 m, named after the goddess worshipped at the Maa Mahamaya temple" },
@@ -72,12 +72,12 @@ const ambikapur: CityContent = {
       heading: "What a website costs in Ambikapur",
       paragraphs: [
         "Because few local firms build websites in Ambikapur, owners usually hear one of two kinds of quote: a very cheap template from a freelancer, or a large figure from an agency in Raipur. The cheap one often has no search setup and sits on hosting you cannot access. The expensive one may be well made but include costs a small business does not need.",
-        "Our prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. A 700+ page SEO website, with separate pages for each service, product or area, starts at ₹20,000 and takes three to five weeks. WhatsApp and AI automation starts at ₹40,000, an online store at ₹50,000 and a custom web application at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
+        "Our prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO website, with separate pages for each service, product or area, starts at ₹20,000 and takes three to five weeks. WhatsApp and AI automation starts at ₹40,000, an online store at ₹50,000 and a custom web application at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
         "Each of these is a starting figure. A single clinic needs much less than a multi-speciality hospital with twenty doctors and a test menu, and a stationery shop less than a wholesaler with a thousand items. The written quote lists every page and feature so you can remove what you don't need before approving.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile design, enquiry form, map and basic SEO. For shops, clinics, tutors and homestays.",
-        "<strong>From ₹20,000:</strong> 700+ pages built around real searches. For hospitals, colleges, dealers and multi-branch firms.",
+        "<strong>From ₹20,000:</strong> 299+ pages built around real searches. For hospitals, colleges, dealers and multi-branch firms.",
         "<strong>From ₹50,000:</strong> online store with cart, UPI and cards. For rice, honey, forest-produce and retail sellers.",
         "<strong>From ₹60,000:</strong> custom software with logins and reports. For wholesalers, contractors and institutions.",
       ],
@@ -215,12 +215,12 @@ const ambikapur: CityContent = {
     {
       question: "How much does a website cost in Ambikapur?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; your final quote depends on pages, features and content. When comparing, check that SEO basics, hosting in your name and post-launch support are included.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; your final quote depends on pages, features and content. When comparing, check that SEO basics, hosting in your name and post-launch support are included.",
     },
     {
       question: "Ambikapur me website banwane me kitna kharcha lagta hai?",
       answer:
-        "Humare saath ek simple business website ₹10,000 se shuru hoti hai aur aam taur par 1–2 hafte mein taiyar ho jaati hai. 700+ page wali SEO website ₹20,000 se aur online store ₹50,000 se shuru hota hai. Kaam se pehle aapko likhit, item-wise quote milta hai, aur manzoori ke bina koi bill nahi.",
+        "Humare saath ek simple business website ₹10,000 se shuru hoti hai aur aam taur par 1–2 hafte mein taiyar ho jaati hai. 299+ page wali SEO website ₹20,000 se aur online store ₹50,000 se shuru hota hai. Kaam se pehle aapko likhit, item-wise quote milta hai, aur manzoori ke bina koi bill nahi.",
     },
     {
       question: "Do you have an office in Ambikapur?",
@@ -245,7 +245,7 @@ const ambikapur: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static website takes one to two weeks, a 700+ page SEO site three to five weeks, AI automation two to four weeks, an online store four to eight weeks and custom software six to twelve. Waiting for photos and details is usually the biggest delay, so we send a short checklist at the start.",
+        "A static website takes one to two weeks, a 299+ page SEO site three to five weeks, AI automation two to four weeks, an online store four to eight weeks and custom software six to twelve. Waiting for photos and details is usually the biggest delay, so we send a short checklist at the start.",
     },
     {
       question: "We run a hospital. What should our website include?",

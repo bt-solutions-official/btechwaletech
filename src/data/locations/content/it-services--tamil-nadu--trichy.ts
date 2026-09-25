@@ -158,7 +158,7 @@ const content: CityContent = {
       heading: "SEO and AI-search visibility for Tiruchirappalli businesses",
       paragraphs: [
         "SEO for a Tiruchirappalli business means appearing when people search for a specific service, course, product or capability in Trichy, and being described correctly by AI assistants. The most valuable searches are specific, such as a specialty doctor in Thillai Nagar, a CBSE school in K.K. Nagar or heavy fabrication near Thuvakudi.",
-        "We build websites with a clear page for each service, programme or capability, with schema markup, correct contact details, FAQs and internal links. Static websites start at ₹10,000 and larger 700+ page SEO websites from ₹20,000. Monthly SEO from ₹10,000 covers technical fixes, content, Google Business Profile guidance and Search Console reporting.",
+        "We build websites with a clear page for each service, programme or capability, with schema markup, correct contact details, FAQs and internal links. Static websites start at ₹10,000 and larger 299+ page SEO websites from ₹20,000. Monthly SEO from ₹10,000 covers technical fixes, content, Google Business Profile guidance and Search Console reporting.",
         "We will not promise any specific ranking. Search results depend on competition and on how complete and accurate your information is. What we provide is honest reporting and pages built on facts. Our <a href=\"/services/seo-services/\">SEO services</a> page explains the process in more detail.",
       ],
     },
@@ -194,7 +194,7 @@ const content: CityContent = {
       ],
       list: [
         "Website up to 100 pages: from ₹10,000, one to two weeks",
-        "700+ page SEO website: from ₹20,000, three to five weeks",
+        "299+ page SEO website: from ₹20,000, three to five weeks",
         "AI and WhatsApp automation: from ₹40,000, two to four weeks",
         "Android and iOS app: from ₹40,000, six to ten weeks",
         "Online store: from ₹50,000, four to eight weeks",

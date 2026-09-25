@@ -40,7 +40,7 @@ const cherthala: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Coir and seafood exporters", "Malayalam and English SEO", "Domain and code in your name"],
   },
   quickAnswer:
-    "In Cherthala, a website from us starts at ₹10,000 and is usually live within one to two weeks; Android and iOS apps start at ₹40,000. SEO websites of 700+ pages begin at ₹20,000, WhatsApp or AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. The team is remote and every account stays in your name.",
+    "In Cherthala, a website from us starts at ₹10,000 and is usually live within one to two weeks; Android and iOS apps start at ₹40,000. SEO websites of 299+ pages begin at ₹20,000, WhatsApp or AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. The team is remote and every account stays in your name.",
   snapshot: [
     { label: "Where", value: "Municipality in Alappuzha district on NH 66, about 22 km north of Alappuzha and 40 km south of Kochi" },
     { label: "Size", value: "45,827 people in 16.18 sq km (2011 census); headquarters of Cherthala taluk" },
@@ -169,7 +169,7 @@ const cherthala: CityContent = {
       ],
       list: [
         "Static website up to 100 pages: from ₹10,000, live in one to two weeks",
-        "SEO website with 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website with 299+ pages: from ₹20,000, three to five weeks",
         "Android and iOS app: from ₹40,000",
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Ecommerce store with UPI and card checkout: from ₹50,000, four to eight weeks",
@@ -225,7 +225,7 @@ const cherthala: CityContent = {
     {
       question: "What is the website cost in Cherthala?",
       answer:
-        "A static website for a Cherthala business starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting figures. Extras such as Malayalam pages, export enquiry forms or payments are shown separately, and nothing is billed until you approve the written quote.",
+        "A static website for a Cherthala business starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting figures. Extras such as Malayalam pages, export enquiry forms or payments are shown separately, and nothing is billed until you approve the written quote.",
     },
     {
       question: "Do you build Android and iOS apps for Cherthala businesses?",
@@ -235,7 +235,7 @@ const cherthala: CityContent = {
     {
       question: "How long does it take to build a website in Cherthala?",
       answer:
-        "A static site for a Cherthala shop, clinic or homestay takes one to two weeks once photos and text arrive. A 700+ page SEO site takes three to five weeks, a store four to eight, and custom software six to twelve. Missing content causes most delays, so sending material early is the quickest way to launch.",
+        "A static site for a Cherthala shop, clinic or homestay takes one to two weeks once photos and text arrive. A 299+ page SEO site takes three to five weeks, a store four to eight, and custom software six to twelve. Missing content causes most delays, so sending material early is the quickest way to launch.",
     },
     {
       question: "Which is the best IT services team in Cherthala for websites and apps?",

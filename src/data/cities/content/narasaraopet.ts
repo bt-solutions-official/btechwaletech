@@ -35,7 +35,7 @@ const narasaraopet: CityContent = {
     pills: ["Sites begin at ₹10,000", "Telugu and English", "OPD booking forms", "Admission enquiry pages", "Domain registered to you"],
   },
   quickAnswer:
-    "A Narasaraopet business website from us begins at ₹10,000 and usually goes live in one to two weeks. Larger 700+ page SEO sites begin at ₹20,000, WhatsApp or AI automation at ₹40,000 and UPI online stores at ₹50,000. We are a three-person remote team without a local office, and upkeep costs nothing for the first five months.",
+    "A Narasaraopet business website from us begins at ₹10,000 and usually goes live in one to two weeks. Larger 299+ page SEO sites begin at ₹20,000, WhatsApp or AI automation at ₹40,000 and UPI online stores at ₹50,000. We are a three-person remote team without a local office, and upkeep costs nothing for the first five months.",
   snapshot: [
     { label: "Status", value: "Headquarters of Palnadu district, a municipality since 1915, drawing a large daily floating population from surrounding villages" },
     { label: "Role", value: "Regional hub for trade, higher education and healthcare for the Palnadu area" },
@@ -73,12 +73,12 @@ const narasaraopet: CityContent = {
       heading: "Narasaraopet website budgets, explained without jargon",
       paragraphs: [
         "A Narasaraopet owner asking around can be quoted anything from a few thousand rupees at a local computer centre to far larger sums by agencies in Guntur or Hyderabad. The difference is rarely explained. Very low quotes usually mean a template with no search work and a domain held by the builder; very high ones often carry an agency's rent, managers and travel.",
-        "Here is where we begin. A static site of up to 100 pages is ₹10,000 onwards and needs one to two weeks. A large search site of 700+ pages, where every treatment, course, crop input or product has its own page, is ₹20,000 onwards over three to five weeks. WhatsApp and AI automation begins at ₹40,000, UPI-enabled online stores at ₹50,000 and bespoke web software, such as a college portal or a trader's ledger, at ₹60,000. Ongoing monthly SEO begins at ₹10,000. The <a href=\"/pricing/\">pricing page</a> lists every tier.",
+        "Here is where we begin. A static site of up to 100 pages is ₹10,000 onwards and needs one to two weeks. A large search site of 299+ pages, where every treatment, course, crop input or product has its own page, is ₹20,000 onwards over three to five weeks. WhatsApp and AI automation begins at ₹40,000, UPI-enabled online stores at ₹50,000 and bespoke web software, such as a college portal or a trader's ledger, at ₹60,000. Ongoing monthly SEO begins at ₹10,000. The <a href=\"/pricing/\">pricing page</a> lists every tier.",
         "None of these is a final figure. A home tutor with two batches sits near the bottom; a multi-speciality hospital with twenty doctors and online booking sits much higher. Expect a written, itemised estimate within roughly two working days, and expect no invoice until you have said yes to it in writing.",
       ],
       list: [
         "<strong>₹10,000 onwards:</strong> static site of up to 100 pages with phone-friendly layout, contact form, map and starter SEO. Good for clinics, tutors and single shops.",
-        "<strong>₹20,000 onwards:</strong> 700+ page site mapped to Palnadu search habits. Good for hospitals, colleges and district-wide traders.",
+        "<strong>₹20,000 onwards:</strong> 299+ page site mapped to Palnadu search habits. Good for hospitals, colleges and district-wide traders.",
         "<strong>₹50,000 onwards:</strong> store with cart and UPI, card and net-banking checkout. Good for chilli powder, pickles and textiles.",
         "<strong>₹60,000 onwards:</strong> bespoke web software with user logins and reports. Good for colleges, distributors and trading firms.",
       ],
@@ -208,7 +208,7 @@ const narasaraopet: CityContent = {
     {
       question: "What does a website cost in Narasaraopet?",
       answer:
-        "Our static sites begin at ₹10,000, 700+ page SEO sites at ₹20,000, UPI online stores at ₹50,000 and tailor-made web software at ₹60,000. Treat each as a floor: the real figure follows your page count, features and content. A written, item-by-item estimate usually arrives within two working days, and billing waits for your approval.",
+        "Our static sites begin at ₹10,000, 299+ page SEO sites at ₹20,000, UPI online stores at ₹50,000 and tailor-made web software at ₹60,000. Treat each as a floor: the real figure follows your page count, features and content. A written, item-by-item estimate usually arrives within two working days, and billing waits for your approval.",
     },
     {
       question: "Narasaraopet lo website cheyinchadaniki entha kharchu avutundi?",
@@ -238,7 +238,7 @@ const narasaraopet: CityContent = {
     {
       question: "How many weeks does a project take?",
       answer:
-        "Plan on one to two weeks for a static site, three to five for a 700+ page SEO build, four to eight for a store and six to twelve for tailor-made software. The usual hold-up is waiting on photos and product details, so we write first drafts ourselves and you only need to correct them.",
+        "Plan on one to two weeks for a static site, three to five for a 299+ page SEO build, four to eight for a store and six to twelve for tailor-made software. The usual hold-up is waiting on photos and product details, so we write first drafts ourselves and you only need to correct them.",
     },
     {
       question: "Can you build an online store for chilli powder or pickles?",

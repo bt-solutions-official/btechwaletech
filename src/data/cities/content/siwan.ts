@@ -35,7 +35,7 @@ const siwan: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi, Bhojpuri, English, Urdu", "Travel and visa pages", "Clinic booking tools", "5 months free upkeep"],
   },
   quickAnswer:
-    "In Siwan, a static website with us starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000, an online store from ₹50,000, WhatsApp or AI automation from ₹40,000 and custom software from ₹60,000. We are a remote team with no office in Siwan, and the first five months of maintenance are free.",
+    "In Siwan, a static website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store from ₹50,000, WhatsApp or AI automation from ₹40,000 and custom software from ₹60,000. We are a remote team with no office in Siwan, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Role", value: "Headquarters of Siwan district, formed in 1972 from the old Saran district, on the Daha river" },
     { label: "Population", value: "About 1.35 lakh people in the city at the 2011 census" },
@@ -74,12 +74,12 @@ const siwan: CityContent = {
       heading: "How much a website costs in Siwan",
       paragraphs: [
         "Website prices quoted in Siwan vary enormously. Some offers are single pages made by a cyber café for a small fee, with the domain in the maker's name. Others come from Patna agencies with monthly charges a local shop cannot justify. Neither tells you what you actually receive.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a> for anyone to see. A static website of up to 100 pages starts at ₹10,000 and is ready in one to two weeks. An SEO website with 700+ pages starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, WhatsApp and AI automation at ₹40,000, and monthly SEO work at ₹10,000 a month.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a> for anyone to see. A static website of up to 100 pages starts at ₹10,000 and is ready in one to two weeks. An SEO website with 299+ pages starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, WhatsApp and AI automation at ₹40,000, and monthly SEO work at ₹10,000 a month.",
         "Your final figure depends on the number of pages and languages, any online payments, logins for staff, and whether we write the content. Each item is shown separately in the quote, so you can start with the basics and add features later.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages in Hindi, English or Urdu, with WhatsApp, map and basic search setup.",
-        "<strong>From ₹20,000:</strong> 700+ pages, such as one per country, course, doctor or product line.",
+        "<strong>From ₹20,000:</strong> 299+ pages, such as one per country, course, doctor or product line.",
         "<strong>From ₹50,000:</strong> an online store with UPI and card payments and delivery rules.",
         "<strong>From ₹60,000:</strong> custom tools like a visa case tracker or coaching management system.",
       ],
@@ -220,7 +220,7 @@ const siwan: CityContent = {
     {
       question: "How much does a website cost in Siwan?",
       answer:
-        "With us, static websites start at ₹10,000, SEO websites with 700+ pages from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. These are starting prices. You receive an itemised written quote for your actual needs, and nothing is billed until you approve it.",
+        "With us, static websites start at ₹10,000, SEO websites with 299+ pages from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. These are starting prices. You receive an itemised written quote for your actual needs, and nothing is billed until you approve it.",
     },
     {
       question: "Siwan mein website banwane ka kitna kharcha aata hai?",

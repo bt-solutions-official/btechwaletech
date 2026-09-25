@@ -35,7 +35,7 @@ const nandyal: CityContent = {
     pills: ["Websites from ₹10,000", "Telugu and English", "Mango and rice stores", "Pilgrim hotel enquiries", "New-district ready"],
   },
   quickAnswer:
-    "A website for a Nandyal business starts from ₹10,000 with our team and takes one to two weeks. A 700+ page SEO website starts from ₹20,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team of three engineers with no Nandyal office, and maintenance is free for five months after launch.",
+    "A website for a Nandyal business starts from ₹10,000 with our team and takes one to two weeks. A 299+ page SEO website starts from ₹20,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team of three engineers with no Nandyal office, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Status", value: "Headquarters of Nandyal district, carved out of Kurnool district on 4 April 2022" },
     { label: "Landscape", value: "A valley town between the Nallamala and Erramala ranges in western Rayalaseema" },
@@ -73,12 +73,12 @@ const nandyal: CityContent = {
       heading: "How much a website costs in Nandyal",
       paragraphs: [
         "Website quotes in Nandyal range from a few thousand rupees for a template page to large figures from Hyderabad or Bengaluru agencies. Very cheap sites often have no search setup and sit on the developer's domain. Very expensive ones carry city overheads a Nandyal clinic or mill has no reason to fund.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts from ₹10,000 and goes live in one to two weeks. A 700+ page SEO website, built around what people in Nandyal and its mandals search for, starts from ₹20,000 and takes three to five weeks. AI automation starts from ₹40,000, an online store from ₹50,000, a custom web app from ₹60,000 and monthly SEO from ₹10,000.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts from ₹10,000 and goes live in one to two weeks. A 299+ page SEO website, built around what people in Nandyal and its mandals search for, starts from ₹20,000 and takes three to five weeks. AI automation starts from ₹40,000, an online store from ₹50,000, a custom web app from ₹60,000 and monthly SEO from ₹10,000.",
         "The final number depends on pages, languages and features. We send an itemised quote in about two working days and bill nothing until you give written approval.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages with mobile layout, enquiry form, map and basic SEO for shops, clinics and tutors.",
-        "<strong>From ₹20,000:</strong> 700+ pages for mills, hospitals, colleges and firms serving many mandals.",
+        "<strong>From ₹20,000:</strong> 299+ pages for mills, hospitals, colleges and firms serving many mandals.",
         "<strong>From ₹50,000:</strong> online store with UPI, cards and shipping rules for mango, rice and food brands.",
         "<strong>From ₹60,000:</strong> custom procurement, stock and ledger systems with logins and reports.",
       ],
@@ -219,7 +219,7 @@ const nandyal: CityContent = {
     {
       question: "How much does a website cost in Nandyal?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO website from ₹20,000, AI automation from ₹40,000, an online store from ₹50,000 and a custom web app from ₹60,000. Your final amount depends on pages, languages and features, and you receive an itemised written quote before any billing.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO website from ₹20,000, AI automation from ₹40,000, an online store from ₹50,000 and a custom web app from ₹60,000. Your final amount depends on pages, languages and features, and you receive an itemised written quote before any billing.",
     },
     {
       question: "Nandyala lo website ki entha kharchu avutundi?",

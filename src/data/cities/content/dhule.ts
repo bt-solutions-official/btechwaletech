@@ -34,7 +34,7 @@ const dhule: CityContent = {
     pills: ["Websites from ₹10,000", "Transport and fleet tools", "Marathi and Khandeshi searches", "WhatsApp lead replies", "Your domain, your code"],
   },
   quickAnswer:
-    "With us, a Dhule business website starts at ₹10,000 and is usually live in one to two weeks. A 700+ page SEO site starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team, the domain and code are yours, and maintenance is free for five months after launch.",
+    "With us, a Dhule business website starts at ₹10,000 and is usually live in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team, the domain and code are yours, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Location", value: "Khandesh region of north-western Maharashtra, on the Panzara river" },
     { label: "Connectivity", value: "Junction of the Mumbai–Agra highway with routes towards Surat and Nagpur; a node on the Delhi–Mumbai Industrial Corridor plan" },
@@ -106,7 +106,7 @@ const dhule: CityContent = {
       ],
       list: [
         "<strong>Small business website — from ₹10,000, 1–2 weeks.</strong> Shops, clinics, tutors and professionals.",
-        "<strong>SEO website 700+ pages — from ₹20,000, 3–5 weeks.</strong> Transporters, units, schools and hospitals.",
+        "<strong>SEO website 299+ pages — from ₹20,000, 3–5 weeks.</strong> Transporters, units, schools and hospitals.",
         "<strong>AI and WhatsApp automation — from ₹40,000, 2–4 weeks.</strong> Quote requests, appointments and order capture.",
         "<strong>Online store — from ₹50,000, 4–8 weeks.</strong> Food, textiles and farm products with UPI checkout.",
         "<strong>Custom web application — from ₹60,000, 6–12 weeks.</strong> Trip registers, order trackers and dealer portals.",
@@ -217,12 +217,12 @@ const dhule: CityContent = {
     {
       question: "How much does a website cost in Dhule?",
       answer:
-        "A small business website starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. We send an itemised quote within about two working days, and nothing is billed until you approve it.",
+        "A small business website starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. We send an itemised quote within about two working days, and nothing is billed until you approve it.",
     },
     {
       question: "Dhule madhe mazya business chi website banvaychi aahe, kharcha kiti?",
       answer:
-        "Chhotya business chi website ₹10,000 pasun suru hote ani ek te don athavdyat tayar hote. SEO sathi 700+ pages chi website ₹20,000 pasun aahe. WhatsApp var Marathi madhe tumchi garaj sanga, amhi don working divasat lekhi quote pathvato.",
+        "Chhotya business chi website ₹10,000 pasun suru hote ani ek te don athavdyat tayar hote. SEO sathi 299+ pages chi website ₹20,000 pasun aahe. WhatsApp var Marathi madhe tumchi garaj sanga, amhi don working divasat lekhi quote pathvato.",
     },
     {
       question: "Do you have an office in Dhule?",
@@ -277,7 +277,7 @@ const dhule: CityContent = {
     {
       question: "How long will my website take?",
       answer:
-        "A small site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Content is the usual bottleneck, so having your photos, service details and basic text ready saves the most time.",
+        "A small site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Content is the usual bottleneck, so having your photos, service details and basic text ready saves the most time.",
     },
     {
       question: "Will you guarantee a first page ranking?",

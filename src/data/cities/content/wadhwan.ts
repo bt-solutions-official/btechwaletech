@@ -40,7 +40,7 @@ const wadhwan: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Gujarati and English SEO", "Ginning and salt trade software", "WhatsApp replies 7 days"],
   },
   quickAnswer:
-    "In Wadhwan and Surendranagar, a business website starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000, Android and iOS apps and AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team; you own the domain, code and app accounts.",
+    "In Wadhwan and Surendranagar, a business website starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, Android and iOS apps and AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team; you own the domain, code and app accounts.",
   snapshot: [
     { label: "Twin town", value: "Wadhwan sits about 3 km from Surendranagar on the Bhogavo river, and both fall under the Surendranagar Wadhwan Municipality" },
     { label: "Population", value: "About 75,755 in Wadhwan and about 1.78 lakh in Surendranagar Dudhrej (2011 Census)" },
@@ -143,7 +143,7 @@ const wadhwan: CityContent = {
       ],
       list: [
         "<strong>Static website, up to 100 pages:</strong> from ₹10,000, one to two weeks.",
-        "<strong>SEO website with 700+ pages:</strong> starts at ₹20,000, three to five weeks.",
+        "<strong>SEO website with 299+ pages:</strong> starts at ₹20,000, three to five weeks.",
         "<strong>Android and iOS app:</strong> from ₹40,000, depending on screens and features.",
         "<strong>AI and WhatsApp automation:</strong> from ₹40,000, two to four weeks.",
         "<strong>Ecommerce store with UPI and Razorpay:</strong> starts at ₹50,000, four to eight weeks.",
@@ -228,7 +228,7 @@ const wadhwan: CityContent = {
     {
       question: "What is the website cost in Surendranagar?",
       answer:
-        "A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website with 700+ pages starts at ₹20,000, an ecommerce store from ₹50,000 and custom software from ₹60,000. You get an itemised written quote in about two working days, and nothing is billed before you approve it.",
+        "A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website with 299+ pages starts at ₹20,000, an ecommerce store from ₹50,000 and custom software from ₹60,000. You get an itemised written quote in about two working days, and nothing is billed before you approve it.",
     },
     {
       question: "Which is the best website development team in Surendranagar?",

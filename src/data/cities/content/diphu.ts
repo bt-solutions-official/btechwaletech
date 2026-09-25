@@ -39,7 +39,7 @@ const diphu: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "English, Assamese and Hindi pages", "Ginger and handloom stores", "Every account in your name"],
   },
   quickAnswer:
-    "A Diphu business website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 700+ page SEO site at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Diphu office.",
+    "A Diphu business website with us starts at ₹10,000 and usually goes live in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 299+ page SEO site at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Diphu office.",
   snapshot: [
     { label: "Role", value: "Headquarters of Karbi Anglong district and the Karbi Anglong Autonomous Council" },
     { label: "Population", value: "61,797 at the 2011 census" },
@@ -149,7 +149,7 @@ const diphu: CityContent = {
       id: "website-cost-diphu",
       heading: "Website cost in Diphu: starting prices and what to compare",
       paragraphs: [
-        "Our starting prices for Diphu are public: a static website of up to 100 pages from ₹10,000 in one to two weeks; a 700+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; an online store from ₹50,000 in four to eight weeks; and custom software from ₹60,000 in six to twelve weeks. Monthly SEO starts at ₹10,000.",
+        "Our starting prices for Diphu are public: a static website of up to 100 pages from ₹10,000 in one to two weeks; a 299+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; an online store from ₹50,000 in four to eight weeks; and custom software from ₹60,000 in six to twelve weeks. Monthly SEO starts at ₹10,000.",
         "Your figure moves up as the job grows. Pages in English plus Assamese or Hindi, a big product range, online payment with courier booking, customer or staff logins, custom reports and a Tally link are each priced as separate lines. Send your own text and photos and the total sits near the starting price; ask us to write the content and it is quoted on its own.",
         "Quotes in the region can differ a great deal, so compare them on the same points. Whose name will the domain and hosting carry? Is testing on phones included, and is basic on-page SEO part of the price? How many rounds of changes are allowed, and who repairs things once the site is live? Our <a href=\"/pricing/\">pricing page</a> lists each starting point, and a written, itemised quote usually reaches you within two working days.",
       ],
@@ -211,7 +211,7 @@ const diphu: CityContent = {
     {
       question: "What is the website cost in Diphu?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, languages, products and features. You receive it itemised in writing, and nothing is billed before you approve.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, languages, products and features. You receive it itemised in writing, and nothing is billed before you approve.",
     },
     {
       question: "Do you build Android and iOS apps for Diphu businesses?",
@@ -221,7 +221,7 @@ const diphu: CityContent = {
     {
       question: "How long does it take to make a website in Diphu?",
       answer:
-        "A static site usually goes live one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Quick content and approvals shorten the timeline most.",
+        "A static site usually goes live one to two weeks after we receive your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Quick content and approvals shorten the timeline most.",
     },
     {
       question: "Which is the best IT services team in Diphu?",
@@ -246,7 +246,7 @@ const diphu: CityContent = {
     {
       question: "Diphu me website banwane me kitna kharcha aata hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein ban jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Pura quote likhit mein bheja jaata hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek-do hafte mein ban jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Pura quote likhit mein bheja jaata hai.",
     },
     {
       question: "You have no office in Diphu. How will the project work?",

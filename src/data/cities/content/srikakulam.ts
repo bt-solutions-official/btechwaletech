@@ -34,7 +34,7 @@ const srikakulam: CityContent = {
     pills: ["Websites ₹10,000 onwards", "Telugu and English pages", "Khadi and cashew stores", "Pilgrim lodge bookings", "WhatsApp automation"],
   },
   quickAnswer:
-    "In Srikakulam, our static business websites start from ₹10,000 and go live in one to two weeks. SEO websites with 700+ pages start from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. We are three remote engineers with no Srikakulam office, and maintenance is free for five months after launch.",
+    "In Srikakulam, our static business websites start from ₹10,000 and go live in one to two weeks. SEO websites with 299+ pages start from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. We are three remote engineers with no Srikakulam office, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "City", value: "Headquarters of Srikakulam district, known as Chicacole before Independence; municipality from 1856, corporation since 2015" },
     { label: "Transport", value: "NH 16 bypasses the city; the railhead, Srikakulam Road station, is at Amadalavalasa on the Howrah–Chennai line" },
@@ -73,7 +73,7 @@ const srikakulam: CityContent = {
       heading: "How website pricing works for Srikakulam businesses",
       paragraphs: [
         "Srikakulam owners typically see one of two offers: a cheap template site with the domain registered to the seller, or a Visakhapatnam quote with a large total and little explanation. Neither makes comparison easy.",
-        "Our <a href=\"/pricing/\">pricing page</a> shows starting prices, and each figure is the point where a project begins. A static website of up to 100 pages is ₹10,000 onwards and usually takes one to two weeks. An SEO website with 700+ pages, perhaps a page for every saree weave, cashew grade, service or mandal you cover, is ₹20,000 onwards and takes three to five weeks. AI and WhatsApp automation begins at ₹40,000, online stores at ₹50,000, custom web applications at ₹60,000 and monthly SEO at ₹10,000.",
+        "Our <a href=\"/pricing/\">pricing page</a> shows starting prices, and each figure is the point where a project begins. A static website of up to 100 pages is ₹10,000 onwards and usually takes one to two weeks. An SEO website with 299+ pages, perhaps a page for every saree weave, cashew grade, service or mandal you cover, is ₹20,000 onwards and takes three to five weeks. AI and WhatsApp automation begins at ₹40,000, online stores at ₹50,000, custom web applications at ₹60,000 and monthly SEO at ₹10,000.",
         "What decides the final amount is scope: number of pages and products, languages, payment gateway, courier integration, staff logins and any link to accounting software. A single lodge near Arasavalli needs much less than a cashew exporter wanting a trade catalogue with buyer documents.",
         "Every item is listed in writing before we bill anything, and you can leave out features you do not need yet.",
       ],
@@ -228,12 +228,12 @@ const srikakulam: CityContent = {
     {
       question: "How much does a website cost in Srikakulam?",
       answer:
-        "Static websites are ₹10,000 onwards, SEO websites with 700+ pages ₹20,000 onwards, online stores ₹50,000 onwards and custom software ₹60,000 onwards. The final amount depends on pages, products and features, and you receive an itemised quote before any billing.",
+        "Static websites are ₹10,000 onwards, SEO websites with 299+ pages ₹20,000 onwards, online stores ₹50,000 onwards and custom software ₹60,000 onwards. The final amount depends on pages, products and features, and you receive an itemised quote before any billing.",
     },
     {
       question: "Srikakulam lo website ki entha kharchu avutundi?",
       answer:
-        "Maa daggara simple website ₹10,000 nundi modalu. 700 paina pages unna SEO website ₹20,000 nundi, online store ₹50,000 nundi modalavutayi. Mee pages, features, Telugu content batti final dhara untundi. Pani modalettaka mundu itemised quote raatapoorvakanga istamu.",
+        "Maa daggara simple website ₹10,000 nundi modalu. 299 paina pages unna SEO website ₹20,000 nundi, online store ₹50,000 nundi modalavutayi. Mee pages, features, Telugu content batti final dhara untundi. Pani modalettaka mundu itemised quote raatapoorvakanga istamu.",
     },
     {
       question: "Is there a BtechWaleTech office in Srikakulam?",

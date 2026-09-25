@@ -136,7 +136,7 @@ const content: CityContent = {
       id: "seo-uttarakhand",
       heading: "SEO and AI-search visibility for businesses across Uttarakhand",
       paragraphs: [
-        "SEO for Uttarakhand businesses means matching pages to how travellers, parents and B2B buyers actually search, including place-specific and seasonal queries such as snowfall dates in Auli, road status to Kedarnath or stays near Corbett's Dhikala zone. Monthly SEO with us starts at ₹10,000, and a 700+ page SEO website starts at ₹20,000.",
+        "SEO for Uttarakhand businesses means matching pages to how travellers, parents and B2B buyers actually search, including place-specific and seasonal queries such as snowfall dates in Auli, road status to Kedarnath or stays near Corbett's Dhikala zone. Monthly SEO with us starts at ₹10,000, and a 299+ page SEO website starts at ₹20,000.",
         "Tourism businesses gain from well-researched destination and itinerary pages, clear pricing and honest photos. Manufacturers gain from capability, certification and product pages written for procurement teams. Local service businesses gain from Google Business Profile guidance, consistent name and address details and service pages for each town they cover. We add schema markup, fast loading and clean internal links throughout.",
         "Answers written in short, factual passages also help Google's AI Overviews, ChatGPT and Perplexity cite a page. We cannot guarantee rankings or AI citations, and we will not buy links. Results usually take three to six months. Our <a href='/services/seo-services/'>SEO services page</a> explains the monthly work.",
       ],
@@ -189,7 +189,7 @@ const content: CityContent = {
       id: "cost-it-services-uttarakhand",
       heading: "How much do IT services in Uttarakhand cost?",
       paragraphs: [
-        "IT services in Uttarakhand from BtechWaleTech start at ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation, ₹50,000 for an ecommerce store, ₹60,000 for custom software, ₹10,000 a month for SEO and ₹8,000 a month for maintenance. All are starting prices, not fixed packages. Android and iOS apps start at ₹40,000.",
+        "IT services in Uttarakhand from BtechWaleTech start at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation, ₹50,000 for an ecommerce store, ₹60,000 for custom software, ₹10,000 a month for SEO and ₹8,000 a month for maintenance. All are starting prices, not fixed packages. Android and iOS apps start at ₹40,000.",
         "The main factors that raise a quote are the number of distinct features and user roles, integrations with payment, accounting or courier systems, languages, content writing and data migration. A two-room homestay booking page sits near the lower end. A multi-property hotel system with channel reports and staff roles, or a factory portal used by dozens of vendors, costs more.",
         "Quotes are itemised and arrive within about two working days of our first discussion, so you can drop features you do not need yet. See the full table on our <a href='/pricing/'>pricing page</a>.",
       ],
@@ -257,7 +257,7 @@ const content: CityContent = {
     {
       question: "What is the starting cost of IT services in Uttarakhand?",
       answer:
-        "₹10,000 is the starting price for a static website. A 700+ page SEO website starts at ₹20,000, AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month. These are starting prices, and the final figure depends on your scope.",
+        "₹10,000 is the starting price for a static website. A 299+ page SEO website starts at ₹20,000, AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month. These are starting prices, and the final figure depends on your scope.",
     },
     {
       question: "How long does a project take?",

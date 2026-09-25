@@ -55,7 +55,7 @@ const content: FreelanceContent = {
     rows: [
       { label: "Main goal", value: "Qualified enquiries and RFQs, not casual clicks" },
       { label: "Catalogue site", value: `From ${P.site}, 1–2 weeks` },
-      { label: "SEO site, 700+ pages", value: `From ${P.seoSite}, 3–5 weeks` },
+      { label: "SEO site, 299+ pages", value: `From ${P.seoSite}, 3–5 weeks` },
       { label: "Portal with logins", value: `From ${P.software}, 6–12 weeks` },
       { label: "Lead handling", value: "RFQs routed to CRM, email or WhatsApp by product and region" },
       { label: "Buyer trust", value: "Certifications, spec sheets, GSTIN, clear company details" },
@@ -275,7 +275,7 @@ const content: FreelanceContent = {
       columns: ["Site type", "Starts at (India)", "Starts at (abroad)", "Timeline", "Fits"],
       rows: [
         ["Catalogue site, up to 100 pages", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Suppliers with a focused product range"],
-        ["Large product and application site, 700+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Distributors with big catalogues"],
+        ["Large product and application site, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Distributors with big catalogues"],
         ["B2B ordering store", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Repeat buyers ordering standard items"],
         ["Customer or dealer portal", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Account pricing, reorders, documents"],
         ["Lead scoring and routing automation", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "High enquiry volume"],
@@ -368,7 +368,7 @@ const content: FreelanceContent = {
     { question: "Can the site be in Hindi or regional languages?", answer: "Yes. Selected pages, such as dealer information or product category pages, can be built in Hindi, Gujarati, Marathi, Tamil or other languages with proper language tags, while detailed technical data stays in English where buyers expect it. Translating only the pages that matter keeps cost and maintenance reasonable." },
     { question: "What happens after the B2B website launches?", answer: `For five months after launch, adding new products, adjusting RFQ fields, small design changes and fixes are free. After that, maintenance is optional and starts at ${P.care}, and monthly SEO starts at ${P.seo}. Because the code and accounts are yours, you can also manage updates in-house or with another developer.` },
     { question: "How do payments work for a B2B website project?", answer: "You receive an itemised written quote and nothing is billed until you approve it. Payments are staged against work you can see, such as approved designs, the working catalogue on staging and the launch. Indian businesses pay by UPI or bank transfer and receive invoices; international clients pay by Wise, bank wire or PayPal." },
-    { question: "B2B website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath 100 pages tak ki B2B catalogue website ${P.site} se shuru hoti hai aur 1–2 hafte mein ban jaati hai. Bade product range ke liye 700+ pages wali SEO website ${P.seoSite} se shuru hoti hai. Dealer portal ${P.software} se. Pehle itemised quote milta hai, approval ke baad hi payment hota hai, aur 5 mahine maintenance free hai.` },
+    { question: "B2B website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath 100 pages tak ki B2B catalogue website ${P.site} se shuru hoti hai aur 1–2 hafte mein ban jaati hai. Bade product range ke liye 299+ pages wali SEO website ${P.seoSite} se shuru hoti hai. Dealer portal ${P.software} se. Pehle itemised quote milta hai, approval ke baad hi payment hota hai, aur 5 mahine maintenance free hai.` },
     { question: "Do you build B2B websites for companies outside India?", answer: `Yes. B2B website projects work well remotely, and international clients are billed in USD, with catalogue sites starting at ${P.siteUsd} and large product sites at ${P.seoSiteUsd}. Payments go by Wise, bank wire or PayPal. We schedule reviews in overlapping hours and share progress on staging links that your sales team can test.` },
   ],
   related: {
@@ -379,7 +379,7 @@ const content: FreelanceContent = {
       { name: "Multi-vendor marketplace development", href: "/marketplace-website-developer/" },
       { name: "Customer and vendor portals", href: "/portal-development-freelancer/" },
       { name: "Custom CRM development", href: "/freelance-crm-developer/" },
-      { name: "SEO website developer for 700+ pages", href: "/seo-website-developer/" },
+      { name: "SEO website developer for 299+ pages", href: "/seo-website-developer/" },
       { name: "Ecommerce SEO freelancer", href: "/ecommerce-seo-freelancer/" },
       { name: "WhatsApp automation for enquiries", href: "/whatsapp-automation-expert/" },
       { name: "Hire an ecommerce developer", href: "/hire-ecommerce-developer/" },

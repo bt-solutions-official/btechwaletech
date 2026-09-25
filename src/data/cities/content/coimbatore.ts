@@ -35,7 +35,7 @@ const coimbatore: CityContent = {
     pills: ["Sites from ₹10,000", "Product catalogues and RFQs", "Tamil and English pages", "Dealer portals", "Free upkeep for 5 months"],
   },
   quickAnswer:
-    "A Coimbatore business website with us starts at ₹10,000 for a static site and ₹20,000 for a 700+ page SEO site. Online stores start at ₹50,000 and dealer portals or custom web apps at ₹60,000. We are a remote team of three engineers with no Coimbatore office, and every project includes five months of free maintenance.",
+    "A Coimbatore business website with us starts at ₹10,000 for a static site and ₹20,000 for a 299+ page SEO site. Online stores start at ₹50,000 and dealer portals or custom web apps at ₹60,000. We are a remote team of three engineers with no Coimbatore office, and every project includes five months of free maintenance.",
   snapshot: [
     { label: "Engineering base", value: "Pumps and motors, wet grinders (a GI-tagged product), foundries, auto components and machine tools" },
     { label: "Textiles", value: "Spinning mills and textile machinery across the district, with knitwear in neighbouring Tiruppur" },
@@ -73,12 +73,12 @@ const coimbatore: CityContent = {
       heading: "How much does a website cost in Coimbatore?",
       paragraphs: [
         "Coimbatore quotes for a basic business site range from a few thousand rupees, often from a student or a template reseller, to well over fifty thousand from established agencies. The difference is rarely only design. It is usually whether the site has proper product pages, whether SEO basics are included, who controls the domain and hosting, and whether anyone will fix it six months later.",
-        "Our pricing is published. A static site of up to 100 pages starts at ₹10,000 and suits a consultant, a clinic, a small showroom or a service business; most go live in one to two weeks. A 700+ page SEO site, which lets a manufacturer give each product family and application its own page, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications such as dealer or service portals start at ₹60,000, automation starts at ₹40,000, and monthly SEO starts at ₹10,000.",
+        "Our pricing is published. A static site of up to 100 pages starts at ₹10,000 and suits a consultant, a clinic, a small showroom or a service business; most go live in one to two weeks. A 299+ page SEO site, which lets a manufacturer give each product family and application its own page, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications such as dealer or service portals start at ₹60,000, automation starts at ₹40,000, and monthly SEO starts at ₹10,000.",
         "For manufacturers with large ranges, the main cost driver is the catalogue. Two hundred pump models with curves and datasheets take more work than twenty, especially if the data lives in scattered PDFs. We can import from spreadsheets to save time. The quote you receive lists each piece of work separately, usually within two working days, and nothing is charged until you approve it in writing. See our <a href=\"/pricing/\">pricing page</a> for the full list.",
       ],
       list: [
         "<strong>Static site, from ₹10,000:</strong> up to 100 pages, mobile layout, contact form, map and basic SEO.",
-        "<strong>SEO site, from ₹20,000:</strong> 700+ pages for product families, applications and service areas.",
+        "<strong>SEO site, from ₹20,000:</strong> 299+ pages for product families, applications and service areas.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart, UPI and card payment, shipping rules.",
         "<strong>Web app, from ₹60,000:</strong> dealer logins, service tickets, spare-part lookup, reports.",
       ],
@@ -209,12 +209,12 @@ const coimbatore: CityContent = {
     {
       question: "How much does a website cost in Coimbatore?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. For manufacturers, the size of the product catalogue is the main factor. You get an itemised quote within about two working days, and nothing is billed before you approve it.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. For manufacturers, the size of the product catalogue is the main factor. You get an itemised quote within about two working days, and nothing is billed before you approve it.",
     },
     {
       question: "Kovai la oru website seyya evvalavu aagum?",
       answer:
-        "Oru simple business website ₹10,000 la irundhu start aagum. 700+ pages SEO website ₹20,000 la irundhu, online store ₹50,000 la irundhu. Ungaloda products, pages, features ellam paathu final quote kudupom. Velai start panradhukku munnaadiye itemised quote anuppuvom, neenga approve pannina appuram dhaan billing.",
+        "Oru simple business website ₹10,000 la irundhu start aagum. 299+ pages SEO website ₹20,000 la irundhu, online store ₹50,000 la irundhu. Ungaloda products, pages, features ellam paathu final quote kudupom. Velai start panradhukku munnaadiye itemised quote anuppuvom, neenga approve pannina appuram dhaan billing.",
     },
     {
       question: "Do you have an office in Coimbatore?",

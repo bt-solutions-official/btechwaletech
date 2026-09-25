@@ -39,7 +39,7 @@ const malkapur: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Marathi, Hindi and Urdu pages", "Ginning and trade software", "Code and logins in your name"],
   },
   quickAnswer:
-    "For a Malkapur business, a website with us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, have no Malkapur office, and you own every account.",
+    "For a Malkapur business, a website with us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, have no Malkapur office, and you own every account.",
   snapshot: [
     { label: "Location", value: "Taluka town in Buldhana district, western Vidarbha, close to the Madhya Pradesh border" },
     { label: "River", value: "On the banks of the Nalganga, a tributary of the Purna in the Tapi basin" },
@@ -99,7 +99,7 @@ const malkapur: CityContent = {
       paragraphs: [
         "The Malkapur MIDC area covers a little over 200 hectares and hosts units in cotton ginning and pressing, yarn, rubber goods, soap, oil milling, chemicals and engineering work. Many of these firms sell to buyers they have never met: textile mills in Gujarat or Tamil Nadu, exporters in Mumbai, distributors in other states. Those buyers look for a proper website before they send an enquiry or a purchase order.",
         "As a <strong>website development team in Malkapur</strong> in practice, we build industrial sites that answer a buyer's first questions without a phone call: what you make, capacities, specifications, certifications you actually hold, packing and dispatch options, and who to contact for quotes. A downloadable product sheet and a clean enquiry form often do more for a small unit than any amount of advertising.",
-        "For units with many products or grades, a larger SEO website of 700+ pages lets each product, application and buyer industry have its own page. These start at ₹20,000 and take three to five weeks, because the product data needs checking before it goes live. We never publish figures or certifications you have not confirmed.",
+        "For units with many products or grades, a larger SEO website of 299+ pages lets each product, application and buyer industry have its own page. These start at ₹20,000 and take three to five weeks, because the product data needs checking before it goes live. We never publish figures or certifications you have not confirmed.",
         "We also connect enquiry forms to email and WhatsApp so that a message sent on a Sunday night does not sit unread until Wednesday. For units that already export, we can add an English-first version with clear contact details for international buyers, while keeping Marathi pages for local hiring and supplier notices.",
       ],
     },
@@ -167,7 +167,7 @@ const malkapur: CityContent = {
       id: "website-cost-malkapur",
       heading: "Website cost in Malkapur: starting prices and what changes the quote",
       paragraphs: [
-        "The most common first question is simple: what does a website cost in Malkapur? With us, a static business website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 700+ pages starts at ₹20,000 and takes three to five weeks. An ecommerce store starts at ₹50,000. Android and iOS apps and AI automation start at ₹40,000. Custom web apps and software start at ₹60,000.",
+        "The most common first question is simple: what does a website cost in Malkapur? With us, a static business website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 299+ pages starts at ₹20,000 and takes three to five weeks. An ecommerce store starts at ₹50,000. Android and iOS apps and AI automation start at ₹40,000. Custom web apps and software start at ₹60,000.",
         "These are starting prices, not package prices. The final figure moves with the number of pages or products, languages, custom forms, payment options, app screens and integrations. A Marathi-plus-English site costs more than a single-language site because the content has to be written and checked twice. A ginning register that links to Tally costs more than one that exports a spreadsheet.",
         "Local quotes for similar work vary widely. When comparing, ask who owns the domain and hosting, whether the code is handed over, how many revisions are included, what happens after the first year, and whether maintenance is included. A lower number that keeps your domain in someone else's name often costs more later.",
         "We send an itemised quote within about two working days of understanding your needs, and nothing is billed until you approve it in writing. You can see our full starting price list on the <a href=\"/pricing/\">pricing page</a>.",
@@ -222,7 +222,7 @@ const malkapur: CityContent = {
     {
       question: "How much does a website cost in Malkapur?",
       answer:
-        "A static business website with up to 100 pages starts at ₹10,000 and usually takes one to two weeks. A 700+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, languages, features and integrations, and it is itemised so you can see each part.",
+        "A static business website with up to 100 pages starts at ₹10,000 and usually takes one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, languages, features and integrations, and it is itemised so you can see each part.",
     },
     {
       question: "Do you build Android and iOS apps for Malkapur businesses?",

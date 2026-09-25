@@ -39,7 +39,7 @@ const sironj: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first Google Maps SEO", "Mandi and dealer software", "Domain and code in your name"],
   },
   quickAnswer:
-    "For Sironj businesses, our websites start at ₹10,000 and usually take one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 700+ page SEO site at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely, have no Sironj office, and you own every account.",
+    "For Sironj businesses, our websites start at ₹10,000 and usually take one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 299+ page SEO site at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely, have no Sironj office, and you own every account.",
   snapshot: [
     { label: "District", value: "Tehsil town in Vidisha district, about 85 km north of Vidisha and roughly 115 km from Bhopal" },
     { label: "Nearest railhead", value: "Ganjbasoda station, about 40 km away; Bhopal airport roughly 110 km" },
@@ -149,7 +149,7 @@ const sironj: CityContent = {
       id: "website-cost-sironj",
       heading: "Website cost in Sironj and what a sensible quote should include",
       paragraphs: [
-        "Here are our entry points. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks. A large SEO site of 700 pages or more, useful for a school group, trust or distributor covering many villages and products, starts at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation both start at ₹40,000. An online store is ₹50,000 onwards, custom software ₹60,000 onwards, and monthly SEO ₹10,000 onwards.",
+        "Here are our entry points. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks. A large SEO site of 299 pages or more, useful for a school group, trust or distributor covering many villages and products, starts at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation both start at ₹40,000. An online store is ₹50,000 onwards, custom software ₹60,000 onwards, and monthly SEO ₹10,000 onwards.",
         "Your figure grows only with what you choose: bilingual pages, a long product list, UPI and card checkout, staff logins, Tally sync, or copywriting. If you send your own text and phone photos, the number stays close to the starting point.",
         "Quotes from designers in Vidisha and Bhopal vary widely for similar work, so compare on substance. Ask who registers the domain, whether you receive the source code, whether the site is tested on cheap Android phones, how many revision rounds are included and what support costs after launch. Our full list is on the <a href=\"/pricing/\">pricing page</a>, and your itemised written quote comes within about two working days.",
       ],
@@ -210,7 +210,7 @@ const sironj: CityContent = {
     {
       question: "What is the website cost in Sironj?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Hindi content, products and integrations, and it arrives itemised in writing before any billing.",
+        "Our static websites start at ₹10,000, 299+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Hindi content, products and integrations, and it arrives itemised in writing before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Sironj businesses?",
@@ -220,7 +220,7 @@ const sironj: CityContent = {
     {
       question: "How long does a website take for a Sironj shop?",
       answer:
-        "A simple shop site is usually live one to two weeks after we receive photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Sending content early is the biggest thing that speeds up delivery.",
+        "A simple shop site is usually live one to two weeks after we receive photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Sending content early is the biggest thing that speeds up delivery.",
     },
     {
       question: "Which is the best IT services team in Sironj for a small business?",
@@ -245,7 +245,7 @@ const sironj: CityContent = {
     {
       question: "Sironj me website ya app banwane me kitna kharcha aata hai?",
       answer:
-        "Simple website ₹10,000 se shuru hoti hai aur lagbhag ek-do hafte mein taiyar ho jaati hai. Android aur iOS app ₹40,000 se, 700+ page SEO website ₹20,000 se aur online store ₹50,000 se shuru hai. Aapke features ke hisaab se likhit quote do working din mein milta hai.",
+        "Simple website ₹10,000 se shuru hoti hai aur lagbhag ek-do hafte mein taiyar ho jaati hai. Android aur iOS app ₹40,000 se, 299+ page SEO website ₹20,000 se aur online store ₹50,000 se shuru hai. Aapke features ke hisaab se likhit quote do working din mein milta hai.",
     },
     {
       question: "You have no office in Sironj. How is that safe?",

@@ -219,13 +219,13 @@ const content: CityContent = {
       id: "cost-timeline-choosing-partner-kerala",
       heading: "How much do IT projects cost in Kerala, and how do you choose a partner?",
       paragraphs: [
-        "IT projects in Kerala with us start at ₹10,000 for a static website, ₹20,000 for an SEO website of 700+ pages, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for ecommerce and ₹60,000 for custom software. Timelines run from one to two weeks for simple sites to six to twelve weeks for custom systems. See all figures on our <a href='/pricing/'>pricing page</a>.",
+        "IT projects in Kerala with us start at ₹10,000 for a static website, ₹20,000 for an SEO website of 299+ pages, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for ecommerce and ₹60,000 for custom software. Timelines run from one to two weeks for simple sites to six to twelve weeks for custom systems. See all figures on our <a href='/pricing/'>pricing page</a>.",
         "When choosing an IT partner, ask for an itemised written quote, confirm that the domain, hosting and code will be in your name, look at live work on the <a href='/portfolio/'>portfolio</a>, and ask who exactly will build and support your project. Be cautious of very low prices that hide recurring fees or leave you without access to your own site.",
         "You can learn how we work on the <a href='/about/'>about page</a> and compare every service on the <a href='/services/'>services page</a>.",
       ],
       list: [
         "Static website: from ₹10,000",
-        "SEO website of 700+ pages: from ₹20,000",
+        "SEO website of 299+ pages: from ₹20,000",
         "Android and iOS app: from ₹40,000",
         "AI automation: from ₹40,000",
         "Ecommerce store: from ₹50,000",

@@ -35,7 +35,7 @@ const palanpur: CityContent = {
     pills: ["Sites from ₹10,000", "Gujarati and English pages", "Supplier catalogues", "WhatsApp order logs", "Five free months of upkeep"],
   },
   quickAnswer:
-    "In Palanpur, our static business website starts from ₹10,000 and a 700+ page SEO website from ₹20,000, usually ready in one to five weeks. Online stores start from ₹50,000 and custom software from ₹60,000. We are a three-engineer remote team without a Palanpur office, and each launch includes five months of free maintenance.",
+    "In Palanpur, our static business website starts from ₹10,000 and a 299+ page SEO website from ₹20,000, usually ready in one to five weeks. Online stores start from ₹50,000 and custom software from ₹60,000. We are a three-engineer remote team without a Palanpur office, and each launch includes five months of free maintenance.",
   snapshot: [
     { label: "Role", value: "Headquarters and largest city of Banaskantha district in North Gujarat" },
     { label: "Dairy", value: "Banas Dairy, founded in 1969 under Operation Flood, with its main plants at Palanpur" },
@@ -73,12 +73,12 @@ const palanpur: CityContent = {
       heading: "What a website costs in Palanpur",
       paragraphs: [
         "In Palanpur you will hear prices for a basic site that range from a few thousand rupees to what Ahmedabad agencies charge. The low end usually means a reused theme, no SEO and hosting under the developer's account. The high end often pays for an office and a sales team. We try to be plain about what you are buying.",
-        "Here is where our numbers begin. A brochure-style site for a shop, clinic or CA office, with anything up to 100 pages, begins at ₹10,000 and typically goes live inside a fortnight. A larger SEO build of 700+ pages, which gives every product, service and taluka its own page, begins at ₹20,000 and needs three to five weeks. Stores that take UPI and card payments begin at ₹50,000. Bespoke software, for example a dealer order portal for a cattle feed distributor or a stock register for a marble yard, begins at ₹60,000. WhatsApp and AI automation work begins at ₹40,000, and an ongoing SEO retainer at ₹10,000 per month.",
+        "Here is where our numbers begin. A brochure-style site for a shop, clinic or CA office, with anything up to 100 pages, begins at ₹10,000 and typically goes live inside a fortnight. A larger SEO build of 299+ pages, which gives every product, service and taluka its own page, begins at ₹20,000 and needs three to five weeks. Stores that take UPI and card payments begin at ₹50,000. Bespoke software, for example a dealer order portal for a cattle feed distributor or a stock register for a marble yard, begins at ₹60,000. WhatsApp and AI automation work begins at ₹40,000, and an ongoing SEO retainer at ₹10,000 per month.",
         "The final figure depends on how many pages or products you need, whether photos and specifications are ready, whether you want Gujarati pages, and which systems must connect. Every item is itemised, and nothing starts before you approve it. Full detail is on our <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [
         "<strong>Static website, from ₹10,000:</strong> clinics, schools, shops, CAs and small dealers.",
-        "<strong>SEO website, from ₹20,000:</strong> 700+ pages for firms wanting enquiries across North Gujarat.",
+        "<strong>SEO website, from ₹20,000:</strong> 299+ pages for firms wanting enquiries across North Gujarat.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart, UPI and card checkout, delivery rules.",
         "<strong>Custom software, from ₹60,000:</strong> orders, stock, dispatch, dashboards and staff logins.",
       ],
@@ -209,12 +209,12 @@ const palanpur: CityContent = {
     {
       question: "How much does a website cost in Palanpur?",
       answer:
-        "Our starting points are ₹10,000 for a static business site, ₹20,000 for a 700+ page SEO site, ₹50,000 for an online store and ₹60,000 for bespoke software. What you finally pay depends on the number of pages and products, languages and anything that needs connecting. An itemised quote reaches you in roughly two working days, and there is no charge until you sign off on it.",
+        "Our starting points are ₹10,000 for a static business site, ₹20,000 for a 299+ page SEO site, ₹50,000 for an online store and ₹60,000 for bespoke software. What you finally pay depends on the number of pages and products, languages and anything that needs connecting. An itemised quote reaches you in roughly two working days, and there is no charge until you sign off on it.",
     },
     {
       question: "Palanpur ma website banavvano kharch ketlo thay?",
       answer:
-        "Amari saathe simple business website ₹10,000 thi sharu thay chhe, ane 700+ pages vali SEO website ₹20,000 thi. Online store ₹50,000 thi sharu thay chhe. Final kimat pages, features ane content par aadhar rakhe chhe. Kaam sharu karta pehla tamne itemised quote mokliye chhiye, ane tamari manjuri vagar koi bill nathi banatu.",
+        "Amari saathe simple business website ₹10,000 thi sharu thay chhe, ane 299+ pages vali SEO website ₹20,000 thi. Online store ₹50,000 thi sharu thay chhe. Final kimat pages, features ane content par aadhar rakhe chhe. Kaam sharu karta pehla tamne itemised quote mokliye chhiye, ane tamari manjuri vagar koi bill nathi banatu.",
     },
     {
       question: "Do you have an office in Palanpur?",
@@ -239,7 +239,7 @@ const palanpur: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "Roughly: a static site in one to two weeks, a 700+ page SEO site in three to five, an online store in four to eight, and custom software in six to twelve. Projects most often slow down while photos and product lists are being collected, so we write first-draft text ourselves and let you correct it rather than waiting for you to fill empty pages.",
+        "Roughly: a static site in one to two weeks, a 299+ page SEO site in three to five, an online store in four to eight, and custom software in six to twelve. Projects most often slow down while photos and product lists are being collected, so we write first-draft text ourselves and let you correct it rather than waiting for you to fill empty pages.",
     },
     {
       question: "Can you build a website for a dairy equipment or cattle feed supplier?",

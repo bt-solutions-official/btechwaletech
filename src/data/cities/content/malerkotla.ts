@@ -35,7 +35,7 @@ const malerkotla: CityContent = {
     pills: ["Websites from ₹10,000", "Punjabi, Hindi and English pages", "Manufacturer catalogues", "Restaurant and clinic sites", "WhatsApp enquiry automation"],
   },
   quickAnswer:
-    "A static website for a Malerkotla business starts from ₹10,000 and takes one to two weeks. A 700+ page SEO or product catalogue site starts from ₹20,000, WhatsApp or AI automation from ₹40,000 and an online store from ₹50,000. We are a remote team with no Malerkotla office, and we maintain every site free for five months after launch.",
+    "A static website for a Malerkotla business starts from ₹10,000 and takes one to two weeks. A 299+ page SEO or product catalogue site starts from ₹20,000, WhatsApp or AI automation from ₹40,000 and an online store from ₹50,000. We are a remote team with no Malerkotla office, and we maintain every site free for five months after launch.",
   snapshot: [
     { label: "District", value: "Punjab's 23rd district, carved out of Sangrur in June 2021, with Malerkotla, Ahmedgarh and Amargarh sub-divisions" },
     { label: "Location", value: "About 50 km from Ludhiana and 35 km from Sangrur, on the Ludhiana–Sangrur road" },
@@ -73,7 +73,7 @@ const malerkotla: CityContent = {
       heading: "Website costs for Malerkotla businesses",
       paragraphs: [
         "All our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website with up to 100 pages starts from ₹10,000 and is usually ready in one to two weeks. It includes a mobile-friendly design, service or product pages, photos, enquiry form, map, WhatsApp button and basic search setup.",
-        "Manufacturers with large product ranges often need more. A 700+ page SEO website, with a page for each roll type, machine, badge design or product line, starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, AI and WhatsApp automation from ₹40,000, custom software from ₹60,000 and monthly SEO from ₹10,000.",
+        "Manufacturers with large product ranges often need more. A 299+ page SEO website, with a page for each roll type, machine, badge design or product line, starts from ₹20,000 and takes three to five weeks. Online stores start from ₹50,000, AI and WhatsApp automation from ₹40,000, custom software from ₹60,000 and monthly SEO from ₹10,000.",
         "These are starting prices. A single restaurant needs a fraction of what a roll manufacturer with export enquiries and technical specifications needs. We send an itemised quote in about two working days, and you approve it in writing before any work is billed.",
       ],
       list: [
@@ -238,7 +238,7 @@ const malerkotla: CityContent = {
     {
       question: "How much does a website cost in Malerkotla?",
       answer:
-        "Our static websites start from ₹10,000, 700+ page SEO sites from ₹20,000, online stores from ₹50,000 and custom web applications from ₹60,000. When comparing quotes, check who owns the domain, whether search setup is included and what support is offered after launch.",
+        "Our static websites start from ₹10,000, 299+ page SEO sites from ₹20,000, online stores from ₹50,000 and custom web applications from ₹60,000. When comparing quotes, check who owns the domain, whether search setup is included and what support is offered after launch.",
     },
     {
       question: "Malerkotla vich website banvaun da kinna kharcha aunda hai?",

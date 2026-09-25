@@ -34,7 +34,7 @@ const begusarai: CityContent = {
     pills: ["Sites from ₹10,000", "Vendor profiles for PSUs", "Hindi local SEO", "WhatsApp enquiry bots", "You own the code"],
   },
   quickAnswer:
-    "A Begusarai business can get a website of up to 100 pages from us from ₹10,000 in one to two weeks, or a 700+ page search-focused site from ₹20,000 in three to five weeks. Online stores start at ₹50,000 and custom software at ₹60,000. We work remotely, register the domain in your name and maintain the site free for five months.",
+    "A Begusarai business can get a website of up to 100 pages from us from ₹10,000 in one to two weeks, or a 299+ page search-focused site from ₹20,000 in three to five weeks. Online stores start at ₹50,000 and custom software at ₹60,000. We work remotely, register the domain in your name and maintain the site free for five months.",
   snapshot: [
     { label: "Industrial core", value: "Barauni: IOCL refinery, NTPC Barauni thermal station, HURL fertiliser plant at Urvarak Nagar, Garhara loco shed" },
     { label: "Industrial areas", value: "Old Barauni industrial area near Zero Mile on NH 31, plus a newer area in Barauni block" },
@@ -72,7 +72,7 @@ const begusarai: CityContent = {
       heading: "What a website costs in Begusarai, line by line",
       paragraphs: [
         "Quotes in Begusarai range from a few thousand rupees for a template on shared hosting to large figures from Patna agencies. The price alone tells you little. What matters is whether you own the domain, whether the site can be edited later without paying again, and whether basic search setup is included.",
-        "Our starting prices are published openly. A static site of up to 100 pages is from ₹10,000 and usually ready in one to two weeks. A 700+ page site with separate pages for each service, product line or department is from ₹20,000 and takes three to five weeks. An online store with UPI, cards and shipping rules starts at ₹50,000 and needs four to eight weeks. Custom web applications such as fleet or billing tools start at ₹60,000, over six to twelve weeks.",
+        "Our starting prices are published openly. A static site of up to 100 pages is from ₹10,000 and usually ready in one to two weeks. A 299+ page site with separate pages for each service, product line or department is from ₹20,000 and takes three to five weeks. An online store with UPI, cards and shipping rules starts at ₹50,000 and needs four to eight weeks. Custom web applications such as fleet or billing tools start at ₹60,000, over six to twelve weeks.",
         "WhatsApp and AI automation starts at ₹40,000, typically delivered in two to four weeks, and ongoing SEO costs from ₹10,000 a month. The full breakdown is on our <a href=\"/pricing/\">pricing page</a>. Send us your requirement and you will have an itemised quote in roughly two working days.",
       ],
       list: [
@@ -216,12 +216,12 @@ const begusarai: CityContent = {
     {
       question: "How much does a website cost in Begusarai?",
       answer:
-        "With us, a static site of up to 100 pages costs from ₹10,000, a 700+ page SEO site ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. Local quotes vary widely, so compare what is included: domain in your name, hosting login, basic SEO setup and support after launch.",
+        "With us, a static site of up to 100 pages costs from ₹10,000, a 299+ page SEO site ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. Local quotes vary widely, so compare what is included: domain in your name, hosting login, basic SEO setup and support after launch.",
     },
     {
       question: "Begusarai me dukaan ya clinic ki website banwane me kitna kharcha aata hai?",
       answer:
-        "Chhoti business website ₹10,000 se shuru hoti hai aur 700+ page wali SEO website ₹20,000 se. Online store ₹50,000 se aur transport ya school ka software ₹60,000 se banta hai. Pehle poora itemised quote bhejte hain, aur aapki likhit manzoori ke bina ek rupaya bhi nahi lete.",
+        "Chhoti business website ₹10,000 se shuru hoti hai aur 299+ page wali SEO website ₹20,000 se. Online store ₹50,000 se aur transport ya school ka software ₹60,000 se banta hai. Pehle poora itemised quote bhejte hain, aur aapki likhit manzoori ke bina ek rupaya bhi nahi lete.",
     },
     {
       question: "Do you have an office in Begusarai or Barauni?",
@@ -246,7 +246,7 @@ const begusarai: CityContent = {
     {
       question: "How long will my website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Collecting photos and text is the usual cause of delay, so we draft the content ourselves and you correct it.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Collecting photos and text is the usual cause of delay, so we draft the content ourselves and you correct it.",
     },
     {
       question: "Will the website be in Hindi?",

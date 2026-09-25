@@ -39,7 +39,7 @@ const nagari: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Tamil and Telugu local SEO", "Lungi and saree catalogues", "Accounts registered to you"],
   },
   quickAnswer:
-    "Nagari businesses can start with a website from ₹10,000, usually ready within two weeks. Android and iOS apps start at ₹40,000, and so does AI automation, while a 700+ page SEO site starts at ₹20,000, a store at ₹50,000 and custom software at ₹60,000. We have no Nagari office and work remotely; you keep ownership of everything.",
+    "Nagari businesses can start with a website from ₹10,000, usually ready within two weeks. Android and iOS apps start at ₹40,000, and so does AI automation, while a 299+ page SEO site starts at ₹20,000, a store at ₹50,000 and custom software at ₹60,000. We have no Nagari office and work remotely; you keep ownership of everything.",
   snapshot: [
     { label: "Location", value: "Municipal town and revenue division headquarters in Chittoor district, on the Andhra Pradesh–Tamil Nadu border" },
     { label: "Textiles", value: "Powerlooms since 1976; the cluster runs roughly 15,000 looms making lungis, dhotis, sarees and shirting fabric" },
@@ -157,7 +157,7 @@ const nagari: CityContent = {
       id: "website-cost-nagari",
       heading: "Website cost in Nagari: what each type of project starts at",
       paragraphs: [
-        "Prices depend on the job. For up to 100 static pages, budget from ₹10,000 and one to two weeks. For a large SEO site of 700+ pages, useful to a textile unit with many designs or a business covering many villages, budget from ₹20,000 and three to five weeks. Android and iOS apps and AI automation each begin at ₹40,000.",
+        "Prices depend on the job. For up to 100 static pages, budget from ₹10,000 and one to two weeks. For a large SEO site of 299+ pages, useful to a textile unit with many designs or a business covering many villages, budget from ₹20,000 and three to five weeks. Android and iOS apps and AI automation each begin at ₹40,000.",
         "A textile store with online ordering starts at ₹50,000 over four to eight weeks. Production or dispatch software starts at ₹60,000 over six to twelve weeks. Ongoing SEO starts at ₹10,000 per month.",
         "Quotes in the Chittoor and Tiruttani area differ a great deal. Before you choose, find out whose name the domain will be in, whether the Tamil and Telugu text is written by a fluent person, how the site performs on a cheap phone, and what yearly costs follow launch. Our itemised figures are on the <a href=\"/pricing/\">pricing page</a>.",
       ],
@@ -209,7 +209,7 @@ const nagari: CityContent = {
     {
       question: "What does a website cost in Nagari?",
       answer:
-        "Small static sites of up to 100 pages begin at ₹10,000 and are usually ready in one to two weeks. From there, a 700+ page SEO site begins at ₹20,000, a store at ₹50,000 and custom software at ₹60,000. You get an itemised quote in around two working days and pay nothing before approving it in writing.",
+        "Small static sites of up to 100 pages begin at ₹10,000 and are usually ready in one to two weeks. From there, a 299+ page SEO site begins at ₹20,000, a store at ₹50,000 and custom software at ₹60,000. You get an itemised quote in around two working days and pay nothing before approving it in writing.",
     },
     {
       question: "How many weeks does a Nagari website or app take?",

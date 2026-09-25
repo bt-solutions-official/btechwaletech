@@ -39,7 +39,7 @@ const renukoot: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Contractor and vendor software", "Hindi and English SEO", "All accounts in your name"],
   },
   quickAnswer:
-    "Renukoot projects begin at ₹10,000 for a website that is normally ready in under two weeks. Android and iOS apps start at ₹40,000, as does AI automation; large 700+ page SEO sites start at ₹20,000, shops at ₹50,000 and contractor or custom software at ₹60,000. We work remotely with no local office, and you own every account.",
+    "Renukoot projects begin at ₹10,000 for a website that is normally ready in under two weeks. Android and iOS apps start at ₹40,000, as does AI automation; large 299+ page SEO sites start at ₹20,000, shops at ₹50,000 and contractor or custom software at ₹60,000. We work remotely with no local office, and you own every account.",
   snapshot: [
     { label: "Location", value: "Industrial town in Sonbhadra district, about 68 km south of Robertsganj, near the Chhattisgarh, Jharkhand, Bihar and Madhya Pradesh borders" },
     { label: "Main industry", value: "Hindalco's integrated aluminium plant, operating since the early 1960s, with its own captive power" },
@@ -136,7 +136,7 @@ const renukoot: CityContent = {
       paragraphs: [
         "Search in Renukoot is mostly local and on phones, in Hindi and English: “hospital in Renukoot”, “school admission Renukoot”, “crane on rent Sonbhadra”, “hotel near Rihand dam”. For nearly all of these the map pack sits at the top of the phone screen, so our first job is the Business Profile.",
         "Our <strong>SEO services in Renukoot</strong> set up or correct that listing: the right category, an accurate pin, hours, real photographs, a services list and a plan for genuine reviews. We then add website pages that answer the questions people actually ask, and link them to the listing.",
-        "Businesses that serve the whole energy belt, such as transporters or equipment hire firms working in Obra, Anpara, Shaktinagar and Singrauli, gain from giving each area its own page within a single site. Where the list of services and places runs long, a big SEO build of 700+ pages is priced from ₹20,000.",
+        "Businesses that serve the whole energy belt, such as transporters or equipment hire firms working in Obra, Anpara, Shaktinagar and Singrauli, gain from giving each area its own page within a single site. Where the list of services and places runs long, a big SEO build of 299+ pages is priced from ₹20,000.",
         "Ongoing search work is ₹10,000 a month onwards, and each month you get a short note on what moved. Nobody can guarantee the top slot, and we will not pretend to. More on <a href=\"/services/seo-services/\">our SEO services</a>.",
       ],
     },
@@ -164,7 +164,7 @@ const renukoot: CityContent = {
       id: "website-cost-renukoot",
       heading: "Website cost in Renukoot: starting prices and how to compare quotes",
       paragraphs: [
-        "The <strong>website cost in Renukoot</strong> follows the job, yet the base numbers are published for anyone to see. Up to 100 static pages begin at ₹10,000. A search-built site of 700+ pages begins at ₹20,000. A mobile app for both Android and iOS, or an AI automation, begins at ₹40,000. Stores begin at ₹50,000, and software written for your firm begins at ₹60,000.",
+        "The <strong>website cost in Renukoot</strong> follows the job, yet the base numbers are published for anyone to see. Up to 100 static pages begin at ₹10,000. A search-built site of 299+ pages begins at ₹20,000. A mobile app for both Android and iOS, or an AI automation, begins at ₹40,000. Stores begin at ₹50,000, and software written for your firm begins at ₹60,000.",
         "The figure goes up with content in two languages, large catalogues, payment integration, logins for staff or customers, and links to Tally or other software. Photography and writing, if you want us to arrange them, are shown separately.",
         "Expect quotes from Sonbhadra and Varanasi developers to differ a lot. Line them up on a few points: whose name is on the domain and server, whether you receive the code, how many change rounds are allowed, how many months of free help follow launch, and the renewal bill each year. A low price on a site you do not control often turns costly later.",
         "Your costed breakdown usually arrives within two working days, and no invoice is raised before you sign off on it. See our <a href=\"/pricing/\">pricing page</a> for the full list.",
@@ -229,7 +229,7 @@ const renukoot: CityContent = {
     {
       question: "What is the website cost in Renukoot?",
       answer:
-        "Base figures: ₹10,000 onwards for a static site, ₹20,000 onwards for a 700+ page SEO site, ₹40,000 onwards for an Android/iOS app or an AI automation, ₹50,000 onwards for a shop and ₹60,000 onwards for custom software. The real number moves with pages, Hindi and English versions, user types and connections to other tools, and every item shows on its own line.",
+        "Base figures: ₹10,000 onwards for a static site, ₹20,000 onwards for a 299+ page SEO site, ₹40,000 onwards for an Android/iOS app or an AI automation, ₹50,000 onwards for a shop and ₹60,000 onwards for custom software. The real number moves with pages, Hindi and English versions, user types and connections to other tools, and every item shows on its own line.",
     },
     {
       question: "How long does it take to build a website in Renukoot?",

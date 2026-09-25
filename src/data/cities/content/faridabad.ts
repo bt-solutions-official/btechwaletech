@@ -36,7 +36,7 @@ const faridabad: CityContent = {
     pills: ["Websites from ₹10,000", "Supplier and OEM vendor sites", "Hindi and English SEO", "Real estate microsites", "WhatsApp automation"],
   },
   quickAnswer:
-    "In Faridabad, a business website from us starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site for a manufacturer, clinic or school starts at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team of three engineers with no local office, and maintenance is free for five months after launch.",
+    "In Faridabad, a business website from us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site for a manufacturer, clinic or school starts at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team of three engineers with no local office, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Industrial belt", value: "Mathura Road, NIT, Ballabgarh and the numbered industrial sectors, developed with HSIIDC" },
     { label: "Anchor manufacturers", value: "Escorts Kubota, whose Faridabad base dates to around 1960, and JCB's plant on Mathura Road at Ballabgarh" },
@@ -74,12 +74,12 @@ const faridabad: CityContent = {
       heading: "How much does a website cost in Faridabad?",
       paragraphs: [
         "Being so close to Delhi, Faridabad businesses receive quotes from everywhere: ₹2,500 from a local operator, ₹15,000 from a freelancer on a marketplace, and ₹80,000 or more from an agency in South Delhi or Gurugram. The cheapest options often mean a recycled template on the developer's hosting. The expensive ones often pay for glossy offices and account managers.",
-        "Our starting prices are published and fixed. A static website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks, ideal for clinics, lawyers, CAs and small shops. A 700+ page SEO site starts at ₹20,000 over three to five weeks, the right size for manufacturers with several product lines, schools and multi-speciality clinics. Online stores start at ₹50,000 over four to eight weeks. Custom applications, such as vendor portals or job-card systems, start at ₹60,000 and take six to twelve weeks. Automation starts at ₹40,000 and monthly SEO at ₹10,000.",
+        "Our starting prices are published and fixed. A static website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks, ideal for clinics, lawyers, CAs and small shops. A 299+ page SEO site starts at ₹20,000 over three to five weeks, the right size for manufacturers with several product lines, schools and multi-speciality clinics. Online stores start at ₹50,000 over four to eight weeks. Custom applications, such as vendor portals or job-card systems, start at ₹60,000 and take six to twelve weeks. Automation starts at ₹40,000 and monthly SEO at ₹10,000.",
         "For manufacturers, the biggest variable is the product catalogue. Twenty well-documented parts are quick; five hundred part numbers spread across old spreadsheets take more time, and we say so in the quote rather than surprising you later.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> five pages with enquiry form and basic SEO for clinics, professionals and small shops.",
-        "<strong>From ₹20,000:</strong> 700+ pages with product or process pages, schema and sitemap.",
+        "<strong>From ₹20,000:</strong> 299+ pages with product or process pages, schema and sitemap.",
         "<strong>From ₹50,000:</strong> online store with UPI and cards for home products, tools and spare parts.",
         "<strong>From ₹60,000:</strong> vendor portals, job-card trackers and dealer systems.",
       ],
@@ -210,7 +210,7 @@ const faridabad: CityContent = {
     {
       question: "How much does a website cost in Faridabad?",
       answer:
-        "With us, a static site starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom application at ₹60,000. NCR quotes range widely, so compare what is included, such as domain ownership, SEO basics, speed and support after launch, not just the headline price.",
+        "With us, a static site starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom application at ₹60,000. NCR quotes range widely, so compare what is included, such as domain ownership, SEO basics, speed and support after launch, not just the headline price.",
     },
     {
       question: "Faridabad me factory ki website banwane me kitna kharcha hai?",
@@ -240,7 +240,7 @@ const faridabad: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. For manufacturers, collecting product data is usually the slowest part, so we start with your main parts and add the rest in batches.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. For manufacturers, collecting product data is usually the slowest part, so we start with your main parts and add the rest in batches.",
     },
     {
       question: "Will I own the domain, hosting and code?",

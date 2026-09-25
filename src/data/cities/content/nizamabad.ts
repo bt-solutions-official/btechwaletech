@@ -35,7 +35,7 @@ const nizamabad: CityContent = {
     pills: ["Websites from ₹10,000", "Telugu, Urdu and English", "Spice and turmeric catalogues", "Rice mill buyer pages", "WhatsApp enquiry tools"],
   },
   quickAnswer:
-    "For Nizamabad businesses, our static websites start at ₹10,000 and take one to two weeks. 700+ page SEO websites start at ₹20,000, online stores at ₹50,000 and AI or WhatsApp automation at ₹40,000. We are a three-engineer remote team with no office in Nizamabad, and we maintain every site free for five months after launch.",
+    "For Nizamabad businesses, our static websites start at ₹10,000 and take one to two weeks. 299+ page SEO websites start at ₹20,000, online stores at ₹50,000 and AI or WhatsApp automation at ₹40,000. We are a three-engineer remote team with no office in Nizamabad, and we maintain every site free for five months after launch.",
   snapshot: [
     { label: "Location", value: "About 186 km north of Hyderabad, where NH 63 begins and NH 44 bypasses the city" },
     { label: "Turmeric trade", value: "The agricultural market yard, started in 1933 over 67 acres, is one of Asia's largest turmeric trading centres" },
@@ -73,12 +73,12 @@ const nizamabad: CityContent = {
       heading: "What you will pay for a website in Nizamabad",
       paragraphs: [
         "Prices you hear locally range from ₹2,500 for a template to ₹50,000 from a Hyderabad agency. The template is often hosted in the designer's account and never updated. The agency site may be excellent, but you pay for their office in Madhapur or Banjara Hills.",
-        "We list our prices openly on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages with mobile layout, enquiry form, map and search basics starts at ₹10,000 and takes one to two weeks. A 700+ page site planned around real search behaviour starts at ₹20,000 and takes three to five weeks. Stores start at ₹50,000, custom web applications at ₹60,000, automation at ₹40,000 and monthly SEO at ₹10,000.",
+        "We list our prices openly on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages with mobile layout, enquiry form, map and search basics starts at ₹10,000 and takes one to two weeks. A 299+ page site planned around real search behaviour starts at ₹20,000 and takes three to five weeks. Stores start at ₹50,000, custom web applications at ₹60,000, automation at ₹40,000 and monthly SEO at ₹10,000.",
         "The final price depends on how much content and how many features you need. A clinic with four doctors is quick. A spice exporter with product grades, curcumin details, packing sizes and certificates needs more pages and careful writing. You receive an itemised quote in about two working days.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> a compact site for a clinic, shop, tutor or agent, with map and WhatsApp button.",
-        "<strong>From ₹20,000:</strong> 700+ pages for firms that want steady enquiries from search.",
+        "<strong>From ₹20,000:</strong> 299+ pages for firms that want steady enquiries from search.",
         "<strong>From ₹50,000:</strong> online store with UPI, cards, shipping rules and order notifications.",
         "<strong>From ₹60,000:</strong> portals, registers and dashboards for traders, mills and institutions.",
       ],
@@ -219,12 +219,12 @@ const nizamabad: CityContent = {
     {
       question: "How much does a website cost in Nizamabad?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. When comparing quotes, ask who will own the domain, whether search setup is included and what happens if something breaks after launch.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. When comparing quotes, ask who will own the domain, whether search setup is included and what happens if something breaks after launch.",
     },
     {
       question: "Nizamabad lo website cheyyadaniki entha avutundi?",
       answer:
-        "Chinna business website ki maa rate ₹10,000 nunchi untundi. 700+ pages SEO website ₹20,000 nunchi, online store ₹50,000 nunchi start avutundi. Prati item kharchu raasi quote istamu, meeru ok cheppina tarvate matrame pani modalu pedatamu. Domain, hosting rendu mee perumeede register chestamu.",
+        "Chinna business website ki maa rate ₹10,000 nunchi untundi. 299+ pages SEO website ₹20,000 nunchi, online store ₹50,000 nunchi start avutundi. Prati item kharchu raasi quote istamu, meeru ok cheppina tarvate matrame pani modalu pedatamu. Domain, hosting rendu mee perumeede register chestamu.",
     },
     {
       question: "Do you have an office in Nizamabad?",
@@ -254,7 +254,7 @@ const nizamabad: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. Most delays come from waiting for photos and product details, so we send a checklist at the start.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. Most delays come from waiting for photos and product details, so we send a checklist at the start.",
     },
     {
       question: "What can WhatsApp automation do for my business?",

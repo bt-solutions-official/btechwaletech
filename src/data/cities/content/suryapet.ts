@@ -35,7 +35,7 @@ const suryapet: CityContent = {
     pills: ["Websites from ₹10,000", "Telugu and English pages", "Rice mill and trader sites", "Hospital and college sites", "5 months free maintenance"],
   },
   quickAnswer:
-    "A Suryapet business can get a static website from us from ₹10,000, usually ready within two weeks. SEO websites of 700+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, and online stores at ₹50,000. We are a remote team with no office in Suryapet, and maintenance is free for five months after launch.",
+    "A Suryapet business can get a static website from us from ₹10,000, usually ready within two weeks. SEO websites of 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, and online stores at ₹50,000. We are a remote team with no office in Suryapet, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Position", value: "District headquarters on NH65, about 134 km from Hyderabad and 138 km from Vijayawada" },
     { label: "District", value: "Formed in 2016, with Suryapet, Kodad and Huzurnagar revenue divisions and 23 mandals" },
@@ -160,7 +160,7 @@ const suryapet: CityContent = {
       heading: "Website costs in Suryapet and what changes the quote",
       paragraphs: [
         "Every price we quote is a starting price. A static website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. It suits most shops, clinics, schools and small traders who need a clear, trustworthy site with a map, contact form and WhatsApp button.",
-        "A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. It suits businesses with many products, services or locations, such as a distributor with a large catalogue or a hospital with many departments and doctors. Online stores with UPI and Razorpay start at ₹50,000, and custom web applications, such as a mill register or a college management tool, start at ₹60,000.",
+        "A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. It suits businesses with many products, services or locations, such as a distributor with a large catalogue or a hospital with many departments and doctors. Online stores with UPI and Razorpay start at ₹50,000, and custom web applications, such as a mill register or a college management tool, start at ₹60,000.",
         "WhatsApp and AI automation starts at ₹40,000, and monthly SEO starts at ₹10,000 a month. After the five free months of maintenance, you can continue from ₹8,000 a month or pay per change. Our <a href=\"/pricing/\">pricing page</a> sets out each plan and what it includes.",
         "Scope decides the final figure: the number of pages and languages, the size of a product catalogue, links to billing or accounting software, and any custom features. You receive an itemised quote in writing within about two working days and pay nothing until you approve it. If a smaller project will meet your needs, we will say so.",
       ],
@@ -214,7 +214,7 @@ const suryapet: CityContent = {
     {
       question: "How much does a website cost in Suryapet?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. The final amount depends on pages, languages and features. You receive an itemised written quote within about two working days, and nothing is billed until you approve it.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. The final amount depends on pages, languages and features. You receive an itemised written quote within about two working days, and nothing is billed until you approve it.",
     },
     {
       question: "Suryapet lo website cheyinchadaniki entha kharchu avutundi?",
@@ -244,7 +244,7 @@ const suryapet: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. Most delays come from waiting for photographs and content, so we send a checklist on the first day.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. Most delays come from waiting for photographs and content, so we send a checklist on the first day.",
     },
     {
       question: "Can you build a website for a hospital or clinic?",

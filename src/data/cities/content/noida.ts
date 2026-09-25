@@ -35,7 +35,7 @@ const noida: CityContent = {
     pills: ["From ₹10,000", "MVPs from ₹60,000", "Sector-level local SEO", "AI and WhatsApp agents", "Code handed over"],
   },
   quickAnswer:
-    "In Noida we build static websites from ₹10,000 in one to two weeks, 700+ page SEO sites from ₹20,000, online stores from ₹50,000, AI automation from ₹40,000 and custom web apps or MVPs from ₹60,000. We are a remote team with no Noida office, you own the code and accounts, and maintenance is free for five months after launch.",
+    "In Noida we build static websites from ₹10,000 in one to two weeks, 299+ page SEO sites from ₹20,000, online stores from ₹50,000, AI automation from ₹40,000 and custom web apps or MVPs from ₹60,000. We are a remote team with no Noida office, you own the code and accounts, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "IT and offices", value: "Sector 62, Sector 63 and the Noida–Greater Noida Expressway belt from Sector 125 to Sector 144" },
     { label: "Manufacturing", value: "Phase 2 Hosiery Complex for garments and knitwear, plus electronics and mobile phone plants around Sector 81 and Phase 2" },
@@ -73,7 +73,7 @@ const noida: CityContent = {
       heading: "What a website or web app costs in Noida",
       paragraphs: [
         "Noida quotes range from ₹4,000 template sites sold by freelancers in Sector 63 to agency proposals of several lakh rupees with monthly retainers. Low quotes often skip search setup and keep hosting in the seller's account. High ones often include account managers you will never need. An itemised quote is the only fair way to compare.",
-        "Our starting prices are public. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site starts at ₹20,000 and takes three to five weeks. An online store starts at ₹50,000 and takes four to eight weeks. AI automation projects start at ₹40,000. MVPs, SaaS products, portals and custom web apps start at ₹60,000 and usually take six to twelve weeks, depending on scope.",
+        "Our starting prices are public. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000 and takes three to five weeks. An online store starts at ₹50,000 and takes four to eight weeks. AI automation projects start at ₹40,000. MVPs, SaaS products, portals and custom web apps start at ₹60,000 and usually take six to twelve weeks, depending on scope.",
         "See our <a href=\"/pricing/\">pricing page</a> for what each tier includes. We bill nothing until you approve the written quote, and we tell you up front if something is better done with an off-the-shelf tool.",
       ],
       list: [
@@ -219,12 +219,12 @@ const noida: CityContent = {
     {
       question: "How much does a website cost in Noida?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web apps or MVPs at ₹60,000. A clinic or tutor usually needs the first, an exporter or B2B firm the second, and a startup the last. You get an itemised quote and pay nothing until you approve it in writing.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web apps or MVPs at ₹60,000. A clinic or tutor usually needs the first, an exporter or B2B firm the second, and a startup the last. You get an itemised quote and pay nothing until you approve it in writing.",
     },
     {
       question: "Noida me website banwane ka kitna kharcha hota hai?",
       answer:
-        "Humare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte me live ho jaati hai. 700+ page wali SEO website ₹20,000 se, online store ₹50,000 se aur startup ka MVP ya custom web app ₹60,000 se banta hai. Pehle likhit quote milta hai, aur approval ke bina koi bill nahi.",
+        "Humare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte me live ho jaati hai. 299+ page wali SEO website ₹20,000 se, online store ₹50,000 se aur startup ka MVP ya custom web app ₹60,000 se banta hai. Pehle likhit quote milta hai, aur approval ke bina koi bill nahi.",
     },
     {
       question: "Do you have an office in Noida?",

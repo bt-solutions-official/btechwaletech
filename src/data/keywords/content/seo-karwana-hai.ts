@@ -1,0 +1,495 @@
+import { inr, usd } from "@data/countries/international";
+import type { FreelanceContent } from "@data/freelance/types";
+
+const P = {
+  site: inr("Static"), siteUsd: usd("Static"), seoSite: inr("SEO website"), seoSiteUsd: usd("SEO website"),
+  shop: inr("Ecommerce"), shopUsd: usd("Ecommerce"), app: inr("Android"), appUsd: usd("Android"),
+  software: inr("Custom web app"), softwareUsd: usd("Custom web app"), ai: inr("AI automation"), aiUsd: usd("AI automation"),
+  seo: inr("Monthly SEO"), seoUsd: usd("Monthly SEO"), care: inr("Maintenance"), careUsd: usd("Maintenance"),
+};
+
+const content: FreelanceContent = {
+  path: "/seo-karwana-hai/",
+  crumb: "SEO karwana hai",
+  updated: "2026-09-25",
+  meta: {
+    title: `SEO Karwana Hai? Monthly Kaam, ${P.seo} se`,
+    description: `SEO karwana hai? Har mahine kya kaam hota hai, result kab dikhta hai, kaunse sawaal poochein aur fake guarantee kaise pehchanein. Monthly SEO ${P.seo} se.`,
+    keywords: [
+      "seo karwana hai", "seo karwana hai kaise", "seo karwane ka kharcha", "seo karwane me kitna paisa lagta hai",
+      "monthly seo charges india", "seo kitne din me result deta hai", "seo wala chahiye", "seo expert chahiye",
+      "website ka seo karwana hai", "google par website upar kaise laye", "seo service for small business india",
+      "local seo karwana hai", "seo freelancer india", "seo agency vs freelancer", "seo me kya kaam hota hai",
+      "seo guarantee fake", "seo package price india", "seo karwana hai delhi", "seo karwana hai pune",
+      "seo karwana hai lucknow", "seo karwana hai indore", "seo near me", "hire seo expert india",
+      "seo report me kya hota hai", "google search console setup", "seo karwana chahiye ya ads",
+    ],
+  },
+  hero: {
+    eyebrow: "Business owners ke liye · SEO hire karne se pehle",
+    h1: "SEO karwana hai? Pehle jaaniye har mahine kya kaam hoga, kitna time lagega aur kise hire karein",
+    lede: `SEO karwana hai toh sabse pehle yeh samajh lijiye ki SEO ek baar ka button nahi, har mahine chalne wala kaam hai: website ki technical safai, sahi pages banana, content likhna, Google Business Profile sambhalna aur Search Console ka data padhna. Hum BtechWaleTech hain, teen freelance developers, aur monthly SEO ${P.seo} se karte hain. Is page par milega ki kaam mein kya-kya shamil hona chahiye, result kab tak aate hain, provider se kaunse sawaal poochne hain aur <a href='/how-long-does-seo-take/'>SEO timeline</a> ko lekar jhoothe waadon se kaise bachna hai.`,
+    pills: [`Monthly SEO ${P.seo} se`, "Search Console access aapke paas", "Local SEO aur Google Maps", "Technical fixes khud developers karte hain", "Hindi mein baat", "Koi ranking guarantee nahi", "Har mahine saaf report"],
+    origin: "Teen freelance developers, India se remote · WhatsApp par hafte ke saaton din jawab",
+  },
+  facts: [
+    ["Monthly SEO", `${P.seo} se, ongoing`],
+    ["SEO website (299+ pages)", `${P.seoSite} se · 3–5 hafte`],
+    ["Pehla quote", "Line-by-line, lagbhag 2 working din mein"],
+    ["Accounts kiske naam", "Aapke: Search Console, GA4, Business Profile"],
+    ["Result ka time", "Mahino mein, dinon mein nahi"],
+    ["Ranking promise", "Koi nahi; koi bhi guarantee nahi de sakta"],
+  ],
+  stats: [
+    { value: "3", label: "Freelance developers jo SEO aur code dono sambhalte hain" },
+    { value: "2", label: "Working din mein itemised SEO quote" },
+    { value: "0", label: "Platform ya middleman fee" },
+    { value: "7", label: "Din hafte mein WhatsApp par jawab" },
+  ],
+  answer: {
+    heading: "SEO karwana hai toh kitna kharcha aur kitna time lagta hai?",
+    text: `SEO karwana hai toh monthly budget rakhiye, one-time nahi. Hamare saath monthly SEO ${P.seo} se shuru hota hai; isme technical fixes, pages ka content, Google Business Profile aur Search Console report aati hai. Pehle badlav aam taur par kuch hafton mein dikhte hain, par leads mein asar mahino mein aata hai. Jo provider pakki first-page ranking ka waada kare, usse door rahiye.`,
+    more: `Kaunsa model sahi hai, yeh <a href='/one-time-vs-monthly-seo/'>one-time vs monthly SEO</a> par samjhiye, aur chhote business ke scope ke liye <a href='/seo-services-for-small-business/'>SEO services for small business</a> dekhiye.`,
+  },
+  snapshot: {
+    caption: "SEO hire karne se pehle ek nazar mein",
+    rows: [
+      { label: "Kaam ka type", value: "Har mahine chalne wala, ek baar ka nahi" },
+      { label: "Monthly SEO", value: `${P.seo} se, scope ke hisaab se` },
+      { label: "Pehla mahina", value: "Audit, tracking setup, technical fixes" },
+      { label: "Lead par asar", value: "Aam taur par kuch mahino baad" },
+      { label: "Report", value: "Search Console clicks, queries, pages, enquiries" },
+      { label: "Ownership", value: "Saare Google accounts aapke naam" },
+      { label: "Red flag", value: "Pakki ranking ya “Google se setting” ka daava" },
+    ],
+  },
+  services: {
+    eyebrow: "SEO karwana hai toh hum kya karte hain",
+    heading: "Monthly SEO ke andar asli kaam, alag-alag hisson mein",
+    note: "Har business ko har cheez nahi chahiye. Ek clinic ko local SEO zyada chahiye, ek manufacturer ko product pages. Quote mein sirf wahi lines hoti hain jo aapke case mein kaam aayengi.",
+    cards: [
+      { name: "Monthly SEO retainer", note: `Technical checks, naye aur sudhre hue pages, internal links, Business Profile updates aur ek saaf monthly report, ${P.seo} se. Har mahine likha hota hai ki kya kiya gaya.`, href: "/services/seo-services/", size: "lg" },
+      { name: "SEO audit pehle", note: "Kaam shuru karne se pehle site ki crawl, indexing, speed aur content ki jaanch, taaki paisa sahi jagah lage. Audit ki findings aapke paas rehti hain, aap hire karein ya na karein.", href: "/seo-audit-cost-in-india/", size: "lg" },
+      { name: "Local SEO aur Google Maps", note: "Business Profile ki categories, photos, reviews ka jawab dene ki aadat, aur shehar ke hisaab se service pages. Dukaan, clinic aur service business ke liye sabse pehla kadam.", href: "/local-seo-packages-india/", size: "md" },
+      { name: "Technical SEO fixes", note: "Slow pages, broken links, galat redirects, duplicate pages aur indexing errors. Hum developers hain, isliye fix khud code mein karte hain, sirf report nahi dete.", href: "/technical-seo-freelancer/", size: "md" },
+      { name: "Content aur service pages", note: "Aapke customers jo search karte hain unke hisaab se pages: har service ka alag page, sawaal-jawab, aur Hindi ya English jaisa aapka market ho.", href: "/on-page-seo-services/", size: "md" },
+      { name: "SEO website (299+ pages)", note: `Jab dozens of cities ya services cover karni hon, structured data se bani badi SEO website ${P.seoSite} se.`, href: "/programmatic-seo-services/", size: "sm" },
+      { name: "AI search visibility", note: "Google AI Overviews aur ChatGPT jaise tools aapke page ka jawab quote kar sakein, iske liye saaf answer blocks aur schema.", href: "/ai-overview-optimization/", size: "sm" },
+      { name: "Tracking setup", note: "Search Console, GA4 aur WhatsApp ya form enquiries ki counting, taaki pata chale ki SEO se lead aa rahi hai ya nahi.", href: "/ga4-setup-service/", size: "sm" },
+    ],
+  },
+  comparison: {
+    heading: "SEO karwana hai: kis tarah ke provider se kya milta hai",
+    note: "Teen aam raaste. Budget aur risk dono ko saath mein tauliye.",
+    columns: ["Aap kya dekh rahe hain", "“Page 1 guarantee” wala sasta seller", "Bada agency retainer", "BtechWaleTech"],
+    rows: [
+      ["Promise", "Pakki ranking, kuch hafton mein", "Aam taur par sambhal kar", "Koi ranking promise nahi, kaam ka plan pakka"],
+      ["Monthly kaam dikhta hai?", "Aksar sirf backlink count", "Detailed deck, kabhi-kabhi lamba", "Har kaam ki list aur Search Console data"],
+      ["Technical fixes", "Nahi karta, sirf suggest", "Alag dev team, alag charge", "Developers khud code mein fix karte hain"],
+      ["Accounts kiske naam", "Kabhi-kabhi seller ke naam", "Contract ke hisaab se", "Hamesha aapke naam, pehle din se"],
+      ["Link building", "Bulk, sasti links", "Outreach, mehenga", "Sirf asli mentions aur local citations"],
+      ["Baat kisse hoti hai", "Sales person", "Account manager", "Wahi teen log jo kaam karte hain"],
+      ["Starting budget", "Bahut kam dikhta hai", "Sabse zyada", `Monthly SEO ${P.seo} se`],
+      ["Chhodna ho toh", "Links hat sakte hain, ranking gir sakti hai", "Notice ke niyam contract mein", "Written quote ke terms ke hisaab se, data aapka"],
+      ["Kiske liye theek", "Kisi ke liye nahi", "Bade brands, bade budget", "Chhote aur medium business, clinics, shops, manufacturers"],
+    ],
+    fine: "Agar aapko har din office mein baithne wala SEO executive ya bees logon ki marketing team chahiye, toh in-house hire ya badi agency behtar rahegi.",
+  },
+  pricing: {
+    heading: "SEO karwana hai: pricing kaise banti hai",
+    note: `Monthly SEO ${P.seo} se shuru hota hai aur scope ke saath badhta hai. Teen cheezein quote ko sabse zyada hilati hain: kitne shehar ya locations target karne hain, har mahine kitne naye pages ya articles likhne hain, aur website ki technical haalat kitni kharab hai. Agar site itni purani hai ki fix karne se naya banana sasta pade, toh hum pehle yeh bata dete hain aur static website ${P.site} se ya SEO website ${P.seoSite} se ka option dete hain. Neeche wali table sirf starting prices dikhati hai; aapka quote har line ke saath aata hai.`,
+  },
+  guideLabel: "SEO karwane se pehle poori guide",
+  guide: [
+    {
+      id: "seo-kya-hai",
+      heading: "SEO karwana hai, par SEO mein asal mein hota kya hai?",
+      paragraphs: [
+        `SEO ka matlab hai apni website aur Google Business Profile ko is tarah taiyaar karna ki log jab aapki service search karein, toh Google aapko dikhaye, bina har click ka paisa diye. Seedhi baat: SEO karwana hai toh aap kisi ko apni online dukaan ki safai, sajawat aur lagataar dekhbhaal ka kaam de rahe hain.`,
+        `Google khud apni documentation mein likhta hai ki SEO providers aam taur par site ke content aur structure ka review, hosting aur redirects jaisi technical salah, content development, keyword research aur generative AI ke liye optimisation jaise kaam karte hain. Yeh list isliye kaam ki hai kyunki isse pata chalta hai ki SEO sirf "backlinks" nahi hai.`,
+        `Chhote business ke liye SEO teen hisson mein bant jaata hai:`,
+      ],
+      list: [
+        `<strong>Technical:</strong> site Google ko theek se dikh rahi hai ya nahi, pages index ho rahe hain ya nahi, mobile par jaldi khulti hai ya nahi.`,
+        `<strong>Content:</strong> har service, product aur shehar ke liye aisa page jo customer ke sawaal ka poora jawab de.`,
+        `<strong>Local aur reputation:</strong> Google Business Profile, reviews, aur doosri websites par aapka naam aur pata sahi likha ho.`,
+      ],
+      after: [
+        `Agar in teeno mein se koi ek bhi toota hua hai, toh baaki do ka asar kam ho jaata hai. Isliye pehle mahine mein hum audit karte hain, phir kaam ki order tay karte hain. Bilkul naye business ke liye <a href='/seo-for-new-website/'>new website ke liye SEO</a> alag tarah se shuru hota hai.`,
+      ],
+    },
+    {
+      id: "monthly-kaam",
+      heading: "SEO karwana hai toh har mahine kya kaam hona chahiye?",
+      paragraphs: [
+        `Har mahine ka kaam likha hua, gina ja sakne wala aur aapki website par dikhne wala hona chahiye. Agar monthly report mein sirf "200 backlinks bane" likha hai aur website par kuch nahi badla, toh samajhiye paisa galat jagah ja raha hai.`,
+        `Ek aam monthly cycle hamare saath aisa dikhta hai. Mahine ki shuruaat mein Google Search Console dekhte hain: kaunsi queries par impressions badhe, kaunse pages gire, kaunse naye errors aaye. Phir us mahine ke 3–5 kaam chunte hain, jaise do naye service pages, ek purane page ka rewrite, speed ka ek fix aur Business Profile par naye photos. Mahine ke end mein report bhejte hain jisme har kaam ka link hota hai.`,
+      ],
+      subs: [
+        { heading: "Har mahine hone wale kaam", text: "Search Console errors ki jaanch, naye ya sudhre hue pages, internal linking, Business Profile post aur photos, reviews ke jawab ka reminder, aur ek report." },
+        { heading: "Har teen mahine wale kaam", text: "Poore site ka technical crawl, competitors ke naye pages dekhna, keyword list ko update karna aur jo pages kaam nahi kar rahe unhe merge ya hataane ka faisla." },
+        { heading: "Zaroorat padne par", text: "Site migration, domain change, core update ke baad traffic girna, ya naye shehar mein expand karna. Yeh alag se quote hota hai." },
+      ],
+      after: [
+        `Yaad rakhiye, SEO karwana hai toh kaam ki quantity se zyada uski direction maayne rakhti hai. Ek sahi page das bekaar blog posts se zyada leads la sakta hai.`,
+      ],
+    },
+    {
+      id: "kitna-kharcha",
+      heading: "SEO karwane ke kitne paise lagte hain, aur quote kyun alag-alag aate hain?",
+      paragraphs: [
+        `Hamare saath monthly SEO ${P.seo} se shuru hota hai. Market mein quotes bahut alag-alag hote hain, aur farak aam taur par scope se aata hai, naam se nahi.`,
+        `Jab aap teen providers se quote maangte hain aur ek bahut sasta, ek beech ka aur ek bahut mehenga aata hai, toh har quote se yeh poochiye: har mahine kitne pages banenge ya sudhrenge? Technical fixes kaun karega? Kitne shehar target honge? Content kaun likhega aur kis bhasha mein? Jawab milte hi farak samajh aa jaata hai.`,
+      ],
+      list: [
+        `<strong>Locations:</strong> ek shehar ka clinic aur das shehron mein branches wala business, dono ka kaam alag hai.`,
+        `<strong>Competition:</strong> metro mein "dentist" aur chhote shehar mein "dentist", dono mein mehnat ka farak bahut bada hai.`,
+        `<strong>Site ki haalat:</strong> tooti hui ya bahut slow site pehle theek karni padti hai.`,
+        `<strong>Content ki matra:</strong> har mahine kitne naye pages ya articles chahiye.`,
+        `<strong>Bhasha:</strong> Hindi aur English dono mein pages ka kaam zyada hota hai.`,
+      ],
+      after: [
+        `Agar sirf ek baar ki jaanch chahiye, toh <a href='/seo-audit-cost-in-india/'>SEO audit cost</a> alag page par samjhaya hai. Paise ko ads ke saath compare karna ho toh <a href='/seo-vs-google-ads/'>SEO vs Google Ads</a> padhiye.`,
+      ],
+    },
+    {
+      id: "result-kab",
+      heading: "SEO karwane ke baad result kab dikhega?",
+      paragraphs: [
+        `Pehle chhote badlav, jaise naye pages ka index hona aur impressions ka badhna, aam taur par kuch hafton mein Search Console mein dikhne lagte hain. Enquiries aur calls mein asar aane mein mahine lagte hain, aur competition jitna zyada, time utna lamba.`,
+        `Google ki apni salah hai ki SEO hire karte waqt unse poochiye ki woh kis tarah ke result aur kitne time mein expect karte hain. Matlab Google bhi maanta hai ki koi ek fixed timeline nahi hoti. Jo provider "15 din mein page 1" bolta hai, woh ya toh aapke naam par search kar ke dikha dega (jahan aap pehle se upar hain), ya koi aisi keyword pakdega jise koi search hi nahi karta.`,
+        `Timeline ko teen cheezein tay karti hain: website kitni purani aur saaf hai, aapke area mein kitne log wahi service de rahe hain, aur har mahine kitna asli kaam ho raha hai. Isliye hum pehle mahine mein koi number promise nahi karte, par batate hain ki kaunse signal pehle dikhne chahiye aur kab.`,
+      ],
+      after: [
+        `Detail mein timeline <a href='/how-long-does-seo-take/'>how long does SEO take</a> par hai. Agar website Google par dikh hi nahi rahi, toh pehle <a href='/website-not-showing-on-google/'>website not showing on Google</a> wala problem theek karna hoga.`,
+      ],
+    },
+    {
+      id: "abhi-chahiye",
+      heading: "Kya aapko abhi SEO karwana chahiye, ya pehle kuch aur?",
+      paragraphs: [
+        `Har business ke liye pehla kadam SEO nahi hota, chahe aapko lag raha ho ki SEO karwana hai. Agar website nahi hai, website mobile par tooti hui hai, ya Google Business Profile hi nahi bana, toh pehle wahan paisa lagaiye.`,
+        `Ek simple decision rule use kijiye. Agar aapke paas Business Profile nahi hai aur customer aapke area se aate hain, toh pehle <a href='/google-map-par-dukan-kaise-dale/'>Google Map par dukan daaliye</a>; yeh free hai aur local SEO ki neev hai. Agar website 3–4 saal purani hai, Wix ya kisi builder par bani hai aur mobile par slow hai, toh redesign ke saath SEO shuru kijiye, alag-alag nahi. Agar aapko agle hafte se hi leads chahiye, toh ads saath mein chalaiye aur SEO ko lambi investment maaniye.`,
+        `SEO tab sabse zyada kaam karta hai jab customer pehle Google par search karta hai: doctor, CA, coaching, interior designer, packers and movers, manufacturer, B2B supplier. Agar aapke customer sirf Instagram reels se aate hain aur Google par koi aapki category search hi nahi karta, toh SEO ka asar dheema hoga.`,
+      ],
+      after: [
+        `Website hi nahi hai? <a href='/website-banwana-hai/'>Website banwana hai</a> wala page pehle padhiye. Website hai par enquiries nahi aati, toh <a href='/website-not-generating-leads/'>website not generating leads</a> dekhiye.`,
+      ],
+    },
+    {
+      id: "sawaal",
+      heading: "SEO provider hire karne se pehle kaunse sawaal poochein?",
+      paragraphs: [
+        `Agar aapko SEO karwana hai, toh sahi sawaal poochne se 10 minute mein pata chal jaata hai ki saamne wala kaam jaanta hai ya sirf bechta hai. Google ki apni "Do you need an SEO?" guide bhi yahi kehti hai ki pichla kaam dekhiye, poochiye ki woh Google Search Essentials follow karte hain ya nahi, aur woh aapke industry aur area mein kitna experience rakhte hain.`,
+        `Hum yeh list aur aage le jaate hain. Inme se har sawaal ka seedha jawab milna chahiye:`,
+      ],
+      list: [
+        `Pehle mahine mein aap exactly kya karenge? Kaam ki list dijiye.`,
+        `Kya Search Console aur GA4 mere naam par rahenge, aur aapko sirf user access milega?`,
+        `Technical fixes aap khud karenge ya mere developer ko karne honge?`,
+        `Links kahan se aayenge? Kya aap links kharidte hain?`,
+        `Monthly report mein kya hoga? Ek sample dikhaiye.`,
+        `Agar main chhe mahine baad band karun, toh kya mere pages aur content mere paas rahenge?`,
+        `Kya aap mere business ki category mein pehle kaam kar chuke hain? Kya seekha?`,
+      ],
+      after: [
+        `Agar koi in sawaalon par ghabra jaye ya "yeh hamara secret method hai" bole, toh wahi aapka jawab hai. Freelancer aur agency ke beech ke sawaal <a href='/seo-agency-vs-freelancer/'>SEO agency vs freelancer</a> par hain.`,
+      ],
+    },
+    {
+      id: "red-flags",
+      heading: "Fake SEO guarantee ko kaise pehchanein: 8 red flags",
+      paragraphs: [
+        `Jab aap kisi ko bolte hain ki SEO karwana hai, sabse bada red flag hai pakki ranking ka waada. Google ki documentation saaf kehti hai: koi bhi Google par number 1 ranking guarantee nahi kar sakta. Google yeh bhi chetavni deta hai ki jo log Google ke saath "special relationship" ya "priority submit" ka daava karein, unse bachiye.`,
+        `Baaki red flags jo hum baar-baar dekhte hain:`,
+      ],
+      list: [
+        `Bina maange email ya WhatsApp message: "Aapki website Google par nahi hai, hum 7 din mein page 1 karenge."`,
+        `"Hazaaron search engines mein submit karenge" jaisa waada. Aaj India mein matter karne wale search engines gine-chune hain.`,
+        `Har mahine sirf backlinks ki ginti, bina yeh bataye ki links kahan se aaye.`,
+        `Aapke Search Console ya Business Profile ka owner access maangna, ya naya account apne naam se banana.`,
+        `Kaam ka tareeka batane se mana karna.`,
+        `Lock-in contract jisme chhodne par aapke hi pages hata diye jaayein.`,
+        `Kisi aur shehar ke naam ke saath "fake address" wale Business Profile banane ka sujhaav.`,
+        `Report mein sirf woh keywords jinhe koi search nahi karta.`,
+      ],
+      after: [
+        `Inme se ek bhi flag dikhe toh ruk jaiye. Google ki spam policies ke khilaaf kaam ka nuksaan aapki website uthati hai, provider nahi. Penalty lag chuki ho toh <a href='/google-penalty-recovery-services/'>penalty recovery</a> alag kaam hai.`,
+      ],
+    },
+    {
+      id: "local-vs-national",
+      heading: "Local SEO, national SEO ya ecommerce SEO: aapko kaunsa chahiye?",
+      paragraphs: [
+        `Jis area mein aapke customer hain, wahi SEO ka type tay karta hai. Ek shehar ya kuch mohallon se customers aate hain toh local SEO; poore India se toh national SEO; online products bechte hain toh ecommerce SEO.`,
+        `Local SEO mein sabse bada hissa Google Business Profile ka hai. Google ke mutabiq local results teen cheezon par tay hote hain: relevance (profile search se kitna match karti hai), distance (business searcher se kitni door hai) aur prominence (business kitna jaana-maana hai, jisme reviews aur links bhi aate hain). Distance aap badal nahi sakte, baaki do par kaam hota hai.`,
+        `National SEO mein content aur authority ka role bada hota hai: har service ka gehra page, industry ke sawaalon ke jawab, aur doosri trusted sites par mention. Ecommerce SEO mein category pages, product schema, filters se bane duplicate URLs aur Merchant Center data dhyaan maangte hain.`,
+      ],
+      after: [
+        `Kai business ko do type saath mein chahiye, jaise ek manufacturer jiska showroom local hai par dealers poore desh mein hain. Aise case mein hum local ko pehle theek karte hain kyunki woh jaldi signal deta hai. Multi-branch business ke liye <a href='/multi-location-seo/'>multi-location SEO</a> dekhiye.`,
+      ],
+    },
+    {
+      id: "report",
+      heading: "Monthly SEO report mein kya hona chahiye?",
+      paragraphs: [
+        `SEO karwana hai toh report par sabse zyada dhyaan dijiye. Achhi report teen sawaalon ka jawab deti hai: is mahine kya kaam hua, Google par kya badla, aur business ko kya mila. Agar report 30 pages ki hai par in teeno ka jawab nahi deti, toh woh report nahi, decoration hai.`,
+        `Hamari report ka dhaancha simple hai. Upar kaam ki list, har item ke link ke saath. Phir Google Search Console se clicks, impressions aur average position ka trend, pichhle mahine aur pichhle saal ke saath. Phir top queries aur top pages. Phir Business Profile se calls, direction requests aur website clicks. Aur akhir mein enquiries, jitna tracking se gin paate hain, form aur WhatsApp clicks mila kar.`,
+        `Ek baat ka dhyaan rakhiye: "average position" akela number dhokha de sakta hai. Naye keywords par dikhna shuru hone se average position kabhi-kabhi girti dikhti hai jabki traffic badh raha hota hai. Isliye hum clicks aur enquiries ko pehle rakhte hain.`,
+      ],
+      after: [
+        `Tracking theek se set nahi hai toh report adhoori rahegi. <a href='/conversion-tracking-setup/'>Conversion tracking setup</a> aur <a href='/ga4-setup-service/'>GA4 setup</a> isi liye pehle mahine ka kaam hain.`,
+      ],
+    },
+    {
+      id: "ownership",
+      heading: "Accounts aur data: kya kabhi kisi ko nahi dena chahiye?",
+      paragraphs: [
+        `Domain, hosting, Google Search Console, GA4 aur Google Business Profile, paanchon ka owner aap hone chahiye. SEO provider ko sirf user ya manager access dijiye, owner nahi.`,
+        `Yeh niyam isliye zaroori hai kyunki SEO provider badalte rehte hain, par aapka business wahi rehta hai. Hum aksar aise business se milte hain jinka Business Profile kisi purane employee ya pichle provider ke Gmail par bana tha, aur ab koi access nahi hai. Wapas lena mumkin hai, par mehnat aur time dono lagta hai.`,
+        `Google bhi apni SEO guide mein chetavni deta hai ki audit ke naam par Search Console ka write access maangna shak ki baat hai. Hum sirf utna access maangte hain jitna kaam ke liye chahiye, aur kaam khatam hone par aap use hata sakte hain.`,
+      ],
+      list: [
+        `Domain registrar ka login aapke email par.`,
+        `Search Console property ka owner aap, hum "full user".`,
+        `Business Profile ka primary owner aap, hum manager.`,
+        `Website ka code aur content ka backup aapke paas.`,
+      ],
+      after: [
+        `Yahi niyam website banwate waqt bhi lagta hai; <a href='/website-kaise-banwaye/'>website kaise banwaye</a> par poori ownership checklist hai.`,
+      ],
+    },
+    {
+      id: "technical",
+      heading: "Technical SEO: speed, indexing aur Core Web Vitals kyun pehle aate hain",
+      paragraphs: [
+        `Agar Google aapka page padh hi nahi pa raha ya mobile par page itna slow hai ki log wapas chale jaate hain, toh content aur links ka asar aadha reh jaata hai. Isliye technical SEO pehle mahine ka sabse bada hissa hota hai.`,
+        `India mein yeh aur zaroori hai kyunki bahut se customers budget Android phone aur mobile data par search karte hain. Bhaari sliders, 5 MB ki photos aur das plugin wali WordPress site aise phone par ruk-ruk ke khulti hai. Google ke Core Web Vitals (LCP, INP, CLS) isi experience ko naapte hain, aur Search Console unki report deta hai.`,
+        `Technical checklist mein aam taur par yeh aata hai: pages index ho rahe hain ya nahi, robots.txt aur sitemap sahi hain ya nahi, har page ka ek hi canonical URL hai ya nahi, http se https redirect theek hai ya nahi, 404 pages aur redirect chains, images ka size, aur schema markup (LocalBusiness, FAQ, Product jaise).`,
+      ],
+      after: [
+        `Hamare team mein developers hain, isliye yeh fixes hum khud code mein karte hain. Agar aapki site kisi aur developer ne banayi hai, toh hum unke liye saaf task list bana dete hain. Core Web Vitals fail ho rahe hon toh <a href='/core-web-vitals-assessment-failed/'>Core Web Vitals assessment failed</a> dekhiye.`,
+      ],
+    },
+    {
+      id: "content",
+      heading: "Content: kaunse pages sach mein leads laate hain?",
+      paragraphs: [
+        `Chhote aur medium business ke liye sabse zyada leads service pages aur location pages laate hain, general blog posts nahi. "Dental implant in Indore" ka ek achha page "Daant saaf rakhne ke 10 tips" wale blog se zyada calls la sakta hai.`,
+        `Achhe service page mein hota hai: service kya hai aur kiske liye, process, kitna time lagta hai, starting price ya price kis par depend karta hai, aam sawaal, aur ek saaf WhatsApp ya call button. Location pages tabhi banaiye jab aap us area mein sach mein service dete hain; sirf shehar ka naam badal kar same page copy karna Google ki nazar mein low-value content hai.`,
+        `Blog tab kaam aata hai jab customer kharidne se pehle research karta hai, jaise "coaching institute ke liye app kaise banaye" ya "GST registration ke liye kaunse documents". Aise articles ko service page se jodiye taaki padhne wala enquiry tak pahunche.`,
+      ],
+      after: [
+        `Content likhne mein aapka input zaroori hai: aapke customers kya poochte hain, aapka process kya hai, aapki pricing kaise banti hai. Yeh jaankari sirf aapke paas hai, aur yahi aapke pages ko copy-paste content se alag banati hai.`,
+      ],
+    },
+    {
+      id: "hindi-ai",
+      heading: "Hindi SEO aur AI search: ChatGPT aur AI Overviews mein kaise dikhein?",
+      paragraphs: [
+        `Agar aapke customer Hindi ya Hinglish mein search karte hain, toh unhi shabdon mein pages banaiye. Bahut se log "seo karwana hai" ya "dukan google par kaise dale" jaise phrases type karte hain, aur English-only site un tak nahi pahunchti.`,
+        `AI search ke liye bhi wahi basics kaam aate hain jo Google ke liye: saaf sawaal wale headings, har sawaal ke neeche 2–3 line ka seedha jawab, tables, sahi schema, aur business ki jaankari har jagah ek jaisi. Google ki apni list mein ab "optimizing for generative AI" bhi SEO services ka hissa likha hai.`,
+        `Koi bhi yeh guarantee nahi de sakta ki ChatGPT ya AI Overview aapka naam lega. Par jo page ek sawaal ka sabse saaf jawab deta hai, uske quote hone ke chances zyada hote hain. Isliye hamare pages "answer first" style mein likhe jaate hain, jaisa aap is page par dekh rahe hain.`,
+      ],
+      after: [
+        `Detail mein: <a href='/hindi-seo-services/'>Hindi SEO services</a> aur <a href='/generative-engine-optimization-services/'>generative engine optimization</a>.`,
+      ],
+    },
+    {
+      id: "kise-hire-karein",
+      heading: "SEO karwana hai: freelancer, agency ya in-house employee?",
+      paragraphs: [
+        `Chhote business ke liye aksar ek chhoti freelance team sabse sahi balance deti hai: agency se kam overhead, akele freelancer se zyada backup. Par har model ki apni jagah hai.`,
+        `In-house SEO executive tab samajh mein aata hai jab aapke paas roz ka content ka kaam ho, jaise news site ya bada ecommerce store. Nuksaan: ek insaan se technical, content aur local teeno ka expert hona mushkil hai, aur salary har mahine fixed hai.`,
+        `Badi agency tab theek hai jab aapko SEO ke saath ads, social media aur PR ek hi jagah chahiye aur budget bada hai. Akela freelancer sasta ho sakta hai, par bimar pade ya naukri le le toh kaam ruk jaata hai.`,
+        `BtechWaleTech teen freelance developers ka group hai: Santosh Sharma technical SEO, AI aur data sambhalte hain, Ankur Kumar full-stack development, aur Vedansh Shrivastava project aur automation. Iska fayda yeh hai ki SEO mein jo technical ya website ka kaam nikle, woh wahi team kar deti hai. Hum ads chalane, influencer marketing ya on-site shoot jaisa kaam nahi karte.`,
+      ],
+      after: [
+        `Poori tulna <a href='/seo-agency-vs-freelancer/'>SEO agency vs freelancer</a> par hai. Individual expert chahiye toh <a href='/freelance-seo-expert/'>freelance SEO expert</a> page dekhiye.`,
+      ],
+    },
+    {
+      id: "example",
+      heading: "Ek example: Indore ka physiotherapy clinic SEO karwana chahta hai",
+      paragraphs: [
+        `Yeh ek kaalpanik example hai, samjhane ke liye. Maan lijiye Indore mein do physiotherapists ka ek clinic hai. Website teen saal purani hai, Business Profile hai par sirf 2 photos aur purane timings. Unka sawaal: "SEO karwana hai, kitne mein aur kab tak calls badhengi?"`,
+        `Pehle hafte hum audit karenge. Maan lijiye nikla ki site mobile par slow hai, har service ek hi page par thoonsi hui hai, aur Business Profile ki primary category bahut general hai. Toh plan kuch aisa banega:`,
+      ],
+      list: [
+        `Mahina 1: Search Console aur GA4 setup, speed fixes, Business Profile mein sahi category, timings, photos aur services.`,
+        `Mahina 2: back pain, knee rehab, sports injury aur post-surgery physio ke alag service pages, har page par sawaal-jawab.`,
+        `Mahina 3: clinic ke aas-paas ke areas ke liye ek sahi location section, reviews maangne ka simple WhatsApp flow (sab patients se, sirf khush patients se nahi).`,
+        `Mahina 4–6: jo pages impressions la rahe hain unhe behtar karna, naye sawaalon par content, report ke hisaab se agla kadam.`,
+      ],
+      after: [
+        `Is plan mein koi ranking number promise nahi hai. Promise sirf kaam ka hai, aur har mahine report mein dikhega ki kaam hua ya nahi. Aisa hi clinic agar pehle naye website ki taraf jaana chahe, toh static website ${P.site} se ek option hai. Clinics ke liye aur detail <a href='/seo-for-doctors/'>SEO for doctors</a> par hai.`,
+      ],
+    },
+    {
+      id: "checklist",
+      heading: "SEO karwana hai: sign karne se pehle 12-point checklist",
+      paragraphs: [
+        `SEO karwana hai aur do-teen quotes haath mein hain? Yeh checklist WhatsApp par save kar lijiye aur har provider ke saath tick kijiye. Jitne zyada "haan", utna kam risk.`,
+      ],
+      list: [
+        `Pehle mahine ke kaam ki likhit list mili?`,
+        `Search Console, GA4 aur Business Profile ke owner aap hi rahenge?`,
+        `Ranking guarantee ki jagah kaam ki guarantee?`,
+        `Technical fixes kaun karega, yeh saaf hai?`,
+        `Links ka source bataya gaya?`,
+        `Sample monthly report dekhi?`,
+        `Price mein kya shamil hai aur kya extra hai, line-by-line?`,
+        `Content kaun likhega, aur aap approve karenge?`,
+        `Aapke industry ya shehar ka koi samajh dikhaya?`,
+        `Band karne par data aur pages aapke paas rahenge?`,
+        `Payment ka tareeka aur invoice saaf hai (UPI ya bank transfer, GST jahan lagta ho)?`,
+        `Baat kaun karega, aur kitni jaldi jawab milega?`,
+      ],
+      after: [
+        `Hamare saath terms aapke written quote mein hote hain; general niyam <a href='/terms/'>terms</a> par hain. Ek free starting point chahiye toh <a href='/free-website-seo-audit/'>free website SEO audit</a> dekhiye.`,
+      ],
+    },
+    {
+      id: "switch",
+      heading: "Purana SEO provider chhodna hai? Ranking khoye bina kaise badlein",
+      paragraphs: [
+        `Dobara SEO karwana hai kisi naye provider se? Provider badalna safe hai agar aap pehle access wapas le lein aur jo pages kaam kar rahe hain unhe na chhedein. Ranking provider ke saath nahi jaati, woh aapki website aur profile ke saath rehti hai, jab tak koi unhe hataye nahi.`,
+        `Kadam aise rakhiye. Pehle domain, hosting, Search Console, GA4 aur Business Profile ka owner access khud le lijiye. Phir website ka poora backup. Phir pichle 12 mahine ka Search Console data export kar lijiye. Uske baad hi purane provider ko bataiye.`,
+        `Agar purane provider ne paid links ya network sites se links banaye the, toh unke hatne par thoda asar ho sakta hai. Isliye naye provider ko pehle mahine mein link profile dekhne dijiye. Agar pichhle kaam se traffic gira hai, toh <a href='/website-traffic-drop-recovery/'>traffic drop recovery</a> wala process alag hai.`,
+      ],
+      after: [
+        `Agar SEO ke saath website bhi nayi banani hai, toh URLs ka redirect map pehle banta hai; bina iske traffic gir sakta hai. Yeh <a href='/traffic-drop-after-website-migration/'>migration ke baad traffic drop</a> par samjhaya hai.`,
+      ],
+    },
+  ],
+  tables: [
+    {
+      id: "pehle-6-mahine",
+      eyebrow: "Timeline",
+      heading: "SEO karwana hai: pehle 6 mahine ka aam plan",
+      note: "Har business ka plan audit ke baad banta hai. Yeh ek aam dhaancha hai, promise nahi.",
+      columns: ["Mahina", "Mukhya kaam", "Kya dikhna chahiye", "Aapka kaam"],
+      rows: [
+        ["1", "Audit, tracking setup, technical fixes, Business Profile ki safai", "Errors kam, pages index hona shuru", "Accounts ka access dena, business ki jaankari"],
+        ["2", "Mukhya service pages banana ya sudhaarna", "Naye pages par impressions", "Pages ka content approve karna"],
+        ["3", "Local pages, internal links, reviews ka flow", "Local searches par dikhna badhna", "Customers se review maangna"],
+        ["4", "Jo pages chal rahe hain unhe gehra karna", "Clicks aur calls ka trend", "Aane wali enquiries note karna"],
+        ["5", "Naye sawaalon par content, schema", "Zyada queries par impressions", "Customer ke naye sawaal batana"],
+        ["6", "Review, agle 6 mahine ka plan", "Enquiries ka pehla saaf pattern", "Plan par faisla"],
+      ],
+      hideSm: [3],
+    },
+    {
+      id: "red-green",
+      eyebrow: "Checklist",
+      heading: "SEO provider: red flag vs green flag",
+      note: "Google ki “Do you need an SEO?” guide ki chetavniyon aur hamare anubhav par aadharit.",
+      columns: ["Baat", "Red flag", "Green flag"],
+      rows: [
+        ["Promise", "Pakki page 1 ranking, tareekh ke saath", "Kaam ka plan pakka, ranking ka nahi"],
+        ["Google ke saath rishta", "“Google se direct setting hai”", "Google Search Essentials follow karne ki baat"],
+        ["Accounts", "Owner access ya apne naam par naya account", "Aap owner, provider sirf user"],
+        ["Links", "Har mahine hazaaron links", "Kam, asli aur explain kiye hue mentions"],
+        ["Report", "Sirf keyword position ki list", "Kaam ki list, clicks, queries, enquiries"],
+        ["Tareeka", "“Hamara secret method”", "Har kaam samjha kar"],
+        ["Contract", "Chhodne par pages hatane ki dhamki", "Data aur content aapka, terms likhit"],
+      ],
+    },
+    {
+      id: "scope-price",
+      eyebrow: "Starting prices",
+      heading: "Aapki zaroorat ke hisaab se kahan se shuru karein",
+      note: `Sab starting prices hain. Final quote locations, pages aur site ki haalat par depend karta hai. <a href='/pricing/'>Saare plans</a> ek jagah.`,
+      columns: ["Aapki haalat", "Sahi pehla kadam", "Starting price", "Time"],
+      rows: [
+        ["Website hai, theek chal rahi hai", "Monthly SEO", `${P.seo} se har mahina`, "Ongoing"],
+        ["Website nahi hai", "Static website phir SEO", `${P.site} se`, "1–2 hafte"],
+        ["Kai shehar ya services target karni hain", "SEO website (299+ pages)", `${P.seoSite} se`, "3–5 hafte"],
+        ["Online products bechte hain", "Ecommerce store + SEO", `${P.shop} se`, "4–8 hafte"],
+        ["Site theek hai, bas dekhbhaal chahiye", "Maintenance", `${P.care} se har mahina`, "Ongoing"],
+        ["International clients bhi hain", "Monthly SEO (USD quote)", `${P.seoUsd} se`, "Ongoing"],
+      ],
+    },
+  ],
+  areas: {
+    eyebrow: "SEO across India",
+    heading: "In shehron ke business ke liye SEO",
+    note: "Hum remote kaam karte hain, isliye monthly SEO ka starting price har shehar mein same hai. Har city page par wahan ke business ki alag zarooratein hain.",
+    cards: [
+      { name: "Clinic SEO in Indore", note: "Indore’s private clinics and diagnostic centres compete street by street, so accurate Business Profiles, service pages per treatment and honest reviews decide who gets the call.", href: "/indore/" },
+      { name: "Coaching SEO in Jaipur", note: "Jaipur’s coaching and tuition centres see search spikes around admission season, which rewards course pages, batch timings and fee-structure answers published well before the rush.", href: "/jaipur/" },
+      { name: "Manufacturer SEO in Ludhiana", note: "Ludhiana’s hosiery, cycle-part and machine-tool makers sell to buyers across states, so product pages with specifications and enquiry forms matter more than local map listings.", href: "/ludhiana/" },
+      { name: "Real estate SEO in Pune", note: "Pune’s brokers and builders target specific localities, and pages that answer locality, possession and loan questions help them reach buyers before portals do.", href: "/pune/" },
+      { name: "Restaurant SEO in Kochi", note: "Kochi’s cafés and seafood restaurants win nearby searches through menus, photos, correct hours and review replies on Google Maps, more than through blog posts.", href: "/kochi/" },
+      { name: "CA and tax SEO in Ahmedabad", note: "Ahmedabad’s CAs and tax consultants serve traders and small manufacturers who search in Gujarati, Hindi and English, so bilingual service pages widen their reach.", href: "/ahmedabad/" },
+      { name: "Hospital SEO in Lucknow", note: "Lucknow’s hospitals and specialists need a page per department and doctor, with timings and directions, because patients from nearby districts search before travelling.", href: "/lucknow/" },
+      { name: "Service business SEO in Gurgaon", note: "Gurgaon’s home-service, interior and packers businesses fight for “near me” searches across sectors, where location pages built only for areas truly served perform best.", href: "/gurgaon/" },
+      { name: "Travel SEO in Dehradun", note: "Dehradun’s tour operators and homestays catch trip planners months ahead, so itinerary pages, seasonal answers and fast mobile pages matter for enquiries.", href: "/dehradun/" },
+      { name: "Textile SEO in Surat", note: "Surat’s textile wholesalers and saree traders reach resellers nationwide, and category pages with fabric details plus WhatsApp enquiry buttons turn searches into orders.", href: "/surat/" },
+      { name: "School SEO in Patna", note: "Patna’s schools and coaching centres face admission-time searches from parents, so pages for admission process, fees and facilities earn trust before a campus visit.", href: "/patna/" },
+      { name: "Export SEO in Coimbatore", note: "Coimbatore’s pump, motor and textile machinery makers sell to overseas and domestic buyers who compare specifications online long before sending an enquiry.", href: "/coimbatore/" },
+      { name: "Local shop SEO in Guwahati", note: "Guwahati’s retailers and service providers serve customers across the Northeast, so correct map pins, categories and product photos help them appear in nearby searches.", href: "/guwahati/" },
+      { name: "Startup SEO in Bengaluru", note: "Bengaluru’s SaaS and service startups often need technical SEO, documentation pages and comparison content, since buyers research deeply before booking a demo.", href: "/bengaluru/" },
+      { name: "Handicraft SEO in Jodhpur", note: "Jodhpur’s furniture and handicraft sellers target buyers in other states and abroad, where detailed product pages and shipping answers build trust from a distance.", href: "/jodhpur/" },
+    ],
+  },
+  process: {
+    heading: "SEO karwana hai: hamare saath shuruaat kaise hoti hai",
+    steps: [
+      ["WhatsApp par website aur goal bhejiye", "Website ka link, aapki mukhya services, aur kis area se customer chahiye. Itne se hum pehli jaanch kar lete hain, bina koi access maange."],
+      ["Chhota audit aur baat", "Hum Search Console, speed, indexing aur Business Profile ki haalat dekhte hain aur call ya chat par batate hain ki sabse bada rukawat kya hai."],
+      ["Itemised quote", "Lagbhag 2 working din mein har mahine ke kaam ki list aur uska starting price. Likhit approval se pehle koi billing nahi hoti."],
+      ["Access aur tracking", "Aap Search Console, GA4 aur Business Profile par hame user ya manager access dete hain. Tracking set hoti hai taaki enquiries gin sakein."],
+      ["Monthly kaam", "Har mahine chune hue kaam: technical fixes, pages, local updates. Bade badlav ke pehle aapse poochte hain, chhote fixes seedhe karte hain."],
+      ["Report aur agla plan", "Mahine ke end mein report, har kaam ke link ke saath. Data ke hisaab se agle mahine ka plan, aur jo kaam nahi kar raha use badalna."],
+    ],
+  },
+  faqHeading: "SEO karwana hai: aam sawaal",
+  faqs: [
+    { question: "SEO karwana hai, kitna kharcha aayega?", answer: `BtechWaleTech ke saath monthly SEO ${P.seo} se shuru hota hai. Final quote teen cheezon par depend karta hai: kitne shehar ya locations target karne hain, har mahine kitne pages ya articles chahiye, aur website ki technical haalat kaisi hai. Aapko line-by-line quote lagbhag do working din mein milta hai, aur likhit approval se pehle kuch bill nahi hota.` },
+    { question: "SEO karwane ke kitne din baad result aata hai?", answer: "Pehle signal, jaise naye pages ka index hona aur Search Console mein impressions badhna, aam taur par kuch hafton mein dikhte hain. Calls aur enquiries mein asar aane mein mahine lagte hain. Kitna time lagega, yeh aapke area ke competition, website ki haalat aur har mahine ke kaam par depend karta hai. Koi fixed din batane wala provider sach nahi bol raha." },
+    { question: "Kya koi SEO provider page 1 ranking guarantee de sakta hai?", answer: "Nahi. Google ki apni documentation kehti hai ki koi bhi Google par number 1 ranking guarantee nahi kar sakta. Ranking Google ke algorithm tay karte hain, aur woh kisi provider ke control mein nahi hote. Jo pakki ranking ka waada karta hai, woh ya toh aise keywords dikhayega jinhe koi search nahi karta, ya aise tareeke use karega jinse aapki website ko nuksaan ho sakta hai." },
+    { question: "SEO mein har mahine kya kaam hota hai?", answer: "Har mahine Search Console ke errors ki jaanch, naye ya sudhre hue service pages, internal linking, Google Business Profile par photos aur updates, reviews ke jawab, aur ek report jisme har kaam ka link ho. Har teen mahine mein poore site ka technical crawl aur keyword list ka review hota hai. Kaam ki exact list audit ke baad aapke business ke hisaab se banti hai." },
+    { question: "SEO karwana chahiye ya Google Ads chalana chahiye?", answer: "Dono alag kaam karte hain. Google Ads turant traffic dete hain par har click ka paisa lagta hai aur ad band hote hi traffic ruk jaata hai. SEO dheere chalta hai par ek baar pages rank karne lagein toh har click ka paisa nahi lagta. Agar leads agle hafte chahiye, toh ads chalaiye aur saath mein SEO shuru kijiye taaki aage chal kar ads par nirbharta kam ho." },
+    { question: "Chhote shehar ke business ke liye SEO kaam karta hai?", answer: "Haan, aksar metro se jaldi, kyunki competition kam hota hai. Chhote shehar mein Google Business Profile, sahi category, photos, reviews aur ek saaf service page hi kaafi fark la dete hain. Hum remote kaam karte hain, isliye aap kisi bhi shehar mein hon, starting price wahi rehta hai aur saara kaam WhatsApp aur call par ho jaata hai." },
+    { question: "How do I choose the right SEO provider for my business?", answer: "Ask for a written list of what they will do in month one, a sample monthly report, where any links will come from, and whether Search Console, GA4 and your Business Profile stay in your name. Check that they follow Google Search Essentials, explain methods openly and never promise a fixed ranking. A good provider also tells you when SEO is not your best first step." },
+    { question: "Is a freelancer or an agency better for SEO in India?", answer: "For most small and medium businesses, a small freelance team gives the best balance: lower overheads than an agency and more backup than one person. An agency makes sense when you also want ads, social media and PR under one contract with a large budget. BtechWaleTech is three freelance developers, so technical fixes found during SEO get done by the same people." },
+    { question: "Will I own my Search Console, GA4 and Google Business Profile?", answer: "You should own all of them, and with us you do. We ask for user or manager access only, never ownership. The same applies to your domain and hosting. If you stop working with us, you remove our access and every account, page and report stays with you. Be wary of any provider who wants to create these accounts under their own email." },
+    { question: "What should a monthly SEO report contain?", answer: "A good report lists the work done that month with links, then shows Search Console clicks, impressions and top queries against the previous month and year, Business Profile calls and direction requests, and the enquiries your tracking counted. If a report shows only keyword positions or a count of backlinks, ask what actually changed on your website." },
+    { question: "How much does local SEO cost compared with national SEO?", answer: `Local SEO is usually the smaller scope because it focuses on your Business Profile, a few service pages and one area, so it often sits near the starting point of ${P.seo} per month. National SEO needs more content, deeper pages and wider authority work, so the quote grows with the number of services and pages. Every quote is itemised so you can see the difference.` },
+    { question: "Do you do link building?", answer: "Only honest link work: local citations with consistent name, address and phone, mentions from suppliers, associations and local media where there is a real reason, and content others want to reference. We do not buy links or use private networks, because Google treats link schemes as spam and your website carries the risk, not the provider." },
+    { question: "Can you do SEO for a website built by another developer?", answer: "Yes. We audit the site first. If fixes are needed in the code, we either make them ourselves with your permission or hand your developer a clear task list with the exact pages and problems. If the site is on a closed builder that blocks important fixes, we tell you plainly and explain the options, including a rebuild if it is cheaper over time." },
+    { question: "Kya Hindi mein SEO ho sakta hai?", answer: "Haan. Agar aapke customer Hindi ya Hinglish mein search karte hain, toh unhi shabdon mein pages banana samajhdari hai. Hum Hindi aur English dono mein baat karte hain aur pages ka structure, headings aur schema dono bhashaon ke liye set karte hain. Content aapke input se banta hai aur aap approve karte hain, taaki bhasha aapke customers jaisi lage." },
+    { question: "What red flags should I watch for when hiring for SEO?", answer: "Guaranteed rankings, claims of a special relationship with Google, unsolicited messages promising page one in days, secret methods, reports full of backlink counts, requests for owner access to your Google accounts, and contracts that threaten to remove your pages if you leave. Google’s own guide on hiring an SEO warns against several of these." },
+    { question: "Do you make my website visible in ChatGPT and Google AI Overviews?", answer: "We write and structure pages so AI tools can quote them: question headings, short direct answers, tables, schema and consistent business details everywhere. Google now lists optimising for generative AI among normal SEO services. Nobody can guarantee an AI tool will mention you, but clear, accurate pages give you a fair chance of being cited." },
+    { question: "How do I pay for monthly SEO?", answer: "In India you pay by UPI or bank transfer against an invoice. Clients abroad pay in USD by Wise, bank wire or PayPal. Billing starts only after you approve the written quote. How the monthly cycle, notice and stopping work is written into your quote, and our general terms are on the terms page." },
+    { question: "Can I stop SEO after a few months? Will rankings drop?", answer: "You can stop as your written quote allows. Rankings earned through real pages and fixes stay with your website, though competitors keep working, so positions can slowly slip without upkeep. Before stopping, take owner access to every account, back up the site and export your Search Console data so the next person starts with full history." },
+    { question: "Nayi website ka SEO kab shuru karna chahiye?", answer: "Website banate waqt hi. URL structure, page titles, speed, schema aur sitemap agar shuru se sahi hon, toh baad mein sudhaarne ka kharcha bachta hai. Launch ke baad Search Console mein site submit karke pehle mahine se monthly SEO shuru kar sakte hain. Hamare static websites mein basic SEO tags aur sitemap pehle se shamil hote hain." },
+    { question: "Kya aap office aakar SEO samjhayenge?", answer: "Nahi, hum poori tarah remote kaam karte hain aur on-site visit nahi karte. Saari baat WhatsApp, phone ya video call par hoti hai, Hindi ya English mein. Photos ke liye aapko apne phone se achhi tasveerein bhejni hoti hain; kya aur kaise khinchna hai, iski simple list hum dete hain." },
+    { question: "SEO ke saath website ki maintenance bhi karte ho?", answer: `Haan. Humari banayi website par launch ke baad 5 mahine free maintenance milti hai, phir ${P.care} se monthly. Kisi aur ki banayi website par maintenance audit ke baad quote hoti hai. SEO aur maintenance saath lene se fayda yeh hai ki SEO mein nikle technical fixes ke liye alag developer dhoondhna nahi padta.` },
+  ],
+  related: {
+    heading: "SEO se jude aur pages",
+    links: [
+      { name: "How long does SEO take", href: "/how-long-does-seo-take/" },
+      { name: "SEO agency vs freelancer", href: "/seo-agency-vs-freelancer/" },
+      { name: "Local SEO packages India", href: "/local-seo-packages-india/" },
+      { name: "SEO audit cost in India", href: "/seo-audit-cost-in-india/" },
+      { name: "One-time vs monthly SEO", href: "/one-time-vs-monthly-seo/" },
+      { name: "Google me website rank kaise kare", href: "/google-me-website-rank-kaise-kare/" },
+      { name: "Google Map par dukan kaise dale", href: "/google-map-par-dukan-kaise-dale/" },
+      { name: "SEO services for small business", href: "/seo-services-for-small-business/" },
+      { name: "SEO vs Google Ads", href: "/seo-vs-google-ads/" },
+      { name: "WhatsApp automation kaise kare", href: "/whatsapp-automation-kaise-kare/" },
+      { name: "SEO services", href: "/services/seo-services/" },
+      { name: "All starting prices", href: "/pricing/" },
+      { name: "Contact the team", href: "/contact/" },
+    ],
+  },
+  cta: {
+    heading: "SEO karwana hai? Pehle apni website ki asli haalat jaaniye",
+    note: "WhatsApp par website ka link aur apni mukhya services bhejiye. Hum batayenge ki sabse bada rukawat kya hai, pehle mahine mein kya karna chahiye, aur itemised quote lagbhag do working din mein denge. Koi ranking promise nahi, sirf saaf kaam.",
+  },
+};
+
+export default content;

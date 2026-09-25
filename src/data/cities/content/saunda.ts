@@ -39,7 +39,7 @@ const saunda: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Contractor and fleet tools", "Hindi-first local SEO", "You own the domain and code"],
   },
   quickAnswer:
-    "A website for a Saunda or Bhurkunda business starts at ₹10,000 with us and is usually ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and register everything in your name.",
+    "A website for a Saunda or Bhurkunda business starts at ₹10,000 with us and is usually ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and register everything in your name.",
   snapshot: [
     { label: "Location", value: "Census town in Patratu block, Ramgarh district, beside Bhurkunda in the Damodar valley" },
     { label: "Mining", value: "Saunda, Central Saunda and Saunda D underground mines of CCL's Barka Sayal Area; Saunda D dates from 1946" },
@@ -164,7 +164,7 @@ const saunda: CityContent = {
       ],
       list: [
         "Static website, up to 100 pages: ₹10,000 onwards, ready in about 1–2 weeks",
-        "SEO website with 700+ pages: ₹20,000 onwards, about 3–5 weeks",
+        "SEO website with 299+ pages: ₹20,000 onwards, about 3–5 weeks",
         "Android and iOS app: ₹40,000 onwards",
         "AI or WhatsApp automation: ₹40,000 onwards, about 2–4 weeks",
         "Online store with UPI: ₹50,000 onwards, about 4–8 weeks",
@@ -219,7 +219,7 @@ const saunda: CityContent = {
     {
       question: "What is the website cost in Saunda?",
       answer:
-        "Our entry rate for a static site is ₹10,000; bigger builds climb from there, with ₹20,000 onwards for a 700+ page SEO site, ₹50,000 onwards for a store and ₹60,000 onwards for custom software. What you finally pay depends on scope, and you see every line in writing before a rupee is charged.",
+        "Our entry rate for a static site is ₹10,000; bigger builds climb from there, with ₹20,000 onwards for a 299+ page SEO site, ₹50,000 onwards for a store and ₹60,000 onwards for custom software. What you finally pay depends on scope, and you see every line in writing before a rupee is charged.",
     },
     {
       question: "Do you build Android and iOS apps for Saunda businesses?",
@@ -229,7 +229,7 @@ const saunda: CityContent = {
     {
       question: "How quickly can a Saunda shop get a website?",
       answer:
-        "Once your photos and wording reach us, a plain shop site normally takes a week or two. Larger jobs run longer: roughly a month for a 700+ page SEO build, one to two months for a store, and up to a quarter for bespoke software. Late content is the most common reason a launch slips.",
+        "Once your photos and wording reach us, a plain shop site normally takes a week or two. Larger jobs run longer: roughly a month for a 299+ page SEO build, one to two months for a store, and up to a quarter for bespoke software. Late content is the most common reason a launch slips.",
     },
     {
       question: "Who is the best IT services team in Saunda or Bhurkunda?",

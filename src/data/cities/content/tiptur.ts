@@ -39,7 +39,7 @@ const tiptur: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Kannada-first local SEO", "Copra and coconut exporters", "Accounts registered to you"],
   },
   quickAnswer:
-    "Tiptur businesses can have a website built by us from ₹10,000, usually inside one to two weeks. Android and iOS apps cost from ₹40,000, and so does AI or WhatsApp automation. SEO sites of 700+ pages start at ₹20,000, online stores at ₹50,000 and trading software at ₹60,000. We have no Tiptur office, and every account stays in your name.",
+    "Tiptur businesses can have a website built by us from ₹10,000, usually inside one to two weeks. Android and iOS apps cost from ₹40,000, and so does AI or WhatsApp automation. SEO sites of 299+ pages start at ₹20,000, online stores at ₹50,000 and trading software at ₹60,000. We have no Tiptur office, and every account stays in your name.",
   snapshot: [
     { label: "Location", value: "Taluk town in Tumakuru district, about 140 km north-west of Bengaluru and 73 km west of Tumakuru" },
     { label: "Nickname", value: "Kalpataru Nadu, for the coconut palms that cover the taluk" },
@@ -87,7 +87,7 @@ const tiptur: CityContent = {
       paragraphs: [
         "Tiptur and its surroundings have several units that turn copra into desiccated coconut powder, flakes and related products and sell them across India and abroad. Their customers are food manufacturers, bakeries, sweet makers and importers, and these buyers usually check a supplier's website before they ask for samples.",
         "A <strong>website development team in Tiptur</strong> serving these processors should build for a purchase manager, not a casual shopper. That means product pages with grades, mesh sizes, fat and moisture specifications you can stand behind, packing formats and minimum order quantities; certifications you actually hold, such as FSSAI or export registration; photographs of the facility; and a sample request form that asks for destination, quantity and intended use.",
-        "We never list a buyer's name or logo without their written permission, and we do not invent certifications or capacities. For units targeting importers, an English site with clear specifications usually works better than a flashy one. A capability site of this kind begins at ₹10,000, while a larger catalogue with enquiry tracking may fall into the 700+ page SEO build from ₹20,000.",
+        "We never list a buyer's name or logo without their written permission, and we do not invent certifications or capacities. For units targeting importers, an English site with clear specifications usually works better than a flashy one. A capability site of this kind begins at ₹10,000, while a larger catalogue with enquiry tracking may fall into the 299+ page SEO build from ₹20,000.",
       ],
     },
     {
@@ -158,7 +158,7 @@ const tiptur: CityContent = {
       id: "website-cost-tiptur",
       heading: "Website cost in Tiptur: where prices start and what raises them",
       paragraphs: [
-        "Every figure here is a starting point. A static site with up to 100 pages is ₹10,000 onwards, built in one to two weeks. A 700+ page SEO site is ₹20,000 onwards across three to five weeks. Android and iOS apps are ₹40,000 onwards, as is AI or WhatsApp automation. An online store begins at ₹50,000, custom software at ₹60,000, and monthly SEO at ₹10,000. Our <a href=\"/pricing/\">pricing page</a> has the breakdown.",
+        "Every figure here is a starting point. A static site with up to 100 pages is ₹10,000 onwards, built in one to two weeks. A 299+ page SEO site is ₹20,000 onwards across three to five weeks. Android and iOS apps are ₹40,000 onwards, as is AI or WhatsApp automation. An online store begins at ₹50,000, custom software at ₹60,000, and monthly SEO at ₹10,000. Our <a href=\"/pricing/\">pricing page</a> has the breakdown.",
         "Costs climb with bilingual Kannada and English content, long product or specification lists, payment and courier integrations, multiple staff logins and Tally links. If you hand over finished text and photos, the quote stays close to the floor; if we draft, translate and photograph-edit, that shows up as its own item.",
         "Quotes from other developers in and around Tumakuru vary a great deal. Ask each one who will own the domain and hosting, whether phone testing and basic SEO are included, how many revisions are covered, and who looks after the site after launch. Our itemised quote usually lands in about two working days.",
       ],
@@ -210,7 +210,7 @@ const tiptur: CityContent = {
     {
       question: "What is the website cost in Tiptur?",
       answer:
-        "A basic website is ₹10,000 onwards, a 700+ page SEO site ₹20,000 onwards, an online store ₹50,000 onwards and trading software ₹60,000 onwards. The final figure depends on page count, Kannada content, products and integrations. You get a line-by-line quote in writing, and no invoice comes before you approve it.",
+        "A basic website is ₹10,000 onwards, a 299+ page SEO site ₹20,000 onwards, an online store ₹50,000 onwards and trading software ₹60,000 onwards. The final figure depends on page count, Kannada content, products and integrations. You get a line-by-line quote in writing, and no invoice comes before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Tiptur businesses?",
@@ -245,7 +245,7 @@ const tiptur: CityContent = {
     {
       question: "Tipturnalli website maadisalu eshtu kharchu aagutte?",
       answer:
-        "Namma hattira simple website ₹10,000 inda shuru aagutte, saamanyavaagi ondu-eradu vaaradalli ready aagutte. 700+ page SEO website ₹20,000 inda, Android mattu iOS app ₹40,000 inda, online store ₹50,000 inda shuru. Nimma pages mattu features nodi likhita quote kodtivi, approve maadida mele maatra bill.",
+        "Namma hattira simple website ₹10,000 inda shuru aagutte, saamanyavaagi ondu-eradu vaaradalli ready aagutte. 299+ page SEO website ₹20,000 inda, Android mattu iOS app ₹40,000 inda, online store ₹50,000 inda shuru. Nimma pages mattu features nodi likhita quote kodtivi, approve maadida mele maatra bill.",
     },
     {
       question: "You have no office in Tiptur. How is remote work safe?",

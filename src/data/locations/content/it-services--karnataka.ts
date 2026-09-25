@@ -183,7 +183,7 @@ const content: CityContent = {
       paragraphs: [
         "SEO for a Karnataka business means being found on Google, Google Maps and AI assistants when customers search in Kannada or English for your service in their city or area, with pages that answer their questions precisely. Kannada search is growing, and relatively few businesses publish good Kannada pages, which creates an opening.",
         "We build service and location pages in the languages your customers use, add structured data, help complete your Google Business Profile, and write factual passages that Google's AI Overviews and assistants such as ChatGPT and Perplexity can cite. Bengaluru's competitive markets need more depth and technical care; cities like Hubballi, Belagavi, Davanagere and Shivamogga often reward well-made local pages quickly.",
-        "Monthly <a href='/services/seo-services/'>SEO services</a> start from ₹10,000 and a 700+ page SEO website from ₹20,000. No one can guarantee rankings. For specific local searches, early movement usually shows within two to four months, and competitive Bengaluru terms take longer. We share monthly Search Console reports.",
+        "Monthly <a href='/services/seo-services/'>SEO services</a> start from ₹10,000 and a 299+ page SEO website from ₹20,000. No one can guarantee rankings. For specific local searches, early movement usually shows within two to four months, and competitive Bengaluru terms take longer. We share monthly Search Console reports.",
       ],
     },
     {
@@ -199,7 +199,7 @@ const content: CityContent = {
       id: "cost-it-services-karnataka",
       heading: "How much do IT services in Karnataka cost with a freelance team?",
       paragraphs: [
-        "With BtechWaleTech, IT services in Karnataka start at ₹10,000 for a website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store, ₹60,000 for custom software or an MVP, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after five free months.",
+        "With BtechWaleTech, IT services in Karnataka start at ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store, ₹60,000 for custom software or an MVP, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after five free months.",
         "Bengaluru agency quotes are often much higher, reflecting office costs and larger teams, while very cheap quotes usually mean templates and no handover. When comparing, check ownership of code and accounts, whether SEO and hosting are included, what support costs after launch, and who actually writes the code. Phasing a build keeps early costs down.",
         "You receive an itemised quote in about two working days and approve it before work starts. Payments to us are only by UPI (scan our QR code) or direct bank transfer to our bank account in INR, usually in milestones tied to approved deliverables.",
       ],
@@ -259,7 +259,7 @@ const content: CityContent = {
     {
       question: "What do IT services in Karnataka cost with you?",
       answer:
-        "A website starts at ₹10,000, a 700+ page SEO website at ₹20,000, AI automation or an Android and iOS app at ₹40,000, an online store at ₹50,000 and custom software or an MVP at ₹60,000. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months. Quotes are itemised before you approve.",
+        "A website starts at ₹10,000, a 299+ page SEO website at ₹20,000, AI automation or an Android and iOS app at ₹40,000, an online store at ₹50,000 and custom software or an MVP at ₹60,000. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months. Quotes are itemised before you approve.",
     },
     {
       question: "How much does an Android and iOS app cost in Karnataka?",

@@ -35,7 +35,7 @@ const mangaluru: CityContent = {
     pills: ["Sites from ₹10,000", "Export-ready catalogues", "Hospital and college sites", "Tulu, Konkani, Kannada, English", "UPI stores for coastal brands"],
   },
   quickAnswer:
-    "Our Mangaluru websites start at ₹10,000 for a static business site and ₹20,000 for a 700+ page SEO site, built in one to five weeks. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three engineers with no Mangaluru office, and the first five months of maintenance after launch are free.",
+    "Our Mangaluru websites start at ₹10,000 for a static business site and ₹20,000 for a 299+ page SEO site, built in one to five weeks. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three engineers with no Mangaluru office, and the first five months of maintenance after launch are free.",
   snapshot: [
     { label: "Port and energy", value: "New Mangalore Port at Panambur, MRPL (Karnataka's only refinery) and the ONGC-Mangalore SEZ" },
     { label: "Industrial estate", value: "Baikampady, with cashew processing, engineering, leaf springs, hollow blocks and pharma units" },
@@ -73,12 +73,12 @@ const mangaluru: CityContent = {
       heading: "What websites cost in Mangaluru, and why quotes differ",
       paragraphs: [
         "In Mangaluru, a basic five-page site can be quoted anywhere between about ₹3,000 and ₹60,000. The cheapest usually recycle a theme, skip SEO and keep hosting in the developer's account. The most expensive often include agency overheads and a project manager who relays messages to a developer you never meet.",
-        "Our starting prices are on our website. A static site of up to 100 pages begins at ₹10,000 and usually launches in one to two weeks. A 700+ page SEO site begins at ₹20,000 and takes three to five weeks. An online store with UPI and card checkout starts at ₹50,000, and custom web applications such as export trackers or admission systems start at ₹60,000. AI and WhatsApp automation starts at ₹40,000, and monthly SEO at ₹10,000 a month.",
+        "Our starting prices are on our website. A static site of up to 100 pages begins at ₹10,000 and usually launches in one to two weeks. A 299+ page SEO site begins at ₹20,000 and takes three to five weeks. An online store with UPI and card checkout starts at ₹50,000, and custom web applications such as export trackers or admission systems start at ₹60,000. AI and WhatsApp automation starts at ₹40,000, and monthly SEO at ₹10,000 a month.",
         "The final price depends on scope: number of pages and products, languages, integrations and how much content you already have. You get an itemised quote in about two working days, and no invoice is raised until you approve it in writing. The full list sits on our <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [
         "<strong>Static site, from ₹10,000:</strong> up to 100 pages, contact form, map and basic SEO. Suits clinics, lawyers and shops.",
-        "<strong>SEO site, from ₹20,000:</strong> 700+ pages, one per service or product line, with schema and sitemap.",
+        "<strong>SEO site, from ₹20,000:</strong> 299+ pages, one per service or product line, with schema and sitemap.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart, UPI and card payments, shipping rules and order alerts.",
         "<strong>Custom web app, from ₹60,000:</strong> logins, dashboards and workflows for exporters, hospitals and institutes.",
       ],
@@ -219,12 +219,12 @@ const mangaluru: CityContent = {
     {
       question: "How much does a website cost in Mangaluru?",
       answer:
-        "With us, a static site starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. Mangaluru quotes for similar work range from a few thousand rupees to ₹60,000, so compare SEO setup, ownership of domain and hosting, and after-launch support, not just the headline price.",
+        "With us, a static site starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. Mangaluru quotes for similar work range from a few thousand rupees to ₹60,000, so compare SEO setup, ownership of domain and hosting, and after-launch support, not just the headline price.",
     },
     {
       question: "Mangalore mein website banwane ka kitna kharcha hai?",
       answer:
-        "Humare saath simple business website ₹10,000 se shuru hoti hai aur 700+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se banta hai. Final price pages, products, bhasha aur features par depend karta hai. Kaam shuru hone se pehle aapko likhit itemised quote milta hai, aur aapki manzoori ke bina koi bill nahi banta.",
+        "Humare saath simple business website ₹10,000 se shuru hoti hai aur 299+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se banta hai. Final price pages, products, bhasha aur features par depend karta hai. Kaam shuru hone se pehle aapko likhit itemised quote milta hai, aur aapki manzoori ke bina koi bill nahi banta.",
     },
     {
       question: "Do you have an office in Mangaluru?",

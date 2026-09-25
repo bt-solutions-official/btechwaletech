@@ -170,7 +170,7 @@ const content: CityContent = {
       paragraphs: [
         "Ecommerce gives a Jaipur brand a direct line to customers in India and abroad, beyond walk-ins and marketplaces. Stores start at ₹50,000 and take four to eight weeks, with variants for size, metal and colour, international shipping zones, UPI and card checkout through a payment gateway account in your own name, and order management.",
         "SEO helps those products and your services be found. We write product and category pages with honest specifications, add product and organisation schema, and publish guides that answer buyer questions, such as how to identify genuine hand block printing or how gemstone certificates work. Those factual guides are also what AI assistants tend to cite.",
-        "Monthly SEO starts at ₹10,000 and a 700+ page SEO website at ₹20,000. For a website-focused view of the city, see our <a href='/jaipur/'>Jaipur page</a>; for method and pricing, see <a href='/services/seo-services/'>SEO services</a>. We never guarantee rankings.",
+        "Monthly SEO starts at ₹10,000 and a 299+ page SEO website at ₹20,000. For a website-focused view of the city, see our <a href='/jaipur/'>Jaipur page</a>; for method and pricing, see <a href='/services/seo-services/'>SEO services</a>. We never guarantee rankings.",
       ],
     },
     {
@@ -186,7 +186,7 @@ const content: CityContent = {
       id: "cost-jaipur",
       heading: "How much do freelance software developers in Jaipur charge?",
       paragraphs: [
-        "BtechWaleTech's starting prices in Jaipur are ₹60,000 for custom software or an MVP, ₹40,000 for an Android and iOS app, ₹40,000 for AI or WhatsApp automation, ₹50,000 for an online store, ₹10,000 for a website and ₹20,000 for a 700+ page SEO website. Monthly SEO is from ₹10,000 and maintenance from ₹8,000 after five free months.",
+        "BtechWaleTech's starting prices in Jaipur are ₹60,000 for custom software or an MVP, ₹40,000 for an Android and iOS app, ₹40,000 for AI or WhatsApp automation, ₹50,000 for an online store, ₹10,000 for a website and ₹20,000 for a 299+ page SEO website. Monthly SEO is from ₹10,000 and maintenance from ₹8,000 after five free months.",
         "Final cost depends on modules, users, integrations and data migration. A single-shop memo tracker is close to the starting price; a multi-location jewellery system with karigar tracking, catalogues and an app costs more. Quotes are itemised, so you can phase the build.",
         "Clients pay us in INR only, by UPI through our QR code or by direct bank transfer to our bank account, in milestones that follow working software you have reviewed.",
       ],
@@ -338,7 +338,7 @@ const content: CityContent = {
     {
       question: "Do you also build websites and online stores?",
       answer:
-        "Yes. Websites start at ₹10,000, 700+ page SEO websites at ₹20,000 and online stores at ₹50,000. We usually connect them to your software or app so orders and enquiries land in one place.",
+        "Yes. Websites start at ₹10,000, 299+ page SEO websites at ₹20,000 and online stores at ₹50,000. We usually connect them to your software or app so orders and enquiries land in one place.",
     },
     { "question":"What will we pay every month after our Jaipur software goes live?","answer":"It depends on what is running. A simple website mostly needs a yearly domain renewal and low-cost hosting. Software with logins and a database adds a monthly cloud bill, and WhatsApp or AI features add usage charges billed by Meta or the model provider to your own account. Our maintenance is free for five months, then optional from ₹8,000 a month." },
     { "question":"Can you build a booking website for a Jaipur heritage hotel or tour desk?","answer":"Yes. A static website starts at ₹10,000 with rooms, packages and a WhatsApp enquiry button. A full booking system with live availability, advance payment through a payment gateway account in your own name, and guest records is custom software from ₹60,000. Itinerary pages about Amer Fort, City Palace and Nahargarh help travellers who research before they book." },

@@ -35,7 +35,7 @@ const bhubaneswar: CityContent = {
     pills: ["Websites from ₹10,000", "Odia, Hindi and English pages", "Stores for handloom brands", "Startup and SaaS sites", "AI and WhatsApp workflows"],
   },
   quickAnswer:
-    "In Bhubaneswar, a basic business website with us starts at ₹10,000 and a 700+ page SEO website at ₹20,000, delivered in one to five weeks. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote three-engineer team without a Bhubaneswar office, and every build includes five months of free maintenance.",
+    "In Bhubaneswar, a basic business website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000, delivered in one to five weeks. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote three-engineer team without a Bhubaneswar office, and every build includes five months of free maintenance.",
   snapshot: [
     { label: "Commercial areas", value: "Saheed Nagar and Janpath, Market Building (Unit-2), Rasulgarh, Jaydev Vihar and Patia" },
     { label: "IT parks", value: "Infocity at Chandaka and Patia, Infovalley and STPI-Bhubaneswar, with Infosys, TCS, Tech Mahindra and Wipro among the employers" },
@@ -73,12 +73,12 @@ const bhubaneswar: CityContent = {
       heading: "What websites cost in Bhubaneswar and why quotes vary",
       paragraphs: [
         "Ask around Bhubaneswar and you will hear prices from ₹3,000 to ₹80,000 for a small business website. The bottom end usually means a copied theme, no search optimisation and hosting on the developer's account. The top end often covers a sales team, an office in Saheed Nagar or Patia, and project managers who stand between you and the person writing code.",
-        "We publish our starting points so you can judge for yourself. A static website of up to 100 pages starts at ₹10,000 and goes live in one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. An online store with UPI and card checkout starts at ₹50,000, and a custom web application such as a client portal, admission system or booking platform starts at ₹60,000. Automation starts at ₹40,000 and monthly SEO at ₹10,000.",
+        "We publish our starting points so you can judge for yourself. A static website of up to 100 pages starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. An online store with UPI and card checkout starts at ₹50,000, and a custom web application such as a client portal, admission system or booking platform starts at ₹60,000. Automation starts at ₹40,000 and monthly SEO at ₹10,000.",
         "Your quote lists every page and feature separately, so you can see what drives the cost and remove what you don't want. Nothing is billed until you approve it in writing, and the quote usually reaches you within two working days of our first conversation.",
       ],
       list: [
         "<strong>Static site, from ₹10,000:</strong> up to 100 pages, contact form, mobile layout, SEO basics. For clinics, consultants and shops.",
-        "<strong>SEO site, from ₹20,000:</strong> 700+ pages, schema, sitemap, Search Console. For institutes and service firms.",
+        "<strong>SEO site, from ₹20,000:</strong> 299+ pages, schema, sitemap, Search Console. For institutes and service firms.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart, UPI and cards. For handloom, handicraft and food brands.",
         "<strong>Custom web app, from ₹60,000:</strong> logins, roles, workflows and dashboards. For startups and growing firms.",
       ],
@@ -210,12 +210,12 @@ const bhubaneswar: CityContent = {
     {
       question: "How much does a website cost in Bhubaneswar?",
       answer:
-        "With us, a static business website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Quotes around the city for similar work range from roughly ₹3,000 to ₹80,000. When comparing, check domain and hosting ownership, SEO basics and after-launch support.",
+        "With us, a static business website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Quotes around the city for similar work range from roughly ₹3,000 to ₹80,000. When comparing, check domain and hosting ownership, SEO basics and after-launch support.",
     },
     {
       question: "Bhubaneswar me website banwane ka kharcha kitna hai?",
       answer:
-        "Humare saath ek simple business website ₹10,000 se shuru hoti hai, aur 700+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se aur custom web app ₹60,000 se shuru hota hai. Final price pages, features aur content par depend karta hai, aur kaam shuru hone se pehle aapko itemised quote milta hai.",
+        "Humare saath ek simple business website ₹10,000 se shuru hoti hai, aur 299+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se aur custom web app ₹60,000 se shuru hota hai. Final price pages, features aur content par depend karta hai, aur kaam shuru hone se pehle aapko itemised quote milta hai.",
     },
     {
       question: "Do you have an office in Bhubaneswar?",
@@ -245,7 +245,7 @@ const bhubaneswar: CityContent = {
     {
       question: "How long does a website take to build?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Most delays come from waiting for content, so we draft starter text and a checklist of photographs to speed things up.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Most delays come from waiting for content, so we draft starter text and a checklist of photographs to speed things up.",
     },
     {
       question: "How long does SEO take for a Bhubaneswar business?",

@@ -188,7 +188,7 @@ const content: CityContent = {
       id: "seo-ecommerce-haldwani",
       heading: "SEO, AI-search visibility and ecommerce for Haldwani brands",
       paragraphs: [
-        "SEO helps Haldwani hospitals, institutes and suppliers appear when people across Kumaon search for them, and ecommerce lets local brands sell Kumaoni products across India. Monthly SEO starts at ₹10,000, a 700+ page SEO website at ₹20,000 and an online store at ₹50,000.",
+        "SEO helps Haldwani hospitals, institutes and suppliers appear when people across Kumaon search for them, and ecommerce lets local brands sell Kumaoni products across India. Monthly SEO starts at ₹10,000, a 299+ page SEO website at ₹20,000 and an online store at ₹50,000.",
         "Search work focuses on specific service pages, Google Business Profile guidance, schema markup and fast pages. Content written as clear, factual answers is also easier for Google's AI Overviews and assistants like ChatGPT to cite. We do not guarantee rankings, and results usually take three to six months. See <a href='/services/seo-services/'>our SEO services</a>.",
         "Stores for bal mithai, pahadi pulses, honey, woollens and handicrafts include product pages, cart, UPI and card checkout through a gateway account in your name and an order panel. The <a href='/haldwani-cum-kathgodam/'>Haldwani city guide</a> covers websites and local SEO for shops and hotels.",
       ],

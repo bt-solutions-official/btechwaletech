@@ -7,6 +7,7 @@ import { createPageSeo } from "@lib/seo/seo-config";
 import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
 import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
 import { siteContact } from "@data/site/site-config";
+import { keywordPageGroups } from "@data/keywords/page-links";
 
 const faqs = [
   {
@@ -22,12 +23,12 @@ const faqs = [
   {
     question: "How much do your services cost?",
     answer:
-      "A static website of up to 100 pages starts from ₹10,000 (US$150) and a 700+ page SEO website from design to deployment starts from ₹20,000 (US$300). AI automation starts from ₹40,000 (US$600), ecommerce from ₹50,000 (US$750), custom applications from ₹60,000 (US$900), monthly SEO from ₹10,000 (US$150) per month, and maintenance from ₹8,000 (US$120) per month. INR prices apply in India and USD prices to international clients. Final cost depends on pages, features, integrations and content.",
+      "A static website of up to 100 pages starts from ₹10,000 (US$150) and a 299+ page SEO website from design to deployment starts from ₹20,000 (US$300). AI automation starts from ₹40,000 (US$600), ecommerce from ₹50,000 (US$750), custom applications from ₹60,000 (US$900), monthly SEO from ₹10,000 (US$150) per month, and maintenance from ₹8,000 (US$120) per month. INR prices apply in India and USD prices to international clients. Final cost depends on pages, features, integrations and content.",
   },
   {
     question: "How long does a project take?",
     answer:
-      "A static website usually takes one to two weeks once content is ready. A 700+ page SEO website runs three to five weeks. Software, ecommerce, and automation projects are planned in milestones so you see working pieces along the way instead of waiting until the end.",
+      "A static website usually takes one to two weeks once content is ready. A 299+ page SEO website runs three to five weeks. Software, ecommerce, and automation projects are planned in milestones so you see working pieces along the way instead of waiting until the end.",
   },
   {
     question: "Do you work with businesses outside India?",
@@ -175,6 +176,8 @@ const services = [
     points: ["Hosting and deployment", "Content updates and fixes", "Backups and security", "Speed and uptime checks"],
   },
 ];
+
+const keywordGroups = keywordPageGroups();
 ---
 
 <BaseLayout
@@ -361,6 +364,22 @@ const services = [
               <li><a href="/portfolio/">Portfolio and team</a></li>
             </ul>
           </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="directory-heading">
+        <div class="it-section-head">
+          <h2 id="directory-heading">Every service, technology and industry we cover</h2>
+        </div>
+        <div class="it-grid">
+          {keywordGroups.map((g) => (
+            <article class="it-card">
+              <h3>{g.heading}</h3>
+              <ul class="it-list">
+                {g.links.map((l) => <li><a href={l.href}>{l.name}</a></li>)}
+              </ul>
+            </article>
+          ))}
         </div>
       </section>
 

@@ -35,7 +35,7 @@ const shimla: CityContent = {
     pills: ["Sites from ₹10,000", "Direct booking pages", "Orchard and produce stores", "Hindi and English content", "WhatsApp booking replies"],
   },
   quickAnswer:
-    "A website for a Shimla business starts at ₹10,000 with us and usually takes one to two weeks. SEO websites of 700+ pages start at ₹20,000, online stores at ₹50,000 and AI or WhatsApp booking automation at ₹40,000. We are a remote team with no Shimla office, and maintenance is free for five months after launch.",
+    "A website for a Shimla business starts at ₹10,000 with us and usually takes one to two weeks. SEO websites of 299+ pages start at ₹20,000, online stores at ₹50,000 and AI or WhatsApp booking automation at ₹40,000. We are a remote team with no Shimla office, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Status", value: "Capital of Himachal Pradesh; declared summer capital of British India in 1864" },
     { label: "Altitude", value: "Spread along a ridge above 2,000 m, with Jakhu, the highest point, at about 2,454 m" },
@@ -73,12 +73,12 @@ const shimla: CityContent = {
       heading: "Website prices in Shimla, with the scope written down",
       paragraphs: [
         "Shimla businesses tend to hear either a very low figure from a local helper, often for a template with the domain in his name, or a high one from an agency in Chandigarh or Delhi. The low figure often excludes a booking flow, search setup and later support. The high figure sometimes pays for design that does not bring bookings.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks, with mobile layout, Hindi and English text, map, WhatsApp button and basic search setup. A 700+ page SEO site, planned around real searches for Shimla and the surrounding hill towns, starts at ₹20,000 and takes three to five weeks. Online stores begin at ₹50,000, custom web applications at ₹60,000, AI and WhatsApp automation at ₹40,000, and monthly SEO at ₹10,000.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks, with mobile layout, Hindi and English text, map, WhatsApp button and basic search setup. A 299+ page SEO site, planned around real searches for Shimla and the surrounding hill towns, starts at ₹20,000 and takes three to five weeks. Online stores begin at ₹50,000, custom web applications at ₹60,000, AI and WhatsApp automation at ₹40,000, and monthly SEO at ₹10,000.",
         "A small homestay needs a few pages. A thirty-room hotel with packages, seasonal tariffs, a restaurant menu and a direct booking engine needs more, and so does an orchard selling online with pre-orders before harvest. We listen first and then send an itemised quote. Work begins only after your written approval.",
       ],
       list: [
         "<strong>₹10,000 onwards:</strong> a compact site for a homestay, shop, clinic or tutor.",
-        "<strong>₹20,000 onwards:</strong> 700+ pages covering rooms, routes, services, products and nearby places.",
+        "<strong>₹20,000 onwards:</strong> 299+ pages covering rooms, routes, services, products and nearby places.",
         "<strong>₹50,000 onwards:</strong> a store with UPI, cards and courier rules for hill produce and crafts.",
         "<strong>₹60,000 onwards:</strong> booking engines, dispatch tools and dashboards built to your workflow.",
       ],
@@ -209,7 +209,7 @@ const shimla: CityContent = {
     {
       question: "How much does a website cost in Shimla?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application such as a booking engine at ₹60,000. Your written quote lists each item. Check whose name the domain will be in before you compare offers.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application such as a booking engine at ₹60,000. Your written quote lists each item. Check whose name the domain will be in before you compare offers.",
     },
     {
       question: "Shimla mein hotel ki website banwane ka kharcha kitna hai?",
@@ -244,7 +244,7 @@ const shimla: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. For a hotel, it is best to start two to three months before the summer or snow season.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. For a hotel, it is best to start two to three months before the summer or snow season.",
     },
     {
       question: "What can WhatsApp automation handle for a hotel or taxi business?",

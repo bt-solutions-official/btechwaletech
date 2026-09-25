@@ -39,7 +39,7 @@ const neyyattinkara: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Malayalam and Tamil SEO", "Handloom and resort sites", "Code and domain are yours"],
   },
   quickAnswer:
-    "Websites for Neyyattinkara businesses start at ₹10,000 and are usually ready in one to two weeks. Android and iOS apps begin at ₹40,000, as does AI or WhatsApp automation. SEO sites of 700+ pages start at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely, and every account stays in your name.",
+    "Websites for Neyyattinkara businesses start at ₹10,000 and are usually ready in one to two weeks. Android and iOS apps begin at ₹40,000, as does AI or WhatsApp automation. SEO sites of 299+ pages start at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely, and every account stays in your name.",
   snapshot: [
     { label: "Location", value: "First-grade municipality and taluk headquarters about 18 km south-east of Thiruvananthapuram on the Kanyakumari highway" },
     { label: "River", value: "Built along the Neyyar, which rises near Agasthyarkoodam and meets the sea near Poovar" },
@@ -109,7 +109,7 @@ const neyyattinkara: CityContent = {
       paragraphs: [
         "Searches around Neyyattinkara come in Malayalam, English and Manglish, and near the border in Tamil as well. People type “hospital near Neyyattinkara”, “ortho doctor Amaravila”, “textile shop Neyyattinkara” or speak a query in Malayalam into their phone. For most of these, Google shows a Maps pack first, so a complete and accurate Business Profile often decides who gets the call.",
         "Our <strong>SEO services in Neyyattinkara</strong> begin with that profile: the right primary category, an exact pin, true opening hours, recent photographs and a plain description. Next we build or fix site pages that match what people search for, one service or product line per page, with name, address and phone written identically on the site and the map.",
-        "A clinic or retailer in Neyyattinkara typically draws people from Balaramapuram, Parassala, Kanjiramkulam, Poovar, Vellarada and villages in between, and sometimes from across the Tamil Nadu border. For businesses that want to show up across that catchment, a structured SEO site of 700+ pages starts at ₹20,000 and usually takes three to five weeks. Monthly SEO support is ₹10,000 a month onwards.",
+        "A clinic or retailer in Neyyattinkara typically draws people from Balaramapuram, Parassala, Kanjiramkulam, Poovar, Vellarada and villages in between, and sometimes from across the Tamil Nadu border. For businesses that want to show up across that catchment, a structured SEO site of 299+ pages starts at ₹20,000 and usually takes three to five weeks. Monthly SEO support is ₹10,000 a month onwards.",
         "We will never promise a first-place ranking, because nobody can guarantee one honestly. What you get is visible, documented work, a monthly report in plain language and a site built properly underneath. More detail is on the <a href=\"/services/seo-services/\">SEO services</a> page.",
       ],
     },
@@ -167,7 +167,7 @@ const neyyattinkara: CityContent = {
       id: "website-cost-in-neyyattinkara",
       heading: "Website cost in Neyyattinkara: our floor prices and what changes them",
       paragraphs: [
-        "People usually want the <strong>website cost in Neyyattinkara</strong> before anything else, so here are our floor prices. A static site of up to 100 pages is ₹10,000 onwards, with one to two weeks of work. A search-focused site of 700+ pages starts at ₹20,000 over three to five weeks. An Android and iOS app is ₹40,000 onwards, and AI or WhatsApp automation begins at ₹40,000 over two to four weeks.",
+        "People usually want the <strong>website cost in Neyyattinkara</strong> before anything else, so here are our floor prices. A static site of up to 100 pages is ₹10,000 onwards, with one to two weeks of work. A search-focused site of 299+ pages starts at ₹20,000 over three to five weeks. An Android and iOS app is ₹40,000 onwards, and AI or WhatsApp automation begins at ₹40,000 over two to four weeks.",
         "An online store starts at ₹50,000 and takes four to eight weeks. A custom web application starts at ₹60,000 and takes six to twelve weeks. Monthly SEO begins at ₹10,000 a month. Maintenance plans start at ₹8,000 a month, but only after the five months of free maintenance that follow every launch.",
         "None of these is a final figure. The quote rises with page and product count, extra languages, app screens, payment and delivery logic and integrations. You will usually receive an itemised quote within two working days, and we invoice nothing before you approve it in writing.",
         "Quotes around Neyyattinkara and Thiruvananthapuram differ widely, so compare the terms and not just the total. Whose name is on the domain? Do you receive the source code? How many revision rounds are included? What will renewals and upkeep cost next year? Our complete list is on the <a href=\"/pricing/\">pricing page</a>.",
@@ -222,7 +222,7 @@ const neyyattinkara: CityContent = {
     {
       question: "How much does a website cost in Neyyattinkara?",
       answer:
-        "Our floor price for a static site of up to 100 pages is ₹10,000, with one to two weeks of work. Search-focused sites of 700+ pages begin at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. Languages, product count and features move the final figure. The quote is itemised, and nothing is invoiced until you approve it in writing.",
+        "Our floor price for a static site of up to 100 pages is ₹10,000, with one to two weeks of work. Search-focused sites of 299+ pages begin at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. Languages, product count and features move the final figure. The quote is itemised, and nothing is invoiced until you approve it in writing.",
     },
     {
       question: "How quickly can you build a website for my Neyyattinkara business?",

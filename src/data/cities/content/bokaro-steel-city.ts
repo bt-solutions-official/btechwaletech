@@ -34,7 +34,7 @@ const bokaro: CityContent = {
     pills: ["Websites from ₹10,000", "Vendor capability sites", "Hindi and English pages", "School and coaching sites", "WhatsApp automation"],
   },
   quickAnswer:
-    "For a Bokaro Steel City business, a basic website with our team starts at ₹10,000 and is live in one to two weeks. A 700+ page SEO website costs from ₹20,000, an online store from ₹50,000 and automation from ₹40,000. We are a remote three-engineer team without a Bokaro office, and five months of maintenance are free.",
+    "For a Bokaro Steel City business, a basic website with our team starts at ₹10,000 and is live in one to two weeks. A 299+ page SEO website costs from ₹20,000, an online store from ₹50,000 and automation from ₹40,000. We are a remote three-engineer team without a Bokaro office, and five months of maintenance are free.",
   snapshot: [
     { label: "City type", value: "Planned steel township and headquarters of Bokaro district, with Chas as its twin town" },
     { label: "Anchor industry", value: "Bokaro Steel Plant of SAIL, set up in the 1960s with Soviet collaboration" },
@@ -72,12 +72,12 @@ const bokaro: CityContent = {
       heading: "What a website costs in Bokaro Steel City",
       paragraphs: [
         "Prices around Bokaro run from about ₹3,000 for a template page to ₹50,000 or more from agencies in Ranchi or Kolkata. The low end often lacks search setup, keeps the domain with the developer and has no plan for updates. The high end may be solid work, but it includes the cost of an office, sales staff and project managers who pass your messages along.",
-        "We publish our rates on the <a href=\"/pricing/\">pricing page</a>. A static website for a shop, clinic, coaching centre or small contractor starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website, planned around what people in Bokaro and Chas search for, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, WhatsApp and AI automation at ₹40,000 and monthly SEO at ₹10,000.",
+        "We publish our rates on the <a href=\"/pricing/\">pricing page</a>. A static website for a shop, clinic, coaching centre or small contractor starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website, planned around what people in Bokaro and Chas search for, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, WhatsApp and AI automation at ₹40,000 and monthly SEO at ₹10,000.",
         "The final quote depends on scope. A single-service contractor needs less than a school with admissions, fee payments and twenty staff profiles. You receive an itemised quote within about two working days, and nothing is billed until you approve it in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form, map and basic SEO. For shops, clinics, tutors and consultants.",
-        "<strong>From ₹20,000:</strong> 700+ pages with separate service pages. For contractors, schools and service firms seeking Google enquiries.",
+        "<strong>From ₹20,000:</strong> 299+ pages with separate service pages. For contractors, schools and service firms seeking Google enquiries.",
         "<strong>From ₹50,000:</strong> online store with cart, UPI and card checkout. For retailers and local food brands.",
         "<strong>From ₹60,000:</strong> custom systems with logins and reports. For contractors, Balidih units and institutions.",
       ],
@@ -209,12 +209,12 @@ const bokaro: CityContent = {
     {
       question: "How much does a website cost in Bokaro?",
       answer:
-        "With us, a static business website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Other quotes in Bokaro range from about ₹3,000 to ₹50,000. Compare SEO setup, domain ownership and after-launch support, not only the headline number.",
+        "With us, a static business website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Other quotes in Bokaro range from about ₹3,000 to ₹50,000. Compare SEO setup, domain ownership and after-launch support, not only the headline number.",
     },
     {
       question: "Bokaro me website banwane ka kitna kharcha hai?",
       answer:
-        "Humare saath ek simple business website ₹10,000 se shuru hoti hai, aur 700+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se shuru hota hai. Final price pages, features aur aapke content par depend karti hai. Kaam shuru hone se pehle aapko har cheez ka likhit quote milta hai, aur approval ke bina koi bill nahi banta.",
+        "Humare saath ek simple business website ₹10,000 se shuru hoti hai, aur 299+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se shuru hota hai. Final price pages, features aur aapke content par depend karti hai. Kaam shuru hone se pehle aapko har cheez ka likhit quote milta hai, aur approval ke bina koi bill nahi banta.",
     },
     {
       question: "Do you have an office in Bokaro Steel City?",
@@ -234,7 +234,7 @@ const bokaro: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static website takes one to two weeks, a 700+ page SEO website three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Delays usually come from waiting for content, so we write draft text for you to correct.",
+        "A static website takes one to two weeks, a 299+ page SEO website three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Delays usually come from waiting for content, so we write draft text for you to correct.",
     },
     {
       question: "Can you build a school website with fee payments?",

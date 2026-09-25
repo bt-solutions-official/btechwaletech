@@ -39,7 +39,7 @@ const mandla: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first local SEO", "Resort and safari bookings", "You keep every login"],
   },
   quickAnswer:
-    "Mandla businesses can get a website from us starting at ₹10,000, typically finished within a fortnight. Apps for Android and iOS begin at ₹40,000, as does AI automation; 700+ page SEO sites begin at ₹20,000, online shops at ₹50,000 and bespoke software at ₹60,000. Our team is remote, with no Mandla office, and you hold all accounts.",
+    "Mandla businesses can get a website from us starting at ₹10,000, typically finished within a fortnight. Apps for Android and iOS begin at ₹40,000, as does AI automation; 299+ page SEO sites begin at ₹20,000, online shops at ₹50,000 and bespoke software at ₹60,000. Our team is remote, with no Mandla office, and you hold all accounts.",
   snapshot: [
     { label: "Status", value: "Headquarters of Mandla district in Jabalpur division; municipality since 1867" },
     { label: "River", value: "Built in a loop of the Narmada, which surrounds the town on three sides" },
@@ -100,7 +100,7 @@ const mandla: CityContent = {
         "Industrial Growth Centre Maneri, in the Niwas tehsil of Mandla district, is a multi-product industrial estate of over 500 hectares with a dedicated food park area. MSME units there work in food processing, fabrication and other manufacturing, and many sell to buyers in Jabalpur and beyond who first check a website.",
         "As a <strong>website development team in Mandla</strong> for these units, we build clear industrial sites: products and specifications you can back up, capacities you confirm, registrations and certifications you actually hold, packing and dispatch details, and an enquiry form that goes to email and WhatsApp. A downloadable product sheet helps buyers share your details internally.",
         "We never publish figures, client names or certificates without your written confirmation. A false detail on a website can cost a contract far more than the site cost to build.",
-        "Where a unit makes dozens of product variants, a 700+ page SEO build (₹20,000 onwards, roughly three to five weeks) gives every item and end use its own searchable page. Our <a href=\"/services/web-development/\">web development page</a> explains how we lay these out.",
+        "Where a unit makes dozens of product variants, a 299+ page SEO build (₹20,000 onwards, roughly three to five weeks) gives every item and end use its own searchable page. Our <a href=\"/services/web-development/\">web development page</a> explains how we lay these out.",
       ],
     },
     {
@@ -177,7 +177,7 @@ const mandla: CityContent = {
       id: "website-cost-mandla",
       heading: "Website cost in Mandla: starting prices and what shapes the quote",
       paragraphs: [
-        "Mandla owners usually want the numbers first, so here they are. Brochure-style sites of up to 100 pages: ₹10,000 onwards, ready in a week or two. Large SEO sites above 700 pages: ₹20,000 onwards, three to five weeks. Shops with online checkout: ₹50,000 onwards. Android plus iOS apps: ₹40,000 onwards, and the same for AI automation. Bespoke web software: ₹60,000 onwards over six to twelve weeks.",
+        "Mandla owners usually want the numbers first, so here they are. Brochure-style sites of up to 100 pages: ₹10,000 onwards, ready in a week or two. Large SEO sites above 299 pages: ₹20,000 onwards, three to five weeks. Shops with online checkout: ₹50,000 onwards. Android plus iOS apps: ₹40,000 onwards, and the same for AI automation. Bespoke web software: ₹60,000 onwards over six to twelve weeks.",
         "Treat every figure as the floor. Costs climb with page and product count, bilingual Hindi-English writing, booking calendars, payment gateways, number of app screens, offline sync and hooks into Tally. A jungle lodge with three room grades and a live calendar takes longer than a one-page profile for a hardware shop.",
         "Quotes around Mandla for comparable jobs are all over the place. Before choosing, check whose name the domain sits in, whether the code is handed to you, how many change rounds you get, what the second-year hosting bill looks like and who answers when the site breaks.",
         "Expect our line-by-line quote about two working days after we understand the brief. No invoice is raised until you sign off in writing. The complete list sits on the <a href=\"/pricing/\">pricing page</a>.",
@@ -232,7 +232,7 @@ const mandla: CityContent = {
     {
       question: "How much does a website cost in Mandla?",
       answer:
-        "Prices begin at ₹10,000 for a brochure site of up to 100 pages, usually delivered inside a fortnight. A large SEO site of 700+ pages is ₹20,000 onwards, an online shop ₹50,000 onwards and tailored software ₹60,000 onwards. Treat all of these as floors; your written quote lists each item, such as Hindi pages, booking calendars or payment options, separately.",
+        "Prices begin at ₹10,000 for a brochure site of up to 100 pages, usually delivered inside a fortnight. A large SEO site of 299+ pages is ₹20,000 onwards, an online shop ₹50,000 onwards and tailored software ₹60,000 onwards. Treat all of these as floors; your written quote lists each item, such as Hindi pages, booking calendars or payment options, separately.",
     },
     {
       question: "Do you build Android and iOS apps for Mandla businesses?",

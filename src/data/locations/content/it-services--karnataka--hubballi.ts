@@ -201,7 +201,7 @@ const content: CityContent = {
       id: "software-cost-hubballi",
       heading: "What does a software development team in Hubballi charge compared with us?",
       paragraphs: [
-        "A software development team in Hubballi typically prices in office costs and sales staff, while our starting prices are published: websites ₹10,000, SEO websites with 700+ pages ₹20,000, AI automation ₹40,000, Android and iOS apps ₹40,000, ecommerce ₹50,000, custom software and dashboards ₹60,000, monthly SEO ₹10,000 and maintenance ₹8,000 a month. The full table is on our <a href='/pricing/'>pricing page</a>.",
+        "A software development team in Hubballi typically prices in office costs and sales staff, while our starting prices are published: websites ₹10,000, SEO websites with 299+ pages ₹20,000, AI automation ₹40,000, Android and iOS apps ₹40,000, ecommerce ₹50,000, custom software and dashboards ₹60,000, monthly SEO ₹10,000 and maintenance ₹8,000 a month. The full table is on our <a href='/pricing/'>pricing page</a>.",
         "What changes the final figure: number of users and roles, number of reports, Tally or other integrations, data migration and design work. Every quote is itemised so you can remove a module. Payment is in INR, by UPI QR or bank transfer only, in milestones after you review work on staging.",
       ],
     },

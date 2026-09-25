@@ -35,7 +35,7 @@ const patna: CityContent = {
     pills: ["Plans from ₹10,000", "Hindi-first SEO", "Coaching lead systems", "UPI online stores", "WhatsApp bots"],
   },
   quickAnswer:
-    "A website for a Patna business starts at ₹10,000 with us for a static site and ₹20,000 for a 700+ page SEO site, ready in one to five weeks. Stores start at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team, the domain and hosting are yours, and maintenance is free for five months.",
+    "A website for a Patna business starts at ₹10,000 with us for a static site and ₹20,000 for a 299+ page SEO site, ready in one to five weeks. Stores start at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team, the domain and hosting are yours, and maintenance is free for five months.",
   snapshot: [
     { label: "Commercial roads", value: "Boring Road, Fraser Road, Bailey Road, Exhibition Road and the Maurya Lok complex near Gandhi Maidan" },
     { label: "Old city trade", value: "Patna City and the markets around Patna Sahib, plus wholesale lanes in the older parts of the city" },
@@ -73,12 +73,12 @@ const patna: CityContent = {
       heading: "How much does a website cost in Patna?",
       paragraphs: [
         "In Patna you will see website offers from ₹1,500 to well over ₹1 lakh. The very cheap ones are often a template placed on the developer's own hosting with a yearly renewal you did not expect; if you stop paying, the site disappears. The expensive ones can be good, but a lot of the price goes to overheads you never benefit from. The useful question is what the price includes.",
-        "Here is our structure. A static website of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks. A 700+ page SEO website, with separate pages for each course, treatment or service and for the areas you truly serve, starts at ₹20,000 and takes three to five weeks. An online store with UPI and card payments starts at ₹50,000, over four to eight weeks. Portals and custom software start at ₹60,000, over six to twelve weeks.",
+        "Here is our structure. A static website of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks. A 299+ page SEO website, with separate pages for each course, treatment or service and for the areas you truly serve, starts at ₹20,000 and takes three to five weeks. An online store with UPI and card payments starts at ₹50,000, over four to eight weeks. Portals and custom software start at ₹60,000, over six to twelve weeks.",
         "Automation starts at ₹40,000 and monthly SEO at ₹10,000. Everything is explained on our <a href=\"/pricing/\">pricing page</a>. We send an itemised quote in about two working days, and you pay nothing until you have agreed to it in writing.",
       ],
       list: [
         "<strong>₹10,000 onwards:</strong> a site of up to 100 pages for a clinic, tutor, lawyer, CA, caterer or shop.",
-        "<strong>₹20,000 onwards:</strong> 700+ page search-ready site for institutes and service firms.",
+        "<strong>₹20,000 onwards:</strong> 299+ page search-ready site for institutes and service firms.",
         "<strong>₹50,000 onwards:</strong> online store for makhana, sweets, handicraft and clothing brands.",
         "<strong>₹60,000 onwards:</strong> admission, fee and project portals with logins and roles.",
       ],
@@ -218,12 +218,12 @@ const patna: CityContent = {
     {
       question: "How much does a website cost in Patna?",
       answer:
-        "Our prices in Patna start at ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹50,000 for an online store and ₹60,000 for custom software. Local quotes range from under ₹2,000 to over ₹1 lakh, so compare what each includes: hosting and domain ownership, SEO setup and support after launch.",
+        "Our prices in Patna start at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹50,000 for an online store and ₹60,000 for custom software. Local quotes range from under ₹2,000 to over ₹1 lakh, so compare what each includes: hosting and domain ownership, SEO setup and support after launch.",
     },
     {
       question: "Patna me website banwane me kitna paisa lagta hai?",
       answer:
-        "Humare yahan simple business website ₹10,000 se shuru hoti hai, aur 700+ page wali SEO website ₹20,000 se. Online store ₹50,000 se aur coaching ya hospital ka portal ₹60,000 se banta hai. Kaam shuru hone se pehle poora itemised quote milta hai, aur aapki likhit haan ke bina koi paisa nahi lagta.",
+        "Humare yahan simple business website ₹10,000 se shuru hoti hai, aur 299+ page wali SEO website ₹20,000 se. Online store ₹50,000 se aur coaching ya hospital ka portal ₹60,000 se banta hai. Kaam shuru hone se pehle poora itemised quote milta hai, aur aapki likhit haan ke bina koi paisa nahi lagta.",
     },
     {
       question: "Do you have an office in Patna where I can meet you?",
@@ -243,7 +243,7 @@ const patna: CityContent = {
     {
       question: "How long does it take to make a website?",
       answer:
-        "Usually one to two weeks for a static site, three to five weeks for a 700+ page SEO site, four to eight weeks for an online store and six to twelve weeks for custom software. Waiting for photos and content is the most common delay, so we prepare the first draft of your text ourselves.",
+        "Usually one to two weeks for a static site, three to five weeks for a 299+ page SEO site, four to eight weeks for an online store and six to twelve weeks for custom software. Waiting for photos and content is the most common delay, so we prepare the first draft of your text ourselves.",
     },
     {
       question: "Can you make my website in Hindi?",

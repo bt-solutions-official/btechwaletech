@@ -40,7 +40,7 @@ const paradip: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Port and logistics software", "Odia and English SEO", "WhatsApp replies 7 days"],
   },
   quickAnswer:
-    "For Paradip businesses, we build static websites from ₹10,000 (one to two weeks), 700+ page SEO websites from ₹20,000, Android and iOS apps from ₹40,000, AI automation from ₹40,000 and online stores from ₹50,000. We are a remote team of three engineers with no Paradip office, and the first five months of maintenance after launch are free.",
+    "For Paradip businesses, we build static websites from ₹10,000 (one to two weeks), 299+ page SEO websites from ₹20,000, Android and iOS apps from ₹40,000, AI automation from ₹40,000 and online stores from ₹50,000. We are a remote team of three engineers with no Paradip office, and the first five months of maintenance after launch are free.",
   snapshot: [
     { label: "District", value: "Jagatsinghpur district, on the Odisha coast where the Mahanadi reaches the Bay of Bengal, about 90 km from Cuttack" },
     { label: "Port", value: "Paradip Port, a major port opened in 1966 and the first deep-sea major port commissioned on the east coast after independence" },
@@ -103,12 +103,12 @@ const paradip: CityContent = {
       heading: "Website cost in Paradip: starting prices and what changes them",
       paragraphs: [
         "Paradip owners tend to hear two kinds of quote: a cheap template from a freelancer who may not be around next year, or a large agency figure from Bhubaneswar that includes things a small firm does not need. Our <a href=\"/pricing/\">pricing page</a> shows starting figures so you can compare honestly.",
-        "A static website of up to 100 pages starts at ₹10,000 and is usually live in one to two weeks. A 700+ page SEO website, with pages for every service, cargo type or area, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Monthly SEO is from ₹10,000 a month.",
+        "A static website of up to 100 pages starts at ₹10,000 and is usually live in one to two weeks. A 299+ page SEO website, with pages for every service, cargo type or area, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Monthly SEO is from ₹10,000 a month.",
         "Local quotes vary widely, so compare like with like: whose name the domain sits in, whether hosting is included, whether search setup and Search Console are done, and who fixes problems after launch.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages for shops, lodges, clinics and small contractors",
-        "<strong>From ₹20,000:</strong> 700+ pages for logistics firms, CHAs and multi-service vendors",
+        "<strong>From ₹20,000:</strong> 299+ pages for logistics firms, CHAs and multi-service vendors",
         "<strong>From ₹40,000:</strong> Android and iOS app, or WhatsApp and AI automation",
         "<strong>From ₹60,000:</strong> custom software with logins, reports and billing",
       ],
@@ -237,7 +237,7 @@ const paradip: CityContent = {
     {
       question: "How much does a website cost in Paradip?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the quote depends on pages, features and content. Local quotes vary widely, so check hosting ownership, SEO setup and post-launch support when comparing.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the quote depends on pages, features and content. Local quotes vary widely, so check hosting ownership, SEO setup and post-launch support when comparing.",
     },
     {
       question: "Do you build Android and iOS apps for Paradip businesses?",
@@ -252,7 +252,7 @@ const paradip: CityContent = {
     {
       question: "How long does it take to build a website or app?",
       answer:
-        "A static website takes one to two weeks, a 700+ page SEO site three to five weeks, AI automation two to four weeks, an online store four to eight weeks and custom software six to twelve. Apps depend on features. Waiting for photos and details causes most delays, so we send a checklist upfront.",
+        "A static website takes one to two weeks, a 299+ page SEO site three to five weeks, AI automation two to four weeks, an online store four to eight weeks and custom software six to twelve. Apps depend on features. Waiting for photos and details causes most delays, so we send a checklist upfront.",
     },
     {
       question: "Can you get my Paradip business on Google Maps?",
@@ -277,7 +277,7 @@ const paradip: CityContent = {
     {
       question: "Paradip re website tiari karibaku kete kharcha heba?",
       answer:
-        "Aama sahita sadharana business website ₹10,000 ru arambha hue, au sadharanata 1–2 saptaha re tiari hue. 700+ page SEO website ₹20,000 ru, au Android o iOS app ₹40,000 ru arambha. Kama arambha purbaru likhita quote miliba, au anumati bina kichhi bill heba nahin.",
+        "Aama sahita sadharana business website ₹10,000 ru arambha hue, au sadharanata 1–2 saptaha re tiari hue. 299+ page SEO website ₹20,000 ru, au Android o iOS app ₹40,000 ru arambha. Kama arambha purbaru likhita quote miliba, au anumati bina kichhi bill heba nahin.",
     },
     {
       question: "Can my website be in Odia?",

@@ -35,7 +35,7 @@ const tumkur: CityContent = {
     pills: ["Websites from ₹10,000", "Kannada and English", "Vendor sites for KIADB units", "Coconut product stores", "College and hospital pages"],
   },
   quickAnswer:
-    "In Tumakuru, our static business websites start at ₹10,000 and take one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. We are a remote three-person engineering team with no Tumakuru office, and every site gets five months of free maintenance.",
+    "In Tumakuru, our static business websites start at ₹10,000 and take one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. We are a remote three-person engineering team with no Tumakuru office, and every site gets five months of free maintenance.",
   snapshot: [
     { label: "Location", value: "About 70 km north-west of Bengaluru, on the Bengaluru–Hubballi rail line" },
     { label: "Industrial corridor", value: "Vasanthanarasapura, a node of the Chennai–Bengaluru industrial corridor, with a planned Japanese township" },
@@ -73,12 +73,12 @@ const tumkur: CityContent = {
       heading: "How much a website costs in Tumakuru",
       paragraphs: [
         "Owners here often receive two kinds of quotes. A local designer offers a template site for a few thousand rupees, hosted on an account you cannot access. A Bengaluru agency quotes forty or fifty thousand for a brochure site, with the cost of their Koramangala office built in. Neither makes it easy to see what you are paying for.",
-        "Our prices are published on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages, with mobile layout, enquiry form, map and search basics, starts at ₹10,000 and takes one to two weeks. A 700+ page site planned around real searches starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, AI and WhatsApp automation at ₹40,000 and monthly SEO at ₹10,000.",
+        "Our prices are published on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages, with mobile layout, enquiry form, map and search basics, starts at ₹10,000 and takes one to two weeks. A 299+ page site planned around real searches starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, AI and WhatsApp automation at ₹40,000 and monthly SEO at ₹10,000.",
         "Scope decides the final figure. A clinic with three doctors is quick. A machining unit with twenty processes, machine lists, tolerances and quality certificates needs more pages and careful technical writing. Send us a few lines about your business and we reply with an itemised quote in about two working days.",
       ],
       list: [
         "<strong>Starting ₹10,000:</strong> a compact site for a shop, clinic, tutor or small unit, with map and WhatsApp.",
-        "<strong>Starting ₹20,000:</strong> 700+ pages for firms that want regular enquiries from Google.",
+        "<strong>Starting ₹20,000:</strong> 299+ pages for firms that want regular enquiries from Google.",
         "<strong>Starting ₹50,000:</strong> an online store with UPI, cards, courier rules and order alerts.",
         "<strong>Starting ₹60,000:</strong> portals, job tracking and dashboards for manufacturers and institutions.",
       ],
@@ -219,12 +219,12 @@ const tumkur: CityContent = {
     {
       question: "How much does a website cost in Tumakuru?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. When comparing quotes, ask who owns the domain, whether search setup is included and what support you get after launch.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. When comparing quotes, ask who owns the domain, whether search setup is included and what support you get after launch.",
     },
     {
       question: "Tumakuru nalli website maadisalu eshtu kharchu aagutte?",
       answer:
-        "Namma hattira saamanya website ₹10,000 inda shuru aagutte, 700+ page SEO website ₹20,000 inda, online store ₹50,000 inda. Kelasa shuru maaduva modalu pratiyondu item-in bele bareda quote kodutteve. Neevu oppida nantarave bill maadutteve, mattu domain nimma hesarinalle irutte.",
+        "Namma hattira saamanya website ₹10,000 inda shuru aagutte, 299+ page SEO website ₹20,000 inda, online store ₹50,000 inda. Kelasa shuru maaduva modalu pratiyondu item-in bele bareda quote kodutteve. Neevu oppida nantarave bill maadutteve, mattu domain nimma hesarinalle irutte.",
     },
     {
       question: "Do you have an office in Tumakuru?",
@@ -254,7 +254,7 @@ const tumkur: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Most delays come from waiting for photos and product details, so we send a checklist at the start.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Most delays come from waiting for photos and product details, so we send a checklist at the start.",
     },
     {
       question: "What can WhatsApp automation do for my business?",

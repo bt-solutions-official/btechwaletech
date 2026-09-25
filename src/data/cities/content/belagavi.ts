@@ -35,7 +35,7 @@ const belagavi: CityContent = {
     pills: ["Sites from ₹10,000", "Foundry and machining catalogues", "Kannada, Marathi and English", "Kunda and sweet shop stores", "College and clinic sites"],
   },
   quickAnswer:
-    "For a Belagavi business, our websites start at ₹10,000 for a simple static site and ₹20,000 for a 700+ page SEO site, taking one to five weeks. Online stores begin at ₹50,000 and custom web apps at ₹60,000. We are a remote three-engineer team with no office in Belagavi, and every launch includes five months of free maintenance.",
+    "For a Belagavi business, our websites start at ₹10,000 for a simple static site and ₹20,000 for a 299+ page SEO site, taking one to five weeks. Online stores begin at ₹50,000 and custom web apps at ₹60,000. We are a remote three-engineer team with no office in Belagavi, and every launch includes five months of free maintenance.",
   snapshot: [
     { label: "Old trading core", value: "Khade Bazar, Maruti Galli, Ramdev Galli, Shahapur and the Camp area" },
     { label: "Industrial estates", value: "Udyambag, Macche and the BEMCIEL cooperative estate, home to the foundry cluster" },
@@ -73,12 +73,12 @@ const belagavi: CityContent = {
       heading: "What a website really costs in Belagavi",
       paragraphs: [
         "Quotes for a basic five-page site in Belagavi can start around ₹3,000 and run past ₹50,000. The cheapest usually reuse a theme, leave out SEO and keep the domain in the developer's name. The priciest often include office costs and a salesperson you will never hear from after signing.",
-        "Our starting prices are published openly. A static site of up to 100 pages costs from ₹10,000 and is normally live in one to two weeks. A 700+ page SEO site with separate pages for each service or product line costs from ₹20,000 and takes three to five weeks. An online store with UPI and card checkout starts at ₹50,000, and custom web applications such as RFQ portals or admission systems begin at ₹60,000. Automation starts from ₹40,000 and monthly SEO from ₹10,000 a month.",
+        "Our starting prices are published openly. A static site of up to 100 pages costs from ₹10,000 and is normally live in one to two weeks. A 299+ page SEO site with separate pages for each service or product line costs from ₹20,000 and takes three to five weeks. An online store with UPI and card checkout starts at ₹50,000, and custom web applications such as RFQ portals or admission systems begin at ₹60,000. Automation starts from ₹40,000 and monthly SEO from ₹10,000 a month.",
         "The final number depends on scope. A foundry with twelve product families and good drawings costs less than one with two hundred parts and nothing written down. You get an itemised quote within about two working days, and nothing is billed until you agree in writing. The full list is on our <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [
         "<strong>Static site, from ₹10,000:</strong> up to 100 pages, contact form, map and basic SEO. Suits clinics, consultants and shops.",
-        "<strong>SEO site, from ₹20,000:</strong> 700+ pages, one per service or product family, with schema and sitemap.",
+        "<strong>SEO site, from ₹20,000:</strong> 299+ pages, one per service or product family, with schema and sitemap.",
         "<strong>Online store, from ₹50,000:</strong> catalogue, cart, UPI and card payments, shipping rules. Suits sweet shops and textile sellers.",
         "<strong>Custom web app, from ₹60,000:</strong> logins, dashboards, RFQ and order workflows for manufacturers and institutes.",
       ],
@@ -209,12 +209,12 @@ const belagavi: CityContent = {
     {
       question: "How much does a website cost in Belagavi?",
       answer:
-        "With us, a static site starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. Other Belagavi quotes range from about ₹3,000 to above ₹50,000 for similar work, so compare what is included: SEO setup, ownership of domain and hosting, and support after launch.",
+        "With us, a static site starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. Other Belagavi quotes range from about ₹3,000 to above ₹50,000 for similar work, so compare what is included: SEO setup, ownership of domain and hosting, and support after launch.",
     },
     {
       question: "Belgaum madhe website banvayla kiti kharcha yeto?",
       answer:
-        "Amchyakadun sadhi business website ₹10,000 pasun suru hote, ani 700+ pages chi SEO website ₹20,000 pasun. Online store ₹50,000 pasun banto. Final kimmat pages, products ani features var avalamban aste. Kaam suru honyaadhi tumhala sagla lihun, itemised quote milto, ani tumchya approval shivay kahi bill hot nahi.",
+        "Amchyakadun sadhi business website ₹10,000 pasun suru hote, ani 299+ pages chi SEO website ₹20,000 pasun. Online store ₹50,000 pasun banto. Final kimmat pages, products ani features var avalamban aste. Kaam suru honyaadhi tumhala sagla lihun, itemised quote milto, ani tumchya approval shivay kahi bill hot nahi.",
     },
     {
       question: "Do you have an office in Belagavi?",

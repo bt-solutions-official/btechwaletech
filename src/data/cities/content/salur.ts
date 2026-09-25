@@ -39,7 +39,7 @@ const salur: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu-first Google Maps SEO", "WhatsApp order handling", "Domain and code in your name"],
   },
   quickAnswer:
-    "For Salur businesses, our websites start at ₹10,000 and a simple one is usually live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI automation; a 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Salur office.",
+    "For Salur businesses, our websites start at ₹10,000 and a simple one is usually live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI automation; a 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Salur office.",
   snapshot: [
     { label: "District", value: "Parvathipuram Manyam district, formed in April 2022 from parts of Vizianagaram and Srikakulam districts" },
     { label: "Setting", value: "On the banks of the Vegavathi river, with forests and hills on two sides of the town" },
@@ -219,7 +219,7 @@ const salur: CityContent = {
     {
       question: "What is the website cost in Salur?",
       answer:
-        "Our websites for Salur businesses start at ₹10,000 for a static site of up to 100 pages. A 700+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; your written, itemised quote depends on pages, Telugu content and features.",
+        "Our websites for Salur businesses start at ₹10,000 for a static site of up to 100 pages. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; your written, itemised quote depends on pages, Telugu content and features.",
     },
     {
       question: "Do you build Android and iOS apps for Salur businesses?",
@@ -229,7 +229,7 @@ const salur: CityContent = {
     {
       question: "How long does it take to make a website for a Salur shop?",
       answer:
-        "A simple shop website is usually live within one to two weeks after we receive your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve. Projects finish fastest when the owner shares content early.",
+        "A simple shop website is usually live within one to two weeks after we receive your photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve. Projects finish fastest when the owner shares content early.",
     },
     {
       question: "Which is the best website development team in Salur?",
@@ -249,7 +249,7 @@ const salur: CityContent = {
     {
       question: "Salur lo website cheyinchukovalante entha kharchu avutundi?",
       answer:
-        "Maa daggara simple website ₹10,000 nundi modalavutundi, sadharananga okati rendu varalalo ready avutundi. 700+ pages SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalavutayi. Mee pages, features batti final quote rasi pamputamu.",
+        "Maa daggara simple website ₹10,000 nundi modalavutundi, sadharananga okati rendu varalalo ready avutundi. 299+ pages SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online store ₹50,000 nundi modalavutayi. Mee pages, features batti final quote rasi pamputamu.",
     },
     {
       question: "Salur me website banwane ka kharcha kitna hai?",

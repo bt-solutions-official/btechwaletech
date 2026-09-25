@@ -172,7 +172,7 @@ const content: CityContent = {
       id: "agartala-cost-timeline",
       heading: "How much does software development cost in Agartala, and how long does it take?",
       paragraphs: [
-        "Software development in Agartala with BtechWaleTech starts at ₹60,000 for custom software or web apps (six to twelve weeks), ₹40,000 for AI automation (two to four weeks) or an Android and iOS app (six to ten weeks), ₹50,000 for ecommerce (four to eight weeks), ₹10,000 for a static website (one to two weeks) and ₹20,000 for a 700+ page SEO website (three to five weeks).",
+        "Software development in Agartala with BtechWaleTech starts at ₹60,000 for custom software or web apps (six to twelve weeks), ₹40,000 for AI automation (two to four weeks) or an Android and iOS app (six to ten weeks), ₹50,000 for ecommerce (four to eight weeks), ₹10,000 for a static website (one to two weeks) and ₹20,000 for a 299+ page SEO website (three to five weeks).",
         "The biggest cost drivers are the number of user roles, screens and reports, integrations with other tools, data migration from old spreadsheets, and whether you need a native mobile app. A single-branch billing tool sits near the starting price; a multi-branch system with retailer logins, SMS alerts and a mobile app for riders costs more.",
         "Timelines depend as much on your side as ours. Projects move fastest when one person can answer questions and test within a day or two. See all plans on our <a href=\"/pricing/\">pricing page</a>.",
       ],

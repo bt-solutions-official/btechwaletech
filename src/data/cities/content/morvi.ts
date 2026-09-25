@@ -35,7 +35,7 @@ const morvi: CityContent = {
     pills: ["Websites from ₹10,000", "Tile catalogues with filters", "Export enquiry pages", "Gujarati and English copy", "5 months free maintenance"],
   },
   quickAnswer:
-    "Morbi firms can get a static website from us from ₹10,000, built in one to two weeks. Large catalogue or SEO sites with 700+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and dealer portals or custom software at ₹60,000. We are a remote team without a Morbi office.",
+    "Morbi firms can get a static website from us from ₹10,000, built in one to two weeks. Large catalogue or SEO sites with 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and dealer portals or custom software at ₹60,000. We are a remote team without a Morbi office.",
   snapshot: [
     { label: "Position", value: "District headquarters on the Machchhu river in Saurashtra, about 60 km from Rajkot; a municipal corporation since January 2025" },
     { label: "Ceramics", value: "Over 800 tile factories, often called India's ceramic capital; the Gujarat government credits the district with most of India's ceramic exports" },
@@ -76,7 +76,7 @@ const morvi: CityContent = {
         "Most Morbi units have hundreds of designs across several sizes and finishes. A dealer or architect looking for a 600x1200 glossy marble-look tile does not want to scroll through a 200-page PDF. They want to filter by size, finish, colour, application and series, and see the design in a room photograph.",
         "We build catalogue websites that do exactly that. Each design gets its own page with size, thickness, finish, surface type, recommended use, pieces and coverage per box, and downloadable technical data. Filters let buyers narrow hundreds of designs to a handful in seconds. Because each design has its own address, search engines can index it and dealers can share a precise link on WhatsApp.",
         "Heavy tile images can make sites slow. We compress and resize photographs automatically, so pages stay fast even on a dealer's phone in a small town. When you launch a new series, your team can upload designs in bulk from a spreadsheet rather than one at a time.",
-        "Catalogues of this scale fall under our SEO website plans, from ₹20,000 for 700+ pages. Integrations with your ERP or stock system are quoted separately and itemised.",
+        "Catalogues of this scale fall under our SEO website plans, from ₹20,000 for 299+ pages. Integrations with your ERP or stock system are quoted separately and itemised.",
       ],
       list: [
         "Filters for size, finish, colour, application and series",
@@ -100,12 +100,12 @@ const morvi: CityContent = {
       heading: "What a website costs in Morbi",
       paragraphs: [
         "In Morbi you will find quotes ranging from template sites made by a local designer to large figures from agencies in Ahmedabad or Rajkot. Before comparing, check who will own the domain, whether the catalogue can be updated by your team, and whether search setup is included.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages starts at ₹10,000, ready in one to two weeks; it suits suppliers, transporters, shops and clinics. A catalogue or SEO site with 700+ pages starts at ₹20,000. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, and dealer portals or custom software at ₹60,000. Monthly SEO starts at ₹10,000.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages starts at ₹10,000, ready in one to two weeks; it suits suppliers, transporters, shops and clinics. A catalogue or SEO site with 299+ pages starts at ₹20,000. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, and dealer portals or custom software at ₹60,000. Monthly SEO starts at ₹10,000.",
         "The quote lists each page, feature and integration separately. You can drop what you do not need, and nothing is billed until you approve it in writing.",
       ],
       list: [
         "<strong>Starts at ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form and basic SEO.",
-        "<strong>Starts at ₹20,000:</strong> 700+ page catalogue or service site with filters.",
+        "<strong>Starts at ₹20,000:</strong> 299+ page catalogue or service site with filters.",
         "<strong>Starts at ₹50,000:</strong> online store with UPI, cards and freight rules.",
         "<strong>Starts at ₹60,000:</strong> dealer ordering, dispatch or stock portal with logins.",
       ],
@@ -227,7 +227,7 @@ const morvi: CityContent = {
     {
       question: "How much does a website cost in Morbi?",
       answer:
-        "Static websites start at ₹10,000, catalogue or SEO sites with 700+ pages at ₹20,000, online stores at ₹50,000 and dealer portals or custom software at ₹60,000. These are starting prices. The final amount depends on your catalogue and features, and you see a written, itemised quote first.",
+        "Static websites start at ₹10,000, catalogue or SEO sites with 299+ pages at ₹20,000, online stores at ₹50,000 and dealer portals or custom software at ₹60,000. These are starting prices. The final amount depends on your catalogue and features, and you see a written, itemised quote first.",
     },
     {
       question: "Morbi ma website banavva no kharcho ketlo thay?",

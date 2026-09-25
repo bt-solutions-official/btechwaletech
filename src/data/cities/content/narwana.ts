@@ -39,7 +39,7 @@ const narwana: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Mandi and sheller software", "Hindi and English local SEO", "Domain and code in your name"],
   },
   quickAnswer:
-    "For Narwana businesses, our websites start at ₹10,000 and usually take one to two weeks. Android and iOS apps and AI automation begin at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Narwana office, and you own every account.",
+    "For Narwana businesses, our websites start at ₹10,000 and usually take one to two weeks. Android and iOS apps and AI automation begin at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Narwana office, and you own every account.",
   snapshot: [
     { label: "Location", value: "Town and municipal council in Jind district, about 36 km from Jind city" },
     { label: "Rail", value: "Narwana Junction (NRW) on the Delhi–Bathinda line, with a branch towards Kurukshetra" },
@@ -149,7 +149,7 @@ const narwana: CityContent = {
       id: "website-cost-narwana",
       heading: "Website cost in Narwana: starting prices and how to compare quotes",
       paragraphs: [
-        "We publish our starting points so Narwana businesses can budget before calling: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 700+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000 in two to four weeks, an online store from ₹50,000 in four to eight weeks, and custom software from ₹60,000 over six to twelve weeks.",
+        "We publish our starting points so Narwana businesses can budget before calling: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 299+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000 in two to four weeks, an online store from ₹50,000 in four to eight weeks, and custom software from ₹60,000 over six to twelve weeks.",
         "Prices climb with scope. Hindi and English versions, large catalogues, payment and courier links, staff logins and Tally integration each add a line. If you supply text and photographs, the figure stays near the starting point; if we write copy or organise a photo shoot, that is shown separately.",
         "Local quotes vary widely. When comparing, ask whose name the domain and hosting will be in, whether mobile testing and basic SEO are included, how many rounds of changes you get, and who answers the phone after launch. Our <a href=\"/pricing/\">pricing page</a> lists every starting price, and you receive a written quote in about two working days.",
       ],
@@ -210,7 +210,7 @@ const narwana: CityContent = {
     {
       question: "What is the website cost in Narwana?",
       answer:
-        "A static website with us starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, Hindi content, products and integrations. You receive an itemised written quote before anything is billed.",
+        "A static website with us starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final figure depends on pages, Hindi content, products and integrations. You receive an itemised written quote before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Narwana businesses?",
@@ -225,7 +225,7 @@ const narwana: CityContent = {
     {
       question: "How long does a website take for a Narwana shop?",
       answer:
-        "A static website normally goes live one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Having your content and logo ready is what speeds things up most.",
+        "A static website normally goes live one to two weeks after we receive your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Having your content and logo ready is what speeds things up most.",
     },
     {
       question: "Which is the best website development team in Narwana?",
@@ -245,7 +245,7 @@ const narwana: CityContent = {
     {
       question: "Narwana me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek se do hafte mein taiyaar ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Poora quote likhit mein, har item alag karke milta hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur aam taur par ek se do hafte mein taiyaar ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Poora quote likhit mein, har item alag karke milta hai.",
     },
     {
       question: "You have no office in Narwana. How do we work together safely?",

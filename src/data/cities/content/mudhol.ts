@@ -39,7 +39,7 @@ const mudhol: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Kannada and English pages", "Cane season record-keeping", "Your name on every account"],
   },
   quickAnswer:
-    "For a Mudhol shop, clinic or trader, a website with us starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site starts at ₹20,000, Android and iOS apps and AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Mudhol office, and you own everything.",
+    "For a Mudhol shop, clinic or trader, a website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, Android and iOS apps and AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Mudhol office, and you own everything.",
   snapshot: [
     { label: "Where", value: "Taluk headquarters in Bagalkot district, about 60 km from Bagalkot and 25 km from Jamakhandi" },
     { label: "River", value: "Left bank of the Ghataprabha, whose canals water the taluk's sugarcane, wheat and jowar" },
@@ -158,7 +158,7 @@ const mudhol: CityContent = {
       id: "website-cost-mudhol",
       heading: "Website cost in Mudhol: starting prices by type of business",
       paragraphs: [
-        "It is easier to talk about price by business than by package, so here is how it usually works out for Mudhol clients. A clinic, school, pet shop or spares dealer typically needs a static site of up to 100 pages, which starts at ₹10,000 and takes one to two weeks. A coaching centre or dealer who wants a page for every course, product and nearby village needs an SEO build of 700 pages or more, from ₹20,000 over three to five weeks.",
+        "It is easier to talk about price by business than by package, so here is how it usually works out for Mudhol clients. A clinic, school, pet shop or spares dealer typically needs a static site of up to 100 pages, which starts at ₹10,000 and takes one to two weeks. A coaching centre or dealer who wants a page for every course, product and nearby village needs an SEO build of 299 pages or more, from ₹20,000 over three to five weeks.",
         "A jaggery maker or saree seller who wants to take payment online needs a store, from ₹50,000 over four to eight weeks. A transporter or dealer who needs a trip register or credit ledger needs custom software, from ₹60,000 over six to twelve weeks. Apps for Android and iPhone, and AI automation, each start at ₹40,000. Ongoing monthly SEO starts at ₹10,000.",
         "Local quotes for similar-looking work vary widely, so compare more than the headline number. Ask who registers the domain, whether the site is tested on cheap phones, whether Kannada is included or extra, how many revision rounds you get and what happens when something breaks a year later. Our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and your itemised quote arrives in about two working days.",
       ],
@@ -227,7 +227,7 @@ const mudhol: CityContent = {
     {
       question: "How much does a website cost in Mudhol?",
       answer:
-        "A static website of up to 100 pages starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices only. Your quote depends on pages, Kannada content, products and integrations, and it comes itemised in writing before any billing.",
+        "A static website of up to 100 pages starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices only. Your quote depends on pages, Kannada content, products and integrations, and it comes itemised in writing before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Mudhol businesses?",
@@ -237,7 +237,7 @@ const mudhol: CityContent = {
     {
       question: "How long does it take to build a website for a Mudhol shop?",
       answer:
-        "A simple shop or clinic site usually goes live one to two weeks after we receive your photographs and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Most delays come from waiting for content, so sending it early is the quickest way to launch.",
+        "A simple shop or clinic site usually goes live one to two weeks after we receive your photographs and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Most delays come from waiting for content, so sending it early is the quickest way to launch.",
     },
     {
       question: "Which is the best IT services team in Mudhol for a small business?",

@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Where it happens", value: "Online; no office visits needed" },
       { label: "Reports", value: "Search Console, profile insights, grid rank checks" },
       { label: "What we will not do", value: "Fake reviews, keyword-stuffed names, fake addresses" },
-      { label: "New website if needed", value: `From ${P.site}; 700+ page SEO site from ${P.seoSite}` },
+      { label: "New website if needed", value: `From ${P.site}; 299+ page SEO site from ${P.seoSite}` },
     ],
   },
   services: {

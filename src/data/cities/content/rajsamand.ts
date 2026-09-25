@@ -39,7 +39,7 @@ const rajsamand: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Marble catalogues and RFQs", "Hindi and English local SEO", "Code and domain in your name"],
   },
   quickAnswer:
-    "A Rajsamand business website starts at ₹10,000 with us and is normally online in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, SEO sites of 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely with no Rajsamand office, and you remain the owner of every account.",
+    "A Rajsamand business website starts at ₹10,000 with us and is normally online in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, SEO sites of 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely with no Rajsamand office, and you remain the owner of every account.",
   snapshot: [
     { label: "Location", value: "District headquarters about 65 km north of Udaipur on NH 48, formed by the twin towns of Kankroli and Rajnagar" },
     { label: "Lake", value: "Rajsamand Lake, built by Maharana Raj Singh of Mewar and completed around 1676, with the marble Nauchowki embankment" },
@@ -78,7 +78,7 @@ const rajsamand: CityContent = {
       paragraphs: [
         "Rajsamand is one of India's main sources of marble, and the district also supplies granite and other stone. Blocks come in from quarries, are sawn into slabs in gangsaw units, many of them in the RIICO industrial area at Dhoinda, then polished, graded and sold to traders, builders and architects across the country. Buyers who used to travel to see stock now increasingly ask for photographs and videos first.",
         "A <strong>website development team in Rajsamand</strong> serving this trade should build catalogues that show stone honestly: each variety with clear photographs under daylight, finish options, standard thicknesses and sizes, typical applications, and a simple way to request current stock pictures on WhatsApp. For exporters and larger firms, English pages on processing capacity, machinery, packing and dispatch help serious buyers shortlist you.",
-        "We never invent stone names, quarry origins, test values or project references; every technical detail comes from you. A catalogue site starts at ₹10,000. Units with many varieties often choose a 700+ page SEO site from ₹20,000, giving each stone, colour and application its own page so buyers searching for a particular marble can land directly on it.",
+        "We never invent stone names, quarry origins, test values or project references; every technical detail comes from you. A catalogue site starts at ₹10,000. Units with many varieties often choose a 299+ page SEO site from ₹20,000, giving each stone, colour and application its own page so buyers searching for a particular marble can land directly on it.",
       ],
     },
     {
@@ -210,7 +210,7 @@ const rajsamand: CityContent = {
     {
       question: "What is the website cost in Rajsamand?",
       answer:
-        "We start static websites at ₹10,000, 700+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. Those are starting prices; your quote depends on pages, Hindi content, stone varieties or products and integrations. It arrives itemised in writing, and nothing is billed before you approve it.",
+        "We start static websites at ₹10,000, 299+ page SEO sites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. Those are starting prices; your quote depends on pages, Hindi content, stone varieties or products and integrations. It arrives itemised in writing, and nothing is billed before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Rajsamand businesses?",
@@ -220,7 +220,7 @@ const rajsamand: CityContent = {
     {
       question: "How long does a website take for a Rajsamand business?",
       answer:
-        "A static site usually goes live one to two weeks after we receive details and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight and custom software six to twelve. Marble catalogues move fastest when the stone photographs are shot in daylight before we begin.",
+        "A static site usually goes live one to two weeks after we receive details and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight and custom software six to twelve. Marble catalogues move fastest when the stone photographs are shot in daylight before we begin.",
     },
     {
       question: "Which is the best website development team in Rajsamand?",
@@ -235,7 +235,7 @@ const rajsamand: CityContent = {
     {
       question: "Can you build a marble catalogue website for a gangsaw unit?",
       answer:
-        "Yes. We build catalogues with daylight photographs of each variety, finishes, sizes, thicknesses and applications, plus a WhatsApp button for current stock pictures. Everything technical comes from you. A catalogue site starts at ₹10,000, and a 700+ page SEO version with a page per stone starts at ₹20,000.",
+        "Yes. We build catalogues with daylight photographs of each variety, finishes, sizes, thicknesses and applications, plus a WhatsApp button for current stock pictures. Everything technical comes from you. A catalogue site starts at ₹10,000, and a 299+ page SEO version with a page per stone starts at ₹20,000.",
     },
     {
       question: "Do you offer WhatsApp and AI automation in Rajsamand?",
@@ -245,7 +245,7 @@ const rajsamand: CityContent = {
     {
       question: "Rajsamand me website banwane ka kharcha kitna hai?",
       answer:
-        "Rajsamand ke business ke liye hamari simple website ₹10,000 se shuru hoti hai, aur lagbhag ek se do hafte lagte hain. 700+ page SEO site ₹20,000 se, Android-iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapki zaroorat dekhkar poori list likhit quote mein bhej dete hain.",
+        "Rajsamand ke business ke liye hamari simple website ₹10,000 se shuru hoti hai, aur lagbhag ek se do hafte lagte hain. 299+ page SEO site ₹20,000 se, Android-iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapki zaroorat dekhkar poori list likhit quote mein bhej dete hain.",
     },
     {
       question: "You have no office in Rajsamand. Is remote work safe?",

@@ -160,7 +160,7 @@ const content: CityContent = {
       id: "kollam-websites-seo",
       heading: "Websites and SEO for Kollam companies that want enquiries, not just a brochure",
       paragraphs: [
-        "A Kollam company website should bring enquiries from the right buyers, whether that is an importer searching for Kerala cashew suppliers or a family searching for a hospital in Kollam. We build fast static websites from ₹10,000 and larger SEO websites of 700+ pages from ₹20,000, with schema markup, sitemaps and a clear page for every product or service.",
+        "A Kollam company website should bring enquiries from the right buyers, whether that is an importer searching for Kerala cashew suppliers or a family searching for a hospital in Kollam. We build fast static websites from ₹10,000 and larger SEO websites of 299+ pages from ₹20,000, with schema markup, sitemaps and a clear page for every product or service.",
         "Search work for Kollam has two sides. The first is local: people searching for services in Kollam town, Karunagappally, Kottarakkara, Punalur or Chavara. That needs a properly maintained Google Business Profile, consistent contact details and pages that mention the areas you really serve. The second is export or statewide: buyers searching by product, grade or specification. That needs detailed product pages, certifications explained clearly and a site that loads fast from abroad.",
         "We also prepare pages for AI search tools, which increasingly answer questions directly. Clear facts, structured FAQs and consistent business data make it more likely that your firm is cited correctly. Rankings are never guaranteed, and anyone who promises page one in a month is guessing. Details are on our <a href='/services/seo-services/'>SEO services page</a> and <a href='/services/web-development/'>web development page</a>.",
       ],
@@ -193,7 +193,7 @@ const content: CityContent = {
       id: "timelines-costs-kollam",
       heading: "What does custom software cost in Kollam, and how long does it take?",
       paragraphs: [
-        "A focused custom web application for a Kollam business usually takes six to twelve weeks and starts at ₹60,000, while AI or WhatsApp automation projects take two to four weeks and start at ₹40,000. Websites move faster: one to two weeks for a static site from ₹10,000, and three to five weeks for a 700+ page SEO site from ₹20,000.",
+        "A focused custom web application for a Kollam business usually takes six to twelve weeks and starts at ₹60,000, while AI or WhatsApp automation projects take two to four weeks and start at ₹40,000. Websites move faster: one to two weeks for a static site from ₹10,000, and three to five weeks for a 299+ page SEO site from ₹20,000.",
         "The real timeline depends on how clear the workflow is and how quickly feedback arrives. We work in short cycles and share a live preview link, so you see working screens early rather than waiting for a big reveal. If your team can test each week, projects finish on time. If a supervisor is only available during the off-season, we plan around that.",
         "Costs rise with the number of user roles, reports, integrations and data migration. Importing ten years of old ledger data costs more than starting fresh. Connecting to Tally or a courier API adds scope. We list every such item separately in the quote, which usually reaches you within two working days of the first conversation. Full rates are on our <a href='/pricing/'>pricing page</a>.",
       ],
@@ -259,7 +259,7 @@ const content: CityContent = {
     {
       question: "How long will our software take to build?",
       answer:
-        "Most custom web applications take six to twelve weeks. Automation projects take two to four weeks, a static website one to two weeks, and a 700+ page SEO website three to five weeks. We share a live preview link during development so your supervisors can test real screens early, which keeps the timeline predictable.",
+        "Most custom web applications take six to twelve weeks. Automation projects take two to four weeks, a static website one to two weeks, and a 299+ page SEO website three to five weeks. We share a live preview link during development so your supervisors can test real screens early, which keeps the timeline predictable.",
     },
     {
       question: "Can the software screens be in Malayalam?",

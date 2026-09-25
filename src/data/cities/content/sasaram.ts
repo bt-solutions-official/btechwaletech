@@ -35,7 +35,7 @@ const sasaram: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi and Bhojpuri-aware copy", "Rice mill and trade pages", "Clinic and hospital sites", "WhatsApp enquiry automation"],
   },
   quickAnswer:
-    "A simple business website in Sasaram starts at ₹10,000 with us and is ready in one to two weeks. A 700+ page site built for search starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote team with no office in Sasaram, and maintenance is free for five months after launch.",
+    "A simple business website in Sasaram starts at ₹10,000 with us and is ready in one to two weeks. A 299+ page site built for search starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote team with no office in Sasaram, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "District role", value: "Headquarters of Rohtas district in Patna division, on the Grand Trunk Road between the Sone and the Kaimur hills" },
     { label: "Farm economy", value: "Rohtas is known as a rice bowl of Bihar (“dhan ka katora”), and rice milling is a leading local industry" },
@@ -73,7 +73,7 @@ const sasaram: CityContent = {
       heading: "Website costs in Sasaram, with nothing hidden",
       paragraphs: [
         "Owners in Sasaram usually hear one of two numbers. A computer centre may offer a page for a few thousand rupees, often built on a free platform under its own account. An agency in Patna or Varanasi may quote several times our rate, with office costs built in. We list our rates on the <a href=\"/pricing/\">pricing page</a> so you can see what each level covers.",
-        "A static website with up to 100 pages starts at ₹10,000 and takes one to two weeks, with a mobile layout, enquiry form, map, WhatsApp button and basic search setup. A larger 700+ page site, with pages for each product, service or course, starts at ₹20,000 and takes three to five weeks. Stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
+        "A static website with up to 100 pages starts at ₹10,000 and takes one to two weeks, with a mobile layout, enquiry form, map, WhatsApp button and basic search setup. A larger 299+ page site, with pages for each product, service or course, starts at ₹20,000 and takes three to five weeks. Stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
         "The final number depends on what you need. A single-doctor clinic needs much less than a hospital with eight departments. You receive an itemised quote in about two working days, and nothing is billed until you approve it in writing.",
       ],
       list: [
@@ -217,12 +217,12 @@ const sasaram: CityContent = {
     {
       question: "What does a website cost in Sasaram?",
       answer:
-        "With us a static site starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. When comparing other quotes in Sasaram, check whose name the domain is in, whether basic SEO is included and what support comes after launch.",
+        "With us a static site starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. When comparing other quotes in Sasaram, check whose name the domain is in, whether basic SEO is included and what support comes after launch.",
     },
     {
       question: "Sasaram me dukaan ya clinic ki website kitne me banegi?",
       answer:
-        "Humare yahan simple website ₹10,000 se shuru hoti hai aur ek se do hafte me taiyaar ho jaati hai. 700+ page wali SEO website ₹20,000 se aur online store ₹50,000 se shuru hai. Pehle likhit quote bhejte hain, aur aapki manzoori ke bina koi paisa nahi lete.",
+        "Humare yahan simple website ₹10,000 se shuru hoti hai aur ek se do hafte me taiyaar ho jaati hai. 299+ page wali SEO website ₹20,000 se aur online store ₹50,000 se shuru hai. Pehle likhit quote bhejte hain, aur aapki manzoori ke bina koi paisa nahi lete.",
     },
     {
       question: "Is your office in Sasaram or Patna?",

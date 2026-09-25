@@ -39,7 +39,7 @@ const thoubal: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Handloom and kouna stores", "Light pages for weak networks", "Accounts in your name"],
   },
   quickAnswer:
-    "In Thoubal, our websites start at ₹10,000 and a simple one is usually ready in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation. A 700+ page SEO site starts at ₹20,000 and a handloom or craft store at ₹50,000. We work remotely with no Thoubal office, and you own the code.",
+    "In Thoubal, our websites start at ₹10,000 and a simple one is usually ready in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation. A 299+ page SEO site starts at ₹20,000 and a handloom or craft store at ₹50,000. We work remotely with no Thoubal office, and you own the code.",
   snapshot: [
     { label: "Location", value: "District headquarters of Thoubal district, about 22 km south of Imphal on the Imphal–Moreh road (Asian Highway 1)" },
     { label: "Town population", value: "About 45,900 at the 2011 census; the district had about 2.87 lakh people in 324 sq km" },
@@ -123,7 +123,7 @@ const thoubal: CityContent = {
         "Thoubal College and Waikhom Mani Girls' College, founded in 1980 to expand higher education for women, draw students from across the district. Around them sit private schools, tuition centres and coaching classes preparing students for entrance and competitive exams.",
         "Students and parents want the same few facts: courses, seats, fees, dates, documents, results and how to contact someone who will actually reply. A <strong>website development team in Thoubal</strong> should put those on clear pages and keep them updated through the admission season, not just publish once and forget.",
         "We build admission pages with online forms and document uploads, notice boards that staff can update from a phone, results pages, and a gallery. Coaching centres get batch schedules, faculty pages and a demo class request. Where a college already uses a government or university portal, we link to it clearly instead of duplicating it.",
-        "A site of this kind starts at ₹10,000. A 700+ page SEO build, useful when an institute wants separate pages for every course, subject and nearby town, starts at ₹20,000.",
+        "A site of this kind starts at ₹10,000. A 299+ page SEO build, useful when an institute wants separate pages for every course, subject and nearby town, starts at ₹20,000.",
       ],
     },
     {
@@ -164,7 +164,7 @@ const thoubal: CityContent = {
       ],
       list: [
         "Static website up to 100 pages: from ₹10,000, one to two weeks",
-        "SEO website with 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website with 299+ pages: from ₹20,000, three to five weeks",
         "Android and iOS app: from ₹40,000",
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Online store: from ₹50,000, four to eight weeks",
@@ -228,7 +228,7 @@ const thoubal: CityContent = {
     {
       question: "How much does a website cost in Thoubal?",
       answer:
-        "Our static websites start at ₹10,000 and 700+ page SEO websites at ₹20,000. Online stores for handloom or crafts start at ₹50,000 and custom software at ₹60,000. Every figure is a starting price; your quote depends on pages, products, translation and features, and it is itemised in writing before any billing.",
+        "Our static websites start at ₹10,000 and 299+ page SEO websites at ₹20,000. Online stores for handloom or crafts start at ₹50,000 and custom software at ₹60,000. Every figure is a starting price; your quote depends on pages, products, translation and features, and it is itemised in writing before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Thoubal businesses?",
@@ -238,7 +238,7 @@ const thoubal: CityContent = {
     {
       question: "How long does it take to build a website in Thoubal?",
       answer:
-        "A simple site usually goes live in one to two weeks after we receive photos and details. Allow three to five weeks for a 700+ page SEO site, four to eight for an online store and six to twelve for custom software. Waiting for content is the most common cause of delay.",
+        "A simple site usually goes live in one to two weeks after we receive photos and details. Allow three to five weeks for a 299+ page SEO site, four to eight for an online store and six to twelve for custom software. Waiting for content is the most common cause of delay.",
     },
     {
       question: "Which is the best website design team in Thoubal?",
@@ -263,7 +263,7 @@ const thoubal: CityContent = {
     {
       question: "Thoubal me website banwane ka kitna kharcha hai?",
       answer:
-        "Hamare saath basic website ₹10,000 se shuru hoti hai aur aam taur par ek se do hafte mein taiyar ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hai. Poora quote likhit mein milta hai, approval ke baad hi kaam shuru hota hai.",
+        "Hamare saath basic website ₹10,000 se shuru hoti hai aur aam taur par ek se do hafte mein taiyar ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se, aur online store ₹50,000 se shuru hai. Poora quote likhit mein milta hai, approval ke baad hi kaam shuru hota hai.",
     },
     {
       question: "You have no office in Thoubal. How can I trust the work?",

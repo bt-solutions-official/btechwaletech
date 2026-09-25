@@ -140,7 +140,7 @@ const content: CityContent = {
       paragraphs: [
         "A B2B website for a Kathua manufacturer shows procurement teams what you make, your capacity, certifications, plant location and how to request a quote, in a format they can review in minutes. Many buyers shortlist suppliers online before calling, and a thin or outdated site loses them to competitors in Punjab or Himachal.",
         "Useful pages include product ranges with specifications, a capabilities page covering machines and capacity, quality and certification details, industries served, a plant page mentioning Kathua's position on NH-44 near the Punjab border, and a request-for-quote form that reaches sales on email and WhatsApp.",
-        "A static B2B site starts from ₹10,000; manufacturers with large product ranges can choose a 700+ page SEO website from ₹20,000, with a page per product and application. See our <a href='/services/'>services overview</a> for how websites connect to the rest of your systems.",
+        "A static B2B site starts from ₹10,000; manufacturers with large product ranges can choose a 299+ page SEO website from ₹20,000, with a page per product and application. See our <a href='/services/'>services overview</a> for how websites connect to the rest of your systems.",
       ],
     },
     {
@@ -175,12 +175,12 @@ const content: CityContent = {
       id: "kathua-software-cost",
       heading: "How much does software development cost in Kathua?",
       paragraphs: [
-        "Software development in Kathua starts from ₹60,000 for custom workflow or production software, ₹40,000 for an Android and iOS app, ₹40,000 for AI automation, ₹50,000 for an online store, ₹20,000 for a 700+ page SEO website and ₹10,000 for a static B2B website. All are starting prices; final cost depends on modules, users, integrations and data migration.",
+        "Software development in Kathua starts from ₹60,000 for custom workflow or production software, ₹40,000 for an Android and iOS app, ₹40,000 for AI automation, ₹50,000 for an online store, ₹20,000 for a 299+ page SEO website and ₹10,000 for a static B2B website. All are starting prices; final cost depends on modules, users, integrations and data migration.",
         "Costs rise with more departments, complex approval chains, machine or weighbridge integrations and importing historic records. They stay manageable when the first release covers the most painful workflow and later modules follow. Every quote is itemised within about two working days, so you can remove what you do not need. See our <a href='/pricing/'>pricing page</a> for plan details.",
       ],
       list: [
         "B2B website: from ₹10,000, 1 to 2 weeks",
-        "SEO website with 700+ pages: from ₹20,000, 3 to 5 weeks",
+        "SEO website with 299+ pages: from ₹20,000, 3 to 5 weeks",
         "Android and iOS app: from ₹40,000, 6 to 10 weeks",
         "AI automation: from ₹40,000, 2 to 4 weeks",
         "Online store or B2B ordering: from ₹50,000, 4 to 8 weeks",

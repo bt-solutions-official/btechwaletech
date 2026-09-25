@@ -177,7 +177,7 @@ const content: CityContent = {
       id: "belonia-costs",
       heading: "How much do IT services cost in Belonia?",
       paragraphs: [
-        "IT services in Belonia with BtechWaleTech start at ₹10,000 for a website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software or logistics tools. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months.",
+        "IT services in Belonia with BtechWaleTech start at ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software or logistics tools. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months.",
         "The final price depends on your scope. An information website for a school sits near the starting figure; a trade system with driver apps, document uploads and customer notifications costs more. We send an itemised quote within about two working days, and you can remove anything you do not need. Compare plans on our <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [

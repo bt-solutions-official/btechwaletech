@@ -39,7 +39,7 @@ const sopore: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Urdu, Hindi and English pages", "Apple trade software", "Domain and code in your name"],
   },
   quickAnswer:
-    "For Sopore businesses, our websites start at ₹10,000 and take one to two weeks. Android and iOS apps and AI automation begin at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software from ₹60,000. We are a remote team with no Sopore office, and you keep ownership of everything we build.",
+    "For Sopore businesses, our websites start at ₹10,000 and take one to two weeks. Android and iOS apps and AI automation begin at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software from ₹60,000. We are a remote team with no Sopore office, and you keep ownership of everything we build.",
   snapshot: [
     { label: "Location", value: "Town on the Jhelum in Baramulla district, about 45 km north-west of Srinagar and 16 km from Baramulla" },
     { label: "Population", value: "About 71,300 in the urban area at the 2011 Census" },
@@ -164,7 +164,7 @@ const sopore: CityContent = {
       id: "website-cost-sopore",
       heading: "Website cost in Sopore: starting prices and what changes them",
       paragraphs: [
-        "The honest answer to “what is the <strong>website cost in Sopore</strong>?” is that it depends on what the site has to do. Our starting prices are public: a static website of up to 100 pages from ₹10,000, a 700+ page SEO website from ₹20,000, an Android and iOS app from ₹40,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000.",
+        "The honest answer to “what is the <strong>website cost in Sopore</strong>?” is that it depends on what the site has to do. Our starting prices are public: a static website of up to 100 pages from ₹10,000, a 299+ page SEO website from ₹20,000, an Android and iOS app from ₹40,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000.",
         "What moves the figure up is usually content in more than one language, a large product catalogue, payment integration, user logins, or a connection to Tally or your mandi records. Photography and copywriting, if you want us to arrange them, are listed separately.",
         "Local quotes vary widely. When you compare them, check who will own the domain and hosting, whether the source code is handed over, how many revisions are included, how long free support lasts and what the yearly renewal will cost. A cheap site that someone else controls can become expensive later.",
         "We send an itemised quote in about two working days and bill nothing until you approve it in writing. The full price list is on our <a href=\"/pricing/\">pricing page</a>.",
@@ -229,7 +229,7 @@ const sopore: CityContent = {
     {
       question: "What is the website cost in Sopore?",
       answer:
-        "Our static websites start at ₹10,000 and 700+ page SEO websites at ₹20,000. Online stores start at ₹50,000, apps and AI automation at ₹40,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, languages, payments and integrations, and every item is listed separately before you approve anything.",
+        "Our static websites start at ₹10,000 and 299+ page SEO websites at ₹20,000. Online stores start at ₹50,000, apps and AI automation at ₹40,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, languages, payments and integrations, and every item is listed separately before you approve anything.",
     },
     {
       question: "How long does it take to build a website for a Sopore business?",

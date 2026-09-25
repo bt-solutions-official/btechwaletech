@@ -34,7 +34,7 @@ const rajnandgaon: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi and Chhattisgarhi-aware copy", "Mill and trader catalogues", "Pilgrim-season hotel pages", "You own domain and code"],
   },
   quickAnswer:
-    "In Rajnandgaon, our websites start from ₹10,000 and a simple site usually goes live in one to two weeks. Larger 700+ page SEO sites start at ₹20,000, AI and WhatsApp automation at ₹40,000 and online stores at ₹50,000. We are three remote engineers with no local office, and the first five months of maintenance are free.",
+    "In Rajnandgaon, our websites start from ₹10,000 and a simple site usually goes live in one to two weeks. Larger 299+ page SEO sites start at ₹20,000, AI and WhatsApp automation at ₹40,000 and online stores at ₹50,000. We are three remote engineers with no local office, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of Rajnandgaon district in Durg division, carved out of Durg district in 1973" },
     { label: "Location", value: "On the Howrah–Nagpur–Mumbai rail line and the Raipur–Nagpur highway, west of Durg–Bhilai" },
@@ -72,12 +72,12 @@ const rajnandgaon: CityContent = {
       heading: "Website prices in Rajnandgaon: our starting points",
       paragraphs: [
         "Ask five people in Rajnandgaon what a website costs and you will get five answers, from ₹3,000 for a template to agency quotes from Raipur several times our starting figures. The difference usually lies in what is left out: search setup, hosting in your name, speed, and support after launch.",
-        "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages starts from ₹10,000, typically ready in one to two weeks. A 700+ page site designed around search, with separate pages for each product, service or area, starts at ₹20,000 and takes three to five weeks. Automation starts from ₹40,000, an online store from ₹50,000, and custom software from ₹60,000. Ongoing SEO starts at ₹10,000 a month.",
+        "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages starts from ₹10,000, typically ready in one to two weeks. A 299+ page site designed around search, with separate pages for each product, service or area, starts at ₹20,000 and takes three to five weeks. Automation starts from ₹40,000, an online store from ₹50,000, and custom software from ₹60,000. Ongoing SEO starts at ₹10,000 a month.",
         "Your actual quote depends on how many pages you need, what features you want and how much content we must write. It arrives in writing, item by item, so you can compare it fairly with anyone else's offer.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages with mobile layout, enquiry form, WhatsApp button and map. For shops, tutors, clinics and small traders.",
-        "<strong>From ₹20,000:</strong> 700+ pages for mills, distributors and institutes that want enquiries from search.",
+        "<strong>From ₹20,000:</strong> 299+ pages for mills, distributors and institutes that want enquiries from search.",
         "<strong>From ₹50,000:</strong> online store with UPI and cards for packaged foods and local products.",
         "<strong>From ₹60,000:</strong> custom systems for stock, purchases, dispatch and staff.",
       ],
@@ -209,12 +209,12 @@ const rajnandgaon: CityContent = {
     {
       question: "How much does a website cost in Rajnandgaon?",
       answer:
-        "Our static websites start from ₹10,000, 700+ page SEO websites from ₹20,000, automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. These are starting prices. Your written quote depends on pages, features and content, and you approve it before anything is billed.",
+        "Our static websites start from ₹10,000, 299+ page SEO websites from ₹20,000, automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. These are starting prices. Your written quote depends on pages, features and content, and you approve it before anything is billed.",
     },
     {
       question: "Rajnandgaon me website banwane me kitna kharcha lagega?",
       answer:
-        "Humare saath chhoti business website ₹10,000 se shuru hoti hai, 700+ page wali SEO website ₹20,000 se, aur online dukaan ₹50,000 se. Mill ya wholesaler ka software ₹60,000 se shuru hota hai. Pehle aapko likhit quote milta hai, aur aapki haan ke baad hi kaam shuru hota hai.",
+        "Humare saath chhoti business website ₹10,000 se shuru hoti hai, 299+ page wali SEO website ₹20,000 se, aur online dukaan ₹50,000 se. Mill ya wholesaler ka software ₹60,000 se shuru hota hai. Pehle aapko likhit quote milta hai, aur aapki haan ke baad hi kaam shuru hota hai.",
     },
     {
       question: "Do you have an office in Rajnandgaon?",
@@ -254,7 +254,7 @@ const rajnandgaon: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, automation two to four, an online store four to eight and custom software six to twelve. Delays usually come from waiting for photos and details, so we send a simple checklist on day one.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, automation two to four, an online store four to eight and custom software six to twelve. Delays usually come from waiting for photos and details, so we send a simple checklist on day one.",
     },
     {
       question: "Who owns the website after it is built?",

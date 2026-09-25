@@ -34,7 +34,7 @@ const singrauli: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi and English pages", "Contractor capability sites", "Fleet and trip trackers", "WhatsApp enquiry flows"],
   },
   quickAnswer:
-    "In Singrauli, a static website with us starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and custom software such as fleet trackers at ₹60,000. We are a remote team with no Singrauli office; you own the domain and code, and five months of maintenance are free.",
+    "In Singrauli, a static website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and custom software such as fleet trackers at ₹60,000. We are a remote team with no Singrauli office; you own the domain and code, and five months of maintenance are free.",
   snapshot: [
     { label: "Known as", value: "India's “energy capital”, with coal mines and thermal power plants producing well over 10,000 MW across the Singrauli coalfield" },
     { label: "Coal", value: "Northern Coalfields Limited, a Coal India subsidiary, is headquartered here and runs large opencast mines such as Jayant, Nigahi, Amlori and Dudhichua" },
@@ -72,7 +72,7 @@ const singrauli: CityContent = {
       heading: "What a website or business system costs in Singrauli",
       paragraphs: [
         "Quotes in Singrauli range from very cheap template sites, often on a free subdomain with the domain held by the builder, to proposals from bigger cities that include overheads a local contractor should not be paying for. Before you compare, check what is included and who owns the result. Our starting rates are on the <a href=\"/pricing/\">pricing page</a>.",
-        "A static website of up to 100 pages, with mobile layout, Hindi and English content, contact form, map, WhatsApp button and basic SEO, starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site starts at ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts at ₹40,000, online stores at ₹50,000, custom software such as trip and billing systems at ₹60,000, and monthly SEO at ₹10,000.",
+        "A static website of up to 100 pages, with mobile layout, Hindi and English content, contact form, map, WhatsApp button and basic SEO, starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts at ₹40,000, online stores at ₹50,000, custom software such as trip and billing systems at ₹60,000, and monthly SEO at ₹10,000.",
         "A transporter with sixty vehicles and three sites needs more than a clinic with one doctor. That is why every quote lists each item, so you can see where the money goes and remove anything you do not need.",
       ],
       list: [
@@ -208,7 +208,7 @@ const singrauli: CityContent = {
     {
       question: "How much does a website cost in Singrauli?",
       answer:
-        "With us a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, WhatsApp or AI automation at ₹40,000 and custom software at ₹60,000. These are starting prices, and the final quote depends on pages, languages and features. When comparing offers, check who owns the domain and whether support after launch is included.",
+        "With us a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, WhatsApp or AI automation at ₹40,000 and custom software at ₹60,000. These are starting prices, and the final quote depends on pages, languages and features. When comparing offers, check who owns the domain and whether support after launch is included.",
     },
     {
       question: "Singrauli me contractor ki website aur trip software ka kitna kharcha hai?",

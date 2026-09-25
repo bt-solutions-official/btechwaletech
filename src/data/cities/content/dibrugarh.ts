@@ -35,7 +35,7 @@ const dibrugarh: CityContent = {
     pills: ["Websites from ₹10,000", "Assamese and English", "Tea brand stores", "Oil-belt vendor profiles", "Hotel and homestay sites"],
   },
   quickAnswer:
-    "A static website for a Dibrugarh business starts at ₹10,000 and takes one to two weeks. SEO websites of 700+ pages start at ₹20,000, online stores such as tea shops at ₹50,000 and custom web apps at ₹60,000. We are a remote three-person engineering team without a Dibrugarh office, and every build includes five months of free maintenance.",
+    "A static website for a Dibrugarh business starts at ₹10,000 and takes one to two weeks. SEO websites of 299+ pages start at ₹20,000, online stores such as tea shops at ₹50,000 and custom web apps at ₹60,000. We are a remote three-person engineering team without a Dibrugarh office, and every build includes five months of free maintenance.",
   snapshot: [
     { label: "Location", value: "Upper Assam on the south bank of the Brahmaputra, about 435 km east of Dispur" },
     { label: "Status", value: "Declared Assam's second capital in March 2024, with a new Dibrugarh Municipal Corporation" },
@@ -73,12 +73,12 @@ const dibrugarh: CityContent = {
       heading: "Website costs in Dibrugarh, without the guesswork",
       paragraphs: [
         "Most Dibrugarh owners get one of two quotes. A local freelancer offers a template for a small sum, then disappears when something breaks. An agency in Guwahati or Kolkata quotes much more, often with a yearly “package” that is hard to take apart. Neither tells you plainly who owns the domain.",
-        "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages, with mobile layout, contact form, WhatsApp button, map and basic search setup, starts at ₹10,000 and takes one to two weeks. A 700+ page site planned around real searches starts at ₹20,000 over three to five weeks. AI and WhatsApp automation begins at ₹40,000, online stores at ₹50,000, custom web applications at ₹60,000 and monthly SEO at ₹10,000.",
+        "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages, with mobile layout, contact form, WhatsApp button, map and basic search setup, starts at ₹10,000 and takes one to two weeks. A 299+ page site planned around real searches starts at ₹20,000 over three to five weeks. AI and WhatsApp automation begins at ₹40,000, online stores at ₹50,000, custom web applications at ₹60,000 and monthly SEO at ₹10,000.",
         "The final number follows the scope. A two-doctor clinic is quick to build. A tea brand with twelve blends, gift packs, wholesale enquiries and separate pages for buyers abroad takes longer. Send a short note about your business, and we reply with a line-by-line quote. Work starts only after you approve it in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> a compact site for a shop, clinic, tutor, homestay or contractor.",
-        "<strong>From ₹20,000:</strong> 700+ pages for firms that want steady search enquiries.",
+        "<strong>From ₹20,000:</strong> 299+ pages for firms that want steady search enquiries.",
         "<strong>From ₹50,000:</strong> an online tea or product store with UPI, cards and courier rules.",
         "<strong>From ₹60,000:</strong> leaf records, job tracking or booking systems built around your process.",
       ],
@@ -108,7 +108,7 @@ const dibrugarh: CityContent = {
       paragraphs: [
         "Oil India's field operations around Duliajan, the BCPL complex at Lepetkata and the fertiliser and power units at Namrup support a long chain of smaller firms: civil and mechanical contractors, rig and workover service providers, fabrication shops, electrical and instrumentation firms, transporters, manpower agencies, safety equipment dealers, canteen operators and housekeeping contractors.",
         "Public sector buyers work through tenders and vendor registration, but engineers and purchase teams still look up a firm online before shortlisting it, and larger private contractors search for local subcontractors. A plain capability website with services, equipment list, past work described in general terms, safety practices, registrations you actually hold, GST details and a named contact helps you look like the organised firm you are.",
-        "We write these sites in clear English, with Assamese or Hindi pages for local hiring if you want them. We never list PSU names as clients or display work orders without your written permission, and we never claim approvals that you do not hold. A capability site usually starts from ₹10,000 and can grow into a 700+ page site if you serve many industries.",
+        "We write these sites in clear English, with Assamese or Hindi pages for local hiring if you want them. We never list PSU names as clients or display work orders without your written permission, and we never claim approvals that you do not hold. A capability site usually starts from ₹10,000 and can grow into a 299+ page site if you serve many industries.",
       ],
     },
     {
@@ -211,12 +211,12 @@ const dibrugarh: CityContent = {
     {
       question: "How much does a website cost in Dibrugarh?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites from ₹20,000, online stores from ₹50,000 and custom web applications from ₹60,000. The exact figure depends on your scope. When comparing offers, ask who owns the domain and what support you get after launch.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites from ₹20,000, online stores from ₹50,000 and custom web applications from ₹60,000. The exact figure depends on your scope. When comparing offers, ask who owns the domain and what support you get after launch.",
     },
     {
       question: "Dibrugarh mein website banwane mein kitna kharcha aata hai?",
       answer:
-        "Hamari basic website ₹10,000 se shuru hoti hai, 700+ page ki SEO website ₹20,000 se aur tea ya product ka online store ₹50,000 se. Kaam se pehle har cheez ka daam likh kar quote dete hain, aapki manzoori ke baad hi bill banta hai, aur domain aapke naam par rehta hai.",
+        "Hamari basic website ₹10,000 se shuru hoti hai, 299+ page ki SEO website ₹20,000 se aur tea ya product ka online store ₹50,000 se. Kaam se pehle har cheez ka daam likh kar quote dete hain, aapki manzoori ke baad hi bill banta hai, aur domain aapke naam par rehta hai.",
     },
     {
       question: "Do you have an office in Dibrugarh?",
@@ -246,7 +246,7 @@ const dibrugarh: CityContent = {
     {
       question: "How long will my website take?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Waiting for photographs and product details causes most delays, so we share a checklist on the first day.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Waiting for photographs and product details causes most delays, so we share a checklist on the first day.",
     },
     {
       question: "What can WhatsApp automation do for a Dibrugarh business?",

@@ -39,7 +39,7 @@ const phaltan: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Marathi-first local SEO", "MIDC supplier websites", "Domain and code in your name"],
   },
   quickAnswer:
-    "A Phaltan business website with us starts at ₹10,000 and is normally live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, with no Phaltan office.",
+    "A Phaltan business website with us starts at ₹10,000 and is normally live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, with no Phaltan office.",
   snapshot: [
     { label: "Location", value: "Tehsil headquarters in Satara district, about 59 km north-east of Satara and roughly 110 km from Pune" },
     { label: "History", value: "Former Maratha princely state ruled by the Naik Nimbalkar family" },
@@ -167,7 +167,7 @@ const phaltan: CityContent = {
       id: "website-cost-phaltan",
       heading: "Website cost in Phaltan: starting prices and what to compare",
       paragraphs: [
-        "Here are the entry points, since cost is usually the first question. A simple site for a shop, clinic, vendor or class, up to 100 pages, starts at ₹10,000 and takes one to two weeks. An SEO build of 700 pages or more, useful for a coaching group, a dealer with a big range or a firm serving many villages, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and AI automation also starts at ₹40,000.",
+        "Here are the entry points, since cost is usually the first question. A simple site for a shop, clinic, vendor or class, up to 100 pages, starts at ₹10,000 and takes one to two weeks. An SEO build of 299 pages or more, useful for a coaching group, a dealer with a big range or a firm serving many villages, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and AI automation also starts at ₹40,000.",
         "An online store starts at ₹50,000 and takes four to eight weeks. Custom software such as a milk collection or cane trip system starts at ₹60,000 and takes six to twelve weeks. Monthly SEO starts at ₹10,000, and maintenance starts at ₹8,000 a month after the first five free months.",
         "Your figure grows only with what you choose: Marathi and English versions, a large catalogue, delivery rules, staff logins, Tally sync or printer support. Each is a separate line you can accept or strike out. If you write your own content and send phone photos, the cost barely moves.",
         "Quotes from designers in Satara district vary widely for work that sounds the same. Compare who owns the domain, whether the site is tested on cheap phones, whether basic on-page SEO is included, how many revision rounds you get and what support costs after a year. Your itemised quote from us arrives in about two working days; ask through our <a href=\"/contact/\">contact page</a> or WhatsApp.",
@@ -230,7 +230,7 @@ const phaltan: CityContent = {
     {
       question: "What is the website cost in Phaltan?",
       answer:
-        "Static websites with us start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, Marathi content, products and integrations, and it arrives itemised in writing before anything is billed.",
+        "Static websites with us start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, Marathi content, products and integrations, and it arrives itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Phaltan businesses?",
@@ -240,7 +240,7 @@ const phaltan: CityContent = {
     {
       question: "How long does a website take for a Phaltan shop or clinic?",
       answer:
-        "A simple static site is usually live within one to two weeks once we have your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The fastest projects are the ones where the owner sends content in the first few days.",
+        "A simple static site is usually live within one to two weeks once we have your photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The fastest projects are the ones where the owner sends content in the first few days.",
     },
     {
       question: "Which is the best website development team in Phaltan?",
@@ -265,7 +265,7 @@ const phaltan: CityContent = {
     {
       question: "Phaltan me website banwane ka kharcha kitna hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein taiyaar ho jaati hai. 700+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Final quote aapke pages aur features dekhkar likhit mein diya jaata hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein taiyaar ho jaati hai. 299+ page wali SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Final quote aapke pages aur features dekhkar likhit mein diya jaata hai.",
     },
     {
       question: "You have no office in Phaltan. How do I know the work is safe?",

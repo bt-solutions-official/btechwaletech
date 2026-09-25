@@ -34,7 +34,7 @@ const aligarh: CityContent = {
     pills: ["Websites from ₹10,000", "Hardware dealer catalogues", "Hindi and Urdu-aware SEO", "WhatsApp order automation", "Domain in your name"],
   },
   quickAnswer:
-    "An Aligarh business website with us starts at ₹10,000 and is usually live in one to two weeks, while a 700+ page SEO or dealer catalogue site starts at ₹20,000. Online stores begin at ₹50,000. We are a remote team of three engineers with no local office, so you get lower prices, full ownership and five free months of maintenance.",
+    "An Aligarh business website with us starts at ₹10,000 and is usually live in one to two weeks, while a 299+ page SEO or dealer catalogue site starts at ₹20,000. Online stores begin at ₹50,000. We are a remote team of three engineers with no local office, so you get lower prices, full ownership and five free months of maintenance.",
   snapshot: [
     { label: "Signature industry", value: "Locks and builders' hardware, Aligarh's product under Uttar Pradesh's One District One Product scheme" },
     { label: "Industrial areas", value: "Talanagri and the Ramghat Road industrial belt, with thousands of small metal units across the city" },
@@ -72,12 +72,12 @@ const aligarh: CityContent = {
       heading: "How much does a website cost in Aligarh?",
       paragraphs: [
         "In Aligarh you can find someone to make a website for ₹2,000, and you can also find agencies in Delhi or Noida who will quote ₹50,000 or more for a similar-looking catalogue. The cheap option often uses the developer's own hosting and a copied template, with no SEO and no support once the final payment clears. The expensive option often includes costs that have nothing to do with your website.",
-        "We publish our starting prices so you can plan properly. A simple business site with up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. A 700+ page SEO website, which for a hardware manufacturer might mean a page per product family plus finishes, packing and dealer information, starts at ₹20,000 and takes three to five weeks. An online store starts at ₹50,000, and custom software such as a dealer portal or production tracker begins at ₹60,000. Automation projects start at ₹40,000 and monthly SEO at ₹10,000.",
+        "We publish our starting prices so you can plan properly. A simple business site with up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO website, which for a hardware manufacturer might mean a page per product family plus finishes, packing and dealer information, starts at ₹20,000 and takes three to five weeks. An online store starts at ₹50,000, and custom software such as a dealer portal or production tracker begins at ₹60,000. Automation projects start at ₹40,000 and monthly SEO at ₹10,000.",
         "The biggest factor in cost is usually the catalogue. Two hundred models with proper photos, dimensions and finish options take more work than twenty. We send an itemised quote within about two working days and nothing is billed until you approve it in writing.",
       ],
       list: [
         "<strong>Business website, from ₹10,000:</strong> for shops, clinics, consultants and small units.",
-        "<strong>Catalogue and SEO site, from ₹20,000:</strong> 700+ pages covering product families, finishes and dealer details.",
+        "<strong>Catalogue and SEO site, from ₹20,000:</strong> 299+ pages covering product families, finishes and dealer details.",
         "<strong>Online store, from ₹50,000:</strong> product pages, cart, UPI and card payments, shipping rules.",
         "<strong>Dealer portal or custom software, from ₹60,000:</strong> logins, rate lists, order booking and reports.",
       ],
@@ -199,12 +199,12 @@ const aligarh: CityContent = {
     {
       question: "How much does a website cost in Aligarh?",
       answer:
-        "Our websites start at ₹10,000 for a simple business site and ₹20,000 for a 700+ page SEO or catalogue site. Online stores start at ₹50,000 and custom software at ₹60,000. Quotes in Aligarh vary widely, so compare what is included, especially domain ownership, SEO setup and support after launch.",
+        "Our websites start at ₹10,000 for a simple business site and ₹20,000 for a 299+ page SEO or catalogue site. Online stores start at ₹50,000 and custom software at ₹60,000. Quotes in Aligarh vary widely, so compare what is included, especially domain ownership, SEO setup and support after launch.",
     },
     {
       question: "Aligarh me lock factory ki website kitne me banegi?",
       answer:
-        "Ek basic website ₹10,000 se shuru hoti hai. Agar aapko poora product catalogue chahiye jisme har model, size aur finish ka page ho, to 700+ pages tak ki site ₹20,000 se shuru hoti hai. Dealer login ke saath portal ₹60,000 se. Kaam shuru karne se pehle likhit itemised quote milega.",
+        "Ek basic website ₹10,000 se shuru hoti hai. Agar aapko poora product catalogue chahiye jisme har model, size aur finish ka page ho, to 299+ pages tak ki site ₹20,000 se shuru hoti hai. Dealer login ke saath portal ₹60,000 se. Kaam shuru karne se pehle likhit itemised quote milega.",
     },
     {
       question: "Is your office in Aligarh?",

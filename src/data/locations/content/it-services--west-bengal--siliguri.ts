@@ -171,7 +171,7 @@ const content: CityContent = {
       paragraphs: [
         "SEO for a Siliguri business is about appearing when the right person searches: a retailer in Assam looking for a distributor, a family in Kolkata looking for a Sikkim package, or a local household looking for a clinic near Pradhan Nagar. Each of those is a different kind of search and needs a different page.",
         "We plan pages around real search intent, write clear service and location pages, fix technical problems, add schema, and help you keep your Google Business Profile accurate. For tourism businesses that often means individual pages for each route and season. For distributors it means brand and category pages that make it obvious which areas you supply. We also structure answers clearly so AI search tools, such as Google's AI Overviews, can quote you accurately.",
-        "Nobody can promise a ranking, and we do not. What we can promise is honest work and monthly reporting from Search Console. Monthly SEO starts from ₹10,000, and our large-scale <a href=\"/services/seo-services/\">SEO website builds</a> of 700+ pages start from ₹20,000. For a broader view of what we do in the city itself, see our <a href=\"/siliguri/\">Siliguri IT services page</a>.",
+        "Nobody can promise a ranking, and we do not. What we can promise is honest work and monthly reporting from Search Console. Monthly SEO starts from ₹10,000, and our large-scale <a href=\"/services/seo-services/\">SEO website builds</a> of 299+ pages start from ₹20,000. For a broader view of what we do in the city itself, see our <a href=\"/siliguri/\">Siliguri IT services page</a>.",
       ],
     },
     {
@@ -193,7 +193,7 @@ const content: CityContent = {
       ],
       list: [
         "Static website: from ₹10,000, one to two weeks",
-        "SEO website of 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website of 299+ pages: from ₹20,000, three to five weeks",
         "AI automation: from ₹40,000, two to four weeks",
         "Android and iOS app: from ₹40,000, six to ten weeks",
         "Ecommerce store: from ₹50,000, four to eight weeks",

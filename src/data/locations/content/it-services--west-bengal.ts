@@ -183,7 +183,7 @@ const content: CityContent = {
       heading: "Cloud hosting, SEO and AI-search visibility across West Bengal",
       paragraphs: [
         "West Bengal systems we build are hosted on cloud infrastructure registered in the client's name, typically AWS, DigitalOcean or Vercel, with SSL, backups, monitoring and a Git-based deployment process. You receive a runbook listing all accounts, renewals and recovery steps.",
-        "SEO for West Bengal businesses often needs both English and Bengali pages, because many customers search in Bengali or mix scripts. We create district-level service pages, Google Business Profile guidance for each branch, schema markup and fast pages. Clear, factual answers also help Google's AI Overviews, ChatGPT and Perplexity cite your pages. Monthly SEO starts at ₹10,000 and a 700+ page SEO website at ₹20,000.",
+        "SEO for West Bengal businesses often needs both English and Bengali pages, because many customers search in Bengali or mix scripts. We create district-level service pages, Google Business Profile guidance for each branch, schema markup and fast pages. Clear, factual answers also help Google's AI Overviews, ChatGPT and Perplexity cite your pages. Monthly SEO starts at ₹10,000 and a 299+ page SEO website at ₹20,000.",
         "We never guarantee rankings. Results usually build over three to six months. See <a href='/services/seo-services/'>our SEO services</a>.",
       ],
     },
@@ -191,7 +191,7 @@ const content: CityContent = {
       id: "cost-it-services-west-bengal",
       heading: "How much do IT services in West Bengal cost?",
       paragraphs: [
-        "IT services in West Bengal from BtechWaleTech start at ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store, ₹60,000 for custom software, ₹10,000 a month for SEO and ₹8,000 a month for maintenance. All are starting prices.",
+        "IT services in West Bengal from BtechWaleTech start at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store, ₹60,000 for custom software, ₹10,000 a month for SEO and ₹8,000 a month for maintenance. All are starting prices.",
         "Quotes rise with modules and user roles, languages, integrations with payment, accounting or logistics tools, offline requirements, content writing and data migration. A single-depot distributor app sits near the starting price; a multi-garden tea estate system with dashboards costs more.",
         "Our fees are paid only by UPI QR code or direct bank transfer, in INR, in milestones. You receive an itemised quote in about two working days. See the <a href='/pricing/'>pricing page</a>.",
       ],
@@ -252,7 +252,7 @@ const content: CityContent = {
     {
       question: "What is the starting cost of IT services in West Bengal?",
       answer:
-        "₹10,000 for a static website. A 700+ page SEO website starts at ₹20,000, AI automation and Android and iOS apps at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000. Final prices depend on scope.",
+        "₹10,000 for a static website. A 299+ page SEO website starts at ₹20,000, AI automation and Android and iOS apps at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000. Final prices depend on scope.",
     },
     {
       question: "How long do projects take?",

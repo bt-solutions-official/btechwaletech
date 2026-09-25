@@ -173,13 +173,13 @@ const content: CityContent = {
       id: "anantnag-cost-guide",
       heading: "How much does software development cost in Anantnag?",
       paragraphs: [
-        "Software development for Anantnag businesses starts from ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹60,000 for a custom web application. These are starting prices; features, integrations and data work decide the final quote.",
+        "Software development for Anantnag businesses starts from ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹60,000 for a custom web application. These are starting prices; features, integrations and data work decide the final quote.",
         "Costs rise with more user roles, offline sync, payment and courier integrations, multilingual content and migrating old records. They fall when the first version focuses on one problem. A cold store that starts with lot tracking and grower statements, then adds a field app next season, spends less overall.",
         "Every quote is itemised within about two working days. Full plan details are on the <a href='/pricing/'>pricing page</a>.",
       ],
       list: [
         "Static website: from ₹10,000, 1 to 2 weeks",
-        "SEO website (700+ pages): from ₹20,000, 3 to 5 weeks",
+        "SEO website (299+ pages): from ₹20,000, 3 to 5 weeks",
         "Android and iOS app: from ₹40,000, 6 to 10 weeks",
         "AI automation: from ₹40,000, 2 to 4 weeks",
         "Online store: from ₹50,000, 4 to 8 weeks",

@@ -48,14 +48,14 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "How much does a freelance web developer for Canada clients cost?",
-    text: `Hiring a freelance web developer in India for a Canadian business is usually quoted per project. With BtechWaleTech a static site of up to 100 pages starts at ${P.siteUsd}, an SEO site with 700+ pages at ${P.seoSiteUsd}, and an online store at ${P.shopUsd}. A French version is a separate line in an itemised quote; billing is in USD or CAD.`,
+    text: `Hiring a freelance web developer in India for a Canadian business is usually quoted per project. With BtechWaleTech a static site of up to 100 pages starts at ${P.siteUsd}, an SEO site with 299+ pages at ${P.seoSiteUsd}, and an online store at ${P.shopUsd}. A French version is a separate line in an itemised quote; billing is in USD or CAD.`,
     more: `For the wider picture of hiring from India, read <a href='/hire-indian-developers/'>hire Indian developers</a>, or see our <a href='/canada/'>Canada page</a> for provinces and overlap hours.`,
   },
   snapshot: {
     caption: "Working with us from Canada",
     rows: [
       { label: "Business website", value: `From ${P.siteUsd}, 1–2 weeks` },
-      { label: "SEO website (700+ pages)", value: `From ${P.seoSiteUsd}, 3–5 weeks` },
+      { label: "SEO website (299+ pages)", value: `From ${P.seoSiteUsd}, 3–5 weeks` },
       { label: "Online store", value: `From ${P.shopUsd}, 4–8 weeks` },
       { label: "Toronto 9:00 am (summer)", value: "6:30 pm in India" },
       { label: "Vancouver 8:00 am (summer)", value: "8:30 pm in India" },
@@ -307,7 +307,7 @@ const content: FreelanceContent = {
       columns: ["Project", "Starts at (USD)", "Starts at (INR)", "Typical timeline", "Canadian extras to consider"],
       rows: [
         ["Static website, up to 100 pages", `From ${P.siteUsd}`, `From ${P.site}`, "1–2 weeks", "French version, accessibility review"],
-        ["SEO website, 700+ pages", `From ${P.seoSiteUsd}`, `From ${P.seoSite}`, "3–5 weeks", "Pages per city or neighbourhood served"],
+        ["SEO website, 299+ pages", `From ${P.seoSiteUsd}`, `From ${P.seoSite}`, "3–5 weeks", "Pages per city or neighbourhood served"],
         ["Online store", `From ${P.shopUsd}`, `From ${P.shop}`, "4–8 weeks", "CAD prices, provincial tax display, shipping zones"],
         ["Custom web app or portal", `From ${P.softwareUsd}`, `From ${P.software}`, "6–12 weeks", "Hosting in Canadian cloud regions"],
         ["Android & iOS app", `From ${P.appUsd}`, `From ${P.app}`, "6–10 weeks", "English and French app store listings"],
@@ -369,7 +369,7 @@ const content: FreelanceContent = {
   faqHeading: "Freelance web developer for Canada clients: common questions",
   faqs: [
     { question: "Can a Canadian business hire a freelance web developer from India?", answer: `Yes. Remote web work is common, and nothing prevents a Canadian business from hiring an Indian freelancer. The keys are a written, itemised scope, accounts in your name and staged payments. BtechWaleTech works with Canadian clients by video call and WhatsApp, bills in USD or CAD, and builds sites starting at ${P.siteUsd}.` },
-    { question: "How much does a freelance web developer from India cost for a Canadian business?", answer: `Costs depend on scope. With BtechWaleTech a static business site of up to 100 pages starts at ${P.siteUsd}, an SEO site with 700+ pages at ${P.seoSiteUsd}, an online store at ${P.shopUsd} and a custom web app at ${P.softwareUsd}. A French version, accessibility review and integrations are separate lines in an itemised quote.` },
+    { question: "How much does a freelance web developer from India cost for a Canadian business?", answer: `Costs depend on scope. With BtechWaleTech a static business site of up to 100 pages starts at ${P.siteUsd}, an SEO site with 299+ pages at ${P.seoSiteUsd}, an online store at ${P.shopUsd} and a custom web app at ${P.softwareUsd}. A French version, accessibility review and integrations are separate lines in an itemised quote.` },
     { question: "What are the working-hour overlaps between India and Canada?", answer: "India is 9.5 hours ahead of Toronto in Canadian summer and 10.5 hours in winter, and 12.5 to 13.5 hours ahead of Vancouver. So a 9:00 am Toronto call is 6:30 pm in India in summer. Calls work best in your morning, and written updates cover the rest of your day." },
     { question: "Can you build a bilingual English and French website?", answer: "Yes. We build separate English and French versions with their own URLs, titles, descriptions, forms and emails, a language switcher that keeps visitors on the equivalent page, and hreflang tags for en-CA and fr-CA. Translation can come from your translator, or be arranged and shown as a separate line in the quote." },
     { question: "Does my Quebec business website need to be in French?", answer: "Generally yes. Quebec’s Charter of the French Language, strengthened by Bill 96, expects businesses operating in Quebec to make commercial website content available in French, with French at least as available as other languages. Some details and exceptions apply, so confirm with a Quebec legal adviser. We build the French version to full parity." },

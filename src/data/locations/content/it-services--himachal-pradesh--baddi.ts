@@ -161,7 +161,7 @@ const content: CityContent = {
       paragraphs: [
         "SEO for a Baddi manufacturer means being found when a buyer searches for a specific product, dosage form or service together with Baddi or Himachal, and giving that buyer enough verified detail to send an enquiry. B2B search terms are narrow but valuable: a single well-matched enquiry for contract manufacturing can be worth far more than thousands of casual visits.",
         "We build websites with a page for each dosage form, therapeutic category and service you genuinely offer, backed by product lists, certifications, facility details and clear contact routes. Structured data describes your organisation, products and location for search engines. Plain, factual passages about capacities, approvals and processes are the kind of content that Google's AI Overviews and assistants such as ChatGPT and Perplexity tend to cite. Suppliers of packaging, machinery, cleanroom services, HVAC, effluent treatment and logistics benefit from the same approach.",
-        "A B2B website starts from ₹10,000, a large SEO website of 700+ pages from ₹20,000, and ongoing <a href='/services/seo-services/'>SEO services</a> from ₹10,000 a month. We never guarantee rankings. For specific product and location searches, early movement often shows within two to four months, and we report each month using Search Console data. We also avoid unverifiable claims on your site, because inflated capacity or approval statements can hurt trust during an audit.",
+        "A B2B website starts from ₹10,000, a large SEO website of 299+ pages from ₹20,000, and ongoing <a href='/services/seo-services/'>SEO services</a> from ₹10,000 a month. We never guarantee rankings. For specific product and location searches, early movement often shows within two to four months, and we report each month using Search Console data. We also avoid unverifiable claims on your site, because inflated capacity or approval statements can hurt trust during an audit.",
       ],
     },
     {
@@ -201,14 +201,14 @@ const content: CityContent = {
       id: "cost-software-baddi",
       heading: "Software development cost in Baddi: what do freelance developers charge?",
       paragraphs: [
-        "BtechWaleTech's starting prices for Baddi projects are ₹10,000 for a B2B website, ₹20,000 for a 700+ page SEO website, ₹50,000 for an online store, ₹40,000 for AI automation or an Android and iOS app, ₹60,000 for custom software, portals or dashboards, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after the free five months. Every figure is a starting point.",
+        "BtechWaleTech's starting prices for Baddi projects are ₹10,000 for a B2B website, ₹20,000 for a 299+ page SEO website, ₹50,000 for an online store, ₹40,000 for AI automation or an Android and iOS app, ₹60,000 for custom software, portals or dashboards, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after the free five months. Every figure is a starting point.",
         "Costs rise with integrations, user roles, validation documentation and data migration. A visitor register is small; a full document and change-control system with training links and audit trails is larger. Starting with the workflow that hurts most, proving it in daily use, and then adding modules keeps both cost and risk under control.",
         "You receive an itemised quote in about two working days that lists every module, its cost and timeline. We begin only after written approval. Clients pay us only by UPI, scanning our QR code, or by direct bank transfer to our bank account, in INR, usually in milestones tied to approved deliverables.",
       ],
       list: [
         "<strong>B2B website:</strong> from ₹10,000, one to two weeks",
         "<strong>Android and iOS app:</strong> from ₹40,000, six to ten weeks",
-        "<strong>SEO website, 700+ pages:</strong> from ₹20,000, three to five weeks",
+        "<strong>SEO website, 299+ pages:</strong> from ₹20,000, three to five weeks",
         "<strong>AI automation workflow:</strong> from ₹40,000, two to four weeks",
         "<strong>Portal, dashboard or workflow software:</strong> from ₹60,000, six to twelve weeks",
         "<strong>Maintenance after five free months:</strong> from ₹8,000 a month",
@@ -270,7 +270,7 @@ const content: CityContent = {
     {
       question: "Baddi mein website ya software banwane ka kharcha kitna hai?",
       answer:
-        "Hamare starting prices hain: B2B website ₹10,000 se, 700+ page SEO website ₹20,000 se, AI automation ₹40,000 se, aur custom software, portal ya dashboard ₹60,000 se. Final quote features, users aur integrations par depend karta hai. Lagbhag do working days mein itemised quote milta hai aur approval ke baad hi kaam shuru hota hai.",
+        "Hamare starting prices hain: B2B website ₹10,000 se, 299+ page SEO website ₹20,000 se, AI automation ₹40,000 se, aur custom software, portal ya dashboard ₹60,000 se. Final quote features, users aur integrations par depend karta hai. Lagbhag do working days mein itemised quote milta hai aur approval ke baad hi kaam shuru hota hai.",
     },
     {
       question: "Can you integrate with our existing ERP?",

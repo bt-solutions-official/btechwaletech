@@ -34,7 +34,7 @@ const vidisha: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi-first pages", "Grain and pulse traders", "Sandstone export sites", "WhatsApp rate replies"],
   },
   quickAnswer:
-    "In Vidisha, a static business website with us starts at ₹10,000 and is usually live in one to two weeks. A 700+ page SEO site starts at ₹20,000 and an online store at ₹50,000. We are three engineers working remotely, with no Vidisha office, and we maintain every site free for five months after launch.",
+    "In Vidisha, a static business website with us starts at ₹10,000 and is usually live in one to two weeks. A 299+ page SEO site starts at ₹20,000 and an online store at ₹50,000. We are three engineers working remotely, with no Vidisha office, and we maintain every site free for five months after launch.",
   snapshot: [
     { label: "District role", value: "Headquarters of Vidisha district, about 62 km north-east of Bhopal, on the Betwa river" },
     { label: "Farm economy", value: "Wheat, including the premium Sharbati variety, along with soybean and gram (chana) on black soil" },
@@ -72,12 +72,12 @@ const vidisha: CityContent = {
       heading: "How much a website costs in Vidisha",
       paragraphs: [
         "Website prices around Vidisha vary. Local operators may offer a template page for a few thousand rupees, usually without search setup and on hosting they control. Bhopal agencies can quote several times our starting figures, because they carry office and sales costs that a Vidisha trader does not need to pay for.",
-        "Our prices are listed on the <a href=\"/pricing/\">pricing page</a>, and each is a starting figure. A static website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. A 700+ page SEO website, useful for traders with many commodities or grades, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom software at ₹60,000, AI and WhatsApp automation at ₹40,000, and monthly SEO at ₹10,000.",
+        "Our prices are listed on the <a href=\"/pricing/\">pricing page</a>, and each is a starting figure. A static website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. A 299+ page SEO website, useful for traders with many commodities or grades, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom software at ₹60,000, AI and WhatsApp automation at ₹40,000, and monthly SEO at ₹10,000.",
         "The final amount depends on scope. A single clinic needs far fewer pages than a stone exporter with thirty colours and finishes. You receive a written quote listing each page and feature, and no work is billed until you approve it.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile design, map, enquiry form and basic SEO.",
-        "<strong>From ₹20,000:</strong> 700+ pages for businesses with many products, grades or services.",
+        "<strong>From ₹20,000:</strong> 299+ pages for businesses with many products, grades or services.",
         "<strong>From ₹50,000:</strong> online store with UPI, cards and courier options.",
         "<strong>From ₹60,000:</strong> custom portals, registers and dashboards with logins.",
       ],
@@ -218,12 +218,12 @@ const vidisha: CityContent = {
     {
       question: "How much does a website cost in Vidisha?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. The final amount depends on pages and features. You get an itemised written quote first, and nothing is billed until you approve it.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. The final amount depends on pages and features. You get an itemised written quote first, and nothing is billed until you approve it.",
     },
     {
       question: "Vidisha me website banwane me kitna kharcha aata hai?",
       answer:
-        "Humare saath simple website ₹10,000 se shuru hoti hai, 700+ page wali SEO website ₹20,000 se aur online store ₹50,000 se. Aakhri rate pages, features aur content par nirbhar karta hai. Kaam shuru karne se pehle likhit, itemised quote milta hai aur aapki manzoori ke baad hi bill banta hai.",
+        "Humare saath simple website ₹10,000 se shuru hoti hai, 299+ page wali SEO website ₹20,000 se aur online store ₹50,000 se. Aakhri rate pages, features aur content par nirbhar karta hai. Kaam shuru karne se pehle likhit, itemised quote milta hai aur aapki manzoori ke baad hi bill banta hai.",
     },
     {
       question: "Do you have an office in Vidisha?",
@@ -248,7 +248,7 @@ const vidisha: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve. Delays usually come from waiting for photos and content, so we send a simple checklist at the start.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve. Delays usually come from waiting for photos and content, so we send a simple checklist at the start.",
     },
     {
       question: "Can the website be in Hindi?",

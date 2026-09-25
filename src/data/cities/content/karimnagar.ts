@@ -35,7 +35,7 @@ const karimnagar: CityContent = {
     pills: ["Sites from ₹10,000", "Telugu and English pages", "Granite export catalogues", "Filigree online stores", "WhatsApp appointment flows"],
   },
   quickAnswer:
-    "In Karimnagar, a simple business website with us starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000, an online store at ₹50,000 and AI or WhatsApp automation at ₹40,000. We are a remote three-engineer team with no Karimnagar office, and the first five months of maintenance are free.",
+    "In Karimnagar, a simple business website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and AI or WhatsApp automation at ₹40,000. We are a remote three-engineer team with no Karimnagar office, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Regional role", value: "District headquarters and a major education and healthcare centre for north-western Telangana" },
     { label: "Granite", value: "Known as a city of granite; quarries across Karimnagar, Manakondur and nearby mandals supply varieties such as Tan Brown and Maple Red" },
@@ -73,7 +73,7 @@ const karimnagar: CityContent = {
       heading: "What a website costs in Karimnagar, item by item",
       paragraphs: [
         "Local quotes run from a few thousand rupees for a one-page template to Hyderabad agency proposals several times higher. The cheap end often leaves out search setup and registers the domain in the developer's name; the top end includes office overheads that a Karimnagar clinic or trader does not need to fund. Our rates are on the <a href=\"/pricing/\">pricing page</a> so you can compare fairly.",
-        "A static website of up to 100 pages, with mobile layout, contact form, map and basic SEO, starts at ₹10,000 and is ready in one to two weeks. A 700+ page SEO site with a separate page for every service, department or product line starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, custom web applications at ₹60,000, and monthly SEO at ₹10,000.",
+        "A static website of up to 100 pages, with mobile layout, contact form, map and basic SEO, starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO site with a separate page for every service, department or product line starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, custom web applications at ₹60,000, and monthly SEO at ₹10,000.",
         "Bilingual sites add some writing and review time, and a granite exporter with a hundred colour and finish combinations needs more work than a small clinic. You receive an itemised quote in about two working days, and nothing is charged before your written approval.",
       ],
       list: [
@@ -211,12 +211,12 @@ const karimnagar: CityContent = {
     {
       question: "How much does a website cost in Karimnagar?",
       answer:
-        "With us a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. When comparing local quotes, check whether the domain and hosting will be in your name and whether search setup and post-launch support are included.",
+        "With us a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. When comparing local quotes, check whether the domain and hosting will be in your name and whether search setup and post-launch support are included.",
     },
     {
       question: "Karimnagar lo website cheyinchukovadaniki entha kharchu avutundi?",
       answer:
-        "Maa daggara simple website ₹10,000 nunchi modalavutundi, okati rendu vaarallo ready avutundi. 700+ pages unna SEO website ₹20,000 nunchi, online store ₹50,000 nunchi. Pani modalupettaka mundu meeku raatapurvakamga itemised quote pampistamu. Mee approval lekunda emi bill cheyamu.",
+        "Maa daggara simple website ₹10,000 nunchi modalavutundi, okati rendu vaarallo ready avutundi. 299+ pages unna SEO website ₹20,000 nunchi, online store ₹50,000 nunchi. Pani modalupettaka mundu meeku raatapurvakamga itemised quote pampistamu. Mee approval lekunda emi bill cheyamu.",
     },
     {
       question: "Do you have an office in Karimnagar?",

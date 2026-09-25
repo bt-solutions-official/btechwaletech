@@ -189,7 +189,7 @@ const content: CityContent = {
       paragraphs: [
         "SEO for an Imphal business means being found when people search for a service, doctor, course or product in the city, and being described accurately by AI assistants that summarise the web. Many Imphal searches still return thin or outdated pages, which gives well-organised local businesses a real opportunity.",
         "We build one clear page per service, doctor, course or product category, with correct addresses, timings, prices where appropriate and structured data. Content answers the questions customers actually ask, in English and where useful in Manipuri. We guide you on Google Business Profile, reviews and consistent contact details. More on our <a href='/services/seo-services/'>SEO services page</a>.",
-        "We do not guarantee rankings. Monthly SEO starts at ₹10,000, and a 700+ page SEO website starts at ₹20,000, with progress reported from Search Console.",
+        "We do not guarantee rankings. Monthly SEO starts at ₹10,000, and a 299+ page SEO website starts at ₹20,000, with progress reported from Search Console.",
       ],
     },
     {
@@ -197,7 +197,7 @@ const content: CityContent = {
       heading: "How much does software development cost in Imphal?",
       paragraphs: [
         "Software development for an Imphal business with BtechWaleTech starts at ₹60,000 for custom software, web apps and MVPs, with the final price depending on screens, user roles, integrations and offline requirements. A single-shop billing tool sits near the starting price, while multi-department hospital or college systems cost more.",
-        "Other starting prices: static websites from ₹10,000, 700+ page SEO websites from ₹20,000, online stores from ₹50,000, AI automation and Android and iOS apps from ₹40,000, monthly SEO from ₹10,000 and maintenance from ₹8,000 a month after five free months. See the full list on our <a href='/pricing/'>pricing page</a>.",
+        "Other starting prices: static websites from ₹10,000, 299+ page SEO websites from ₹20,000, online stores from ₹50,000, AI automation and Android and iOS apps from ₹40,000, monthly SEO from ₹10,000 and maintenance from ₹8,000 a month after five free months. See the full list on our <a href='/pricing/'>pricing page</a>.",
         "Payments are accepted only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in rupees and in agreed milestones. You get an itemised quote in about two working days, and nothing is billed until you approve it.",
       ],
     },

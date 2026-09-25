@@ -29,7 +29,7 @@ const content: FreelanceContent = {
     eyebrow: "Freelance web developer · India-wide, remote",
     h1: "Freelance web developer in India: how to choose one, what it costs and how the build runs",
     lede: `A freelance web developer builds and looks after your website as an independent professional, so you deal with the person writing the code instead of an account manager. BtechWaleTech is three freelance developers in India who build business websites, SEO sites, online stores, apps and AI tools for clients across the country and abroad. This guide covers what the work involves, how to vet anyone you hire, honest starting prices from ${P.site}, and each step from brief to launch.`,
-    pills: ["Business websites", "SEO websites 700+ pages", "Online stores with UPI", "Android & iOS apps", "AI automation", "Monthly SEO", "You own the code"],
+    pills: ["Business websites", "SEO websites 299+ pages", "Online stores with UPI", "Android & iOS apps", "AI automation", "Monthly SEO", "You own the code"],
     origin: "Three freelance developers · Working remotely from India · Clients in every state and abroad",
   },
   facts: [
@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "How much does a freelance web developer cost in India?",
-    text: `A freelance web developer in India usually quotes per project, not per hour. With BtechWaleTech a static business website of up to 100 pages starts at ${P.site} (${P.siteUsd}) and takes 1–2 weeks; an SEO website with 700+ pages starts at ${P.seoSite}; an online store starts at ${P.shop}. Final cost depends on pages, features, content and integrations, and every quote is itemised before you pay anything.`,
+    text: `A freelance web developer in India usually quotes per project, not per hour. With BtechWaleTech a static business website of up to 100 pages starts at ${P.site} (${P.siteUsd}) and takes 1–2 weeks; an SEO website with 299+ pages starts at ${P.seoSite}; an online store starts at ${P.shop}. Final cost depends on pages, features, content and integrations, and every quote is itemised before you pay anything.`,
     more: `For a line-by-line breakdown see <a href='/website-developer-cost/'>website developer cost in India</a>, or compare hourly and project billing on <a href='/freelance-web-developer-rates/'>freelance web developer rates</a>.`,
   },
   snapshot: {
@@ -56,7 +56,7 @@ const content: FreelanceContent = {
     rows: [
       { label: "What you get", value: "Design, code, launch and upkeep of your website" },
       { label: "Static website", value: `From ${P.site}, 1–2 weeks` },
-      { label: "SEO website (700+ pages)", value: `From ${P.seoSite}, 3–5 weeks` },
+      { label: "SEO website (299+ pages)", value: `From ${P.seoSite}, 3–5 weeks` },
       { label: "Online store", value: `From ${P.shop}, 4–8 weeks` },
       { label: "Payment", value: "UPI or bank transfer in India; Wise, wire or PayPal abroad" },
       { label: "Ownership", value: "Domain, hosting account and source code in your name" },
@@ -69,7 +69,7 @@ const content: FreelanceContent = {
     note: "Most clients arrive wanting “a website”. Once the goal is clear, it usually fits one of these, and each has a different price floor and timeline.",
     cards: [
       { name: "Business website", note: `Up to 100 pages, mobile-first, contact form and WhatsApp button, from ${P.site}. The right start for most shops, clinics, consultants and schools.`, href: "/services/web-development/", size: "lg" },
-      { name: "SEO website (700+ pages)", note: `Service and location pages generated from structured data, with schema and sitemaps, from ${P.seoSite}. Built for businesses that want organic leads.`, href: "/seo-website-developer/", size: "lg" },
+      { name: "SEO website (299+ pages)", note: `Service and location pages generated from structured data, with schema and sitemaps, from ${P.seoSite}. Built for businesses that want organic leads.`, href: "/seo-website-developer/", size: "lg" },
       { name: "Online store", note: `Catalogue, cart, UPI and card checkout, order emails and stock basics, from ${P.shop}.`, href: "/freelance-ecommerce-developer/", size: "md" },
       { name: "Web app or portal", note: `Logins, roles, dashboards and APIs for bookings, billing or internal tools, from ${P.software}.`, href: "/web-application-developer/", size: "md" },
       { name: "Android & iOS app", note: `One Flutter or React Native codebase, published on Google Play and the App Store, from ${P.app}.`, href: "/it-services/android-ios-app/", size: "md" },
@@ -165,7 +165,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does a freelance web developer cost for different projects?",
       paragraphs: [
-        `Cost follows scope. A five-page brochure site and a 700-page SEO site both count as “a website”, but the effort differs by weeks. Here are our starting points so you can place your project.`,
+        `Cost follows scope. A five-page brochure site and a 299-page SEO site both count as “a website”, but the effort differs by weeks. Here are our starting points so you can place your project.`,
         `A static website of up to 100 pages starts at ${P.site} (${P.siteUsd}). An SEO website with 700+ generated pages starts at ${P.seoSite}. An online store starts at ${P.shop}, a custom web app at ${P.software}, and an Android plus iOS app at ${P.app}. Ongoing SEO starts at ${P.seo}, and maintenance, once the free five months end, starts at ${P.care}.`,
         `Across the market, quotes for the same brief vary a lot. That spread comes from experience, whether design is custom or a bought theme, who writes content, and what support is included, not from the city the freelancer lives in. When you compare, line up the scope first and the price second. Detailed figures by type are on <a href='/website-making-cost-in-india/'>website making cost in India</a>.`,
       ],
@@ -301,7 +301,7 @@ const content: FreelanceContent = {
       columns: ["Project", "Starts at (India)", "Starts at (abroad)", "Typical timeline", "Good for"],
       rows: [
         ["Static website, up to 100 pages", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Shops, clinics, consultants, schools"],
-        ["SEO website, 700+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Service businesses targeting many locations"],
+        ["SEO website, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Service businesses targeting many locations"],
         ["Online store", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Brands selling with UPI and card checkout"],
         ["Custom web app or portal", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Bookings, dashboards, internal tools"],
         ["Android & iOS app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Repeat customers, ordering, memberships"],
@@ -380,7 +380,7 @@ const content: FreelanceContent = {
   faqHeading: "Freelance web developer: questions people ask",
   faqs: [
     { question: "What does a freelance web developer do?", answer: "A freelance web developer plans, designs, codes and launches websites for clients as an independent professional rather than an employee. The work usually includes page layout, responsive design, contact forms, hosting setup, basic SEO and ongoing maintenance. Some also build online stores, web apps and integrations. You deal directly with the person or small team writing the code." },
-    { question: "How much does a freelance web developer charge in India?", answer: `Most charge per project. With BtechWaleTech a static business website of up to 100 pages starts at ${P.site}, an SEO website with 700+ pages at ${P.seoSite} and an online store at ${P.shop}. The final figure depends on pages, custom features, content writing and integrations, and you get an itemised quote before paying anything.` },
+    { question: "How much does a freelance web developer charge in India?", answer: `Most charge per project. With BtechWaleTech a static business website of up to 100 pages starts at ${P.site}, an SEO website with 299+ pages at ${P.seoSite} and an online store at ${P.shop}. The final figure depends on pages, custom features, content writing and integrations, and you get an itemised quote before paying anything.` },
     { question: "Is it better to hire a freelancer or a web development agency?", answer: "A freelancer or small freelance team suits projects with a clear scope, a limited budget and a preference for talking to the builder directly. An agency suits projects that need many specialists working at once, formal procurement or on-site staff. Many small business websites fit the freelance model well; very large platforms usually do not." },
     { question: "How long does a freelance web developer take to make a website?", answer: "A static business site of up to 100 pages usually takes 1–2 weeks, an SEO website 3–5 weeks, an online store 4–8 weeks and a custom web app 6–12 weeks. Delays mostly come from late content or slow approvals, so sending all text and photos early is the easiest way to launch on time." },
     { question: "How do I find a good freelance web developer?", answer: "Write a short brief, send it to two or three candidates, and compare how they reply. Look for live portfolio links, an itemised quote, clear ownership terms and staged payments. A small paid first milestone, such as the home page design, shows how someone works before you commit the whole budget." },

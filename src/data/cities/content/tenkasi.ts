@@ -39,7 +39,7 @@ const tenkasi: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Tamil and Malayalam search", "Courtallam season bookings", "Your domain, your code"],
   },
   quickAnswer:
-    "In Tenkasi, a website with us starts at ₹10,000 and typically launches in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and have no Tenkasi office.",
+    "In Tenkasi, a website with us starts at ₹10,000 and typically launches in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and have no Tenkasi office.",
   snapshot: [
     { label: "Status", value: "Headquarters of Tenkasi district, carved out of Tirunelveli district in November 2019; special grade municipality" },
     { label: "Heritage", value: "Kasi Viswanathar temple, built in 1467 by Parakrama Pandya; the town is described as the last Pandya capital" },
@@ -158,7 +158,7 @@ const tenkasi: CityContent = {
       id: "website-cost-tenkasi",
       heading: "Website cost in Tenkasi: starting prices and how to judge a quote",
       paragraphs: [
-        "Our starting prices for Tenkasi are public. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000 over three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 a month. The details are on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our starting prices for Tenkasi are public. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000 over three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 a month. The details are on our <a href=\"/pricing/\">pricing page</a>.",
         "The quote grows with more pages, more languages, large catalogues, booking systems, payment gateways, logins or Tally integration. Providing your own text and photographs keeps the price close to the starting figure; if we write and arrange everything, that is shown as a separate line.",
         "Local quotes vary widely. Compare them by asking whose name the domain and hosting are in, whether mobile testing and basic SEO are included, how many changes you get and who fixes things after launch.",
         "You receive our itemised quote in about two working days, and nothing is billed without your written approval.",
@@ -220,7 +220,7 @@ const tenkasi: CityContent = {
     {
       question: "What is the website cost in Tenkasi?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Your quote depends on pages, languages, products and features, and it arrives itemised in writing before anything is billed.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. Your quote depends on pages, languages, products and features, and it arrives itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Tenkasi businesses?",
@@ -230,7 +230,7 @@ const tenkasi: CityContent = {
     {
       question: "How quickly can I get a website in Tenkasi?",
       answer:
-        "A static site usually launches within one to two weeks of receiving your content and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Ready content speeds up every project.",
+        "A static site usually launches within one to two weeks of receiving your content and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Ready content speeds up every project.",
     },
     {
       question: "Which is the best website development team in Tenkasi?",
@@ -255,7 +255,7 @@ const tenkasi: CityContent = {
     {
       question: "Tenkasi-la website seyya evvalavu selavu aagum?",
       answer:
-        "Engal kitta simple website ₹10,000-la irundhu aarambikkudhu, pothuvaa oru rendu vaarathula ready aagidum. 700+ page SEO website ₹20,000 mudhal, Android matrum iOS app ₹40,000 mudhal thodangudhu. Neenga sollura pages matrum features-ku yetha maadhiri ezhuthu moolama quote tharuvom.",
+        "Engal kitta simple website ₹10,000-la irundhu aarambikkudhu, pothuvaa oru rendu vaarathula ready aagidum. 299+ page SEO website ₹20,000 mudhal, Android matrum iOS app ₹40,000 mudhal thodangudhu. Neenga sollura pages matrum features-ku yetha maadhiri ezhuthu moolama quote tharuvom.",
     },
     {
       question: "You have no office in Tenkasi. Is it safe to work remotely?",

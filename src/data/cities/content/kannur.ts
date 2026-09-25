@@ -39,7 +39,7 @@ const kannur: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Malayalam-first local SEO", "Handloom export catalogues", "You own every account"],
   },
   quickAnswer:
-    "In Kannur, a business website with us starts at ₹10,000 and is normally ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Kannur office.",
+    "In Kannur, a business website with us starts at ₹10,000 and is normally ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Kannur office.",
   snapshot: [
     { label: "Location", value: "District headquarters on the North Malabar coast, about 137 km south of Mangaluru and 274 km north of Kochi" },
     { label: "Handloom", value: "Cannanore Home Furnishings received a Geographical Indication in 2009: curtains, bed, table and kitchen linen, upholstery" },
@@ -158,7 +158,7 @@ const kannur: CityContent = {
       id: "website-cost-kannur",
       heading: "Website cost in Kannur: starting prices and how to compare quotes",
       paragraphs: [
-        "Here are our entry points for Kannur work. A straightforward site for a shop, clinic or society, anything up to 100 pages, costs from ₹10,000 and usually takes one to two weeks. An SEO build of 700 pages or more, suited to a coaching group, exporter or hospital covering many services and towns, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation. Online stores start at ₹50,000, custom software at ₹60,000, and monthly SEO at ₹10,000.",
+        "Here are our entry points for Kannur work. A straightforward site for a shop, clinic or society, anything up to 100 pages, costs from ₹10,000 and usually takes one to two weeks. An SEO build of 299 pages or more, suited to a coaching group, exporter or hospital covering many services and towns, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation. Online stores start at ₹50,000, custom software at ₹60,000, and monthly SEO at ₹10,000.",
         "Your figure rises only with the options you choose: Malayalam and English versions, a large catalogue with many variants, courier rate tables, online payment, staff logins, export enquiry features or a Tally connection. Each is a separate line you can accept or strike out. If you supply your own text and photographs, the amount stays close to the starting price.",
         "Quotes in Kannur for similar-looking work vary widely. Ask each provider who will own the domain and hosting, whether the site is tested on low-cost phones, whether basic on-page SEO is included, how many revision rounds are covered and what support costs after the first year. Our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and your itemised quote arrives in about two working days.",
       ],
@@ -219,7 +219,7 @@ const kannur: CityContent = {
     {
       question: "What is the website cost in Kannur?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, Malayalam content, products and integrations. It arrives itemised in writing, and nothing is billed before you approve it.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, Malayalam content, products and integrations. It arrives itemised in writing, and nothing is billed before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Kannur businesses?",
@@ -229,7 +229,7 @@ const kannur: CityContent = {
     {
       question: "How long does a website take for a Kannur business?",
       answer:
-        "A simple static site is usually live within one to two weeks after we receive your photographs and details. A 700+ page SEO site takes about three to five weeks, an online store four to eight, and custom software six to twelve. The fastest projects are those where content arrives in the first few days.",
+        "A simple static site is usually live within one to two weeks after we receive your photographs and details. A 299+ page SEO site takes about three to five weeks, an online store four to eight, and custom software six to twelve. The fastest projects are those where content arrives in the first few days.",
     },
     {
       question: "Who is the best website development team in Kannur?",

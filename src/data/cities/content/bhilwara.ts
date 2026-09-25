@@ -34,7 +34,7 @@ const bhilwara: CityContent = {
     pills: ["Sites from ₹10,000", "Fabric catalogues", "Hindi and Mewari search terms", "WhatsApp order flows", "You own everything"],
   },
   quickAnswer:
-    "A business website for a Bhilwara firm costs from ₹10,000 with us, and a 700+ page SEO site from ₹20,000. Fabric stores with UPI start at ₹50,000 and custom mill software at ₹60,000. We are a remote three-engineer team with no Bhilwara office, and every launch includes five months of free maintenance.",
+    "A business website for a Bhilwara firm costs from ₹10,000 with us, and a 299+ page SEO site from ₹20,000. Fabric stores with UPI start at ₹50,000 and custom mill software at ₹60,000. We are a remote three-engineer team with no Bhilwara office, and every launch includes five months of free maintenance.",
   snapshot: [
     { label: "Known as", value: "Textile City of Rajasthan, often called the Manchester of Rajasthan" },
     { label: "Core trade", value: "Polyester-viscose and blended suiting fabric, spun and synthetic yarn, processing houses" },
@@ -72,7 +72,7 @@ const bhilwara: CityContent = {
       heading: "What a website costs in Bhilwara, in plain numbers",
       paragraphs: [
         "Bhilwara owners are careful with money, and they should be. Quotes for a basic business site here range from a few thousand rupees to well over fifty thousand, and the difference is rarely explained on paper. Cheap quotes often skip SEO basics and keep the domain in the developer’s name. Expensive ones often pay for sales visits rather than engineering.",
-        "Our starting prices are published openly. A simple site of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. A 700+ page SEO website, with separate pages for each fabric category and each buyer type, starts at ₹20,000 and takes three to five weeks. A store selling suit lengths or trousers online with UPI checkout starts at ₹50,000. Custom software such as an agent portal or order tracker starts at ₹60,000. Automation projects begin at ₹40,000, and monthly SEO at ₹10,000. Full details are on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our starting prices are published openly. A simple site of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. A 299+ page SEO website, with separate pages for each fabric category and each buyer type, starts at ₹20,000 and takes three to five weeks. A store selling suit lengths or trousers online with UPI checkout starts at ₹50,000. Custom software such as an agent portal or order tracker starts at ₹60,000. Automation projects begin at ₹40,000, and monthly SEO at ₹10,000. Full details are on our <a href=\"/pricing/\">pricing page</a>.",
         "A mill with forty qualities and good photographs costs less to put online than one with four hundred designs and no product data. That is why we quote per project, list every item, and bill nothing until you approve the quote in writing.",
       ],
       list: [
@@ -208,12 +208,12 @@ const bhilwara: CityContent = {
     {
       question: "How much does a website cost in Bhilwara?",
       answer:
-        "With us, a small business site starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online fabric store at ₹50,000 and custom mill software at ₹60,000. Other quotes around Bhilwara vary widely, so compare what is included: domain ownership, SEO basics, hosting and support after launch.",
+        "With us, a small business site starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online fabric store at ₹50,000 and custom mill software at ₹60,000. Other quotes around Bhilwara vary widely, so compare what is included: domain ownership, SEO basics, hosting and support after launch.",
     },
     {
       question: "Bhilwara me mill ki website banwane me kitna kharcha aata hai?",
       answer:
-        "Ek simple company website ₹10,000 se shuru hoti hai. Agar aapko har quality ka alag page chahiye, jisse buyer Google par dhoondh sake, to 700+ pages wali SEO website ₹20,000 se banti hai. Online store ₹50,000 se hai. Kaam shuru hone se pehle aapko likhit, itemised quote milta hai.",
+        "Ek simple company website ₹10,000 se shuru hoti hai. Agar aapko har quality ka alag page chahiye, jisse buyer Google par dhoondh sake, to 299+ pages wali SEO website ₹20,000 se banti hai. Online store ₹50,000 se hai. Kaam shuru hone se pehle aapko likhit, itemised quote milta hai.",
     },
     {
       question: "Do you have an office in Bhilwara?",

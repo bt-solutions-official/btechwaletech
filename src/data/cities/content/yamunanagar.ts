@@ -34,7 +34,7 @@ const yamunanagar: CityContent = {
     pills: ["Websites from ₹10,000", "Plywood and board catalogues", "Utensil maker sites", "Hindi and English SEO", "WhatsApp lead handling"],
   },
   quickAnswer:
-    "For Yamunanagar and Jagadhri businesses, our static websites start from ₹10,000 and take one to two weeks, 700+ page SEO sites start from ₹20,000, and online stores from ₹50,000. We are a remote team of three engineers without a local office, and every site we build includes five months of free maintenance.",
+    "For Yamunanagar and Jagadhri businesses, our static websites start from ₹10,000 and take one to two weeks, 299+ page SEO sites start from ₹20,000, and online stores from ₹50,000. We are a remote team of three engineers without a local office, and every site we build includes five months of free maintenance.",
   snapshot: [
     { label: "Twin city", value: "Yamunanagar and Jagadhri, governed together by the Yamunanagar-Jagadhri Municipal Corporation" },
     { label: "Signature industry", value: "Plywood, veneer and board units using locally grown poplar and eucalyptus; a large timber market" },
@@ -72,7 +72,7 @@ const yamunanagar: CityContent = {
       heading: "What a website costs in Yamunanagar, and why quotes differ so much",
       paragraphs: [
         "A plywood mill owner in Yamunanagar can be quoted four thousand rupees by one person and two lakh by another for what sounds like the same site. The cheap offer is usually a reused template with the logo changed, the domain registered in the seller's name and no work done on search. The costly one often pays for an agency's office in Chandigarh or Delhi more than for anything built for you.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a> for anyone to check. A static website of up to 100 pages starts from ₹10,000 and takes one to two weeks. An SEO website of 700+ pages, with a page for every product, thickness, grade or service area, starts from ₹20,000 and needs three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, and custom software such as a dealer portal or dispatch register at ₹60,000. Monthly SEO work starts from ₹10,000.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a> for anyone to check. A static website of up to 100 pages starts from ₹10,000 and takes one to two weeks. An SEO website of 299+ pages, with a page for every product, thickness, grade or service area, starts from ₹20,000 and needs three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, and custom software such as a dealer portal or dispatch register at ₹60,000. Monthly SEO work starts from ₹10,000.",
         "Scope decides the final figure. The number of products, languages, photographs you need edited and integrations with billing or WhatsApp all change the effort. We write that down line by line so you can remove what you do not need before you approve anything.",
       ],
       list: [
@@ -208,7 +208,7 @@ const yamunanagar: CityContent = {
     {
       question: "How much does a website cost in Yamunanagar?",
       answer:
-        "Our static websites start from ₹10,000, 700+ page SEO websites from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. The final amount depends on the number of products, languages and features. You receive an itemised quote in about two working days and pay nothing before approving it.",
+        "Our static websites start from ₹10,000, 299+ page SEO websites from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. The final amount depends on the number of products, languages and features. You receive an itemised quote in about two working days and pay nothing before approving it.",
     },
     {
       question: "Yamunanagar mein plywood factory ki website banwane ka kharcha kitna hai?",

@@ -64,7 +64,7 @@ const content: CityContent = {
   whyUsIntro:
     "Kochi has many software exporters but fewer partners focused on local businesses. We advise honestly, including telling you when not to build, and the three people you consult with are the engineers who deliver and support the work.",
   pricingIntro:
-    "Consultation is free. Kochi build work starts at ₹10,000 for websites, ₹20,000 for 700+ page SEO sites, ₹40,000 for AI automation or Android and iOS apps, ₹50,000 for ecommerce and ₹60,000 for custom software.",
+    "Consultation is free. Kochi build work starts at ₹10,000 for websites, ₹20,000 for 299+ page SEO sites, ₹40,000 for AI automation or Android and iOS apps, ₹50,000 for ecommerce and ₹60,000 for custom software.",
   sections: [
     {
       id: "it-consulting-kochi-what-it-means",
@@ -195,7 +195,7 @@ const content: CityContent = {
       ],
       list: [
         "Static website: from ₹10,000, one to two weeks",
-        "SEO website of 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website of 299+ pages: from ₹20,000, three to five weeks",
         "AI automation: from ₹40,000, two to four weeks",
         "Android and iOS app: from ₹40,000, six to ten weeks",
         "Ecommerce store: from ₹50,000, four to eight weeks",

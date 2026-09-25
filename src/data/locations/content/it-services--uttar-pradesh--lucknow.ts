@@ -151,7 +151,7 @@ const content: CityContent = {
       id: "lucknow-seo-websites",
       heading: "SEO and websites that build trust in Lucknow",
       paragraphs: [
-        "SEO in Lucknow works best when it combines a complete Google Business Profile, genuine reviews, locality pages and a fast, trustworthy website. BtechWaleTech builds static websites from ₹10,000, 700+ page SEO websites from ₹20,000 and offers monthly SEO from ₹10,000, including technical fixes, content and Search Console reporting.",
+        "SEO in Lucknow works best when it combines a complete Google Business Profile, genuine reviews, locality pages and a fast, trustworthy website. BtechWaleTech builds static websites from ₹10,000, 299+ page SEO websites from ₹20,000 and offers monthly SEO from ₹10,000, including technical fixes, content and Search Console reporting.",
         "Lucknow buyers check credentials before committing, especially for hospitals, schools, lawyers, consultants and builders. Pages that show qualifications, facilities, fees or starting prices, real photographs and clear contact details convert better than decorative designs. Hindi pages reach many searchers who prefer it, and locality pages for Gomti Nagar, Indira Nagar, Aliganj or Alambagh capture nearby intent.",
         "We add schema markup and write answer-first content so AI Overviews and assistants describe your business correctly. We never guarantee rankings or post fake reviews. See our <a href=\"/services/seo-services/\">SEO services</a> and <a href=\"/services/web-development/\">web development</a> pages, or the <a href=\"/lucknow/\">Lucknow website design page</a> if a website is your main need.",
       ],
@@ -178,7 +178,7 @@ const content: CityContent = {
       id: "lucknow-cost",
       heading: "What does software development cost in Lucknow?",
       paragraphs: [
-        "Software development in Lucknow with BtechWaleTech starts at ₹60,000 for custom software or web apps, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for ecommerce, ₹20,000 for a 700+ page SEO website and ₹10,000 for a static website. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after five free months.",
+        "Software development in Lucknow with BtechWaleTech starts at ₹60,000 for custom software or web apps, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for ecommerce, ₹20,000 for a 299+ page SEO website and ₹10,000 for a static website. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after five free months.",
         "The final figure depends on user roles, reports, integrations, data migration and language versions. A single-branch clinic appointment tool sits near the starting price; a multi-project contractor system with site apps and dashboards costs more. We send an itemised quote within about two working days. Compare plans on our <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [

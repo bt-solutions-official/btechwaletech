@@ -34,7 +34,7 @@ const gudivada: CityContent = {
     pills: ["Websites from ₹10,000", "Telugu-first pages", "Rice mill and trailer sites", "Aqua dealer catalogues", "WhatsApp enquiry flows"],
   },
   quickAnswer:
-    "For Gudivada businesses, a static website with up to 100 pages starts from ₹10,000 and is ready in one to two weeks. A 700+ page SEO website starts from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We are three remote engineers, we have no office in Gudivada, and maintenance is free for five months after launch.",
+    "For Gudivada businesses, a static website with up to 100 pages starts from ₹10,000 and is ready in one to two weeks. A 299+ page SEO website starts from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We are three remote engineers, we have no office in Gudivada, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Town", value: "Special-grade municipality and revenue division headquarters in Krishna district, about 118,000 people in the 2011 Census" },
     { label: "Connections", value: "Gudivada Junction on the Vijayawada railway division; NH 165 runs through the town; Gannavaram airport is roughly 37 km away" },
@@ -73,7 +73,7 @@ const gudivada: CityContent = {
       heading: "What a website costs in Gudivada, and what changes the price",
       paragraphs: [
         "Owners in Gudivada hear two very different kinds of quotes. A local contact may offer a template site for a small amount, often hosted on an account you never see. A city agency may quote a large lump sum with no list of what is included. Neither tells you what you are actually paying for.",
-        "Our <a href=\"/pricing/\">pricing page</a> shows starting prices, and every number is where a project begins, not a final package. A static website of up to 100 pages starts from ₹10,000 and is usually live in one to two weeks. An SEO website with 700+ pages, for example a page for every rice variety, trailer model or village you deliver to, starts from ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts from ₹40,000, online stores from ₹50,000, custom web applications from ₹60,000, and monthly SEO from ₹10,000.",
+        "Our <a href=\"/pricing/\">pricing page</a> shows starting prices, and every number is where a project begins, not a final package. A static website of up to 100 pages starts from ₹10,000 and is usually live in one to two weeks. An SEO website with 299+ pages, for example a page for every rice variety, trailer model or village you deliver to, starts from ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts from ₹40,000, online stores from ₹50,000, custom web applications from ₹60,000, and monthly SEO from ₹10,000.",
         "What moves the figure up or down is scope: the number of pages and products, whether you need Telugu and English, payment gateways, staff logins and integrations with your billing software. A single-doctor clinic needs far less than a feed distributor who wants dealer accounts and credit tracking.",
         "You get the line items in writing before any work is billed, so you can drop what you do not need and add it later if business grows.",
       ],
@@ -227,12 +227,12 @@ const gudivada: CityContent = {
     {
       question: "How much does a website cost in Gudivada?",
       answer:
-        "Our static websites start from ₹10,000, SEO websites with 700+ pages from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. These are starting prices; the final amount depends on pages, products and features, and you receive an itemised quote before anything is billed.",
+        "Our static websites start from ₹10,000, SEO websites with 299+ pages from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. These are starting prices; the final amount depends on pages, products and features, and you receive an itemised quote before anything is billed.",
     },
     {
       question: "Gudivada lo website cheyinchadaniki entha avutundi?",
       answer:
-        "Maa daggara chinna business website ₹10,000 tho start avutundi. 700 pages paina unna SEO website ₹20,000 nundi, online store ₹50,000 nundi start. Final amount pages, features, Telugu content meeda depend avutundi. Pani start cheyyaka mundu meeku line-by-line quote WhatsApp lo pampistamu.",
+        "Maa daggara chinna business website ₹10,000 tho start avutundi. 299 pages paina unna SEO website ₹20,000 nundi, online store ₹50,000 nundi start. Final amount pages, features, Telugu content meeda depend avutundi. Pani start cheyyaka mundu meeku line-by-line quote WhatsApp lo pampistamu.",
     },
     {
       question: "Is your office in Gudivada?",

@@ -35,7 +35,7 @@ const akola: CityContent = {
     pills: ["Sites from ₹10,000", "Marathi, Hindi and English", "Dealer catalogues for mills", "Class enquiry automation", "Domain and code in your name"],
   },
   quickAnswer:
-    "In Akola, a basic business website from our team costs from ₹10,000 and is ready in one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp automation at ₹40,000. We are a remote three-person team with no Akola office, and the first five months of maintenance are free.",
+    "In Akola, a basic business website from our team costs from ₹10,000 and is ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp automation at ₹40,000. We are a remote three-person team with no Akola office, and the first five months of maintenance are free.",
   snapshot: [
     { label: "Known as", value: "The “Cotton City” of Vidarbha, with cotton products named as Akola's One District One Product" },
     { label: "Industrial base", value: "MIDC Akola, known for its large concentration of dal (pulse) mills, plus oil mills, ginning and pressing units" },
@@ -73,12 +73,12 @@ const akola: CityContent = {
       heading: "What a website costs in Akola, and where the money goes",
       paragraphs: [
         "Ask around Akola and you will hear anything from ₹2,500 for a one-page template to ₹40,000 or more from a Pune or Nagpur agency. The cheapest option usually skips search setup, keeps the domain in the developer's name and is rarely touched again. The expensive option may be well made, but part of the fee pays for sales staff and an office you never visit.",
-        "Our rates are listed on the <a href=\"/pricing/\">pricing page</a>. A static website for a shop, clinic, tuition class or small trading firm starts at ₹10,000 and takes one to two weeks. A 700+ page site built around what Akola customers actually search for starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications such as mill dashboards and dealer portals at ₹60,000, and WhatsApp or AI automation at ₹40,000. Monthly SEO starts at ₹10,000.",
+        "Our rates are listed on the <a href=\"/pricing/\">pricing page</a>. A static website for a shop, clinic, tuition class or small trading firm starts at ₹10,000 and takes one to two weeks. A 299+ page site built around what Akola customers actually search for starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications such as mill dashboards and dealer portals at ₹60,000, and WhatsApp or AI automation at ₹40,000. Monthly SEO starts at ₹10,000.",
         "Scope decides the final number. A class with four courses needs less than a dal mill listing twenty grades in five pack sizes, each with its own specification sheet. We send an itemised quote that names every page and feature, usually within two working days, and nothing is billed until you approve it in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form, map and basic SEO. For clinics, tutors, shops and CA offices.",
-        "<strong>From ₹20,000:</strong> 700+ pages with separate product, course or service pages. For firms that want steady Google enquiries.",
+        "<strong>From ₹20,000:</strong> 299+ pages with separate product, course or service pages. For firms that want steady Google enquiries.",
         "<strong>From ₹50,000:</strong> online store with cart, UPI and card payments. For packaged pulses, spices and cotton products.",
         "<strong>From ₹60,000:</strong> custom systems with logins and reports. For mills, ginners, distributors and institutes.",
       ],
@@ -218,12 +218,12 @@ const akola: CityContent = {
     {
       question: "How much does a website cost in Akola?",
       answer:
-        "With us, a static business website starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Elsewhere in Akola you will hear quotes from roughly ₹2,500 to ₹40,000. Compare what is included, especially SEO setup, who owns the domain and support after launch, rather than just the headline price.",
+        "With us, a static business website starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. Elsewhere in Akola you will hear quotes from roughly ₹2,500 to ₹40,000. Compare what is included, especially SEO setup, who owns the domain and support after launch, rather than just the headline price.",
     },
     {
       question: "Akola madhye website banvayla kiti kharch yeto?",
       answer:
-        "Aamchyakade saadhi business website ₹10,000 pasun suru hote, ani 700+ pages chi SEO website ₹20,000 pasun. Online store ₹50,000 pasun suru hoto. Antim kimmat pages, features ani tumchyakadil mahitivar avalambun aste. Kaam suru honyapurvi tumhala sagla tapshil asalela lekhi quote milto, ani tumchi manjuri milalyashivay kahihi bill kela jaat nahi.",
+        "Aamchyakade saadhi business website ₹10,000 pasun suru hote, ani 299+ pages chi SEO website ₹20,000 pasun. Online store ₹50,000 pasun suru hoto. Antim kimmat pages, features ani tumchyakadil mahitivar avalambun aste. Kaam suru honyapurvi tumhala sagla tapshil asalela lekhi quote milto, ani tumchi manjuri milalyashivay kahihi bill kela jaat nahi.",
     },
     {
       question: "Do you have an office in Akola where I can meet you?",
@@ -248,7 +248,7 @@ const akola: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. The usual delay is waiting for photos and product details, so we write draft text for you to correct instead of waiting on blank pages.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. The usual delay is waiting for photos and product details, so we write draft text for you to correct instead of waiting on blank pages.",
     },
     {
       question: "Can you build an online store with UPI and Razorpay?",

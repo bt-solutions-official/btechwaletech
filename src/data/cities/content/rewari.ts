@@ -34,7 +34,7 @@ const rewari: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi and Hinglish SEO", "B2B supplier catalogues", "WhatsApp enquiry flows", "Full code ownership"],
   },
   quickAnswer:
-    "Websites for Rewari businesses start at ₹10,000 with us and usually take one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000, AI or WhatsApp automation at ₹40,000 and custom software at ₹60,000. We are a remote team with no Rewari office, and you keep the domain, hosting and code.",
+    "Websites for Rewari businesses start at ₹10,000 with us and usually take one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000, AI or WhatsApp automation at ₹40,000 and custom software at ₹60,000. We are a remote team with no Rewari office, and you keep the domain, hosting and code.",
   snapshot: [
     { label: "Location", value: "District headquarters in south-west Haryana, roughly 82 km from Delhi and about 51 km from Gurugram" },
     { label: "Craft heritage", value: "Brass and metalwork, with a dedicated Brass Market in Model Town off Circular Road" },
@@ -72,12 +72,12 @@ const rewari: CityContent = {
       heading: "Website pricing for Rewari businesses",
       paragraphs: [
         "Rewari owners often hear two extremes: a few thousand rupees from someone who installs a free theme, or a Gurugram agency's proposal loaded with retainers. The first rarely includes basic SEO or ownership; the second pays for an office you never visit.",
-        "Our numbers are published starting prices. A static website of up to 100 pages starts at ₹10,000 and is typically ready in one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, and custom web applications, for example a dispatch tracker for a Bawal vendor, at ₹60,000. Ongoing SEO starts at ₹10,000 a month. All of it is listed on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our numbers are published starting prices. A static website of up to 100 pages starts at ₹10,000 and is typically ready in one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, and custom web applications, for example a dispatch tracker for a Bawal vendor, at ₹60,000. Ongoing SEO starts at ₹10,000 a month. All of it is listed on our <a href=\"/pricing/\">pricing page</a>.",
         "What moves the figure is scope. Each page group, language, integration and content task appears as a separate line, so you can start with what brings enquiries now and add features once the first orders arrive through the site.",
       ],
       list: [
         "<strong>Starts at ₹10,000:</strong> a neat site for a shop, clinic, CA, advocate, tutor or transporter.",
-        "<strong>Starts at ₹20,000:</strong> a 700+ page SEO site for schools, hospitals and B2B suppliers with many product lines.",
+        "<strong>Starts at ₹20,000:</strong> a 299+ page SEO site for schools, hospitals and B2B suppliers with many product lines.",
         "<strong>Starts at ₹50,000:</strong> an online brassware or gift store with UPI, cards and courier tracking.",
         "<strong>Starts at ₹60,000:</strong> a custom tool for orders, dispatch, inspections or admissions.",
       ],
@@ -217,12 +217,12 @@ const rewari: CityContent = {
     {
       question: "What does a website cost in Rewari?",
       answer:
-        "With us, a business website starts at ₹10,000 and a 700+ page SEO site at ₹20,000. Online stores start at ₹50,000, automation at ₹40,000 and custom software at ₹60,000. Your final amount depends on pages, languages and features, and you receive an itemised quote in about two working days before any billing.",
+        "With us, a business website starts at ₹10,000 and a 299+ page SEO site at ₹20,000. Online stores start at ₹50,000, automation at ₹40,000 and custom software at ₹60,000. Your final amount depends on pages, languages and features, and you receive an itemised quote in about two working days before any billing.",
     },
     {
       question: "Rewari mein website banwane ka kharcha kitna aata hai?",
       answer:
-        "Humare saath dukaan, clinic ya academy ki website ₹10,000 se shuru hoti hai. 700+ page wali SEO website ₹20,000 se aur online store ₹50,000 se shuru hota hai. Kitne page aur kaun se features chahiye, usse final rate banta hai. Kaam shuru karne se pehle har cheez ka alag hisaab likhkar milta hai, aur aapki manzoori ke bina koi bill nahi.",
+        "Humare saath dukaan, clinic ya academy ki website ₹10,000 se shuru hoti hai. 299+ page wali SEO website ₹20,000 se aur online store ₹50,000 se shuru hota hai. Kitne page aur kaun se features chahiye, usse final rate banta hai. Kaam shuru karne se pehle har cheez ka alag hisaab likhkar milta hai, aur aapki manzoori ke bina koi bill nahi.",
     },
     {
       question: "Is your office in Rewari?",
@@ -252,7 +252,7 @@ const rewari: CityContent = {
     {
       question: "How long does a website take to build?",
       answer:
-        "A static website usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. Content is usually the slowest part, so we can draft Hindi and English text for you to correct.",
+        "A static website usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom web application six to twelve weeks. Content is usually the slowest part, so we can draft Hindi and English text for you to correct.",
     },
     {
       question: "Can the website be in Hindi?",

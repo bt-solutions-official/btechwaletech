@@ -39,7 +39,7 @@ const sagara: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Kannada and English SEO", "Areca and spice trade tools", "Homestay booking pages"],
   },
   quickAnswer:
-    "For a Sagara business, our websites start at ₹10,000 and typically go live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI automation; a 700+ page SEO site starts at ₹20,000, an ecommerce store at ₹50,000 and custom software at ₹60,000. We are a remote team without a Sagara office, and every account stays in your name.",
+    "For a Sagara business, our websites start at ₹10,000 and typically go live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI automation; a 299+ page SEO site starts at ₹20,000, an ecommerce store at ₹50,000 and custom software at ₹60,000. We are a remote team without a Sagara office, and every account stays in your name.",
   snapshot: [
     { label: "Status", value: "Sub-division and taluk headquarters in Shivamogga district, in the Western Ghats" },
     { label: "Population", value: "About 54,550 in the city (Census 2011), with a larger rural taluk around it" },
@@ -160,7 +160,7 @@ const sagara: CityContent = {
       id: "website-cost-sagara",
       heading: "Website cost in Sagara and what makes the quote go up",
       paragraphs: [
-        "Here are the numbers most Sagara owners ask for first. A static website up to 100 pages starts at ₹10,000 and usually takes one to two weeks. An SEO build of 700 pages or more, useful for a trader or tourism business that wants a page for every variety, village or attraction, starts at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation each start at ₹40,000.",
+        "Here are the numbers most Sagara owners ask for first. A static website up to 100 pages starts at ₹10,000 and usually takes one to two weeks. An SEO build of 299 pages or more, useful for a trader or tourism business that wants a page for every variety, village or attraction, starts at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation each start at ₹40,000.",
         "An online store starts at ₹50,000, custom software or a web app at ₹60,000 and monthly SEO at ₹10,000 a month. After five free months of maintenance, ongoing support starts at ₹8,000 a month, and it is optional.",
         "Additional lines appear only for what you choose: Kannada and English versions, a long product list, courier rate tables, UPI checkout, booking calendars, staff logins or Tally sync. If you supply your own text and photographs, very little is added for content.",
         "Quotes in the Shivamogga region vary widely, so compare like with like. Ask who registers the domain, whether the site is tested on cheap phones and slow networks, what SEO basics are included, how many revisions are covered and what support costs later. Our full list is on the <a href=\"/pricing/\">pricing page</a>, and your itemised quote usually arrives within two working days.",
@@ -213,7 +213,7 @@ const sagara: CityContent = {
     {
       question: "What is the website cost in Sagara?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. Each is a starting price. Your written quote lists pages, Kannada content, products and integrations as separate lines, and you pay nothing until you approve it.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. Each is a starting price. Your written quote lists pages, Kannada content, products and integrations as separate lines, and you pay nothing until you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Sagara businesses?",
@@ -223,7 +223,7 @@ const sagara: CityContent = {
     {
       question: "How long does it take to build a website in Sagara?",
       answer:
-        "A small business or homestay site usually takes one to two weeks once we have your text and photos. Larger work takes longer: three to five weeks for a 700+ page SEO site, four to eight for a store and six to twelve for custom software. Sending content early is the surest way to finish on time.",
+        "A small business or homestay site usually takes one to two weeks once we have your text and photos. Larger work takes longer: three to five weeks for a 299+ page SEO site, four to eight for a store and six to twelve for custom software. Sending content early is the surest way to finish on time.",
     },
     {
       question: "Which is the best website development team in Sagara?",

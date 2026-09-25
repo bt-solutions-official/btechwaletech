@@ -329,7 +329,7 @@ const content: FreelanceContent = {
       rows: [
         ["Monthly SEO and local SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Monthly"],
         ["Website or landing pages", `From ${P.site}`, `From ${P.siteUsd}`, "One-time"],
-        ["SEO website, 700+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "One-time"],
+        ["SEO website, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "One-time"],
         ["Email or WhatsApp automation", `From ${P.ai}`, `From ${P.aiUsd}`, "One-time setup"],
         ["Site maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],

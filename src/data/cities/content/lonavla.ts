@@ -39,7 +39,7 @@ const lonavla: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Direct villa booking pages", "Marathi, Hindi and English", "You own every account"],
   },
   quickAnswer:
-    "In Lonavla, a website with us starts at ₹10,000 and is usually live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Lonavla office, and every account is registered in your name.",
+    "In Lonavla, a website with us starts at ₹10,000 and is usually live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Lonavla office, and every account is registered in your name.",
   snapshot: [
     { label: "Location", value: "Hill station and municipal council in Pune district, about 64 km from Pune and 96 km from Mumbai" },
     { label: "Altitude", value: "Roughly 624 m on the Sahyadri crest, with Khandala as its twin hill station" },
@@ -168,7 +168,7 @@ const lonavla: CityContent = {
       heading: "Website cost in Lonavla: starting prices and how to compare quotes",
       paragraphs: [
         "Ask about <strong>website cost in Lonavla</strong> and you will hear anything from very cheap templates to large agency figures. Local quotes vary widely, so compare what is actually included: whose name the domain is in, how long hosting is covered, number of pages and photos, whether a booking calendar is included, how fast the site opens on a phone, and who fixes problems after launch.",
-        "Our starting prices are public. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website with 700+ pages, useful for villa managers with many properties or businesses targeting many searches, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, ecommerce at ₹50,000 and custom software at ₹60,000. The full list is on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our starting prices are public. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website with 299+ pages, useful for villa managers with many properties or businesses targeting many searches, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, ecommerce at ₹50,000 and custom software at ₹60,000. The full list is on our <a href=\"/pricing/\">pricing page</a>.",
         "Costs rise with property count, large photo galleries, booking calendars, multiple languages, payment and courier links, and user logins. They fall when you send your own photos and text and start with the essentials.",
         "An itemised quote reaches you in about two working days, and billing starts only after your written approval.",
       ],
@@ -222,7 +222,7 @@ const lonavla: CityContent = {
     {
       question: "What is the website cost in Lonavla?",
       answer:
-        "A static website with us starts at ₹10,000 and a 700+ page SEO website at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. These are starting prices; property count, booking calendars, languages and integrations change the final figure. You receive an itemised written quote before anything is billed.",
+        "A static website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. These are starting prices; property count, booking calendars, languages and integrations change the final figure. You receive an itemised written quote before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Lonavla businesses?",

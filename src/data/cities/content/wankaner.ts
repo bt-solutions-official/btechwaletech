@@ -39,7 +39,7 @@ const wankaner: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Tile catalogue SEO", "Dealer and dispatch software", "Accounts in your name"],
   },
   quickAnswer:
-    "Wankaner businesses can get a website from ₹10,000, usually ready in one to two weeks, and Android and iOS apps from ₹40,000. A 700+ page SEO site starts at ₹20,000, AI automation at ₹40,000, an online store at ₹50,000 and custom software for tile plants at ₹60,000. We work remotely, and you own every account.",
+    "Wankaner businesses can get a website from ₹10,000, usually ready in one to two weeks, and Android and iOS apps from ₹40,000. A 299+ page SEO site starts at ₹20,000, AI automation at ₹40,000, an online store at ₹50,000 and custom software for tile plants at ₹60,000. We work remotely, and you own every account.",
   snapshot: [
     { label: "District", value: "Morbi district since 2013 (earlier Rajkot district); municipal town of 43,881 people at the 2011 census" },
     { label: "Name and river", value: "Sits on the Machhu; the Gujarati name joins vanka (bend) and ner (river)" },
@@ -87,7 +87,7 @@ const wankaner: CityContent = {
       paragraphs: [
         "Exporters in the Wankaner and Dhuva zone sell to importers and distributors who will rarely visit the plant before a first order. Their first real look at you is the website, usually opened on a desktop in an office several time zones away, and the judgement is quick.",
         "A <strong>website development team in Wankaner</strong> should build that site around the catalogue, not around slogans. Every series needs its sizes, thickness, finish, body type, suggested applications and packing data: pieces per box, boxes per pallet and weight per container. Photographs of tiles actually laid in a room matter more than stock images. Downloadable PDF catalogues, a certificates page you can back with documents, and an enquiry form that asks for country, port, quantity and sizes cut out days of back-and-forth email.",
-        "We build these as fast static or content-managed sites, from ₹10,000 for a smaller range and from ₹20,000 when you want 700+ pages covering every design, size and application. Product pages can be published in more than one language where your buyers need it. No buyer's name or logo goes on your site without their written permission, and we advise against capacity or certification claims you could not prove to an auditor.",
+        "We build these as fast static or content-managed sites, from ₹10,000 for a smaller range and from ₹20,000 when you want 299+ pages covering every design, size and application. Product pages can be published in more than one language where your buyers need it. No buyer's name or logo goes on your site without their written permission, and we advise against capacity or certification claims you could not prove to an auditor.",
       ],
     },
     {
@@ -149,7 +149,7 @@ const wankaner: CityContent = {
       id: "website-cost-wankaner",
       heading: "Website cost in Wankaner, and the choices that move it",
       paragraphs: [
-        "Whether you search “Wankaner me website banwana” or ask a friend in Gujarati, the honest answer depends on the size of the job. A tutor or clinic needs a few pages; an exporter may need hundreds. Our starting points: a static site of up to 100 pages from ₹10,000, done in one to two weeks; an SEO-focused site of 700+ pages from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000; an online store or dealer portal from ₹50,000; custom software from ₹60,000; and monthly SEO from ₹10,000.",
+        "Whether you search “Wankaner me website banwana” or ask a friend in Gujarati, the honest answer depends on the size of the job. A tutor or clinic needs a few pages; an exporter may need hundreds. Our starting points: a static site of up to 100 pages from ₹10,000, done in one to two weeks; an SEO-focused site of 299+ pages from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000; an online store or dealer portal from ₹50,000; custom software from ₹60,000; and monthly SEO from ₹10,000.",
         "Whatever raises a quote is visible on paper. Each extra language, a large catalogue with many sizes and finishes, dealer-specific pricing, payment collection, a Tally link or professional photography becomes its own line, which you can keep or strike out. If you send your product data in a spreadsheet, the catalogue work shrinks a great deal.",
         "Quotes from designers in Morbi, Rajkot and elsewhere vary widely for similar work. When comparing, ask who registers the domain, whether the source code is handed over, whether pages are tested on low-cost Android phones, how many revision rounds are included and what support costs after the first year. Our full list is on the <a href=\"/pricing/\">pricing page</a>, and an itemised written quote reaches you in about two working days.",
       ],
@@ -219,7 +219,7 @@ const wankaner: CityContent = {
     {
       question: "What is the website cost in Wankaner?",
       answer:
-        "With us, a static website of up to 100 pages starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store or dealer portal at ₹50,000 and custom software at ₹60,000. These are starting prices. The final figure depends on pages, languages, catalogue size and integrations, and you receive it as an itemised written quote before anything is billed.",
+        "With us, a static website of up to 100 pages starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store or dealer portal at ₹50,000 and custom software at ₹60,000. These are starting prices. The final figure depends on pages, languages, catalogue size and integrations, and you receive it as an itemised written quote before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Wankaner businesses?",
@@ -234,7 +234,7 @@ const wankaner: CityContent = {
     {
       question: "How long does a website take for a Wankaner business?",
       answer:
-        "A static site for a shop, clinic or supplier is usually live in one to two weeks once we have your photographs and details. A 700+ page catalogue or SEO site takes three to five weeks, an online store or dealer portal four to eight, and custom plant software six to twelve. Sending product data early is the easiest way to keep to the shorter end.",
+        "A static site for a shop, clinic or supplier is usually live in one to two weeks once we have your photographs and details. A 299+ page catalogue or SEO site takes three to five weeks, an online store or dealer portal four to eight, and custom plant software six to twelve. Sending product data early is the easiest way to keep to the shorter end.",
     },
     {
       question: "Can you help my Wankaner shop appear on Google Maps?",
@@ -269,7 +269,7 @@ const wankaner: CityContent = {
     {
       question: "Wankaner ma website banavvano kharch ketlo thay?",
       answer:
-        "Amari saathe simple website ₹10,000 thi sharu thay chhe ane saamanya rite ek-be athvadiya ma taiyar thai jaay chhe. 700+ page ni SEO website ₹20,000 thi, Android ane iOS app ₹40,000 thi ane online store ₹50,000 thi sharu thay chhe. Final quote tamara pages ane features pramane lekhit ma male chhe.",
+        "Amari saathe simple website ₹10,000 thi sharu thay chhe ane saamanya rite ek-be athvadiya ma taiyar thai jaay chhe. 299+ page ni SEO website ₹20,000 thi, Android ane iOS app ₹40,000 thi ane online store ₹50,000 thi sharu thay chhe. Final quote tamara pages ane features pramane lekhit ma male chhe.",
     },
     {
       question: "Is digital marketing in Wankaner worth it for a small shop?",

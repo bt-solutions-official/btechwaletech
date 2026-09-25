@@ -39,7 +39,7 @@ const kotKapura: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Punjabi and Hindi local SEO", "Arhtiya and ginning software", "Every login in your name"],
   },
   quickAnswer:
-    "In Kot Kapura, a business website with us starts at ₹10,000 and is usually live within one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO website at ₹20,000, an ecommerce store at ₹50,000 and custom software at ₹60,000. We work remotely, have no Kot Kapura office, and you own everything we build.",
+    "In Kot Kapura, a business website with us starts at ₹10,000 and is usually live within one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO website at ₹20,000, an ecommerce store at ₹50,000 and custom software at ₹60,000. We work remotely, have no Kot Kapura office, and you own everything we build.",
   snapshot: [
     { label: "Location", value: "Largest town of Faridkot district in Punjab's Malwa belt, about 15 km from Faridkot and 40 km from Moga" },
     { label: "Population", value: "Roughly 92,000 residents in the 2011 Census" },
@@ -130,7 +130,7 @@ const kotKapura: CityContent = {
         "Like many Malwa towns, Kot Kapura has a large number of schools, IELTS and study-abroad centres, computer institutes and coaching classes, and a good spread of hospitals, clinics and diagnostic labs. Faridkot, a short drive away, has the Baba Farid University of Health Sciences and a government medical college, so medical services in the area are busy and patients compare options.",
         "Search is competitive for these businesses. Parents and students look up “IELTS coaching Kotkapura”, “best school near me” or “child specialist Kotkapura”, and the first few map listings get most of the calls. Our <strong>SEO services in Kot Kapura</strong> start with the Google Business Profile: correct category, exact pin, accurate hours, real photographs, services and a plan for genuine reviews.",
         "We then build pages that answer what people really ask: batch timings and fees or fee ranges for a coaching centre, admission steps and transport routes for a school, doctors, OPD days and emergency contacts for a hospital. For study-abroad centres we stick to facts about your services and never publish visa success claims that cannot be proven.",
-        "Monthly SEO starts at ₹10,000 a month, and larger 700+ page SEO websites start at ₹20,000. We never promise a number one ranking, because nobody honest can. More detail is on <a href=\"/services/seo-services/\">our SEO services page</a>.",
+        "Monthly SEO starts at ₹10,000 a month, and larger 299+ page SEO websites start at ₹20,000. We never promise a number one ranking, because nobody honest can. More detail is on <a href=\"/services/seo-services/\">our SEO services page</a>.",
       ],
     },
     {
@@ -157,7 +157,7 @@ const kotKapura: CityContent = {
       id: "website-cost-kot-kapura",
       heading: "Website cost in Kot Kapura: starting prices and how to compare",
       paragraphs: [
-        "Our starting prices apply in Kot Kapura as they do everywhere: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 700+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000, an ecommerce store from ₹50,000 and custom software from ₹60,000. Monthly SEO begins at ₹10,000 a month.",
+        "Our starting prices apply in Kot Kapura as they do everywhere: a static website of up to 100 pages from ₹10,000 in one to two weeks, a 299+ page SEO website from ₹20,000 in three to five weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000, an ecommerce store from ₹50,000 and custom software from ₹60,000. Monthly SEO begins at ₹10,000 a month.",
         "A quote rises above the starting figure with more pages, Punjabi and English versions of every page, large product lists, payment and courier setup, logins for customers or staff, and links to Tally, Busy or other software. Content affects it too. If you send text and photographs, the cost stays close to the starting price; if we write, translate and photograph, that is shown as a separate item.",
         "Local quotes vary widely, from very cheap to very high. When you compare, ask whose name the domain and hosting are in, whether mobile testing and basic SEO are included, how many rounds of changes you get, what yearly renewals cost, and who fixes problems after launch.",
         "The starting points are on our <a href=\"/pricing/\">pricing page</a>. For your own project, an itemised written quote normally arrives within about two working days, free of charge.",
@@ -219,7 +219,7 @@ const kotKapura: CityContent = {
     {
       question: "What is the website cost in Kot Kapura?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, ecommerce stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Punjabi content, products and integrations. You receive it itemised in writing, and nothing is billed before you approve it.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, ecommerce stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Punjabi content, products and integrations. You receive it itemised in writing, and nothing is billed before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Kot Kapura businesses?",
@@ -229,7 +229,7 @@ const kotKapura: CityContent = {
     {
       question: "How quickly can a Kot Kapura shop get a website?",
       answer:
-        "A static website usually goes live in one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Having your content ready early is the biggest factor.",
+        "A static website usually goes live in one to two weeks after we receive your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Having your content ready early is the biggest factor.",
     },
     {
       question: "Who is the best website development team in Kot Kapura?",
@@ -259,7 +259,7 @@ const kotKapura: CityContent = {
     {
       question: "Kotkapura vich website banwaun da kinna kharcha aunda hai?",
       answer:
-        "Saade naal simple website ₹10,000 ton shuru hundi hai te aam taur te ik-do hafteyan vich tiyaar ho jaandi hai. 700+ page wali SEO website ₹20,000 ton, Android te iOS app ₹40,000 ton te online store ₹50,000 ton shuru hunda hai. Tuhade pages te features de hisaab naal likhat vich quote milda hai.",
+        "Saade naal simple website ₹10,000 ton shuru hundi hai te aam taur te ik-do hafteyan vich tiyaar ho jaandi hai. 299+ page wali SEO website ₹20,000 ton, Android te iOS app ₹40,000 ton te online store ₹50,000 ton shuru hunda hai. Tuhade pages te features de hisaab naal likhat vich quote milda hai.",
     },
     {
       question: "You have no office in Kot Kapura. Is remote work safe?",

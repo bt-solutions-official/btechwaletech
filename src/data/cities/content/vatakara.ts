@@ -39,7 +39,7 @@ const vatakara: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Malayalam-first pages", "Halwa and snack stores", "Everything registered to you"],
   },
   quickAnswer:
-    "In Vatakara, our business websites start at ₹10,000 and usually take one to two weeks. Android and iOS apps start at ₹40,000, AI automation also at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Vatakara office, and you own all accounts.",
+    "In Vatakara, our business websites start at ₹10,000 and usually take one to two weeks. Android and iOS apps start at ₹40,000, AI automation also at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Vatakara office, and you own all accounts.",
   snapshot: [
     { label: "Location", value: "Municipal town in Kozhikode district, about 49 km north of Kozhikode and 44 km south of Kannur" },
     { label: "Borders", value: "Mahé to the north and Payyoli to the south, with NH 66 and the main coastal railway running through" },
@@ -158,7 +158,7 @@ const vatakara: CityContent = {
       id: "website-cost-vatakara",
       heading: "Website cost in Vatakara: starting prices and how to compare",
       paragraphs: [
-        "Our starting prices are published: a static website of up to 100 pages from ₹10,000 in one to two weeks; a 700+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; an online store from ₹50,000 in four to eight weeks; and custom software from ₹60,000 in six to twelve weeks. Monthly SEO starts at ₹10,000 a month.",
+        "Our starting prices are published: a static website of up to 100 pages from ₹10,000 in one to two weeks; a 299+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; an online store from ₹50,000 in four to eight weeks; and custom software from ₹60,000 in six to twelve weeks. Monthly SEO starts at ₹10,000 a month.",
         "Scope raises the quote, and we show where. Malayalam and English versions, big product catalogues, payment and courier integration, logins and links to accounts software each add work. If you supply the text and photographs, the price stays near the starting figure; if we write content, it appears as a separate line.",
         "Quotes from local developers vary widely. Compare on whose name holds the domain and hosting, whether mobile testing and basic SEO are included, how many change rounds you get, and who fixes problems after launch. Our <a href=\"/pricing/\">pricing page</a> sets out the starting points, and your itemised quote normally arrives within two working days.",
       ],
@@ -210,7 +210,7 @@ const vatakara: CityContent = {
     {
       question: "How much does a website cost in Vatakara?",
       answer:
-        "With us, static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices, and your quote depends on pages, Malayalam content, products and integrations. It is sent itemised in writing before any billing.",
+        "With us, static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices, and your quote depends on pages, Malayalam content, products and integrations. It is sent itemised in writing before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Vatakara businesses?",
@@ -220,7 +220,7 @@ const vatakara: CityContent = {
     {
       question: "How long does a Vatakara business website take?",
       answer:
-        "A static website usually goes live within one to two weeks of receiving your content. A 700+ page SEO website takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Fast feedback on text and photographs is what speeds things up most.",
+        "A static website usually goes live within one to two weeks of receiving your content. A 299+ page SEO website takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Fast feedback on text and photographs is what speeds things up most.",
     },
     {
       question: "Which is the best website development team in Vatakara?",
@@ -245,7 +245,7 @@ const vatakara: CityContent = {
     {
       question: "Vatakara me website banwane me kitna kharcha lagta hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein taiyaar hoti hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapka final quote pages aur features ke hisaab se likhit mein milega.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein taiyaar hoti hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hota hai. Aapka final quote pages aur features ke hisaab se likhit mein milega.",
     },
     {
       question: "You have no office in Vatakara. How is that safe?",

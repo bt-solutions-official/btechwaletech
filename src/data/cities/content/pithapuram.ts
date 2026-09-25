@@ -38,7 +38,7 @@ const pithapuram: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu-first local SEO", "Pilgrim lodge and seva pages", "Uppada saree stores"],
   },
   quickAnswer:
-    "Pithapuram businesses can get a website from us starting at ₹10,000, usually ready within one to two weeks. Android and iOS apps and AI automation begin at ₹40,000, a 700+ page SEO site at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely with no Pithapuram office, and domain, code and accounts are yours.",
+    "Pithapuram businesses can get a website from us starting at ₹10,000, usually ready within one to two weeks. Android and iOS apps and AI automation begin at ₹40,000, a 299+ page SEO site at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely with no Pithapuram office, and domain, code and accounts are yours.",
   snapshot: [
     { label: "Status", value: "Municipality (since 1957) in Kakinada district, Andhra Pradesh" },
     { label: "Distances", value: "About 20 km from Kakinada and 75 km from Rajahmundry; Rajahmundry airport roughly 55 km" },
@@ -149,7 +149,7 @@ const pithapuram: CityContent = {
       id: "website-cost-pithapuram",
       heading: "Website cost in Pithapuram: starting points and optional extras",
       paragraphs: [
-        "The first question from most Pithapuram owners is price. A static website up to 100 pages starts at ₹10,000 and usually takes one to two weeks. A 700-plus page SEO site, useful for a lodge group or trader who wants pages for every room type, product or nearby village, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and AI automation also starts at ₹40,000.",
+        "The first question from most Pithapuram owners is price. A static website up to 100 pages starts at ₹10,000 and usually takes one to two weeks. A 299-plus page SEO site, useful for a lodge group or trader who wants pages for every room type, product or nearby village, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and AI automation also starts at ₹40,000.",
         "Online stores start at ₹50,000, custom software and web apps at ₹60,000, and monthly SEO at ₹10,000 a month. Maintenance is free for five months after launch and afterwards starts at ₹8,000 a month if you want us to continue.",
         "The quote rises only with choices you make: Telugu plus other languages, a large saree catalogue, international shipping, UPI checkout, booking calendars, staff logins or Tally sync. Send your own text and phone photographs and content costs stay low.",
         "Local quotes differ a great deal, so ask each provider who owns the domain, whether the site is tested on budget phones, what SEO basics are included, how many revisions you get and what yearly support costs. Our list is on the <a href=\"/pricing/\">pricing page</a>, and your itemised quote reaches you in about two working days.",
@@ -211,7 +211,7 @@ const pithapuram: CityContent = {
     {
       question: "What is the website cost in Pithapuram?",
       answer:
-        "A static website with us starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. All are starting prices. The written quote itemises pages, Telugu content, products and integrations, and billing starts only after you approve it.",
+        "A static website with us starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. All are starting prices. The written quote itemises pages, Telugu content, products and integrations, and billing starts only after you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Pithapuram businesses?",
@@ -221,7 +221,7 @@ const pithapuram: CityContent = {
     {
       question: "How fast can a Pithapuram lodge get a website?",
       answer:
-        "A lodge or shop website is usually live within one to two weeks of receiving your photographs, tariffs and details. Bigger jobs take longer: three to five weeks for a 700+ page SEO site, four to eight for an online store and six to twelve for custom software. Having content ready early saves the most time.",
+        "A lodge or shop website is usually live within one to two weeks of receiving your photographs, tariffs and details. Bigger jobs take longer: three to five weeks for a 299+ page SEO site, four to eight for an online store and six to twelve for custom software. Having content ready early saves the most time.",
     },
     {
       question: "Which is the best website development team in Pithapuram?",

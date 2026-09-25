@@ -35,7 +35,7 @@ const rajahmundry: CityContent = {
     pills: ["Websites from ₹10,000", "Telugu and English pages", "Nursery plant catalogues", "Jewellery and saree stores", "WhatsApp order handling"],
   },
   quickAnswer:
-    "Our team builds a basic website for a Rajahmundry business from ₹10,000, usually within one to two weeks. A 700+ page SEO website starts at ₹20,000, an online store at ₹50,000 and WhatsApp automation at ₹40,000. We are three remote engineers with no Rajahmundry office, and maintenance is free for five months after launch.",
+    "Our team builds a basic website for a Rajahmundry business from ₹10,000, usually within one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and WhatsApp automation at ₹40,000. We are three remote engineers with no Rajahmundry office, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Also called", value: "Rajamahendravaram since 2015, often described as the cultural capital of Andhra Pradesh" },
     { label: "Heritage", value: "Associated with Nannaya, the first poet of Telugu literature, and reformer Kandukuri Veeresalingam" },
@@ -73,12 +73,12 @@ const rajahmundry: CityContent = {
       heading: "What a website costs in Rajahmundry",
       paragraphs: [
         "You will hear a wide range of quotes in Rajahmundry, from about ₹3,000 for a basic template to ₹50,000 or more from Hyderabad or Vijayawada agencies. Cheaper options often lack search setup and keep the domain in the developer's name. Expensive ones may include good design but also the cost of offices and sales teams.",
-        "We keep every figure public on our <a href=\"/pricing/\">pricing page</a>. ₹10,000 buys a proper static site for a Tilak Road clinic or an Innespeta shop, finished in a week or two. Plan for at least ₹20,000 and three to five weeks if you want 700+ pages mapped to what Godavari customers type into Google. Selling online begins at ₹50,000; bespoke web software such as a nursery order system begins at ₹60,000; WhatsApp and AI workflows begin at ₹40,000; and ongoing SEO is from ₹10,000 per month.",
+        "We keep every figure public on our <a href=\"/pricing/\">pricing page</a>. ₹10,000 buys a proper static site for a Tilak Road clinic or an Innespeta shop, finished in a week or two. Plan for at least ₹20,000 and three to five weeks if you want 299+ pages mapped to what Godavari customers type into Google. Selling online begins at ₹50,000; bespoke web software such as a nursery order system begins at ₹60,000; WhatsApp and AI workflows begin at ₹40,000; and ongoing SEO is from ₹10,000 per month.",
         "The final amount depends on scope. A single clinic needs less than a nursery listing four hundred plant varieties with sizes and prices. We send an itemised quote within about two working days, and nothing is billed until you approve it in writing.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, enquiry form, map and basic SEO. For shops, clinics, tutors and consultants.",
-        "<strong>From ₹20,000:</strong> 700+ pages with separate service or product pages. For hospitals, colleges and service firms.",
+        "<strong>From ₹20,000:</strong> 299+ pages with separate service or product pages. For hospitals, colleges and service firms.",
         "<strong>From ₹50,000:</strong> online store with cart, UPI and card payments. For nurseries, sarees, jewellery and food brands.",
         "<strong>From ₹60,000:</strong> custom systems with logins and dashboards. For distributors, contractors and institutions.",
       ],
@@ -223,7 +223,7 @@ const rajahmundry: CityContent = {
     {
       question: "Rajahmundry lo oka business website ki entha avutundi?",
       answer:
-        "Maa team tho oka chinna business website ₹10,000 nundi start avutundi. 700+ pages unna SEO website ki ₹20,000 nundi, online store ki ₹50,000 nundi avutundi. Mee pages, features, content batti final amount maarutundi. Pani start cheyyadaniki mundhe anni vivaralatho quote raasi pampistamu, meeru okay annake payment adugutamu.",
+        "Maa team tho oka chinna business website ₹10,000 nundi start avutundi. 299+ pages unna SEO website ki ₹20,000 nundi, online store ki ₹50,000 nundi avutundi. Mee pages, features, content batti final amount maarutundi. Pani start cheyyadaniki mundhe anni vivaralatho quote raasi pampistamu, meeru okay annake payment adugutamu.",
     },
     {
       question: "Do you have an office in Rajahmundry?",

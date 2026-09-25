@@ -34,7 +34,7 @@ const sagar: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi-first content", "Coaching and hostel pages", "Mill and trader catalogues", "WhatsApp enquiry handling"],
   },
   quickAnswer:
-    "In Sagar, a simple business website with us costs from ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote three-engineer team with no Sagar office, and maintenance is free for five months after launch.",
+    "In Sagar, a simple business website with us costs from ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote three-engineer team with no Sagar office, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Location", value: "About 182 km north-east of Bhopal on a spur of the Vindhya range, with NH 44 passing through" },
     { label: "University", value: "Dr. Harisingh Gour University, founded in 1946 and one of the oldest in Madhya Pradesh, now a central university" },
@@ -72,12 +72,12 @@ const sagar: CityContent = {
       heading: "Website costs in Sagar, with nothing hidden",
       paragraphs: [
         "Sagar owners are usually quoted either a very low price by a local designer or a large one by an agency in Bhopal or Jabalpur. The cheap option often leaves the domain in the designer's account and skips search setup entirely. The expensive option may be well made but includes costs a small business does not need.",
-        "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages, with mobile layout, enquiry form, map and basic search setup, starts at ₹10,000 and takes one to two weeks. A 700+ page site built around what people in Sagar actually search for starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, automation at ₹40,000 and monthly SEO at ₹10,000.",
+        "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages, with mobile layout, enquiry form, map and basic search setup, starts at ₹10,000 and takes one to two weeks. A 299+ page site built around what people in Sagar actually search for starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, automation at ₹40,000 and monthly SEO at ₹10,000.",
         "The final price depends on scope. A single-doctor clinic is quick to build. A coaching institute with ten courses, faculty profiles, batch schedules and hostel pages needs more time. After a short conversation we send an itemised quote, usually within two working days, and start only after your written approval.",
       ],
       list: [
         "<strong>₹10,000 onward:</strong> a compact site for a shop, clinic, tutor or small firm, with map and WhatsApp.",
-        "<strong>₹20,000 onward:</strong> 700+ pages covering each course, service, product or area you serve.",
+        "<strong>₹20,000 onward:</strong> 299+ pages covering each course, service, product or area you serve.",
         "<strong>₹50,000 onward:</strong> an online store with UPI, cards, shipping rules and order alerts.",
         "<strong>₹60,000 onward:</strong> custom portals, registers and dashboards for mills, institutes and traders.",
       ],
@@ -210,12 +210,12 @@ const sagar: CityContent = {
     {
       question: "How much does a website cost in Sagar?",
       answer:
-        "With us, a static site starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. When comparing quotes, check whose name the domain is registered in, whether basic SEO is included and what support comes after launch.",
+        "With us, a static site starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. When comparing quotes, check whose name the domain is registered in, whether basic SEO is included and what support comes after launch.",
     },
     {
       question: "Sagar me website banwane me kitna paisa lagega?",
       answer:
-        "Humari simple website ₹10,000 se shuru hoti hai, 700+ page wali SEO website ₹20,000 se aur online store ₹50,000 se. Pehle aapko har kaam ka alag-alag likhit quote milega. Aapki manzoori ke baad hi kaam shuru hota hai, aur domain aur hosting dono aapke naam par hote hain.",
+        "Humari simple website ₹10,000 se shuru hoti hai, 299+ page wali SEO website ₹20,000 se aur online store ₹50,000 se. Pehle aapko har kaam ka alag-alag likhit quote milega. Aapki manzoori ke baad hi kaam shuru hota hai, aur domain aur hosting dono aapke naam par hote hain.",
     },
     {
       question: "Do you have an office in Sagar?",
@@ -250,7 +250,7 @@ const sagar: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Waiting for photos and text is the most common cause of delay, so we provide a checklist and draft content.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. Waiting for photos and text is the most common cause of delay, so we provide a checklist and draft content.",
     },
     {
       question: "What does WhatsApp automation do for a small business?",

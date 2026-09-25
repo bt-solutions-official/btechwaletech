@@ -39,7 +39,7 @@ const parlakhemundi: CityContent = {
     pills: ["Websites ₹10,000 onwards", "Android & iOS apps ₹40,000 onwards", "Odia, Telugu & English pages", "Mill and dispatch software", "Every account in your name"],
   },
   quickAnswer:
-    "Parlakhemundi businesses can get a website from us starting at ₹10,000, normally ready in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; 700+ page SEO sites start at ₹20,000 and online stores at ₹50,000. We work remotely without a local office, and you own the domain, code and store accounts.",
+    "Parlakhemundi businesses can get a website from us starting at ₹10,000, normally ready in one to two weeks. Android and iOS apps start at ₹40,000, as does AI or WhatsApp automation; 299+ page SEO sites start at ₹20,000 and online stores at ₹50,000. We work remotely without a local office, and you own the domain, code and store accounts.",
   snapshot: [
     { label: "Location", value: "Headquarters of Gajapati district in southern Odisha, beside the Mahendratanaya river and close to the Andhra Pradesh border" },
     { label: "Population", value: "About 49,000 at the 2011 census; the district had roughly 8.15 lakh people" },
@@ -226,7 +226,7 @@ const parlakhemundi: CityContent = {
     {
       question: "How much does a website cost in Parlakhemundi?",
       answer:
-        "Our static websites of up to 100 pages start at ₹10,000, and SEO websites of 700+ pages start at ₹20,000. An online store begins at ₹50,000 and custom software at ₹60,000. Extra languages, booking or payment features change the estimate, and each item appears separately in writing before any billing.",
+        "Our static websites of up to 100 pages start at ₹10,000, and SEO websites of 299+ pages start at ₹20,000. An online store begins at ₹50,000 and custom software at ₹60,000. Extra languages, booking or payment features change the estimate, and each item appears separately in writing before any billing.",
     },
     {
       question: "How soon can my Parlakhemundi website go live?",

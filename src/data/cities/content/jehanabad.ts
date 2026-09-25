@@ -35,7 +35,7 @@ const jehanabad: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi and Magahi-friendly text", "Sattu and besan stores", "Clinic and school sites", "WhatsApp enquiry flows"],
   },
   quickAnswer:
-    "A basic website for a Jehanabad business starts at ₹10,000 with us and is live in one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We work remotely without a Jehanabad office, and the first five months of maintenance are free.",
+    "A basic website for a Jehanabad business starts at ₹10,000 with us and is live in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We work remotely without a Jehanabad office, and the first five months of maintenance are free.",
   snapshot: [
     { label: "District role", value: "Headquarters of Jehanabad district in Magadh division, formed on 1 August 1986 from the former Gaya sub-division" },
     { label: "Location", value: "On the Patna–Gaya rail line and highway, near the confluence of the Dardha and Jamuna rivers, between Patna and Gaya" },
@@ -73,7 +73,7 @@ const jehanabad: CityContent = {
       heading: "What a website costs in Jehanabad: our starting prices",
       paragraphs: [
         "The first question most owners ask is the price, and it deserves a straight answer. Our starting prices are published on the <a href=\"/pricing/\">pricing page</a>, so you can see the minimum for each kind of work before you call us.",
-        "A static website with up to 100 pages, a mobile layout, an enquiry form, map, Hindi or English content and basic search setup starts at ₹10,000 and takes one to two weeks. A 700+ page site, where each product, service, course or area gets its own page planned around what people search, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
+        "A static website with up to 100 pages, a mobile layout, an enquiry form, map, Hindi or English content and basic search setup starts at ₹10,000 and takes one to two weeks. A 299+ page site, where each product, service, course or area gets its own page planned around what people search, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, AI and WhatsApp automation at ₹40,000, custom software at ₹60,000 and monthly SEO at ₹10,000.",
         "What you finally pay depends on the job. A pharmacy needs a few pages; a school with admissions, fees, transport and notices needs more; a sattu brand selling across India needs a store with payments and shipping. We send an itemised quote in about two working days and charge nothing until you approve it in writing.",
       ],
       list: [
@@ -210,12 +210,12 @@ const jehanabad: CityContent = {
     {
       question: "How much does a website cost in Jehanabad?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. When you compare other Jehanabad offers, ask whose name the domain is in, whether search setup is included and what support you get after launch.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. When you compare other Jehanabad offers, ask whose name the domain is in, whether search setup is included and what support you get after launch.",
     },
     {
       question: "Jehanabad me website banwane ka kharcha kitna aata hai?",
       answer:
-        "Humari simple website ₹10,000 se shuru hoti hai aur ek-do hafte me taiyaar ho jaati hai. 700+ page wali SEO website ₹20,000 se aur online store ₹50,000 se shuru hota hai. Kaam shuru hone se pehle likhit me poora hisaab bhejte hain, aur aapki manzoori ke bina ek rupaya bhi nahi lete.",
+        "Humari simple website ₹10,000 se shuru hoti hai aur ek-do hafte me taiyaar ho jaati hai. 299+ page wali SEO website ₹20,000 se aur online store ₹50,000 se shuru hota hai. Kaam shuru hone se pehle likhit me poora hisaab bhejte hain, aur aapki manzoori ke bina ek rupaya bhi nahi lete.",
     },
     {
       question: "Is your office in Jehanabad or Patna?",

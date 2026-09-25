@@ -38,7 +38,7 @@ const shujalpur: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first local SEO", "Mandi and dealer software", "Code and domain in your name"],
   },
   quickAnswer:
-    "Shujalpur businesses can get a website from ₹10,000, usually live within one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely without a Shujalpur office, and every account stays in your name.",
+    "Shujalpur businesses can get a website from ₹10,000, usually live within one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely without a Shujalpur office, and every account stays in your name.",
   snapshot: [
     { label: "District", value: "Shajapur district in the Malwa region of Madhya Pradesh" },
     { label: "Rail", value: "Shujalpur station (SJP) on the Ujjain–Bhopal section, Ratlam division of Western Railway" },
@@ -217,7 +217,7 @@ const shujalpur: CityContent = {
     {
       question: "What does a website cost in Shujalpur?",
       answer:
-        "With us, a static website of up to 100 pages starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. All of these are starting prices. The final amount depends on pages, Hindi content, products and integrations, and you see every line before approving.",
+        "With us, a static website of up to 100 pages starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. All of these are starting prices. The final amount depends on pages, Hindi content, products and integrations, and you see every line before approving.",
     },
     {
       question: "Do you build Android and iOS apps for Shujalpur businesses?",
@@ -227,7 +227,7 @@ const shujalpur: CityContent = {
     {
       question: "How long will my Shujalpur website take?",
       answer:
-        "A shop, clinic or institute site is normally live one to two weeks after we get your text and photographs. SEO sites of 700+ pages take three to five weeks, online stores four to eight weeks and custom software six to twelve. The biggest cause of delay is waiting for content, so sending it early helps most.",
+        "A shop, clinic or institute site is normally live one to two weeks after we get your text and photographs. SEO sites of 299+ pages take three to five weeks, online stores four to eight weeks and custom software six to twelve. The biggest cause of delay is waiting for content, so sending it early helps most.",
     },
     {
       question: "Which is the best website development team in Shujalpur?",

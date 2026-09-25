@@ -35,7 +35,7 @@ const pilibhit: CityContent = {
     pills: ["Sites from ₹10,000", "Bansuri stores with UPI", "Hindi and Punjabi pages", "Safari and homestay bookings", "Mandi and mill catalogues"],
   },
   quickAnswer:
-    "A business website in Pilibhit starts at ₹10,000 with us and is usually live in one to two weeks. A 700+ page SEO site starts at ₹20,000, an online store for flutes or produce at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote three-person team with no Pilibhit office, and maintenance is free for five months.",
+    "A business website in Pilibhit starts at ₹10,000 with us and is usually live in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store for flutes or produce at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote three-person team with no Pilibhit office, and maintenance is free for five months.",
   snapshot: [
     { label: "District role", value: "Headquarters of Pilibhit district in Bareilly division, on the Nepal border in the Terai belt" },
     { label: "Signature craft", value: "Bamboo bansuri making, Pilibhit's ODOP product, with a GI tag granted in March 2024" },
@@ -73,12 +73,12 @@ const pilibhit: CityContent = {
       heading: "What a website costs in Pilibhit, and what the price should include",
       paragraphs: [
         "Quotes around Pilibhit swing widely. Someone may offer a one-page site for a couple of thousand rupees, while an agency from a bigger city might ask several times our starting price. The cheap version often has no search setup, sits on the developer's hosting and vanishes when he changes his number. The expensive one may be fine technically but carries rent and sales commissions you end up paying for.",
-        "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. An SEO website of 700+ pages, built around the phrases people search, starts at ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts from ₹40,000, an online store from ₹50,000 and a custom web app from ₹60,000. Monthly SEO starts at ₹10,000 a month.",
+        "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. An SEO website of 299+ pages, built around the phrases people search, starts at ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts from ₹40,000, an online store from ₹50,000 and a custom web app from ₹60,000. Monthly SEO starts at ₹10,000 a month.",
         "Every figure is a floor, not a fixed number. Your quote grows with page count, product listings, languages and integrations, and shrinks when you already have good photos and text. We list each item separately so you can drop what you do not need.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> shop, clinic, school or workshop site with enquiry form, map and basic SEO.",
-        "<strong>From ₹20,000:</strong> 700+ page site with separate pages for each product, service or nearby town.",
+        "<strong>From ₹20,000:</strong> 299+ page site with separate pages for each product, service or nearby town.",
         "<strong>From ₹50,000:</strong> online store for flutes, rice, jaggery or handicrafts with UPI and card checkout.",
         "<strong>From ₹60,000:</strong> custom system for mills, transporters, dealers or institutions.",
       ],
@@ -209,12 +209,12 @@ const pilibhit: CityContent = {
     {
       question: "How much does a website cost in Pilibhit?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO website from ₹20,000, an online store from ₹50,000 and a custom web app from ₹60,000. These are starting prices; your written quote depends on pages, features and content, and nothing is billed until you approve it.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO website from ₹20,000, an online store from ₹50,000 and a custom web app from ₹60,000. These are starting prices; your written quote depends on pages, features and content, and nothing is billed until you approve it.",
     },
     {
       question: "Pilibhit me website banwane ka kharcha kitna hai?",
       answer:
-        "Humare yahan simple website ₹10,000 se shuru hoti hai, 700+ page wali SEO website ₹20,000 se, aur online store ₹50,000 se. Asli kharcha pages, features aur content par nirbhar karta hai. Kaam shuru karne se pehle likhit itemised quote milta hai, aur aapki manzoori ke bina koi bill nahi banta.",
+        "Humare yahan simple website ₹10,000 se shuru hoti hai, 299+ page wali SEO website ₹20,000 se, aur online store ₹50,000 se. Asli kharcha pages, features aur content par nirbhar karta hai. Kaam shuru karne se pehle likhit itemised quote milta hai, aur aapki manzoori ke bina koi bill nahi banta.",
     },
     {
       question: "Do you have an office in Pilibhit?",
@@ -244,7 +244,7 @@ const pilibhit: CityContent = {
     {
       question: "How long will my website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks, and a custom app six to twelve weeks. Delays usually come from waiting for photos and text, so we prepare draft content to keep things moving.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks, and a custom app six to twelve weeks. Delays usually come from waiting for photos and text, so we prepare draft content to keep things moving.",
     },
     {
       question: "What can WhatsApp automation do for a Pilibhit business?",

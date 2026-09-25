@@ -39,7 +39,7 @@ const anjangaon: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Marathi-first local SEO", "Banana and pimpli trade tools", "Domain and code in your name"],
   },
   quickAnswer:
-    "For Anjangaon Surji businesses, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no local office, and you own every account.",
+    "For Anjangaon Surji businesses, our websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no local office, and you own every account.",
   snapshot: [
     { label: "Location", value: "Taluka town in Amravati district, western Vidarbha, split by the Shahanur river into Anjangaon and Surji" },
     { label: "Known as", value: "Banana hub of Vidarbha, supplying bananas across north India and Nepal" },
@@ -220,7 +220,7 @@ const anjangaon: CityContent = {
     {
       question: "What is the website cost in Anjangaon?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, Marathi content, products and integrations, and it arrives itemised in writing before anything is charged.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your quote depends on pages, Marathi content, products and integrations, and it arrives itemised in writing before anything is charged.",
     },
     {
       question: "Do you build Android and iOS apps for Anjangaon businesses?",
@@ -230,7 +230,7 @@ const anjangaon: CityContent = {
     {
       question: "How long does it take to make a website for an Anjangaon shop?",
       answer:
-        "A simple static site is usually live within one to two weeks after we receive your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content in the first few days.",
+        "A simple static site is usually live within one to two weeks after we receive your photos and details. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content in the first few days.",
     },
     {
       question: "Which is the best website development team in Anjangaon?",
@@ -260,7 +260,7 @@ const anjangaon: CityContent = {
     {
       question: "Anjangaon Surji me website banwane ka kitna kharcha hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur lagbhag ek-do hafte mein taiyar ho jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapke pages aur features ke hisaab se poora quote likhit mein bheja jaata hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur lagbhag ek-do hafte mein taiyar ho jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Aapke pages aur features ke hisaab se poora quote likhit mein bheja jaata hai.",
     },
     {
       question: "You have no office in Anjangaon. Is it safe to work remotely with you?",

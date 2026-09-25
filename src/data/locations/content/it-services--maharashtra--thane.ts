@@ -154,7 +154,7 @@ const content: CityContent = {
       paragraphs: [
         "SEO for a Thane business means appearing when people search for a service in their part of the city, and increasingly being named in AI answers from Google, ChatGPT or Perplexity. Thane searches are local and specific, such as a service in Thane West, near Majiwada or on Ghodbunder Road, and customers compare Thane providers against Mumbai and Navi Mumbai ones.",
         "We plan pages around what you actually offer and where you actually serve: one clear page per service, locality pages only where you genuinely work, structured data, fast loading and internal links. Content answers real questions directly, which is also what AI systems quote. We guide you on Google Business Profile, reviews and consistent contact details across listings. Detail is on our <a href='/services/seo-services/'>SEO services</a> page.",
-        "We never guarantee rankings. Monthly SEO starts at ₹10,000, and a 700+ page SEO website starts at ₹20,000. Progress is reported from Search Console so you can see impressions, clicks and queries for yourself.",
+        "We never guarantee rankings. Monthly SEO starts at ₹10,000, and a 299+ page SEO website starts at ₹20,000. Progress is reported from Search Console so you can see impressions, clicks and queries for yourself.",
       ],
     },
     {
@@ -188,7 +188,7 @@ const content: CityContent = {
       heading: "How much does a software development team in Thane charge?",
       paragraphs: [
         "A software development team in Thane usually charges by scope, and with BtechWaleTech custom software and web applications start at ₹60,000. A focused tool with one or two user roles sits near that starting point, while CRMs with multiple branches, WhatsApp integration, AI features and detailed reporting cost more.",
-        "Our other starting prices are published: static websites of up to 100 pages from ₹10,000, 700+ page SEO websites from ₹20,000, online stores from ₹50,000, AI automation and Android and iOS apps from ₹40,000 each, monthly SEO from ₹10,000 and maintenance from ₹8,000 a month after the free five months. The complete table is on the <a href='/pricing/'>pricing page</a>.",
+        "Our other starting prices are published: static websites of up to 100 pages from ₹10,000, 299+ page SEO websites from ₹20,000, online stores from ₹50,000, AI automation and Android and iOS apps from ₹40,000 each, monthly SEO from ₹10,000 and maintenance from ₹8,000 a month after the free five months. The complete table is on the <a href='/pricing/'>pricing page</a>.",
         "When comparing quotes from Thane or Mumbai vendors, compare scope rather than totals. Check whether hosting, deployment, source code handover and post-launch fixes are included, and whether the price covers design, testing and training. A low quote that excludes those often ends up costing more.",
       ],
     },
@@ -205,7 +205,7 @@ const content: CityContent = {
       id: "timeline-support-thane",
       heading: "Project timelines, handover and IT support for Thane clients",
       paragraphs: [
-        "Typical timelines for Thane projects are one to two weeks for a website, three to five weeks for a 700+ page SEO website, two to four weeks for AI automation, four to eight weeks for a store and six to twelve weeks for custom software. The main variable is how quickly content, sample data and feedback arrive from your side.",
+        "Typical timelines for Thane projects are one to two weeks for a website, three to five weeks for a 299+ page SEO website, two to four weeks for AI automation, four to eight weeks for a store and six to twelve weeks for custom software. The main variable is how quickly content, sample data and feedback arrive from your side.",
         "You see working software early, and every change request is tracked in a shared list. At launch you receive the source code, admin credentials, documentation and a recorded training session in English, Hindi or Marathi. Five months of maintenance follow at no charge, covering bug fixes, small changes, backups, security updates and uptime checks.",
         "After that you can move to a monthly plan from ₹8,000 or contact us when needed. To see how the services connect, visit our <a href='/services/'>services overview</a>, or browse other cities on the <a href='/it-services/maharashtra/'>Maharashtra IT services hub</a>, including our page for <a href='/it-services/maharashtra/nashik/'>Nashik</a>.",
       ],

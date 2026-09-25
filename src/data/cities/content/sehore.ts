@@ -39,7 +39,7 @@ const sehore: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi local SEO", "Mandi trader software", "WhatsApp automation"],
   },
   quickAnswer:
-    "In Sehore, a static website starts at ₹10,000 and takes one to two weeks, a 700+ page SEO site starts at ₹20,000, Android and iOS apps start at ₹40,000, AI or WhatsApp automation at ₹40,000, ecommerce at ₹50,000 and custom software at ₹60,000. We are a remote team of three engineers with no Sehore office.",
+    "In Sehore, a static website starts at ₹10,000 and takes one to two weeks, a 299+ page SEO site starts at ₹20,000, Android and iOS apps start at ₹40,000, AI or WhatsApp automation at ₹40,000, ecommerce at ₹50,000 and custom software at ₹60,000. We are a remote team of three engineers with no Sehore office.",
   snapshot: [
     { label: "Location", value: "District headquarters about 37 km west of Bhopal on the Bhopal–Indore road, at the edge of the Malwa plateau" },
     { label: "Farm economy", value: "Wheat, including the prized Sharbati variety, plus soybean and gram traded through the Krishi Upaj Mandi" },
@@ -77,7 +77,7 @@ const sehore: CityContent = {
       heading: "Website cost in Sehore: starting prices and what changes the quote",
       paragraphs: [
         "The first question in almost every call is price, so we answer it before the call. Our <a href=\"/pricing/\">pricing page</a> lists every starting figure, and after we understand your business we send a quote that shows each page, language and feature on its own line.",
-        "A static website of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks. It covers a mobile-friendly design, call and WhatsApp buttons, a Google map, an enquiry form and basic search setup, in Hindi, English or both. A search-planned site of 700+ pages, useful when you want enquiries from Ashta, Ichhawar, Budhni and Bhopal as well as Sehore town, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000.",
+        "A static website of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks. It covers a mobile-friendly design, call and WhatsApp buttons, a Google map, an enquiry form and basic search setup, in Hindi, English or both. A search-planned site of 299+ pages, useful when you want enquiries from Ashta, Ichhawar, Budhni and Bhopal as well as Sehore town, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000.",
         "Scope sets the rest. A tuition centre may need ten pages. A Sharbati atta brand needs product pages, packing sizes and a store. A lodge near Kubereshwar Dham needs a room calendar. Local quotes in Sehore and Bhopal vary widely, so when you compare, check who owns the domain, whether content writing is included, what happens after launch and whether the price covers Hindi pages. We start work only after you approve our written quote.",
       ],
       list: [
@@ -227,7 +227,7 @@ const sehore: CityContent = {
     {
       question: "How much does a website cost in Sehore?",
       answer:
-        "A static website of up to 100 pages starts at ₹10,000, a 700+ page SEO website at ₹20,000, an Android and iOS app at ₹40,000, AI or WhatsApp automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Your quote depends on pages, languages and features, and nothing is billed before you approve it in writing.",
+        "A static website of up to 100 pages starts at ₹10,000, a 299+ page SEO website at ₹20,000, an Android and iOS app at ₹40,000, AI or WhatsApp automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Your quote depends on pages, languages and features, and nothing is billed before you approve it in writing.",
     },
     {
       question: "Sehore me website ya app banwane ka kharcha kitna hai?",
@@ -252,7 +252,7 @@ const sehore: CityContent = {
     {
       question: "How long does it take to build a website in Sehore?",
       answer:
-        "A static website usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Apps depend on features. Most delays come from waiting for photographs and text, so we send a content checklist on the first day.",
+        "A static website usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Apps depend on features. Most delays come from waiting for photographs and text, so we send a content checklist on the first day.",
     },
     {
       question: "Can you get my Sehore business on Google Maps?",

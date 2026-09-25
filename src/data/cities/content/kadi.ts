@@ -39,7 +39,7 @@ const kadi: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Gujarati local SEO", "Ginning and oil mill software", "Every account in your name"],
   },
   quickAnswer:
-    "In Kadi, our business websites start at ₹10,000 and are usually ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO website at ₹20,000, an ecommerce store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Kadi office, and you own everything we build.",
+    "In Kadi, our business websites start at ₹10,000 and are usually ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO website at ₹20,000, an ecommerce store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Kadi office, and you own everything we build.",
   snapshot: [
     { label: "Location", value: "Town and taluk headquarters in Mehsana district, north Gujarat, PIN 382715" },
     { label: "Population", value: "About 81,000 in the town at the 2011 census, with some 120 villages in the taluk" },
@@ -158,7 +158,7 @@ const kadi: CityContent = {
       id: "website-cost-kadi",
       heading: "Website cost in Kadi: starting prices and a checklist for comparing quotes",
       paragraphs: [
-        "Our starting prices apply in Kadi as everywhere: a static website of up to 100 pages from ₹10,000, delivered in one to two weeks; a 700+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000; an online store from ₹50,000; and custom software from ₹60,000.",
+        "Our starting prices apply in Kadi as everywhere: a static website of up to 100 pages from ₹10,000, delivered in one to two weeks; a 299+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000; an online store from ₹50,000; and custom software from ₹60,000.",
         "Several things raise the final amount: Gujarati and English versions, large product catalogues, dealer logins, payment and courier integration, and connections to Tally. Content matters too. If you send text and photographs, the price stays near the starting figure; if we write and arrange everything, it appears as a separate line.",
         "Local quotes vary widely. When comparing, ask whose name the domain and hosting will be in, whether mobile testing and basic SEO are included, how many rounds of changes you get and who handles problems after launch. Our <a href=\"/pricing/\">pricing page</a> lists the starting points, and your written quote reaches you in about two working days.",
       ],
@@ -219,7 +219,7 @@ const kadi: CityContent = {
     {
       question: "What is the website cost in Kadi?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices, and the final amount depends on pages, Gujarati content, products and integrations. You get an itemised written quote before anything is billed.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices, and the final amount depends on pages, Gujarati content, products and integrations. You get an itemised written quote before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Kadi businesses?",
@@ -229,7 +229,7 @@ const kadi: CityContent = {
     {
       question: "How long does it take to build a website for a Kadi firm?",
       answer:
-        "A static website usually goes live one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Ready content is the biggest factor in speed.",
+        "A static website usually goes live one to two weeks after we receive your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Ready content is the biggest factor in speed.",
     },
     {
       question: "Who is the best website development team in Kadi?",
@@ -254,7 +254,7 @@ const kadi: CityContent = {
     {
       question: "Kadi ma website banavvano kharcho ketlo thay?",
       answer:
-        "Amari static website ₹10,000 thi sharu thay chhe ane ek-be athvadiya ma taiyar thai jay chhe. 700+ page SEO website ₹20,000 thi, Android ane iOS app ₹40,000 thi ane online store ₹50,000 thi sharu thay chhe. Final quote tamara pages ane features pramane lekhit ma aapishu.",
+        "Amari static website ₹10,000 thi sharu thay chhe ane ek-be athvadiya ma taiyar thai jay chhe. 299+ page SEO website ₹20,000 thi, Android ane iOS app ₹40,000 thi ane online store ₹50,000 thi sharu thay chhe. Final quote tamara pages ane features pramane lekhit ma aapishu.",
     },
     {
       question: "You have no office in Kadi. Is remote work safe?",

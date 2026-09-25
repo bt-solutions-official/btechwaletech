@@ -39,7 +39,7 @@ const sirsi: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Kannada and English SEO", "Areca and spice trade tools", "Accounts in your name"],
   },
   quickAnswer:
-    "Websites for Sirsi businesses start at ₹10,000 with us and typically launch in one to two weeks. Android and iOS apps and AI automation begin at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Sirsi office, and all accounts belong to you.",
+    "Websites for Sirsi businesses start at ₹10,000 with us and typically launch in one to two weeks. Android and iOS apps and AI automation begin at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Sirsi office, and all accounts belong to you.",
   snapshot: [
     { label: "Location", value: "Taluk and subdivision headquarters in Uttara Kannada, about 611 m up in the central Western Ghats" },
     { label: "Civic history", value: "City Municipal Council dating from 1866, with 31 wards" },
@@ -165,7 +165,7 @@ const sirsi: CityContent = {
       ],
       list: [
         "Static website up to 100 pages: from ₹10,000, one to two weeks",
-        "SEO website with 700+ pages: from ₹20,000, three to five weeks",
+        "SEO website with 299+ pages: from ₹20,000, three to five weeks",
         "Android and iOS app: from ₹40,000",
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Online store: from ₹50,000, four to eight weeks",
@@ -219,7 +219,7 @@ const sirsi: CityContent = {
     {
       question: "What is the website cost in Sirsi?",
       answer:
-        "Pricing starts at ₹10,000 for a static site, ₹20,000 for a 700+ page SEO site, ₹50,000 for an online store and ₹60,000 for custom software. Those are floors, not package prices. Kannada content, product count and integrations shape the final figure, and you approve an itemised written quote before any billing.",
+        "Pricing starts at ₹10,000 for a static site, ₹20,000 for a 299+ page SEO site, ₹50,000 for an online store and ₹60,000 for custom software. Those are floors, not package prices. Kannada content, product count and integrations shape the final figure, and you approve an itemised written quote before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Sirsi businesses?",
@@ -229,7 +229,7 @@ const sirsi: CityContent = {
     {
       question: "How fast can a Sirsi business get a website?",
       answer:
-        "Once we have your text and photos, a static site is usually live within one to two weeks. Allow three to five weeks for a 700+ page SEO site, four to eight for a store and six to twelve for custom software. Monsoon power cuts on your side rarely matter; late content does.",
+        "Once we have your text and photos, a static site is usually live within one to two weeks. Allow three to five weeks for a 299+ page SEO site, four to eight for a store and six to twelve for custom software. Monsoon power cuts on your side rarely matter; late content does.",
     },
     {
       question: "Who is the best website development team in Sirsi?",
@@ -254,7 +254,7 @@ const sirsi: CityContent = {
     {
       question: "Sirsiyalli website maadisalu eshtu kharchu aagutte?",
       answer:
-        "Nammalli saral website ₹10,000 inda shuru aagutte, ondu-eradu vaaradalli siddha aagutte. 700+ page SEO website ₹20,000 inda, Android mattu iOS app ₹40,000 inda, online store ₹50,000 inda shuru. Nimma pages mattu features nodi barahavaagi quote kodutteve; neevu oppida nantarave billing.",
+        "Nammalli saral website ₹10,000 inda shuru aagutte, ondu-eradu vaaradalli siddha aagutte. 299+ page SEO website ₹20,000 inda, Android mattu iOS app ₹40,000 inda, online store ₹50,000 inda shuru. Nimma pages mattu features nodi barahavaagi quote kodutteve; neevu oppida nantarave billing.",
     },
     {
       question: "You have no office in Sirsi. How is remote work safe for me?",

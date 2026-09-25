@@ -35,7 +35,7 @@ const ranaghat: CityContent = {
     pills: ["Sites from ₹10,000", "Bengali and English pages", "Saree stores with UPI", "Flower trade catalogues", "WhatsApp replies in Bangla"],
   },
   quickAnswer:
-    "A website for a Ranaghat business starts at ₹10,000 with us and takes one to two weeks. A 700+ page SEO website starts at ₹20,000, a handloom or retail store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote team with no Ranaghat office, and maintenance is free for five months after launch.",
+    "A website for a Ranaghat business starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, a handloom or retail store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote team with no Ranaghat office, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Location", value: "Nadia district on the Churni river, about 74 km north of Kolkata and 26 km south of Krishnanagar" },
     { label: "Population", value: "About 75,000 in the city and over 2.3 lakh in the urban agglomeration (2011 census)" },
@@ -73,12 +73,12 @@ const ranaghat: CityContent = {
       heading: "What websites cost in Ranaghat, item by item",
       paragraphs: [
         "Ranaghat owners are usually offered either a very cheap site by a local operator, often a template with the domain in his account, or a much larger quote by a Kolkata agency. The cheap site often has no Bengali content or search setup. The expensive one may include features that a saree shop or a clinic will never use.",
-        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks, including mobile layout, Bengali and English text, map, WhatsApp button and basic search setup. A 700+ page SEO site built around real Nadia searches starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, AI and WhatsApp automation at ₹40,000, and monthly SEO at ₹10,000.",
+        "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks, including mobile layout, Bengali and English text, map, WhatsApp button and basic search setup. A 299+ page SEO site built around real Nadia searches starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom web applications at ₹60,000, AI and WhatsApp automation at ₹40,000, and monthly SEO at ₹10,000.",
         "The final figure depends on what you need. A single-doctor chamber is a small job. A weaving unit with two hundred sarees, colour variants, blouse piece details and courier rules is a larger one. We talk first, then send an itemised quote, and nothing is charged before your written approval.",
       ],
       list: [
         "<strong>Starts at ₹10,000:</strong> a Bengali-first site for a shop, chamber, tutor or small office.",
-        "<strong>Starts at ₹20,000:</strong> 700+ pages covering every product, subject, service or nearby town.",
+        "<strong>Starts at ₹20,000:</strong> 299+ pages covering every product, subject, service or nearby town.",
         "<strong>Starts at ₹50,000:</strong> a saree or retail store with UPI, cards and courier rules.",
         "<strong>Starts at ₹60,000:</strong> custom registers and dashboards for weaving units and wholesalers.",
       ],
@@ -209,7 +209,7 @@ const ranaghat: CityContent = {
     {
       question: "How much does a website cost in Ranaghat?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. You get an itemised written quote first. When comparing offers, ask whose name the domain is in and whether Bengali content is included.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom web applications at ₹60,000. You get an itemised written quote first. When comparing offers, ask whose name the domain is in and whether Bengali content is included.",
     },
     {
       question: "Ranaghat e website banate koto khoroch hobe?",
@@ -244,7 +244,7 @@ const ranaghat: CityContent = {
     {
       question: "How long will my website take?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. If you want it live before Durga Puja or the wedding season, start about two months ahead.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. If you want it live before Durga Puja or the wedding season, start about two months ahead.",
     },
     {
       question: "What does WhatsApp automation do for a small business?",

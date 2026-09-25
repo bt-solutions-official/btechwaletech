@@ -35,7 +35,7 @@ const rajapalayam: CityContent = {
     pills: ["Sites from ₹10,000", "Tamil and English pages", "B2B and export catalogues", "Mango season pre-orders", "WhatsApp order desks"],
   },
   quickAnswer:
-    "In Rajapalayam, a business website with us starts from ₹10,000 and usually goes live in one to two weeks. A 700+ page SEO site starts at ₹20,000, WhatsApp or AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team with no Rajapalayam office, and five months of maintenance are free.",
+    "In Rajapalayam, a business website with us starts from ₹10,000 and usually goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp or AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team with no Rajapalayam office, and five months of maintenance are free.",
   snapshot: [
     { label: "District", value: "Largest municipality in Virudhunagar district, at the foothills of the Western Ghats" },
     { label: "Textile base", value: "Called the “Cotton City”, with spinning mills since the 1930s and a long-running surgical cotton industry" },
@@ -73,12 +73,12 @@ const rajapalayam: CityContent = {
       heading: "Website cost in Rajapalayam and how to compare quotes",
       paragraphs: [
         "Quotes in Rajapalayam range from very cheap template sites to expensive proposals from Madurai, Coimbatore or Chennai agencies. Low-cost sites usually skip search setup, sit on the developer's hosting and lack product detail. High-cost agencies may do good work but include overheads a regional manufacturer doesn't need to pay for.",
-        "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts from ₹10,000 and usually takes one to two weeks. A 700+ page SEO website starts from ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. Monthly SEO starts at ₹10,000 a month.",
+        "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts from ₹10,000 and usually takes one to two weeks. A 299+ page SEO website starts from ₹20,000 and takes three to five weeks. AI and WhatsApp automation starts from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. Monthly SEO starts at ₹10,000 a month.",
         "These are starting figures, never flat rates. Product counts, languages, certifications, export pages and integrations shape the final quote. We itemise everything so you can compare our offer fairly with others and remove anything you don't need.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> shop, clinic, school or small unit website in Tamil and English with map and enquiry form.",
-        "<strong>From ₹20,000:</strong> 700+ page site with pages per product, specification or market served.",
+        "<strong>From ₹20,000:</strong> 299+ page site with pages per product, specification or market served.",
         "<strong>From ₹50,000:</strong> online store for mangoes, nightwear or home textiles with UPI and cards.",
         "<strong>From ₹60,000:</strong> custom order, production and dispatch systems for mills and garment units.",
       ],
@@ -230,12 +230,12 @@ const rajapalayam: CityContent = {
     {
       question: "How much does a website cost in Rajapalayam?",
       answer:
-        "With us, a static website starts from ₹10,000, a 700+ page SEO site from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices; your written quote depends on pages, features and content, and nothing is billed until you approve it.",
+        "With us, a static website starts from ₹10,000, a 299+ page SEO site from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. These are starting prices; your written quote depends on pages, features and content, and nothing is billed until you approve it.",
     },
     {
       question: "Rajapalayam-la website seyya evvalavu selavagum?",
       answer:
-        "Engaludan oru simple website ₹10,000-il irundhu thodangugiradhu, 700+ page SEO website ₹20,000-il irundhu, online store ₹50,000-il irundhu. Final vilai pages, features matrum content-ai poruthadhu. Velai thodanguvadharku munbu ezhuthu moolam itemised quote kidaikkum; ungal oppudhal illamal endha billum podappadaadhu.",
+        "Engaludan oru simple website ₹10,000-il irundhu thodangugiradhu, 299+ page SEO website ₹20,000-il irundhu, online store ₹50,000-il irundhu. Final vilai pages, features matrum content-ai poruthadhu. Velai thodanguvadharku munbu ezhuthu moolam itemised quote kidaikkum; ungal oppudhal illamal endha billum podappadaadhu.",
     },
     {
       question: "Do you have an office in Rajapalayam?",
@@ -265,7 +265,7 @@ const rajapalayam: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five, an online store four to eight and custom software six to twelve. For B2B catalogues, the main delay is usually gathering product specs and photos, so we send you a simple template to fill.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five, an online store four to eight and custom software six to twelve. For B2B catalogues, the main delay is usually gathering product specs and photos, so we send you a simple template to fill.",
     },
     {
       question: "What can WhatsApp automation do for a textile business?",

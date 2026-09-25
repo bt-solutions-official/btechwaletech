@@ -166,7 +166,7 @@ const content: CityContent = {
       paragraphs: [
         "SEO for a Jalandhar business means being found when buyers or students search for your exact product or service, and being cited correctly when they ask AI assistants for suppliers or consultants. For exporters, the searches come from abroad; for consultants and institutes, they are local and hyper-competitive.",
         "We create focused pages for each product family or service, with specifications, facts and short direct answers near the top, backed by organisation, product and FAQ schema. Local SEO covers Google Business Profile, consistent listings and genuine review collection. We do not use fake reviews or bought links.",
-        "Monthly SEO starts at ₹10,000, and a 700+ page SEO website starts at ₹20,000. We report monthly and never guarantee rankings. For a website-and-marketing view of the city, see our <a href='/jalandhar/'>Jalandhar page</a>; for service detail, see <a href='/services/seo-services/'>SEO services</a>.",
+        "Monthly SEO starts at ₹10,000, and a 299+ page SEO website starts at ₹20,000. We report monthly and never guarantee rankings. For a website-and-marketing view of the city, see our <a href='/jalandhar/'>Jalandhar page</a>; for service detail, see <a href='/services/seo-services/'>SEO services</a>.",
       ],
     },
     {
@@ -182,7 +182,7 @@ const content: CityContent = {
       id: "cost-jalandhar",
       heading: "How much do freelance software developers in Jalandhar charge?",
       paragraphs: [
-        "Starting prices with BtechWaleTech are ₹60,000 for custom software, CRMs and web apps, ₹40,000 for AI or WhatsApp automation, ₹50,000 for an online store, ₹10,000 for a website and ₹20,000 for a 700+ page SEO website. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months.",
+        "Starting prices with BtechWaleTech are ₹60,000 for custom software, CRMs and web apps, ₹40,000 for AI or WhatsApp automation, ₹50,000 for an online store, ₹10,000 for a website and ₹20,000 for a 299+ page SEO website. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months.",
         "Cost rises with the number of modules, user roles and integrations. An enquiry CRM for one branch sits near the starting price, while a multi-branch system with coaching, fees and document storage costs more. The quote is itemised, so you can build in phases.",
         "Clients pay us only in INR by UPI through our QR code or by direct bank transfer to our bank account. Larger projects use milestones paid after you review working software.",
       ],

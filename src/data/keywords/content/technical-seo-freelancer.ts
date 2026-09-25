@@ -302,7 +302,7 @@ const content: FreelanceContent = {
       rows: [
         ["Monthly SEO with technical fixes", `From ${P.seo}`, `From ${P.seoUsd}`, "Ongoing", "Sites that change often or are growing"],
         ["One-off technical audit", "Quoted by site size", "Quoted by site size", "Days to 2 weeks", "Diagnosing a drop or indexing problem"],
-        ["New SEO website, 700+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Replacing a site that cannot be fixed"],
+        ["New SEO website, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Replacing a site that cannot be fixed"],
         ["Rebuild of a JavaScript-heavy app", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Apps whose content crawlers cannot see"],
         ["Maintenance after launch", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Keeping fixes in place after updates"],
       ],

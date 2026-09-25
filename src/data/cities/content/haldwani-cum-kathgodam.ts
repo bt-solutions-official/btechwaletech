@@ -34,7 +34,7 @@ const haldwani: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi and English pages", "Hotel and homestay bookings", "Wholesale price lists", "WhatsApp enquiry replies"],
   },
   quickAnswer:
-    "For a Haldwani or Kathgodam business, a static website with us starts at ₹10,000 and takes one to two weeks. A 700+ page SEO site starts at ₹20,000 and an online store at ₹50,000. We are a remote team of three engineers with no office in Haldwani, and maintenance is free for five months after launch.",
+    "For a Haldwani or Kathgodam business, a static website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000 and an online store at ₹50,000. We are a remote team of three engineers with no office in Haldwani, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "City role", value: "Third most populous city in Uttarakhand and the commercial centre of Nainital district" },
     { label: "Trade position", value: "Wholesale link between the plains and the Kumaon hills for grain, fruit, vegetables and daily goods" },
@@ -72,12 +72,12 @@ const haldwani: CityContent = {
       heading: "Website prices in Haldwani, explained",
       paragraphs: [
         "Prices for a basic website around Haldwani range from a few thousand rupees for a template page to much higher figures from agencies in Dehradun or Delhi. The cheapest options often skip search setup and keep the domain in the developer's name. The more expensive ones may include costs a small business does not need.",
-        "Our full list is on the <a href=\"/pricing/\">pricing page</a>, and every figure is a starting price. A static website with up to 100 pages starts at ₹10,000 and is usually ready within one to two weeks. A 700+ page site designed for search starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom software at ₹60,000, AI and WhatsApp automation at ₹40,000, and monthly SEO at ₹10,000.",
+        "Our full list is on the <a href=\"/pricing/\">pricing page</a>, and every figure is a starting price. A static website with up to 100 pages starts at ₹10,000 and is usually ready within one to two weeks. A 299+ page site designed for search starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom software at ₹60,000, AI and WhatsApp automation at ₹40,000, and monthly SEO at ₹10,000.",
         "The actual amount depends on scope. A single homestay needs far fewer pages than a wholesaler listing hundreds of products or a hospital with twelve departments. You get a written, itemised quote before any work begins.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages, mobile layout, map, enquiry form and basic SEO.",
-        "<strong>From ₹20,000:</strong> 700+ pages for businesses targeting many services or products.",
+        "<strong>From ₹20,000:</strong> 299+ pages for businesses targeting many services or products.",
         "<strong>From ₹50,000:</strong> online store with UPI, cards and delivery options.",
         "<strong>From ₹60,000:</strong> custom portals, booking systems and internal tools.",
       ],
@@ -226,12 +226,12 @@ const haldwani: CityContent = {
     {
       question: "How much does a website cost in Haldwani?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. The final amount depends on pages and features, and you see an itemised written quote before anything is billed.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. The final amount depends on pages and features, and you see an itemised written quote before anything is billed.",
     },
     {
       question: "Haldwani me website banwane ka kharcha kitna hai?",
       answer:
-        "Humare saath simple website ₹10,000 se shuru hoti hai, 700+ page wali SEO website ₹20,000 se aur online store ₹50,000 se. Final rate pages, features aur content par nirbhar karta hai. Kaam shuru hone se pehle aapko likhit itemised quote milta hai, aur manzoori ke baad hi bill banta hai.",
+        "Humare saath simple website ₹10,000 se shuru hoti hai, 299+ page wali SEO website ₹20,000 se aur online store ₹50,000 se. Final rate pages, features aur content par nirbhar karta hai. Kaam shuru hone se pehle aapko likhit itemised quote milta hai, aur manzoori ke baad hi bill banta hai.",
     },
     {
       question: "Do you have an office in Haldwani?",
@@ -256,7 +256,7 @@ const haldwani: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve. Delays usually come from waiting for photos and text, so we share a checklist on the first day.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve. Delays usually come from waiting for photos and text, so we share a checklist on the first day.",
     },
     {
       question: "Can I sell pahadi products online from Haldwani?",

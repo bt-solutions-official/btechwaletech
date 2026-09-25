@@ -40,7 +40,7 @@ const varkala: CityContent = {
     pills: ["Booking sites from ₹10,000", "Android & iOS apps from ₹40,000", "Maps SEO for the cliff", "Malayalam and English", "Your domain, your code"],
   },
   quickAnswer:
-    "For a Varkala homestay, café or clinic, a website from us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 700+ page SEO site at ₹20,000, an online shop at ₹50,000 and custom software at ₹60,000. We work remotely; you own every account.",
+    "For a Varkala homestay, café or clinic, a website from us starts at ₹10,000 and usually takes one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, a 299+ page SEO site at ₹20,000, an online shop at ₹50,000 and custom software at ₹60,000. We work remotely; you own every account.",
   snapshot: [
     { label: "Location", value: "Municipal town with 33 wards at the northern edge of Thiruvananthapuram district, about 50 km north of the state capital" },
     { label: "Population", value: "40,048 in the town (Census 2011); Varkala taluk, formed in 2014, counted about 2.79 lakh" },
@@ -159,7 +159,7 @@ const varkala: CityContent = {
       id: "website-cost-varkala",
       heading: "Website cost in Varkala: starting prices and what changes them",
       paragraphs: [
-        "Here are our entry points in one place. A static site of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks, which covers most homestays, cafés, clinics and tuition centres. An SEO site of 700 pages or more, for a resort group, a course provider or a travel operator that wants a page for every programme and nearby beach, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation. Online stores begin at ₹50,000, custom software at ₹60,000, and monthly SEO at ₹10,000 a month.",
+        "Here are our entry points in one place. A static site of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks, which covers most homestays, cafés, clinics and tuition centres. An SEO site of 299 pages or more, for a resort group, a course provider or a travel operator that wants a page for every programme and nearby beach, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation. Online stores begin at ₹50,000, custom software at ₹60,000, and monthly SEO at ₹10,000 a month.",
         "What moves your figure up is scope you choose. More room types or programmes, extra language versions, a live booking calendar, deposit payments, staff logins, or a link to a channel manager each become their own line, and you can remove any of them. Sending your own text and daylight photographs keeps the cost close to the starting price.",
         "Quotes from different designers on the Kerala coast vary a great deal for similar-looking work. Ask each one who registers the domain, who owns the code, whether the site is tested on cheap phones and slow data, how many rounds of changes are included, and what support costs after the first year. Our starting figures are all on the <a href=\"/pricing/\">pricing page</a>, and your itemised quote comes within about two working days.",
       ],
@@ -220,7 +220,7 @@ const varkala: CityContent = {
     {
       question: "How much does a website cost in Varkala?",
       answer:
-        "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting points. Your quote depends on rooms or programmes, languages, booking features and payments, and it arrives itemised in writing before anything is billed.",
+        "With us, a static website starts at ₹10,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting points. Your quote depends on rooms or programmes, languages, booking features and payments, and it arrives itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Varkala businesses?",
@@ -245,7 +245,7 @@ const varkala: CityContent = {
     {
       question: "How long does a website take for a Varkala business?",
       answer:
-        "A simple site takes one to two weeks once we have your photos and text. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Starting in the off-season means everything is ready and indexed before the travel months.",
+        "A simple site takes one to two weeks once we have your photos and text. A 299+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Starting in the off-season means everything is ready and indexed before the travel months.",
     },
     {
       question: "Do you set up WhatsApp and AI automation for Varkala resorts and yoga schools?",

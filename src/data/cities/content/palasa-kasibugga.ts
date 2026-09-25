@@ -39,7 +39,7 @@ const palasaKasibugga: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu and English pages", "Cashew stores and trade catalogues", "You own every account"],
   },
   quickAnswer:
-    "For a Palasa Kasibugga business, our websites start at ₹10,000 and typically launch in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online cashew store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Palasa office, and you own everything we build.",
+    "For a Palasa Kasibugga business, our websites start at ₹10,000 and typically launch in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online cashew store at ₹50,000 and custom software at ₹60,000. We are a remote team with no Palasa office, and you own everything we build.",
   snapshot: [
     { label: "Municipality", value: "Palasa and Kasibugga merged into one municipality in 2000, now 31 wards" },
     { label: "Population", value: "About 57,500 at the 2011 census" },
@@ -219,7 +219,7 @@ const palasaKasibugga: CityContent = {
     {
       question: "What is the website cost in Palasa Kasibugga?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final quote depends on pages, Telugu content, products and integrations, and it reaches you itemised in about two working days, before any billing.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final quote depends on pages, Telugu content, products and integrations, and it reaches you itemised in about two working days, before any billing.",
     },
     {
       question: "Do you build Android and iOS apps for Palasa Kasibugga businesses?",

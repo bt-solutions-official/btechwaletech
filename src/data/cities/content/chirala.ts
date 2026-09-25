@@ -39,7 +39,7 @@ const chirala: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Saree stores with UPI", "Telugu-first local SEO", "You own every account"],
   },
   quickAnswer:
-    "In Chirala, our websites start at ₹10,000 and are usually ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online saree store at ₹50,000 and custom software at ₹60,000. We work remotely with no Chirala office, and the domain and code stay yours.",
+    "In Chirala, our websites start at ₹10,000 and are usually ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online saree store at ₹50,000 and custom software at ₹60,000. We work remotely with no Chirala office, and the domain and code stay yours.",
   snapshot: [
     { label: "Location", value: "Coastal town in Bapatla district on the Howrah–Chennai main line, with an A-category railway station" },
     { label: "Civic history", value: "Municipality since 1871, now a first-grade municipality with 33 wards" },
@@ -158,7 +158,7 @@ const chirala: CityContent = {
       id: "website-cost-chirala",
       heading: "Website cost in Chirala: starting prices and how to judge a quote",
       paragraphs: [
-        "Our starting prices are published. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, ecommerce stores at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
+        "Our starting prices are published. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, ecommerce stores at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 a month.",
         "The quote rises with scope: Telugu and English versions, large saree catalogues, payment and courier integration, logins, or links to Tally. If you provide photographs and text, the price stays near the starting figure. Product photography and copywriting appear as separate lines when we handle them.",
         "Local quotes vary widely. When comparing, ask whose name the domain and hosting are in, whether mobile testing and basic SEO are included, how many change rounds you get, and who fixes problems after launch. Our <a href=\"/pricing/\">pricing page</a> lists the starting points, and your itemised quote arrives in about two working days.",
       ],
@@ -220,7 +220,7 @@ const chirala: CityContent = {
     {
       question: "What is the website cost in Chirala?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final quote depends on pages, Telugu content, saree designs and integrations, and you receive it itemised in writing before billing starts.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices. The final quote depends on pages, Telugu content, saree designs and integrations, and you receive it itemised in writing before billing starts.",
     },
     {
       question: "Do you build Android and iOS apps for Chirala businesses?",
@@ -235,7 +235,7 @@ const chirala: CityContent = {
     {
       question: "How long does a website take in Chirala?",
       answer:
-        "A static website usually goes live in one to two weeks after we receive text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Saree photography is often the step that decides the timeline.",
+        "A static website usually goes live in one to two weeks after we receive text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Saree photography is often the step that decides the timeline.",
     },
     {
       question: "Who is the best website development team in Chirala?",
@@ -255,7 +255,7 @@ const chirala: CityContent = {
     {
       question: "Chirala lo website cheyinchadaniki entha kharchu avutundi?",
       answer:
-        "Maa daggara simple website ₹10,000 nundi modalavutundi, sadharananga okati rendu varalalo ready avutundi. 700+ pages SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online saree store ₹50,000 nundi modalavutayi. Final quote mee pages, features batti rasi pamputamu.",
+        "Maa daggara simple website ₹10,000 nundi modalavutundi, sadharananga okati rendu varalalo ready avutundi. 299+ pages SEO website ₹20,000 nundi, Android mariyu iOS app ₹40,000 nundi, online saree store ₹50,000 nundi modalavutayi. Final quote mee pages, features batti rasi pamputamu.",
     },
     {
       question: "You have no office in Chirala. Is remote work safe?",

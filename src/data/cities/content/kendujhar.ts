@@ -39,7 +39,7 @@ const kendujhar: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Odia and English pages", "Fleet and contractor software", "All accounts in your name"],
   },
   quickAnswer:
-    "In Kendujhar (Keonjhar), our websites start at ₹10,000 and are usually ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Keonjhar office, and you own everything we build.",
+    "In Kendujhar (Keonjhar), our websites start at ₹10,000 and are usually ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Keonjhar office, and you own everything we build.",
   snapshot: [
     { label: "Status", value: "Municipal town and headquarters of Kendujhar district, with Anandapur and Champua as the other subdivisions" },
     { label: "Minerals", value: "Part of the Singhbhum–Keonjhar–Bonai iron belt; the district supplies most of Odisha's manganese and also has chromite" },
@@ -90,7 +90,7 @@ const kendujhar: CityContent = {
         "Around the mines there are many firms supplying labour, earthmoving equipment, drilling and blasting services, civil work, safety equipment, spare parts, canteen services and security. Large mining companies and public sector units often check a vendor's website and documents before inviting them to register or bid.",
         "As a <strong>website development team in Kendujhar</strong> for these firms, we build clean, formal websites that list services, equipment owned, key projects you are permitted to name, safety practices, registrations and certifications you actually hold, and contact details for procurement teams. A downloadable company profile PDF often helps during vendor registration.",
         "We are strict about accuracy. We never add client logos, project names, capacities or certificates without your written confirmation, because a false claim can cost you a contract. If you have not yet obtained a certification, we leave it out rather than hint at it.",
-        "Contractors with many services or equipment types can use a larger SEO website of 700+ pages, starting at ₹20,000 over three to five weeks, so each service can be found on its own. Enquiry forms go straight to email and WhatsApp so procurement staff get a quick response.",
+        "Contractors with many services or equipment types can use a larger SEO website of 299+ pages, starting at ₹20,000 over three to five weeks, so each service can be found on its own. Enquiry forms go straight to email and WhatsApp so procurement staff get a quick response.",
       ],
     },
     {
@@ -167,7 +167,7 @@ const kendujhar: CityContent = {
       id: "website-cost-kendujhar",
       heading: "Website cost in Keonjhar: starting prices and what affects your quote",
       paragraphs: [
-        "Our work in Keonjhar starts at these figures. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 700+ pages starts at ₹20,000 over three to five weeks. Online stores start at ₹50,000. Android and iOS apps and AI automation start at ₹40,000 each. Custom web apps and software start at ₹60,000 over six to twelve weeks.",
+        "Our work in Keonjhar starts at these figures. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 299+ pages starts at ₹20,000 over three to five weeks. Online stores start at ₹50,000. Android and iOS apps and AI automation start at ₹40,000 each. Custom web apps and software start at ₹60,000 over six to twelve weeks.",
         "These are starting prices, not packages. The total grows with the number of pages or products, Odia and English content, forms, payment methods, app screens, offline use and integrations. A fleet system for fifty trucks with document alerts needs more work than a ten-truck trip log.",
         "Local quotes for similar work vary widely. When comparing, ask whose name the domain and hosting are in, whether you receive the source code, how many rounds of changes are included, what renewals cost and who handles fixes after launch.",
         "We send an itemised quote within about two working days of understanding your needs, and nothing is billed until you approve in writing. See every starting price on our <a href=\"/pricing/\">pricing page</a>.",
@@ -222,7 +222,7 @@ const kendujhar: CityContent = {
     {
       question: "How much does a website cost in Keonjhar?",
       answer:
-        "A static business website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; your itemised quote depends on pages, Odia and English content, features and integrations.",
+        "A static business website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; your itemised quote depends on pages, Odia and English content, features and integrations.",
     },
     {
       question: "Do you build Android and iOS apps for Kendujhar businesses?",

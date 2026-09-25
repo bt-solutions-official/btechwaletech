@@ -39,7 +39,7 @@ const manmad: CityContent = {
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Marathi-first local SEO", "Onion and transport software", "Accounts in your name"],
   },
   quickAnswer:
-    "In Manmad, a business website with us starts at ₹10,000 and is normally live within one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are fully remote, have no Manmad office, and you keep ownership of everything.",
+    "In Manmad, a business website with us starts at ₹10,000 and is normally live within one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are fully remote, have no Manmad office, and you keep ownership of everything.",
   snapshot: [
     { label: "Location", value: "Town in Nandgaon taluka, Nashik district, at about 580 m elevation on State Highway 10" },
     { label: "Railways", value: "Manmad Junction, where lines from Mumbai, Bhusawal, Daund–Pune and Secunderabad meet" },
@@ -153,7 +153,7 @@ const manmad: CityContent = {
       id: "website-cost-manmad",
       heading: "Website cost in Manmad: starting prices and how to compare quotes",
       paragraphs: [
-        "Our starting prices apply to Manmad as they do everywhere. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 700+ page SEO website starts at ₹20,000 over three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Monthly SEO begins at ₹10,000 a month.",
+        "Our starting prices apply to Manmad as they do everywhere. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000 over three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Monthly SEO begins at ₹10,000 a month.",
         "Several things move the quote upward: more pages, versions in Marathi, Hindi and English, large catalogues, payment and shipping integration, user logins and links to Tally. Content matters too. If you provide the text and photographs, the price stays close to the start; if we write and arrange everything, that shows as a separate line.",
         "Quotes from local designers and Nashik agencies vary widely. Ask each one whose name the domain and hosting go into, whether SEO basics and mobile checks are included, how many revision rounds you get and who will fix problems after launch. Our <a href=\"/pricing/\">pricing page</a> shows the starting points, and your written quote arrives in about two working days.",
       ],
@@ -223,7 +223,7 @@ const manmad: CityContent = {
     {
       question: "What is the website cost in Manmad?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your final quote depends on pages, languages, products and integrations. It is itemised in writing, and nothing is billed before you approve it.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; your final quote depends on pages, languages, products and integrations. It is itemised in writing, and nothing is billed before you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Manmad businesses?",
@@ -233,7 +233,7 @@ const manmad: CityContent = {
     {
       question: "How quickly can a Manmad business get a website?",
       answer:
-        "A static website usually goes live within one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Ready content is what speeds things up most.",
+        "A static website usually goes live within one to two weeks after we receive your text and photographs. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Ready content is what speeds things up most.",
     },
     {
       question: "Who is the best website development team in Manmad?",
@@ -258,7 +258,7 @@ const manmad: CityContent = {
     {
       question: "Manmad madhye website banvayla kiti kharcha yeto?",
       answer:
-        "Aamchyakadun sadhi website ₹10,000 pasun suru hote ani sadharan ek-don athavdyat tayar hote. 700+ page SEO website ₹20,000 pasun, Android ani iOS app ₹40,000 pasun, online store ₹50,000 pasun suru. Tumchya pages ani features pramane likhit quote milto, ani approval nantarach billing hote.",
+        "Aamchyakadun sadhi website ₹10,000 pasun suru hote ani sadharan ek-don athavdyat tayar hote. 299+ page SEO website ₹20,000 pasun, Android ani iOS app ₹40,000 pasun, online store ₹50,000 pasun suru. Tumchya pages ani features pramane likhit quote milto, ani approval nantarach billing hote.",
     },
     {
       question: "Do you offer WhatsApp and AI automation in Manmad?",

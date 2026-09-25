@@ -35,7 +35,7 @@ const patan: CityContent = {
     pills: ["Sites from ₹10,000", "Gujarati and English", "Patola and Mashru stores", "Agro trade pages", "Heritage tour booking"],
   },
   quickAnswer:
-    "Patan businesses can get a static website from ₹10,000, ready in one to two weeks. A 700+ page SEO website starts at ₹20,000, AI and WhatsApp automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team of three engineers with no Patan office, and maintenance is free for five months.",
+    "Patan businesses can get a static website from ₹10,000, ready in one to two weeks. A 299+ page SEO website starts at ₹20,000, AI and WhatsApp automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team of three engineers with no Patan office, and maintenance is free for five months.",
   snapshot: [
     { label: "Location", value: "Headquarters of Patan district in North Gujarat, about 108 km by rail from Ahmedabad" },
     { label: "History", value: "Capital of Gujarat under the Chavda and Chaulukya (Solanki) dynasties, with twelve old gates around the walled city" },
@@ -73,7 +73,7 @@ const patan: CityContent = {
       heading: "What Patan businesses actually pay for a website",
       paragraphs: [
         "We would rather you know our prices before you call. Our <a href=\"/pricing/\">pricing page</a> lists starting figures, and once we understand your business we send an itemised quote, so you can see exactly what each page, feature and language adds to the total.",
-        "A static site of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks, with a mobile layout, WhatsApp and call buttons, a map, a contact form and basic search setup. An SEO website of 700 pages or more, mapped to what people in North Gujarat actually search, starts at ₹20,000 and takes three to five weeks. AI and WhatsApp automation begins at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Ongoing SEO starts from ₹10,000 a month.",
+        "A static site of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks, with a mobile layout, WhatsApp and call buttons, a map, a contact form and basic search setup. An SEO website of 299 pages or more, mapped to what people in North Gujarat actually search, starts at ₹20,000 and takes three to five weeks. AI and WhatsApp automation begins at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Ongoing SEO starts from ₹10,000 a month.",
         "Scope decides the rest. A tuition class may need eight pages in Gujarati. A castor trader wants grade pages, a quote form and English for outside buyers. A Patola workshop selling pieces worth lakhs needs a store with custom-order steps, insured shipping and serious attention to photographs. Work starts only when you have approved the quote in writing.",
       ],
       list: [
@@ -213,7 +213,7 @@ const patan: CityContent = {
     {
       question: "How much does a website cost in Patan?",
       answer:
-        "Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, AI and WhatsApp automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. The final quote depends on your pages, languages and features, and nothing is billed until you approve it in writing.",
+        "Static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, AI and WhatsApp automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. The final quote depends on your pages, languages and features, and nothing is billed until you approve it in writing.",
     },
     {
       question: "Patan ma website banavvano kharch ketlo thay?",
@@ -253,7 +253,7 @@ const patan: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Collecting photographs and product details usually takes longest, so we share a checklist on the first day.",
+        "A static site takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Collecting photographs and product details usually takes longest, so we share a checklist on the first day.",
     },
     {
       question: "What can WhatsApp automation do for a Patan business?",

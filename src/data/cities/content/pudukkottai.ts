@@ -34,7 +34,7 @@ const pudukkottai: CityContent = {
     pills: ["Sites from ₹10,000", "Tamil and English pages", "Cashew and seafood stores", "Clinic and college enquiries", "You own the code"],
   },
   quickAnswer:
-    "A Pudukkottai shop, clinic or school can get a website from ₹10,000, ready in one to two weeks. A 700+ page SEO site starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and a cashew or seafood store at ₹50,000. We are a remote team with no local office; the domain, hosting and code stay in your name.",
+    "A Pudukkottai shop, clinic or school can get a website from ₹10,000, ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and a cashew or seafood store at ₹50,000. We are a remote team with no local office; the domain, hosting and code stay in your name.",
   snapshot: [
     { label: "History", value: "Capital of the Thondaiman princely state from 1680 until it merged with India in 1948" },
     { label: "Town plan", value: "Laid out in 1878 on a grid of four Raja Veedhis around the palace; South Main Street is the bazaar" },
@@ -144,7 +144,7 @@ const pudukkottai: CityContent = {
       ],
       list: [
         "<strong>Static website, up to 100 pages:</strong> from ₹10,000, one to two weeks.",
-        "<strong>SEO website with 700+ pages:</strong> starts at ₹20,000, three to five weeks.",
+        "<strong>SEO website with 299+ pages:</strong> starts at ₹20,000, three to five weeks.",
         "<strong>AI and WhatsApp automation:</strong> from ₹40,000, two to four weeks.",
         "<strong>Online store with UPI and Razorpay:</strong> starts at ₹50,000, four to eight weeks.",
         "<strong>Custom web app or software:</strong> from ₹60,000, six to twelve weeks.",
@@ -224,7 +224,7 @@ const pudukkottai: CityContent = {
     {
       question: "What does a website cost in Pudukkottai?",
       answer:
-        "A small business website starts at ₹10,000 and takes one to two weeks. An SEO website with 700+ pages starts at ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. You get an itemised written quote in about two working days, and nothing is billed before you approve it.",
+        "A small business website starts at ₹10,000 and takes one to two weeks. An SEO website with 299+ pages starts at ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. You get an itemised written quote in about two working days, and nothing is billed before you approve it.",
     },
     {
       question: "Pudukkottai-la en kadaikku website podanum, evvalavu selavu aagum?",
@@ -284,7 +284,7 @@ const pudukkottai: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A small website takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having photographs, product details and basic text ready before we begin is the surest way to finish on time.",
+        "A small website takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having photographs, product details and basic text ready before we begin is the surest way to finish on time.",
     },
     {
       question: "Will you guarantee first place on Google?",

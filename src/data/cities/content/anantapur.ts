@@ -35,7 +35,7 @@ const anantapur: CityContent = {
     pills: ["Sites from ₹10,000", "Telugu and English pages", "Silk saree online stores", "Agri trade catalogues", "WhatsApp auto-replies"],
   },
   quickAnswer:
-    "For an Anantapur shop, clinic or institute, a basic website is priced from ₹10,000 and is ready in one to two weeks. Telugu-English SEO sites of 700+ pages start at ₹20,000, a silk or produce store at ₹50,000 and WhatsApp automation at ₹40,000. We work remotely with no local office, and upkeep is free for five months.",
+    "For an Anantapur shop, clinic or institute, a basic website is priced from ₹10,000 and is ready in one to two weeks. Telugu-English SEO sites of 299+ pages start at ₹20,000, a silk or produce store at ₹50,000 and WhatsApp automation at ₹40,000. We work remotely with no local office, and upkeep is free for five months.",
   snapshot: [
     { label: "Official name", value: "Ananthapuramu, headquarters of Anantapur district in the Rayalaseema region of Andhra Pradesh" },
     { label: "Connectivity", value: "On National Highway 44 between Bengaluru and Hyderabad; Bengaluru's international airport is about 190 km away" },
@@ -74,12 +74,12 @@ const anantapur: CityContent = {
       heading: "How much a website costs in Anantapur",
       paragraphs: [
         "Quotes in Anantapur run from ₹3,000 for a basic template site to ₹50,000 or more from Bengaluru or Hyderabad agencies. The cheap sites often have no search setup and the domain belongs to the developer. The expensive ones pay for city offices and sales teams.",
-        "We would rather you see the numbers up front. A Subash Road shop, a Kamalanagar clinic or a small school can get a static site from <strong>₹10,000</strong>, usually live inside a fortnight. A larger site of 700+ pages, written for the Telugu and English phrases people around the district actually type, starts at <strong>₹20,000</strong> and needs three to five weeks. A UPI-enabled store begins at <strong>₹50,000</strong>, WhatsApp or AI automation at <strong>₹40,000</strong> and bespoke software at <strong>₹60,000</strong>, while ongoing SEO work is ₹10,000 a month onwards. Every line item sits on our <a href=\"/pricing/\">pricing page</a>.",
+        "We would rather you see the numbers up front. A Subash Road shop, a Kamalanagar clinic or a small school can get a static site from <strong>₹10,000</strong>, usually live inside a fortnight. A larger site of 299+ pages, written for the Telugu and English phrases people around the district actually type, starts at <strong>₹20,000</strong> and needs three to five weeks. A UPI-enabled store begins at <strong>₹50,000</strong>, WhatsApp or AI automation at <strong>₹40,000</strong> and bespoke software at <strong>₹60,000</strong>, while ongoing SEO work is ₹10,000 a month onwards. Every line item sits on our <a href=\"/pricing/\">pricing page</a>.",
         "These are starting figures. A saree store with four hundred designs needs more work than a clinic with five pages. You get a written quote listing every page and feature, and we charge nothing until you approve it in writing.",
       ],
       list: [
         "<strong>Shop or clinic site, ₹10,000 onwards:</strong> as many as 100 pages, phone-first design, location map, chat button and on-page basics.",
-        "<strong>Telugu-English search site, ₹20,000 onwards:</strong> 700+ pages for mandal, product and service searches, with structured data.",
+        "<strong>Telugu-English search site, ₹20,000 onwards:</strong> 299+ pages for mandal, product and service searches, with structured data.",
         "<strong>Online store from ₹50,000:</strong> catalogue, variants, UPI and card payments, shipping and order alerts.",
         "<strong>Custom application from ₹60,000:</strong> logins, records, reports and integrations for institutes, traders and suppliers.",
       ],
@@ -210,12 +210,12 @@ const anantapur: CityContent = {
     {
       question: "How much does a website cost in Anantapur?",
       answer:
-        "With us, a static site begins at ₹10,000, a 700+ page Telugu-English SEO site at ₹20,000, a store at ₹50,000 and a custom web application at ₹60,000. Local quotes swing from a few thousand to well past ₹50,000, so check each one for search setup, who owns the domain, and whether any support follows launch day.",
+        "With us, a static site begins at ₹10,000, a 299+ page Telugu-English SEO site at ₹20,000, a store at ₹50,000 and a custom web application at ₹60,000. Local quotes swing from a few thousand to well past ₹50,000, so check each one for search setup, who owns the domain, and whether any support follows launch day.",
     },
     {
       question: "Anantapur lo chinna shop ki website cheyinchalante entha kharchu avutundi?",
       answer:
-        "Maa daggara simple business website ₹10,000 nundi modalavutundi. 700+ pages SEO website ₹20,000 nundi, online store ₹50,000 nundi. Pani modalupettaka mundu prati page, feature tho itemised quote pamputhamu. Meeru raatapoorvakamga approve chese varaku emi charge cheyyamu.",
+        "Maa daggara simple business website ₹10,000 nundi modalavutundi. 299+ pages SEO website ₹20,000 nundi, online store ₹50,000 nundi. Pani modalupettaka mundu prati page, feature tho itemised quote pamputhamu. Meeru raatapoorvakamga approve chese varaku emi charge cheyyamu.",
     },
     {
       question: "Do you have an office in Anantapur?",
@@ -245,7 +245,7 @@ const anantapur: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "Plan on one to two weeks for a static site, three to five for a 700+ page SEO build, four to eight for a store and six to twelve for custom software. Most hold-ups in Anantapur projects are missing photos or price lists, so we write draft text ourselves and you only mark corrections.",
+        "Plan on one to two weeks for a static site, three to five for a 299+ page SEO build, four to eight for a store and six to twelve for custom software. Most hold-ups in Anantapur projects are missing photos or price lists, so we write draft text ourselves and you only mark corrections.",
     },
     {
       question: "What can WhatsApp automation do for my business?",

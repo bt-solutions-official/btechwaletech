@@ -39,7 +39,7 @@ const arakkonam: CityContent = {
     pills: ["Web from ₹10,000", "Android & iOS apps from ₹40,000", "Tamil-first local SEO", "Rental and tuition sites", "Accounts registered to you"],
   },
   quickAnswer:
-    "Arakkonam businesses can get a website from us starting at ₹10,000, typically finished in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, SEO websites of 700+ pages at ₹20,000 and online stores at ₹50,000. We work remotely with no Arakkonam office, and the domain, code and store accounts are yours.",
+    "Arakkonam businesses can get a website from us starting at ₹10,000, typically finished in one to two weeks. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, SEO websites of 299+ pages at ₹20,000 and online stores at ₹50,000. We work remotely with no Arakkonam office, and the domain, code and store accounts are yours.",
   snapshot: [
     { label: "Status", value: "First-grade municipality in Ranipet district with 36 wards; included in the Chennai Metropolitan Area in 2022" },
     { label: "Distance", value: "About 69 km west of Chennai, with suburban electric trains to the city" },
@@ -217,7 +217,7 @@ const arakkonam: CityContent = {
     {
       question: "What is the website cost in Arakkonam?",
       answer:
-        "A static website starts at ₹10,000, a 700+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. The quote for your project rises with pages, languages, products and integrations. You receive it in writing with every item listed, and you pay nothing before agreeing to it.",
+        "A static website starts at ₹10,000, a 299+ page SEO site at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. The quote for your project rises with pages, languages, products and integrations. You receive it in writing with every item listed, and you pay nothing before agreeing to it.",
     },
     {
       question: "Do you build Android and iOS apps for Arakkonam businesses?",
@@ -227,7 +227,7 @@ const arakkonam: CityContent = {
     {
       question: "How long does a website take in Arakkonam?",
       answer:
-        "After we receive your text and photographs, a static site normally takes one to two weeks. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. The main cause of delay is content arriving late, so gather it early.",
+        "After we receive your text and photographs, a static site normally takes one to two weeks. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. The main cause of delay is content arriving late, so gather it early.",
     },
     {
       question: "Which is the best website development team in Arakkonam?",

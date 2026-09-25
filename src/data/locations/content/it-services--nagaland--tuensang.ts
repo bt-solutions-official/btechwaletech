@@ -200,7 +200,7 @@ const content: CityContent = {
       id: "costs-tuensang-it",
       heading: "How much do IT solutions cost for Tuensang organisations?",
       paragraphs: [
-        "IT solutions for Tuensang organisations start from ₹10,000 for a static information website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software or offline data apps. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000. See the <a href=\"/pricing/\">pricing page</a> for what each includes.",
+        "IT solutions for Tuensang organisations start from ₹10,000 for a static information website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software or offline data apps. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000. See the <a href=\"/pricing/\">pricing page</a> for what each includes.",
         "The main cost drivers are the number of screens and forms, user roles, offline requirements, integrations, languages and reports. An offline app is more work than an online one because of syncing and conflict handling, and we price that honestly rather than hiding it.",
         "Payment is made in INR only, by UPI with our QR code or by bank transfer to our account, against milestones listed in the estimate. Many NGOs prefer milestone payments because they align with grant disbursements; we are happy to plan phases around that.",
       ],

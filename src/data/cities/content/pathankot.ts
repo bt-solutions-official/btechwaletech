@@ -34,7 +34,7 @@ const pathankot: CityContent = {
     pills: ["Sites from ₹10,000", "Hill-route travel bookings", "Punjabi, Hindi, English pages", "WhatsApp enquiry capture", "5 months' free upkeep"],
   },
   quickAnswer:
-    "A Pathankot business website starts at ₹10,000 with us and goes live in one to two weeks. A 700+ page SEO website starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote team with no Pathankot office, and maintenance is free for five months.",
+    "A Pathankot business website starts at ₹10,000 with us and goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote team with no Pathankot office, and maintenance is free for five months.",
   snapshot: [
     { label: "Position", value: "Northernmost district of Punjab, bordering Himachal Pradesh, Jammu and Kashmir and Pakistan's Narowal district" },
     { label: "Rail", value: "Pathankot Junction, where the Amritsar and Delhi lines meet before running on to Jammu; Pathankot Cantt (earlier Chakki Bank)" },
@@ -72,12 +72,12 @@ const pathankot: CityContent = {
       heading: "What you will spend on a website in Pathankot",
       paragraphs: [
         "Local quotes in Pathankot swing widely. Some freelancers offer a template for a few thousand rupees and keep the domain in their own name; some Jalandhar or Chandigarh agencies quote high figures that cover their office rent and sales staff. Neither tells you what you are actually buying, which is why we list every item separately.",
-        "Our prices are starting prices. A static website of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks. A 700+ page website planned for search, with separate pages for each route, room type, product line or treatment, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom software at ₹60,000 and AI or WhatsApp automation at ₹40,000. Monthly SEO starts at ₹10,000. The whole table is on our <a href=\"/pricing/\">pricing page</a>.",
+        "Our prices are starting prices. A static website of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks. A 299+ page website planned for search, with separate pages for each route, room type, product line or treatment, starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, custom software at ₹60,000 and AI or WhatsApp automation at ₹40,000. Monthly SEO starts at ₹10,000. The whole table is on our <a href=\"/pricing/\">pricing page</a>.",
         "The final figure depends on the work, not on the town. A travel desk with twenty route pages and a fare calculator costs more than a lawyer's four-page site. If the quote is higher than you planned, we show which items can wait until next season, so you launch with what brings enquiries first.",
       ],
       list: [
         "<strong>Static site from ₹10,000:</strong> up to 100 pages, contact form, WhatsApp button, on-page SEO basics.",
-        "<strong>SEO site from ₹20,000:</strong> 700+ pages, schema, sitemap, Search Console and route or product pages.",
+        "<strong>SEO site from ₹20,000:</strong> 299+ pages, schema, sitemap, Search Console and route or product pages.",
         "<strong>Online store from ₹50,000:</strong> catalogue, UPI and card checkout, shipping rules, order alerts.",
         "<strong>Custom web app from ₹60,000:</strong> logins, bookings, reports and role-based access.",
       ],
@@ -217,12 +217,12 @@ const pathankot: CityContent = {
     {
       question: "How much does a website cost in Pathankot?",
       answer:
-        "With us, a static website starts at ₹10,000 and a 700+ page SEO website starts at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. Your final quote depends on pages and features, and it arrives itemised, so you can see exactly what each rupee pays for before approving anything.",
+        "With us, a static website starts at ₹10,000 and a 299+ page SEO website starts at ₹20,000. Online stores start at ₹50,000 and custom software at ₹60,000. Your final quote depends on pages and features, and it arrives itemised, so you can see exactly what each rupee pays for before approving anything.",
     },
     {
       question: "Pathankot vich website banwaun da kharcha kinna aunda hai?",
       answer:
-        "Saade naal simple business website ₹10,000 ton shuru hundi hai, te 700+ pages wali SEO website ₹20,000 ton. Online store ₹50,000 ton shuru hunda hai. Kinne pages te kehde features chahide ne, us naal final rate banda hai. Kamm shuru karan ton pehlan har cheez da vakhra rate likh ke milda hai.",
+        "Saade naal simple business website ₹10,000 ton shuru hundi hai, te 299+ pages wali SEO website ₹20,000 ton. Online store ₹50,000 ton shuru hunda hai. Kinne pages te kehde features chahide ne, us naal final rate banda hai. Kamm shuru karan ton pehlan har cheez da vakhra rate likh ke milda hai.",
     },
     {
       question: "Do you have an office in Pathankot?",
@@ -247,7 +247,7 @@ const pathankot: CityContent = {
     {
       question: "How long does it take to build a website?",
       answer:
-        "A static site usually takes one to two weeks, a 700+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. The biggest delay is usually waiting for photos and text, so we draft content for you to correct.",
+        "A static site usually takes one to two weeks, a 299+ page SEO site three to five weeks, an online store four to eight weeks and a custom application six to twelve weeks. The biggest delay is usually waiting for photos and text, so we draft content for you to correct.",
     },
     {
       question: "Do you work with businesses in Sujanpur, Gurdaspur, Kathua and Himachal?",

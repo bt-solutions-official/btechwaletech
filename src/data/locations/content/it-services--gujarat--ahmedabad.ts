@@ -172,7 +172,7 @@ const content: CityContent = {
       id: "seo-ahmedabad",
       heading: "SEO and AI-search visibility for Ahmedabad businesses",
       paragraphs: [
-        "SEO for an Ahmedabad business means ranking for the area-level and product searches your buyers use, in English and Gujarati, and being described accurately in AI answers from Google, ChatGPT and Perplexity. Our <a href='/services/seo-services/'>SEO services</a> start from ₹10,000 a month, and 700+ page SEO websites from ₹20,000.",
+        "SEO for an Ahmedabad business means ranking for the area-level and product searches your buyers use, in English and Gujarati, and being described accurately in AI answers from Google, ChatGPT and Perplexity. Our <a href='/services/seo-services/'>SEO services</a> start from ₹10,000 a month, and 299+ page SEO websites from ₹20,000.",
         "For local services, we optimise Google Business Profiles and create honest area pages for places such as Maninagar, Vastrapur, Bopal and Chandkheda. For manufacturers and exporters, we build product and application pages with specifications and certifications. For startups, we build content around the problems their product solves. We add schema and clear factual passages, report monthly from Search Console and never guarantee rankings.",
       ],
     },
@@ -193,7 +193,7 @@ const content: CityContent = {
       ],
       list: [
         "<strong>Website:</strong> from ₹10,000, one to two weeks",
-        "<strong>700+ page SEO website:</strong> from ₹20,000, three to five weeks",
+        "<strong>299+ page SEO website:</strong> from ₹20,000, three to five weeks",
         "<strong>AI agent or WhatsApp automation:</strong> from ₹40,000, two to four weeks",
         "<strong>Android and iOS app:</strong> from ₹40,000, six to ten weeks",
         "<strong>Online store:</strong> from ₹50,000, four to eight weeks",

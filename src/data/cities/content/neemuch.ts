@@ -35,7 +35,7 @@ const neemuch: CityContent = {
     pills: ["Sites from ₹10,000", "Herb export catalogues", "Mandi trader software", "Hindi and English pages", "You own every login"],
   },
   quickAnswer:
-    "A Neemuch business website with us starts from ₹10,000, and a 700+ page SEO website from ₹20,000, delivered in about one to five weeks. Export stores start from ₹50,000 and trading software from ₹60,000. We are a remote three-engineer team with no Neemuch office, and every launch includes five months of free maintenance.",
+    "A Neemuch business website with us starts from ₹10,000, and a 299+ page SEO website from ₹20,000, delivered in about one to five weeks. Export stores start from ₹50,000 and trading software from ₹60,000. We are a remote three-engineer team with no Neemuch office, and every launch includes five months of free maintenance.",
   snapshot: [
     { label: "Administration", value: "District headquarters in Ujjain division, bordering Rajasthan; city, Cantt (Chhavani) and Baghana" },
     { label: "Krishi Upaj Mandi", value: "Described by the district as Asia's largest agricultural produce market yard" },
@@ -73,12 +73,12 @@ const neemuch: CityContent = {
       heading: "What a website costs in Neemuch",
       paragraphs: [
         "Website quotes in Neemuch swing widely: some local operators offer a page for a few thousand rupees, while agencies in Indore may ask for many times more. Cheap sites often skip SEO and keep the domain in the developer's name. Expensive ones sometimes carry an office and sales team you never see. We would rather show you our numbers up front.",
-        "A static business website, up to 100 pages, starts from ₹10,000 and usually takes one to two weeks. A 700+ page SEO website starts from ₹20,000 and takes three to five weeks, which suits exporters who want one page per herb, spice or grade. An online store with UPI checkout starts from ₹50,000. Custom trading software starts from ₹60,000. WhatsApp and AI automation starts from ₹40,000, and monthly SEO from ₹10,000.",
+        "A static business website, up to 100 pages, starts from ₹10,000 and usually takes one to two weeks. A 299+ page SEO website starts from ₹20,000 and takes three to five weeks, which suits exporters who want one page per herb, spice or grade. An online store with UPI checkout starts from ₹50,000. Custom trading software starts from ₹60,000. WhatsApp and AI automation starts from ₹40,000, and monthly SEO from ₹10,000.",
         "The final figure depends on how many products you list, whether you have photos and specifications ready, whether you want Hindi pages, and what systems need connecting. Everything is itemised, and nothing starts before you approve it. See our <a href=\"/pricing/\">pricing page</a> for detail.",
       ],
       list: [
         "<strong>Static website, from ₹10,000:</strong> clinics, schools, shops and small traders.",
-        "<strong>SEO website, from ₹20,000:</strong> 700+ pages for exporters and firms seeking Google enquiries.",
+        "<strong>SEO website, from ₹20,000:</strong> 299+ pages for exporters and firms seeking Google enquiries.",
         "<strong>Online store, from ₹50,000:</strong> herbal and spice brands selling directly with UPI checkout.",
         "<strong>Custom software, from ₹60,000:</strong> purchase registers, lots, stock and dispatch.",
       ],
@@ -89,7 +89,7 @@ const neemuch: CityContent = {
       paragraphs: [
         "Herb buyers are specific. They want the botanical name, the plant part (root, leaf, seed, husk), the form (whole, cut, powder, extract), grade or purity, moisture, packing, minimum order and the documents you can provide. A catalogue page that answers these in a neat table saves days of back-and-forth and signals that you know the business.",
         "We build export websites with one page per product and form, readable specification tables, clear packing and shipping notes, and a request-for-quote form that asks for quantity, destination and grade. Certificates and registrations are shown with dates, and only what you can support with paperwork goes on the site. For ashwagandha, isabgol and other herbs that carry health claims elsewhere on the internet, we keep your pages factual and avoid medical promises.",
-        "The site is written in plain international English, loads quickly from abroad and is set up so search engines understand each product. For firms that also sell to Indian manufacturers, we can add Hindi summaries or a separate domestic enquiry path. This is where a 700+ page <a href=\"/services/seo-services/\">SEO website</a> earns its keep, because each herb, form and grade can have its own well-structured page.",
+        "The site is written in plain international English, loads quickly from abroad and is set up so search engines understand each product. For firms that also sell to Indian manufacturers, we can add Hindi summaries or a separate domestic enquiry path. This is where a 299+ page <a href=\"/services/seo-services/\">SEO website</a> earns its keep, because each herb, form and grade can have its own well-structured page.",
         "Samples are the other half of the herb business. We add a sample request page that records what the buyer asked for, where it should go and who approved it, so your team can follow up a week later with the right question. Over a season, those records show which products and countries bring real orders, which helps you decide where to spend time at the next trade fair.",
       ],
     },
@@ -199,7 +199,7 @@ const neemuch: CityContent = {
   ],
   industries: [
     { name: "Herb and ashwagandha traders", need: "Specs, grades, documents and overseas trust", build: "Export catalogue with spec tables and RFQ form" },
-    { name: "Seed spice and isabgol exporters", need: "Product forms, packing, minimum orders", build: "700+ page SEO site with one page per product and grade" },
+    { name: "Seed spice and isabgol exporters", need: "Product forms, packing, minimum orders", build: "299+ page SEO site with one page per product and grade" },
     { name: "Commission agents and mandi traders", need: "Lot records, payments, balances", build: "Web purchase register with PDF statements" },
     { name: "Oil, dal and dehydration units", need: "Capacity, quality systems, private label enquiries", build: "Capability pages, sample request form, catalogue" },
     { name: "Hospitals and eye care", need: "Doctors, services, timings and directions", build: "Service pages, appointment requests, local SEO" },
@@ -211,12 +211,12 @@ const neemuch: CityContent = {
     {
       question: "How much does a website cost in Neemuch?",
       answer:
-        "Our static business website starts from ₹10,000, a 700+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. The final amount depends on products, pages, languages and integrations. You receive an itemised quote in about two working days, and nothing is billed until you approve it in writing.",
+        "Our static business website starts from ₹10,000, a 299+ page SEO website from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. The final amount depends on products, pages, languages and integrations. You receive an itemised quote in about two working days, and nothing is billed until you approve it in writing.",
     },
     {
       question: "Neemuch me website banwane ka kharcha kitna hai?",
       answer:
-        "Humare saath simple business website ₹10,000 se shuru hoti hai, aur 700+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se shuru hota hai. Final kharcha products, pages aur features par depend karta hai. Kaam shuru hone se pehle poora itemised quote milta hai, aur aapki manzoori ke bina koi bill nahi banta.",
+        "Humare saath simple business website ₹10,000 se shuru hoti hai, aur 299+ pages wali SEO website ₹20,000 se. Online store ₹50,000 se shuru hota hai. Final kharcha products, pages aur features par depend karta hai. Kaam shuru hone se pehle poora itemised quote milta hai, aur aapki manzoori ke bina koi bill nahi banta.",
     },
     {
       question: "Do you have an office in Neemuch?",
@@ -241,7 +241,7 @@ const neemuch: CityContent = {
     {
       question: "How long does a website take?",
       answer:
-        "A static website takes one to two weeks, a 700+ page SEO website three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Delays usually come from waiting for product details and photos, so we draft starter content for you to correct rather than waiting on blank pages.",
+        "A static website takes one to two weeks, a 299+ page SEO website three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Delays usually come from waiting for product details and photos, so we draft starter content for you to correct rather than waiting on blank pages.",
     },
     {
       question: "Will my website have Hindi pages?",

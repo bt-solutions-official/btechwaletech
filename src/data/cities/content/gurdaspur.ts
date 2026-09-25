@@ -39,7 +39,7 @@ const gurdaspur: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Punjabi-first local SEO", "Mandi and sheller software", "All logins in your name"],
   },
   quickAnswer:
-    "A Gurdaspur business website with us starts at ₹10,000 and is normally ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, have no Gurdaspur office, and you own everything.",
+    "A Gurdaspur business website with us starts at ₹10,000 and is normally ready in one to two weeks. Android and iOS apps and AI automation start at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely, have no Gurdaspur office, and you own everything.",
   snapshot: [
     { label: "Role", value: "Headquarters of Gurdaspur district in the Majha region, between the Ravi and Beas rivers" },
     { label: "Border", value: "The district borders Pakistan's Narowal district, with Dera Baba Nanak and the Kartarpur corridor in its west" },
@@ -158,7 +158,7 @@ const gurdaspur: CityContent = {
       id: "website-cost-gurdaspur",
       heading: "Website cost in Gurdaspur: starting prices and fair comparisons",
       paragraphs: [
-        "Here are our starting points for Gurdaspur: a static website of up to 100 pages from ₹10,000, ready in one to two weeks; a 700+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; an online store from ₹50,000 in four to eight weeks; and custom software from ₹60,000 in six to twelve weeks. Monthly SEO is ₹10,000 a month onwards.",
+        "Here are our starting points for Gurdaspur: a static website of up to 100 pages from ₹10,000, ready in one to two weeks; a 299+ page SEO website from ₹20,000 in three to five weeks; Android and iOS apps from ₹40,000; AI automation from ₹40,000 in two to four weeks; an online store from ₹50,000 in four to eight weeks; and custom software from ₹60,000 in six to twelve weeks. Monthly SEO is ₹10,000 a month onwards.",
         "Scope moves the quote. Punjabi and English versions, large product catalogues, payment integration, logins, booking systems and links to Tally all add work. If you supply the text and photographs, the price stays close to the starting figure; if we write and organise content, it appears as a separate line so you can decide.",
         "Local quotes vary widely. Compare them on whose name the domain and hosting are in, whether mobile testing and basic SEO are included, the number of revision rounds, and who handles problems after launch. Our <a href=\"/pricing/\">pricing page</a> shows the starting prices, and your itemised quote usually arrives within two working days.",
       ],
@@ -209,7 +209,7 @@ const gurdaspur: CityContent = {
     {
       question: "What is the website cost in Gurdaspur?",
       answer:
-        "Our static websites start at ₹10,000, 700+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Punjabi content, products and integrations, and you get it itemised in writing before anything is billed.",
+        "Our static websites start at ₹10,000, 299+ page SEO websites at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, Punjabi content, products and integrations, and you get it itemised in writing before anything is billed.",
     },
     {
       question: "Do you build Android and iOS apps for Gurdaspur businesses?",
@@ -219,7 +219,7 @@ const gurdaspur: CityContent = {
     {
       question: "How long does a website take for a Gurdaspur business?",
       answer:
-        "A static website usually goes live in one to two weeks after we receive your content. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Quick replies on content and approvals shorten every timeline.",
+        "A static website usually goes live in one to two weeks after we receive your content. A 299+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Quick replies on content and approvals shorten every timeline.",
     },
     {
       question: "Who is the best website development team in Gurdaspur?",
@@ -244,7 +244,7 @@ const gurdaspur: CityContent = {
     {
       question: "Gurdaspur me website banwane me kitna kharcha aata hai?",
       answer:
-        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein ban jaati hai. 700+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Poora quote aapke pages aur features ke hisaab se likh kar bheja jaata hai.",
+        "Hamare saath simple website ₹10,000 se shuru hoti hai aur ek-do hafte mein ban jaati hai. 299+ page SEO website ₹20,000 se, Android aur iOS app ₹40,000 se aur online store ₹50,000 se shuru hai. Poora quote aapke pages aur features ke hisaab se likh kar bheja jaata hai.",
     },
     {
       question: "You have no office in Gurdaspur. Is working remotely safe?",

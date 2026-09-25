@@ -191,7 +191,7 @@ const content: CityContent = {
       id: "seo-b2b-howrah",
       heading: "B2B websites, supplier pages and SEO for Howrah manufacturers",
       paragraphs: [
-        "B2B websites and SEO help Howrah manufacturers get found by procurement teams searching for specific products, grades and capabilities, and they give buyers confidence before an RFQ. Websites start at ₹10,000, a 700+ page SEO website at ₹20,000, monthly SEO at ₹10,000 and online stores at ₹50,000.",
+        "B2B websites and SEO help Howrah manufacturers get found by procurement teams searching for specific products, grades and capabilities, and they give buyers confidence before an RFQ. Websites start at ₹10,000, a 299+ page SEO website at ₹20,000, monthly SEO at ₹10,000 and online stores at ₹50,000.",
         "Supplier pages should list products, material grades, size ranges, machines, capacities, certifications, minimum orders and lead times plainly. Each product line gets its own page with an RFQ form that feeds the quotation system. Clear, factual pages with schema markup are also easier for Google's AI Overviews, ChatGPT and Perplexity to cite. We do not guarantee rankings; three to six months is typical. See <a href='/services/seo-services/'>our SEO services</a>.",
         "Hardware and garment sellers can add a store with UPI and card checkout through their own gateway account. The <a href='/services/web-development/'>web development page</a> explains our build process.",
       ],

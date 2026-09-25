@@ -39,7 +39,7 @@ const puttur: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Kannada, Tulu-aware local SEO", "Areca and plantation trade tools", "Domain and code in your name"],
   },
   quickAnswer:
-    "In Puttur, Dakshina Kannada, our business websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI automation; a 700+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and you own everything.",
+    "In Puttur, Dakshina Kannada, our business websites start at ₹10,000 and usually go live in one to two weeks. Android and iOS apps start at ₹40,000, as does AI automation; a 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely and you own everything.",
   snapshot: [
     { label: "Location", value: "Taluk and sub-division town in Dakshina Kannada, about 52 km south-east of Mangaluru" },
     { label: "Population", value: "About 53,000 in the 2011 census, under the Puttur City Municipal Council" },
@@ -129,7 +129,7 @@ const puttur: CityContent = {
       paragraphs: [
         "Local search in Puttur is shaped by language and geography. People search in English, Kannada and, in conversation at least, Tulu; they type the town name in several spellings; and many are searching from Uppinangady, Vitla, Kabaka or Sullia rather than from the town itself. A listing that only says “Puttur” and nothing else misses most of them.",
         "Our <a href=\"/services/seo-services/\">SEO services in Puttur</a> start with the basics done properly. We verify and complete your Google Business Profile with the right category, hours, photos and a pin that matches your gate rather than the middle of the road. We make sure your name, address and phone match across listings. Then we write useful pages: one per main product or service, with Kannada and English text that answers the questions buyers actually ask.",
-        "For businesses that want to show up across the whole taluk and neighbouring areas, we can build a larger SEO site of 700 pages or more, starting at ₹20,000 and taking three to five weeks. Monthly SEO starts at ₹10,000 a month for ongoing pages, listing updates and reports on calls, direction requests and form fills.",
+        "For businesses that want to show up across the whole taluk and neighbouring areas, we can build a larger SEO site of 299 pages or more, starting at ₹20,000 and taking three to five weeks. Monthly SEO starts at ₹10,000 a month for ongoing pages, listing updates and reports on calls, direction requests and form fills.",
         "We will not promise a top ranking. Nobody honest can. What we can promise is clean technical work, content in the language your buyers use, and monthly figures you can check yourself in Search Console and your Google profile.",
       ],
     },
@@ -157,13 +157,13 @@ const puttur: CityContent = {
       id: "website-cost-puttur",
       heading: "Website cost in Puttur: starting prices and how to compare quotes",
       paragraphs: [
-        "A common first question is simply “how much?”. Here are our starting figures for Puttur work. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 700 pages or more starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation. Online stores start at ₹50,000 and custom software or web apps at ₹60,000.",
+        "A common first question is simply “how much?”. Here are our starting figures for Puttur work. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 299 pages or more starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation. Online stores start at ₹50,000 and custom software or web apps at ₹60,000.",
         "Local quotes for a <strong>website cost in Puttur</strong> vary widely, and a low number is not always cheap in the end. When comparing, ask who will own the domain and hosting, whether the source code will be handed over, how many revisions are included, whether Kannada text is written or only translated by a tool, what happens after launch, and what the yearly renewal will cost.",
         "Our quote lists each of these separately. You see the design, pages, content, integrations, hosting and maintenance as separate lines, and you approve in writing before any billing. Full details are on the <a href=\"/pricing/\">pricing</a> page.",
       ],
       list: [
         "Static website (up to 100 pages): from ₹10,000, 1–2 weeks",
-        "SEO website (700+ pages): from ₹20,000, 3–5 weeks",
+        "SEO website (299+ pages): from ₹20,000, 3–5 weeks",
         "Android & iOS app: from ₹40,000",
         "AI automation: from ₹40,000, 2–4 weeks",
         "Ecommerce store: from ₹50,000, 4–8 weeks",

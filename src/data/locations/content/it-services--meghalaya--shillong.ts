@@ -194,7 +194,7 @@ const content: CityContent = {
       paragraphs: [
         "SEO for a Shillong business means ranking for the services and trips people search for and being described accurately in AI answers from Google, ChatGPT and Perplexity. Travellers ask AI tools to plan Meghalaya itineraries, and the pages cited are those with clear, factual, well-structured information.",
         "We build pages around real questions: how long a Sohra day trip takes from Shillong, what a Dawki boat ride costs to start with, which hostels are near which colleges, or what a clinic's timings are. Each page carries accurate details and structured data, and we guide you on Google Business Profile and reviews. See our <a href='/services/seo-services/'>SEO services</a>.",
-        "We never guarantee rankings. Monthly SEO starts at ₹10,000, and 700+ page SEO websites start at ₹20,000.",
+        "We never guarantee rankings. Monthly SEO starts at ₹10,000, and 299+ page SEO websites start at ₹20,000.",
       ],
     },
     {
@@ -210,7 +210,7 @@ const content: CityContent = {
       id: "cost-choose-shillong",
       heading: "How much does software development cost in Shillong, and how do you choose?",
       paragraphs: [
-        "Software development for a Shillong business with BtechWaleTech starts at ₹60,000 for custom software, ₹40,000 for an Android and iOS app or AI automation, ₹50,000 for a store, ₹20,000 for a 700+ page SEO website and ₹10,000 for a static website. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months. See the <a href='/pricing/'>pricing page</a>.",
+        "Software development for a Shillong business with BtechWaleTech starts at ₹60,000 for custom software, ₹40,000 for an Android and iOS app or AI automation, ₹50,000 for a store, ₹20,000 for a 299+ page SEO website and ₹10,000 for a static website. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months. See the <a href='/pricing/'>pricing page</a>.",
         "If you are weighing a software development team in Shillong against a freelance team, compare earlier work, who writes the code, written scope, ownership of domain, hosting, store accounts and code, and post-launch support terms. A local company can visit; a remote freelance group usually costs less and gives direct access to engineers. Our <a href='/portfolio/'>portfolio</a> and <a href='/about/'>about page</a> help with that comparison, and our <a href='/shillong/'>Shillong web services page</a> covers websites and local SEO in more detail.",
         "Payments to us are only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in rupees and in milestones. Start with a WhatsApp message; see all <a href='/services/'>services</a> or the statewide <a href='/it-services/meghalaya/'>Meghalaya hub</a>.",
       ],

@@ -39,7 +39,7 @@ const jammalamadugu: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Telugu local SEO", "Gandikota tourism pages", "Domain and code in your name"],
   },
   quickAnswer:
-    "For Jammalamadugu businesses, a website with us starts at ₹10,000 and takes one to two weeks. Android and iOS apps and AI automation begin at ₹40,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team without a local office, and you own every account.",
+    "For Jammalamadugu businesses, a website with us starts at ₹10,000 and takes one to two weeks. Android and iOS apps and AI automation begin at ₹40,000, a 299+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team without a local office, and you own every account.",
   snapshot: [
     { label: "Location", value: "Municipal town and revenue division headquarters in YSR Kadapa district, Rayalaseema" },
     { label: "River", value: "On the Penna, with the Narapura Venkateswara Swamy temple on its bank" },
@@ -125,7 +125,7 @@ const jammalamadugu: CityContent = {
       paragraphs: [
         "When someone types “hardware shop Jammalamadugu” or “Gandikota room booking”, Google shows a map pack before any ordinary result. Getting into that pack depends on distance, how complete your listing is, and whether reviews and website pages back it up.",
         "Our <strong>SEO services in Jammalamadugu</strong> start with the Google Business Profile: the right category, an accurate pin, working hours that include festival days such as the Narapura temple Brahmotsavam, photographs of the real shop, services and a plan for asking real customers for reviews. Then we write pages for what people search, in Telugu where they search in Telugu, and connect those pages to the listing.",
-        "For wider reach, a 700+ page SEO site, from ₹20,000, can cover every product, service and nearby mandal properly. Monthly SEO starts at ₹10,000 a month and includes new pages, listing posts, fixes and a short report in plain language. We never promise a first position. Anyone who does is guessing or selling something.",
+        "For wider reach, a 299+ page SEO site, from ₹20,000, can cover every product, service and nearby mandal properly. Monthly SEO starts at ₹10,000 a month and includes new pages, listing posts, fixes and a short report in plain language. We never promise a first position. Anyone who does is guessing or selling something.",
       ],
     },
     {
@@ -149,7 +149,7 @@ const jammalamadugu: CityContent = {
       id: "website-cost-jammalamadugu",
       heading: "Website cost in Jammalamadugu: what you pay and why it varies",
       paragraphs: [
-        "A plain site for a shop, clinic or guesthouse, anything up to 100 pages, starts at ₹10,000 and takes one to two weeks. An SEO build of 700 pages or more starts at ₹20,000 and needs three to five weeks. Android and iOS apps start at ₹40,000, and so does AI automation. Online stores begin at ₹50,000, custom software at ₹60,000, monthly SEO at ₹10,000 a month.",
+        "A plain site for a shop, clinic or guesthouse, anything up to 100 pages, starts at ₹10,000 and takes one to two weeks. An SEO build of 299 pages or more starts at ₹20,000 and needs three to five weeks. Android and iOS apps start at ₹40,000, and so does AI automation. Online stores begin at ₹50,000, custom software at ₹60,000, monthly SEO at ₹10,000 a month.",
         "Those numbers climb only with choices you make: Telugu copy alongside English, a large product list, delivery rules, logins for staff, or a sync with Tally or another billing tool. Each appears as its own line in the quote so you can cut it. If you write the text yourself and send phone photos, the price stays close to the starting figure.",
         "Local quotes for similar-looking jobs vary widely. Compare on substance: who owns the domain, whether the site is tested on low-cost phones, whether basic SEO is included, how many revision rounds you get and who answers a year later. Our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and a written, itemised quote for your project arrives in about two working days.",
       ],
@@ -210,7 +210,7 @@ const jammalamadugu: CityContent = {
     {
       question: "What is the website cost in Jammalamadugu?",
       answer:
-        "Static websites with us start at ₹10,000, SEO websites of 700+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. All are starting prices. Your written quote lists each item, such as Telugu content, products or integrations, and nothing is billed until you approve it.",
+        "Static websites with us start at ₹10,000, SEO websites of 299+ pages at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. All are starting prices. Your written quote lists each item, such as Telugu content, products or integrations, and nothing is billed until you approve it.",
     },
     {
       question: "Do you build Android and iOS apps for Jammalamadugu businesses?",
@@ -220,7 +220,7 @@ const jammalamadugu: CityContent = {
     {
       question: "How long does a website take for a Jammalamadugu shop?",
       answer:
-        "A simple static site is usually ready one to two weeks after we receive your photos, prices and details. A 700+ page SEO site takes three to five weeks, a store four to eight, and custom software six to twelve. The fastest projects are the ones where the owner sends content early.",
+        "A simple static site is usually ready one to two weeks after we receive your photos, prices and details. A 299+ page SEO site takes three to five weeks, a store four to eight, and custom software six to twelve. The fastest projects are the ones where the owner sends content early.",
     },
     {
       question: "Which is the best website development team in Jammalamadugu?",
