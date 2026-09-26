@@ -37,7 +37,7 @@ const content: FreelanceContent = {
     ["Build time", "6–12 weeks, first version"],
     ["Per-user fee", "None; add users freely"],
     ["WhatsApp", "Official API; Meta bills you directly"],
-    ["Free support", "5 months after go-live"],
+    ["Free maintenance", "5 months after go-live"],
     ["Then", `Maintenance from ${P.care}`],
   ],
   stats: [
@@ -260,7 +260,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You own the CRM outright: code in your repository, database in your cloud account, WhatsApp Business Account in your business name. That is the other half of the value of paying a CRM software development cost instead of a subscription.`,
         `Hosting is billed by your cloud provider and scales with data volume. Backups run daily to storage in your account. You can grant or remove our access at any time.`,
-        `After launch you get 5 months of free maintenance for bugs, small adjustments and help with adoption issues. After that, maintenance plans start from ${P.care}, and new features are quoted individually. India’s Digital Personal Data Protection Act, 2023 applies to the personal data a CRM holds; we build access controls, audit logs and deletion tools, and your adviser confirms your legal obligations. Payments are by UPI or bank transfer against a GST invoice; international clients pay in USD via Wise, wire or PayPal.`,
+        `After launch you get 5 months of free maintenance, with its scope written into your quote. After that, maintenance plans start from ${P.care}, and new features are quoted individually. India’s Digital Personal Data Protection Act, 2023 applies to the personal data a CRM holds; we build access controls, audit logs and deletion tools, and your adviser confirms your legal obligations. Payments are by UPI or bank transfer; international clients pay in USD via Wise, wire or PayPal.`,
       ],
     },
     {
@@ -268,7 +268,7 @@ const content: FreelanceContent = {
       heading: "Custom CRM development across India",
       paragraphs: [
         `CRM projects run remotely, so the CRM software development cost is the same across India. Workshops happen on video calls, test versions go out as links, and we reply on WhatsApp in English or Hindi.`,
-        `We hear from sales-led businesses in <a href='/thane/'>Thane</a>, <a href='/faridabad/'>Faridabad</a>, <a href='/mohali/'>Mohali</a>, <a href='/jalandhar/'>Jalandhar</a>, <a href='/bhopal/'>Bhopal</a>, <a href='/ranchi/'>Ranchi</a>, <a href='/salem/'>Salem</a>, <a href='/mangaluru/'>Mangaluru</a>, <a href='/kozhikode/'>Kozhikode</a> and <a href='/meerut/'>Meerut</a>: brokers, dealers, institutes, clinics and manufacturers. Their stages differ; the cost drivers on this page stay the same.`,
+        `The same build process works for sales-led businesses in <a href='/thane/'>Thane</a>, <a href='/faridabad/'>Faridabad</a>, <a href='/mohali/'>Mohali</a>, <a href='/jalandhar/'>Jalandhar</a>, <a href='/bhopal/'>Bhopal</a>, <a href='/ranchi/'>Ranchi</a>, <a href='/salem/'>Salem</a>, <a href='/mangaluru/'>Mangaluru</a>, <a href='/kozhikode/'>Kozhikode</a> and <a href='/meerut/'>Meerut</a>: brokers, dealers, institutes, clinics and manufacturers. Their stages differ; the cost drivers on this page stay the same.`,
       ],
     },
   ],
@@ -322,7 +322,7 @@ const content: FreelanceContent = {
     },
   ],
   areas: {
-    eyebrow: "Sales teams we talk to",
+    eyebrow: "CRMs by city",
     heading: "Custom CRMs for businesses in these cities",
     note: "Remote delivery at the same starting price everywhere. Each card notes the kind of sales process businesses in that city often want a CRM built around.",
     cards: [
@@ -368,13 +368,13 @@ const content: FreelanceContent = {
     { question: "Can you build a mobile app for our sales team?", answer: `Yes. Office teams can use the responsive web CRM on phones. Field teams benefit from a dedicated Android and iOS app with visit check-ins, offline notes, photos and location, starting from ${P.app}. The app syncs with the same database, so managers see visits and leads in one place.` },
     { question: "Can AI be added to a custom CRM?", answer: `Yes, as an optional addition from ${P.ai}. Useful features include lead scoring from your past wins, drafting replies for a salesperson to review, summarising long chat histories before a call and extracting requirements from emails. Model usage is billed to your own AI provider account, and a person stays in control of what is sent.` },
     { question: "Who owns the custom CRM and its data?", answer: "You do. Code sits in your repository, the database in your cloud account and the WhatsApp Business Account in your business name. We work with access you grant and can remove. If you later move to another developer, they receive the code and documentation and continue without rebuilding." },
-    { question: "What does CRM maintenance cost after launch?", answer: `Maintenance sits outside the CRM software development cost. The first 5 months after go-live are free, covering bugs, small adjustments and adoption issues. After that, maintenance plans start from ${P.care}, and new features are quoted individually before any work begins. Hosting is billed separately by your cloud provider and grows with data volume rather than users.` },
+    { question: "What does CRM maintenance cost after launch?", answer: `Maintenance sits outside the CRM software development cost. The first 5 months after go-live are free, with the exact scope written into your quote. After that, maintenance plans start from ${P.care}, and new features are quoted individually before any work begins. Hosting is billed separately by your cloud provider and grows with data volume rather than users.` },
     { question: "Is Zoho or another SaaS CRM a better option for us?", answer: "It can be. If your sales process is fairly standard, your team is small or stable, and you value a wide feature set from day one, a SaaS CRM is a sensible choice. Custom makes sense for unusual processes, growing teams or deep integration needs. We also help businesses implement Zoho CRM when that fits better." },
     { question: "How secure is a custom CRM?", answer: "Security comes from design: role-based access, restricted and logged exports, audit trails on deletions, encrypted connections, daily backups in your account and regular updates. India’s Digital Personal Data Protection Act, 2023 applies to the personal data a CRM holds; we build the technical controls and your own adviser confirms legal obligations." },
     { question: "What makes CRM software development cost go up?", answer: "The main drivers are the number of lead sources, complex reminder and assignment rules, WhatsApp and email built into records, integrations with accounting or ERP, detailed permission structures across branches or partners, and mobile apps. Messy data migration and changing scope mid-project also raise cost, which is why we fix a written first-version list." },
     { question: "Can we start small and add features later?", answer: "Yes, and we recommend it. A first version with pipeline, reminders, roles and core reports gets the team using the CRM. Once you see real usage, adding WhatsApp, integrations or a field app is easier to scope correctly. Each phase is quoted separately, so you commit to one step at a time." },
     { question: "CRM software banwane ka kharcha kitna hai?", answer: `BtechWaleTech ke saath custom CRM ${P.software} se shuru hota hai, jismein lead pipeline, follow-up reminders, roles aur reports aate hain. 6 se 12 hafte lagte hain. Per-user fees nahi hai, isliye team badhne par kharcha nahi badhta. WhatsApp ke Meta charges seedha aapke account mein bill hote hain.` },
-    { question: "How do I pay for a CRM project?", answer: `In India, by UPI or bank transfer against a GST invoice. International clients pay in USD, from ${P.softwareUsd} for a first version, via Wise, bank wire or PayPal. Nothing is billed before you approve the written, itemised quote, and milestone terms are set out in that quote and our published terms.` },
+    { question: "How do I pay for a CRM project?", answer: `In India, by UPI or bank transfer. International clients pay in USD, from ${P.softwareUsd} for a first version, via Wise, bank wire or PayPal. Nothing is billed before you approve the written, itemised quote, and milestone terms are set out in that quote and our published terms.` },
     { question: "Why do salespeople stop using a CRM, and how do you prevent it?", answer: "Usually because forms are long, the CRM does not match how they sell, or managers still ask for updates elsewhere. We involve salespeople in design, keep forms short, make the daily task list the home screen, and set up reports so managers review pipelines inside the CRM. Adoption is planned, not hoped for." },
   ],
   related: {

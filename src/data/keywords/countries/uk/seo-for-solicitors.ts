@@ -11,7 +11,7 @@ const content: FreelanceContent = {
   crumb: "SEO for solicitors",
   updated: "2026-09-25",
   meta: {
-    title: `SEO for Solicitors UK: SRA-Safe Local SEO from ${P.seo}`,
+    title: `SEO for Solicitors UK: SRA-Safe SEO from ${P.seo}`,
     description: `SEO for solicitors: practice-area pages, office-by-office local SEO, named-author E-E-A-T and review growth within SRA rules. Monthly SEO from ${P.seo}.`,
     keywords: [
       "seo for solicitors", "seo for solicitors uk", "solicitor seo", "law firm seo uk", "seo for law firms", "legal seo services uk",

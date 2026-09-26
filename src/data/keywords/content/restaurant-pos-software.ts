@@ -115,7 +115,7 @@ const content: FreelanceContent = {
       heading: "When should a restaurant get its own POS instead of a ready-made one?",
       paragraphs: [
         `Get your own restaurant POS software when the subscription product has become a constraint, not just a cost. For a single café with a standard menu, a ready-made POS is the sensible choice, and we will tell you so on the first call.`,
-        `The signals that a custom build is worth pricing are practical ones. Owners tell us about staff running parallel Excel sheets because the POS cannot handle a combo rule, managers exporting data every night to build the report they actually need, or a franchise model where royalty and central kitchen billing are done by hand.`,
+        `The signals that a custom build is worth pricing are practical ones. Look for staff keeping a parallel Excel sheet because the POS cannot handle a combo rule, a manager exporting data every night to build the one report the owner actually reads, or a franchise model where royalty and central kitchen billing are still worked out by hand.`,
       ],
       list: [
         "Per-outlet fees and add-on charges are growing faster than your outlets",
@@ -246,7 +246,7 @@ const content: FreelanceContent = {
         `You do. The source code sits in a repository you own, the cloud account and database are in your business name, and the domain for the back office is registered to you. Guest phone numbers and order history are your customer list, not a vendor’s.`,
         `That matters more in restaurants than people expect. Your order history is the base for loyalty offers, menu engineering and forecasting. When it lives in your own PostgreSQL database, you can query it, move it to another developer, or connect it to a loyalty app later without asking anyone’s permission.`,
         `At handover you receive repository access, admin logins, a hardware and printer settings sheet, a short staff manual in English and Hindi, and a list of every paid cloud service with its renewal date. The first five months of maintenance are free; after that care is optional, from ${P.care}. If you would rather have another team maintain it, the code and documentation let them take over.`,
-        `One more point on data: guests should know why you collect their number. A short line on the bill or feedback page explaining that the number is used for e-bills and offers they agree to keeps you on the right side of India’s data protection rules and of WhatsApp’s messaging policy.`,
+        `One more point on data: guests should know why you collect their number. We can add a short line on the bill or feedback page explaining that the number is used for e-bills and for offers the guest agrees to, plus an opt-out. What that notice must say under India’s data protection law and WhatsApp’s messaging policy is for your own lawyer to confirm; the software simply records each guest’s consent.`,
       ],
     },
     {
@@ -339,7 +339,7 @@ const content: FreelanceContent = {
   areas: {
     eyebrow: "Across India",
     heading: "Restaurant POS software for food businesses in these cities",
-    note: "All work is remote. These city pages describe what local businesses there usually ask us to build.",
+    note: "All work is remote. Each city page covers the local business scene and the software and web work that fits it.",
     cards: [
       { name: "Restaurant POS software in Hyderabad", note: "Biryani houses, Irani cafés and a large cloud-kitchen scene mean heavy delivery volume, so KOT queues that merge dine-in and aggregator orders matter here.", href: "/hyderabad/" },
       { name: "Restaurant POS software in Bengaluru", note: "Microbreweries, darshinis and multi-brand cloud kitchens across the city need bar tabs, fast counter billing and brand-wise reports from the same kitchen.", href: "/bengaluru/" },
@@ -413,7 +413,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Outgrown your restaurant POS? Tell us how your kitchen runs",
-    note: `Send us your outlet count, kitchen stations and what the current POS cannot do. You will get a module-wise quote in about two working days, with custom POS builds starting at ${P.software}, code and data in your name, and five months of free maintenance after go-live.`,
+    note: `Message us on WhatsApp with your outlet count, kitchen stations and what the current POS cannot do. You will get a module-wise quote in about two working days, with custom POS builds starting at ${P.software}, code and data in your name, and five months of free maintenance after go-live.`,
   },
 };
 

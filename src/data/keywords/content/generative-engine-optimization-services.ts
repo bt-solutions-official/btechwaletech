@@ -38,7 +38,7 @@ const content: FreelanceContent = {
     ["First audit", "Usually inside the first two weeks"],
     ["Measured in", "GA4 channel group and Search Console"],
     ["You own", "Site, Search Console, GA4, all content"],
-    ["Contract style", "Month to month, terms in your written quote"],
+    ["Contract terms", "Set out in your written quote"],
   ],
   stats: [
     { value: "4", label: "AI answer engines we check your queries in" },
@@ -406,7 +406,7 @@ const content: FreelanceContent = {
     { question: "Do you work with businesses outside India?", answer: `Yes. Generative engine optimization works the same for a firm in the UK, US, UAE or Australia, with directories and publications chosen for that market. Pricing is in USD, from ${P.seoUsd} for monthly SEO with GEO focus, and payment is by Wise, bank wire or PayPal. We work remotely and keep calls within overlapping hours.` },
     { question: "Can GEO hurt my Google rankings?", answer: "Done properly, no. Clearer headings, direct answers, accurate schema, faster rendering and consistent business data are all things Google’s own guidance supports. What can hurt is the shortcut version: hidden text, schema that does not match the page, bulk low-value articles or paid link schemes. Our generative engine optimization services avoid all of those." },
     { question: "How is Perplexity different from ChatGPT for GEO?", answer: "Perplexity shows its sources prominently and fetches pages live, so fresh, specific and well-sourced pages tend to surface quickly. Its crawler, PerplexityBot, respects robots.txt, while user-triggered fetches may not. ChatGPT search depends on OAI-SearchBot access and other search sources. The fundamentals overlap, but we test both separately because results often differ for the same question." },
-    { question: "Is there a contract or lock-in for GEO work?", answer: "Engagements run month to month. Any notice period or special condition is written into your quote before you approve it, and our terms page covers the general rules. All pages, schema, profiles and analytics stay in your accounts, so stopping costs you nothing in lost assets. Ask on WhatsApp if you need a signed NDA before sharing data." },
+    { question: "Is there a contract or lock-in for GEO work?", answer: "The length of the engagement, any notice period or special condition is written into your quote before you approve it, and our terms page covers the general rules. All pages, schema, profiles and analytics stay in your accounts, so stopping costs you nothing in lost assets. Ask on WhatsApp if you need a signed NDA before sharing data." },
     { question: "AI search mein apna business kaise dikhaye?", answer: `Pehle check karein ki aapki website ChatGPT aur Perplexity ke crawlers ko block to nahi kar rahi. Phir apna naam, address aur phone har jagah ek jaisa rakhein, har service page par seedhe sawal-jawab likhein, aur trusted directories par listing banayein. BtechWaleTech yeh kaam monthly SEO ke andar ${P.seo} se karta hai, aur GA4 mein AI traffic alag se dikhata hai.` },
     { question: "What is the difference between GEO and AI Overview optimisation?", answer: "AI Overview optimisation focuses only on Google, where normal indexing, snippet eligibility and strong answer passages decide inclusion, and results show inside Search Console totals. Generative engine optimization covers every engine: Google plus ChatGPT, Perplexity, Gemini and Copilot, each with its own crawler and index. If Google is your only channel, the narrower service may be enough." },
   ],

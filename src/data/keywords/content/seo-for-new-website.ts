@@ -228,7 +228,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Build the technical foundation into the templates, because every page you add later inherits it. Retrofitting speed and structured data across hundreds of pages is slow; getting the template right once costs almost nothing extra during a build.`,
         `Speed first. Google's web.dev guidance sets the “good” Core Web Vitals marks at a Largest Contentful Paint of 2.5 seconds or less, Interaction to Next Paint of 200 milliseconds or less and Cumulative Layout Shift of 0.1 or less, measured at the 75th percentile of page loads. On Indian mobile networks and entry-level phones those targets are easier to hit with lean static templates than with heavy page builders.`,
-        `Mobile next. Google indexes the mobile version of your pages, so anything missing on mobile is effectively missing. Then structured data: Organization or LocalBusiness on the home page, Service or Product on the relevant templates, BreadcrumbList everywhere, and FAQ markup only where the page genuinely answers questions.`,
+        `Mobile next. Google indexes the mobile version of your pages, so anything missing on mobile is effectively missing. Then structured data: Organization or LocalBusiness on the home page, Service or Product on the relevant templates, BreadcrumbList everywhere, and FAQ markup only where the page genuinely answers questions, bearing in mind that Google now shows FAQ rich results mainly for well-known government and health sites.`,
         `Finally, housekeeping: one canonical version of each URL, HTTPS everywhere, a sitemap that lists only pages you want indexed, and a robots.txt that does not block CSS or JavaScript the pages need to render.`,
       ],
       after: [

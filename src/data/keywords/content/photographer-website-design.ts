@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       heading: "What should photographer website design do beyond showing photos?",
       paragraphs: [
         `It should move a visitor from admiring your work to asking about a specific date. Beautiful photos are the entry ticket; every photographer in your city has them. What separates a site that books from one that only impresses is how quickly it answers three silent questions: do they shoot my kind of event, can I afford them, and are they free on my date.`,
-        `Most photography sites we are asked to rebuild answer none of those clearly. The home page is a full-screen slideshow with no text, the portfolio mixes weddings, babies and product shots in one grid, packages are hidden behind “contact for pricing”, and the only form asks for name, email and message. A couple planning a December wedding in Udaipur leaves without knowing whether you travel, what a two-day function costs, or whether you are already booked.`,
+        `A typical underperforming photography site answers none of those clearly. The home page is a full-screen slideshow with no text, the portfolio mixes weddings, babies and product shots in one grid, packages are hidden behind “contact for pricing”, and the only form asks for name, email and message. A couple planning a December wedding in Udaipur leaves without knowing whether you travel, what a two-day function costs, or whether you are already booked.`,
         `So our photographer website design work starts with a short list of your bookings from last season: which shoots paid best, which enquiries wasted your evenings, and which cities or venues you want more of. That list decides the navigation, the order of galleries and the questions in the enquiry form. The visual design stays quiet and neutral so your colour grading carries the page.`,
       ],
     },
@@ -154,7 +154,7 @@ const content: FreelanceContent = {
       id: "pricing-pages",
       heading: "Should photographers show prices on their website?",
       paragraphs: [
-        `Yes, at least starting prices or package ranges, because a visible “starts at” figure filters out enquiries that were never going to book. Photographers worry that showing prices scares people away. In practice it mostly scares away people who would have ghosted after your quote anyway.`,
+        `Yes, at least starting prices or package ranges, because a visible “starts at” figure filters out enquiries that were never going to book. Photographers worry that showing prices scares people away. A published starting point mainly discourages people whose budget was never close, which leaves your evenings for couples who can actually book.`,
         `A package page that works lists what each tier covers in hours, events, photographers, edited images, album and delivery time, and shows where the price begins. Customisation still happens in the conversation. For destination and multi-day weddings, a “from” figure plus the factors that change it (travel, second shooter, cinematography, drone) is honest and useful.`,
         `Commercial pricing is better shown per unit: per product on white, per look for fashion, per half-day for corporate events, with usage and licensing explained separately. Brands appreciate seeing that you understand usage rights; it signals you have done this before.`,
         `If you prefer not to publish numbers at all, the enquiry form can ask for a budget band instead. That still gives you the qualifying signal without a public price list. We build whichever you choose, and the prices stay in a simple file you or we can update in minutes.`,
@@ -166,7 +166,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Ask for the date before the name. A wedding photographer’s scarcest resource is the calendar, so the form should lead with the event date or date range, city and venue, then number of functions, guest count, budget band and how the couple found you. Name and phone come last, when the visitor is already invested.`,
         `On submit, the lead lands in three places: your WhatsApp as an instant alert, your email as a record, and a simple sheet or CRM so nothing is lost during peak season. If you already block dates in a calendar, the form can check it and tell the visitor “that date is open, we will confirm within a day” or “we are booked on that date; would you like our associate team?” That second message saves a lead you would otherwise lose.`,
-        `For commercial work the equivalent is a brief form: product count, shoot type, usage (website, marketplace listings, print, outdoor), deadline and whether a stylist is needed. We keep both forms short on screen by revealing questions step by step. Hook-ups to a CRM are covered on our <a href='/website-crm-integration/'>website and CRM integration</a> page, and WhatsApp alerts are standard on every build.`,
+        `For commercial work the equivalent is a brief form: product count, shoot type, usage (website, marketplace listings, print, outdoor), deadline and whether a stylist is needed. We keep both forms short on screen by revealing questions step by step. Hook-ups to a CRM are covered on our <a href='/website-crm-integration/'>website and CRM integration</a> page, and the WhatsApp alert is listed as a line item in your quote.`,
       ],
     },
     {
@@ -202,7 +202,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Under Indian law the default may surprise you. Section 17(b) of the Copyright Act, 1957 says that where a photograph is taken for valuable consideration at the instance of any person, that person is the first owner of the copyright, in the absence of any agreement to the contrary. In plain terms, a paying client can own the copyright of a commissioned shoot unless your contract says otherwise.`,
         `That is why most working photographers put ownership and portfolio-use terms in their booking contract. A website cannot fix a missing clause, but it can support a good one: the booking page can link to your terms, the enquiry confirmation can mention them, and the private gallery can repeat the usage rights next to the download button. Please get the contract wording from your own lawyer; we build the pages, we do not draft legal terms.`,
-        `Faces are also personal data. The Digital Personal Data Protection Act, 2023 applies to digital personal data, and the DPDP Rules, 2025 were notified in November 2025 with obligations phased in over the following months. For a photography site, that means collecting only what the enquiry needs, stating why you collect it, keeping private galleries unindexed and behind a PIN, and removing a gallery when a client asks. We build those controls in; whether your practice complies is a question for your adviser.`,
+        `Faces are also personal data. The Digital Personal Data Protection Act, 2023 applies to digital personal data, and the DPDP Rules, 2025 were notified in November 2025, with most obligations taking effect eighteen months after notification. For a photography site, that means collecting only what the enquiry needs, stating why you collect it, keeping private galleries unindexed and behind a PIN, and removing a gallery when a client asks. We build those controls in; whether your practice complies is a question for your adviser.`,
       ],
     },
     {
@@ -212,7 +212,7 @@ const content: FreelanceContent = {
         `People search “candid wedding photographer in Jaipur”, “pre-wedding shoot Rishikesh” or “product photographer for Amazon listings Surat”, and each of those needs a page that genuinely answers it. A single portfolio page cannot rank for all of them.`,
         `Our photographer website design includes a page structure built around how clients search: category pages (wedding, pre-wedding, maternity, product, food), city pages for places you actually work, and story pages named after the couple’s first names plus the venue and city. Venue pages are especially strong: a couple who has booked a heritage hotel often searches for photographers who have shot there before.`,
         `Technical basics come included: descriptive filenames and alt text, an image sitemap, LocalBusiness and ImageObject structured data, and Google Search Console set up in your name. Google’s image guidelines note that an image sitemap helps discovery, and we submit one at launch.`,
-        `Your Google Business Profile often brings more calls than the website itself, so the two should agree on name, phone, categories and service areas. Our <a href='/google-business-profile-expert/'>Google Business Profile</a> page explains the listing side. Nobody can honestly guarantee rankings; what we can do is build pages that deserve to rank and track them in Search Console.`,
+        `Your Google Business Profile is often the first thing a couple sees in Maps, so the two should agree on name, phone, categories and service areas. Our <a href='/google-business-profile-expert/'>Google Business Profile</a> page explains the listing side. Nobody can honestly guarantee rankings; what we can do is build pages that deserve to rank and track them in Search Console.`,
       ],
     },
     {
@@ -242,11 +242,11 @@ const content: FreelanceContent = {
       subs: [
         { heading: "Days 1–2: Brief and selection", text: "We ask for your best 15–25 images per category, your packages, the cities you work in and last season’s enquiry pain points. You receive a sitemap and a written plan." },
         { heading: "Days 3–5: Layout and gallery build", text: "Page templates, the image pipeline and the enquiry form are built on a private preview link you can open on your own phone." },
-        { heading: "Days 6–9: Content and stories", text: "Stories, captions, package pages and SEO text go in. You review on WhatsApp with screenshots or voice notes; we make the changes the same week." },
+        { heading: "Days 6–9: Content and stories", text: "Stories, captions, package pages and SEO text go in. You review on WhatsApp with screenshots or voice notes, and the revised preview follows on the schedule set in your quote." },
         { heading: "Days 10–14: Checks and launch", text: "Speed tests, form tests, Search Console, sitemap and Google Business Profile link. The domain points to the new site and the old one redirects properly." },
       ],
       after: [
-        `After launch, five months of maintenance are free: new stories, package changes and fixes. For how long a general site takes, see <a href='/how-long-to-build-a-website/'>how long to build a website</a>.`,
+        `After launch, five months of maintenance are free; your written quote lists what that covers, such as fixes and small updates. For how long a general site takes, see <a href='/how-long-to-build-a-website/'>how long to build a website</a>.`,
       ],
     },
     {
@@ -283,7 +283,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Say a husband-and-wife team in Indore shoots about thirty weddings a season across Madhya Pradesh and Rajasthan, plus some product work for local brands in the off-season. They have a strong Instagram following, a free builder site nobody updates, and a phone full of “rate kya hai?” messages with no dates. This is a made-up scenario to show how we would plan it.`,
         `We would split the home page into “Weddings” and “Brands”. The wedding side gets ten full stories grouped by city, four package tiers with starting prices they set, and a date-first form that pings both partners on WhatsApp. The brand side gets product, food and catalogue galleries, a per-product price guide and a brief form. City pages for Indore, Ujjain, Bhopal and Udaipur reflect where they already shoot. Proofing links to their existing gallery tool with matching branding.`,
-        `Scope would sit inside the static plan from ${P.site}, with roughly two weeks of build once they send image selections. After launch, the free maintenance months cover adding new stories through the season. What they measure is simple: enquiries that include a date, and how many of those turn into advance payments. That number, not page views, tells them whether the photographer website design is doing its job.`,
+        `Scope would sit inside the static plan from ${P.site}, with roughly two weeks of build once they send image selections. After launch, the five free maintenance months cover fixes and small updates, as the quote spells out. What they measure is simple: enquiries that include a date, and how many of those turn into advance payments. That number, not page views, tells them whether the photographer website design is doing its job.`,
       ],
     },
     {
@@ -380,12 +380,12 @@ const content: FreelanceContent = {
   process: {
     heading: "How we deliver photographer website design, step by step",
     steps: [
-      ["Share your best work", "Send 15–25 images per category, your packages, the cities you cover and screenshots of typical enquiries. We reply on WhatsApp with questions the same day or the next."],
+      ["Share your best work", "Send 15–25 images per category, your packages, the cities you cover and screenshots of typical enquiries. We come back on WhatsApp with any questions; the team replies 7 days a week, IST."],
       ["Get an itemised quote", "Within about two working days you receive the page list, gallery approach, proofing option and a starting price. Nothing is billed until you approve it in writing."],
       ["Review a live preview", "We build on a private link so you judge the galleries on your own phone, on mobile data, the way couples and brand managers will."],
-      ["Add stories and packages", "Stories, captions, packages and SEO text go in. You mark changes by screenshot or voice note, and we update the preview the same week."],
+      ["Add stories and packages", "Stories, captions, packages and SEO text go in. You mark changes by screenshot or voice note, and the updated preview follows on the agreed schedule."],
       ["Launch with checks", "Speed, forms, redirects, Search Console, sitemap and Google Business Profile link are all tested before the domain switches over."],
-      ["Keep it fresh", "For five months after launch we add new stories and change packages for free; after that, optional care starts at the maintenance plan price."],
+      ["Keep it fresh", "Maintenance is free for five months after launch, with the scope written into your quote; after that, optional care starts at the maintenance plan price."],
     ],
   },
   faqHeading: "Photographer website design: questions photographers ask",
@@ -407,7 +407,7 @@ const content: FreelanceContent = {
     { question: "Can you build one website for both wedding and commercial photography?", answer: "Yes, and it works well when the two audiences get separate paths. Couples see wedding stories, packages and a date-first form; brands see product, food or corporate categories, per-unit pricing and a brief form. Shared pages such as about, team and contact stay common, which keeps maintenance simple." },
     { question: "Is a freelancer or an agency better for a photography website?", answer: "For most photographers, a small freelance team is enough, because the work is a focused site with galleries, packages and an enquiry flow, not a large software project. What matters more is that whoever builds it understands image performance and lead capture. BtechWaleTech is three freelance developers; you speak directly to the people doing the work." },
     { question: "Can you redesign my existing photography website without losing Google traffic?", answer: "Yes. We list every existing URL, keep the ones that already get traffic, and set up permanent redirects for pages that move. Image filenames and alt text are improved, not thrown away. After launch we watch Search Console for errors. Some fluctuation for a few weeks is normal after any redesign, and we explain what we see." },
-    { question: "Can I update galleries myself after launch?", answer: "Yes, if you want to. We can add a simple upload form or a lightweight content editor so you can add a story, a gallery or a new package without touching code. Many photographers prefer to send new selections to us instead, which is free during the first five months after launch." },
+    { question: "Can I update galleries myself after launch?", answer: "Yes, if you want to. We can add a simple upload form or a lightweight content editor so you can add a story, a gallery or a new package without touching code. You can also send new selections to us; small updates like this during the five free maintenance months are covered as your quote describes." },
     { question: "How do I pay, and is there a written contract?", answer: "You get an itemised written quote listing pages, galleries, features and timeline, and nothing is billed until you approve it. Photographers in India pay by UPI or bank transfer; clients abroad pay by Wise, bank wire or PayPal in USD. Anything specific, such as change requests or confidentiality, is agreed in your written quote, with general conditions on our terms page." },
     { question: "What happens after the five months of free maintenance?", answer: `Nothing changes automatically. You can keep the site running on your own hosting with no further payment to us, or choose optional care from ${P.care} for new stories, updates, backups and small changes. Because you own the code and accounts, you are free to hire anyone else later.` },
     { question: "Photographer ki website banwane me kitna time aur kharcha lagta hai?", answer: `Ek simple photography portfolio website, jisme galleries, packages aur date wala enquiry form ho, usually ek se do hafte me ban jaati hai aur ${P.site} se start hoti hai. Client proofing gallery ya print selling add karne par time aur kharcha dono badhte hain. Quote itemised milta hai, lagbhag do working days me.` },

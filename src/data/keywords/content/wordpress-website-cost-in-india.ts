@@ -41,7 +41,7 @@ const content: FreelanceContent = {
     ["Quote format", "Itemised, in about 2 working days"],
   ],
   stats: [
-    { value: "8", label: "Cost lines on a complete WordPress budget" },
+    { value: "10", label: "Cost lines to check on any WordPress quote" },
     { value: "5", label: "Months of free maintenance after launch" },
     { value: "2", label: "Working days to an itemised quote" },
     { value: "0", label: "Lines billed before your written approval" },
@@ -138,8 +138,8 @@ const content: FreelanceContent = {
       heading: "How much of the WordPress budget goes on the domain name?",
       paragraphs: [
         `The domain is the smallest line on the budget, but the one most often lost. Register it yourself, in your own name and email, and set it to auto-renew.`,
-        `A .in or .co.in domain is the natural choice for a business serving Indian customers. The .IN registry is operated under the authority of NIXI, the National Internet Exchange of India, which the Government of India appointed as registry in 2005, according to registry.in. You buy through any accredited registrar, and there is no residency requirement for a standard .in name.`,
-        `Registrars often show a low first-year price and a higher renewal price in smaller text. Compare renewal prices, because you will pay them every year. Avoid adding extras you do not need, such as paid privacy packages on domains where the registry already limits public data, or bundled “website builders” you will never use.`,
+        `A .in or .co.in domain is the natural choice for a business serving Indian customers. The .IN registry is run by NIXI, the National Internet Exchange of India, and you register the name through any accredited registrar rather than through NIXI directly. A .com makes sense if you also sell abroad; many businesses hold both and point one at the other.`,
+        `Registrars often show a low first-year price and a higher renewal price in smaller text. Compare renewal prices, because you will pay them every year. Before checkout, untick extras you have no use for, such as bundled “website builders”, extra mailboxes you will not open or add-on tools your hosting already provides.`,
         `If a developer offers to register the domain for you, insist that it sits in your registrar account. A domain in someone else’s account is the most painful thing to recover when a relationship ends.`,
       ],
     },
@@ -227,7 +227,7 @@ const content: FreelanceContent = {
         "Who pays to fix the site if an update breaks it after handover",
       ],
       after: [
-        `Our quotes answer every item on this list upfront. Anything uncertain, such as payment provider fees, is named with the provider so you can check the current rate yourself. For contract structure, see <a href='/fixed-price-vs-time-and-material/'>fixed price vs time and material</a>.`,
+        `Ask us about any item on this list and the answer goes into your written quote. Anything uncertain, such as payment provider fees, is named with the provider so you can check the current rate yourself. For contract structure, see <a href='/fixed-price-vs-time-and-material/'>fixed price vs time and material</a>.`,
       ],
     },
     {
@@ -273,7 +273,7 @@ const content: FreelanceContent = {
       heading: "WordPress website cost across Indian cities",
       paragraphs: [
         `Our WordPress prices are the same whether you are in a metro or a small town, because we work remotely and have no office rent to pass on. What changes by city is the kind of site businesses need.`,
-        `We build WordPress sites for businesses in places like <a href='/kanpur/'>Kanpur</a>, <a href='/jodhpur/'>Jodhpur</a>, <a href='/ludhiana/'>Ludhiana</a>, <a href='/madurai/'>Madurai</a>, <a href='/raipur/'>Raipur</a>, <a href='/ranchi/'>Ranchi</a>, <a href='/patna/'>Patna</a>, <a href='/thiruvananthapuram/'>Thiruvananthapuram</a>, <a href='/rajkot/'>Rajkot</a> and <a href='/varanasi/'>Varanasi</a>. Manufacturers there often need catalogue pages and enquiry forms; clinics and coaching centres need location and timing pages; exporters need English-first sites with clear product specs.`,
+        `Businesses can hire us for a WordPress site from places like <a href='/kanpur/'>Kanpur</a>, <a href='/jodhpur/'>Jodhpur</a>, <a href='/ludhiana/'>Ludhiana</a>, <a href='/madurai/'>Madurai</a>, <a href='/raipur/'>Raipur</a>, <a href='/ranchi/'>Ranchi</a>, <a href='/patna/'>Patna</a>, <a href='/thiruvananthapuram/'>Thiruvananthapuram</a>, <a href='/rajkot/'>Rajkot</a> and <a href='/varanasi/'>Varanasi</a>. Manufacturers there often need catalogue pages and enquiry forms; clinics and coaching centres need location and timing pages; exporters need English-first sites with clear product specs.`,
         `Whatever the city, Indian visitors mostly arrive on phones, often mid-range Android handsets. That shapes the budget: fewer heavy features, lighter images, WhatsApp and call buttons in reach, and UPI checkout for stores.`,
       ],
     },
@@ -405,7 +405,7 @@ const content: FreelanceContent = {
     { question: "What does a WordPress AMC cost and include?", answer: `With us, maintenance starts at ${P.care} after five months of free maintenance. A proper plan includes updates tested on staging, off-server backups, uptime and security monitoring, and small content edits. Ask any provider where backups are stored, whether updates are staged, how many edits are included and whether hosting or licences are inside the fee.` },
     { question: "Should I buy a premium theme or pay for custom design?", answer: "Buy a premium theme if the site is small, the budget is tight and a standard layout works for now. Pay for custom design if the site must last several years, load fast, and look clearly yours. A custom theme costs more to build but removes the theme licence renewal and the extra code many multipurpose themes carry." },
     { question: "Do I need to pay for premium plugins?", answer: "Often not. Many sites run well on free, well-maintained plugins for SEO, forms, caching and backups. Pay for a premium plugin only when a feature is genuinely needed, such as advanced booking, a page builder your team relies on, or store extensions. Every licence should be in your name, and your quote should list its renewal terms." },
-    { question: "Are there hidden costs in a WordPress website?", answer: "There can be, if nobody asks. Watch for renewal prices higher than first-year offers, GST added on top, extra charges for content entry or design revisions, old-site migration, business email, payment provider fees and notification costs such as SMS or WhatsApp messages. Ask about each in writing before paying anything. Our quotes list them upfront." },
+    { question: "Are there hidden costs in a WordPress website?", answer: "There can be, if nobody asks. Watch for renewal prices higher than first-year offers, GST added on top, extra charges for content entry or design revisions, old-site migration, business email, payment provider fees and notification costs such as SMS or WhatsApp messages. Ask about each in writing before paying anything, and expect the answers to appear in the quote itself." },
     { question: "Is GST added to the WordPress website cost?", answer: "Ask every provider whether their quote includes GST or adds it on the invoice, because practice varies. Our written quote states clearly how tax is handled for your project. For your own business accounting, such as claiming input credit, please check with your accountant; we do not give tax advice." },
     { question: "How long does it take to build a WordPress website?", answer: "A business WordPress site of up to 100 pages usually takes 1–2 weeks once content is ready. SEO sites of 299+ pages take 3–5 weeks, and WooCommerce stores 4–8 weeks. Time depends mostly on how quickly content, photos and approvals arrive, so we share a content checklist at the start." },
     { question: "Is WordPress cheaper than Shopify in India?", answer: "For business and content sites, WordPress is usually cheaper over several years because the software is free and hosting is competitive. For stores, it depends: Shopify includes hosting and security in its subscription but adds app fees, while WooCommerce needs better hosting and more care. Compare a three-year total for your catalogue size before choosing." },

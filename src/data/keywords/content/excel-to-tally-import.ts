@@ -66,7 +66,7 @@ const content: FreelanceContent = {
   services: {
     eyebrow: "Import work",
     heading: "Excel to Tally import work we do",
-    note: "Some clients need a one-time migration, others a tool their staff run every month. The quote says which pieces you need.",
+    note: "Some businesses need a one-time migration, others a tool their staff run every month. The quote says which pieces you need.",
     cards: [
       { name: "Monthly import tool", note: "A desktop or browser tool that reads your monthly Excel, validates every row, shows errors in plain language, and imports only when the file is clean.", size: "lg" },
       { name: "Template design", note: "An Excel layout built around how your data really arrives, with drop-downs, fixed date formats and one clear rule per column, so staff fill it right the first time.", size: "lg" },
@@ -124,7 +124,7 @@ const content: FreelanceContent = {
       id: "methods",
       heading: "Four ways to do Excel to Tally import",
       paragraphs: [
-        `Choose by how often the file arrives, how clean it is, and how costly a mistake would be. Most businesses move from the first option to the fourth as volume grows.`,
+        `Choose by how often the file arrives, how clean it is, and how costly a mistake would be. As volume grows, the sensible move is usually further down this list.`,
       ],
       subs: [
         { heading: "TallyPrime’s own Excel import", text: "Free, built in, mapping templates and an exceptions report. Best for clean files in a stable format." },
@@ -211,7 +211,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Validate every row against your Tally masters and your rules first, and import nothing until the file is clean or the exceptions are accepted. Fixing a spreadsheet is minutes; reversing hundreds of wrong vouchers is days.`,
         `The tool produces a report grouped by problem type rather than by row: twelve rows with an unknown party, three invoices where line totals do not match the invoice total, one date outside the financial year. Staff fix the source and run the check again. Only a clean file, or one where someone has approved the remaining warnings, goes further.`,
-        `The validation table below lists the checks we build in by default. Many clients add their own, such as blocking sales below a minimum rate, which is similar to what a <a href='/tally-tdl-developer/'>TDL validation</a> does for manual entries.`,
+        `The validation table below lists the checks we build in by default. You can add your own, such as blocking sales below a minimum rate, which is similar to what a <a href='/tally-tdl-developer/'>TDL validation</a> does for manual entries.`,
       ],
     },
     {
@@ -255,7 +255,7 @@ const content: FreelanceContent = {
       heading: "One-time migration: moving old books into TallyPrime through Excel",
       paragraphs: [
         `A migration is an Excel to Tally import done once, with a cut-off date, and judged by a single test: does the opening trial balance in Tally match the closing trial balance of the old system to the rupee? Everything else serves that test.`,
-        `The order is fixed. First the chart of accounts, mapped from the old system’s groups to Tally’s groups, which is a decision for your CA rather than a developer. Then party ledgers with GST details, then stock items with units and HSN, then opening balances, including bill-wise opening bills for debtors and creditors so ageing reports work from day one. Transaction history is optional: many businesses bring only the current year and archive older years as reports.`,
+        `The order is fixed. First the chart of accounts, mapped from the old system’s groups to Tally’s groups, which is a decision for your CA rather than a developer. Then party ledgers with GST details, then stock items with units and HSN, then opening balances, including bill-wise opening bills for debtors and creditors so ageing reports work from day one. Transaction history is optional: you may bring only the current year and archive older years as reports.`,
         `We export the old system’s data to Excel, clean and map it in the tool, import into a test company, and produce a side-by-side trial balance for your accountant. Differences are traced before anything goes live. Stock needs its own check, quantity and value by item and godown, because an inventory mismatch on the first day distorts every margin report afterwards.`,
         `Plan the cut-off at a month-end or year-end, freeze the old system for new entries on that date, and keep it available read-only for a few months in case someone needs to look something up.`,
       ],
@@ -392,7 +392,7 @@ const content: FreelanceContent = {
     { question: "Is Excel to Tally import safe for my books?", answer: "It is when you validate first, back up before each run and import into a test copy before the live company. Batch numbers let you find and reverse an import if something slips through. Importing unchecked files straight into live books is where the real risk lies, not the import itself." },
     { question: "Can a CA firm use one import tool for many clients?", answer: "Yes. Each client can have its own configuration of templates, mapping rules and Tally company, while the tool itself stays the same. Clients keep sending the exports they already produce, and the firm receives clean exception lists to send back. That keeps rules separate and makes onboarding a new client quicker." },
     { question: "Do I need to change my billing software for Excel import?", answer: "Usually not. A custom tool can read the export your billing software already produces and convert it, so staff keep their routine. If the export lacks something essential, such as GSTIN or HSN, we suggest a small change to the export or a lookup from Tally masters instead." },
-    { question: "Excel import or live integration: which is better?", answer: "Excel import suits data that arrives weekly or monthly, or from software without an API. Live integration suits data that arrives continuously from systems with APIs, such as websites or CRMs. Many businesses start with imports and move the busiest source to a live link once volumes justify it." },
+    { question: "Excel import or live integration: which is better?", answer: "Excel import suits data that arrives weekly or monthly, or from software without an API. Live integration suits data that arrives continuously from systems with APIs, such as websites or CRMs. Starting with imports and moving the busiest source to a live link once volumes justify it is a sensible path." },
     { question: "Can old data be migrated from other software into TallyPrime?", answer: "Yes. A migration moves ledgers, items and opening balances, and optionally transaction history, from another accounting package or spreadsheets. It is planned differently from monthly imports: cut-off dates, balance checks and a trial balance comparison matter most. Your CA should sign off the opening trial balance before live use." },
     { question: "Does Excel to Tally import work with Tally.ERP 9?", answer: "Custom import tools can post to Tally.ERP 9 through its XML interface, which older releases also support. TallyPrime’s built-in Excel import is not available in Tally.ERP 9. If you are planning to move to TallyPrime soon, build the import so it can run on both during the changeover." },
     { question: "How long does it take to set up an Excel to Tally import tool?", answer: "Two to four weeks is typical for a custom tool covering one or two voucher types, including a dry run on a copy of your Tally company and one real month with us watching the reports. Agreeing GST and rounding rules with your accountant often takes longer than the coding, so share sample files and rules early." },

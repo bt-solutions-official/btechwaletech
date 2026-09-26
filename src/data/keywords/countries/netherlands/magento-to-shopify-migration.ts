@@ -108,7 +108,7 @@ const content: FreelanceContent = {
         `A Magento to Shopify migration is the move of a working webshop, its data, its URLs and its connections, from a self-hosted Magento install to Shopify's hosted platform. It is not a redesign with some copying on the side. The design is the easy part; the risk sits in the data, the redirects and the integrations that quietly keep your business running.`,
         `Think of it in three layers. The <strong>data layer</strong> is products, variants, images, customers, orders, reviews and CMS pages. The <strong>visibility layer</strong> is every URL google.nl has indexed, plus structured data, sitemaps and the Merchant Center feed. The <strong>operations layer</strong> is payments, shipping labels, bol.com, your ERP or bookkeeping package, and the emails customers receive.`,
         `A migration that handles only the first layer looks fine on launch day and then leaks: traffic drops because old URLs return 404s, orders stop reaching the warehouse, bol.com oversells because stock no longer syncs. That is why we plan all three layers together and write down, before a single product moves, what happens to each one.`,
-        `Most Dutch stores we hear from are either still on Magento 1, which Adobe stopped supporting on 30 June 2020, or on an older Magento 2 release that is coming out of support. Either way the trigger is the same: the cost and effort of keeping Magento safe has overtaken the value of its flexibility. If you run WooCommerce instead, the <a href='/woocommerce-to-shopify-migration/'>WooCommerce to Shopify migration</a> follows a similar logic with different data quirks.`,
+        `The usual starting point is either Magento 1, which Adobe stopped supporting on 30 June 2020, or an older Magento 2 release that is coming out of support. Either way the trigger is the same: the cost and effort of keeping Magento safe has overtaken the value of its flexibility. If you run WooCommerce instead, the <a href='/woocommerce-to-shopify-migration/'>WooCommerce to Shopify migration</a> follows a similar logic with different data quirks.`,
       ],
     },
     {
@@ -128,7 +128,7 @@ const content: FreelanceContent = {
       id: "what-data-moves",
       heading: "What data can you migrate from Magento to Shopify, and what stays behind?",
       paragraphs: [
-        `Products, variants, images, collections, customers, order history, discount codes, blog posts and CMS pages can all be moved from Magento to Shopify. Customer passwords cannot: Shopify's own migration guide states they cannot be migrated in a usable format, so customers either receive an account activation email or reset their password at first login.`,
+        `Products, variants, images, collections, customers, order history, discount codes, blog posts and CMS pages can all be moved from Magento to Shopify. Customer passwords cannot: Magento stores them as one-way hashes that Shopify cannot read, so migrated accounts arrive inactive and customers either accept an activation email or sign in with Shopify's one-time email code, depending on the account type you choose.`,
         `The order of the import matters. Products go first because orders refer to them. Customers go second so that orders can attach to the right person. Historic orders go last, and they arrive as a record of what happened rather than as live orders that trigger emails, payments or fulfilment. We switch notifications off during import so nobody receives a confirmation for a parcel sent in 2021.`,
       ],
       list: [
@@ -228,7 +228,7 @@ const content: FreelanceContent = {
       id: "shopify-or-plus",
       heading: "Shopify or Shopify Plus after Magento: which plan fits?",
       paragraphs: [
-        `Most Dutch stores leaving Magento fit a standard Shopify plan; Shopify Plus is worth it when you hit specific limits, not because you used to run an enterprise platform. Many Magento 2 stores were over-specified for their actual order volume, and the move is a chance to right-size.`,
+        `Most Dutch stores leaving Magento fit a standard Shopify plan; Shopify Plus is worth it when you hit specific limits, not because you used to run an enterprise platform. If your Magento 2 set-up was sized for growth that never came, the move is a chance to right-size.`,
         `Plus tends to earn its fee in a few situations: you need more than 100,000 redirects, which the Help Center lists as the standard store limit; you want several expansion stores under one organisation, for example a separate Belgian or German shop; your B2B side needs company accounts and price lists at scale; or you want deeper checkout customisation. Shopify's plan comparison pages list the current feature split, and it changes, so we check them for your case at quote time.`,
       ],
       list: [
@@ -285,7 +285,7 @@ const content: FreelanceContent = {
       heading: "Magento to Shopify migration cutover: switching a Dutch store in one evening",
       paragraphs: [
         `In a Magento to Shopify migration, cutover is the short window where orders stop on Magento and start on Shopify. Done well it is a few quiet hours; done badly it is a weekend of double orders and angry emails. The trick is rehearsal: by cutover day, every step has already run at least once on test data.`,
-        `Shopify's migration guide recommends planning the DNS move carefully, including lowering the TTL on your domain records ahead of time so the switch spreads quickly. We do that several days before, while your domain stays at your own registrar.`,
+        `Plan the DNS move as carefully as the data. We lower the TTL on your domain records several days ahead so the switch spreads quickly on the night, and your domain stays at your own registrar throughout.`,
       ],
       list: [
         "Evening before: final content freeze on Magento; no new products or price changes.",
@@ -427,7 +427,7 @@ const content: FreelanceContent = {
       id: "phase-owner",
       eyebrow: "Who does what",
       heading: "Migration phases and what we need from you",
-      note: "Most delays come from the right-hand column. Knowing it upfront keeps the cutover date realistic.",
+      note: "The right-hand column lists what only you can supply; having it ready early keeps the cutover date realistic.",
       columns: ["Phase", "We deliver", "You provide"],
       rows: [
         ["Audit", "Data counts, extension list, mapping draft", "Admin and export access, list of must-keep features"],
@@ -440,7 +440,7 @@ const content: FreelanceContent = {
     },
   ],
   areas: {
-    eyebrow: "Dutch stores we migrate remotely",
+    eyebrow: "Remote migrations, nationwide",
     heading: "Magento to Shopify migration for merchants across the Netherlands",
     note: "We work remotely for merchants anywhere in the country; there is no office or site visit. These notes describe the kinds of stores that tend to face each migration question.",
     cards: [
@@ -476,11 +476,11 @@ const content: FreelanceContent = {
     { question: "How much does a Magento to Shopify migration cost?", answer: `With BtechWaleTech a Magento to Shopify migration starts from ${P.shop} and rebuilt integrations such as an ERP or bol.com link start from ${P.software}. The final quote depends on catalogue size, attribute complexity, order history, store views and custom Magento features. Other migration teams quote across a wide range. Compare itemised plans, not single totals, and check whether redirects and rehearsals are included.` },
     { question: "How long does a Magento to Shopify migration take?", answer: "Most migrations for Dutch stores take 5–8 weeks from signed plan to cutover. Stores that need rebuilt ERP, bookkeeping or bol.com connections can run to 10–12 weeks. Decisions about what data to move and approval of the product mapping affect the timeline more than coding does, so we set those decisions as dated milestones in week one." },
     { question: "Will I lose my Google rankings when I move from Magento to Shopify?", answer: "You can lose them if old URLs return 404 errors, which is why every indexed Magento URL needs a 301 redirect to its closest Shopify page. With a complete redirect map, similar content and prompt fixes after launch, most stores keep their visibility. Nobody can honestly guarantee rankings through a replatform, but careful redirects protect what you have earned on google.nl." },
-    { question: "Can customer passwords be migrated from Magento to Shopify?", answer: "No. Shopify's migration guide states that customer passwords cannot be migrated in a usable format. Customer accounts, names, addresses and order history can move, and customers then either receive an account activation email or set a new password when they next log in. We draft that email in plain Dutch-ready wording and schedule it for after cutover." },
+    { question: "Can customer passwords be migrated from Magento to Shopify?", answer: "No. Magento keeps passwords as one-way hashes, so they cannot be carried across in a usable form. Customer accounts, names, addresses and order history can move; customers then accept an activation email or log in with a one-time code, depending on the Shopify account type. We draft the activation email in English for you or your translator to finalise in Dutch, and schedule it for after cutover." },
     { question: "Can I keep Mollie after moving to Shopify?", answer: "Yes. Mollie offers its own Shopify apps for methods including iDEAL and Bancontact, so you can keep your existing Mollie account and reconciliation process. The alternative is Shopify Payments. Shopify may charge an extra transaction fee on orders not processed through Shopify Payments, depending on your plan, so we compare both routes in your plan before you choose." },
     { question: "Do I need Shopify Plus after Magento 2?", answer: "Usually not. Standard Shopify plans suit most stores leaving Magento. Plus becomes worth considering when you need more than the 100,000 URL redirects a standard store allows, several expansion stores, B2B company accounts at scale or deeper checkout customisation. We count your redirects and review your features in the audit, then recommend a plan without any commission involved." },
     { question: "What happens to my order history?", answer: "Historic orders can be imported into Shopify so customers see them in their accounts and your team can look them up. They arrive as records, not live orders, with notifications switched off, so nobody receives old confirmations. You choose how many years to bring over. The original Magento data export stays with you as well." },
-    { question: "What happens to my Magento extensions?", answer: "Each extension is listed in the audit with what it does for you. Then it is either replaced by a Shopify feature, replaced by a maintained Shopify app, rebuilt as custom code, or dropped because nobody uses it. You approve each decision. Extensions that silently disappear during a migration are one of the most common causes of post-launch problems." },
+    { question: "What happens to my Magento extensions?", answer: "Each extension is listed in the audit with what it does for you. Then it is either replaced by a Shopify feature, replaced by a maintained Shopify app, rebuilt as custom code, or dropped because nobody uses it. You approve each decision. An extension that silently disappears during a migration tends to surface later as a broken process nobody can explain." },
     { question: "Is Magento 1 still safe to run?", answer: "Adobe ended support for Magento 1 on 30 June 2020, so official security patches stopped then. Running an unsupported shop platform that handles customer data and payments carries risk, and payment providers or your own security review may flag it. If you are still on Magento 1, a migration to Shopify or an upgrade should be planned rather than postponed further." },
     { question: "When does my Magento 2 version lose support?", answer: "Adobe's Commerce lifecycle policy on Experience League lists the dates per release. It gives each 2.4.x release three years of standard support, and lists 2.4.6 regular support ending on 11 August 2026 and 2.4.7 on 31 May 2027, with some extended support periods. Check the current page for your exact version, because Adobe updates it." },
     { question: "How do you handle the Belgian store view?", answer: "A Belgian store view usually becomes a Shopify market with its own subfolder, such as /nl-be/, with Bancontact for Belgian shoppers. Every old Belgian URL gets its own redirect, because Shopify does not apply redirects across market subfolders automatically. You or your translator supply the Flemish copy; we build the structure and test from a Belgian location." },

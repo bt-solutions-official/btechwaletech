@@ -144,7 +144,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A shared inbox connects your number to the WhatsApp Business API and shows every chat in a web screen that any staff member can log into with their own account. Customers see one business; your team sees who is handling what.`,
         `Each conversation has an owner. When a new chat arrives it is assigned by a rule (more on that below), and only the owner gets the alert. Others can read it, add internal notes the customer never sees, or take it over with one click if the owner is away. A small “typing” marker shows when someone is already replying, which ends the embarrassing double answer.`,
-        `Because staff log in individually, you know who said what. When someone leaves, you disable their login, and every chat they handled stays with the business. That single change is often worth the whole project for owners who have lost customers along with a salesperson’s phone.`,
+        `Because staff log in individually, you know who said what. When someone leaves, you disable their login, and every chat they handled stays with the business. For an owner who has ever lost customers along with a salesperson’s phone, that single change can justify the whole project.`,
         `On the API, replies to a customer inside 24 hours of their last message are free; after that you need an approved template. A good inbox shows how much time is left on each chat’s window, so staff reply before it closes. How that affects your bill is covered on <a href='/whatsapp-business-api-cost-in-india/'>WhatsApp Business API cost in India</a>.`,
       ],
     },
@@ -261,7 +261,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The best WhatsApp CRM for small business fails if staff keep replying from their personal phones. Adoption is a people project, and it is worth planning as carefully as the software.`,
         `Start with one rule: all customer chats happen on the business number. Put the number on your website, bills, visiting cards and Google Business Profile, and ask staff to redirect customers who message them personally. Train in a single thirty-minute session using real chats, not slides. Keep the first version small, with an inbox, owners and reminders, and add stages or reports only when the team asks.`,
-        `For the first two weeks, the owner should look at the “no reply in 48 hours” list daily and follow up with staff in person. Once people see that reminders save them from awkward customer complaints, usage becomes habit. Our five months of free maintenance after launch cover the small tweaks that always come up in this period, such as a new tag, a renamed stage or a change to the assignment rule.`,
+        `For the first two weeks, the owner should look at the “no reply in 48 hours” list daily and follow up with staff in person. Once people see that reminders save them from awkward customer complaints, usage becomes habit. Expect small tweaks in this period, such as a new tag, a renamed stage or a change to the assignment rule; the five months of free maintenance after launch are there for exactly this stage, with the scope written into your quote.`,
       ],
     },
     {
@@ -364,8 +364,8 @@ const content: FreelanceContent = {
       ["Choose rent or own, with numbers", "Within about two working days you get an itemised quote and a three-year comparison against a subscription. Nothing is billed before written approval."],
       ["Set up the number in your name", "We onboard your business number to the WhatsApp Business API in your own Meta account, keeping the phone app alongside if that suits you."],
       ["Build inbox, stages and rules", "Sheets or custom inbox, assignment rules, reminders and source tags, tested with your staff’s real phones and sample chats."],
-      ["Train and switch over", "One practical session with your team, a printed one-page guide, and a date from which all customer chats move to the business number."],
-      ["Tune for five months, free", "New tags, renamed stages and rule changes are covered for five months. After that, upkeep is optional from " + P.care + "."],
+      ["Walk through and switch over", "A handover walkthrough on a video call with your team, a short written how-to, and a date from which all customer chats move to the business number."],
+      ["Tune it while the team settles", "Maintenance is free for five months after launch, with what it covers set out in your quote. After that, upkeep is optional from " + P.care + "."],
     ],
   },
   faqHeading: "WhatsApp CRM for small business: questions owners ask",
@@ -388,7 +388,7 @@ const content: FreelanceContent = {
     { question: "Is customer data safe in a WhatsApp CRM?", answer: "It depends where it lives and who can see it. With a custom or Sheets-based setup, data stays in your own database or Google account, staff have role-based access and you control exports and deletion. With a subscription, it sits on the vendor’s servers under their terms. In India, handle it in line with the Digital Personal Data Protection Act, 2023." },
     { question: "Can the WhatsApp CRM reply automatically using AI?", answer: `Yes. An AI assistant can answer routine questions from your price list or FAQ, ask qualifying questions such as budget and location, and hand the chat to the assigned person with a summary. It works inside the free 24-hour window. AI features are quoted as separate lines, starting at ${P.ai}.` },
     { question: "What does a WhatsApp CRM cost to run each month after it is built?", answer: `For a Sheets-based or custom build, running costs are Meta’s template message charges, a small hosting bill for a custom inbox, and optional upkeep, which BtechWaleTech provides free for five months and then from ${P.care}. There are no per-user fees, so adding staff does not raise the monthly bill.` },
-    { question: "Do you build WhatsApp CRMs for small businesses outside India?", answer: `Yes. The WhatsApp Business API works worldwide, and we set up shared inboxes and light CRMs for small businesses in the UAE, UK, USA and elsewhere, billed in USD with Sheets-based setups from ${P.aiUsd}. Calls are scheduled in your hours and payment is by Wise, bank wire or PayPal.` },
+    { question: "Do you build WhatsApp CRMs for small businesses outside India?", answer: `Yes. The WhatsApp Business API works worldwide, and we can set up shared inboxes and light CRMs for small businesses in the UAE, UK, USA or anywhere else, billed in USD with Sheets-based setups from ${P.aiUsd}. Calls are scheduled in your hours and payment is by Wise, bank wire or PayPal.` },
     { question: "Chhote business ke liye WhatsApp CRM kaise banaye?", answer: `Pehle ek business number tay kijiye jis par saari enquiries aayengi. Phir har chat ka ek owner, 5–7 stages aur follow-up reminder set kijiye. Shuruaat Google Sheet se ho sakti hai, jo BtechWaleTech ${P.ai} se set karta hai. Team badhne par custom inbox ${P.software} se banta hai, bina per-user fees ke.` },
   ],
   related: {

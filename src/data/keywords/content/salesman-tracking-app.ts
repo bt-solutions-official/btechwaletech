@@ -181,7 +181,7 @@ const content: FreelanceContent = {
       heading: "Battery drain, background location and Android rules",
       paragraphs: [
         `Continuous tracking drains batteries, and modern Android versions restrict apps that collect location in the background. A salesman tracking app has to be designed around both limits rather than fighting them.`,
-        `Android's developer documentation says that from Android 14 every foreground service must declare a type, and a location service needs the FOREGROUND_SERVICE_LOCATION permission plus a granted location permission. In practice the app shows a persistent notification during duty hours, which also tells the rep plainly that location is being recorded.`,
+        `Android's developer documentation says that apps targeting Android 14 or higher must declare a type for every foreground service, and a location service needs the FOREGROUND_SERVICE_LOCATION permission plus a granted location permission. In practice the app shows a persistent notification during duty hours, which also tells the rep plainly that location is being recorded.`,
         `If location is needed while the app is closed, Google Play treats it as background location. Its policy asks developers to complete a declaration in Play Console, show an in-app disclosure before requesting permission, and submit a short video demonstrating the feature. We prepare that material for your listing, and we design most apps so tracking runs as a visible duty-time service, which is simpler to justify.`,
         `Phone makers add their own battery savers that can stop tracking. During rollout we send reps a short guide for their handset brand, and the panel flags phones that stop sending points, so the manager asks about settings before assuming the rep switched off.`,
       ],
@@ -190,7 +190,7 @@ const content: FreelanceContent = {
       id: "legal",
       heading: "Is it legal to track salesmen's location in India?",
       paragraphs: [
-        `Tracking employees' work phones or work apps during duty hours is widely practised in India, but location is personal data under the Digital Personal Data Protection Act, 2023, so it must be collected for a clear purpose, with notice, and kept secure. The DPDP Rules were notified on 13 November 2025, with most obligations phased in over the following 18 months.`,
+        `Tracking employees' work phones or work apps during duty hours is widely practised in India, but location is personal data under the Digital Personal Data Protection Act, 2023, so it must be collected for a clear purpose, with notice, and kept secure. The DPDP Rules were notified in November 2025, with most obligations phased in over the following 18 months.`,
         `We are developers, not lawyers; ask your own counsel to confirm your policy. What we build to support it: a notice at first launch explaining what is recorded and why; tracking only between Start Day and End Day, never on weekly offs; the persistent notification so the rep always knows; role-based access so only the rep's managers see his route; and retention settings so old route points are deleted after a period you choose.`,
         `Reps using personal phones deserve extra care. Tracking stops the moment the duty day ends, and the app never reads contacts, messages or other apps. Saying this clearly in the rollout meeting prevents most resistance.`,
       ],
@@ -202,7 +202,7 @@ const content: FreelanceContent = {
         `Buy first if your process is common: reps visit retailers, book orders from one price list and send them to a few distributors. A subscription SFA product will do that within days, and you can learn what you really need before spending on a build.`,
         `Build when one of these is true: your pricing or schemes are too specific for the product (dealer-wise rates, slab discounts that change by region), your team does more than sell (collections, service visits, site surveys), the order must go straight into your Tally or ERP in a shape the product cannot produce, or per-user fees across a large team outweigh a one-time build plus upkeep over a few years.`,
         `A cheaper middle route is a lean custom salesman tracking app with just beat, check-in and order booking, launched in weeks, then extended. Our <a href='/readymade-app-vs-custom-app/'>ready-made vs custom app</a> guide lays out that decision in more general terms, and the table below maps common situations to an answer.`,
-        `We will say so in the first call if a subscription suits you better. A small freelance team gains nothing from a project that should have been a monthly fee.`,
+        `If your answers on that first call point to a subscription, you will hear it from us plainly. Building an app that should have stayed a monthly fee helps neither side.`,
       ],
     },
     {
@@ -374,7 +374,7 @@ const content: FreelanceContent = {
   process: {
     heading: "From first call to reps using the app",
     steps: [
-      ["Ride-along call", "You describe a real day of one rep: beats, shops, orders, where the order goes next. We note what the app must replace and what can wait for later."],
+      ["Walk-through call", "You describe a real day of one rep: beats, shops, orders, where the order goes next. We note what the app must replace and what can wait for later."],
       ["Written quote", "About two working days later you receive an itemised quote for the app, the panel and any integration, each with a starting price and timeline."],
       ["Catalogue and beats first", "We load your products, price lists, schemes, outlets and beats early, so every demo uses real data your managers recognise."],
       ["Pilot with one team", "One team uses the app for about two weeks. We watch the data, collect complaints on WhatsApp and ship fixes quickly."],
@@ -397,7 +397,7 @@ const content: FreelanceContent = {
     { question: "What is beat planning in field sales?", answer: "Beat planning is grouping retailers into fixed routes, called beats, and assigning each beat to a rep on set days, weekly or fortnightly. It ensures every outlet is visited at the right frequency without criss-crossing town. In the app, beats are stored as data so compliance can be measured automatically." },
     { question: "What goes into a daily sales report?", answer: "Day start and end times, outlets planned versus visited, productive calls with orders, total order value, new outlets added, distance travelled and exceptions such as skipped beats or GPS gaps. The app fills all of it from the rep's actions, and managers receive the summary on WhatsApp each evening." },
     { question: "Can orders from the app go into Tally or our ERP?", answer: "Yes, if Tally or your ERP accepts imports or offers an API. Tally supports documented XML and JSON integration, and most ERPs have import tools. We map the order format, test with your accounts team, and handle duplicate prevention so the same order is never posted twice." },
-    { question: "Does the app need background location permission on Android?", answer: "Usually not. We run tracking as a visible duty-time service, which on Android 14 and later requires declaring a location foreground service type. If background access is truly needed, Google Play asks for a declaration in Play Console, an in-app disclosure and a short demonstration video, which we prepare." },
+    { question: "Does the app need background location permission on Android?", answer: "Usually not. We run tracking as a visible duty-time service, which for apps targeting Android 14 and later means declaring a location foreground service type. If background access is truly needed, Google Play asks for a declaration in Play Console, an in-app disclosure and a short demonstration video, which we prepare." },
     { question: "Can the app work on cheap Android phones?", answer: "Yes. We test on the budget handsets reps actually carry, keep the app light, compress photos before upload and store data locally so slow phones and weak networks do not block order booking. Very old Android versions may not be supported; we confirm the minimum version in your quote." },
     { question: "Do you build iPhone versions too?", answer: "Yes. Using Flutter or React Native, one codebase produces both Android and iPhone apps. Many sales teams launch on Android only, since most reps carry Android phones, and add the iPhone version later for managers. Apple's developer programme fee of US$99 a year is paid in your name." },
     { question: "Who owns the app and the sales data?", answer: "Your company does. The app is published in your Google Play and App Store accounts, the code repository and cloud hosting are in your name, and all rep, outlet and order data stays in your cloud. There is no per-salesman fee payable to us, and you can hand the code to any developer later." },

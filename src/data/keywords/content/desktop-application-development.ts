@@ -16,7 +16,7 @@ const content: FreelanceContent = {
     title: `Desktop Application Development from ${P.software}`,
     description: `Desktop application development for Windows and Mac: offline-first software, device integration, signed installers. Starts at ${P.software}; you own the code.`,
     keywords: [
-      "desktop application development", "desktop software development", "custom desktop application development", "desktop app development company India",
+      "desktop application development", "desktop software development", "custom desktop application development", "desktop app developer India",
       "desktop application development cost", "how much does desktop software cost", "windows application development", "mac app development",
       "wpf application development", ".net desktop application development", "electron vs tauri", "tauri app development",
       "offline desktop software", "desktop app with cloud sync", "barcode scanner software development", "weighbridge software development",
@@ -34,7 +34,7 @@ const content: FreelanceContent = {
   },
   facts: [
     ["Desktop software from", `${P.software} · ${P.softwareUsd}`],
-    ["Typical build", "6–12 weeks in milestones"],
+    ["Typical build", "6–12 weeks, weekly test builds"],
     ["Platforms", "Windows, macOS, Linux on request"],
     ["Estimate in", "About 2 working days"],
     ["Code and certificates", "Held in your name"],
@@ -180,7 +180,7 @@ const content: FreelanceContent = {
         `Ship every desktop app as a signed installer, or users will see warnings and some companies will block it outright. Microsoft’s code-signing guidance says unsigned installers face a strong SmartScreen block, and self-signed certificates are only suitable for testing or managed enterprise devices.`,
         `There are three sensible routes on Windows. Publishing an MSIX package through the Microsoft Store is the simplest: Microsoft says the Store re-signs the package, users see no SmartScreen warning and developer accounts are free. For direct downloads, Microsoft’s Azure Artifact Signing is available to organisations in the USA, Canada, the EU and the UK, and to individuals only in the USA and Canada, so Indian businesses usually buy an OV code-signing certificate from a certificate authority, with the key held on a hardware token or cloud HSM as industry rules have required since June 2023.`,
         `One change surprises people: Microsoft states that EV certificates stopped giving instant SmartScreen trust in 2024. New signed files build reputation over time with any certificate type, so signing every release with the same identity matters more than paying for a premium certificate.`,
-        `On macOS, software distributed outside the Mac App Store is signed with a Developer ID certificate, which Apple issues to the account holder of an Apple Developer Program membership, and Apple recommends notarising it so Gatekeeper can check it. We set this up in your accounts so certificates never sit with us.`,
+        `On macOS, software distributed outside the Mac App Store is signed with a Developer ID certificate, which Apple issues to the account holder of an Apple Developer Program membership, and then submitted to Apple’s notary service, whose ticket Gatekeeper checks when the app is first opened. We set this up in your accounts so certificates never sit with us.`,
       ],
     },
     {
@@ -262,9 +262,9 @@ const content: FreelanceContent = {
       heading: "Desktop application development for Indian businesses: GST, languages and power cuts",
       paragraphs: [
         `Desktop software for Indian businesses has to cope with GST invoicing, printing in Indian formats, regional languages and unreliable power or internet, all of which shape the design from day one.`,
-        `Billing software needs GST-compliant invoices with HSN codes, tax breakups and the invoice series your accountant expects. Larger businesses may also need e-invoicing through the government’s IRP; that is an online step, so the desktop app queues invoices and pushes them when connected. Our <a href='/e-invoice-api-integration/'>e-invoice integration</a> page explains that flow.`,
+        `Billing software needs GST invoices with HSN codes, tax breakups and the invoice series your accountant expects. Larger businesses may also need e-invoicing through the government’s IRP; that is an online step, so the desktop app queues invoices and pushes them when connected. Our <a href='/e-invoice-api-integration/'>e-invoice integration</a> page explains that flow.`,
         `Power cuts are a design input, not an edge case. We use databases and write patterns that survive sudden shutdowns, save drafts continuously and resume where staff left off after the inverter kicks in. For shops and factories, we design for older PCs and modest RAM, since not every counter has a new machine.`,
-        `Staff in many places prefer Hindi, Gujarati, Tamil or other languages on screen and on printed bills. The app can show bilingual labels, and printed invoices can include regional-language lines; you supply or approve the wording. Payments to us work by UPI or bank transfer in rupees against milestones.`,
+        `Staff in many places prefer Hindi, Gujarati, Tamil or other languages on screen and on printed bills. The app can show bilingual labels, and printed invoices can include regional-language lines; you supply or approve the wording. Payments to us work by UPI or bank transfer in rupees, on the schedule written into your quote.`,
       ],
     },
     {
@@ -290,7 +290,7 @@ const content: FreelanceContent = {
       id: "handover-checklist",
       heading: "Desktop application development handover checklist",
       paragraphs: [
-        `At the end of the project you should hold everything needed to build, sign, ship and support the software without us. Check each item before the final milestone is paid.`,
+        `At the end of the project you should hold everything needed to build, sign, ship and support the software without us. Tick off each item before you sign off the project.`,
       ],
       list: [
         "Source code in your Git account, with a README covering build, test and packaging steps.",
@@ -349,7 +349,7 @@ const content: FreelanceContent = {
         ["Windows signing", "Unsigned installers meet strong SmartScreen blocks", "MSIX via Store, or OV certificate in your name"],
         ["EV certificate", "No instant SmartScreen trust since 2024", "Not required just for SmartScreen"],
         ["macOS Developer ID", "Needed to sign apps outside the Mac App Store", "Your Apple Developer account, US$99 a year"],
-        ["Notarisation", "Apple recommends it so Gatekeeper can check the app", "Included in the Mac build pipeline"],
+        ["Notarisation", "Gatekeeper looks for Apple’s notarisation ticket on first launch", "Included in the Mac build pipeline"],
         [".NET version", ".NET 8 and 9 support ends 10 November 2026", "Start new work on .NET 10 LTS"],
         ["Auto-update", "No technician visits for each release", "Signed updater with rollback"],
         ["Backups", "PCs fail without warning", "Scheduled, tested restore before launch"],
@@ -409,7 +409,7 @@ const content: FreelanceContent = {
     { question: "Is desktop software secure for customer and payroll data?", answer: "It can be, with the right design: encrypted local data, sign-in with roles, audit logs, no secrets stored on the PC, and automatic backups to a second location. For personal data in India, the DPDP Act places obligations on your business; we build features that support them, while compliance decisions stay with you and your adviser." },
     { question: "Should I hire a freelancer or an agency for desktop software?", answer: "For desktop application development, a single freelancer suits a small tool you can test yourself. A large agency suits big programmes with procurement layers. A small freelance team like ours covers desktop, backend, cloud and review between three people, so work continues if one is away, and you deal directly with the developers building your software." },
     { question: "Can you also build a mobile app that works with the desktop software?", answer: `Yes. A shared cloud API lets a desktop app at the counter and a mobile app for owners or field staff work on the same data. Android and iOS apps start at ${P.app} (${P.appUsd}) with Flutter or React Native, published on Google Play and the App Store under your accounts.` },
-    { question: "How do payments and contracts work for desktop projects?", answer: "You approve an itemised quote in writing before anything is billed, and payments follow milestones you can test as installable builds. Clients in India pay in rupees by UPI or bank transfer; clients abroad pay in USD by Wise, bank wire or PayPal. Confidentiality and other contract specifics are agreed with you in writing; our terms page explains the general basis." },
+    { question: "How do payments and contracts work for desktop projects?", answer: "You approve an itemised quote in writing before anything is billed, and the payment schedule is set out in that quote, with installable builds to test along the way. Clients in India pay in rupees by UPI or bank transfer; clients abroad pay in USD by Wise, bank wire or PayPal. Confidentiality and other contract specifics are agreed with you in writing; our terms page explains the general basis." },
     { question: "Will desktop software help my business show up on Google or AI search?", answer: "The software itself runs on your PCs and is invisible to search engines, which is usually what you want. If you sell the software, a product website with clear pages on features, supported devices and pricing is what ranks and what AI assistants can quote. Nobody can guarantee rankings, but clear, crawlable pages give you a fair chance." },
     { question: "Desktop software banwana hai offline billing ke liye, kitna kharcha hoga?", answer: `Offline billing software humare saath ${P.software} se shuru hota hai, aur aam taur par 6–12 hafte lagte hain. Printer, weighbridge ya scanner jodna ho, ya branches ke beech sync chahiye, to quote badhta hai. WhatsApp par counter ki photos aur device ka model bhejiye, lagbhag do working days mein itemised quote mil jayega.` },
   ],

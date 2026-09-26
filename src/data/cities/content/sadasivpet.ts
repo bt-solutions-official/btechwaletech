@@ -7,7 +7,7 @@ const sadasivpet: CityContent = {
   meta: {
     title: "IT Services in Sadasivpet | Web, Apps, SEO & AI",
     description:
-      "Telugu websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Sadasivpet tyre-plant vendors, NH-65 transport firms, plot sellers and farm dealers.",
+      "Telugu websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Sadasivpet tyre-plant vendors, transport firms and farm dealers.",
     keywords: [
       "IT services in Sadasivpet",
       "IT company in Sadasivpet",

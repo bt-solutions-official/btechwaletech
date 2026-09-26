@@ -1,0 +1,471 @@
+import { usd } from "@data/countries/international";
+import type { FreelanceContent } from "@data/freelance/types";
+
+const P = {
+  site: usd("Static"), seoSite: usd("SEO website"), shop: usd("Ecommerce"), app: usd("Android"),
+  software: usd("Custom web app"), ai: usd("AI automation"), seo: usd("Monthly SEO"), care: usd("Maintenance"),
+};
+
+const content: FreelanceContent = {
+  path: "/usa/technical-seo-services/",
+  crumb: "Technical SEO services",
+  updated: "2026-09-25",
+  meta: {
+    title: `Technical SEO Services for US Sites: from ${P.seo}`,
+    description: `Technical SEO services for US sites: indexing fixes in Search Console, Core Web Vitals and INP, JavaScript rendering and schema. Monthly work from ${P.seo}.`,
+    keywords: [
+      "technical seo services", "technical seo agency", "technical seo consultant", "technical seo audit services",
+      "technical seo expert for hire", "technical seo company usa", "how much do technical seo services cost", "technical seo pricing",
+      "fix crawled currently not indexed", "fix discovered currently not indexed", "core web vitals optimization service", "inp optimization",
+      "javascript seo services", "react seo rendering fix", "structured data implementation service", "schema markup services",
+      "programmatic seo technical setup", "large site crawl budget optimization", "site migration seo services", "search console indexing issues help",
+      "technical seo services near me", "technical seo services new york", "technical seo services austin", "technical seo services san francisco",
+      "technical seo for saas websites", "outsource technical seo to india", "what is included in technical seo",
+    ],
+  },
+  hero: {
+    eyebrow: "Technical SEO services for US websites",
+    h1: "Technical SEO services that fix what Search Console is already telling you",
+    lede: `<strong>Technical SEO services</strong> are for US sites whose content is fine but whose pages are not getting crawled, indexed or loaded fast enough to compete. We work from your own Search Console data: the Page indexing report, Core Web Vitals field data and rendered HTML, and then fix the causes in your code, templates and server settings. Monthly technical work starts from ${P.seo}; one-off rebuilds for broken templates are quoted separately. Start with a look at our <a href='/usa/seo-services-for-small-business/'>broader SEO options</a> if you are unsure what you need.`,
+    pills: ["Page indexing report triage", "Core Web Vitals and INP", "JavaScript rendering checks", "Structured data", "Canonicals and duplicates", "Large and programmatic sites", "Migration redirect maps"],
+    origin: "Three freelance developers in India, one focused on technical SEO · replies on WhatsApp 7 days a week",
+  },
+  facts: [
+    ["Monthly technical SEO from", `${P.seo}`],
+    ["Rebuild of an SEO site from", `${P.seoSite} · 299+ pages`],
+    ["Data we start from", "Your Search Console and field performance data"],
+    ["Who changes the code", "We do, through your repository or CMS access"],
+    ["Ranking guarantees", "None; nobody can honestly promise positions"],
+    ["Billing", "USD · wire, Wise, PayPal"],
+  ],
+  stats: [
+    { value: "3", label: "Developers, so fixes ship as code, not slide decks" },
+    { value: "2", label: "Working days to a scoped estimate after we see your data" },
+    { value: "200", label: "Milliseconds: Google's good INP line we test against" },
+    { value: "7", label: "Days a week on WhatsApp for questions" },
+  ],
+  answer: {
+    heading: "What do technical SEO services actually fix?",
+    text: `Technical SEO services fix the reasons search engines cannot crawl, render, index or quickly load your pages: excluded URLs in Search Console, duplicate and canonical conflicts, slow LCP and INP, JavaScript that hides content, broken structured data, and weak site architecture. BtechWaleTech handles this as monthly work from ${P.seo}, with the fixes made directly in your code or CMS.`,
+    more: `If your site also needs more pages or stronger local visibility, see <a href='/usa/local-seo-services/'>local SEO services</a>; stores with filter and product issues fit better under <a href='/usa/ecommerce-seo-services/'>ecommerce SEO services</a>.`,
+  },
+  snapshot: {
+    caption: "Technical SEO services for a US site, in seven lines",
+    rows: [
+      { label: "Starting point", value: "Search Console property access, analytics, and read access to your code or CMS" },
+      { label: "First month", value: "Crawl, indexing triage, Core Web Vitals review, rendered HTML checks, prioritized fix list" },
+      { label: "Fixes we ship", value: "Templates, redirects, canonicals, sitemaps, robots rules, schema, performance code" },
+      { label: "Platforms", value: "WordPress, Shopify, Webflow, Next.js, Nuxt, Astro, Laravel and custom stacks" },
+      { label: "Reporting", value: "Monthly changelog tied to indexing and performance trends in your own tools" },
+      { label: "Starting price", value: `Monthly technical SEO from ${P.seo}; rebuilds from ${P.seoSite}` },
+      { label: "Not included", value: "Link buying, ranking guarantees, or edits we cannot test on staging first" },
+    ],
+  },
+  services: {
+    eyebrow: "What our technical SEO services cover",
+    heading: "Eight technical SEO jobs we take on for US sites",
+    note: "Pick one to start or let the first month's audit decide the order. Every item ends in a change to your site, not only a recommendation.",
+    cards: [
+      { name: "Indexing triage in Search Console", note: "We work through each reason in the Page indexing report, sample affected URLs with the URL Inspection tool, and separate real problems from exclusions that are working as intended, such as redirects and parameter duplicates.", size: "lg" },
+      { name: "Core Web Vitals and INP work", note: "Field data first, lab tests second. We trace slow LCP to images, fonts and server time, and poor INP to long JavaScript tasks and heavy third-party scripts, then fix the code.", size: "lg" },
+      { name: "JavaScript rendering checks", note: "Compare raw HTML with rendered HTML for key templates, move critical content and links into server output, and fix client-side routing that hides pages.", size: "md" },
+      { name: "Structured data", note: "Organization, LocalBusiness, Product, Article, FAQ where it still helps, and BreadcrumbList, generated from your data and validated in Search Console.", size: "md" },
+      { name: "Architecture and internal links", note: "Hub pages, breadcrumbs, pagination and link depth so important pages sit a few clicks from the home page.", size: "md" },
+      { name: "Programmatic and large sites", note: "Templates, sitemaps split by type, and rules that keep thin or empty pages out of the index.", size: "md" },
+      { name: "Migrations and redesigns", note: "Redirect maps, staging checks and launch-day monitoring for a new CMS, domain or URL scheme.", href: "/usa/website-redesign-services/", size: "sm" },
+      { name: "White-label technical fixes", note: "Implementation for US SEO agencies whose clients need developer hours.", href: "/usa/white-label-seo/", size: "sm" },
+    ],
+  },
+  comparison: {
+    heading: "Audit tool, full-service SEO retainer, or developer-led technical SEO",
+    note: "Most sites already own an audit tool and still have the same issues a year later. The difference is who turns findings into shipped code.",
+    columns: ["Question", "Automated audit tool alone", "Full-service SEO retainer", "BtechWaleTech technical SEO services"],
+    rows: [
+      ["What you get", "A long list of warnings", "Strategy, content, links and some technical work", "Prioritized fixes made in your code or CMS"],
+      ["Uses your Search Console data", "Sometimes, via integration", "Usually", "Always; it is where we start"],
+      ["Separates real problems from noise", "No; every warning looks urgent", "Depends on the specialist assigned", "Yes, each issue tied to affected URLs and traffic"],
+      ["Who writes the fix", "Your developers", "Often handed to your developers", "We do, on staging first"],
+      ["JavaScript framework fixes", "Flags symptoms", "Varies", "Rendering changes in Next.js, Nuxt, React and similar"],
+      ["Content writing", "No", "Yes", "Only what templates need; content is a separate service"],
+      ["Starting cost", "Tool subscription", "Quotes vary widely", `From ${P.seo} per month`],
+      ["Ranking promises", "None", "Some retainers imply them", "None; no one can guarantee positions"],
+      ["On-site meetings", "No", "Often available", "No; calls in US mornings and written reports"],
+    ],
+    fine: "If your site has fewer than a few dozen pages and no indexing warnings, technical SEO services are rarely the bottleneck; content and local signals usually matter more.",
+  },
+  pricing: {
+    heading: "How technical SEO services are priced here",
+    note: `Monthly technical SEO work starts from ${P.seo} and covers triage, fixes and a changelog for a typical small or mid-sized site. Very large sites, heavy JavaScript front ends and migrations take more hours, and the estimate says so line by line before you approve anything. When the real problem is a template or CMS that cannot be fixed, we quote a rebuild instead: a static site from ${P.site}, an SEO-ready site of 299+ pages from ${P.seoSite}, or a custom web app from ${P.software}. After any rebuild, 5 months of maintenance are free, then care starts from ${P.care}.`,
+  },
+  guideLabel: "Technical SEO services guide for US site owners",
+  guide: [
+    {
+      id: "what-it-covers",
+      heading: "What is included in technical SEO services, and what is not?",
+      paragraphs: [
+        "Technical SEO services cover everything that decides whether search engines can find, fetch, render, understand and quickly serve your pages: crawling, indexing, rendering, speed, structured data, internal linking and site architecture. They do not cover writing blog posts, building backlinks or managing your Google Business Profile.",
+        "The dividing line matters because many US site owners buy a general SEO retainer, receive content and outreach, and still have half their product or service pages excluded from Google. Content cannot rank from a URL that is not indexed. Equally, a technically perfect site with thin pages will not rank either, so we are open about which problem you have.",
+        "Our version of technical SEO services is developer-led. Santosh on our team handles the SEO diagnosis and Ankur handles the full-stack changes, so the person who spots a canonical conflict is working next to the person who edits the template. That shortens the gap between “we found it” and “it is fixed” from months to days.",
+      ],
+      list: [
+        "<strong>In scope</strong>: indexing, canonicals, redirects, sitemaps, robots rules, rendering, Core Web Vitals, schema, internal links, pagination, hreflang, migrations.",
+        "<strong>Adjacent</strong>: on-page titles and headings at template level, image handling, accessibility fixes that overlap with performance.",
+        "<strong>Out of scope</strong>: link building, review generation, paid ads, and anything that tries to trick a crawler.",
+      ],
+    },
+    {
+      id: "page-indexing-report",
+      heading: "How technical SEO services use the Search Console Page indexing report",
+      paragraphs: [
+        "The Page indexing report lists every URL Google knows about on your property and groups the ones it did not index by reason. Technical SEO work starts there, because the reasons point straight at causes: server errors, redirects, noindex tags, blocked URLs, soft 404s and duplicates.",
+        "Google's help documentation lists reasons including server error (5xx), redirect error, URL blocked by robots.txt, URL marked noindex, soft 404, not found (404), alternate page with proper canonical tag, duplicate without user-selected canonical, duplicate where Google chose a different canonical than the user, and page with redirect. Several of those are healthy. A redirect from an old URL, or a filtered URL pointing its canonical to the main page, is exactly what you want to see excluded.",
+        "So the first job is sorting. We export each reason, sample URLs, and tag every group as “expected”, “needs a fix” or “needs a decision”. Expected groups are left alone. Fix groups go into the backlog with the template or rule that causes them. Decision groups, such as thousands of tag archive pages, need you to say whether those pages should exist at all.",
+      ],
+      after: [
+        "The <a href='https://support.google.com/webmasters/answer/7440203' rel='noopener'>Page indexing report documentation</a> explains each status; our job is to turn that list into changes and to watch the counts move over the following weeks.",
+      ],
+    },
+    {
+      id: "not-indexed-statuses",
+      heading: "What do “Discovered – currently not indexed” and “Crawled – currently not indexed” mean?",
+      paragraphs: [
+        "Google defines “Discovered – currently not indexed” as a page it found but has not crawled yet, typically because crawling it was expected to overload the site, so the crawl was rescheduled. “Crawled – currently not indexed” means Google fetched the page and chose not to index it for now, and Google says there is no need to resubmit it.",
+        "They call for different fixes. “Discovered” at scale usually points to crawl efficiency: slow server responses, huge numbers of low-value URLs competing for attention, or weak internal links to the pages you care about. We check server response times, cut parameter and faceted URLs, and make sure important pages are linked from pages Google already crawls often.",
+        "“Crawled” is usually about the page itself. Common causes are near-duplicate templates with only a city or product name changed, very thin content, boilerplate that outweighs the unique text, or pages Google sees as less useful than another URL on your site. Resubmitting does little. Consolidating, improving or removing those pages does more.",
+      ],
+      subs: [
+        { heading: "Quick rule", text: "Discovered: help Google crawl less junk and reach good pages faster. Crawled: make each page clearly worth indexing, or merge it into one that is." },
+      ],
+    },
+    {
+      id: "canonicals",
+      heading: "Fixing duplicate URLs and canonical conflicts",
+      paragraphs: [
+        "A canonical tag tells search engines which version of a page is the main one. Conflicts happen when your tags, redirects, internal links and sitemap each point to a different version, and Google then picks its own canonical, often not the one you wanted.",
+        "On US sites we see the same handful of causes again and again: HTTP and HTTPS both live, www and non-www both resolving, trailing-slash and non-slash versions returning 200, tracking parameters in internal links, printer or AMP leftovers, and CMS plugins that generate paginated or tag URLs with self-referencing canonicals.",
+        "The fix is to make every signal agree. One version returns 200; the others return a single 301 to it. Internal links, sitemaps and hreflang tags use that exact URL. The canonical tag matches. After that, “Duplicate, Google chose different canonical than user” usually shrinks over a few recrawls. If it does not, we compare the two URLs Google considers duplicates, because sometimes Google is right and the pages really are too similar to justify separate URLs.",
+      ],
+    },
+    {
+      id: "core-web-vitals",
+      heading: "Core Web Vitals in technical SEO services: LCP, INP and CLS thresholds",
+      paragraphs: [
+        "Google's Search documentation sets the good thresholds as Largest Contentful Paint within 2.5 seconds, Interaction to Next Paint under 200 milliseconds, and Cumulative Layout Shift under 0.1. Google describes these as aligning with what its core ranking systems seek to reward, alongside other page experience aspects.",
+        "We always start with field data, meaning what real Chrome users experienced, shown in Search Console's Core Web Vitals report and in the Chrome UX Report. Lab tools such as Lighthouse are useful for finding causes but can pass a page that real users on mid-range Android phones find slow. A US audience on cellular connections in rural areas behaves very differently from a developer on office fiber.",
+        "LCP problems on the sites we look at usually come from a hero image that is too large, lazy-loaded by mistake or served without a preload, plus slow server response on uncached pages. CLS usually comes from images without dimensions, late-loading fonts, cookie banners and ad slots that push content down. Both are fixed in templates, once, and every page benefits.",
+      ],
+      after: [
+        "Our <a href='/usa/website-redesign-services/'>redesign work</a> starts from these same thresholds, because building speed in is cheaper than retrofitting it.",
+      ],
+    },
+    {
+      id: "inp",
+      heading: "How do you fix a poor INP score on a JavaScript-heavy site?",
+      paragraphs: [
+        "Find the interactions that are slow, find the long JavaScript tasks that block them, and break up or remove those tasks. INP measures how quickly the page responds visually after a click, tap or key press, so it punishes sites that run heavy scripts on the main thread.",
+        "The usual suspects on US business sites are tag managers loaded with a dozen marketing tags, chat widgets, session-recording tools, A/B testing scripts that hide the page until they finish, and large single-page-app bundles that hydrate the whole page before anything responds. Menus and filters that re-render hundreds of elements on each click are another common source.",
+      ],
+      list: [
+        "Audit third-party scripts with the marketing team and remove those nobody reads the data from.",
+        "Delay non-essential tags until after the first interaction or idle time.",
+        "Split long tasks so the browser can respond between chunks.",
+        "Hydrate only the interactive islands of a page instead of the whole thing.",
+        "Give buttons and filters instant visual feedback before the heavy work runs.",
+        "Re-check field data after four weeks, since the report is based on a rolling window of real visits.",
+      ],
+    },
+    {
+      id: "javascript-rendering",
+      heading: "JavaScript SEO: does Google render React, Vue and Next.js sites correctly?",
+      paragraphs: [
+        "Google can render JavaScript, but it does so in a separate step and not every crawler can. Google's JavaScript SEO documentation describes three phases: crawling, rendering in a headless Chromium once resources allow, and indexing based on the rendered HTML. It still calls server-side rendering or pre-rendering a great idea because it is faster for users and crawlers and not all bots run JavaScript.",
+        "The same documentation is precise about links: Google can only discover links that are <code>&lt;a&gt;</code> elements with an <code>href</code> attribute, and it advises using the History API rather than URL fragments for routing. In client-side apps, it recommends avoiding soft 404s either by redirecting to a URL that returns a real 404 status or by adding a noindex robots meta tag to error views.",
+        "In practice our technical SEO services check three things on every JavaScript site. First, raw HTML versus rendered HTML: are titles, main content, canonicals and links present before scripts run? Second, navigation: are menu items, pagination and filters real links? Third, status codes: does a missing product return a 404, or a 200 with “not found” text? Fixes range from switching a route to server rendering in Next.js or Nuxt to rewriting a click handler as a proper link.",
+      ],
+      after: [
+        "Read Google's <a href='https://developers.google.com/search/docs/crawling-indexing/javascript/javascript-seo-basics' rel='noopener'>JavaScript SEO basics</a> for the full list. Many <a href='/usa/saas-website-design/'>SaaS marketing sites</a> built as single-page apps benefit the most from these fixes.",
+      ],
+    },
+    {
+      id: "structured-data",
+      heading: "Which structured data should technical SEO services implement?",
+      paragraphs: [
+        "Implement the schema types that match what the page really is and that Google documents as eligible for a search feature: Organization or LocalBusiness on the relevant pages, Product and Offer on product pages, Article on editorial content, BreadcrumbList across the site, and specific types such as Event or JobPosting where they apply.",
+        "We generate structured data from the same data the page renders, never typed by hand into a plugin field, so prices, availability and dates cannot drift out of sync. Then we validate in Search Console's rich result reports rather than only in a one-off testing tool, because the reports show errors across every page using a template.",
+        "Two warnings. Markup must describe content visible on the page, and it does not by itself raise rankings. Its value is eligibility for richer results and clearer entity signals for search engines and AI systems. If a plugin has sprinkled five overlapping schema blocks on every page, removing the duplicates is often the most useful structured data work we do.",
+      ],
+    },
+    {
+      id: "architecture",
+      heading: "Site architecture and internal linking that search engines can follow",
+      paragraphs: [
+        "Good architecture puts your most valuable pages close to the home page, groups related pages under clear hubs, and links them with descriptive anchors. Search engines use those links to discover pages and to judge which ones matter.",
+        "A US service business with twenty services and fifty cities, for example, should not rely on a footer with a thousand links. A cleaner pattern is a services hub, a locations hub, service pages that link to the cities where they are offered, and city pages that link back to relevant services. Breadcrumbs reinforce the hierarchy and give search results a readable path.",
+        "We map your current structure by crawling the site and measuring click depth, orphan pages and links pointing to redirects or errors. Then we propose changes you can see in a simple diagram before any template is edited. Orphan pages found in the sitemap but not linked anywhere are a frequent cause of “Discovered – currently not indexed”.",
+      ],
+    },
+    {
+      id: "programmatic-sites",
+      heading: "Technical SEO services for large and programmatic sites",
+      paragraphs: [
+        "Programmatic sites generate pages from data, such as locations, products, integrations or comparisons. The technical work is making sure each generated page deserves to exist, that crawlers can reach it efficiently, and that empty or near-empty combinations never get published.",
+        "Google's sitemap documentation limits a single sitemap to 50,000 URLs or 50MB uncompressed, says it ignores the priority and changefreq values, and uses lastmod only when it is consistently and verifiably accurate. So we split sitemaps by page type, write lastmod from real content changes, and watch each file's indexing rate separately in Search Console. That shows immediately which template Google likes and which it ignores.",
+      ],
+      list: [
+        "Minimum data rule per template: a page publishes only when it has enough unique fields to be useful.",
+        "Empty combinations return a 404 or are never linked, instead of rendering a “no results” page with a 200.",
+        "Faceted filter combinations are kept out of crawl paths unless they match real search demand.",
+        "Template text is kept short; unique data carries the page.",
+        "Internal links come from hubs and related-item blocks, not only from the sitemap.",
+      ],
+      after: [
+        "If you are planning a programmatic build rather than fixing one, our <a href='/usa/custom-website-development/'>custom website development</a> starts with these rules baked into the data model.",
+      ],
+    },
+    {
+      id: "crawl-budget",
+      heading: "Does crawl budget matter for my site?",
+      paragraphs: [
+        "For most small business sites, no. Google's crawl budget guide says it is aimed at roughly three groups: very large sites of about a million pages or more that change weekly, medium or larger sites of about 10,000 pages or more that change daily, and sites with a large share of URLs stuck in “Discovered – currently not indexed”. Google calls those figures rough estimates.",
+        "The same guide splits crawling into a capacity limit, which Google raises or lowers depending on how quickly and reliably your server responds, and crawl demand, which depends on size, update frequency, page quality and relevance. That gives two practical levers: make the server fast and stable, and stop presenting Google with endless duplicate URLs.",
+        "When crawl budget does matter, our technical SEO services work through server logs to see which URL patterns Googlebot actually spends time on. On an ecommerce or listings site it is common to find most crawl requests going to parameter URLs, calendars or internal search results that should never have been crawlable. Blocking or removing those patterns frees crawling for the pages that earn revenue.",
+      ],
+    },
+    {
+      id: "migrations",
+      heading: "Site migrations: changing CMS, domain or URLs without losing traffic",
+      paragraphs: [
+        "A migration keeps its search traffic when every old URL that matters redirects once, directly, to its closest new equivalent, and when the new site launches with the same or better content, links and speed. Most traffic drops after a redesign come from missing redirects, changed content and blocked staging settings left in place.",
+        "We build the redirect map from three sources: your current sitemap, a full crawl, and the URLs with clicks or links in Search Console and analytics. Every row is tested on staging before launch. On launch day we check robots rules, noindex tags, canonicals and sitemaps within the first hour, then monitor the Page indexing report and server logs for two to four weeks.",
+      ],
+      subs: [
+        { heading: "Platform moves we handle", text: "WordPress to Webflow or Next.js, Wix or Squarespace to WordPress, custom PHP to Laravel or a headless CMS, and domain consolidations after rebrands." },
+        { heading: "What we ask of you", text: "A launch date that avoids your peak season, a freeze on content changes during the final week, and access to DNS and hosting for the cutover." },
+      ],
+      after: [
+        "See <a href='/usa/webflow-developer/'>Webflow development</a> and <a href='/usa/wordpress-website-design/'>WordPress design</a> if the migration is part of a new build.",
+      ],
+    },
+    {
+      id: "ai-search",
+      heading: "Technical SEO for AI search: getting cited by AI Overviews and chat assistants",
+      paragraphs: [
+        "AI search systems still depend on pages they can fetch and read. The technical groundwork is the same as for classic search: fast, server-rendered HTML, clear headings, accurate structured data, and no accidental blocking of the crawlers you want.",
+        "Beyond that, a few choices help. Put a direct one or two sentence answer under each question heading. Keep definitions, prices and specifications in plain text rather than images or tabs that load on click. Make author and organization details consistent across the site. Check your robots.txt deliberately, because some sites now block AI-related crawlers by accident through blanket rules copied from forums, while others want to block them on purpose; either way it should be a decision, not an accident.",
+        "We do not promise AI citations, since nobody controls which sources an assistant picks. What technical SEO services can do is remove the reasons a page would be skipped: missing content in raw HTML, slow responses, contradictory canonicals and messy markup.",
+      ],
+    },
+    {
+      id: "cost",
+      heading: "How much do technical SEO services cost in the US?",
+      paragraphs: [
+        `From this team, ongoing technical SEO services start from ${P.seo} per month. US agencies and consultants price technical work very differently, some hourly, some by audit, some bundled into retainers, so quotes vary widely. The main differences come from site size, platform complexity, and whether the provider also writes the code.`,
+        "An audit-only engagement is cheapest upfront but leaves your developers to do the work, which is where many audits stall. An implementation engagement costs more per month but turns the backlog into shipped changes. For sites that are structurally broken, such as a page builder theme that cannot hit Core Web Vitals no matter what, a rebuild can cost less over a year than months of patching.",
+      ],
+      list: [
+        "<strong>Site size and template count</strong>: ten templates across 50,000 URLs can be cheaper than 60 hand-built pages with no shared layout.",
+        "<strong>Platform</strong>: hosted platforms limit what can change; custom stacks allow everything but need more testing.",
+        "<strong>Access</strong>: repository access lets us ship fixes; CMS-only access limits us to settings and theme files.",
+        "<strong>Migration or launch deadlines</strong>: fixed dates need more hours in a shorter window.",
+      ],
+      after: [
+        "For a wider view of SEO budgets, read our <a href='/usa/seo-cost-for-small-business/'>SEO cost guide for small businesses</a>.",
+      ],
+    },
+    {
+      id: "choose-provider",
+      heading: "How to choose technical SEO services: questions to ask any provider",
+      paragraphs: [
+        "Ask how they will prioritize, who will write the fixes, and how you will know a fix worked. A strong provider will talk about your Search Console data and your templates within the first call. A weak one will talk about “health scores” from a tool.",
+      ],
+      list: [
+        "Which three issues from our Page indexing report would you tackle first, and why?",
+        "Will you change the code yourselves, or hand a list to our developers?",
+        "How do you test changes on staging before they reach production?",
+        "Which Core Web Vitals metric is failing in our field data, and on which templates?",
+        "What will you not do? Listen for link schemes or ranking promises.",
+        "How do you report results: changelog, indexing counts, performance trends?",
+        "Who owns the tools, accounts and access after the engagement ends?",
+      ],
+      after: [
+        "Marketplaces such as Upwork and Toptal list many technical SEO specialists; the same questions sort them quickly. You can also review the kinds of sites we build on our <a href='/portfolio/'>portfolio page</a>.",
+      ],
+    },
+    {
+      id: "working-remotely",
+      heading: "Working with a technical SEO team in India from the US",
+      paragraphs: [
+        "Most technical SEO work happens in your repository, CMS and Search Console, so location matters less than access and communication. We overlap with US Eastern mornings, which are our evenings, and can take early Pacific calls. Fixes are usually deployed while your office is closed and reviewed by you the next morning.",
+        "Access is granted by you and removable by you: a Search Console user, an analytics viewer role, a Git branch or pull-request workflow, and a staging environment. We never need your registrar password. Quotes are in USD and paid by wire, Wise or PayPal against the scope in your written quote; nothing is billed before you approve it.",
+      ],
+      subs: [
+        { heading: "First week", text: "Access set up, full crawl run, Page indexing and Core Web Vitals reports exported, rendered HTML checked on your top templates. You receive a ranked issue list with affected URL counts." },
+        { heading: "Second week", text: "The first batch of fixes goes to staging for review, usually redirects, canonicals and sitemap cleanup, followed by the first performance changes on your highest-traffic template." },
+      ],
+      after: [
+        "We do not visit offices or attend in-person meetings, and we are a three-person team, so we are not the right choice for a site that needs twenty engineers. More on how the arrangement works: <a href='/outsource-web-development-to-india/'>outsourcing web development to India</a>.",
+      ],
+    },
+    {
+      id: "worked-example",
+      heading: "Worked example: a hypothetical Austin SaaS site with indexing problems",
+      paragraphs: [
+        "Say a B2B software company in Austin runs its marketing site on a React single-page app with 300 integration pages generated from a database. Search Console shows most integration pages under “Discovered – currently not indexed” and the blog failing INP on mobile.",
+        "A technical SEO services plan for that site would start by comparing raw and rendered HTML. If integration pages ship an empty shell and load content by script, the first fix is server rendering or static generation for those routes. Next, we would check how the pages are linked: if the only path is a search box, a crawlable integrations hub with category pages is needed. Then sitemaps would be split into blog, integrations and core pages so each type's indexing rate can be tracked.",
+        `For INP, we would profile the blog template, likely finding a heavy analytics bundle and a chat widget loading on every post, and defer both. Monthly technical work from ${P.seo} would cover this over a few months; a full rebuild of the marketing site would be quoted separately if the framework made the fixes impractical. This is a hypothetical scenario to show our approach, not a client result.`,
+      ],
+    },
+    {
+      id: "checklist",
+      heading: "Technical SEO services checklist for your next 90 days",
+      paragraphs: [
+        "Work through this list in order. Items near the top unblock the rest, and each one is visible in free Google tools, so you can track progress without buying anything.",
+      ],
+      list: [
+        "Verify the domain property in Search Console and submit current sitemaps.",
+        "Export every reason in the Page indexing report and tag each as expected, fix or decide.",
+        "Make one URL version return 200 and redirect the others once.",
+        "Align canonicals, internal links, sitemaps and hreflang to that version.",
+        "Check raw versus rendered HTML on your five most valuable templates.",
+        "Replace script-only navigation with real links.",
+        "Fix the failing Core Web Vitals metric on the template with the most traffic.",
+        "Remove duplicate or invalid structured data; add the types your pages qualify for.",
+        "Return real 404 or 410 status codes for removed and empty pages.",
+        "Review robots.txt rules on purpose, including those for AI crawlers.",
+      ],
+      after: [
+        `Stuck on any line? Send us the export and we will tell you whether it is a quick fix or a job for monthly technical SEO from ${P.seo}. Start on the <a href='/contact/'>contact page</a>.`,
+      ],
+    },
+  ],
+  tables: [
+    {
+      id: "indexing-reasons",
+      eyebrow: "Search Console triage",
+      heading: "Page indexing report reasons: likely causes and what we change",
+      note: "Status names follow Google's Page indexing report. “Expected” means the exclusion is usually healthy and should not be forced into the index.",
+      columns: ["Reason in report", "Usually means", "Typical fix", "Verdict"],
+      rows: [
+        ["Discovered – currently not indexed", "Google found the URL but postponed crawling", "Faster server, fewer junk URLs, stronger internal links", "Fix"],
+        ["Crawled – currently not indexed", "Fetched but judged not worth indexing yet", "Improve, merge or remove thin and near-duplicate pages", "Fix or decide"],
+        ["Duplicate, Google chose different canonical than user", "Your signals disagree or pages are too similar", "Align canonicals, links and sitemaps; differentiate content", "Fix"],
+        ["Soft 404", "Page returns 200 but looks empty or missing", "Return a real 404, or add real content", "Fix"],
+        ["Alternate page with proper canonical tag", "A variant correctly points to its main URL", "None, if the canonical target is indexed", "Expected"],
+        ["Page with redirect", "Old URL redirects elsewhere", "Remove the old URL from sitemaps and internal links", "Expected"],
+        ["Server error (5xx)", "Server failed during the crawl", "Check hosting capacity, timeouts and error logs", "Fix urgently"],
+        ["URL marked noindex", "A tag or header asks Google not to index", "Confirm it is intentional; remove leftovers from staging", "Decide"],
+      ],
+      hideSm: [2],
+    },
+    {
+      id: "vitals-fixes",
+      eyebrow: "Core Web Vitals",
+      heading: "Core Web Vitals thresholds and the causes we fix most on US sites",
+      note: "Thresholds are the “good” values from Google Search's Core Web Vitals documentation. We judge success by field data, not a single lab score.",
+      columns: ["Metric", "Good threshold", "Common causes", "What we change"],
+      rows: [
+        ["Largest Contentful Paint (LCP)", "Within 2.5 seconds", "Oversized hero image, lazy-loaded hero, slow uncached HTML", "Resize and preload the hero, cache HTML, trim render-blocking CSS"],
+        ["Interaction to Next Paint (INP)", "Under 200 ms", "Tag-manager overload, chat and testing scripts, full-page hydration", "Remove or delay tags, split long tasks, hydrate only interactive parts"],
+        ["Cumulative Layout Shift (CLS)", "Under 0.1", "Images without dimensions, font swaps, injected banners", "Set width and height, reserve space, adjust font loading"],
+        ["Server response (supporting)", "As fast as your stack allows", "No page cache, slow database queries, distant origin", "Edge caching, query fixes, CDN in front of the origin"],
+        ["JavaScript weight (supporting)", "Only what the page needs", "One bundle for every route, unused libraries", "Code splitting, removing dead dependencies"],
+      ],
+      hideSm: [2],
+    },
+    {
+      id: "engagement-options",
+      eyebrow: "Engagement options",
+      heading: "Ways to buy technical SEO services from us",
+      note: "All figures are starting prices from our published plans. The written quote lists hours and deliverables for your site before you approve anything.",
+      columns: ["Option", "Best for", "Starts from", "What you receive"],
+      rows: [
+        ["Monthly technical SEO", "Ongoing sites with indexing or speed issues", `${P.seo}`, "Triage, shipped fixes, monthly changelog"],
+        ["Rebuild on a faster stack", "Sites whose builder or theme cannot pass Core Web Vitals", P.site, "New static site up to 100 pages in 1–2 weeks"],
+        ["SEO site rebuild", "Programmatic or content-heavy sites", P.seoSite, "299+ page site with clean templates in 3–5 weeks"],
+        ["Custom app rendering work", "Framework apps needing server rendering or restructuring", P.software, "Scoped engineering over 6–12 weeks"],
+        ["White-label implementation", "US agencies needing developer hours for clients", `${P.seo}`, "Fixes under the agency's process"],
+        ["Care after a rebuild", "Keeping speed and indexing healthy", `${P.care}`, "After 5 free months of maintenance"],
+      ],
+      hideSm: [1],
+    },
+  ],
+  areas: {
+    eyebrow: "US markets we serve remotely",
+    heading: "Where technical SEO services come up most across the United States",
+    note: "We work with sites in every state. These areas stand out because of the kinds of websites concentrated there.",
+    cards: [
+      { name: "San Francisco Bay Area, California", note: "SaaS companies with React or Next.js marketing sites often hit rendering, INP and programmatic integration-page problems as their product catalogs and docs grow.", },
+      { name: "Seattle, Washington", note: "Software and cloud businesses run large documentation hubs where versioned URLs, canonicals and sitemap hygiene decide which pages Google keeps.", },
+      { name: "Austin, Texas", note: "Fast-growing startups rebuild their sites often, and each redesign or framework switch is a migration that needs redirect maps and launch monitoring.", },
+      { name: "New York City, New York", note: "Publishers, fintech and media sites with deep archives face crawl efficiency, pagination and structured data questions at scale.", },
+      { name: "Boston, Massachusetts", note: "Universities, biotech and healthcare organizations maintain sprawling sites where orphan pages, duplicates and legacy subdomains pile up over years.", },
+      { name: "Chicago, Illinois", note: "Manufacturers and distributors with large product catalogs and PDF spec sheets need clean faceted URLs and parts pages that can actually be indexed.", },
+      { name: "Los Angeles, California", note: "Entertainment, ecommerce and marketplace sites carry heavy scripts and media, which makes Core Web Vitals and JavaScript rendering the main technical concerns.", },
+      { name: "Denver, Colorado", note: "Outdoor retail and travel businesses with location and listing pages need programmatic templates that avoid thin or empty combinations.", },
+      { name: "Atlanta, Georgia", note: "Multi-location service brands and logistics companies deal with location page duplication and canonical issues across hundreds of near-identical pages.", },
+      { name: "Miami, Florida", note: "Real estate portals and hospitality sites run listing feeds that create expired, duplicate and soft 404 URLs faster than anyone cleans them.", },
+      { name: "Dallas, Texas", note: "Franchise systems and home services brands need consistent schema, internal linking and speed across location sites managed by many people.", },
+      { name: "Salt Lake City, Utah", note: "Ecommerce and SaaS companies in the region often run headless storefronts where rendering and hydration choices shape both speed and indexing.", },
+      { name: "Raleigh–Durham, North Carolina", note: "Research, software and healthcare organizations maintain content-heavy sites where structured data and clean architecture help pages surface in search.", },
+      { name: "Minneapolis, Minnesota", note: "Retail and medical device companies with regulated content and big catalogs benefit from careful migration planning and duplicate-content control.", },
+    ],
+  },
+  process: {
+    heading: "How our technical SEO services run month to month",
+    steps: [
+      ["Access and baseline", "You add us to Search Console, analytics and your repository or CMS. We record current indexing counts, Core Web Vitals status and a full crawl so progress can be measured."],
+      ["Triage and ranking", "Every issue is tied to affected URLs, templates and traffic, then ranked by impact and effort. You see the list and can reorder it before work begins."],
+      ["Fix on staging", "Changes are made on a branch or staging copy, checked for rendered HTML, status codes and speed, then shared with you for review."],
+      ["Release and validate", "Approved fixes go live, and where Search Console allows we start validation on the affected reason so recrawling happens sooner."],
+      ["Monitor and adjust", "Indexing counts, field performance and server logs are watched weekly. If a fix does not move a metric, we revisit the cause instead of repeating it."],
+      ["Monthly changelog", "A plain-English summary of what changed, what moved, and what comes next, plus any decisions we need from you."],
+    ],
+  },
+  faqHeading: "Technical SEO services: questions from US site owners",
+  faqs: [
+    { question: "What are technical SEO services?", answer: "Technical SEO services improve how search engines crawl, render, index and load a website. They cover indexing errors in Search Console, duplicate URLs and canonicals, redirects, sitemaps, robots rules, JavaScript rendering, Core Web Vitals, structured data and site architecture. They do not include writing articles or building links, which are separate parts of SEO." },
+    { question: "How much do technical SEO services cost?", answer: `From BtechWaleTech, monthly technical SEO services start from ${P.seo}. Large sites, heavy JavaScript front ends and migrations need more hours, and the written estimate lists them before you approve anything. If the platform itself is the obstacle, a rebuild may be better value: static sites from ${P.site} and SEO-ready sites of 299+ pages from ${P.seoSite}.` },
+    { question: "How long does technical SEO take to show results?", answer: "Fixes can be shipped within the first weeks, but search engines need to recrawl and reprocess pages before reports change. Indexing counts often start moving within a few weeks of a fix; Core Web Vitals field data reflects a rolling window of real visits, so it takes around a month to update. Ranking changes, if any, depend on content and competition too." },
+    { question: "Can you guarantee rankings with technical SEO?", answer: "No. Nobody can honestly guarantee rankings, because search engines decide positions using many factors that no provider controls. Technical SEO services remove the obstacles that stop good pages from being crawled, indexed and loaded quickly. What we can commit to is the scope of work, the fixes shipped and clear reporting on what changed." },
+    { question: "Why are my pages “Crawled – currently not indexed”?", answer: "Google fetched those pages but decided not to index them for now. The usual causes are thin or near-duplicate content, templates where boilerplate outweighs unique text, or another URL on your site that covers the same topic better. Google notes there is no need to resubmit these URLs. Improving, merging or removing the pages works better than repeated submissions." },
+    { question: "What does “Discovered – currently not indexed” mean?", answer: "Google knows the URL exists but has not crawled it yet. Its documentation says this typically happens when crawling was expected to overload the site, so the crawl was rescheduled. Fixes focus on crawl efficiency: faster and more stable server responses, fewer low-value URLs such as filters and parameters, and stronger internal links to the pages you care about." },
+    { question: "What is a good INP score?", answer: "Google's Search documentation treats Interaction to Next Paint under 200 milliseconds as good. INP measures how quickly a page visibly responds after clicks, taps and key presses. Poor INP usually comes from heavy JavaScript on the main thread, such as too many marketing tags, chat widgets and large app bundles, and it is fixed by removing, delaying or splitting that work." },
+    { question: "Do Core Web Vitals affect rankings?", answer: "Google says Core Web Vitals, together with other page experience aspects, align with what its core ranking systems seek to reward. They are one signal among many, so fast pages with weak content will not outrank strong content automatically. They also affect conversions directly, because slow and jumpy pages lose visitors whatever their position." },
+    { question: "Can Google index a React or Next.js website?", answer: "Yes, Google renders JavaScript with a headless Chromium, but rendering happens in a separate step and not all crawlers run scripts. Google still recommends server-side rendering or pre-rendering. With Next.js, most problems come from routes rendered only on the client, navigation that is not built from real links, or missing pages that return a 200 status." },
+    { question: "Do you do technical SEO audits only?", answer: "We can, but we recommend pairing the audit with implementation. Audits that are handed to a busy development team often sit untouched for months. Because we are developers, the same people who find an issue can fix it on staging and send it to you for approval. If you prefer your own team to implement, we write tickets they can pick up directly." },
+    { question: "Which platforms do you work on?", answer: "WordPress, Shopify, Webflow, Wix, Squarespace, and framework sites built with Next.js, Nuxt, Astro, Gatsby, Laravel or plain server-rendered stacks. Hosted builders limit what can be changed, so on those we focus on settings, theme code and content structure. On custom stacks we can change routing, rendering, caching and templates directly." },
+    { question: "Do you need access to our code?", answer: "For the best results, yes: a Git repository with a branch or pull-request workflow, or theme-level access in your CMS. Without code access, we can still diagnose issues and write detailed tickets, but your developers will need to ship the fixes. You control every access grant and can remove it at any time." },
+    { question: "Is technical SEO different for large sites?", answer: "Yes. Sites with tens of thousands of URLs need attention to crawl budget, sitemap structure, faceted navigation and template quality in ways small sites do not. Google's crawl budget guide is aimed at very large sites and sites with many URLs stuck as discovered but not indexed. Small sites rarely need to think about crawl budget at all." },
+    { question: "Can you help with a website migration?", answer: "Yes. We build a redirect map from your sitemap, a full crawl and the URLs with clicks or links in Search Console, test it on staging, and check robots rules, noindex tags and canonicals on launch day. Then we monitor indexing and server logs for several weeks. Please involve us before the launch date is fixed, not after traffic drops." },
+    { question: "Does technical SEO help with AI Overviews and ChatGPT search?", answer: "It helps by making pages easy to fetch and read: fast responses, content present in server HTML, clear question headings with direct answers, accurate structured data and deliberate robots rules for AI crawlers. No provider can guarantee that an AI system will cite a page, but pages that are hard to fetch or parse are much less likely to be used." },
+    { question: "Why hire a technical SEO team in India instead of a US agency?", answer: "The main reasons are cost and direct access to the developers doing the work. A small freelance team has little overhead, and you talk to the people who change the code. The trade-offs are time zone and no in-person meetings. We overlap with US Eastern mornings and work mostly in writing, which suits technical tasks well." },
+    { question: "How do we pay and what do invoices look like?", answer: "Quotes are in US dollars, paid by bank wire, Wise or PayPal against the scope and schedule in your written quote. Nothing is billed before you approve the estimate. Invoices come from India, and for questions about how to record them, please ask your accountant. Our terms and refund policy pages explain the general arrangements." },
+    { question: "What reports will we receive?", answer: "A monthly changelog in plain English: which fixes shipped, which Search Console reasons and Core Web Vitals metrics moved, what we are watching, and any decisions we need from you. Data stays in your own Search Console and analytics accounts, so you can check everything yourself rather than relying on screenshots from us." },
+    { question: "Do you work with SEO agencies as a white-label partner?", answer: "Yes. Some US agencies handle strategy and content in-house and need developers for the technical fixes. We can work under your process and tools, with communication through you or directly with your client, as agreed in the written quote. Our white-label SEO page explains how that arrangement usually runs." },
+    { question: "What technical SEO work do you not do?", answer: "We do not buy links, run private blog networks, cloak content, or make changes we cannot test first. We do not travel for on-site meetings, and as a three-person team we are not suited to enterprise programs that need large dedicated squads. For legal questions about content or privacy, your own counsel is the right source." },
+  ],
+  related: {
+    heading: "More SEO and web services for US businesses",
+    links: [
+      { name: "SEO services for small business", href: "/usa/seo-services-for-small-business/" },
+      { name: "Local SEO services", href: "/usa/local-seo-services/" },
+      { name: "Ecommerce SEO services", href: "/usa/ecommerce-seo-services/" },
+      { name: "SEO cost for small business", href: "/usa/seo-cost-for-small-business/" },
+      { name: "White-label SEO", href: "/usa/white-label-seo/" },
+      { name: "Website redesign services", href: "/usa/website-redesign-services/" },
+      { name: "Website accessibility remediation", href: "/usa/website-accessibility-remediation/" },
+      { name: "Custom website development", href: "/usa/custom-website-development/" },
+      { name: "SaaS website design", href: "/usa/saas-website-design/" },
+      { name: "Custom CRM development", href: "/usa/custom-crm-development/" },
+      { name: "All services for US businesses", href: "/usa/" },
+      { name: "Outsource web development to India", href: "/outsource-web-development-to-india/" },
+      { name: "Pricing", href: "/pricing/" },
+    ],
+  },
+  cta: {
+    heading: "Send a Search Console screenshot and get a technical SEO plan",
+    note: "Share your Page indexing summary and Core Web Vitals report. You will receive a ranked list of likely causes and an itemized estimate in USD in about two working days.",
+  },
+};
+
+export default content;

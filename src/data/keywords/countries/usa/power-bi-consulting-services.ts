@@ -1,0 +1,433 @@
+import { usd } from "@data/countries/international";
+import type { FreelanceContent } from "@data/freelance/types";
+
+const P = {
+  site: usd("Static"), seoSite: usd("SEO website"), shop: usd("Ecommerce"), app: usd("Android"),
+  software: usd("Custom web app"), ai: usd("AI automation"), seo: usd("Monthly SEO"), care: usd("Maintenance"),
+};
+
+const MS_LICENSING = "https://learn.microsoft.com/en-us/fabric/enterprise/powerbi/service-admin-power-bi-licensing";
+const MS_FABRIC_LICENSES = "https://learn.microsoft.com/en-us/fabric/enterprise/licenses";
+const MS_GATEWAY = "https://learn.microsoft.com/en-us/data-integration/gateway/service-gateway-onprem";
+
+const content: FreelanceContent = {
+  path: "/usa/power-bi-consulting-services/",
+  crumb: "Power BI consulting services",
+  updated: "2026-09-25",
+  meta: {
+    title: `Power BI Consulting Services for US SMBs from ${P.ai}`,
+    description: `Power BI consulting services for US small businesses on Microsoft 365: data models, DAX, QuickBooks and SQL sources, Pro vs PPU advice, training. From ${P.ai}.`,
+    keywords: [
+      "power bi consulting services", "power bi consultant", "power bi consulting for small business", "power bi consulting company",
+      "power bi consultant near me", "hire power bi consultant", "power bi dax consultant", "power bi data modeling services",
+      "power bi pro vs premium per user", "do i need power bi pro to view reports", "power bi licensing for small business", "power bi quickbooks online",
+      "power bi excel sharepoint refresh", "power bi on-premises data gateway setup", "power bi training for teams", "power bi report handover",
+      "power bi consulting cost", "how much does a power bi consultant charge", "power bi consulting services usa", "power bi consultant new york",
+      "power bi consultant dallas", "power bi consultant chicago", "power bi consultant columbus ohio", "remote power bi consultant",
+      "power bi on mac", "fix slow power bi report",
+    ],
+  },
+  hero: {
+    eyebrow: "Power BI for US small and mid-size businesses already on Microsoft 365",
+    h1: "Power BI consulting services for US businesses that want reports their team can run without us",
+    lede: `Power BI consulting services should leave your company with three things: a data model that gives the same answer every time, DAX measures someone can read, and staff who can build the next report themselves. BtechWaleTech is three freelance developers in India who help US small and mid-size businesses on Microsoft 365 connect QuickBooks, Excel and SQL Server, choose between Pro and Premium Per User licences, and hand over reports with proper training. Engagements start at ${P.ai}. If Power BI turns out to be the wrong tool, we will say so and point you to a <a href='/usa/custom-dashboard-development/'>custom dashboard build</a> instead.`,
+    pills: ["Star-schema data models", "Readable DAX measures", "QuickBooks, Excel and SQL Server", "Pro vs PPU licence advice", "Gateway setup", "Team training included", `From ${P.ai}`],
+    origin: "Three freelance developers in India · WhatsApp replies 7 days a week · Teams calls in US Eastern mornings",
+  },
+  facts: [
+    ["Power BI build or rescue from", `${P.ai} · 2–4 weeks`],
+    ["Embedded or custom web reporting", `From ${P.software} · 6–12 weeks`],
+    ["Sources we connect", "QuickBooks Online, Excel, SharePoint, SQL Server, Dynamics, HubSpot"],
+    ["Licences", "Bought by you from Microsoft; we advise, we do not resell"],
+    ["Billing", "USD · wire, Wise, PayPal"],
+    ["After handover", `5 months free fixes, then from ${P.care}`],
+  ],
+  stats: [
+    { value: "3", label: "Developers, one of whom leads data and BI work" },
+    { value: "2", label: "Working days to an itemised quote" },
+    { value: "5", label: "Months of free fixes after handover" },
+    { value: "0", label: "Licence markups: Microsoft bills you directly" },
+  ],
+  answer: {
+    heading: "What do Power BI consulting services include for a US small business?",
+    text: `Power BI consulting services for a small business usually cover choosing the right licences, connecting sources such as QuickBooks, Excel and SQL Server, building a clean data model with DAX measures, securing it with workspaces and row-level security, and training your staff to maintain it. With us, engagements start at ${P.ai}, and licences are bought directly from Microsoft.`,
+    more: `Need more than Power BI can comfortably do, such as client logins inside your own app? Compare it with <a href='/usa/custom-dashboard-development/'>custom dashboard development</a>. If your SQL data should move to the cloud first, read our <a href='/usa/aws-consulting-for-small-business/'>AWS consulting page for small businesses</a>.`,
+  },
+  snapshot: {
+    caption: "Power BI consulting services with us, in short",
+    rows: [
+      { label: "Who it suits", value: "US companies of roughly 10 to 250 staff on Microsoft 365, with finance in Excel or QuickBooks" },
+      { label: "First step", value: "A 45-minute Teams call and a look at your current reports and sources" },
+      { label: "Core deliverables", value: "Semantic model, DAX measures, report pages, workspace and security setup, training" },
+      { label: "Licence advice", value: "Pro, Premium Per User, Fabric capacity or free viewers, worked out for your headcount" },
+      { label: "Typical timeline", value: "2–4 weeks for a new model; 1–2 weeks for most rescues" },
+      { label: "Starting price", value: `From ${P.ai}; embedded or custom web reporting from ${P.software}` },
+      { label: "What we do not do", value: "Resell licences, visit your office or run enterprise-wide Fabric programmes" },
+    ],
+  },
+  services: {
+    eyebrow: "Engagements",
+    heading: "Power BI consulting services we take on for US teams",
+    note: "Each engagement ends with something your staff can run on their own. We price the work to finish, not to keep you on a retainer.",
+    cards: [
+      { name: "New Power BI model and reports", note: `From raw sources to a star-schema model, a measure library and three to six report pages built around real decisions. From ${P.ai}.`, size: "lg" },
+      { name: "Power BI rescue and tune-up", note: "Slow reports, numbers that do not match the books, refreshes failing overnight: we find the cause, fix the model and document what changed.", size: "lg" },
+      { name: "Licence and workspace plan", note: "Who needs Pro, whether PPU pays for itself, when Fabric capacity makes sense, and how workspaces and apps should be laid out.", size: "md" },
+      { name: "QuickBooks, Excel and SQL connections", note: "Reliable refresh from QuickBooks Online via a small database, Excel files in SharePoint, and SQL Server through a properly installed gateway.", size: "md" },
+      { name: "DAX measure library", note: "Year-over-year, fiscal-year, rolling and budget measures written once, named clearly and commented so your analyst can extend them.", size: "md" },
+      { name: "Row-level security setup", note: "Regional, branch or rep-level roles defined in the model and tested with real users before anyone sees data.", size: "sm" },
+      { name: "Team training", note: "Recorded sessions on your own model: one for report editors, one for viewers, one for the admin who owns licences.", size: "sm" },
+      { name: "Custom reporting when Power BI is not the fit", note: `Client-facing dashboards inside your own web app, with no per-viewer licence. From ${P.software}.`, href: "/usa/custom-dashboard-development/", size: "sm" },
+    ],
+  },
+  comparison: {
+    heading: "Microsoft partner consultancy, a marketplace freelancer, or a small remote team",
+    note: "Three routes US businesses commonly take for Power BI consulting services. Each suits a different size of problem.",
+    columns: ["Aspect", "Large Microsoft partner consultancy", "Upwork or Fiverr freelancer", "BtechWaleTech"],
+    rows: [
+      ["Best for", "Enterprise rollouts, many departments", "One report or a quick fix", "SMB model builds, rescues and handovers"],
+      ["Discovery", "Formal workshops", "Often skipped", "KPI list and source review before quoting"],
+      ["Who does the work", "Varies by staffing", "The freelancer you hired", "The same three developers throughout"],
+      ["Licence sales", "Often resold with services", "Not involved", "Advice only; you buy from Microsoft"],
+      ["Documentation", "Usually thorough", "Varies widely", "Measure notes, data diagram, recorded training"],
+      ["Platform fees", "None", "Marketplace fees built into rates", "None"],
+      ["Call hours", "US business hours", "Depends on the person", "US Eastern mornings, WhatsApp all week"],
+      ["After handover", "Retainer typical", "Rehire as needed", `5 months free fixes, then optional care from ${P.care}`],
+    ],
+    fine: "If you need on-site workshops across several US offices or a formal Microsoft partner designation for procurement, a larger consultancy is the better choice; we suit teams that want a model built properly and handed over.",
+  },
+  pricing: {
+    heading: "What Power BI consulting services cost with us",
+    note: `Most Power BI consulting services we deliver fall on our automation and data line, starting at ${P.ai}. That covers a new model with a few sources, or a rescue of an existing one. The quote rises with the number and state of sources (a single QuickBooks company is quick; three Excel workbooks maintained by different people is not), the number of report pages, security roles, gateway work and how much reconciliation your controller wants. Embedding reports into your own product or building a custom web dashboard instead is software work from ${P.software}. Microsoft licences are bought and billed by you. Itemised quotes take about two working days, and nothing is billed before you approve in writing.`,
+  },
+  guideLabel: "Power BI consulting guide for US small businesses",
+  guide: [
+    {
+      id: "what-it-is",
+      heading: "What are Power BI consulting services?",
+      paragraphs: [
+        `Power BI consulting services are paid help to plan, build, fix or teach Microsoft Power BI inside your organisation. For a small business that usually means licensing advice, connecting data, designing the semantic model, writing DAX measures, building report pages, setting up security and training the people who will own it.`,
+        `The word “consulting” hides a wide range. At one end sits a two-hour screen share to fix a broken measure. At the other sits a months-long programme across finance, sales and operations in a company with a data team. For US businesses of 10 to 250 people, the useful middle is a defined project: one model that answers the recurring questions of one or two departments, built properly, with a named internal owner at the end.`,
+        `That last part is the one people skip. Power BI makes it easy to produce a report and hard to keep a model healthy. Good Power BI consulting services leave behind fewer, better-named tables, measures stored in one place, refresh that runs without anyone touching it, and a person on your team who understands why it was built that way. If you still need the consultant for every new chart six months later, the engagement did not finish its job.`,
+      ],
+    },
+    {
+      id: "consultant-or-diy",
+      heading: "Do you need a Power BI consultant, or can your team learn it?",
+      paragraphs: [
+        `Your team can learn Power BI report building; the part worth paying for is the data model, the first set of DAX measures and the licence and security plan. Those decisions are hard to change later and are where self-taught setups most often go wrong.`,
+        `A common US small-business pattern goes like this. A capable controller or operations manager downloads Power BI Desktop, imports a few Excel exports, builds a report that impresses the owner, and shares it. Six months later there are eleven reports, each with its own copy of the data, slightly different revenue formulas, and a refresh that only works when that person's laptop is on. Nobody did anything wrong; they simply never had time to design the foundation.`,
+        `So a sensible split is: hire Power BI consulting services for the foundation, then let your people build on it. We design the model, write the core measures, set up workspaces and security, then spend the training sessions teaching your staff to add pages and simple measures themselves. Microsoft's free learning paths and the community forum cover the rest. If you have nobody who wants to own reporting at all, that is worth knowing too; a monthly care arrangement or a simpler tool may fit better.`,
+      ],
+      list: [
+        "Hire help for: data model, core DAX, licensing, security, gateway",
+        "Learn in-house: new report pages, visuals, filters, simple measures",
+        "Reconsider the tool if: most viewers are outside your company",
+      ],
+    },
+    {
+      id: "pro-vs-ppu",
+      heading: "Power BI Pro vs Premium Per User: which licence does a US small business need?",
+      paragraphs: [
+        `Most US small businesses need Power BI Pro for everyone who creates or views shared reports. Premium Per User is worth it when you need features Pro lacks, such as more frequent scheduled refresh or larger models, for a modest number of people. Fabric capacity makes sense when many staff only view.`,
+        `Microsoft's <a href='${MS_LICENSING}' rel='noopener'>Power BI licensing guide</a> states that Power BI Pro is included in Microsoft 365 E5, so check your subscriptions before buying anything. Otherwise Pro and PPU are bought per user, monthly or yearly, in the Microsoft 365 admin center, and you must be in the Billing admin role to purchase. A free 30-day Pro trial covers up to 25 licences, and Microsoft notes that you are charged for them when the trial ends unless you cancel. Prices are listed in USD on Microsoft's own pricing page and change from time to time, so we quote your licence budget from that page on the day you decide, never from memory.`,
+        `The practical differences for a small business are few but important. Microsoft's <a href='${MS_FABRIC_LICENSES}' rel='noopener'>Fabric licensing overview</a> says PPU workspaces offer 48 data refreshes a day, support for semantic models that use more than 1 GB of memory, and the XMLA endpoint; Pro workspaces sit on shared capacity with eight scheduled refreshes a day. The same page says PPU is more cost effective than Premium capacity when fewer than 250 users need Premium features. One catch: content in a PPU workspace can only be opened by people who also hold PPU, so mixing licence types needs a plan.`,
+      ],
+    },
+    {
+      id: "who-needs-licence",
+      heading: "Who needs a Power BI licence to view reports?",
+      paragraphs: [
+        `Anyone who views Power BI content shared from a Pro workspace, or from Fabric capacity smaller than F64, needs a Pro or PPU licence. Free-licence users can view content only when it sits on F64 or larger capacity and they have the Viewer role.`,
+        `This rule surprises owners more than any other. Building a report is free in Power BI Desktop, so it feels as if sharing should be too. It is not. According to Microsoft's licensing overview, on F SKUs below F64 each person viewing Power BI content needs Pro, PPU or an individual trial; on F64 or larger, users with only a free licence and a viewer role can view. For a 30-person company, that usually means Pro for everyone who opens reports, because F64 capacity is sized for much larger organisations.`,
+        `External viewers follow similar rules. Microsoft's licensing guide says the person sharing outside the organisation needs Pro or PPU, and the external guest needs Pro or PPU (their own or assigned by you) unless the content sits on F64 or larger capacity. So if your outside accountant, franchisees or clients need to see reports, budget their licences or look at an alternative such as a custom web portal.`,
+        `Part of our Power BI consulting services is simply counting: who creates, who views often, who views twice a quarter, and who is outside the company. That list turns licence spend from a guess into a line item.`,
+      ],
+    },
+    {
+      id: "data-model",
+      heading: "Data modelling: why a star schema beats one giant Excel table",
+      paragraphs: [
+        `A Power BI model works best as a star schema: narrow fact tables holding events such as invoices, orders or payments, surrounded by dimension tables such as customers, products, dates and locations. One wide spreadsheet imported as-is makes measures slower, files bigger and totals easier to get wrong.`,
+        `Most US small businesses arrive with data shaped for humans, not for models: a monthly sales workbook with a tab per month, merged header cells, product names typed slightly differently by different people, and totals rows in the middle. Power Query can reshape all of that, but only if someone decides the target shape first. That design step is the heart of Power BI consulting services, and it is why we ask for sample files before quoting.`,
+        `A clean model has one date table marked as such, relationships that run one way from dimension to fact, surrogate keys where source systems disagree, and no calculated columns doing work that belongs in Power Query or the source. It also has fewer columns than you expect; every unused column costs memory and refresh time. When we hand over, you get a one-page diagram of the model so the next person can see the shape at a glance.`,
+      ],
+      subs: [
+        { heading: "Facts", text: "Invoice lines, payments, orders, deals, timesheet entries, stock movements. One row per event, numeric columns and keys." },
+        { heading: "Dimensions", text: "Customer, product, employee, location, account, date. One row per thing, descriptive columns used for slicing." },
+        { heading: "What to leave out", text: "Report-only totals, duplicate text columns, free-text notes nobody filters on, and anything the source already calculates badly." },
+      ],
+    },
+    {
+      id: "dax",
+      heading: "DAX measures a Power BI consultant should write for you",
+      paragraphs: [
+        `The first DAX measures worth writing are the ones every page will reuse: base totals, year-over-year and year-to-date variants on your fiscal calendar, margin and ratio measures, and budget-versus-actual. Build those once, name them plainly and hide the raw columns so report builders use the measures.`,
+        `US businesses do not all run a January-to-December year. Many close in June or September, and some retailers use a 4-4-5 week calendar. Getting fiscal time right is a date-table decision, not a measure trick, so we build the date table to your calendar before writing any time intelligence. Then measures such as fiscal year-to-date, same period last fiscal year and rolling twelve months behave the same everywhere.`,
+        `We write DAX in a style your staff can read later: variables with meaningful names, one idea per measure, and a short description on each. Measures live in a dedicated display folder by subject (Sales, Finance, Operations) rather than scattered across tables. Calculated columns are kept to a minimum, since they add memory and often belong upstream in Power Query.`,
+        `The measure library is also where Power BI consulting services protect you from drift. When “Net Revenue” exists once, every visual that uses it agrees. When three people write their own version, the Monday meeting becomes a debate about formulas.`,
+      ],
+    },
+    {
+      id: "quickbooks",
+      heading: "Connecting QuickBooks Online to Power BI",
+      paragraphs: [
+        `The dependable way to get QuickBooks Online into Power BI is to copy the data you need into a small database on a schedule, then point Power BI at that database. Manual exports work for a pilot; they break the first month nobody remembers to run them.`,
+        `QuickBooks is the accounting system for a large share of US small businesses, so this question comes up in almost every Power BI consulting services enquiry we get. We avoid promising a one-click connection. Instead we use an app connection your QuickBooks admin authorises, pull invoices, payments, bills, customers, items, accounts and classes on a nightly schedule into a database in your own Azure or AWS account, and model from there. That route survives API changes better, keeps history even when records are edited, and lets Power BI refresh without a gateway because the database is already in the cloud.`,
+        `Finance teams also care about reconciliation. Before building any page, we agree with your bookkeeper or CPA which QuickBooks reports the model must match for a closed month, usually profit and loss and AR aging, and add a small check page showing the difference. If journal entries arrive after close, the check page shows it instead of letting the dashboard quietly disagree with the books.`,
+      ],
+    },
+    {
+      id: "excel-sharepoint",
+      heading: "Excel and SharePoint: the most common source in US small-business Power BI",
+      paragraphs: [
+        `Excel remains the most common Power BI source in small businesses, and it works well when files live in SharePoint or OneDrive for Business, keep a fixed structure and use proper tables. Problems start when files move, columns get renamed or someone saves a copy with a new name each month.`,
+        `A good Power BI consulting services engagement tames Excel rather than banning it. We ask each file owner to keep data in formatted Excel tables with consistent headers, move the files to one SharePoint library, and replace “Sales Jan.xlsx, Sales Feb.xlsx” patterns with a single folder that Power Query combines automatically. Budget and forecast workbooks, which finance teams rightly keep in Excel, become their own fact tables linked to the same date and account dimensions as actuals.`,
+        `We also write down the rules for each file in plain language: who edits it, which columns must never be renamed, and where the file must stay. It sounds bureaucratic, but a two-line note in the handover pack prevents most of the refresh failures we get called to fix.`,
+      ],
+      list: [
+        "Store source workbooks in one SharePoint library, not on desktops",
+        "Use formatted Excel tables, one header row, no merged cells",
+        "Combine monthly files through a folder query instead of one query per file",
+        "Name an owner for each workbook in the handover notes",
+      ],
+    },
+    {
+      id: "gateway",
+      heading: "SQL Server and other on-premises data: setting up the gateway",
+      paragraphs: [
+        `If your data sits in a SQL Server, an ERP database or files on a local server, Power BI in the cloud reaches it through the on-premises data gateway, a Windows application installed on a machine in your network. That machine must be running for scheduled refreshes to succeed.`,
+        `Microsoft's <a href='${MS_GATEWAY}' rel='noopener'>on-premises data gateway overview</a> describes it as a locally installed Windows client that acts as a bridge to Microsoft cloud services, needing only outbound connections and no inbound ports. It comes in two types. The standard gateway lets multiple users connect to multiple on-premises sources and works with Power BI and other Microsoft services. Personal mode allows one user, cannot be shared and works only with Power BI. For a business, the standard gateway is almost always the right choice, because personal mode ties refresh to one person's account.`,
+        `We install and register the gateway on a server or always-on machine you choose, add at least two of your staff as gateway admins, and document the credentials each data source uses. Microsoft also notes that it actively supports only the last six gateway releases and ships updates monthly, so keeping it current belongs on someone's monthly checklist. Sometimes the better answer is to move the database to the cloud; our <a href='/usa/aws-consulting-for-small-business/'>AWS small-business consulting</a> covers that route.`,
+      ],
+    },
+    {
+      id: "mac-teams",
+      heading: "Power BI on a Mac: what US teams on macOS actually do",
+      paragraphs: [
+        `Power BI Desktop, the free authoring tool, runs on Windows only; Microsoft lists Windows 10 or later as the minimum requirement. Mac users can view and lightly edit reports in the browser, but model building needs Windows, either a Windows PC, a cloud PC or a supported virtual desktop.`,
+        `Plenty of US offices, especially creative, marketing and professional-services firms, run on Macs. That does not rule out Power BI. Viewers use the Power BI service in a browser or the mobile apps with no issue. The person who maintains the model needs Power BI Desktop, and Microsoft's download page states it is fully supported on Azure Virtual Desktop and Windows 365, while other virtualised setups such as published Citrix applications are not supported.`,
+        `When we deliver Power BI consulting services to a Mac-based team, we plan for this up front: one Windows 365 cloud PC or a spare Windows laptop for the model owner, everyone else in the browser. If nobody on your side wants to touch Windows at all, that is a strong signal to consider Looker Studio or a <a href='/usa/custom-dashboard-development/'>custom web dashboard</a> instead.`,
+      ],
+    },
+    {
+      id: "cost",
+      heading: "How much do Power BI consulting services cost?",
+      paragraphs: [
+        `With our team, Power BI consulting services start at ${P.ai} for a new model or a rescue of an existing one, and at ${P.software} for embedded or custom web reporting. Microsoft licences are separate: you buy them directly, and we help you work out how many and which kind.`,
+        `Across the US market, quotes for Power BI work vary widely, and the difference usually comes from scope and staffing rather than from the software. Hourly billing, day rates and project quotes all exist. When you compare, ask each provider to state the sources, the number of report pages, the security roles, whether gateway setup is included, how many training sessions you get and what documentation you will receive. Two quotes that look far apart often describe very different deliverables.`,
+        `Also count your own running costs: Pro or PPU licences for each viewer, any Fabric capacity, a cloud database if QuickBooks data lands there, and the staff time to own the model. A cheaper build that forces PPU licences on 40 people may cost more over a year than a slightly larger build designed around Pro. Our <a href='/pricing/'>pricing page</a> lists every starting price we use.`,
+      ],
+    },
+    {
+      id: "rescue",
+      heading: "Fixing a slow or wrong Power BI report",
+      paragraphs: [
+        `Slow or inconsistent Power BI reports usually come from the model, not the visuals: too many columns, bi-directional relationships everywhere, calculated columns doing heavy work, several copies of the same data, or DAX that iterates over huge tables. A rescue starts by measuring, then fixes the few causes that matter most.`,
+        `A typical rescue in our Power BI consulting services begins with Performance Analyzer in Power BI Desktop to see which visuals are slow and why, then a look at the model size by table and column. Quick wins are common: removing unused columns, replacing text keys with integers, turning off auto date/time, and switching bi-directional filters back to single direction where they are not needed.`,
+        `Wrong numbers get a different treatment. We pick one figure that people dispute, trace it from the visual back through the measure, the relationships and Power Query to the source, and write down each step. Usually the cause is a duplicate row, a missing relationship or two measures with the same name in different tables. We fix it once in the model and delete the duplicates, so the dispute cannot come back through a different report.`,
+      ],
+      list: [
+        "Measure first with Performance Analyzer and model size by column",
+        "Remove unused columns and auto date/time tables",
+        "Prefer single-direction relationships from dimension to fact",
+        "Trace one disputed number end to end before touching others",
+      ],
+    },
+    {
+      id: "security",
+      heading: "Workspaces, apps and row-level security for a small company",
+      paragraphs: [
+        `Keep security simple: one workspace per subject area for builders, a Power BI app to publish finished reports to viewers, and row-level security only where people must see different rows. Microsoft notes that row-level security restricts only workspace Viewers, so anyone given Admin, Member or Contributor sees all data.`,
+        `We usually set up a development workspace where report builders work, and a production workspace from which an app is published to the wider team. Viewers never get Member rights just because it was quicker to share that way. Security groups from Microsoft Entra ID, which you already use for Microsoft 365, hold the membership, so onboarding and offboarding happen in one place.`,
+        `Row-level security is defined in Power BI Desktop with DAX filters and assigned in the service. A branch manager in Tampa sees Tampa; the regional director sees the Southeast; the CFO sees everything. Dynamic security driven by a user-mapping table keeps it to a handful of roles even as people change. We test each role with the Test as role feature and then with a real sign-in, because Microsoft's documentation points out that Test as role cannot reproduce every case, such as external guest users.`,
+      ],
+    },
+    {
+      id: "handover-training",
+      heading: "Report handover and team training: what good Power BI consulting services leave behind",
+      paragraphs: [
+        `A proper handover leaves you with a documented model, a measure library with descriptions, a refresh and gateway runbook, a licence register and recorded training on your own data. The goal is that a new analyst can make a safe change in their first week without calling us.`,
+        `Training is where we spend more time than most clients expect. We run three short sessions over Teams in your morning. The first, for report editors, covers adding a page, using existing measures and publishing through the app. The second, for viewers, covers filters, drill-through, exporting and subscribing to email snapshots. The third, for whoever manages Microsoft 365, covers assigning licences, workspace roles, gateway admins and what to check when a refresh fails. Each session is recorded and stored in your SharePoint.`,
+        `Documentation lives next to the model: a diagram, a measure list exported from the model, a data-source register with owners, and a one-page “how to fix a failed refresh” note. After handover, fixes are free for five months. After that, a care plan from ${P.care} is optional; many small businesses find they need us only when they add a new source.`,
+      ],
+    },
+    {
+      id: "working-from-us",
+      heading: "Power BI consulting services from India for US clients: how the work runs",
+      paragraphs: [
+        `You work with us over Microsoft Teams or Zoom in your morning, which is our evening, and on WhatsApp between calls. We quote and invoice in USD, paid by wire, Wise or PayPal. You add us as guest users in your Microsoft 365 tenant with only the workspace roles the project needs.`,
+        `India runs nine and a half hours ahead of US Eastern time during daylight saving and ten and a half in winter. A 9 a.m. Eastern call is early evening for us; Central and Mountain teams often prefer 8 a.m. local, and Pacific teams take a 7 a.m. slot. Because of the gap, model changes made overnight are ready for you to test when your day starts.`,
+        `Guest access is the cleanest arrangement: your admin invites our named accounts through Microsoft Entra B2B, grants Contributor on the development workspace only, and removes us when the work ends. We never need a global admin password. If a QuickBooks or SQL connection needs credentials, your staff enter them in the gateway or the cloud database, not in a chat.`,
+      ],
+      subs: [
+        { heading: "First two days", text: "You share current reports, a sample of each source and your list of questions. We reply with clarifications, then an itemised USD quote." },
+        { heading: "Week one", text: "Guest access set up, licence count agreed, source connections tested, and a model diagram sent for comment." },
+        { heading: "Week two", text: "Core measures written and reconciled against a closed month with your controller, and the first report pages published to the development workspace." },
+        { heading: "Contract basics", text: "Scope, confidentiality and ownership are in the written quote; default terms are on our terms page. Invoices come from India and there are no site visits." },
+      ],
+      after: [
+        `The model file, workspaces and data stay in your tenant throughout. Our <a href='/terms/'>terms page</a> sets out the default contract wording.`,
+      ],
+    },
+    {
+      id: "worked-example",
+      heading: "Worked example: a hypothetical HVAC parts distributor in Columbus, Ohio",
+      paragraphs: [
+        `Say a 45-person HVAC parts distributor in Columbus runs Microsoft 365 Business Premium, keeps accounts in QuickBooks Online, holds inventory in a SQL Server database on a server in the warehouse, and tracks branch budgets in Excel. This is a hypothetical scenario for illustration.`,
+        `The owner wants branch managers in Columbus, Dayton and Cincinnati to see sales, margin and stock turns for their own branch, and the CFO to see everything with budget variance on a July-to-June fiscal year. Today the controller builds a PDF pack each month from four exports.`,
+        `The plan: QuickBooks data lands nightly in a small Azure SQL database the distributor owns; a standard gateway on the warehouse server reaches the inventory database; budget workbooks move into one SharePoint library. The model has invoice-line, stock-movement and budget facts sharing product, branch, customer and fiscal-date dimensions. Row-level security gives each branch manager their branch. Everyone who opens the app gets Pro, because 18 viewers do not justify capacity and none of them need PPU features. The build falls under our ${P.ai} line.`,
+        `After three recorded training sessions, the controller adds a freight-cost page on her own in month two. That is what Power BI consulting services should produce: a team that no longer needs to ask.`,
+      ],
+    },
+    {
+      id: "checklist",
+      heading: "Power BI consulting services checklist before you hire",
+      paragraphs: [
+        `Before you sign, make sure the proposal names your sources, the questions the model will answer, the licence plan, the security roles, the training sessions and the documentation you will receive, and that everything is built in your Microsoft 365 tenant.`,
+      ],
+      list: [
+        "List of sources and who owns each: QuickBooks, Excel files, SQL Server, CRM",
+        "Five to ten business questions the first model must answer",
+        "Licence count by role: creators, frequent viewers, occasional viewers, external viewers",
+        "Check whether Microsoft 365 E5 already includes Pro for some users",
+        "Fiscal calendar confirmed before any time-intelligence measure is written",
+        "Gateway machine chosen, always on, with two internal gateway admins",
+        "Row-level security roles and a test plan with real sign-ins",
+        "Training sessions and recordings included in the quote",
+        "Guest access only, removed at project end",
+      ],
+      after: [
+        `Want a quick opinion on your current setup first? Send a screenshot of your model view and a list of sources through our <a href='/contact/'>contact page</a>.`,
+      ],
+    },
+  ],
+  tables: [
+    {
+      id: "licence-matrix",
+      eyebrow: "Licensing",
+      heading: "Which Power BI licence each person in a US small business needs",
+      note: "Based on Microsoft's Fabric and Power BI licensing documentation. Check current USD prices on Microsoft's Power BI pricing page before buying.",
+      columns: ["Person", "Typical need", "Licence that usually fits", "Notes"],
+      rows: [
+        ["Model owner or analyst", "Builds models and publishes", "Pro (or PPU if using PPU features)", "Needs Power BI Desktop on Windows"],
+        ["Report editor", "Adds pages in shared workspaces", "Pro", "Contributor role in the development workspace"],
+        ["Frequent internal viewer", "Opens the app daily or weekly", "Pro, unless on F64+ capacity", "Free licence works only on F64 or larger"],
+        ["Viewer of PPU content", "Reads reports in a PPU workspace", "PPU", "Pro alone cannot open PPU workspace content"],
+        ["External accountant or partner", "Views a few reports as a guest", "Pro or PPU, theirs or yours", "Free guest access only on F64+ capacity"],
+        ["Staff already on Microsoft 365 E5", "Any of the above", "Pro is included", "Assign it in the admin center"],
+      ],
+      hideSm: [3],
+    },
+    {
+      id: "dax-starter",
+      eyebrow: "DAX",
+      heading: "Starter DAX measure library for a US small business",
+      note: "Names and purposes of the measures we usually write first. Formulas are adapted to your model and fiscal calendar.",
+      columns: ["Measure", "Question it answers", "Built on"],
+      rows: [
+        ["Net Revenue", "What did we actually earn after credits and refunds?", "Invoice-line fact, sign-corrected"],
+        ["Gross Margin %", "How profitable is each product, branch or customer?", "Net Revenue and cost of goods"],
+        ["Revenue FYTD", "Where are we in the fiscal year so far?", "Fiscal date table, your year end"],
+        ["Revenue vs Same Period LY", "Are we ahead of last year at this point?", "Fiscal date table, prior-year shift"],
+        ["Budget Variance", "Which branches are over or under plan?", "Budget fact from Excel, shared dimensions"],
+        ["DSO", "How fast do customers pay?", "AR balances and revenue over a period"],
+        ["Stock Turns", "How quickly does inventory move?", "Stock movements and average inventory"],
+      ],
+    },
+    {
+      id: "engagement-cost",
+      eyebrow: "Cost",
+      heading: "Power BI consulting services by engagement type",
+      note: "Starting prices in USD. Microsoft licences and any cloud database are billed to you directly.",
+      columns: ["Engagement", "What you get", "Starts at", "Timeline"],
+      rows: [
+        ["Licence and workspace plan", "Headcount review, licence mix, workspace and app layout", P.ai, "Under 1 week, often bundled"],
+        ["Rescue and tune-up", "Performance fixes, reconciled numbers, notes on every change", P.ai, "1–2 weeks"],
+        ["New model, one or two sources", "Star schema, measure library, 3–6 pages, training", P.ai, "2–3 weeks"],
+        ["New model with gateway and security", "SQL Server via gateway, RLS roles, reconciliation page", P.ai, "3–5 weeks"],
+        ["Embedded or custom web reporting", "Reports inside your app or a custom dashboard", P.software, "6–12 weeks"],
+        ["Monthly care", "Refresh monitoring, new sources, small changes", P.care, "Ongoing"],
+      ],
+    },
+  ],
+  areas: {
+    eyebrow: "Across the US",
+    heading: "US regions where businesses ask us for Power BI consulting services",
+    note: "We work remotely with Microsoft 365 companies in every state. These are the kinds of businesses we hear from most in each area.",
+    cards: [
+      { name: "Columbus, Ohio", note: "Distributors, insurers and logistics firms run Microsoft 365 and on-premises SQL Server, and want branch reporting without replacing their existing systems." },
+      { name: "Dallas–Fort Worth, Texas", note: "Multi-branch service companies and wholesalers want sales and margin by location, with each manager limited to their own branch through row-level security." },
+      { name: "Chicago, Illinois", note: "Manufacturers and professional-services firms ask for budget-versus-actual models that finance can reconcile to QuickBooks or their ERP every month." },
+      { name: "New York, New York", note: "Consulting, legal-support and property firms want utilisation and billing reports in Teams, often with a few external viewers who need licences planned." },
+      { name: "Charlotte, North Carolina", note: "Financial services and construction businesses want project cost and pipeline reports with clear roles for regional directors." },
+      { name: "Atlanta, Georgia", note: "Franchise and logistics operators need per-location reporting and a licence plan that does not charge head office for every occasional viewer." },
+      { name: "Phoenix, Arizona", note: "Home services and solar installers join CRM exports, job data and QuickBooks to see lead-to-cash timelines across crews." },
+      { name: "Denver, Colorado", note: "Outdoor retail and hospitality groups track seasonal sales and staffing, often with Excel budgets that need to sit beside actuals." },
+      { name: "Minneapolis, Minnesota", note: "Consumer-goods suppliers and healthcare services companies want stock, sell-through and service metrics in one model with tight access control." },
+      { name: "Tampa, Florida", note: "Multi-site clinics and service firms need branch dashboards and simple mobile viewing for managers who rarely sit at a desk." },
+      { name: "Houston, Texas", note: "Industrial suppliers and field-service firms bring SQL Server data from on-premises systems that need a well-maintained gateway." },
+      { name: "Nashville, Tennessee", note: "Healthcare management and entertainment-business companies ask for reporting with strict row-level roles across departments." },
+      { name: "Seattle, Washington", note: "Mac-heavy creative and software teams want Power BI for finance while planning around Power BI Desktop's Windows requirement." },
+      { name: "Salt Lake City, Utah", note: "Fast-growing direct-to-consumer and software companies need a first proper finance model before they hire a full-time analyst." },
+    ],
+  },
+  process: {
+    heading: "How our Power BI consulting services run, step by step",
+    steps: [
+      ["Share what you have", "Send screenshots of current reports, a sample of each source and your top questions. We reply the same day with any clarifying questions about sources and viewers."],
+      ["Get an itemised quote", "About two working days later you receive a USD quote covering scope, licence plan, security roles, training and documentation. Nothing is billed before written approval."],
+      ["Set up guest access", "Your admin invites our named accounts as guests with limited workspace roles. Gateway and database credentials are entered by your staff, not shared in chat."],
+      ["Build and reconcile the model", "We shape sources in Power Query, build the star schema and measures, and reconcile a closed month with your controller before designing pages."],
+      ["Publish, secure and test", "Reports are published through an app, row-level security roles are tested with real sign-ins, and scheduled refresh runs for a week with alerts."],
+      ["Train and hand over", "Three recorded sessions, a model diagram, measure list and refresh runbook. Fixes are free for five months; care plans are optional afterwards."],
+    ],
+  },
+  faqHeading: "Power BI consulting services: questions US businesses ask",
+  faqs: [
+    { question: "What do Power BI consulting services include?", answer: "They typically include licence planning, connecting data sources, designing the semantic model, writing DAX measures, building report pages, setting up workspaces and row-level security, configuring scheduled refresh and training your staff. For a small business the best engagements are defined projects that end with a documented model and a named internal owner." },
+    { question: "How much do Power BI consulting services cost?", answer: `With our team, a new Power BI model or a rescue of an existing one starts at ${P.ai}, and embedded or custom web reporting starts at ${P.software}. Scope drives the quote: number and condition of sources, report pages, security roles, gateway setup and reconciliation. Microsoft licences are separate and bought directly from Microsoft.` },
+    { question: "Do we need Power BI Pro or Premium Per User?", answer: "Most small businesses need Pro for everyone who creates or views shared reports. Premium Per User adds features such as 48 scheduled refreshes a day and models larger than 1 GB, and Microsoft says it is more cost effective than Premium capacity below 250 users. Remember that PPU workspace content can only be viewed by PPU users." },
+    { question: "Is Power BI Pro included in Microsoft 365?", answer: "It is included in Microsoft 365 E5, according to Microsoft's licensing guide, with one Pro licence per E5 licence. If your plan does not include it, a Billing admin buys Pro separately in the Microsoft 365 admin center, monthly or yearly, and assigns it to users. Check the Licenses page in your admin center before buying anything new." },
+    { question: "Can people view Power BI reports with a free licence?", answer: "Only when the content sits on Fabric capacity of F64 or larger, or Premium capacity, and the viewer has the Viewer role on the workspace. For content in Pro workspaces or smaller capacities, every viewer needs Pro, PPU or a trial. For most small companies that means Pro for anyone who opens shared reports." },
+    { question: "Can Power BI connect to QuickBooks Online?", answer: "Yes, and the dependable route is to copy QuickBooks data on a schedule into a small database in your own Azure or AWS account, then model from there. An admin authorises the connection, so no passwords are shared. We reconcile the model to your QuickBooks profit and loss and AR aging for a closed month before building pages." },
+    { question: "How do we refresh data from a SQL Server in our office?", answer: "Through Microsoft's on-premises data gateway, a Windows application installed on an always-on machine in your network. It uses outbound connections only. The standard mode supports several users and sources; personal mode is for one user and Power BI only. Microsoft supports only the last six gateway releases, so keep it updated." },
+    { question: "How often can Power BI refresh?", answer: "Microsoft's documentation allows eight scheduled refreshes a day for semantic models on shared capacity, which covers Pro workspaces, and up to 48 on Premium, Premium Per User or Fabric capacity. For most finance and sales reporting, a morning and a midday refresh are enough; very frequent refresh is rarely worth the licence change." },
+    { question: "Can we use Power BI on a Mac?", answer: "Viewers can use the Power BI service in a browser or the mobile apps on any device. Power BI Desktop, used to build models, needs Windows 10 or later. Microsoft fully supports it on Windows 365 and Azure Virtual Desktop, so Mac-based teams usually give the model owner a cloud PC." },
+    { question: "How long does a Power BI project take?", answer: "A new model with one or two clean sources usually takes two to three weeks, and one with a gateway, several sources and row-level security three to five weeks. Rescues of existing reports often take one to two weeks. Waiting for access and for finance to confirm definitions is the most common delay." },
+    { question: "Should we hire a Power BI consultant or a full-time analyst?", answer: "Hire a consultant to build the foundation: model, core measures, licensing, security and refresh. Hire a full-time analyst when you have a steady stream of new questions every week. Many small businesses do both in sequence, using the consultant's handover pack and recorded training to bring a new analyst up to speed quickly." },
+    { question: "What is DAX and why does it matter?", answer: "DAX is the formula language for Power BI measures, such as net revenue, margin percent or fiscal year-to-date. Well-written DAX in one shared library means every report agrees; scattered formulas mean every meeting argues about numbers. We write measures with clear names, variables and descriptions so your staff can extend them." },
+    { question: "Can you fix our slow Power BI reports?", answer: "Usually, yes. We measure first with Performance Analyzer and check model size by column, then fix the causes: unused columns, text keys, auto date/time tables, bi-directional relationships and heavy calculated columns or iterators. Each change is documented so you know what was done and why the report is now faster." },
+    { question: "How is row-level security set up?", answer: "Roles are defined in Power BI Desktop with DAX filters, such as a branch or region, then people or security groups are assigned in the Power BI service. Microsoft notes that it only restricts workspace Viewers, so managers who should see limited data must not be given Member or Contributor roles. We test every role before launch." },
+    { question: "Can external clients or accountants see our Power BI reports?", answer: "Yes, as Microsoft Entra B2B guests, but licensing still applies. The sharer needs Pro or PPU, and the guest needs Pro or PPU unless the content sits on F64 or larger capacity. If many outsiders need access, a custom web portal with its own sign-in is often simpler and cheaper to run." },
+    { question: "Do you resell Power BI licences?", answer: "No. You buy licences directly from Microsoft or your existing reseller, and they bill you. We work out how many of each type you need based on who creates, views and shares reports, and point you to Microsoft's pricing page for current USD prices. That keeps the licence relationship and billing entirely in your name." },
+    { question: "Is it safe to give a remote Power BI consultant access?", answer: "It is safe when access is scoped. Your admin invites our named accounts as guests, grants a role only on the workspaces the project needs, and removes us at the end. Database and gateway credentials are entered by your staff. We do not need a global admin account or anyone's Microsoft password." },
+    { question: "What training do you provide at handover?", answer: "Three recorded sessions on your own model: one for report editors on adding pages and publishing, one for viewers on filters, drill-through and subscriptions, and one for the Microsoft 365 admin on licences, workspace roles, gateway admins and failed refreshes. Recordings and written notes stay in your SharePoint." },
+    { question: "What time zone do you work in for US clients?", answer: "We are in India, which is nine and a half hours ahead of US Eastern time in summer and ten and a half in winter. Calls happen in your morning, our evening. Work done during our day is ready for review when yours starts, and WhatsApp messages get answers seven days a week." },
+    { question: "How do US companies pay for Power BI consulting services?", answer: "You receive an itemised quote in USD and pay approved milestones by bank wire, Wise or PayPal. Invoices come from India; your accountant can advise how to book them. Nothing is billed before you approve the quote in writing, and Microsoft licences are always paid by you directly to Microsoft." },
+    { question: "What happens after the project ends?", answer: `Fixes are free for five months after handover. After that, an optional care plan starts at ${P.care} and covers refresh monitoring, gateway updates, new sources and small report changes. Many small businesses only call us back when they add a new system, because the training and documentation cover day-to-day changes.` },
+  ],
+  related: {
+    heading: "Related services for US businesses",
+    links: [
+      { name: "Custom dashboard development", href: "/usa/custom-dashboard-development/" },
+      { name: "AWS consulting for small business", href: "/usa/aws-consulting-for-small-business/" },
+      { name: "Custom software development", href: "/usa/custom-software-development/" },
+      { name: "Custom CRM development", href: "/usa/custom-crm-development/" },
+      { name: "Customer portal development", href: "/usa/customer-portal-development/" },
+      { name: "AI automation agency", href: "/usa/ai-automation-agency/" },
+      { name: "Web developer for NYC small businesses", href: "/usa/web-developer-for-new-york-businesses/" },
+      { name: "CPA firm website design", href: "/usa/cpa-firm-website-design/" },
+      { name: "Custom software development cost", href: "/usa/custom-software-development-cost/" },
+      { name: "All services for US businesses", href: "/usa/" },
+      { name: "Hire Indian developers", href: "/hire-indian-developers/" },
+      { name: "Contact us", href: "/contact/" },
+    ],
+  },
+  cta: {
+    heading: "Send us your sources and the questions Power BI should answer",
+    note: "Message us on WhatsApp with your current reports, where the data lives and who needs to see it. We reply with questions, then an itemised USD quote with a licence plan in about two working days.",
+  },
+};
+
+export default content;

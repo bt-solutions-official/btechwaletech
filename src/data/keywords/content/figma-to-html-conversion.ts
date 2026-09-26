@@ -115,7 +115,7 @@ const content: FreelanceContent = {
       heading: "Hand-coding vs export plugins like Anima and Locofy",
       paragraphs: [
         `Use an export plugin when you need a quick prototype or a starting point a developer will rewrite; hand-code when the page must rank, stay fast and be maintained. Plugins read your frames and generate code automatically, and their output quality depends heavily on how carefully the Figma file was built.`,
-        `Tools such as Anima and Locofy install as Figma plugins or web apps. Anima’s own documentation describes turning frames into HTML and CSS packages with media queries for breakpoints, and Locofy describes AI-assisted conversion to responsive code. For a tidy file with consistent auto layout, the result can be a useful head start.`,
+        `Tools such as Anima and Locofy install as Figma plugins or web apps. Anima’s website says it generates responsive HTML or React from a design, with a choice of plain CSS, Tailwind or inline styles, and Locofy presents itself as AI-powered design-to-code. For a tidy file with consistent auto layout, the result can be a useful head start.`,
         `The limits appear in production work. Generated class names and deeply nested wrappers make later edits slow. A plugin cannot know that a large bold line is the page’s H1 rather than decoration, so heading structure often needs fixing for SEO and accessibility. Images may come out at their design size rather than responsive sizes. Forms, analytics, structured data and performance tuning still need a developer.`,
       ],
       list: [
@@ -301,7 +301,7 @@ const content: FreelanceContent = {
       heading: "Figma to HTML conversion for businesses across India",
       paragraphs: [
         `We convert Figma designs for clients anywhere in India, entirely online: you share the file link, we discuss it on a call and review progress on staging. There is no office to visit in any city and we do not make site visits.`,
-        `Design studios in <a href='/mumbai/'>Mumbai</a> and <a href='/delhi/'>Delhi</a> send us client files when they want development handled outside their team. Hotels and homestays in <a href='/udaipur/'>Udaipur</a> and <a href='/rishikesh/'>Rishikesh</a> ask for image-rich pages that still load quickly. Exporters in <a href='/tiruppur/'>Tiruppur</a> and <a href='/moradabad/'>Moradabad</a> want catalogue sites for overseas buyers. Colleges in <a href='/bhopal/'>Bhopal</a> and <a href='/patna/'>Patna</a> need bilingual admission pages. Restaurants and cafés in <a href='/panaji/'>Panaji</a> and <a href='/kolkata/'>Kolkata</a> want menus that work well on phones.`,
+        `Design studios in <a href='/mumbai/'>Mumbai</a> and <a href='/delhi/'>Delhi</a> often hand client files to outside developers when their own team is busy. Hotels and homestays in <a href='/udaipur/'>Udaipur</a> and <a href='/rishikesh/'>Rishikesh</a> ask for image-rich pages that still load quickly. Exporters in <a href='/tiruppur/'>Tiruppur</a> and <a href='/moradabad/'>Moradabad</a> want catalogue sites for overseas buyers. Colleges in <a href='/bhopal/'>Bhopal</a> and <a href='/patna/'>Patna</a> need bilingual admission pages. Restaurants and cafés in <a href='/panaji/'>Panaji</a> and <a href='/kolkata/'>Kolkata</a> want menus that work well on phones.`,
         `Whatever the city, the steps are the same: file review, itemised quote, staged delivery, testing on real devices and hosting in your own account.`,
       ],
     },

@@ -104,7 +104,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A web app is software people use in a browser, with accounts, data and actions, as opposed to a website that people mainly read. Hiring a web app development company in the UK means paying for product thinking, a back end, security and ongoing releases, not only page design.`,
         `The line is blurry, so here is a quick test. If users log in, create or change data, pay for something on a schedule, or get results computed for them (a quote, an availability slot, a report), you are describing a web app. If they mainly read pages and send an enquiry, you need a website, and our <a href='/uk/small-business-website-design/'>small business website page</a> will suit you better.`,
-        `For UK businesses the most common customer-facing web apps we see fall into four families: booking and appointments, instant quotes and product configurators, member or customer areas, and subscription software sold to other businesses. Each has the same skeleton underneath: accounts, roles, a database, business rules, notifications, payments and an admin area. What changes is where the complexity sits.`,
+        `Customer-facing web apps for UK businesses mostly fall into four families: booking and appointments, instant quotes and product configurators, member or customer areas, and subscription software sold to other businesses. Each has the same skeleton underneath: accounts, roles, a database, business rules, notifications, payments and an admin area. What changes is where the complexity sits.`,
         `Understanding that skeleton helps you read quotes. When a web app development company prices your project, most of the cost is in the rules and the edge cases, not in the number of pages.`,
       ],
     },
@@ -116,7 +116,7 @@ const content: FreelanceContent = {
       ],
       subs: [
         { heading: "A website with forms", text: `Visitors read, then enquire or buy a fixed product. Content management and SEO matter most. Our static sites start at ${P.site} and online shops at ${P.shop}; you do not need custom application code.` },
-        { heading: "A web app for your own customers", text: "Customers log in to book, track, upload or reorder. You are the only operator, so there is one organisation's data and one admin team. This is the most common UK project we build." },
+        { heading: "A web app for your own customers", text: "Customers log in to book, track, upload or reorder. You are the only operator, so there is one organisation's data and one admin team. For many UK service businesses this is the natural first project." },
         { heading: "A SaaS product sold to many businesses", text: "Each paying customer is a separate organisation with its own users, settings and billing. That multi-tenant design adds work to data separation, permissions, subscription handling and support tooling, and should be decided before the first line of code." },
       ],
       after: [
@@ -365,7 +365,7 @@ const content: FreelanceContent = {
   ],
   areas: {
     eyebrow: "Web apps for UK users everywhere",
-    heading: "Where UK customers of our web apps are",
+    heading: "Web app ideas from businesses across the UK",
     note: "We work entirely online from India, with no UK office. These are the kinds of web app projects businesses in each place tend to bring to a small development team.",
     cards: [
       { name: "London", note: "Founders building B2B software, plus service firms that want client dashboards, onboarding flows or quoting tools that feel as polished as the products their customers use." },

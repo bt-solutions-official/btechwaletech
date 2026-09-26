@@ -16,7 +16,7 @@ const content: FreelanceContent = {
     title: `Astrology App Development: Chat & Call from ${P.app}`,
     description: `Astrology app development with per-minute chat and call wallet, kundli engine, astrologer payouts and live sessions. Apps from ${P.app}; MVP vs full cost.`,
     keywords: [
-      "astrology app development", "astrology app development company india", "astrology app development cost", "astrologer consultation app",
+      "astrology app development", "astrology app developer india", "astrology app development cost", "astrologer consultation app",
       "astrology app like astrotalk", "talk to astrologer app development", "kundli app development", "horoscope app development",
       "astrology chat app development", "per minute astrologer call app", "astrology wallet app", "astrology app with live streaming",
       "kundli api integration", "astrology marketplace app", "how to make an astrology app", "how much does it cost to build an astrology app",
@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "How much does astrology app development cost, and what should the MVP include?",
-    text: `An astrology consultation MVP needs a customer app, an astrologer app, a prepaid wallet that bills chat and calls per minute, a kundli engine and an admin panel. With us, app work starts at ${P.app} and the backend and admin start at ${P.software}; live streaming, AI horoscopes and a web version are added later. Expect roughly 10 to 14 weeks.`,
+    text: `With us, astrology app development starts at ${P.app} for the Android and iOS apps plus ${P.software} for the backend and admin, and the MVP should include a customer app, an astrologer app, a prepaid wallet that bills chat and calls per minute, a kundli engine and an admin panel. Live streaming, AI horoscopes and a web version come later. Expect roughly 10 to 14 weeks.`,
     more: `If you are a single astrologer wanting bookings rather than a marketplace, an <a href='/astrologer-website-design/'>astrologer website</a> is cheaper and faster. For broader app budgeting, read <a href='/app-development-cost-in-india/'>app development cost in India</a>.`,
   },
   snapshot: {
@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Astrology app development means building the software that lets people get astrological readings on their phone, either from a calculation engine, from human astrologers, or both. Before any estimate, decide which of three shapes you are building, because the cost difference between them is large.`,
         `The first shape is a <strong>content and calculation app</strong>: daily horoscope, kundli, matching, panchang and muhurat, with ads or a subscription. No astrologer talks to anyone. The second is a <strong>single-brand consultation app</strong> for one well-known astrologer or a family practice with a few associates, where clients book and pay for sessions. The third is a <strong>multi-astrologer marketplace</strong>, where dozens or hundreds of independent astrologers go online, clients choose one, and the platform bills by the minute and keeps a commission.`,
-        `Most enquiries we get describe the third shape, because that is the model people see in the popular apps. It is also the hardest: you are running a two-sided marketplace with real-time billing, identity checks on the supply side and payouts every week.`,
+        `The third shape is what most people picture, because it is the model behind the best-known consultation apps. It is also the hardest: you are running a two-sided marketplace with real-time billing, identity checks on the supply side and payouts every week.`,
       ],
       list: [
         "Content app: one mobile app plus a small admin panel; lowest cost; revenue depends on traffic",
@@ -150,7 +150,7 @@ const content: FreelanceContent = {
       heading: "Kundli generation in an astrology app: build on an ephemeris library or buy a kundli API?",
       paragraphs: [
         `Both work. A kundli API is the faster start and costs you a monthly or per-call fee; a licensed ephemeris library costs more developer time up front but has no per-chart charge and keeps the calculation under your control.`,
-        `Whichever you pick, the chart is only as good as its inputs. Birth place has to be turned into latitude, longitude and the correct time zone, including historical offsets for older birth dates, so we use a time-zone database with history rather than a fixed “+5:30”. The ayanamsa must be configurable; most Vedic astrologers expect Lahiri by default, but some prefer KP or Raman. The app must draw charts the way your users read them, in North Indian, South Indian or East Indian style.`,
+        `Whichever you pick, the chart is only as good as its inputs. Birth place has to be turned into latitude, longitude and the correct time zone, including historical offsets for older birth dates, so we use a time-zone database with history rather than a fixed “+5:30”. The ayanamsa must be configurable; many Vedic astrologers work with Lahiri (Chitrapaksha), while followers of KP or Raman expect their own. The app must draw charts the way your users read them, in North Indian, South Indian or East Indian style.`,
         `Licensing is the trap people miss. Astrodienst, which publishes the widely used Swiss Ephemeris, offers it either under the GNU Affero General Public License, which obliges you to place your whole software project under the AGPL or a compatible licence, or under a paid Professional licence with a signed contract. A closed-source commercial app normally means buying the Professional licence, in your name. We check the licence of any library or API before it goes into your code.`,
       ],
       subs: [
@@ -191,7 +191,7 @@ const content: FreelanceContent = {
         `Yes, astrology apps are published on both stores, but Apple in particular expects a genuinely distinct product. Its guideline 4.3 names fortune telling among the app types that are already well established and says Apple will not accept new submissions unless they offer a meaningfully different or improved experience.`,
         `That rule is the main reason we discourage lightly rebranded scripts. An astrology app with its own design, real astrologers, a clear consultation workflow and useful tools stands a far better chance than a clone with a new logo. We prepare review notes and a demo account so the reviewer can see a live consultation flow.`,
         `Both stores also expect account deletion. Apple’s guideline 5.1.1(v) says an app that supports account creation must offer account deletion inside the app, and Google Play requires an in-app deletion path plus a web link where users can request deletion of their account and data. For an astrology app, which stores birth details and private chat, we build both from the start.`,
-        `Payments need a separate check. Google Play’s Payments policy lists exemptions from Play billing such as physical goods and services and peer-to-peer payments; a paid astrologer chat is a digital service, so we read the current Play policy and any billing programmes Google offers for India with you before deciding the Android payment flow. Registration costs US$25 once for Google Play and US$99 a year for the Apple Developer Program, both in your name.`,
+        `Payments need a separate check. Google Play’s Payments policy lists exemptions from Play billing such as physical goods and services and peer-to-peer payments. Whether a paid live astrologer chat falls inside or outside Play billing is not spelled out the way Apple’s person-to-person rule is, so we read the current Play policy and any billing programmes Google offers for India with you before deciding the Android payment flow. Registration costs US$25 once for Google Play and US$99 a year for the Apple Developer Program, both in your name.`,
       ],
     },
     {
@@ -279,7 +279,7 @@ const content: FreelanceContent = {
         "Rules for astrologers against fear-based upselling of costly remedies, enforced through reviews and audits",
         "Age gate and terms that state the service is for guidance, not medical, legal or financial advice",
       ],
-      after: [`None of this is legal sign-off; it is the software that lets your policies work. Our own <a href='/terms/'>terms</a> describe how we handle client code and data during a project.`],
+      after: [`None of this is legal sign-off; it is the software that lets your policies work. How a project with us is agreed is set out in your written quote and our <a href='/terms/'>terms</a>.`],
     },
     {
       id: "timeline",
@@ -306,7 +306,7 @@ const content: FreelanceContent = {
       heading: "Getting users: SEO, app store search and AI answers for an astrology app",
       paragraphs: [
         `An astrology app grows from search more than from ads once it is established, because people search daily for rashifal, kundli matching and muhurat. A companion website with fast, indexable pages for each sign, festival and calculator brings that traffic to you, then sends it into the app.`,
-        `We usually pair the app with a content site: horoscope pages per sign and language, a free kundli and matching tool on the web, astrologer profile pages, and festival calendars. These pages need structured headings, quick loading on mid-range Android phones and clean Core Web Vitals in Google Search Console. The same short, factual answer blocks also help AI search tools quote you. Nobody can promise rankings; what we can do is build pages that deserve them.`,
+        `A companion content site works well alongside the app: horoscope pages per sign and language, a free kundli and matching tool on the web, astrologer profile pages, and festival calendars. These pages need structured headings, quick loading on mid-range Android phones and clean Core Web Vitals in Google Search Console. The same short, factual answer blocks also help AI search tools quote you. Nobody can promise rankings; what we can do is build pages that deserve them.`,
         `Inside the stores, the listing title, screenshots and first lines of the description decide installs. Keywords in Hindi and English, screenshots that show a real consultation flow, and quick replies to reviews all help. Our <a href='/app-store-optimization-services/'>app store optimisation work</a> covers this, and an <a href='/seo-website-developer/'>SEO website build</a> starts at ${P.seoSite} for the content site.`,
       ],
     },
@@ -325,8 +325,8 @@ const content: FreelanceContent = {
       heading: "Astrology app development across India",
       paragraphs: [
         `We work remotely with astrologers, spiritual organisations and startups anywhere in India, on WhatsApp and video calls. Demand for astrology app development is not limited to metros; much of the supply of astrologers sits in temple towns, while many paying users live in large cities.`,
-        `Clients in pilgrimage centres such as <a href='/varanasi/'>Varanasi</a>, <a href='/ujjain/'>Ujjain</a>, <a href='/mathura/'>Mathura</a>, <a href='/puri/'>Puri</a> and <a href='/tirupati/'>Tirupati</a> often want apps that carry an existing practice to users elsewhere. Startups in <a href='/delhi/'>Delhi</a>, <a href='/mumbai/'>Mumbai</a>, <a href='/hyderabad/'>Hyderabad</a>, <a href='/jaipur/'>Jaipur</a> and <a href='/indore/'>Indore</a> more often build marketplaces with many astrologers. Regional platforms serving Tamil, Bengali or Marathi users look closer to <a href='/chennai/'>Chennai</a>, <a href='/kolkata/'>Kolkata</a> and <a href='/nashik/'>Nashik</a> for astrologers and content.`,
-        `Wherever you are, the process is the same: a scope call, a written itemised quote in about two working days, weekly builds on your phone, and payment by UPI or bank transfer against milestones with a GST invoice where applicable.`,
+        `For astrologers in pilgrimage centres such as <a href='/varanasi/'>Varanasi</a>, <a href='/ujjain/'>Ujjain</a>, <a href='/mathura/'>Mathura</a>, <a href='/puri/'>Puri</a> and <a href='/tirupati/'>Tirupati</a>, the natural fit is an app that carries an existing practice to users elsewhere. A founder in <a href='/delhi/'>Delhi</a>, <a href='/mumbai/'>Mumbai</a>, <a href='/hyderabad/'>Hyderabad</a>, <a href='/jaipur/'>Jaipur</a> or <a href='/indore/'>Indore</a> with no practice of their own is more likely to plan a marketplace with many astrologers. Regional platforms serving Tamil, Bengali or Marathi users look closer to <a href='/chennai/'>Chennai</a>, <a href='/kolkata/'>Kolkata</a> and <a href='/nashik/'>Nashik</a> for astrologers and content.`,
+        `Wherever you are, the process is the same: a scope call, a written itemised quote in about two working days, weekly builds on your phone, and payment by UPI or bank transfer against milestones you have seen working.`,
       ],
     },
     {
@@ -402,18 +402,18 @@ const content: FreelanceContent = {
   areas: {
     eyebrow: "Across India",
     heading: "Astrology app development for clients in these cities",
-    note: "All work is remote, by WhatsApp and video call. Each city page describes the businesses there we build for.",
+    note: "All work is remote, by WhatsApp and video call. Each city page covers the local business scene in more detail.",
     cards: [
       { name: "Astrology apps in Varanasi", note: "Families of jyotish pandits near the ghats serve clients who travel from across India; an app lets that practice take paid consultations and puja bookings without the trip.", href: "/varanasi/" },
-      { name: "Astrology apps in Ujjain", note: "Ujjain has deep links to Indian astronomy and draws pilgrims to Mahakaleshwar, so local astrologers and puja services have reason to reach clients online.", href: "/ujjain/" },
+      { name: "Astrology apps in Ujjain", note: "Ujjain served as the reference meridian of classical Indian astronomy and draws pilgrims to Mahakaleshwar, so its astrologers and puja services have good reason to reach clients online.", href: "/ujjain/" },
       { name: "Astrology apps in Mathura", note: "Pilgrim traffic around Krishna temples in Mathura and nearby Vrindavan supports priests and astrologers who can extend consultations and seva bookings through an app.", href: "/mathura/" },
       { name: "Astrology apps in Prayagraj", note: "The Sangam and the Kumbh and Magh melas bring ritual and astrology services to Prayagraj; apps help priests keep contact with pilgrims after they return home.", href: "/allahabad/" },
       { name: "Astrology apps in Puri", note: "Around the Jagannath temple, pandas and astrologers serve Odia and visiting families, many of whom want muhurat and ritual guidance remotely before a visit.", href: "/puri/" },
       { name: "Astrology apps in Tirupati", note: "Heavy pilgrim flow to Tirumala supports Telugu-speaking priests and astrologers, and a Telugu-first consultation app suits clients who plan rituals from other states.", href: "/tirupati/" },
-      { name: "Astrology apps in Delhi", note: "Delhi-NCR startups often build multi-astrologer marketplaces, needing strong wallets, payout tools and load testing for festival traffic from Hindi-speaking users.", href: "/delhi/" },
-      { name: "Astrology apps in Mumbai", note: "Mumbai clients range from celebrity astrologers wanting a branded app to media businesses adding horoscope sections and paid consultations to existing audiences.", href: "/mumbai/" },
-      { name: "Astrology apps in Jaipur", note: "Jaipur’s gemstone trade and astrologers often work together, so apps here add remedy stores for certified stones alongside chat and call consultations.", href: "/jaipur/" },
-      { name: "Astrology apps in Hyderabad", note: "Hyderabad has product teams building bilingual Telugu and English astrology platforms, with interest in AI horoscopes and kundli matching for marriage enquiries.", href: "/hyderabad/" },
+      { name: "Astrology apps in Delhi", note: "A multi-astrologer marketplace launched from Delhi-NCR for Hindi-speaking users needs a solid wallet, payout tools and load testing for festival-day traffic spikes.", href: "/delhi/" },
+      { name: "Astrology apps in Mumbai", note: "Well-known astrologers wanting a branded app and media businesses adding paid consultations for an existing audience are both natural Mumbai projects, each with different billing needs.", href: "/mumbai/" },
+      { name: "Astrology apps in Jaipur", note: "Jaipur is a major centre for cutting and trading coloured gemstones, so an astrology app built here may pair chat and call consultations with a remedy store.", href: "/jaipur/" },
+      { name: "Astrology apps in Hyderabad", note: "A Telugu and English astrology platform from Hyderabad would typically lead with kundli matching for marriage enquiries, with AI horoscope drafts as a later addition.", href: "/hyderabad/" },
       { name: "Astrology apps in Chennai", note: "Tamil astrology follows its own chart style and panchang conventions, so Chennai clients need South Indian charts and Tamil-speaking astrologer filters built in.", href: "/chennai/" },
       { name: "Astrology apps in Kolkata", note: "Bengali users follow the Bengali calendar and festivals, so Kolkata-based platforms want Bengali content, East Indian chart style and festival reminders.", href: "/kolkata/" },
       { name: "Astrology apps in Indore", note: "Indore’s startup scene and closeness to Ujjain make it a practical base for Hindi-first astrology marketplaces drawing astrologers from across Madhya Pradesh.", href: "/indore/" },

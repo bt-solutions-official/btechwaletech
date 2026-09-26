@@ -152,7 +152,7 @@ const content: FreelanceContent = {
       heading: "What should the site-survey booking form in solar company website design ask?",
       paragraphs: [
         `Enough for your engineer to know whether the visit is worthwhile and what to bring: exact location, roof type and access, rough shade-free area, visible shading, sanctioned load, and a photo of the latest electricity bill. Then a preferred date and time slot.`,
-        `We build the form in two steps so it does not feel heavy. Step one is the essentials: name, phone, pincode, home or business, and preferred slot. Step two is optional but encouraged: a map pin for the building, roof photos, bill upload, and notes about water tanks or nearby trees. Visitors who complete step two tend to be serious, and your team can prioritise them.`,
+        `We build the form in two steps so it does not feel heavy. Step one is the essentials: name, phone, pincode, home or business, and preferred slot. Step two is optional but encouraged: a map pin for the building, roof photos, bill upload, and notes about water tanks or nearby trees. A visitor who bothers with step two has shown real intent, so your team can call them first.`,
         `Slot booking can be as simple as a calendar tied to your survey team’s availability, blocking days when engineers are already booked. Confirmation goes to the customer on WhatsApp with what to keep ready: the latest bill, sanctioned load details and roof access. The enquiry reaches your sales desk with everything attached. If survey volume grows, a field app for engineers to capture measurements and photos on site can follow; our <a href='/it-services/android-ios-app/'>Android and iOS app</a> service covers that.`,
       ],
     },
@@ -161,7 +161,7 @@ const content: FreelanceContent = {
       heading: "How should solar company website design present a project gallery buyers believe?",
       paragraphs: [
         `Show real installations with the details buyers compare: city or district, system size in kW, roof type, mounting structure, and a photo of the finished array with the building visible. Get the customer’s permission before publishing anything that identifies their home or business.`,
-        `A gallery of stock panel photos, or images copied from manufacturers, undermines everything else on the site. Buyers increasingly reverse-search photos, and competitors notice too. Your own project photos, even imperfect phone pictures, prove you do the work. Group projects into residential, commercial and institutional, and let visitors filter by city so a homeowner in Jodhpur can see installations near them.`,
+        `A gallery of stock panel photos, or images copied from manufacturers, undermines everything else on the site. A reverse image search takes seconds, and buyers and competitors can both run one. Your own project photos, even imperfect phone pictures, prove you do the work. Group projects into residential, commercial and institutional, and let visitors filter by city so a homeowner in Jodhpur can see installations near them.`,
         `Avoid publishing generation or savings figures for individual customers unless the customer has shared them and agreed. Where they have, show the period and the source (for example, inverter monitoring screenshots) rather than a round number. A short case note for each featured project, written as facts (roof challenge, structure used, installation days), helps both buyers and search engines. Our <a href='/portfolio/'>portfolio</a> page shows how we present work without inventing results.`,
       ],
     },
@@ -171,7 +171,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Capacity sizing against daytime consumption, available roof or land area, payback and cash-flow reasoning, the financing routes you offer, grid-connection and metering rules that apply in that state, operation and maintenance plans, and a proposal request form.`,
         `Business owners and finance heads read these pages differently from homeowners. They want to understand the logic before a salesperson calls. Explain how you size a plant from twelve months of bills, why daytime load matters, what happens on holidays, and how you handle structures on metal sheet roofs of factory sheds. If you design ground-mounted or carport systems, describe them with your own photos.`,
-        `Keep tax and regulatory statements general and point to official sources or the buyer’s accountant; metering and banking rules are set by each state’s electricity regulator and can change. A downloadable capability document (projects by size, team, service coverage, equipment brands you usually install) is a strong asset for procurement teams. Schools, hospitals and housing societies are a separate segment with their own decision process, so give them a short page each if you serve them. A solar company website design that treats commercial buyers seriously often wins larger orders from fewer leads.`,
+        `Keep tax and regulatory statements general and point to official sources or the buyer’s accountant; metering and banking rules are set by each state’s electricity regulator and can change. A downloadable capability document (projects by size, team, service coverage, equipment brands you usually install) is a strong asset for procurement teams. Schools, hospitals and housing societies are a separate segment with their own decision process, so give them a short page each if you serve them. A solar company website design that treats commercial buyers seriously gives them the material they need to take your proposal to a board meeting.`,
       ],
     },
     {
@@ -198,7 +198,7 @@ const content: FreelanceContent = {
       id: "local-seo",
       heading: "How does solar company website design help you rank in your service area?",
       paragraphs: [
-        `By giving each town you genuinely serve a page with local proof, and backing it with a verified Google Business Profile. Buyers search “rooftop solar installer near me” or “solar company in Kota”, and Google’s local results lean on proximity, relevance and reputation.`,
+        `By giving each town you genuinely serve a page with local proof, and backing it with a verified Google Business Profile. Buyers search “rooftop solar installer near me” or “solar company in Kota”, and Google’s own help page says local results are based mainly on relevance, distance and prominence.`,
         `A good service-area page includes installations in that town, the DISCOM that serves it and any local paperwork notes, the name of the engineer or partner who covers it, and reviews from local customers. A page that repeats your home page with a different town name adds nothing, and Google’s spam policies describe pages targeted at many regions that funnel users to one page as doorway abuse. Fewer, real pages work better.`,
         `The technical side: clean URLs, schema describing your business and service areas, an XML sitemap submitted in Google Search Console, fast mobile pages, and a blog that answers seasonal questions (monsoon cleaning, summer output, net-meter delays) with facts. Nobody can guarantee rankings; we build pages that deserve them and track results. Our <a href='/multi-location-seo/'>multi-location SEO</a> page explains how several offices or partner areas are handled.`,
       ],
@@ -207,7 +207,7 @@ const content: FreelanceContent = {
       id: "ai-visibility",
       heading: "Can AI assistants find and recommend a solar company?",
       paragraphs: [
-        `Yes, when the website states clearly who you are, where you install, what capacities you handle and how the subsidy process works with you. Homeowners now ask ChatGPT, Gemini and Google’s AI answers things like “good rooftop solar installer in Indore for a 3 kW system”.`,
+        `Yes, when the website states clearly who you are, where you install, what capacities you handle and how the subsidy process works with you. Homeowners can ask ChatGPT, Gemini and Google’s AI answers things like “good rooftop solar installer in Indore for a 3 kW system”.`,
         `We structure pages so each section can be quoted alone: a one-paragraph summary at the top of the residential and commercial pages, factual FAQ answers, service areas listed as text, and project data in HTML rather than images. Structured data links your business to its locations and services. Consistency across your website, Google Business Profile and directories helps assistants treat you as one entity.`,
         `The subsidy explainer is especially quotable if it is accurate, dated and linked to the official source. What rarely gets cited: slogans and inflated claims. We cannot promise any AI mention; our <a href='/generative-engine-optimization-services/'>generative engine optimisation</a> page explains what tends to help.`,
       ],

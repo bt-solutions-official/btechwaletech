@@ -7,7 +7,7 @@ const ramnagarBihar: CityContent = {
   meta: {
     title: "IT Services in Ramnagar, Bihar: Web, Apps & AI",
     description:
-      "Hindi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Ramnagar's cane growers, sugar and rice mill suppliers, border traders and coaching classes.",
+      "Hindi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Ramnagar's cane growers, mill suppliers, border traders and coaching classes.",
     keywords: [
       "IT services in Ramnagar",
       "IT company in Ramnagar Bihar",

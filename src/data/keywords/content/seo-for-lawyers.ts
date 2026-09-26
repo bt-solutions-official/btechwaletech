@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "Is SEO for lawyers allowed under Bar Council of India rules?",
-    text: `SEO for lawyers is workable in India when the site informs rather than solicits. Rule 36 bars advocates from soliciting work or advertising, but advocates may run websites with factual details such as names, contact information, qualifications and areas of practice, and legal explanations help clients understand their options. Monthly SEO starts at ${P.seo}; a law firm website at ${P.site}.`,
+    text: `Yes: SEO for lawyers is allowed in India when the site informs rather than solicits. Rule 36 bars advocates from soliciting work or advertising, but advocates may run websites with factual details such as names, contact information, qualifications and areas of practice, and legal explanations help clients understand their options. Monthly SEO starts at ${P.seo}; a law firm website at ${P.site}.`,
     more: `See how we build the site itself on <a href='/lawyer-website-design/'>lawyer website design</a>, or compare with <a href='/seo-for-chartered-accountants/'>SEO for chartered accountants</a>, another profession with conduct rules.`,
   },
   snapshot: {
@@ -143,7 +143,7 @@ const content: FreelanceContent = {
     },
     {
       id: "practice-areas",
-      heading: "How to build practice-area pages that rank",
+      heading: "Practice-area pages: the core of SEO for lawyers",
       paragraphs: [
         `Each area of practice deserves its own page, because clients search for a specific problem, not for “law firm”. A single “services” page listing ten areas cannot rank for any of them.`,
         `A strong practice-area page follows the client’s questions in order: what this kind of matter involves, which law governs it, which court or forum hears it, the usual stages, typical documents, rough timelines where they can be stated honestly, and common mistakes people make before seeing an advocate. It ends with the advocate’s practice details and contact information, stated plainly.`,
@@ -160,7 +160,7 @@ const content: FreelanceContent = {
     },
     {
       id: "eeat",
-      heading: "E-E-A-T for legal content: why authorship and dates matter",
+      heading: "E-E-A-T in SEO for lawyers: why authorship and dates matter",
       paragraphs: [
         `Legal questions are “Your Money or Your Life” topics, where Google’s helpful content guidance says its systems give more weight to content showing strong experience, expertise, authoritativeness and trust. For SEO for lawyers that translates into three visible things: who wrote the page, how it was researched, and when it was last checked.`,
         `Each explainer should name the advocate who wrote or reviewed it, with their enrolment and qualifications on a linked profile page. The content should cite the statute and section, and relevant judgments where helpful, so readers can verify it. And every page should carry a “last reviewed” date that changes only when someone actually rereads it.`,

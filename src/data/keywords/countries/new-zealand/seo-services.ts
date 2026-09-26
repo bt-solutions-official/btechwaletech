@@ -27,7 +27,7 @@ const content: FreelanceContent = {
     eyebrow: "SEO services NZ · monthly work you can see and check",
     h1: "SEO services NZ businesses can audit, task by task, every month",
     lede: `Our SEO services NZ clients hire are built around one idea: you should be able to see exactly what was done each month and check it yourself in Google Search Console. BtechWaleTech is three freelance developers in India, and one of us, Santosh Sharma, leads technical SEO. Monthly SEO starts from ${P.seo}. The work splits between technical fixes, pages written for New Zealand searches, NZ directory citations and a plain-English report. See <a href='#month-by-month'>the month-by-month plan</a> first.`,
-    pills: ["Ranking on google.co.nz", "Google Business Profile", "NZ directory citations", "Technical fixes first", "AI Overview readiness", "Plain-English reports", "No lock-in wording"],
+    pills: ["Ranking on google.co.nz", "Google Business Profile", "NZ directory citations", "Technical fixes first", "AI Overview readiness", "Plain-English reports", "Dated task log"],
     origin: "Three freelance developers in India · WhatsApp replies 7 days a week · reports land before your NZ Monday",
   },
   facts: [
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "First month", value: "Audit, fixes list, Business Profile review, citation clean-up" },
       { label: "Evidence", value: "A dated task log and Search Console screenshots every month" },
       { label: "Access model", value: "You own every account and add us as a user" },
-      { label: "Billing", value: "Quoted in USD · Wise, bank wire or PayPal · month to month as agreed in your quote" },
+      { label: "Billing", value: "Quoted in USD · Wise, bank wire or PayPal · term set in your written quote" },
     ],
   },
   services: {
@@ -119,7 +119,7 @@ const content: FreelanceContent = {
       heading: "How do you rank on google.co.nz rather than Google Australia?",
       paragraphs: [
         "Google decides which country a site suits from several signals: the domain, the language and spelling, local addresses and phone numbers, links from other NZ sites and where your visitors come from. Get those consistent and your pages compete for NZ searches.",
-        "Plenty of New Zealand businesses accidentally look Australian. The site was built from an Australian template, the prices mention GST at the wrong rate, the phone number has no NZ format, and the only backlinks come from overseas directories. Google does not punish that, but it gives the site weaker reasons to show for a search in Palmerston North.",
+        "A New Zealand business can easily look Australian by accident. Say the site started from an Australian template, the prices quote GST at the wrong rate, the phone number has no NZ format, and the only backlinks come from overseas directories. Google does not punish that, but it gives the site weaker reasons to show for a search in Palmerston North.",
         "Our fixes are mundane and effective: NZ English spelling and terms, a +64 phone number in consistent format, suburbs and towns named where they genuinely apply, a Business Profile in the correct category, and links from NZ associations, suppliers and directories. If you also sell in Australia, we plan separate sections or hreflang tags so each market gets the right page.",
       ],
       after: ["Selling across the Tasman or further? Our <a href='/international-seo-services/'>international SEO services</a> explain hreflang and multi-country structures."],
@@ -139,8 +139,8 @@ const content: FreelanceContent = {
       heading: "Citations on NZ directories: Finda, Yellow, NoCowboys and Builderscrack",
       paragraphs: [
         "Citations are listings of your business name, address or service area, phone number and website on other sites. Consistent NZ citations help Google trust that your business is real and where you say it is; inconsistent ones create doubt.",
-        "The usual problem is not missing listings but messy ones. A business moved premises in 2019, changed its phone number, rebranded once, and now appears in four versions across the web. We find every version, list them in a spreadsheet you keep, and correct or claim each one.",
-        "For New Zealand the core set typically includes general directories such as Finda and Yellow, and for trades, review sites such as NoCowboys and Builderscrack where customers read feedback before hiring. Industry bodies and local chamber listings add weight because they are hard to fake. Quality beats quantity: twenty accurate, relevant listings outperform two hundred scraped ones.",
+        "Messy listings can do more harm than missing ones. Picture a business that moved premises, changed its phone number and rebranded once: it may now appear in four different versions across the web. We find every version, list them in a spreadsheet you keep, and correct or claim each one.",
+        "For New Zealand the core set typically includes general directories such as Finda and Yellow, and for trades, review sites such as NoCowboys and Builderscrack where customers read feedback before hiring. Industry bodies and local chamber listings add weight because they are hard to fake. Aim for accurate, relevant listings over volume; hundreds of scraped directory entries create clean-up work rather than trust.",
       ],
       list: [
         "Google Business Profile first, since it feeds Google Maps directly",
@@ -163,7 +163,7 @@ const content: FreelanceContent = {
     },
     {
       id: "technical-content-links",
-      heading: "Technical fixes vs content vs links: where should NZ SEO budgets go?",
+      heading: "Technical fixes, content or links: where should SEO services in NZ spend your budget?",
       paragraphs: [
         "Fix technical blockers first, because nothing else works while Google cannot crawl or index your pages. After that, most small NZ businesses get more from better pages than from links, until the site is competitive enough that authority becomes the limit.",
         "A simple way to decide is to look at Search Console. If important pages are missing from the index, or show 'Crawled – currently not indexed', the budget belongs in technical work. If pages are indexed but sit on page two for terms you care about, content and internal links are the lever. If you have strong pages that still trail better-known competitors, earned links from NZ sites help most.",
@@ -267,7 +267,7 @@ const content: FreelanceContent = {
       heading: "Red flags in SEO proposals sent to NZ businesses",
       paragraphs: [
         "The most common warning sign is a proposal that could have been sent to any business in any country. If it does not mention your towns, your competitors or your actual pages, nobody has looked.",
-        "Other signs are guaranteed positions, reports built only from third-party scores, bulk directory submissions to hundreds of overseas sites, doorway pages for towns you do not serve, and a contract that locks you in without describing the monthly work. Google's spam policies specifically target link schemes and scaled low-value pages, and cleaning up after them costs more than doing it properly the first time.",
+        "Other signs are guaranteed positions, reports built only from third-party scores, bulk directory submissions to hundreds of overseas sites, doorway pages for towns you do not serve, and a contract that locks you in without describing the monthly work. Google's spam policies name link spam, doorway abuse and scaled content abuse specifically, and cleaning up after them costs more than doing it properly the first time.",
         "Also watch for account capture. If the provider sets up your Business Profile or Analytics under their own login, you may struggle to get it back when you leave. Everything we touch stays in your name, and we are added as a user you can remove.",
       ],
       after: ["If an old campaign has left damage, see <a href='/google-penalty-recovery-services/'>penalty recovery</a>."],
@@ -330,7 +330,7 @@ const content: FreelanceContent = {
       columns: ["Listing type", "Examples", "Why it matters", "Priority"],
       rows: [
         ["Google Business Profile", "Your profile on Google Search and Maps", "Drives map results and calls directly", "Essential"],
-        ["Other map platforms", "Apple Business Connect, Bing Places", "Used by iPhone Maps and non-Google assistants", "High"],
+        ["Other map platforms", "Apple Business Connect, Bing Places", "Feed Apple Maps, Siri and Bing results", "High"],
         ["General NZ directories", "Finda, Yellow", "Consistent details across the NZ web", "High"],
         ["Trade review sites", "NoCowboys, Builderscrack", "Reviews buyers read before hiring tradies", "High for trades"],
         ["Industry bodies", "Your trade or professional association", "Hard-to-fake trust signals", "Medium to high"],

@@ -202,7 +202,7 @@ const content: FreelanceContent = {
       id: "urls",
       heading: "Should on-page SEO change your URLs?",
       paragraphs: [
-        `Usually not. Changing the URL of a page that already ranks resets some of its signals and risks losing links, even with a redirect. We change URLs only when the existing one is actively harmful: full of parameters, misleading, or duplicated.`,
+        `Usually not. Changing the URL of a page that already ranks makes Google recrawl it and consolidate its signals onto a new address, which can cause a temporary dip, and links from other sites keep pointing at the old one. We change URLs only when the existing one is actively harmful: full of parameters, misleading, or duplicated.`,
         `When a URL does change, the old address gets a permanent 301 redirect to the new one, internal links are updated to point at the new URL directly, and the sitemap is refreshed. Search Console is then watched for the old URL dropping out and the new one taking its place.`,
         `For new pages created during on-page work, we use short, readable slugs in lowercase with hyphens, based on the main topic rather than a full sentence. If you are planning a bigger move, such as a new domain, read <a href='/change-domain-without-losing-seo/'>changing domain without losing SEO</a> first.`,
       ],
@@ -236,7 +236,7 @@ const content: FreelanceContent = {
       heading: "On-page SEO services for Indian websites",
       paragraphs: [
         `Indian searchers mix English, Hindi and regional languages, often in the same query, and mostly on phones. On-page work has to reflect that.`,
-        `Search Console regularly shows Hinglish queries, such as a service name followed by “kaise kare”, “price kitna hai” or “ke paas”, reaching English pages. Where those queries matter, we add a short Hinglish FAQ or a line in the copy that answers them naturally, rather than creating thin duplicate pages. Full Hindi versions need their own URLs; our <a href='/hindi-seo-services/'>Hindi SEO</a> page explains the setup.`,
+        `Search Console on Indian sites can show Hinglish queries, such as a service name followed by “kaise kare”, “price kitna hai” or “ke paas”, reaching English pages. Where those queries matter, we add a short Hinglish FAQ or a line in the copy that answers them naturally, rather than creating thin duplicate pages. Full Hindi versions need their own URLs; our <a href='/hindi-seo-services/'>Hindi SEO</a> page explains the setup.`,
         `Mobile layout comes before desktop polish: the answer, the price and the WhatsApp or call button should all be visible without scrolling on a small screen. Pages should stay light enough for low-end Android phones. And trust details that Indian buyers check, such as GST number, physical address for local businesses, delivery areas and return rules, belong on the page rather than hidden in a footer link.`,
       ],
     },
@@ -262,7 +262,7 @@ const content: FreelanceContent = {
       id: "mistakes",
       heading: "On-page SEO mistakes that cost rankings",
       paragraphs: [
-        `Most damage blamed on on-page SEO services comes from editing pages without checking what they currently rank for. These are the mistakes we most often undo.`,
+        `The biggest risk in on-page SEO services is editing pages without checking what they currently rank for. These are the mistakes worth ruling out before anyone touches a ranking page.`,
       ],
       list: [
         "Rewriting a ranking page to chase a new keyword and losing the old queries",
@@ -392,7 +392,7 @@ const content: FreelanceContent = {
     { question: "Do you write the content or just give recommendations?", answer: "Both options are available. We can draft new titles, headings and copy for your approval and publish them, or hand you precise per-page instructions for your own writer. You always check facts, prices and claims before publishing, because you know your business details better than anyone." },
     { question: "How many internal links should a page have?", answer: "There is no fixed number. Each important page should be reachable from relevant pages with descriptive anchor text, and informational pages should link to the service or product they relate to. What matters is that links help a reader take the next step and that no important page is left without internal links pointing to it." },
     { question: "What should image alt text say?", answer: "Alt text should describe what the image shows in plain words, for example a photo of a therapist guiding a knee exercise. Google says it uses alt text with computer vision and page content to understand images, and warns that stuffing alt attributes with keywords is a poor experience that may be treated as spam. Decorative images should have empty alt text." },
-    { question: "Should I change my URLs for SEO?", answer: "Usually not, if the page already ranks. Changing a URL risks losing signals and links even with a redirect. We change URLs only when the current one is harmful, such as parameter-filled or misleading addresses, and always add a permanent 301 redirect, update internal links and refresh the sitemap when we do." },
+    { question: "Should I change my URLs for SEO?", answer: "Usually not, if the page already ranks. A new URL means Google must recrawl and move signals to the new address, which can cause a temporary dip, and external links keep pointing at the old one. We change URLs only when the current one is harmful, such as parameter-filled or misleading addresses, and always add a permanent 301 redirect, update internal links and refresh the sitemap when we do." },
     { question: "Can on-page SEO help me appear in AI answers?", answer: "It helps, because AI Overviews and assistants quote passages that answer a question directly and make sense on their own. Question headings, short answer paragraphs, tables and named sources all make a page easier to cite. It is not the whole picture; brand mentions on other sites and consistent business information also matter." },
     { question: "Do you do on-page SEO for Shopify and WooCommerce stores?", answer: "Yes. Stores often need template-level fixes, such as product title patterns, collection or category intros, image weight and Product schema, plus page-level work on the best-selling categories. On Shopify we edit Liquid templates and product fields; on WooCommerce we work with the theme and product data, keeping changes compatible with future updates." },
     { question: "Is on-page SEO a one-time job?", answer: "The first pass on your key pages can be a one-time project. After that, pages drift: services change, competitors improve, and new queries appear in Search Console. Many sites benefit from a regular review of their most valuable pages, which fits naturally into monthly SEO. Small sites that change rarely may only need an annual refresh." },

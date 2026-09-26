@@ -148,7 +148,7 @@ const content: FreelanceContent = {
       id: "seasonality",
       heading: "Is it seasonality? Checking demand before blaming Google",
       paragraphs: [
-        `Compare the drop with the same weeks last year before doing anything else. Google's debugging guide recommends looking at a long enough period, and Search Console keeps 16 months of performance data, which is enough to see whether this dip happened last year too.`,
+        `Compare the drop with the same weeks last year before doing anything else. Google's debugging guide recommends setting the Search Console Performance report to the last 16 months, the full history it keeps, so a dip that happens every year is not mistaken for a new problem.`,
         `Indian businesses have strong seasonal patterns. Coaching and admission searches peak around exam and results seasons, wedding and jewellery searches follow the wedding calendar, AC repair searches collapse after the monsoon arrives, and gifting and sweets follow Diwali and Rakhi. A tour operator's traffic in the monsoon is not comparable with its traffic in October.`,
         `Google's guide also suggests Google Trends to see whether interest in a topic has changed across the whole web. If searches for your main queries fell nationally, your traffic will fall even if your rankings are unchanged. In Search Console, a drop in impressions with a steady average position is the classic sign of falling demand rather than lost rankings.`,
       ],
@@ -195,7 +195,7 @@ const content: FreelanceContent = {
       heading: "Did your own changes cause the drop? Redesigns, migrations and content edits",
       paragraphs: [
         `Ask what changed on the site in the week before the drop, and write the answer down. Owners often forget that a new theme went live, that the developer “cleaned up” old blog posts, that product URLs were renamed, or that the site moved from http to https or to a new host. Google's debugging guide lists site migrations as one of the main causes of search traffic drops.`,
-        `Redesigns cause traffic loss in predictable ways: pages that earned traffic were deleted or merged, URLs changed without one-to-one redirects, text that answered searches was replaced by images and slogans, internal links to important pages disappeared from the new menu, or the staging noindex came along to production. Google's guide notes that for medium-sized sites it can take a few weeks for Google to process URL changes, so some dip after a move is normal; a drop that deepens rather than recovers is not.`,
+        `Redesigns cause traffic loss in predictable ways: pages that earned traffic were deleted or merged, URLs changed without one-to-one redirects, text that answered searches was replaced by images and slogans, internal links to important pages disappeared from the new menu, or the staging noindex came along to production. Google's guide notes that a medium-sized site can take a few weeks for Google to notice a move, and larger sites longer, so some dip after a move is normal; a drop that deepens rather than recovers is not.`,
         `Content edits matter too. Rewriting the titles of pages that ranked well, removing FAQ sections, or trimming long guides to “make them cleaner” can all reduce how well a page matches the searches it used to win. Compare the old and new versions of the pages that fell, using your CMS revision history or a web archive.`,
       ],
       after: [
@@ -260,15 +260,15 @@ const content: FreelanceContent = {
         { heading: "5. Line up events", text: "Compare the date with site deployments, hosting changes, plugin updates and the Search Status Dashboard." },
         { heading: "6. Test demand", text: "Year-on-year comparison and Google Trends for the main queries." },
         { heading: "7. Fix one cause", text: "Apply the fix the evidence supports, record the date, and request indexing for key URLs where relevant." },
-        { heading: "8. Wait and measure", text: "Google's guide suggests waiting a few weeks before re-analysing. Compare against the pre-drop baseline, then decide the next step." },
+        { heading: "8. Wait and measure", text: "Google's SEO Starter Guide suggests waiting a few weeks to judge whether a change helped. Compare against the pre-drop baseline, then decide the next step." },
       ],
     },
     {
       id: "how-long",
       heading: "How long does website traffic drop recovery take?",
       paragraphs: [
-        `It depends almost entirely on the cause. A tracking fault is “recovered” the moment the tag is fixed, although the missing data is gone. A noindex tag or robots.txt block, once removed, often sees pages return within days to a few weeks as Google recrawls them. Redirect repairs after a migration take a few weeks for medium-sized sites, in line with what Google says about processing URL changes.`,
-        `Update-related drops are slower and less certain. Improvements to content usually take effect as Google reassesses pages over time, and Google states there is no guarantee changes will lead to a noticeable recovery. Many sites see movement around a later update rather than immediately. Manual actions and security issues depend on Google processing a reconsideration or review request after the clean-up.`,
+        `It depends almost entirely on the cause. A tracking fault is “recovered” the moment the tag is fixed, although the missing data is gone. A noindex tag or robots.txt block, once removed, often sees pages return within days to a few weeks as Google recrawls them. Redirect repairs after a migration take a few weeks for medium-sized sites, in line with Google's note that a medium-sized site can take a few weeks for a move to be noticed.`,
+        `Update-related drops are slower and less certain. Improvements to content usually take effect as Google reassesses pages over time, and Google states there is no guarantee changes will lead to a noticeable recovery. Google's debugging guide notes that some changes take effect in a few days while others take several months. Manual actions and security issues depend on Google processing a reconsideration or review request after the clean-up.`,
         `Seasonal and demand drops do not “recover” through SEO at all; they return when demand does. The honest answer, then, is that some recoveries take a week and some take several months, and the diagnosis tells you which kind you are in before you spend money.`,
       ],
       after: [
@@ -362,7 +362,7 @@ const content: FreelanceContent = {
       id: "recovery-time",
       eyebrow: "Timelines",
       heading: "Website traffic drop recovery timeline by cause",
-      note: `Typical ranges, not guarantees. Google's debugging guide suggests waiting a few weeks after changes before re-analysing. Monthly SEO starts at ${P.seo}; see <a href='/pricing/'>all starting prices</a>.`,
+      note: `Typical ranges, not guarantees. Google's SEO Starter Guide suggests waiting a few weeks before judging whether a change worked. Monthly SEO starts at ${P.seo}; see <a href='/pricing/'>all starting prices</a>.`,
       columns: ["Cause", "Fix", "Typical time to see recovery"],
       rows: [
         ["Broken analytics tag", "Restore or correct the tag", "Immediate for new data; lost data stays lost"],

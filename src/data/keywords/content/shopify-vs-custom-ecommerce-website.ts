@@ -88,7 +88,7 @@ const content: FreelanceContent = {
       ["Monthly cost pattern", "Plan fee, rises with upgrades", "Plan plus several app subscriptions", `Hosting and optional upkeep from ${P.care}`],
       ["Fee per order with an Indian gateway", "Shopify transaction fee on top of the gateway's", "Lower percentage on higher plans", "Gateway charges only"],
       ["Checkout changes", "Limited customisation", "Full customisation on Plus", "Any rule you specify"],
-      ["Dealer or tier pricing", "Through apps, with workarounds", "Better on higher tiers", "Built into the data model"],
+      ["Dealer or tier pricing", "Native B2B, up to 3 catalogs", "Per-company catalogs on Plus", "Built into the data model"],
       ["Multi-vendor selling", "Needs marketplace apps", "Possible but app-dependent", "Built to your commission rules"],
       ["Who runs servers and security", "Shopify", "Shopify", "Us on your cloud account, then you or us"],
       ["Code and data portability", "Data exports; theme tied to Shopify", "Same", "Full source code and database are yours"],
@@ -118,7 +118,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Shopify removes the whole technical side of running a store. That is worth paying for when your time is better spent on products and marketing.`,
         `You do not manage servers, security patches or traffic spikes during a sale. Themes look professional out of the box. The admin is easy for non-technical staff, and there is an app for most needs, from reviews to shipping labels. For sellers still testing products, the ability to launch in days matters more than any long-term saving.`,
-        `We regularly advise sellers to stay. If your catalogue is simple, your checkout needs are standard and your app list is short, a custom build will cost more and give you little in return. In those cases our <a href='/shopify-store-setup/'>Shopify store setup</a> service or a round of <a href='/shopify-speed-optimization/'>Shopify speed optimisation</a> is the better spend.`,
+        `Staying is often the right call. If your catalogue is simple, your checkout needs are standard and your app list is short, a custom build will cost more and give you little in return. In those cases our <a href='/shopify-store-setup/'>Shopify store setup</a> service or a round of <a href='/shopify-speed-optimization/'>Shopify speed optimisation</a> is the better spend.`,
       ],
       list: [
         "Managed hosting, SSL and security",
@@ -165,9 +165,9 @@ const content: FreelanceContent = {
       id: "b2b",
       heading: "B2B and wholesale: where a custom ecommerce website pulls ahead",
       paragraphs: [
-        `B2B selling needs logins, per-customer prices, credit terms and bulk ordering, and these fit awkwardly on a platform designed for retail shoppers. It is the most common reason our clients choose a custom build.`,
+        `B2B selling needs logins, per-customer prices, credit terms and bulk ordering, and these fit awkwardly on a platform designed for retail shoppers. For many distributors and manufacturers it is the deciding reason to build custom.`,
         `A distributor or manufacturer selling to dealers typically needs: prices that differ by dealer category; minimum order quantities; credit limits and outstanding balances visible at checkout; quick-order forms where a buyer types product codes and quantities; order approval by a sales manager; and invoices matching what the accounts team already issues. Retail shoppers on the same site must see none of this.`,
-        `Shopify offers B2B features on its higher tiers and through apps, and for some brands that is enough. For businesses where B2B is the main channel, a custom portal is cleaner: the rules live in the database rather than in app settings, and they can connect to your accounting software. Our <a href='/b2b-website-developer/'>B2B website</a> page covers dealer portals in detail, and the <a href='/b2b-ordering-app/'>B2B ordering app</a> guide adds the mobile side.`,
+        `Shopify now includes core B2B tools on every plan. Its Help Center lists companies, net payment terms, quantity rules and quick order lists across Basic, Grow, Advanced and Plus, but caps Basic, Grow and Advanced at 3 active B2B catalogs and keeps per-company catalogs, which is how customer-specific pricing works, for Plus only. For some brands that is enough. For businesses where B2B is the main channel and every dealer has its own price list, a custom portal is cleaner: the rules live in the database rather than in app settings, and they can connect to your accounting software. Our <a href='/b2b-website-developer/'>B2B website</a> page covers dealer portals in detail, and the <a href='/b2b-ordering-app/'>B2B ordering app</a> guide adds the mobile side.`,
       ],
     },
     {
@@ -186,7 +186,7 @@ const content: FreelanceContent = {
         `At low order volume, Shopify is almost always cheaper. At high volume, a custom store often costs less over three years. The crossover depends on your apps, plan and gateway, so calculate it with your own numbers.`,
         `Build the comparison in three columns over 36 months. Shopify: plan fees including likely upgrades, every app subscription, the transaction fee percentage on your expected sales if you use a third-party gateway, and theme or developer costs. Custom: the one-time build, hosting, and maintenance after the free period. Common to both: gateway charges, shipping, marketing, and product photography, which you can leave out because they do not change the answer.`,
         `Sellers with a few orders a day rarely justify leaving. Sellers with steady daily volume, several paid apps and a third-party gateway often find the per-order and per-app costs over three years exceed a custom build. Sellers with B2B or marketplace needs usually find the question is less about cost and more about what Shopify cannot do cleanly.`,
-        `If you share your current Shopify invoice and app list, we will do this calculation with you before quoting anything.`,
+        `If you send your current Shopify invoice and app list with your enquiry, we can use your real numbers when we prepare the quote.`,
       ],
     },
     {
@@ -212,7 +212,7 @@ const content: FreelanceContent = {
       heading: "What does a custom ecommerce website cost in India, and what is included?",
       paragraphs: [
         `With us, a custom ecommerce website starts at ${P.shop} and usually takes 4–8 weeks. B2B portals and marketplace features are priced as custom web apps from ${P.software}.`,
-        `The starting scope covers product catalogue with categories and filters, product pages with variants, cart, checkout with UPI and card payments, COD rules, order emails and WhatsApp notifications, GST-ready invoices, a stock view, an admin panel for orders and products, and SEO basics: clean URLs, product schema, sitemap and Search Console setup.`,
+        `A typical starting scope, confirmed line by line in your quote, covers product catalogue with categories and filters, product pages with variants, cart, checkout with UPI and card payments, COD rules, order emails and WhatsApp notifications, GST-ready invoices, a stock view, an admin panel for orders and products, and SEO basics: clean URLs, product schema, sitemap and Search Console setup.`,
         `Quotes rise with catalogue size and complexity, number of pricing rules, integrations (accounting, shipping aggregators, ERP), data migration from Shopify, and custom design work. Across the market, custom ecommerce quotes vary widely because some include only a theme on an open-source platform while others include custom logic. Compare line by line. More detail is on <a href='/ecommerce-website-cost-in-india/'>ecommerce website cost in India</a>.`,
       ],
     },
@@ -237,7 +237,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A custom store gives you more control over structure and speed, but it does not rank by itself. Shopify stores rank well when content and technical basics are right, and custom stores rank badly when they are not.`,
         `Where custom helps: you choose URL structures freely instead of platform-fixed paths, you control exactly which scripts load, and you can build category and filter pages designed for search rather than working around a theme. Heavy app use on Shopify often hurts page speed on budget phones, and a lean custom storefront avoids that.`,
-        `For AI search engines and Google's AI features, what matters is clear, factual product and category content with structured data: product schema, FAQs, reviews where genuine, and consistent pricing and availability. Either platform can provide it. We add these on every custom build, and monthly SEO is available from ${P.seo}. No one can guarantee rankings, and you should distrust anyone who does.`,
+        `For AI search engines and Google's AI features, what matters is clear, factual product and category content with structured data: product schema, FAQs, reviews where genuine, and consistent pricing and availability. Either platform can provide it. We plan these into custom builds, and monthly SEO is available from ${P.seo}. No one can guarantee rankings, and you should distrust anyone who does.`,
       ],
     },
     {
@@ -246,7 +246,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Plan the migration as carefully as the build. The risks are lost search rankings, broken links from ads and emails, and customers who cannot log in.`,
         `The steps we follow: export products, customers and order history; map every old URL to its new address and set up permanent redirects; recreate discount codes and gift cards where possible; run both stores in parallel while the custom one is tested with real orders; switch the domain at a low-traffic time; and watch Search Console daily for crawl errors in the weeks after.`,
-        `Customer passwords cannot be moved between platforms, so customers set new ones on first login; a clear email beforehand reduces confusion. Payment and shipping integrations are tested with small live orders before the full switch. For the SEO side in more depth, see <a href='/traffic-drop-after-website-migration/'>traffic drops after website migration</a>.`,
+        `Shopify's customer export does not include passwords, so customers set new ones on first login; a clear email beforehand reduces confusion. Payment and shipping integrations are tested with small live orders before the full switch. For the SEO side in more depth, see <a href='/traffic-drop-after-website-migration/'>traffic drops after website migration</a>.`,
       ],
     },
     {
@@ -298,7 +298,7 @@ const content: FreelanceContent = {
         ["Testing products, few orders a week", "Low plan fee, few apps", `Build from ${P.shop} is hard to justify`, "Shopify"],
         ["Steady daily orders, retail only", "Plan plus apps; gateway fee grows with sales", "One-time build plus upkeep", "Depends on apps and fees"],
         ["High daily volume, third-party gateway", "Fee percentage on every sale, or plan upgrade", "Gateway charges only", "Often custom"],
-        ["Retail plus wholesale dealers", "B2B apps or higher tiers", `Dealer portal from ${P.software}`, "Usually custom"],
+        ["Retail plus wholesale dealers", "Native B2B with catalog limits, or Plus", `Dealer portal from ${P.software}`, "Usually custom"],
         ["Several vendors on one site", "Marketplace apps", "Built-in vendor and commission logic", "Usually custom"],
         ["Brand wants speed and design control only", "Theme limits", "Headless or full custom", "Headless Shopify first"],
       ],
@@ -313,7 +313,7 @@ const content: FreelanceContent = {
       rows: [
         ["COD only for some pincodes or order values", "App or workaround", "Rule in checkout logic"],
         ["GSTIN capture and B2B invoice", "App for invoice format", "Built into checkout and invoice"],
-        ["Dealer-specific price lists", "Wholesale app or higher tier", "Price tables per customer group"],
+        ["Dealer-specific price lists", "Up to 3 B2B catalogs below Plus", "Price tables per customer group"],
         ["Discount only for UPI payments", "Limited checkout changes on standard plans", "Payment-method rule"],
         ["Quick order by product code", "App", "Bulk order form"],
         ["Vendor commissions and payouts", "Marketplace app", "Commission rules and payout reports"],
@@ -366,7 +366,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "If custom makes sense, you get a line-by-line quote within about two working days. Nothing is billed before you approve it in writing."],
       ["Build on a staging store", "We build on a private staging link with your real products, rules and payment tests, while your Shopify store keeps selling."],
       ["Migrate and redirect", "Products, customers and order history move across, every old URL is redirected, and the domain switches at a quiet time."],
-      ["Launch and five free months", "We watch orders and Search Console closely after launch. Fixes and small changes are free for five months, then optional upkeep."],
+      ["Launch and five free months", "We watch orders and Search Console closely after launch. Maintenance is free for five months, then upkeep is optional."],
     ],
   },
   faqHeading: "Shopify vs custom ecommerce website: questions sellers ask",
@@ -378,11 +378,11 @@ const content: FreelanceContent = {
     { question: "When should I move from Shopify to a custom website?", answer: "Consider moving when several of these are true: you pay for many apps doing core store jobs, checkout or COD rules cannot be implemented cleanly, wholesale or dealer sales are a major channel, you want multiple vendors, transaction fees are significant, or integrations with accounting and ERP keep breaking. One or two signs usually mean fixing things on Shopify first." },
     { question: "Is a custom ecommerce website better for SEO than Shopify?", answer: "It gives more control over URLs, page speed and category structure, which helps when used well. But Shopify stores can rank strongly too, and a poorly built custom store ranks badly. What matters most is useful product content, clean structure, product schema and fast pages on mobile. No platform or developer can guarantee rankings." },
     { question: "Can a custom ecommerce website accept UPI and COD?", answer: "Yes. A custom store connects directly to an Indian payment gateway supporting UPI, cards, net banking and wallets, and COD is handled by rules you set, such as allowing it only for certain pincodes, below a set order value, or with a handling fee. These rules are written into the checkout rather than added through apps." },
-    { question: "Can Shopify handle B2B wholesale pricing?", answer: "Shopify offers B2B features on higher tiers and through wholesale apps, which suit some brands. When dealers are your main channel and need individual prices, credit limits, minimum quantities, quick-order forms and invoices matching your accounts, a custom dealer portal is usually cleaner because the rules live in your own database." },
+    { question: "Can Shopify handle B2B wholesale pricing?", answer: "Partly. Shopify's Help Center lists core B2B features on all plans, with up to 3 active B2B catalogs below Plus and per-company catalogs only on Plus. That suits brands with a few price tiers. When dealers are your main channel and need individual prices, credit limits, minimum quantities, quick-order forms and invoices matching your accounts, a custom dealer portal is usually cleaner because the rules live in your own database." },
     { question: "Is Shopify good for a multi-vendor marketplace?", answer: "Shopify is designed for one seller per store, so marketplaces rely on third-party apps for vendor onboarding, commissions and payouts. That can work for simple models. If your commission rules, vendor dashboards or returns routing are central to the business, a custom marketplace built on your own code gives you full control of the model." },
     { question: "What is headless Shopify and is it a good middle option?", answer: "Headless Shopify keeps Shopify's admin, inventory and checkout but replaces the storefront with a custom front end. It improves speed and design freedom and reduces theme app clutter. It does not remove checkout limits on standard plans or transaction fees, so it suits brands whose main problem is the storefront rather than checkout or pricing rules." },
     { question: "Will I lose my Google rankings if I leave Shopify?", answer: "Not if the migration is planned. Every old URL should be mapped to a new one with permanent redirects, page titles and content preserved or improved, the sitemap resubmitted in Google Search Console, and crawl errors watched daily after the switch. Rankings can fluctuate briefly; losses usually come from skipped redirects or deleted content." },
-    { question: "Can I move my customers and orders from Shopify to a custom store?", answer: "Yes. Products, customers and order history can be exported from Shopify and imported into the new store. Customer passwords cannot be transferred between platforms, so customers set a new password on first login; an email explaining this before the switch avoids confusion. Discount codes and gift cards are recreated where possible." },
+    { question: "Can I move my customers and orders from Shopify to a custom store?", answer: "Yes. Products, customers and order history can be exported from Shopify and imported into the new store. Shopify's customer export does not include passwords, so customers set a new password on first login; an email explaining this before the switch avoids confusion. Discount codes and gift cards are recreated where possible." },
     { question: "Who maintains a custom ecommerce website after launch?", answer: `With a custom store, hosting, security updates and backups become your developer's job rather than Shopify's. BtechWaleTech includes five months of free maintenance after launch, then offers upkeep from ${P.care}. The code and hosting are in your name, so you can also hand it to your own developer at any time.` },
     { question: "How long does it take to build a custom ecommerce website?", answer: "With BtechWaleTech, a custom store usually takes 4–8 weeks, depending on catalogue size, pricing rules, integrations and design. B2B portals and marketplaces take longer. Your Shopify store keeps selling during the build, and the switch happens only after the new store has been tested with real orders on a staging link." },
     { question: "Is WooCommerce a better alternative than a fully custom store?", answer: "WooCommerce is a good middle ground for sellers who want a familiar admin, plugins and no per-order platform fee, while keeping self-hosting. It can suffer from plugin creep much like Shopify's apps. Fully custom suits complex B2B, marketplace or checkout rules. Our Shopify vs WooCommerce guide compares the two platforms directly." },
@@ -390,7 +390,7 @@ const content: FreelanceContent = {
     { question: "Do I own my store if I build on Shopify?", answer: "You own your brand, domain, product data and customer list, and Shopify lets you export them. You do not own the platform, and your theme, app setup and checkout logic stay tied to Shopify. With a custom build, the code, database and hosting are also yours, along with the responsibility for keeping them updated." },
     { question: "Can a custom store work with my accounting or ERP software?", answer: "Yes, and integration is one of the strongest reasons to go custom. Orders, invoices, stock levels and payments can sync directly with your accounting or ERP system through their APIs, instead of through connector apps that may lag or break. The integration is scoped and priced as a separate line in the quote." },
     { question: "Should I build an app along with the custom store?", answer: `Only when repeat buyers justify it. A mobile-friendly custom store covers most shoppers first. Once a large share of orders comes from returning customers, an Android and iOS app on the same backend can raise repeat purchases. BtechWaleTech builds shopping apps from ${P.app} that share products, orders and logins with the website.` },
-    { question: "Can BtechWaleTech also improve my existing Shopify store instead?", answer: "Yes. If a custom build is not justified, we can tidy your app list, speed up the theme, build a private app that replaces several paid ones, or set up a headless front end. We give you the three-year cost comparison first, so the recommendation follows the numbers rather than what is easiest for us to sell." },
+    { question: "Can BtechWaleTech also improve my existing Shopify store instead?", answer: "Yes. If a custom build is not justified, we can tidy your app list, speed up the theme, build a private app that replaces several paid ones, or set up a headless front end. We look at your plan, apps and fees first, so the recommendation follows the numbers rather than what is easiest for us to sell." },
   ],
   related: {
     heading: "More ecommerce platform guides",

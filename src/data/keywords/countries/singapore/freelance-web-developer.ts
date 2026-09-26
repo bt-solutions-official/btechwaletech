@@ -25,7 +25,7 @@ const content: FreelanceContent = {
   },
   hero: {
     eyebrow: "Singapore · Freelance web developer · Remote from India",
-    h1: "Freelance web developer for Singapore: one local freelancer, or a three-person team that never goes missing?",
+    h1: "Freelance web developer Singapore choice: one local freelancer, or a three-person remote team?",
     lede: `Hiring a freelance web developer in Singapore usually means betting your site on one person's health, workload and inbox. BtechWaleTech offers a different shape of freelance: three developers in India who share one codebase, overlap with most of the SGT working day and quote in USD from ${P.site}. This page compares a solo <a href='/singapore/'>Singapore</a> freelancer with a small remote team honestly, covering rates, handover risk, hours, contracts and Wise payments.`,
     pills: ["Business sites from " + P.site, "Three developers, one codebase", "Overlap with SGT office hours", "Quotes in USD, Wise or wire", "You own domain, hosting and code", "PDPA-ready forms", "5 months free maintenance"],
     origin: "Three freelance developers in India · WhatsApp replies 7 days a week · Serving Singapore SMEs remotely",
@@ -149,7 +149,7 @@ const content: FreelanceContent = {
       heading: "What happens if your freelance web developer disappears halfway through?",
       paragraphs: [
         `If a developer vanishes, your first job is to secure the accounts, not to find a replacement. Log in to your domain registrar, hosting control panel and email service, change passwords, and remove the developer's access. If the domain is not in your name, contact the registrar with proof of your business registration.`,
-        `Then collect whatever exists: the live site files, a database export, the staging URL and any design files you were sent. With those, a new developer can judge whether to finish the existing build or start clean. We do these rescues regularly for clients abroad, and the answer depends mostly on code quality, not on how far along the site looked.`,
+        `Then collect whatever exists: the live site files, a database export, the staging URL and any design files you were sent. With those, a new developer can judge whether to finish the existing build or start clean. That call depends mostly on the quality of the code left behind, not on how finished the staging site looked.`,
         `Our own work is organised so that a rescue should never be needed on your side. Every project lives in a repository you can see, each week ends with a short written status note, and deployment steps are documented. If the three of us were somehow unavailable, another developer could continue from the handover pack described further down this page.`,
       ],
     },
@@ -187,7 +187,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Singapore Time is UTC+8 and India Standard Time is UTC+5:30, so Singapore is two and a half hours ahead. A 9 am to 6 pm SGT office day runs from 6:30 am to 3:30 pm in India, which means nearly the whole of your working day falls inside ours.`,
         `In practice that gives you a comfortable window for calls from late morning SGT onward, and same-day replies to most questions. WhatsApp is answered seven days a week, IST, so a message sent on Saturday afternoon in Singapore is usually seen the same day. Urgent production issues, such as a form that stops sending, get looked at first.`,
-        `There is no public-holiday mismatch to worry about for most weeks, but Indian festivals and Singapore holidays do not line up. We share a calendar of our own off days at the start of each project so you can plan reviews around them.`,
+        `Public holidays are the one thing to plan for: Indian festivals and Singapore holidays such as Hari Raya or Deepavali do not always fall on the same dates in both countries. Ask about planned off days when milestones are set, and schedule design reviews around them.`,
       ],
     },
     {
@@ -227,7 +227,7 @@ const content: FreelanceContent = {
       heading: "Who should own the .sg domain, hosting and code?",
       paragraphs: [
         `Your business should own all three, from the first day. A .sg or .com.sg domain is registered through an accredited registrar, and the registrant should be your company, with the developer added as a technical contact at most.`,
-        `Hosting should be an account in your company's name. For Singapore audiences a data centre in the region keeps pages quick; we often use AWS Asia Pacific (Singapore), region code ap-southeast-1, or a managed host with a Singapore location. The code goes in a repository under your organisation's account. At handover you receive admin access to everything plus a written list of every service the site depends on, from email delivery to analytics.`,
+        `Hosting should be an account in your company's name. For Singapore audiences a data centre in the region keeps pages quick; sensible options are AWS Asia Pacific (Singapore), region code ap-southeast-1, or a managed host with a Singapore location. The code goes in a repository under your organisation's account. At handover you receive admin access to everything plus a written list of every service the site depends on, from email delivery to analytics.`,
         `Owning the assets is what turns a freelance web developer into a replaceable supplier, which is exactly what you want. It protects you from us as much as from anyone else.`,
       ],
     },
@@ -273,8 +273,8 @@ const content: FreelanceContent = {
       id: "grants",
       heading: "Can you use a PSG grant with a freelance web developer?",
       paragraphs: [
-        `Usually not. The Productivity Solutions Grant supports pre-approved solutions from pre-approved vendors listed on GoBusiness, and the SME must apply before paying the vendor. Most individual freelancers, and every overseas team including ours, are outside that list.`,
-        `That does not make grants a bad idea; it just means comparing like with like. A grant-supported package covers a defined solution at a set scope, often with multi-year commitments attached. An independent build lets you choose scope, stack and hosting freely, at a lower starting price, without subsidy. Some SMEs do both: a grant-supported package for one tool, and a freelance web developer for the marketing site. Check current eligibility directly on the government portal rather than relying on any vendor's summary, including ours.`,
+        `Usually not. The Productivity Solutions Grant supports pre-approved solutions from pre-approved vendors listed on GoBusiness, and the SME must apply before paying the vendor. Most individual freelancers are not on that list, and neither is our team.`,
+        `That does not make grants a bad idea; it just means comparing like with like. A grant-supported package covers a defined solution at a set scope, and the application has to be submitted before any contract is signed or deposit is paid. An independent build lets you choose scope, stack and hosting freely, at a lower starting price, without subsidy. Some SMEs do both: a grant-supported package for one tool, and a freelance web developer for the marketing site. Check current eligibility directly on the government portal rather than relying on any vendor's summary, including ours.`,
       ],
     },
     {
@@ -411,7 +411,7 @@ const content: FreelanceContent = {
     { question: "How do I pay a freelancer in India from Singapore?", answer: "We quote in USD and most Singapore clients pay through Wise from an SGD account, which shows the rate and fee up front. Bank wire also works. Payments are tied to milestones in the written quote, and nothing is billed before you approve that quote." },
     { question: "Will I get a Singapore GST invoice?", answer: "No. Invoices are issued from India, and we do not have a Singapore entity or GST registration. How your company treats an imported service for tax purposes is a question for your accountant, and we will provide whatever invoice details they need." },
     { question: "Who owns the website code and the domain?", answer: "You do. The domain is registered to your company, hosting is billed to your account and the code lives in a repository under your organisation. We work as invited users. On final payment, everything we created for the project is yours, as set out in the written quote." },
-    { question: "Will you sign the client's own contract or NDA?", answer: "Yes, send it over. Many Singapore clients prefer their own services agreement or confidentiality terms, and we review them before starting. Anything not covered there is set out in our written quote and the terms on our website, so there are no unwritten rules." },
+    { question: "Can we use our own contract or NDA?", answer: "Send it over and we will read it before any work starts. Some Singapore companies prefer their own services agreement or confidentiality terms; what we both accept is agreed in writing alongside the itemised quote. Anything the agreement does not cover falls back to the written quote and the terms page on our website, so nothing depends on a verbal promise." },
     { question: "How long does it take to build a small business website?", answer: `A business website of up to 100 pages usually takes one to two weeks once content is ready. SEO websites with 299 or more pages take three to five weeks, and online stores four to eight. The biggest delay is almost always waiting for copy and photos, so we give you a content checklist on day one.` },
     { question: "Can you take over a site another freelancer left unfinished?", answer: "Usually, yes. First we help you secure the domain, hosting and email accounts. Then we review what exists and tell you honestly whether finishing it or rebuilding it will be cheaper and more reliable. Either way you get a written quote before any work starts." },
     { question: "Do you meet clients in Singapore in person?", answer: "No. We are three freelance developers working remotely from India, so everything happens over video calls, WhatsApp and shared documents. If face-to-face workshops are essential for your team, a local freelancer is the better fit and we would rather say so up front." },

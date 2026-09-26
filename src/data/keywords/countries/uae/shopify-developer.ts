@@ -84,7 +84,7 @@ const content: FreelanceContent = {
       ["How you are billed", "Often hourly or day rate", "Project fee plus monthly retainer", `Itemised per task or project; store from ${P.shop}`],
       ["Who writes the Liquid", "The freelancer", "A developer you may never meet", "One of three named developers"],
       ["In-person meetings", "Possible", "Usually offered", "Video calls only; no site visits"],
-      ["Cover if someone is away", "Work pauses", "Another staff member", "Two teammates already know your store"],
+      ["Cover if someone is away", "Work pauses", "Another staff member", "Teammates can pick up your store"],
       ["App choices", "Varies", "Sometimes partner apps", "Fewest apps possible; native features first"],
       ["Arabic storefront", "Depends on the person", "Usually offered", "Built and tested RTL; you supply the Arabic copy"],
       ["Store ownership", "Should be yours", "Should be yours; check the contract", "Always your account; we are collaborators"],
@@ -146,7 +146,7 @@ const content: FreelanceContent = {
       heading: "How do you set up Shopify Markets for AED and GCC currencies?",
       paragraphs: [
         `Create a market for the UAE priced in AED, then add separate markets for Saudi Arabia, Kuwait, Qatar, Bahrain and Oman only where you really ship, each with its own currency, rounding and shipping rates. One market per real delivery promise is the rule we work to.`,
-        `Shopify's Help Center states that to sell in multiple currencies you need Shopify Payments active in your online store. Its UAE pages also say payouts can be received in AED on all plans and that the minimum settlement time in the UAE is 5 business days, with longer periods for new merchants. Check eligibility inside your own admin before you plan around it; if your store uses a third-party provider instead, customers may see converted prices but pay in your store currency.`,
+        `Shopify's Help Center says that only stores using Shopify Payments (with one-page checkout) get every local-pricing feature, so stores on another payment provider face limits on multi-currency selling. Its UAE payout pages add that payouts can be received in AED on all subscription plans and that the minimum settlement time in the UAE is 5 business days, with new merchants starting on longer periods. Check eligibility inside your own admin before you plan campaigns around it.`,
         `A Shopify developer in Dubai should also decide with you whether GCC prices are converted automatically or set by hand. Automatic conversion is quick, but it produces awkward prices and moves with exchange rates. Fixed per-market price lists take more setup and give you clean numbers for campaigns.`,
       ],
       list: [
@@ -178,7 +178,7 @@ const content: FreelanceContent = {
       heading: "Why a lean app stack matters for a Dubai Shopify store",
       paragraphs: [
         `Every Shopify app you install can add scripts, monthly fees and another thing that breaks during a sale. A lean store uses Shopify's built-in features first, one app per real job, and a few lines of theme code where an app would be overkill.`,
-        `A common pattern in stores that have passed through several hands: a reviews app, a second reviews app that was never removed, a currency switcher that Markets already replaced, a popup app, a WhatsApp widget app, a COD app and a “speed” app. Each one looked cheap. Together they slow the store and the subscriptions add up every month.`,
+        `Picture a store that has passed through several hands: a reviews app, a second reviews app that was never removed, a currency switcher that Markets already replaced, a popup app, a WhatsApp widget app, a COD app and a “speed” app. Each one looked cheap. Together they slow the store and the subscriptions add up every month.`,
         `A Shopify developer should justify every app in writing: what it does, what it costs, and what happens if you uninstall it. Uninstalling does not always remove leftover code from your theme, so ask for a clean-up after any app is removed.`,
       ],
       after: [`The table further down lists common UAE store needs and whether a native feature, an app or a small piece of custom code usually covers each one best.`],
@@ -346,7 +346,7 @@ const content: FreelanceContent = {
     },
   ],
   areas: {
-    eyebrow: "Where our UAE Shopify clients sell from",
+    eyebrow: "Where UAE Shopify merchants sell from",
     heading: "Shopify stores across the emirates, built remotely",
     note: "We work remotely for merchants anywhere in the UAE. These are the kinds of businesses that typically need Shopify help in each place.",
     cards: [
@@ -355,7 +355,7 @@ const content: FreelanceContent = {
       { name: "Al Quoz", note: "Warehouse-backed brands and makers of furniture, homeware and printed goods who need courier integration, bundle pricing and product pages that explain delivery clearly." },
       { name: "Deira", note: "Long-running traders in perfume, textiles and electronics accessories adding a direct online channel beside wholesale, often with large catalogues to import." },
       { name: "Dubai Design District", note: "Fashion and design labels whose stores need editorial layouts, lookbooks and custom sections without losing the ability to edit campaigns themselves." },
-      { name: "Abu Dhabi", note: "Retailers, specialty food sellers and gift brands serving the capital, often needing an Arabic storefront and delivery zones that treat Abu Dhabi, Al Ain and the Western Region differently." },
+      { name: "Abu Dhabi", note: "Retailers, specialty food sellers and gift brands serving the capital, often needing an Arabic storefront and delivery zones that treat Abu Dhabi, Al Ain and Al Dhafra differently." },
       { name: "Al Ain", note: "Family businesses selling dates, honey and regional products online for the first time, where cash on delivery and simple ordering matter more than design flourishes." },
       { name: "Sharjah", note: "Budget-conscious retailers and wholesale suppliers wanting a practical Shopify store with clear shipping rules and COD, without paying for features they will not use." },
       { name: "Ajman", note: "Small importers and home-run brands selling kitchenware, abayas and accessories who need a fast launch and a store their own team can update." },
@@ -368,7 +368,7 @@ const content: FreelanceContent = {
   process: {
     heading: "How a Shopify project runs with us",
     steps: [
-      ["Message us on WhatsApp", "Send your store link or product list and say whether it is a new build, a fix or a migration. A short voice note is fine; we reply the same day, UAE time."],
+      ["Message us on WhatsApp", "Send your store link or product list and say whether it is a new build, a fix or a migration. A short voice note is fine; we reply on WhatsApp seven days a week."],
       ["Collaborator access and audit", "For existing stores we request collaborator access and list what is installed, what breaks and what costs money each month, before anything is changed."],
       ["Itemised quote in about 2 working days", "Each job becomes its own line with a starting price in USD and a timing estimate. You can cut, postpone or reorder lines before approving."],
       ["Build on a duplicate theme", "Work happens on an unpublished copy of your theme, so shoppers never see half-finished changes. You review on your own phone at each milestone."],
@@ -382,7 +382,7 @@ const content: FreelanceContent = {
     { question: "Can a Shopify developer in India work on my Dubai store?", answer: "Yes. Shopify is a hosted platform, so the work is done through collaborator access to your admin and theme code, wherever the developer sits. India is only 1.5 hours ahead of the UAE, which gives nearly a full shared working day. The only things a remote developer cannot do are on-site tasks such as product photography or warehouse setup." },
     { question: "Do I need a custom Shopify theme for my UAE store?", answer: "Usually not. Most UAE stores do well on a quality Online Store 2.0 theme customised with a few extra sections. A custom theme makes sense when your brand needs layouts or product logic that no theme supports, such as made-to-measure options or live engraving previews. Customising keeps future theme updates possible and costs less to maintain." },
     { question: "How long does it take to build a Shopify store for the UAE?", answer: "A new store usually takes 4–8 weeks. The shorter end applies when products, photos and descriptions are ready and the design follows the theme closely. The longer end covers custom sections, an Arabic storefront, several GCC markets or a large product import. Small fixes on an existing store can often be done within days once the quote is approved." },
-    { question: "Can Shopify show prices in AED and other GCC currencies?", answer: "Yes, through Shopify Markets. You create a market for the UAE in AED and add separate markets for other GCC countries you ship to. Shopify's Help Center says selling in multiple currencies requires Shopify Payments in your online store, so check eligibility in your own admin. A developer sets rounding, shipping and content per market." },
+    { question: "Can Shopify show prices in AED and other GCC currencies?", answer: "Yes, through Shopify Markets. You create a market for the UAE in AED and add separate markets for other GCC countries you ship to. Shopify's Help Center says only stores using Shopify Payments get every local-pricing feature, so check eligibility in your own admin. A developer sets rounding, shipping and content per market." },
     { question: "Does Shopify support cash on delivery in the UAE?", answer: "Shopify lets you add cash on delivery as a manual payment method. Most UAE stores also want rules around it, such as limiting COD by emirate or cart value, confirming orders before dispatch, and adding a COD fee. A developer can set those up with native settings plus, where needed, one COD app rather than several overlapping ones." },
     { question: "Which Shopify apps does a Dubai store really need?", answer: "Fewer than most stores install. A typical UAE store needs a courier app, a reviews app, and possibly one app for COD rules or WhatsApp order confirmation. Currency conversion is handled by Markets, and a WhatsApp chat button can be a few lines of theme code. Every extra app adds scripts and a monthly fee, so each should earn its place." },
     { question: "Will I own my Shopify store if a developer builds it?", answer: "You should, and with us you always do. The store is opened under your business email, you remain the owner, and we work through collaborator access that you can revoke. Themes, apps and domains are bought on your account. At handover you receive notes on custom code and installed apps so any future developer can pick up where we left off." },

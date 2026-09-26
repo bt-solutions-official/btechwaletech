@@ -112,7 +112,7 @@ const content: FreelanceContent = {
     },
     {
       id: "why-fail",
-      heading: "Why D2C websites waste paid traffic",
+      heading: "Why do D2C websites waste paid traffic?",
       paragraphs: [
         `Most D2C sites lose money in the gap between the ad and the product page. The ad promises one thing, the page shows something generic, loads slowly and asks for too much before the customer can buy.`,
       ],
@@ -151,7 +151,7 @@ const content: FreelanceContent = {
     },
     {
       id: "pdp",
-      heading: "Product page CRO: what makes Indian shoppers buy",
+      heading: "What should a D2C website product page show to make Indian shoppers buy?",
       paragraphs: [
         `A converting product page answers, above the fold on a phone: what it is, what it costs, why it is worth it, whether it will reach me and how I can pay. Everything else supports those answers.`,
       ],
@@ -176,7 +176,7 @@ const content: FreelanceContent = {
     },
     {
       id: "cod-rto",
-      heading: "How D2C brands reduce COD returns and RTO",
+      heading: "How do D2C brands reduce COD returns and RTO?",
       paragraphs: [
         `RTO (return to origin) happens when a shipped order comes back undelivered, usually because a COD customer refuses it, is unreachable or gave a bad address. You pay shipping both ways and your stock is locked in transit, so reducing RTO is often the quickest profit gain a D2C site can make.`,
         `The most effective controls are built into the website and its automations, not into the courier contract.`,
@@ -196,7 +196,7 @@ const content: FreelanceContent = {
     },
     {
       id: "reviews",
-      heading: "Reviews and UGC that build trust without faking it",
+      heading: "How should a D2C website collect reviews and UGC without faking them?",
       paragraphs: [
         `Reviews convert first-time D2C buyers more than almost any other element, and fake ones destroy trust faster than anything. Collect real reviews systematically and display them honestly.`,
         `The Bureau of Indian Standards has published IS 19000:2022, “Online Consumer Reviews — Principles and Requirements for their Collection, Moderation and Publication”, which applies to organisations publishing consumer reviews online, including sellers collecting reviews from their own customers. It is a useful checklist even where not mandatory: verified purchases, clear moderation rules, no suppression of negative reviews, disclosure of paid or incentivised reviews.`,
@@ -216,7 +216,7 @@ const content: FreelanceContent = {
     },
     {
       id: "analytics",
-      heading: "Analytics for CAC, repeat rate and contribution margin",
+      heading: "D2C website analytics for CAC, repeat rate and contribution margin",
       paragraphs: [
         `A D2C website must record which source produced each order and which customers come back, or you cannot calculate customer acquisition cost (CAC) or repeat rate with confidence. Ad platform dashboards alone are not enough, because each one claims credit for the same sale.`,
         `We set up Google Analytics 4 ecommerce events from product view to purchase. Google's GA4 ecommerce documentation marks the transaction_id parameter as required for purchase and refund events, and we pass your order number there so revenue can be matched to real orders. Meta's pixel is paired with its server-side Conversions API so conversions still register when browsers block scripts, with event IDs to avoid counting twice.`,
@@ -233,7 +233,7 @@ const content: FreelanceContent = {
     },
     {
       id: "speed",
-      heading: "Speed and mobile performance on paid traffic",
+      heading: "D2C website speed and mobile performance on paid traffic",
       paragraphs: [
         `Paid visitors are the least patient visitors you have, so every second of load time on a mid-range Android phone costs money. Speed is not a technical nicety in D2C website development; it sets how much of your ad spend actually reaches the page.`,
         `The usual culprits on D2C stores are apps that each add scripts, uncompressed product images and videos, several font files, and chat or pop-up widgets that load before the product. We audit what each script does, remove what you no longer use, lazy-load below-the-fold media, serve modern image formats and defer non-essential widgets until after the page is usable.`,
@@ -268,7 +268,7 @@ const content: FreelanceContent = {
     },
     {
       id: "build-phases",
-      heading: "D2C website development timeline: what launches first",
+      heading: "How long does D2C website development take, and what launches first?",
       paragraphs: [
         `A D2C store usually launches in 4–8 weeks, and the smartest launches ship the conversion basics first, then add retention and advanced analytics in the following weeks. Waiting to launch everything at once delays the data you need.`,
       ],

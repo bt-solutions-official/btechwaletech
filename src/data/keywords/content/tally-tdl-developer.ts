@@ -115,7 +115,7 @@ const content: FreelanceContent = {
       heading: "When do you need Tally customisation, and when is it overkill?",
       paragraphs: [
         `You need TDL when a rule or layout matters to your business every day and TallyPrime’s built-in settings cannot express it. You do not need it for things TallyPrime already configures.`,
-        `Before paying for customisation, check TallyPrime’s own options. The configuration screens, voucher classes, print settings, multiple price levels, cost centres, batch tracking and user security levels cover a lot. Plenty of customisation requests turn out to need only a setting switched on, and we tell you when that is the case.`,
+        `Before paying for customisation, check TallyPrime’s own options. The configuration screens, voucher classes, print settings, multiple price levels, cost centres, batch tracking and user security levels cover a lot. A request that sounds like custom code can turn out to need only a setting switched on, and we tell you when that is the case.`,
         `TDL is the right tool when the need is specific to your trade: a garment unit that must print size-wise quantity grids, a transporter who needs vehicle and LR numbers on every bill, a distributor who wants credit sales blocked for parties past their limit. It is also right when the same mistake keeps recurring, because a validation stops it at the source instead of your CA catching it at quarter-end.`,
       ],
       list: [
@@ -130,7 +130,7 @@ const content: FreelanceContent = {
       id: "invoice-format",
       heading: "Can the invoice format in TallyPrime be customised?",
       paragraphs: [
-        `Yes, almost completely. A Tally TDL developer can change what appears on the invoice, where it appears, which voucher types use which layout, and how it fits your paper. This is the single most common TDL request.`,
+        `Yes, almost completely. A Tally TDL developer can change what appears on the invoice, where it appears, which voucher types use which layout, and how it fits your paper. It is also the change your customers notice first, because they see the invoice every time.`,
         `Typical changes include your logo and a signature image, bank details and a UPI QR code, extra item columns such as batch, MRP, size, colour or part drawing number, a transport block with vehicle number and e-way bill number, terms and conditions that vary by voucher type, and totals in words in Hindi or English. Layouts for pre-printed stationery need exact positioning, and A5 or thermal formats need a narrower design.`,
         `Two cautions. First, GST rules decide what a tax invoice must contain; the layout can move things around but should not drop mandatory details, and your CA should check the final sample. Second, if you use e-invoicing, keep the IRN and QR area that TallyPrime already prints, or place it deliberately in the new design. For the upstream e-invoice process, see <a href='/e-invoice-api-integration/'>e-invoice integration</a>.`,
       ],
@@ -158,7 +158,7 @@ const content: FreelanceContent = {
       heading: "Voucher validations: stopping mistakes before they are saved",
       paragraphs: [
         `A validation is a rule checked when a voucher is saved, which either warns the user or refuses to save until the problem is fixed. It is the most cost-effective kind of Tally customisation, because each rule prevents a repeat error permanently.`,
-        `Useful rules we see often: sale rate below purchase cost, credit sale to a party beyond its limit or with bills overdue beyond a set number of days, missing GSTIN for a registered party, HSN missing on a stock item, a narration left blank on journal vouchers, a date outside the current month for users other than the accountant, and a discount above a percentage without a reason field filled.`,
+        `Useful rules to consider: sale rate below purchase cost, credit sale to a party beyond its limit or with bills overdue beyond a set number of days, missing GSTIN for a registered party, HSN missing on a stock item, a narration left blank on journal vouchers, a date outside the current month for users other than the accountant, and a discount above a percentage without a reason field filled.`,
         `We design each rule with a clear message in plain English or Hindi, so staff know what to fix. Rules can apply to all users or only some. Warnings suit grey areas; hard blocks suit mistakes that cost money or create GST trouble.`,
       ],
     },
@@ -175,16 +175,16 @@ const content: FreelanceContent = {
       id: "compatibility",
       heading: "Will my old Tally.ERP 9 TDL work in TallyPrime?",
       paragraphs: [
-        `Sometimes as-is, often with changes. TallyPrime reorganised menus, buttons and several screens, so customisations that hook into those places usually need rework; plain reports and print formats more often carry across with smaller edits.`,
+        `Sometimes as-is, often with changes. Tally’s own note on Tally.ERP 9 customisations says the TCP format did not change, so compiled files still load without recompiling, but TallyPrime reworked the toolbar buttons, Gateway menus and the F11 features screen. Customisations that hook into those places need rework; plain reports and print formats more often carry across with smaller edits.`,
         `The safe path is to test every TDL on a copy of your data in the TallyPrime release you plan to use, before switching the live system. We list each customisation, what it does, whether it works, and what needs changing. Some old customisations are no longer needed because TallyPrime now does the job natively; retiring them reduces future upgrade effort.`,
-        `The same applies to upgrades between TallyPrime releases. Tally keeps adding features, and Release 7.0 introduced native JSON support and a tool to convert TDL projects to a JSON form, according to its developer release notes. New releases rarely break well-written TDL, but a test run on a copy is cheap insurance.`,
+        `The same applies to upgrades between TallyPrime releases. Tally keeps adding features: its JSON integration guide says Release 7.0 made JSON data exchange a default feature and recommends the JSONEx format for new integrations. New releases rarely break well-written TDL, but a test run on a copy is cheap insurance.`,
       ],
     },
     {
       id: "tcp-licensing",
       heading: "What is a TCP file, and how does TDL licensing work?",
       paragraphs: [
-        `A TCP file is the compiled form of a TDL project, and it can be restricted to run only on specific Tally serial numbers. Tally’s help pages describe compiling a project in TallyPrime Developer into one TCP, and configuring it for one or more serial numbers or a site.`,
+        `A TCP file is the compiled form of a TDL project, and it can be restricted to run only on specific Tally serial numbers. Tally’s help pages describe compiling a project in TallyPrime Developer into one TCP, and using the “Authorisation Required” build option to enable it only for chosen customer serial numbers.`,
         `Serial locking protects a developer who sells the same add-on to many businesses. For custom work paid for by you, it can become a trap: if the developer disappears and you change your Tally licence, the customisation stops working and nobody can rebuild it without the source.`,
         `Our default is to hand over the full TDL source and an unlocked TCP compiled for your use. If you want it locked to your own serial for internal control, we do that at your request. Either way, keep the source with your own records, not only with the developer.`,
       ],
@@ -194,7 +194,7 @@ const content: FreelanceContent = {
       heading: "How a TDL is loaded and managed in TallyPrime",
       paragraphs: [
         `A TDL is loaded either locally on each Tally installation or centrally as an account TDL. Tally’s help pages show the TDL Management screen under F1 (Help) and TDL & Add-On, also reachable with Ctrl+Alt+T, where local TDLs are managed.`,
-        `Local TDLs are TCP or TDL files on the machine, listed in Tally’s configuration. Account TDLs are uploaded to Tally’s Control Centre and linked to one or more serial numbers through the Tally.NET ID, so every installation picks them up after a licence update. Multi-branch businesses prefer account TDLs because a new version reaches every branch without someone copying files.`,
+        `Local TDLs are TCP or TDL files on the machine, listed in Tally’s configuration. Account TDLs are uploaded to Tally’s Control Centre and linked to one or more serial numbers through the Tally.NET ID, so every installation picks them up after a licence update. Account TDLs suit multi-branch businesses because a new version reaches every branch without someone copying files.`,
         `On handover we load the TDL with you on a screen-share, confirm it appears as loaded in TDL Management, and show your staff where to switch it off if they ever need to isolate a problem.`,
       ],
       after: [
@@ -235,7 +235,7 @@ const content: FreelanceContent = {
         "Whether other software will need to read the new fields",
       ],
       after: [
-        `With this, a quote takes about two working days and rarely changes afterwards. Without it, both sides guess.`,
+        `With this, a quote takes about two working days and is far less likely to change later. Without it, both sides guess.`,
       ],
     },
     {
@@ -392,7 +392,7 @@ const content: FreelanceContent = {
     { question: "Can I change the invoice format in TallyPrime?", answer: "Yes. Some changes, such as showing certain details, are available through TallyPrime’s print configuration. For a fully custom layout with your own columns, logo placement, UPI QR, transport details or pre-printed stationery alignment, a Tally TDL developer writes a custom format. Your CA should confirm the final invoice still carries mandatory GST details." },
     { question: "Can TDL add new fields in Tally vouchers?", answer: "Yes. TDL can add fields to vouchers, item lines and masters, such as salesperson, vehicle number or site name, store them with the data, and use them in prints and reports. Fields can be mandatory or optional, free text or picked from a list, and can auto-fill from the party master to save typing." },
     { question: "Will my Tally.ERP 9 customisations work in TallyPrime?", answer: "Some will, many need changes. TallyPrime changed menus, buttons and several screens, so TDL that hooks into those places usually needs rework, while reports and print formats often need smaller edits. Test every customisation on a copy of your data in TallyPrime before moving the live system, and retire ones TallyPrime now handles natively." },
-    { question: "What is a TCP file in Tally?", answer: "A TCP file, Tally Compliant Product, is a compiled and validated TDL project that TallyPrime can run, according to Tally’s help pages. It can be configured to run only on particular Tally serial numbers. For custom work you pay for, ask for the TDL source as well as the TCP so future changes do not depend on one developer." },
+    { question: "What is a TCP file in Tally?", answer: "A TCP file, Tally Compliant Product, is a compiled and validated TDL project that TallyPrime can run, according to Tally’s help pages. Through an authorisation option at build time, it can be enabled only for particular Tally serial numbers. For custom work you pay for, ask for the TDL source as well as the TCP so future changes do not depend on one developer." },
     { question: "How do I load a TDL in TallyPrime?", answer: "Tally’s help pages show the TDL Management screen under F1 Help, TDL & Add-On, or with Ctrl+Alt+T. From there you manage local TDLs by adding the TCP file path. Multi-branch businesses can deploy account TDLs from Tally’s Control Centre so every linked serial number receives them after a licence update." },
     { question: "Can Tally block sales below cost or beyond credit limit?", answer: "Yes, with TDL validations. A rule can warn or refuse to save a voucher when the rate is below cost, when the party is over its credit limit, or when bills are overdue beyond a set number of days. You decide which users can override, and the message tells staff exactly what to fix." },
     { question: "Can I set up voucher approvals in Tally?", answer: "Yes. TDL can keep vouchers such as large purchases, credit notes or heavy discounts in a pending state until an authorised user approves them, with a report listing pending items and the approver’s name stored for audit. For approvers who travel, a WhatsApp notification with a phone approval needs an extra integration layer." },

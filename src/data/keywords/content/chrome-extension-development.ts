@@ -17,7 +17,7 @@ const content: FreelanceContent = {
     description: `Chrome extension development for workflows and SaaS tools: Manifest V3, side panels, login and Web Store publishing. Builds from ${P.ai}, code in your repo.`,
     keywords: [
       "chrome extension development", "chrome extension developer", "custom chrome extension development", "chrome extension development cost",
-      "how much does it cost to build a chrome extension", "chrome extension development company India", "hire chrome extension developer",
+      "how much does it cost to build a chrome extension", "chrome extension developer India", "hire chrome extension developer",
       "manifest v3 extension development", "manifest v2 to v3 migration", "chrome side panel extension", "browser extension development",
       "chrome extension for saas", "chrome extension for crm", "linkedin chrome extension development", "chrome web store publishing",
       "chrome web store rejected extension", "firefox add-on development", "edge extension development", "chrome extension with login",
@@ -269,7 +269,7 @@ const content: FreelanceContent = {
         `A focused workflow extension typically takes 2–4 weeks with our team, and a customer-facing extension with a backend takes 6–12 weeks, plus store review time on top.`,
         `The first week goes to a spike: we load the host pages, confirm we can read the elements we need, and test the login flow. This is where surprises surface, such as a CRM that renders inside an iframe or a portal that changes class names on every deploy. Settling those early saves weeks later.`,
         `Weeks two and three build the core loop: the panel, the capture or action, and the API call. You get an unpacked build to install on your own machine every week, so feedback comes from real use, not screenshots. Backend-heavy projects then spend several weeks on accounts, admin and billing.`,
-        `The last stretch is polish and submission: listing copy, screenshots, privacy answers and a staged rollout. Chrome lets you publish to a percentage of users first, which is useful when many people depend on the extension daily. For a broader view of scheduling software work, see <a href='/how-long-to-build-an-app/'>how long it takes to build an app</a>.`,
+        `The last stretch is polish and submission: listing copy, screenshots, privacy answers and the first release. Once a published extension has more than 10,000 weekly active users, Chrome Web Store documentation lets you roll an update out to a percentage of them first, which limits the damage if something slips through. For a broader view of scheduling software work, see <a href='/how-long-to-build-an-app/'>how long it takes to build an app</a>.`,
       ],
     },
     {
@@ -288,7 +288,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `We take on Chrome extension development for businesses anywhere in India, entirely over video calls, WhatsApp and shared test builds, in English or Hindi. There is no office to visit; you install weekly builds on your own laptop and tell us what feels wrong.`,
         `Product startups in <a href='/bengaluru/'>Bengaluru</a>, <a href='/pune/'>Pune</a> and <a href='/hyderabad/'>Hyderabad</a> usually want a companion extension for their SaaS. Recruitment and staffing teams in <a href='/noida/'>Noida</a> and <a href='/chandigarh/'>Chandigarh</a> ask for candidate capture from job portals into their ATS. Marketplace sellers in <a href='/surat/'>Surat</a> and <a href='/jaipur/'>Jaipur</a> want order and listing helpers for seller dashboards. Back-office and accounting teams in <a href='/ahmedabad/'>Ahmedabad</a>, <a href='/kolkata/'>Kolkata</a> and <a href='/coimbatore/'>Coimbatore</a> want data-entry shortcuts between portals and their own software.`,
-        `Indian clients receive quotes in rupees and pay by UPI or bank transfer against milestones, with GST-compliant invoicing discussed at quote stage. Hindi labels or a bilingual panel are simple to add when your staff prefer them; you approve the wording.`,
+        `Indian clients receive quotes in rupees and pay by UPI or bank transfer, with GST invoice details settled at quote stage. Hindi labels or a bilingual panel are simple to add when your staff prefer them; you approve the wording.`,
       ],
     },
     {
@@ -363,7 +363,7 @@ const content: FreelanceContent = {
         ["Chrome", "Service worker, stops when idle", "Chrome Web Store, one-time registration fee", "Baseline"],
         ["Microsoft Edge", "Service worker (Chromium)", "Edge Add-ons via Partner Center, no registration fee", "Small: listing and testing"],
         ["Firefox", "Event-driven background scripts", "addons.mozilla.org", "Moderate: adapter and testing"],
-        ["Brave, Opera, Vivaldi", "Chromium-based", "Usually install from Chrome Web Store", "Testing only"],
+        ["Brave and Vivaldi", "Chromium-based", "Can install from the Chrome Web Store", "Testing only"],
         ["Safari", "Packaged through Xcode", "Apple developer account, US$99 a year", "Significant: separate packaging"],
       ],
       hideSm: [1],
@@ -399,7 +399,7 @@ const content: FreelanceContent = {
       ["Itemised estimate", "Within about two working days you get host sites, backend features, browsers and store work as separate lines with starting prices and a week plan."],
       ["Weekly installable builds", "After written approval, each week brings an unpacked build you load in Chrome yourself, plus a short note of what changed and what to test."],
       ["Store submission", "We prepare the listing, screenshots, permission justifications and privacy answers, submit under your account and answer any reviewer questions."],
-      ["Launch and care", "Staged rollout, monitoring of errors and host-site changes, handover documents, and 5 months of free fixes before optional paid care."],
+      ["Launch and care", "Release, monitoring of errors and host-site changes, handover documents, and 5 months of free fixes before optional paid care."],
     ],
   },
   faqHeading: "Chrome extension development: questions people ask",
@@ -420,7 +420,7 @@ const content: FreelanceContent = {
     { question: "What happens when the website my extension works on changes its design?", answer: "Parts of the extension that read or modify that page can break, which is the main maintenance cost of any extension. We keep all page selectors in one module with saved test copies of each site, so a change is quick to spot and fix. Such fixes are included in the 5 free months after launch and in paid care afterwards." },
     { question: "Is it better to hire a freelancer or an agency for Chrome extension development?", answer: "A solo freelancer suits a small, well-defined extension you can test yourself. A larger agency suits multi-team programmes with formal procurement. A small freelance team like ours sits between: three people cover the extension, backend, cloud and review, so work continues if one person is away, without the overhead of account managers and layered billing." },
     { question: "Can you sign an NDA before I share my extension idea?", answer: "Raise confidentiality when you first message us and we will discuss what you need. Scope, deliverables, ownership and milestones are written into the quote you approve, and our terms page explains the general basis we work on. Anything beyond that is agreed with you in writing rather than assumed, so ask us for the specifics before you share sensitive details." },
-    { question: "How do payments work for an extension project?", answer: "You approve an itemised quote in writing before anything is billed. Payments are tied to milestones you can test yourself as installable builds. Clients in India pay in rupees by UPI or bank transfer. Clients abroad receive quotes in USD and pay by Wise, bank wire or PayPal. The milestone split is written into the quote." },
+    { question: "How do payments work for an extension project?", answer: "You approve an itemised quote in writing before anything is billed. Progress is visible throughout as installable builds you test yourself. Clients in India pay in rupees by UPI or bank transfer. Clients abroad receive quotes in USD and pay by Wise, bank wire or PayPal. The payment schedule is written into the quote you approve." },
     { question: "Will a Chrome extension help my website’s SEO?", answer: "Not directly. Search engines rank web pages, not extensions. A public extension does get its own Chrome Web Store listing, which people can find through store search and sometimes through Google, so a clear name and honest description help. If search traffic matters, a landing page for the extension on your own site, with real content, is the part that can rank." },
     { question: "Can AI assistants like ChatGPT recommend my extension?", answer: "They can only describe what they can read. A landing page with a clear one-sentence definition of what the extension does, who it is for, supported browsers and pricing gives AI search tools accurate material to quote. Store listings and documentation pages that answer common questions directly help too. Nobody can guarantee a mention, but clear public pages improve the odds." },
     { question: "Do you build mobile apps alongside the extension?", answer: `Yes. Many SaaS products need a web app, an extension and a mobile app sharing one API. We build Android and iOS apps with Flutter or React Native from ${P.app} (${P.appUsd}), published on Google Play and the App Store under your accounts. Designing the API once for all three clients saves time and keeps behaviour consistent.` },

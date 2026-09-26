@@ -173,7 +173,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `QR pre-registration lets the visitor do the typing before they reach the gate. The host or front office creates an invite, the system sends a link and a QR code, the visitor completes their details on their own phone, and at the gate one scan pulls up the whole record.`,
         `The invite link opens a short mobile form: name, phone, company, purpose, vehicle number if parking is needed, and a selfie if your policy requires one. Fields can differ by visit type. After submission the QR becomes the visitor's pass for that date and time window; arrive a day late and it will not scan.`,
-        `Group invites handle interview days, audits and client workshops, where one host invites twenty people with a single list upload. Invites travel best over WhatsApp in India, since most visitors will open a WhatsApp message but may miss an email. Sending those automatically needs the WhatsApp Business Platform and approved message templates; see <a href='/whatsapp-business-api-integration/'>WhatsApp Business API integration</a> for how that setup works.`,
+        `Group invites handle interview days, audits and client workshops, where one host invites twenty people with a single list upload. In India a WhatsApp invite is often the more practical channel, because it lands in the app visitors already check on the way over, while an email can sit unread. Sending those automatically needs the WhatsApp Business Platform and approved message templates; see <a href='/whatsapp-business-api-integration/'>WhatsApp Business API integration</a> for how that setup works.`,
       ],
     },
     {
@@ -190,7 +190,7 @@ const content: FreelanceContent = {
       heading: "Photo and ID capture: what to collect and what to leave out",
       paragraphs: [
         `Capture a face photo and the minimum ID detail your security policy genuinely needs, nothing more. Copies of full identity documents create risk without adding much safety at most gates.`,
-        `For Aadhaar in particular, UIDAI provides offline verification: the resident's Aadhaar secure QR code or paperless offline e-KYC file is digitally signed, and UIDAI's guidance says an offline verification-seeking entity should verify that signature rather than accept an Aadhaar number or photocopy at face value. The offline data carries only a reference ID made from the last four digits, not the full number. For a visitor desk that means you can confirm identity and store the masked reference and photo instead of an Aadhaar copy.`,
+        `For Aadhaar in particular, UIDAI provides offline verification: the holder's Aadhaar secure QR code or paperless offline e-KYC file carries UIDAI's digital signature, so software can check that the details have not been altered instead of trusting an Aadhaar number or a photocopy. The offline data shows only a masked reference based on the last four digits, not the full number. For a visitor desk that means you can confirm identity and store the masked reference and photo instead of an Aadhaar copy.`,
         `Other options are a driving licence or company ID, typed or photographed with masking. We build the capture screen to your policy, set automatic deletion of photos after a retention period you choose, and keep full-resolution images out of routine reports. Whether a particular ID requirement fits the law for your site is for your legal team to confirm.`,
       ],
     },
@@ -343,7 +343,7 @@ const content: FreelanceContent = {
       { name: "Visitor systems in Hyderabad", note: "Pharma units in Genome Valley and offices in HITEC City both need controlled entry, with pharma adding induction records and restricted-zone escorts.", href: "/hyderabad/" },
       { name: "Visitor systems in Ahmedabad", note: "Ahmedabad's manufacturers in Sanand and Changodar and its growing office districts need gate passes for vendors, drivers and auditors.", href: "/ahmedabad/" },
       { name: "Visitor systems in Vadodara", note: "Vadodara's engineering and chemical plants handle contractors with safety requirements, making induction tracking and document expiry checks useful.", href: "/vadodara/" },
-      { name: "Visitor systems in Surat", note: "Textile processing units and diamond workshops in Surat want tight control over who enters work floors and simple Gujarati-friendly guard screens.", href: "/surat/" },
+      { name: "Visitor systems in Surat", note: "Textile processing units and diamond workshops in Surat want tight control over who enters work floors and simple bilingual guard screens.", href: "/surat/" },
       { name: "Visitor systems in Faridabad", note: "Faridabad's auto-component and engineering units see daily contract labour and material movement that paper passes struggle to track.", href: "/faridabad/" },
       { name: "Visitor systems in Coimbatore", note: "Coimbatore's pump, motor and textile manufacturers and its many schools and colleges each need different pass rules at their gates.", href: "/coimbatore/" },
       { name: "Visitor systems in Nagpur", note: "Warehouses and logistics hubs around MIHAN and Butibori handle truck drivers and vendors, where vehicle logs and material passes matter most.", href: "/nagpur/" },

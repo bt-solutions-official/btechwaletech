@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Seller dashboard", note: "Each seller manages products, stock, orders, returns and payouts for their own shop, and never sees another seller's data.", href: "/portal-development-freelancer/", size: "md" },
       { name: "Shipping across sellers", note: "Split orders by seller, per-seller pickup addresses, courier label generation and tracking shown to the buyer as one order.", href: "/courier-management-software/", size: "md" },
       { name: "GST invoices and reports", note: "Invoices raised in each seller's name with their GSTIN, plus reports the operator needs for TCS and GSTR-8 filing by your accountant.", href: "/e-invoice-api-integration/", size: "sm" },
-      { name: "Buyer and seller apps", note: `Optional Android and iOS apps sharing the same back end, from ${P.app}. Many marketplaces launch web-first and add apps later.`, href: "/ecommerce-app-developer/", size: "sm" },
+      { name: "Buyer and seller apps", note: `Optional Android and iOS apps sharing the same back end, from ${P.app}. Launching web-first and adding apps later keeps the first budget smaller.`, href: "/ecommerce-app-developer/", size: "sm" },
       { name: "Marketplace SEO", note: `Category pages, product schema and duplicate control across sellers listing the same item; monthly SEO from ${P.seo}.`, href: "/ecommerce-seo-freelancer/", size: "sm" },
     ],
   },
@@ -92,7 +92,7 @@ const content: FreelanceContent = {
       ["Speed to launch", "Days", "Weeks", "Months, often phased"],
       ["Best when", "You are one seller testing demand", "You are validating a marketplace idea", "Your rules or scale outgrow plugins"],
     ],
-    fine: "Many successful niche marketplaces start on a plugin base and move to a custom build only after they know their commission and payout rules; skipping straight to custom is often an expensive guess.",
+    fine: "Until you know your real commission and payout rules, a custom build encodes guesses; starting on a plugin base and moving to custom once those rules settle is usually the safer spend.",
   },
   pricing: {
     heading: "Marketplace pricing: two starting points, one decision",
@@ -129,7 +129,7 @@ const content: FreelanceContent = {
     },
     {
       id: "plugin-vs-custom",
-      heading: "Plugin route vs custom build: when does each make sense for a marketplace?",
+      heading: "Plugin route vs custom build: which suits your multi vendor ecommerce website cost?",
       paragraphs: [
         `Choose the plugin route when you are validating the idea, your commission is simple and you expect up to a few hundred sellers in the first year. Choose a custom build when your payout, commission or compliance rules are specific to your trade, or when the plugin would need more custom code than it saves.`,
         `WooCommerce with a marketplace plugin such as Dokan or WCFM Marketplace gives you seller registration, seller dashboards, commissions and basic withdrawals out of the box. For a niche marketplace testing demand, that is a sensible foundation. The limits appear gradually: complex commission tiers, holding payouts until a return window closes, splitting shipping charges between sellers, or handling thousands of products per seller can each push you towards add-ons, custom code and slower pages.`,
@@ -153,7 +153,7 @@ const content: FreelanceContent = {
       list: [
         "<strong>What must a seller provide?</strong> Typically PAN, GSTIN where applicable, a cancelled cheque or bank details, business address and pickup address. Food, cosmetics or medical products may need licences such as FSSAI registration.",
         "<strong>Who checks it?</strong> Manual review by your team is cheapest to build. Automated checks, such as validating GSTIN format or verifying a bank account through your payment provider's verification service, cost more to build but save staff time as seller numbers grow.",
-        "<strong>What happens before approval?</strong> Many marketplaces let sellers prepare listings while KYC is pending but keep them hidden until approved.",
+        "<strong>What happens before approval?</strong> Sellers can be allowed to prepare listings while KYC is pending, with everything hidden until approval.",
         "<strong>What happens when details change?</strong> A seller changing bank accounts should trigger re-verification and a payout hold, not a silent update.",
       ],
       after: [
@@ -176,14 +176,14 @@ const content: FreelanceContent = {
         { heading: "Tiered by volume", text: "Rates fall as a seller's monthly sales rise. Powerful for growth, but calculations at month-end and mid-month refunds make it the hardest to get right." },
       ],
       after: [
-        "Whichever you choose, we show commission, payment charges and tax separately on every seller statement. Opaque statements are the most common reason sellers leave young marketplaces.",
+        "Whichever you choose, we show commission, payment charges and tax separately on every seller statement. A seller who cannot trace a deduction starts a dispute, and a young marketplace cannot afford many of those.",
       ],
     },
     {
       id: "payouts-split-payments",
       heading: "How do seller payouts and split payments work on an Indian marketplace?",
       paragraphs: [
-        `Buyers pay once at checkout; the money then needs to reach each seller minus your commission, usually after the return window closes. That is done either through your payment provider's split or route feature, which settles directly to sellers' linked accounts, or by settling to you and paying sellers in batches from a settlement report.`,
+        `Buyers pay once at checkout; the money then needs to reach each seller minus your commission, usually after the return window closes. That is done either through your payment provider's split-settlement feature, which settles directly to sellers' linked accounts, or by settling to you and paying sellers in batches from a settlement report.`,
         `Split settlement through a licensed payment aggregator is usually cleaner: money moves to sellers under the provider's rules and your platform never holds seller funds for long, which simplifies accounting. It needs each seller onboarded as a linked account with the provider, which adds an onboarding step and depends on the provider's own KYC. Manual batch payouts are simpler to build but put more responsibility and reconciliation work on your side; discuss that choice with your accountant and payment provider before we build.`,
         `Rules the payout engine must handle, each a line in the estimate:`,
       ],
@@ -223,7 +223,7 @@ const content: FreelanceContent = {
       heading: "Which E-Commerce Rules features must a marketplace website include?",
       paragraphs: [
         `The Consumer Protection (E-Commerce) Rules, 2020 require an e-commerce entity to display its legal name, office address, website details and customer care and grievance officer contact details, and to acknowledge consumer complaints within 48 hours and resolve them within one month. Sellers on a marketplace also have disclosure duties, such as showing the total price with its breakup, country of origin, and return, refund and delivery terms.`,
-        `These are features to build, not just text to paste. On the marketplaces we build, compliance support usually means:`,
+        `These are features to build, not just text to paste. In the platform itself, compliance support means:`,
       ],
       list: [
         "A footer and dedicated page showing the operator's legal name, address and grievance officer details, editable from the admin panel.",
@@ -309,7 +309,7 @@ const content: FreelanceContent = {
       heading: "How long does it take to build a multi vendor ecommerce website?",
       paragraphs: [
         `A first launch takes 8–12 weeks on either route with us, followed by phased additions. The plugin route sits near the shorter end; a custom build with its own payout and GST logic sits near the longer end, and often launches with a limited seller group first.`,
-        `A phased plan we often recommend:`,
+        `A phased plan that keeps early spending in check:`,
       ],
       subs: [
         { heading: "Phase 1: pilot marketplace (weeks 1–10)", text: "Seller onboarding with manual approval, one commission model, storefront, UPI and card checkout, seller-managed shipping, weekly payouts after the return window, seller statements with TCS, grievance and complaint tools. Five to twenty pilot sellers onboarded by your team." },
@@ -375,7 +375,7 @@ const content: FreelanceContent = {
       heading: "Multi vendor marketplaces across India",
       paragraphs: [
         `We build marketplaces remotely for founders and trade associations across India, and the multi vendor ecommerce website cost is the same whichever city you are in. What changes is the niche, and niche marketplaces tied to a region's strengths are often the ones that find buyers fastest.`,
-        `Textile and saree sellers around <a href='/surat/'>Surat</a> and <a href='/varanasi/'>Varanasi</a>, artisans around <a href='/jaipur/'>Jaipur</a> and <a href='/udaipur/'>Udaipur</a>, spice and food producers in <a href='/kochi/'>Kochi</a> and <a href='/guwahati/'>Guwahati</a>, industrial parts makers in <a href='/rajkot/'>Rajkot</a> and <a href='/ludhiana/'>Ludhiana</a>, and furniture workshops near <a href='/jodhpur/'>Jodhpur</a> and <a href='/mysore/'>Mysore</a> all have marketplace ideas that suit a focused platform. Local-delivery marketplaces for groceries and services come up often in <a href='/indore/'>Indore</a>, <a href='/bhopal/'>Bhopal</a> and <a href='/lucknow/'>Lucknow</a>.`,
+        `Textile and saree sellers around <a href='/surat/'>Surat</a> and <a href='/varanasi/'>Varanasi</a>, artisans around <a href='/jaipur/'>Jaipur</a> and <a href='/udaipur/'>Udaipur</a>, spice and food producers in <a href='/kochi/'>Kochi</a> and <a href='/guwahati/'>Guwahati</a>, industrial parts makers in <a href='/rajkot/'>Rajkot</a> and <a href='/ludhiana/'>Ludhiana</a>, and furniture workshops near <a href='/jodhpur/'>Jodhpur</a> and <a href='/mysore/'>Mysore</a> all have marketplace ideas that suit a focused platform. Local-delivery marketplaces for groceries and services suit mid-sized cities such as <a href='/indore/'>Indore</a>, <a href='/bhopal/'>Bhopal</a> and <a href='/lucknow/'>Lucknow</a>.`,
         `Work runs over WhatsApp, video calls and a shared staging site, in English or Hindi. We do not visit sellers; your team handles seller relationships, and we give them the tools and short training videos to onboard sellers quickly.`,
       ],
     },
@@ -432,7 +432,7 @@ const content: FreelanceContent = {
   ],
   areas: {
     eyebrow: "Across India",
-    heading: "Marketplace ideas we hear from different cities",
+    heading: "Marketplace niches that suit different cities",
     note: "Same remote team, same pricing everywhere. The niches below reflect what each region is known for, not past clients.",
     cards: [
       { name: "Saree and fabric marketplaces in Surat", note: "Mills and wholesalers want to reach retailers and boutiques directly, with bulk pricing, catalogue sharing and dispatch tracking across many small sellers.", href: "/surat/" },
@@ -472,11 +472,11 @@ const content: FreelanceContent = {
     { question: "How do sellers get paid on a marketplace website?", answer: "Buyers pay once at checkout. Sellers are then paid their share minus commission and charges, usually after the return window closes, either through the payment provider's split settlement to linked seller accounts or through scheduled batch payouts from a settlement report. The platform produces a statement per seller showing every deduction." },
     { question: "Does a marketplace operator have to collect TCS under GST?", answer: "Section 52 of the CGST Act requires e-commerce operators to collect tax at source on net taxable supplies made through them. Following CBIC Notification 15/2024 dated 10 July 2024, the rate is 0.5% in total, reported monthly in GSTR-8. We build the calculations and reports; confirm how the rules apply to you with your CA." },
     { question: "How are GST invoices raised on a multi vendor website?", answer: "Product invoices are generally generated in each seller's name with their GSTIN and the correct place of supply, while the operator invoices sellers separately for commission and fees. The platform stores every seller's tax details and exports reports for your accountant. Tax rates are kept as admin settings so changes do not need code edits." },
-    { question: "What KYC should I collect from marketplace sellers?", answer: "Most marketplaces collect PAN, GSTIN where applicable, bank account details, business and pickup addresses and category-specific licences such as FSSAI registration for food. Your adviser should confirm the exact list for your niche. We build the upload, review and approval flow, and can add automated verification checks as a separate line." },
+    { question: "What KYC should I collect from marketplace sellers?", answer: "A typical list is PAN, GSTIN where applicable, bank account details, business and pickup addresses and category-specific licences such as FSSAI registration for food. Your adviser should confirm the exact list for your niche. We build the upload, review and approval flow, and can add automated verification checks as a separate line." },
     { question: "How long does it take to build a multi vendor ecommerce website?", answer: "A first launch takes 8–12 weeks with us. The plugin route sits near the shorter end; a custom build with its own payout and GST logic takes longer. We recommend launching with a pilot group of sellers first, then adding shipping automation, analytics and apps once real trading shows what matters most." },
     { question: "Do I need a mobile app for my marketplace?", answer: `Not at launch, in most cases. A fast mobile website serves buyers and sellers well while you validate the idea. Once repeat buyers and active sellers justify it, buyer or seller apps in Flutter or React Native can share the same back end, starting from ${P.app} and published under your own store accounts.` },
     { question: "What are the monthly running costs of a marketplace website?", answer: `Expect hosting, image storage, payment provider charges on each transaction, SMS or WhatsApp notifications, courier costs if the platform books shipping, and maintenance. The first 5 months of maintenance are free with us, then from ${P.care}. Hosting and provider charges are billed to you directly, not through us.` },
-    { question: "Can a marketplace website handle cash on delivery?", answer: "Yes, but COD complicates payouts. Couriers remit COD collections on their own schedule, so sellers cannot be paid until the money arrives and the return window closes. The payout engine must track COD orders separately. Many marketplaces restrict COD to lower order values or trusted areas to limit returns and delays." },
+    { question: "Can a marketplace website handle cash on delivery?", answer: "Yes, but COD complicates payouts. Couriers remit COD collections on their own schedule, so sellers cannot be paid until the money arrives and the return window closes. The payout engine must track COD orders separately. You can also limit COD to lower order values or selected pin codes to reduce returns and delays." },
     { question: "How do I stop two sellers from creating duplicate product pages?", answer: "Use a single product catalogue where sellers attach offers to existing products, or use canonical tags so duplicate listings point to one main page. Admin moderation of new listings helps too. This keeps the storefront tidy for buyers and avoids several near-identical pages competing in search results." },
     { question: "Which rules apply to marketplace websites under consumer protection law?", answer: "The Consumer Protection (E-Commerce) Rules, 2020 require e-commerce entities to display their legal name, address and grievance officer details, acknowledge complaints within 48 hours and resolve them within a month, and they set seller disclosure duties such as price breakup and country of origin. We build these features; legal sign-off is for your adviser." },
     { question: "Is it cheaper to buy a ready-made marketplace script?", answer: "Scripts look cheaper upfront but often carry unclear licences, outdated code, security holes and features you cannot change easily. If the script's rules match yours exactly and it is actively maintained, it can work. Otherwise a plugin base or custom build that you fully own usually costs less over two or three years." },

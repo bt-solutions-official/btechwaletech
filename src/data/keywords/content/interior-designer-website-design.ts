@@ -80,7 +80,7 @@ const content: FreelanceContent = {
   },
   comparison: {
     heading: "Instagram alone, a listing portal, or interior designer website design of your own",
-    note: "Most studios find clients through Instagram and referrals. The question is where a serious enquiry lands next.",
+    note: "Many studios find clients through Instagram and referrals. The question is where a serious enquiry lands next.",
     columns: ["Aspect", "Instagram profile + WhatsApp", "Home-interiors listing portal", "BtechWaleTech studio website"],
     rows: [
       ["Browsing by room", "Only through highlights and hashtags", "Portal’s own categories", "Room filters across all your projects"],
@@ -92,7 +92,7 @@ const content: FreelanceContent = {
       ["Speed on mobile", "Fast, platform-managed", "Varies", "Compressed images, walkthroughs on tap"],
       ["Cost", "Free, plus your time", "Varies by portal", `From ${P.site} one-time`],
     ],
-    fine: "Instagram still does the discovery for most studios; a website does not replace it. It catches the people who are ready to act and hands you their budget and timeline before the first call.",
+    fine: "Instagram may well stay your discovery channel; a website does not replace it. It catches the people who are ready to act and hands you their budget and timeline before the first call.",
   },
   pricing: {
     heading: "Interior designer website design pricing",
@@ -149,9 +149,9 @@ const content: FreelanceContent = {
       id: "show-prices",
       heading: "Should interior designers show prices on their website?",
       paragraphs: [
-        `Showing ranges usually improves enquiry quality, because people outside your range stop contacting you and people inside it arrive ready to talk. Hiding prices entirely tends to produce many “what is the cost?” messages that go nowhere.`,
+        `Showing ranges tends to improve enquiry quality, because people outside your range stop contacting you and people inside it arrive ready to talk. Hiding prices entirely tends to produce many “what is the cost?” messages that go nowhere.`,
         `The exception is bespoke, high-end work where every project is different. Even then, a sentence such as “our full-home projects typically start from a minimum scope” with your own figure, or a “projects we take on” page describing typical sizes and finishes, gives visitors a sense of fit without a rate card.`,
-        `Whichever you choose, keep it consistent across the website, Google Business Profile and Instagram highlights. When a visitor sees one range on the site and another in a Reel caption, they assume the lower one. And keep the ranges updated: interior designer website design is only as honest as its last price review, so we set a reminder in the maintenance plan to check the figures with you every few months.`,
+        `Whichever you choose, keep it consistent across the website, Google Business Profile and Instagram highlights. When a visitor sees one range on the site and another in a Reel caption, they assume the lower one. And keep the ranges updated: interior designer website design is only as honest as its last price review, so revisit the figures whenever board, hardware or labour costs move, and send us the new numbers.`,
       ],
     },
     {
@@ -178,7 +178,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Show available visit slots immediately after the form, so the visitor leaves with a date rather than a promise. The shorter the gap between interest and appointment, the fewer enquiries go cold.`,
         `We connect a simple slot picker to your Google Calendar with the days and hours your team visits sites, blocking travel time between localities if you want. Once a slot is chosen, the homeowner gets an on-screen confirmation and a WhatsApp message with the date, the visitor’s name from your team and what to keep ready: floor plan, possession letter if relevant, and any inspiration photographs. You get the same details plus their budget band and scope.`,
-        `If you charge for design consultations or visits, say so on the booking page in your own words; if you do not, say that too. Studios that prefer to call every lead first can skip the slot picker and use a “we will call within the day” promise instead, but only if someone really does. Interior designer website design fails quietly at this step more often than anywhere else, because the form works and nobody replies.`,
+        `If you charge for design consultations or visits, say so on the booking page in your own words; if you do not, say that too. Studios that prefer to call every lead first can skip the slot picker and use a “we will call within the day” promise instead, but only if someone really does. This is where interior designer website design can fail quietly: the form works perfectly, and nobody replies.`,
       ],
     },
     {
@@ -186,7 +186,7 @@ const content: FreelanceContent = {
       heading: "Instagram integration in interior designer website design",
       paragraphs: [
         `Show recent Instagram posts as static image tiles that link to each post, rather than loading Instagram’s embed code for every post. Each standard embed pulls in Meta’s script and media on page load, which slows the page and adds third-party requests before the visitor has scrolled.`,
-        `We fetch your latest posts on a schedule, save small copies of the images, and show them as a grid with a “Follow on Instagram” link. The grid updates automatically, weighs very little, and does not depend on Instagram’s servers being fast. Reels appear as a still frame with a play icon that opens the Reel. For a single featured Reel on a project page, we use the facade pattern: a preview image first, the real embed only when tapped.`,
+        `We fetch your latest posts on a schedule, save small copies of the images, and show them as a grid with a “Follow on Instagram” link. This needs an Instagram professional (Business or Creator) account, because Meta shut down the Instagram Basic Display API for personal accounts on 4 December 2024; the Instagram API with Instagram Login is the supported route now. The grid updates automatically, weighs very little, and does not depend on Instagram’s servers being fast. Reels appear as a still frame with a play icon that opens the Reel. For a single featured Reel on a project page, we use the facade pattern: a preview image first, the real embed only when tapped.`,
         `The integration works the other way too. Your Instagram bio link can go to a short landing page with room filters and the booking form, instead of the home page. And if most enquiries arrive as DMs, <a href='/instagram-dm-automation/'>Instagram DM automation</a> can reply with your pricing page and booking link. The <a href='/instagram-shop-vs-website/'>Instagram versus website</a> page weighs the two channels more fully.`,
       ],
     },
@@ -356,7 +356,7 @@ const content: FreelanceContent = {
     { question: "What should an interior designer’s website include?", answer: "A portfolio you can browse by room, complete-home pages with before-and-after images, a page explaining cost per square foot or packages with inclusions, a process page, a few walkthroughs, your Instagram posts, and a short enquiry form that captures property type, area, budget band and start date, followed by a visit slot." },
     { question: "How much does an interior designer website cost in India?", answer: `With BtechWaleTech a studio site with room filters, package pages and a booking form usually fits the static plan, starting at ${P.site} and taking one to two weeks. Photograph tagging, calendar-linked booking, a CMS or a second language are separate lines in the itemised quote. Studios abroad are quoted from ${P.siteUsd}.` },
     { question: "Should interior designers show cost per sq ft on their website?", answer: "Usually yes, as ranges with conditions. State what each range includes and excludes, the material grade it assumes and whether tax is included. Visitors outside your range stop enquiring, and those inside it arrive ready to talk. For fully bespoke work, a minimum project scope in your own words gives a similar filter." },
-    { question: "How do I get more site-visit bookings from my interior design website?", answer: "Remove the gap between interest and appointment. Show rooms like the visitor’s, give honest price ranges, ask six qualifying questions, then show available visit slots immediately and confirm on WhatsApp. Most lost bookings happen after the form, when nobody replies quickly, so the booking step matters as much as the design." },
+    { question: "How do I get more site-visit bookings from my interior design website?", answer: "Remove the gap between interest and appointment. Show rooms like the visitor’s, give honest price ranges, ask six qualifying questions, then show available visit slots immediately and confirm on WhatsApp. A slow reply after the form can undo everything the portfolio achieved, so the booking step matters as much as the design." },
     { question: "What is the best way to show before-and-after interior photos?", answer: "Shoot both from the same fixed corner, at a similar time of day, with the same crop. Show them in a drag-to-compare slider that works with a thumb on a phone, with a one-line caption naming the change. Label any render as a render, especially if the before image is a real photograph." },
     { question: "Can you add 3D walkthroughs to my interior design website?", answer: "Yes. Rendered walkthrough videos are hosted on YouTube or Vimeo and shown behind a still preview, so the player loads only when tapped. 360° panoramas and hosted virtual tours are embedded the same way. This keeps pages fast while still letting a homeowner experience the design before the site visit." },
     { question: "Will an Instagram feed slow down my website?", answer: "A standard embed for each post does add scripts and requests. We instead fetch your recent posts on a schedule and show them as small static tiles linking to Instagram, which loads quickly and updates automatically. A single featured Reel can be shown behind a click-to-load preview on a project page." },
@@ -371,7 +371,7 @@ const content: FreelanceContent = {
     { question: "Can you connect the website to WhatsApp and my calendar?", answer: "Yes. Enquiries arrive as a formatted WhatsApp message and optionally in a Google Sheet or CRM. A slot picker reads your Google Calendar so visitors choose from real availability, and both sides get a WhatsApp confirmation with the visit details." },
     { question: "Freelancer or agency for interior designer website design?", answer: "A small freelance team suits most studios, because the work is structure, photographs, forms and speed, and you speak directly with the people building it. An agency makes sense if you also want branding, photography and paid campaigns under one contract. Ask any candidate how they would handle Instagram and before-and-after images." },
     { question: "How are payments made for the website project?", answer: "Payments are staged against work you can see, and nothing is billed before you approve the itemised quote in writing. Studios in India pay by UPI or bank transfer with an invoice; studios abroad pay in USD by Wise, bank wire or PayPal. Domain and hosting are billed to you directly." },
-    { question: "What happens after my interior design website goes live?", answer: `For five months, new homes, price updates, small changes and fixes are included free. After that, maintenance is optional from ${P.care} a month, or you can manage the site through a CMS yourself. We also set a reminder to review price ranges with you so the site stays honest.` },
+    { question: "What happens after my interior design website goes live?", answer: `For five months, new homes, price updates, small changes and fixes are included free. After that, maintenance is optional from ${P.care} a month, or you can manage the site through a CMS yourself. Revisit your price ranges whenever material costs move, so the site stays honest.` },
     { question: "Can you build a project-tracking app for my clients?", answer: `Yes, as a separate build. An Android and iOS app starting at ${P.app} can show clients their design approvals, production status, site photographs and payment milestones. Most studios start with the website and add an app once they know which updates clients ask about most.` },
     { question: "Do you visit homes or photograph projects?", answer: "No. We work remotely from India, with reviews on private staging links and calls over WhatsApp or video. Photographs come from you, your supervisor or a photographer. We sort, tag, compress and present them, and we can send a short shot list so before-and-after pairs line up." },
   ],

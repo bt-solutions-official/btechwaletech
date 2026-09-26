@@ -1,0 +1,505 @@
+import { usd } from "@data/countries/international";
+import type { FreelanceContent } from "@data/freelance/types";
+
+const P = {
+  site: usd("Static"), seoSite: usd("SEO website"), shop: usd("Ecommerce"), app: usd("Android"),
+  software: usd("Custom web app"), ai: usd("AI automation"), seo: usd("Monthly SEO"), care: usd("Maintenance"),
+};
+
+const COOKIES = "https://business.gov.nl/regulation/cookies/";
+const SCC = "https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en";
+const CONSENT = "https://developers.google.com/tag-platform/security/concepts/consent-mode";
+
+const content: FreelanceContent = {
+  path: "/netherlands/gdpr-compliant-website-development/",
+  crumb: "GDPR compliant website development",
+  updated: "2026-09-25",
+  meta: {
+    title: `GDPR Compliant Website Development, from ${P.site}`,
+    description: `GDPR compliant website development for Dutch businesses: cookie consent without walls, Consent Mode v2, lean forms, EU hosting and a DPA. From ${P.site}.`,
+    keywords: [
+      "gdpr compliant website development", "gdpr compliant website", "gdpr compliant website netherlands", "avg proof website laten maken",
+      "avg website eisen", "gdpr website developer", "privacy by design website", "cookie banner without cookie wall",
+      "cookiemuur verboden", "google consent mode v2 netherlands", "consent mode v2 implementation", "privacy friendly analytics netherlands",
+      "analytics without cookie consent", "verwerkersovereenkomst website developer", "data processing agreement web developer",
+      "standard contractual clauses india", "gdpr transfer to india", "eu hosting website", "data minimisation contact form",
+      "how to make a website gdpr compliant", "what does a gdpr compliant website need", "gdpr compliant website cost",
+      "gdpr website amsterdam", "gdpr website rotterdam", "gdpr website utrecht", "autoriteit persoonsgegevens cookies website",
+    ],
+  },
+  hero: {
+    eyebrow: "Privacy built into the website, not added afterwards",
+    h1: "GDPR compliant website development for Dutch businesses",
+    lede: `GDPR compliant website development means building a site whose cookies, forms, hosting and third-party tools support your duties under the AVG from the first line of code, rather than patching a banner onto it later. BtechWaleTech is three freelance developers in India who build privacy-first websites for Dutch businesses from ${P.site}: consent without a cookie wall, Google Consent Mode v2 wired correctly, forms that ask only what you need, EU hosting in your name and a processor agreement when we touch personal data. The <a href='/netherlands/'>Netherlands hub</a> lists our other Dutch services.`,
+    pills: ["No tracking before consent", "Refuse as easy as accept", "Consent Mode v2 set up", "Lean, purpose-bound forms", "EU hosting in your name", "Processor agreement on request", "Replies 7 days on WhatsApp"],
+    origin: "Three freelance developers in India · we build the controls, your privacy adviser confirms compliance",
+  },
+  facts: [
+    ["Privacy-first site from", `${P.site}, 1–2 weeks`],
+    ["Large content site from", `${P.seoSite}, 3–5 weeks`],
+    ["Webshop from", `${P.shop}, 4–8 weeks`],
+    ["Default before consent", "No analytics or ad cookies, no marketing tags"],
+    ["Hosting", "EU region, account registered to you"],
+    ["Care after launch", `5 months free, then from ${P.care}`],
+  ],
+  stats: [
+    { value: "3", label: "Developers building your site" },
+    { value: "2", label: "Working days to an itemised quote" },
+    { value: "4", label: "Consent Mode v2 signals configured" },
+    { value: "5", label: "Months of free maintenance" },
+  ],
+  answer: {
+    heading: "What makes a website GDPR compliant in the Netherlands?",
+    text: `A GDPR compliant website in the Netherlands asks for active consent before non-essential cookies, offers refusal as easily as acceptance with no cookie wall, collects only necessary form data, publishes a privacy statement, uses hosting and tools covered by processor agreements, and protects data with encryption and access control. BtechWaleTech builds these controls from ${P.site}; your adviser confirms legal compliance.`,
+    more: `Rebuilding a legal or recruitment site? See <a href='/netherlands/law-firm-website-design/'>law firm website design</a> and <a href='/netherlands/recruitment-agency-website-design/'>recruitment agency website design</a> for sector detail.`,
+  },
+  snapshot: {
+    caption: "GDPR compliant website development, summarised",
+    rows: [
+      { label: "Cookies", value: "Non-essential off until the visitor accepts" },
+      { label: "Banner", value: "Accept and refuse equally visible, choices re-openable" },
+      { label: "Google tags", value: "Consent Mode v2, basic or advanced as you decide" },
+      { label: "Forms", value: "Only fields with a purpose, retention you set" },
+      { label: "Hosting", value: "EU region, sub-processors listed for your register" },
+      { label: "Transfers", value: "DPA and your chosen safeguard if we access personal data" },
+      { label: "Starting price", value: `From ${P.site}; large sites from ${P.seoSite}` },
+    ],
+  },
+  services: {
+    eyebrow: "What a privacy-first build includes",
+    heading: "The parts of GDPR compliant website development",
+    note: "Privacy on a website is mostly engineering: what loads, when, where data goes and who can see it. These are the pieces we build and document.",
+    cards: [
+      { name: "Consent banner and tag control", note: "A banner with equal accept and refuse choices, category toggles, a persistent link to change your mind, and a tag set-up where nothing optional runs before consent.", size: "lg" },
+      { name: "Google Consent Mode v2", note: "The four signals set to denied by default for EEA visitors, updated from the banner, and tested in Tag Assistant before launch.", size: "lg" },
+      { name: "Privacy-friendly analytics", note: "A low-impact analytics configuration, a self-hosted option or consent-gated GA4, chosen with your adviser rather than by habit.", size: "md" },
+      { name: "Lean forms and retention", note: "Every field justified by a purpose, clear notices beside the form, and automatic deletion after the period you set.", size: "md" },
+      { name: "EU hosting and sub-processor list", note: "Hosting, backups, email delivery and CDN in the EU where possible, with a list of providers for your processing register.", href: "/cloud-hosting-setup-freelancer/", size: "md" },
+      { name: "Click-to-load embeds", note: "Maps, videos, chat and booking widgets stay as placeholders until the visitor chooses to load them.", size: "sm" },
+      { name: "Security hardening", note: "HTTPS everywhere, two-factor admin logins, updates, backups and access logs that help you spot and report incidents.", href: "/website-security-freelancer/", size: "sm" },
+      { name: "Privacy review of an existing site", note: `A scan of cookies, tags and forms on your current site with a fix list, followed by repairs under maintenance from ${P.care}.`, size: "sm" },
+    ],
+  },
+  comparison: {
+    heading: "Three routes to a privacy-safe website",
+    note: "Many Dutch businesses first try adding a consent plugin to the site they have. Sometimes that works; sometimes the site underneath keeps leaking data. Here is how the routes compare.",
+    columns: ["Aspect", "Banner plugin on your current site", "Rebuild on a typical template", "Privacy-first build by BtechWaleTech"],
+    rows: [
+      ["Scripts before consent", "Often still load from the theme", "Depends on the template", "Nothing optional loads before consent"],
+      ["Refuse option", "Plugin-dependent", "Often hidden in settings", "Same size and level as accept"],
+      ["Consent Mode v2", "Sometimes partial", "Rarely configured", "All four signals mapped and tested"],
+      ["Embedded fonts, maps, video", "Usually untouched", "Loaded from third parties", "Self-hosted or click-to-load"],
+      ["Form data collected", "Unchanged", "Template defaults", "Reviewed field by field"],
+      ["Hosting location", "Unchanged", "Wherever the template host is", "EU region you choose, in your name"],
+      ["Documentation for your register", "None", "Rare", "Cookie list, sub-processors, data flows"],
+      ["Cost pattern", "Low, but problems may remain", "Quotes vary widely", `From ${P.site}, care from ${P.care}`],
+    ],
+    fine: "If your current site is small, fast and only needs its banner and tags fixed, a repair under maintenance is cheaper than a rebuild; we will tell you which applies after the scan.",
+  },
+  pricing: {
+    heading: "What GDPR compliant website development costs",
+    note: `Prices are starting points in USD, confirmed in an itemised quote within about two working days. A new privacy-first business site starts from ${P.site} and includes the consent set-up, Consent Mode v2, lean forms and EU hosting configuration. Sites with hundreds of pages, several languages or many tracking tools fit the content plan from ${P.seoSite}. A webshop, where checkout, payment and marketing tags add privacy work, starts from ${P.shop}. Portals that store customer data behind logins start from ${P.software}. Fixing an existing site is quoted after a scan. Maintenance is free for five months, then from ${P.care}. Legal review is always by your own adviser.`,
+  },
+  guideLabel: "GDPR compliant website development guide",
+  guide: [
+    {
+      id: "definition",
+      heading: "What is GDPR compliant website development?",
+      paragraphs: [
+        "GDPR compliant website development is the practice of designing and coding a website so that its technical behaviour supports the General Data Protection Regulation, known in the Netherlands as the AVG, and the Dutch cookie rules. It covers what the site stores in the browser, which third parties receive data, how forms collect and keep information, where the site is hosted and how it is secured.",
+        "The phrase can mislead, so it helps to be precise. A website on its own cannot be “GDPR compliant” in the way a product can pass a test. Compliance belongs to your organisation as controller: your purposes, legal bases, privacy statement, processing register and how your staff handle data. What developers can do is build a site that makes compliance possible and does not undermine it through careless defaults.",
+        "Article 25 of the GDPR, on data protection by design and by default, describes the idea: by default, only personal data necessary for each purpose should be processed, covering how much is collected, how far it is processed, how long it is stored and who can access it. Translated to a website, that means analytics off until consent, short forms, retention you can enforce and admin access limited to people who need it.",
+        "BtechWaleTech builds those controls and documents them so your privacy officer or lawyer can check and sign off. We never label our work as certified, and we never give legal advice.",
+      ],
+    },
+    {
+      id: "avg-duties",
+      heading: "What does the AVG require from a Dutch business website?",
+      paragraphs: [
+        "Most obligations are organisational, but several show up directly on or behind the website. The Dutch government's business portal lists the essentials for businesses handling personal data, and a website touches nearly all of them.",
+      ],
+      list: [
+        "<strong>A privacy statement.</strong> Business.gov.nl says it is mandatory to include one on your website. You write it; we place it where every form and banner can link to it.",
+        "<strong>A processing register.</strong> Your record of what data you process and why. We give you a list of the site's data flows and providers to feed into it.",
+        "<strong>Breach notification.</strong> The same portal states you must notify the Dutch DPA within 72 hours of a data breach. Logging and alerts on the site help you notice one in time.",
+        "<strong>A DPIA where required.</strong> Some processing needs a data protection impact assessment. We supply technical descriptions if your adviser decides one is needed.",
+        "<strong>Safe transfers.</strong> Personal data may only go to countries outside the EU with adequate protection or appropriate safeguards, which matters for hosting, tools and your developers.",
+      ],
+      after: [
+        "In other words, GDPR compliant website development is half code and half paperwork, and the paperwork is easier when the developer hands over clear documentation. That is part of every handover we do.",
+      ],
+    },
+    {
+      id: "cookie-rules",
+      heading: "What are the Dutch cookie rules for websites?",
+      paragraphs: [
+        `Non-essential cookies need active, informed consent, and refusing must not lock visitors out. The Dutch government guidance on <a href='${COOKIES}' rel='noopener'>business.gov.nl</a> lists when consent is not valid: when visitors do not actively give it, when continuing to browse after a banner is treated as agreement, when boxes are pre-checked, and when a cookie wall prevents people from entering or using the site normally if they refuse.`,
+        "The same guidance says withdrawing consent must be as easy as giving it, that you must inform visitors about the cookies you use, and that the Autoriteit Persoonsgegevens monitors whether cookie notifications comply. Functional cookies, and analytical cookies with no or little impact on visitors' privacy, do not need consent.",
+        "For a developer, those rules turn into specific requirements:",
+      ],
+      list: [
+        "No optional cookie or tracking request before a choice, on any page, including the first one a visitor lands on.",
+        "Accept and refuse offered at the same level, with similar visual weight.",
+        "Categories switched off by default, never pre-ticked.",
+        "A link in the footer that reopens the choices at any time.",
+        "A cookie list that matches what the site actually sets, checked again after every new tool is added.",
+      ],
+      after: [
+        "We test all five in a clean browser profile before launch and give you the results. Whether a specific analytics set-up qualifies as low-impact is a judgement for your adviser; we make sure the technical configuration matches what they decide.",
+      ],
+    },
+    {
+      id: "banner-design",
+      heading: "How do you build a cookie banner without a cookie wall?",
+      paragraphs: [
+        "In GDPR compliant website development, the site works fully behind the banner and refusing takes one click, just like accepting. A cookie wall blocks content until the visitor accepts; a compliant banner asks the question and respects either answer.",
+      ],
+      subs: [
+        { heading: "Layout that does not steer", text: "“Accept all” and “Refuse all” share a row, size and style. A third button opens category settings. We avoid a bright accept button next to a grey text link for refusal." },
+        { heading: "Plain wording", text: "Two or three sentences naming the purposes, such as statistics, marketing and embedded media, with a link to the cookie list and privacy statement. You approve the text in Dutch and English." },
+        { heading: "Real enforcement", text: "The banner is not decoration. Every optional tag is wired to a consent category through the tag manager or code, so nothing fires without the matching choice." },
+        { heading: "Remembered, but not forever", text: "The choice is stored so returning visitors are not asked on every page, and the banner returns after the period your policy sets or when purposes change." },
+        { heading: "Proof of consent", text: "Where your adviser wants a consent log, we record the choice, time and banner version without storing more personal data than needed." },
+      ],
+      after: [
+        `Off-the-shelf consent platforms can do most of this if configured properly; custom banners suit lean sites. We will use whichever you prefer. For the same approach on a WordPress site, see <a href='/netherlands/wordpress-website-development/'>WordPress development for Dutch businesses</a>.`,
+      ],
+    },
+    {
+      id: "consent-mode",
+      heading: "What is Google Consent Mode v2, and does a Dutch website need it?",
+      paragraphs: [
+        "Consent Mode v2 is Google's way of telling its tags what the visitor agreed to. If you use Google Analytics, Google Ads or other Google tags on a site with visitors from the EEA, you need it configured so those tags respect the banner.",
+        `Google's documentation names four consent types: ad_storage, analytics_storage, ad_user_data and ad_personalization, each set to granted or denied. <a href='${CONSENT}' rel='noopener'>Google describes two implementations</a>. In basic mode, Google tags are blocked until the visitor interacts with the banner and no data is sent beforehand, not even the default consent status. In advanced mode, tags load with defaults set to denied and, while consent stays denied, send the consent state and measurements without cookies, which Google uses for modelling.`,
+        "Which mode fits is a decision for you and your adviser, because advanced mode still sends some requests to Google before consent. Many privacy-cautious Dutch businesses choose basic mode; advertisers who depend on conversion modelling often choose advanced. We build either, document which one you chose and why, and check the result in Google's Tag Assistant.",
+        "Common mistakes we fix on existing sites: defaults set after the tags fire, ad_user_data and ad_personalization missing entirely, a banner that updates consent only after a page reload, and tags hard-coded in the theme so they ignore consent altogether.",
+      ],
+    },
+    {
+      id: "analytics",
+      heading: "Which analytics set-up suits a GDPR compliant website?",
+      paragraphs: [
+        "GDPR compliant website development starts analytics from what you actually need to know, not from habit. Many small Dutch businesses need page views, sources and conversions, which privacy-friendly configurations can deliver without profiling visitors.",
+        "There are three broad routes, and the analytics table further down compares them:",
+      ],
+      list: [
+        "<strong>Low-impact analytics</strong>: a cookieless or first-party tool configured to minimise data, with short retention and no sharing for advertising. Whether it falls under the Dutch exemption for analytics with little privacy impact is for your adviser to confirm.",
+        "<strong>Self-hosted analytics</strong> such as Matomo on your own EU server, which keeps raw data under your control and can run with or without cookies depending on settings.",
+        "<strong>Google Analytics 4 behind consent</strong>, with Consent Mode v2, IP-related settings reviewed, data retention shortened and Google signals switched off unless you have a reason.",
+      ],
+      after: [
+        "Whatever you choose, we set up one source of truth for reporting and remove leftover tags from previous agencies, which are a frequent source of unexpected cookies. If search reporting matters more to you than visitor analytics, Google Search Console works without any tag on the site at all, and our <a href='/netherlands/technical-seo-services/'>technical SEO services for Dutch sites</a> rely heavily on it.",
+      ],
+    },
+    {
+      id: "india-transfers",
+      heading: "GDPR compliant website development with a developer in India: DPA and SCCs",
+      paragraphs: [
+        "It is possible, and the lawful route depends on whether the developers access personal data at all. India does not appear on the European Commission's list of countries with an adequacy decision, so any transfer of personal data to a team there needs an appropriate safeguard.",
+        "Our first step is to avoid the transfer where we can. We build on staging with dummy data, never copy your production database to our machines, and design forms so submissions go straight to your EU hosting or your own systems. For many website projects, that means we never process your customers' personal data.",
+        "Where support work does need access, for example to debug a form or maintain a live database, two documents come into play:",
+      ],
+      list: [
+        "<strong>A verwerkersovereenkomst (data processing agreement).</strong> Article 28 of the GDPR requires processing by a processor to be governed by a contract setting out the subject matter, duration, nature and purpose, types of data, categories of data subjects and the controller's rights. We sign one with you before access.",
+        `<strong>A transfer safeguard.</strong> The <a href='${SCC}' rel='noopener'>Standard Contractual Clauses</a> adopted by the European Commission on 4 June 2021 (Implementing Decision 2021/914) are the usual choice for transfers to countries without adequacy. Your adviser selects the module and any transfer assessment.`,
+      ],
+      after: [
+        "We do not act as a certified processor and we do not give transfer advice. We follow the instructions in the agreement, keep access limited and logged, and delete any data we held when the work ends. The same approach appears on our <a href='/netherlands/custom-software-development/'>custom software development page for Dutch SMEs</a>.",
+      ],
+    },
+    {
+      id: "forms",
+      heading: "How should forms work on a GDPR compliant website?",
+      paragraphs: [
+        "In GDPR compliant website development, every field should have a purpose you can name, and anything without one should go. Forms are where websites collect the most personal data, and where old habits, such as asking for date of birth or a full address on a simple enquiry, quietly create risk.",
+        "Our form review runs field by field with three questions: what is this used for, is it needed at this stage, and how long do you keep it. The answers usually shrink the form and improve completion rates at the same time.",
+      ],
+      subs: [
+        { heading: "Notice at the point of collection", text: "A short line beside the submit button says what happens to the data and links to the privacy statement. No hidden consent in the terms." },
+        { heading: "Separate, optional opt-ins", text: "Newsletter sign-up or marketing follow-up is a separate unticked box, never bundled with the enquiry. GDPR Article 7(3) requires withdrawal to be as easy as giving consent, so every email has an unsubscribe link that works." },
+        { heading: "Retention enforced in code", text: "Submissions are deleted or anonymised automatically after the period you choose, including copies in email notifications where we can control them." },
+        { heading: "Spam protection without tracking", text: "Honeypot fields and server-side checks first; a third-party challenge only if spam demands it, and then disclosed in the cookie list." },
+        { heading: "Uploads handled carefully", text: "Files stored outside the public web root, scanned, access-controlled and deleted on schedule." },
+      ],
+    },
+    {
+      id: "hosting",
+      heading: "Where should a GDPR compliant website be hosted?",
+      paragraphs: [
+        "For GDPR compliant website development, host the site, its database and its backups in an EU region, on an account registered to your business, with a provider that offers a processor agreement. That keeps most data inside the EU and gives you a clear contract for your register.",
+        "Options that work well for Dutch businesses include EU regions of the large cloud platforms, European hosting providers, and managed WordPress hosts with EU data centres. The right choice depends on your traffic, your team's familiarity and whether you need things like staging environments and automatic scaling.",
+        "Hosting is only the start. A website usually relies on other services that also process data:",
+      ],
+      list: [
+        "Transactional email for form notifications and password resets.",
+        "A CDN that caches pages near visitors and sees their IP addresses.",
+        "Backups, sometimes stored by a different provider.",
+        "Fonts, maps, video and chat, each loaded from its own servers.",
+        "Error monitoring and uptime tools.",
+      ],
+      after: [
+        `We list every one of these with its location and a link to its processor terms, so you can decide what stays and what goes. See our <a href='/cloud-hosting-setup-freelancer/'>cloud hosting setup</a> page for how we configure servers.`,
+      ],
+    },
+    {
+      id: "embeds",
+      heading: "Fonts, maps, videos and chat widgets: the hidden privacy leaks",
+      paragraphs: [
+        "Embeds are where GDPR compliant website development most often fails: third-party embeds send visitor data to other companies the moment a page loads, often before any banner appears. On many sites we review, they are the main reason tracking requests leave the browser even when every optional cookie has been refused.",
+        "Our default handling for each common embed:",
+      ],
+      list: [
+        "<strong>Web fonts</strong> are self-hosted on your server instead of being loaded from a font service on every page view.",
+        "<strong>Maps</strong> show a static image with an address and a “load interactive map” button that states the provider.",
+        "<strong>Videos</strong> use a thumbnail placeholder and load the player only on click, using the provider's privacy-enhanced mode where available.",
+        "<strong>Chat and booking widgets</strong> load after consent or on click, never silently in the background.",
+        "<strong>Social feeds and share buttons</strong> are replaced by plain links, which cost nothing in privacy.",
+      ],
+      after: [
+        `This also helps speed, because fewer third-party scripts mean faster pages and better Core Web Vitals. If a WhatsApp chat button is important to your sales, our <a href='/netherlands/whatsapp-chatbot-for-business/'>WhatsApp chatbot page for Dutch businesses</a> explains how to add it without loading Meta scripts on every page.`,
+      ],
+    },
+    {
+      id: "security",
+      heading: "Which security measures support GDPR compliance on a website?",
+      paragraphs: [
+        "Security is part of GDPR compliant website development: the GDPR expects security appropriate to the risk, and for most business websites that means a short list done consistently. Breaches on small sites usually come from outdated plugins, reused passwords and forgotten admin accounts, not from sophisticated attacks.",
+        "What we set up as standard:",
+      ],
+      list: [
+        "HTTPS on every page with modern TLS settings and HSTS.",
+        "Two-factor authentication for all admin accounts, and named accounts rather than a shared login.",
+        "Automatic security updates where safe, and a monthly update routine for the rest.",
+        "Daily backups stored in the EU, with a tested restore.",
+        "Access logs and alerts for failed logins and unexpected admin changes.",
+        "Security headers and a content security policy that limits which scripts can run.",
+        "Removal of unused plugins, themes and test accounts before launch.",
+      ],
+      after: [
+        "These controls matter for the AVG's breach rules too: if something goes wrong, logs show what happened and when, which you need in order to notify the Autoriteit Persoonsgegevens within 72 hours where required. Our <a href='/website-security-freelancer/'>website security</a> page describes the checks in more detail.",
+      ],
+    },
+    {
+      id: "rights",
+      heading: "How does a website support access and deletion requests?",
+      paragraphs: [
+        "By storing personal data in known places and giving you simple tools to find, export and delete it. When a customer asks what you hold about them or wants to be erased, the website should not be the place where their data is impossible to track down.",
+        "In GDPR compliant website development, we keep a short map of every place the site stores personal data: form submissions, user accounts, order records, newsletter lists, logs and backups. For each, we note how to search it and how to remove a person's data.",
+        "On sites with user accounts, customers can download their data and delete their account themselves where your policy allows. For simpler sites, we add an admin screen that searches submissions by email address and exports or deletes matching records in one step.",
+        "Backups are the tricky part: they are kept for a defined period and then overwritten, and your privacy statement should say so. We document the rotation so you can answer the question honestly.",
+        "Responding to requests remains your process. The website's job is to make each request a five-minute task instead of an afternoon of searching mailboxes and plugins.",
+      ],
+    },
+    {
+      id: "what-to-ask",
+      heading: "What to ask for in a GDPR compliant website development quote",
+      paragraphs: [
+        "Ask for specific, testable commitments rather than a line saying “GDPR proof”. A developer who has built privacy-first sites can answer these questions in a sentence each:",
+      ],
+      list: [
+        "Which scripts and cookies load before a visitor makes a choice?",
+        "Is refusing as easy as accepting, and where can visitors change their choice later?",
+        "Will you configure Consent Mode v2, and in basic or advanced mode?",
+        "Which analytics set-up do you recommend for our needs, and why?",
+        "Where are the site, database, backups and email delivery hosted?",
+        "Which third parties receive visitor data, and will you give us a list?",
+        "Will your team access our personal data, and if so, will you sign a verwerkersovereenkomst?",
+        "How are form submissions stored, who can see them and when are they deleted?",
+        "Who owns the domain, hosting and code?",
+      ],
+      after: [
+        `Our answers are on this page, and each one appears as a line in the itemised quote. If you are comparing costs across providers, our guide to <a href='/netherlands/website-development-cost/'>website development cost in the Netherlands</a> puts privacy work in context.`,
+      ],
+    },
+    {
+      id: "cost",
+      heading: "How much does GDPR compliant website development cost?",
+      paragraphs: [
+        `Privacy-first work is part of every build we quote, so a new GDPR compliant website starts from ${P.site} and large content sites from ${P.seoSite}. The extra effort comes from the tools you want to run, not from the privacy controls themselves.`,
+      ],
+      subs: [
+        { heading: "Number of tracking and marketing tools", text: "Each analytics, advertising or heatmap tool must be mapped to a consent category and tested. A site with one analytics tool is quick; a site with six marketing pixels takes longer." },
+        { heading: "Webshop checkout", text: `Payment, shipping and review integrations add data flows to document and test. Webshops start from ${P.shop}.` },
+        { heading: "User accounts and portals", text: `Logins, profiles and self-service data export turn a site into a web application from ${P.software}.` },
+        { heading: "Languages", text: "Banner, notices and cookie list in each language you publish, with text you supply or approve." },
+        { heading: "Fixing an existing site", text: "Quoted after a scan, because a theme with hard-coded tags takes longer to clean than one that uses a tag manager." },
+      ],
+      after: [
+        "Other developers' quotes vary widely, often depending on whether they include a consent platform subscription, legal templates or ongoing monitoring. Ask what each line covers before comparing totals.",
+      ],
+    },
+    {
+      id: "working-remotely",
+      heading: "Working with a privacy-focused web team in India from the Netherlands",
+      paragraphs: [
+        "It runs on a written scope, a shared tracker, weekly video demos and a staging site you can open at any time. India is 3.5 hours ahead of the Netherlands in summer and 4.5 in winter, so calls fit your late morning and early afternoon.",
+        "The first two weeks look like this: an itemised quote within about two working days, a kick-off call with whoever owns privacy in your business, a scan of the current site's cookies and tags if you have one, agreement on analytics and Consent Mode choices, and the first templates on staging with the banner already working. Nothing is billed before you approve the quote in writing.",
+        "Contracts are simple to keep clean. The quote describes scope and milestones; a verwerkersovereenkomst is added only if we will access personal data; any NDA terms are agreed in writing before work starts. Domain, hosting and code stay registered to you throughout, and we work through access you grant.",
+        "Payments are in USD by Wise, bank wire or PayPal against milestones, and invoices come from India. Your accountant advises on the VAT side of a non-EU invoice.",
+        `Limits worth stating: we do not write your privacy statement, give legal advice or visit your office. Our <a href='/hire-indian-developers/'>guide to hiring Indian developers</a> covers the general model.`,
+      ],
+    },
+    {
+      id: "example",
+      heading: "Example: GDPR compliant website development for a Utrecht language school",
+      paragraphs: [
+        "A hypothetical case to make the steps concrete, not a past project. Say a language school in Utrecht runs a WordPress site with course pages, a trial-lesson form, a newsletter, Google Analytics, an advertising pixel, embedded videos and a map. Its old site loads the pixel and analytics on arrival and hides refusal behind a settings screen.",
+        "The rebuild plan: a lean theme with self-hosted fonts, videos and map as click-to-load placeholders, and a banner with accept and refuse side by side. After talking to its adviser, the school keeps GA4 behind consent in basic Consent Mode, drops the advertising pixel from course pages about children's lessons, and moves the pixel to consent-only on adult course pages.",
+        "The trial-lesson form shrinks from nine fields to five: name, email, phone, course and preferred day. Newsletter sign-up becomes a separate unticked box. Submissions go to the site's database on EU hosting and are deleted after the period the school sets. Nobody on our side ever sees a real submission, because testing uses dummy data.",
+        `On price, a site this size would start from the ${P.site} plan, with the tag clean-up and consent configuration included in the build. Timeline around two weeks, plus the time the school's adviser needs to approve the banner text and privacy statement.`,
+      ],
+    },
+    {
+      id: "checklist",
+      heading: "GDPR compliant website development checklist before launch",
+      paragraphs: [
+        "Test these on the staging site in a fresh browser profile, with the developer tools network tab open:",
+      ],
+      list: [
+        "With no choice made, no analytics, advertising or social requests leave the browser.",
+        "“Refuse all” is as visible and as quick as “Accept all”.",
+        "The site works normally after refusing every optional category.",
+        "A footer link reopens the consent choices, and changes apply without a reload.",
+        "Consent Mode v2 defaults are set before any Google tag fires, with all four signals present.",
+        "Every form field has a stated purpose, and optional opt-ins are unticked.",
+        "Submissions are deleted automatically after the agreed period.",
+        "Fonts are self-hosted; maps and videos load only on click.",
+        "Hosting, backups and email delivery are in the EU, with providers listed for your register.",
+        "Your privacy adviser has reviewed the banner, notices and privacy statement.",
+      ],
+      after: [
+        `<a href='/contact/'>Send us your site address</a> and we will run the first three checks and tell you what we find before you commit to anything.`,
+      ],
+    },
+  ],
+  tables: [
+    {
+      id: "requirements",
+      eyebrow: "Requirements",
+      heading: "Privacy requirements and what the build delivers",
+      note: `Consent rules as summarised in the Dutch government's <a href='${COOKIES}' rel='noopener'>cookie guidance</a>; processor contract contents from GDPR Article 28. Your adviser confirms how each applies to you.`,
+      columns: ["Requirement", "Where it comes from", "What we build", "What you receive"],
+      rows: [
+        ["Active consent for non-essential cookies", "Dutch cookie rules", "Banner with categories off by default", "Test results with cookies refused"],
+        ["No cookie wall", "Dutch cookie rules", "Full site access after refusal", "Screen recording of refusal flow"],
+        ["Withdraw as easily as give", "Dutch guidance, GDPR Art. 7(3)", "Footer link that reopens choices", "Location of the link in every template"],
+        ["Data minimisation", "GDPR Art. 25", "Field-by-field form review, retention in code", "Form inventory with purposes"],
+        ["Privacy statement on the site", "Business.gov.nl guidance", "Links from banner, forms and footer", "Your text, placed and linked"],
+        ["Processor contract", "GDPR Art. 28", "Providers chosen with processor terms", "Sub-processor list for your register"],
+        ["Security appropriate to risk", "GDPR security duties", "2FA, updates, backups, logs, headers", "Security configuration notes"],
+      ],
+      hideSm: [1],
+    },
+    {
+      id: "consent-signals",
+      eyebrow: "Consent Mode v2",
+      heading: "Google Consent Mode v2 signals and how we set them",
+      note: `Signal names from <a href='${CONSENT}' rel='noopener'>Google's consent mode documentation</a>. Defaults shown are our standard for EEA visitors; you decide the final set-up with your adviser.`,
+      columns: ["Signal", "What it controls", "Default before a choice", "Switched on by"],
+      rows: [
+        ["analytics_storage", "Analytics cookies", "Denied", "Statistics category accepted"],
+        ["ad_storage", "Advertising cookies", "Denied", "Marketing category accepted"],
+        ["ad_user_data", "Sending user data to Google for advertising", "Denied", "Marketing category accepted"],
+        ["ad_personalization", "Personalised advertising", "Denied", "Marketing category accepted"],
+        ["Basic mode", "Google tags blocked until banner interaction", "Nothing sent", "Any consent granted"],
+        ["Advanced mode", "Tags load with denied defaults", "Cookieless measurements sent", "Consent granted per signal"],
+      ],
+      hideSm: [1],
+    },
+    {
+      id: "scope-price",
+      eyebrow: "Budget",
+      heading: "Privacy-first website scopes and starting prices",
+      note: "Starting prices in USD. Consent set-up, Consent Mode v2 and form review are included in every build; legal review is by your own adviser.",
+      columns: ["Scope", "Typical privacy work", "Starts from", "Timeline"],
+      rows: [
+        ["Business website", "Banner, analytics choice, lean forms, EU hosting", P.site, "1–2 weeks"],
+        ["Large content site", "Many templates, languages, several tools", P.seoSite, "3–5 weeks"],
+        ["Webshop", "Checkout, payment and marketing tag mapping", P.shop, "4–8 weeks"],
+        ["Portal with accounts", "Logins, self-service export and deletion", P.software, "6–12 weeks"],
+        ["AI features", "Chat or automation with EU data processing where available", P.ai, "2–4 weeks"],
+        ["Maintenance", "Updates, cookie re-scans after changes", P.care, "Monthly, after 5 free months"],
+      ],
+    },
+  ],
+  areas: {
+    eyebrow: "Across the Netherlands",
+    heading: "Privacy-first websites for businesses in Dutch cities",
+    note: "We work remotely for clients across the Netherlands and never visit offices. Each city's mix of businesses shapes which privacy issues come up most.",
+    cards: [
+      { name: "Amsterdam", note: "Startups, SaaS teams and agencies often run many marketing tools at once, so consent mapping and Consent Mode v2 set-up take most of the privacy effort here." },
+      { name: "Rotterdam", note: "Logistics and trade businesses with customer portals need careful access control, EU hosting and clear processor lists for the systems behind their websites." },
+      { name: "The Hague", note: "Organisations working with public-sector and international clients tend to ask detailed questions about hosting location, sub-processors and data transfers before signing." },
+      { name: "Utrecht", note: "Education, healthcare-adjacent and service businesses collect enquiries through forms, making data minimisation and retention settings the main topics." },
+      { name: "Eindhoven", note: "Technology companies recruiting internationally often need career pages and application forms with strict retention and private file storage." },
+      { name: "Groningen", note: "Student-facing businesses and regional services benefit from lean analytics set-ups that report what matters without profiling young visitors." },
+      { name: "Tilburg", note: "Webshops and logistics firms in Brabant need checkout and marketing tags mapped carefully to consent categories before campaigns run." },
+      { name: "Almere", note: "Fast-growing local service businesses often start with template sites, where a privacy review of tags and embeds is the quickest improvement." },
+      { name: "Breda", note: "Retailers and hospitality businesses with booking and chat widgets benefit from click-to-load embeds that stop data flowing before visitors choose." },
+      { name: "Nijmegen", note: "Care providers and training organisations handle sensitive enquiries, so forms with minimal fields and encrypted storage matter most here." },
+      { name: "Haarlem", note: "Independent shops and creative studios running newsletters need separate, unticked opt-ins and easy unsubscribe links on every email." },
+      { name: "Arnhem", note: "Regional businesses moving off older sites benefit from a cookie and tag scan first, since legacy scripts are a common source of hidden tracking." },
+      { name: "Zwolle", note: "B2B suppliers with dealer or customer logins need self-service data export and account deletion built into their portals." },
+      { name: "Leeuwarden", note: "Tourism and hospitality sites with embedded maps and videos gain privacy and speed from self-hosted fonts and click-to-load media." },
+    ],
+  },
+  process: {
+    heading: "How a privacy-first website project runs",
+    steps: [
+      ["Scan what you have", "Send your current site address. We check which cookies and third-party requests load before consent and share the findings before quoting."],
+      ["Receive an itemised quote", "Within about two working days, with consent set-up, analytics, forms, hosting and any clean-up as separate lines, in USD starting prices."],
+      ["Agree the privacy choices", "With your adviser, decide the analytics route, Consent Mode basic or advanced, retention periods and whether we need data access at all."],
+      ["Build on staging with dummy data", "Templates, banner, forms and tag wiring are built without real personal data, and demoed weekly during your late morning or early afternoon."],
+      ["Test and document", "Refusal and acceptance flows tested in clean browsers, Consent Mode checked in Tag Assistant, and a cookie list and provider list handed over."],
+      ["Launch and keep it clean", `Go-live on EU hosting in your name. Five months of free maintenance include re-scans after changes; then care from ${P.care}.`],
+    ],
+  },
+  faqHeading: "GDPR compliant website development: questions from Dutch businesses",
+  faqs: [
+    { question: "How much does GDPR compliant website development cost?", answer: `With BtechWaleTech, a new GDPR compliant website starts from ${P.site}, including the consent banner, Consent Mode v2, form review and EU hosting set-up. Large content sites start from ${P.seoSite}, webshops from ${P.shop} and portals with user accounts from ${P.software}. Fixing an existing site is quoted after a free scan of its cookies and tags.` },
+    { question: "What does a website need to be GDPR compliant?", answer: "Active consent before non-essential cookies, refusal as easy as acceptance with no cookie wall, a privacy statement, forms that collect only necessary data, retention that is enforced, secure hosting with processor agreements, and safeguards for any transfer outside the EU. The website supports these; overall compliance also depends on your policies, so your adviser should confirm it." },
+    { question: "Are cookie walls allowed in the Netherlands?", answer: "No, not as a way to obtain valid consent. Dutch government guidance on business.gov.nl says consent is not valid when a cookie wall prevents visitors from entering or using the website normally if they refuse cookies. We build banners that let visitors refuse with one click and keep using the whole site." },
+    { question: "Do analytics cookies need consent in the Netherlands?", answer: "It depends on the set-up. Dutch government guidance says analytical cookies with no or little impact on visitors' privacy do not need consent, while tracking that profiles visitors does. We can configure a low-impact analytics set-up or keep full analytics behind consent; your privacy adviser should confirm which category your configuration falls into." },
+    { question: "What is Google Consent Mode v2?", answer: "It is Google's mechanism for passing a visitor's consent choices to Google tags through four signals: ad_storage, analytics_storage, ad_user_data and ad_personalization. In basic mode, tags stay blocked until the visitor interacts with the banner; in advanced mode, tags load with denied defaults and send cookieless measurements. We build either and test it before launch." },
+    { question: "Can a developer in India build a GDPR compliant website?", answer: "Yes. Most website work needs no access to your customers' personal data, because we build on staging with dummy data and forms send submissions to your EU hosting. If support requires access, we sign a verwerkersovereenkomst with you and your adviser chooses the transfer safeguard, usually the European Commission's Standard Contractual Clauses, since India has no adequacy decision." },
+    { question: "Do we need a verwerkersovereenkomst with our web developer?", answer: "You need one if the developer processes personal data on your behalf, for example by maintaining a live database with customer records. GDPR Article 28 sets out what it must contain. If a developer only builds with test data and never accesses real personal data, your adviser may decide one is not needed. We sign one whenever access is required." },
+    { question: "What are Standard Contractual Clauses?", answer: "They are model contract terms approved by the European Commission that provide safeguards for transferring personal data to countries without an adequacy decision. The current clauses were adopted on 4 June 2021 under Implementing Decision 2021/914. Your adviser picks the right module and decides whether a transfer assessment is needed; we sign what they select." },
+    { question: "Where should our website be hosted for the AVG?", answer: "In an EU region, on an account registered to your business, with a provider that offers a processor agreement. Backups, email delivery and CDN matter too, since they also handle data. We list every provider with its location so you can record them in your processing register and decide what to keep." },
+    { question: "Is Google Fonts a GDPR problem?", answer: "Loading fonts from an external service sends each visitor's IP address to that provider on every page view. The simple fix is to self-host the font files on your own server, which removes the external request and usually speeds up the site. We self-host fonts on every privacy-first build by default." },
+    { question: "How do you make contact forms GDPR friendly?", answer: "We review each field for its purpose and remove the rest, add a short notice beside the submit button with a link to the privacy statement, keep newsletter consent as a separate unticked box, store submissions securely on EU hosting, limit who can see them and delete them automatically after the period you set." },
+    { question: "Do you write our privacy statement and cookie policy?", answer: "No. Those are legal documents that describe your purposes and legal bases, so they come from you or your adviser. We supply the technical input they need, including the cookie list, data flows, providers and retention settings, and we place the documents so every form, banner and footer links to them." },
+    { question: "Can you fix an existing site instead of rebuilding it?", answer: `Often, yes. We scan the site for cookies and requests before consent, then fix the banner, tag wiring, embeds and forms. If tags are hard-coded throughout an old theme, a rebuild may be cheaper than repairs; we will say which after the scan. Repairs can run under maintenance from ${P.care}.` },
+    { question: "Is your work GDPR certified?", answer: "No, and we do not describe it that way. We build technical controls that support GDPR compliance and document them clearly. Compliance itself is your organisation's responsibility as controller, and your privacy officer or lawyer should confirm that the site, your policies and your processes together meet the AVG." },
+    { question: "How long does GDPR compliant website development take?", answer: "A privacy-first business website takes one to two weeks of build time, large content sites three to five weeks and webshops four to eight weeks. Add the time your adviser needs to approve banner text and privacy documents. Repairs to an existing site usually take days rather than weeks, depending on what the scan finds." },
+    { question: "Will a cookie banner hurt our analytics data?", answer: "You will see fewer tracked visits once refusal is a real option, because some visitors refuse. That is the honest picture. Low-impact analytics, server-side Search Console data and Consent Mode's modelling in advanced mode can fill some gaps. We help you choose reporting that remains useful without breaking the rules." },
+    { question: "How does the site handle requests to delete personal data?", answer: "We map every place the site stores personal data, then add tools to find, export and delete a person's records, such as an admin search by email address or self-service account deletion. Backups are overwritten on a documented schedule. Handling the request itself remains your process; the site makes it quick." },
+    { question: "Does GDPR compliance affect SEO?", answer: "Not negatively when done well. Search engines do not need cookies to crawl your site, and removing third-party scripts often improves speed and Core Web Vitals. Google Search Console measures search performance without any tag on the page. Nobody can guarantee rankings, but a lean, private site gives SEO a solid base." },
+    { question: "Can AI chatbots on our website be GDPR compliant?", answer: `They can support compliance if designed carefully: the widget loads after consent or on click, visitors are told they are talking to AI, conversations are stored in the EU where the provider allows it, retention is limited and sensitive data is discouraged. AI features start from ${P.ai}; our AI automation page for Dutch businesses covers this.` },
+    { question: "How do we pay and who signs the contracts?", answer: "Quotes are in USD, invoices come from India, and payment is by Wise, bank wire or PayPal against milestones. Nothing is billed before you approve the quote in writing. A verwerkersovereenkomst is added if we will access personal data, and any NDA terms are agreed before work starts." },
+    { question: "What happens after launch?", answer: `Five months of free maintenance cover updates, backups, security checks and a cookie re-scan whenever new tools are added. After that, maintenance starts from ${P.care} a month. New marketing tags are the most common way sites drift out of line, so we check each one against the consent set-up before it goes live.` },
+  ],
+  related: {
+    heading: "Related pages for Dutch businesses",
+    links: [
+      { name: "Law firm website design", href: "/netherlands/law-firm-website-design/" },
+      { name: "Recruitment agency website design", href: "/netherlands/recruitment-agency-website-design/" },
+      { name: "Web developer for Amsterdam businesses", href: "/netherlands/web-developer-for-amsterdam-businesses/" },
+      { name: "European Accessibility Act website compliance", href: "/netherlands/european-accessibility-act-website-compliance/" },
+      { name: "WordPress website development Netherlands", href: "/netherlands/wordpress-website-development/" },
+      { name: "Technical SEO services Netherlands", href: "/netherlands/technical-seo-services/" },
+      { name: "Custom software development Netherlands", href: "/netherlands/custom-software-development/" },
+      { name: "AI automation for Dutch SMEs", href: "/netherlands/ai-automation-agency/" },
+      { name: "WhatsApp chatbot for business", href: "/netherlands/whatsapp-chatbot-for-business/" },
+      { name: "Website development cost in the Netherlands", href: "/netherlands/website-development-cost/" },
+      { name: "All services for the Netherlands", href: "/netherlands/" },
+      { name: "Hire Indian developers", href: "/hire-indian-developers/" },
+      { name: "Pricing", href: "/pricing/" },
+    ],
+  },
+  cta: {
+    heading: "Send us your site for a quick privacy scan",
+    note: "We check what loads before consent, then send an itemised quote in USD within about two working days. Nothing is billed before you approve it in writing.",
+  },
+};
+
+export default content;

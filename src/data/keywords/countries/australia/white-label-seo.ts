@@ -68,7 +68,7 @@ const content: FreelanceContent = {
     note: "Pick the pieces your agency does not want to staff. Each is priced per end client, so a small retainer and a large one can sit side by side.",
     cards: [
       { name: "Technical SEO fulfilment", note: "Crawl audits, index coverage fixes, redirects, Core Web Vitals work and schema, applied directly on WordPress, Shopify or custom builds.", href: "/australia/technical-seo-audit/", size: "lg" },
-      { name: "Unbranded monthly reporting", note: "Looker Studio dashboards and a written summary in your template, sent to you to review before your client sees anything.", size: "lg" },
+      { name: "Unbranded monthly reporting", note: "Data Studio (formerly Looker Studio) dashboards and a written summary in your template, sent to you to review before your client sees anything.", size: "lg" },
       { name: "On-page optimisation", note: "Titles, headings, internal links and page copy edits mapped to a keyword plan your client has approved.", size: "md" },
       { name: "Content briefs", note: "Search intent, outline, questions to answer, entities and internal links, ready for your writers or ours.", size: "md" },
       { name: "White label local SEO", note: "Business Profile management, Australian citation clean-up and suburb page plans for your trade and clinic clients.", href: "/australia/local-seo-services/", size: "md" },
@@ -95,7 +95,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "White label SEO pricing and your margin",
-    note: `White label SEO fulfilment starts from ${P.seo} per end client a month. What moves the figure is the client's site size, how much technical debt it carries, how many pages or briefs you want each month, and whether local profile work is included. Your client price is yours to set; we never contact your clients or publish rates that undercut you. Each new client gets its own itemised quote within about two working days, so you can check the margin before you pitch. Nothing is billed until you approve in writing.`,
+    note: `White label SEO fulfilment starts from ${P.seo} per end client a month. What moves the figure is the client's site size, how much technical debt it carries, how many pages or briefs you want each month, and whether local profile work is included. Your client price is yours to set, and the work is arranged so that every client conversation runs through your agency. Each new client gets its own itemised quote within about two working days, so you can check the margin before you pitch. Nothing is billed until you approve in writing.`,
   },
   guideLabel: "White label SEO Australia guide",
   guide: [
@@ -115,7 +115,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Yes. You need someone who can sell and account-manage SEO, which is usually a founder or project manager, and a fulfilment partner who does the specialist work. You do not need an SEO employee on day one.`,
         `What you do need is a clear split of responsibilities. The agency runs discovery with the client, agrees goals, owns the contract and presents results. The white label partner audits, fixes, writes briefs, builds reports and flags risks. Problems start when neither side owns something, such as who approves page copy changes or who chases the client for website access.`,
-        `We send new agency partners a simple responsibility table before the first client starts, so both sides know who handles access requests, approvals, copy sign-off and emergencies. It is reproduced further down this page.`,
+        `We suggest agreeing a simple responsibility table before the first client starts, so both sides know who handles access requests, approvals, copy sign-off and emergencies. A starting version sits further down this page.`,
         `The one thing we would not recommend is reselling SEO with nobody at your agency able to answer basic questions. Your client will ask why traffic dipped in January or why a page is not ranking; the report explains it, but a person needs to deliver that explanation in your voice.`,
       ],
     },
@@ -136,11 +136,11 @@ const content: FreelanceContent = {
     },
     {
       id: "unbranded-reporting",
-      heading: "Unbranded white label SEO reporting in Looker Studio",
+      heading: "Unbranded white label SEO reporting in Data Studio (formerly Looker Studio)",
       paragraphs: [
-        `We build each client's report in Google's no-cost reporting tool, Looker Studio (Google's current documentation calls it Data Studio), styled with your logo, colours and fonts, and shared from your agency's Google account so our name never appears.`,
+        `We build each client's report in Google's free dashboard tool, known as Looker Studio from 2022 and renamed Data Studio by Google in April 2026, styled with your logo, colours and fonts, and shared from your agency's Google account so our name never appears.`,
         `The dashboard pulls from the client's Search Console and analytics, and where relevant their Business Profile data and call tracking. Pages cover organic clicks and impressions, the queries driving them, conversions from organic visits, top landing pages, and a log of work completed that month.`,
-        `Alongside the dashboard we write a one-page summary in plain English: what changed, why we think it changed, what we did and what comes next. You receive it first, edit it into your voice, and send it on. Some agencies forward it untouched; others use it as notes for a call.`,
+        `Alongside the dashboard we write a one-page summary in plain English: what changed, why we think it changed, what we did and what comes next. You receive it first, edit it into your voice, and send it on. You can forward it as written or use it as speaking notes for a client call.`,
         `Because the report is created in your account, it stays with you if our arrangement ends. You can copy it for new clients, change the layout, or hand it to an in-house hire later.`,
       ],
       list: [
@@ -155,7 +155,7 @@ const content: FreelanceContent = {
       id: "nda-ownership",
       heading: "NDA and client ownership terms in a white label SEO arrangement",
       paragraphs: [
-        `The client is yours. We do not contact your clients, do not approach them later, and do not list them anywhere. Confidentiality and non-solicitation wording is agreed in writing before you share client details, and if your agency uses its own NDA you can send it with the first brief for us to review.`,
+        `The client is yours. The arrangement is built so that all client contact runs through your agency and your clients never appear in our portfolio or marketing. The exact confidentiality and non-solicitation wording is agreed in writing before you share client details, and if your agency uses its own NDA you can send it with the first brief for us to review.`,
         `Ownership of the work follows the same logic. Pages, briefs, reports and anything else produced for your client belong to the client or your agency, as your own contract with that client says. All logins sit in accounts owned by the client or your agency, with us added as a user that can be removed at any time.`,
         `We do not state standard notice periods or lock-in terms on this page. Those are set per arrangement in the written quote, and our general <a href='/terms/'>terms</a> apply alongside anything you and we sign.`,
         `One practical tip: make sure your own client contract allows you to use subcontractors. Many agency agreements already do; if yours does not, ask your lawyer how to word it. That is your legal relationship with your client, and we cannot advise on it.`,
@@ -252,14 +252,14 @@ const content: FreelanceContent = {
       paragraphs: [
         `This scenario is hypothetical. Picture a four-person web design studio in Collingwood that builds WordPress and Shopify sites. Five recent clients have asked about SEO: two cafés, a physio clinic, an online homewares store and a builder.`,
         `The studio sends us access and a short brief for each. We audit all five in the first fortnight and return one page per client, in the studio's template, ranking problems by likely impact. The homewares store needs technical work on duplicate collections; the builder needs a Business Profile rebuilt and suburb pages; the cafés need little beyond profile hygiene and a menu page with proper headings.`,
-        `The studio decides to sell SEO to three of them at retainers it sets itself, and tells the cafés honestly that a few hours of one-off setup is enough for now. We quote each of the three separately, from ${P.seo} a month per client, and deliver reports into the studio's Looker Studio account. The clients only ever deal with the studio.`,
+        `The studio decides to sell SEO to three of them at retainers it sets itself, and tells the cafés honestly that a few hours of one-off setup is enough for now. We quote each of the three separately, from ${P.seo} a month per client, and deliver reports into the studio's own Data Studio account. The clients only ever deal with the studio.`,
       ],
     },
     {
       id: "onboarding-checklist",
       heading: "White label SEO onboarding checklist for each new end client",
       paragraphs: [
-        `Use this before any work starts on a new client. It prevents most of the delays we see in the first month.`,
+        `Use this before any work starts on a new client. Missing access and unclear sign-off are the usual reasons a first month stalls, and this list catches both.`,
       ],
       list: [
         "Client contract allows subcontracted work (confirmed by you)",
@@ -287,7 +287,7 @@ const content: FreelanceContent = {
       id: "responsibility-split",
       eyebrow: "Who does what",
       heading: "Responsibility split between your agency and the white label SEO team",
-      note: "The table we agree with each agency partner before the first client starts. Adjust any row to suit how you work.",
+      note: "A suggested split to agree before the first client starts. Adjust any row to suit how your agency works.",
       columns: ["Task", "Your agency", "BtechWaleTech"],
       rows: [
         ["Selling SEO and setting the client price", "Owns it", "Supplies scope and cost"],
@@ -319,7 +319,7 @@ const content: FreelanceContent = {
       id: "report-contents",
       eyebrow: "Reporting",
       heading: "What goes into each unbranded monthly report",
-      note: "Built in your Looker Studio account with your branding; the written summary comes to you first.",
+      note: "Built in your Data Studio account with your branding; the written summary comes to you first.",
       columns: ["Section", "Source", "Why it matters to your client"],
       rows: [
         ["Organic clicks and impressions", "Search Console", "Shows search visibility trend"],
@@ -334,7 +334,7 @@ const content: FreelanceContent = {
   areas: {
     eyebrow: "Agencies across Australia",
     heading: "White label SEO for agencies around Australia",
-    note: "We work remotely with agencies anywhere in Australia. These notes reflect the kinds of agency and client mix typical of each place.",
+    note: "Everything runs remotely, so any Australian agency can work this way. These notes describe the agency and client mix you would expect in each place.",
     cards: [
       { name: "Sydney CBD and Surry Hills", note: "Design and branding studios with professional services and hospitality clients often want SEO fulfilment that fits alongside their own polished reporting and client calls." },
       { name: "Parramatta", note: "Agencies serving Western Sydney trades, clinics and migration advisers need local SEO fulfilment across many suburbs without hiring a specialist team." },
@@ -371,14 +371,14 @@ const content: FreelanceContent = {
     { question: "Will my clients know I use a white label SEO provider?", answer: "Not from us. Reports and documents carry your agency's branding, dashboards are shared from your Google account, and we never contact your clients. Whether you tell clients you use specialist partners is your decision; some agencies mention a partner network, others do not. Check that your client contracts allow subcontracting." },
     { question: "Do you sign an NDA for white label SEO?", answer: "Confidentiality and non-solicitation wording is agreed in writing before you share any client details. If your agency has its own NDA, send it with the first brief and we will review it. The exact terms are set in your written quote and our terms page rather than stated here." },
     { question: "Who owns the client and the SEO work?", answer: "Your agency owns the client relationship. The pages, briefs and reports belong to the client or your agency under your contract with them. Every account stays owned by the client or your agency, with us added as a removable user. If our arrangement ends, the dashboards and work logs remain in your accounts." },
-    { question: "What does a white label SEO report include?", answer: "Our reports cover organic clicks and impressions, top queries and landing pages, leads from organic visits, local actions such as calls for local clients, a log of work completed and the plan for next month. They are built in Looker Studio with your branding, plus a short written summary you can edit before sending." },
+    { question: "What does a white label SEO report include?", answer: "Our reports cover organic clicks and impressions, top queries and landing pages, leads from organic visits, local actions such as calls for local clients, a log of work completed and the plan for next month. They are built in Google's Data Studio, formerly Looker Studio, with your branding, plus a short written summary you can edit before sending." },
     { question: "How does turnaround work between Australia and India?", answer: "India is four and a half hours behind AEST and five and a half behind during daylight saving. Tasks sent in your afternoon arrive at the start of our day, so small items are often finished before your next morning and larger ones get a progress note. Turnaround for specific tasks is agreed per client in your quote." },
     { question: "Do you build backlinks for white label clients?", answer: "We help earn links through accurate citations, genuine supplier and association relationships, local organisations and digital PR ideas, and we report every one. We do not buy links, use private blog networks or run link swaps, which Google's spam policies treat as link spam. If a client needs high-volume link packages, we are not the right partner." },
     { question: "Can you do white label local SEO for trades and clinics?", answer: "Yes. We manage Business Profiles as a manager on the client's account, clean up Australian citations, plan suburb pages that avoid doorway spam and set up a review request routine that follows Google's policy and ACCC guidance. Reporting covers calls, forms and direction requests alongside organic traffic." },
     { question: "Do you implement technical fixes or only recommend them?", answer: "We implement them. As developers we apply redirects, schema, speed fixes, canonical changes and template improvements directly on WordPress, Shopify and custom sites once you approve, working on staging where possible. Every change is logged with how to reverse it, which protects your agency if questions come up later." },
-    { question: "Can you write content for my agency's SEO clients?", answer: "Yes, as a separate line in the quote. Many agencies prefer our detailed content briefs and use their own writers who know the client's voice. When we draft, your team or the client edits and approves. For regulated professions the client must check every claim before it goes live." },
+    { question: "Can you write content for my agency's SEO clients?", answer: "Yes, as a separate line in the quote. Detailed briefs are often the better buy, because your own writers already know the client's voice. When we draft, your team or the client edits and approves. For regulated professions the client must check every claim before it goes live." },
     { question: "How do I price white label SEO to my clients?", answer: "Start from our per-client fulfilment cost, convert it to AUD with a buffer for exchange movement, add your account management hours and tool costs, then set a retainer that leaves the margin you need. Price per client rather than one blanket package, because site condition and competition vary a lot." },
-    { question: "What if a client leaves my agency?", answer: "You tell us, we stop work at the end of the period agreed in your quote, and you or the client remove our access. Reports, logs and dashboards stay in your accounts. We never approach departing clients directly, and the confidentiality terms we agreed continue to apply after the work ends." },
+    { question: "What if a client leaves my agency?", answer: "You tell us, we stop work at the end of the period agreed in your quote, and you or the client remove our access. Reports, logs and dashboards stay in your accounts. How confidentiality and non-solicitation apply after the work ends is whatever we agreed in writing at the start." },
     { question: "Can you handle SEO for sites my agency built?", answer: "Yes, and it is often the easiest fit. We can also review your site templates once so future builds launch with sound titles, headings, schema and page speed, which reduces the SEO clean-up needed for each new client and makes your builds easier to sell alongside ongoing SEO." },
     { question: "How many clients can you take on?", answer: "We are three freelance developers, so we grow with an agency gradually rather than absorbing dozens of clients at once. Tell us your pipeline and we will say honestly what we can deliver well and when. Starting with one or two clients also lets you judge our work before adding more." },
     { question: "Is white label SEO better than hiring an in-house SEO?", answer: "It depends on demand. White label SEO suits agencies whose SEO sales are uneven or still growing, because costs follow clients. Once you have enough steady SEO work to fill a role, an in-house hire gives you more control. Many agencies start with white label and hire later, keeping the partner for technical overflow." },

@@ -86,7 +86,7 @@ const content: FreelanceContent = {
       ["Who writes the code", "In-house or subcontracted team", "One person", "Named senior developers"],
       ["In-person workshops", "Available", "No", "No; video calls only"],
       ["Store accounts", "Sometimes the agency's own", "Varies", "Always your Apple and Google accounts"],
-      ["If a developer leaves", "Replaced from the bench", "Project stalls", "Two others already know the code"],
+      ["If a developer leaves", "Replaced from the bench", "Project stalls", "Teammates can pick up the code"],
       ["Support after launch", "Retainer with a written SLA", "Ad hoc", `5 months free, then from ${P.care}; terms in your quote`],
       ["24/7 on-call", "Often available", "No", "No; IST working hours, 7 days a week on WhatsApp"],
       ["Starting budget", "Varies widely", "Varies widely", `From ${P.app}`],
@@ -177,7 +177,7 @@ const content: FreelanceContent = {
       heading: "Publishing under your own Apple and Google accounts",
       paragraphs: [
         `Your app should be published under developer accounts registered to your business. That is how you keep control of the listing, reviews, customer data and future updates if you ever change developers.`,
-        `<a href='https://developer.apple.com/programs/enroll/' rel='noopener'>Apple's enrollment page</a> states that the Apple Developer Program costs US$99 per membership year, and that organisations must have a D-U-N-S Number and be a legal entity that can contract with Apple; your organisation's name appears as the seller on the App Store. Google Play charges a one-time US$25 registration fee. Google's Play Console Help also says new personal developer accounts must run a closed test with at least 12 testers opted in for 14 continuous days before applying for production access, which is one reason we recommend an organisation account.`,
+        `<a href='https://developer.apple.com/programs/enroll/' rel='noopener'>Apple's enrollment page</a> states that the Apple Developer Program costs US$99 per membership year, and that organisations must have a D-U-N-S Number and be a legal entity that can contract with Apple; your organisation's name appears as the seller on the App Store. Google Play charges a one-time US$25 registration fee. Google's Play Console Help also says personal developer accounts created after 13 November 2023 must run a closed test with at least 12 testers opted in for 14 continuous days before applying for production access, which is one reason we recommend an organisation account.`,
         `We guide you through enrolment, then work through team access roles you grant us. You can remove that access at any time, and the app stays yours.`,
       ],
     },
@@ -185,7 +185,7 @@ const content: FreelanceContent = {
       id: "payments-in-app",
       heading: "Taking payments inside an app: Apple's rules explained simply",
       paragraphs: [
-        `Physical goods and real-world services use normal card or wallet payments; digital content unlocked inside the app must use Apple's in-app purchase. Getting this wrong is a common reason for App Store rejection.`,
+        `Physical goods and real-world services use normal card or wallet payments; digital content unlocked inside the app must use Apple's in-app purchase. Getting this wrong can see a build rejected at App Review.`,
         `Apple's App Review Guidelines (section 3.1.1) require in-app purchase for unlocking features or digital content such as subscriptions or premium content. Section 3.1.3(e) says apps selling physical goods or services consumed outside the app must use other methods, such as Apple Pay or card entry. So a salon booking app or a grocery app takes card payments through your provider, while a paid workout-video subscription would need in-app purchase.`,
         `We design the payment flow around the right rule from the start and connect the card provider you choose; the merchant account is always yours.`,
         `Rules also differ by region and change over time, and Apple has adjusted its payment policies for some countries after regulatory rulings. Before we build a paid feature, we read the current version of the guidelines together with you and note which rule applies in the quote. That short step is cheaper than a rejected submission a week before a planned launch in Dubai Mall or a Ramadan campaign.`,
@@ -193,7 +193,7 @@ const content: FreelanceContent = {
     },
     {
       id: "maintenance-sla",
-      heading: "Maintenance and SLAs: what support after launch should look like",
+      heading: "Maintenance SLAs: a Dubai mobile app development company vs a remote team",
       paragraphs: [
         `Support after launch should be written down: what is covered, how to report a problem, when you can expect a reply, and what costs extra. A promise of “full support” without those details is not a service level.`,
         `Many agencies sell annual maintenance contracts with defined response times, sometimes including out-of-hours cover. That has real value for apps where an outage costs money every hour. With us, you get five months of free maintenance after launch, then support from ${P.care}. Response expectations and scope are agreed in your written quote, and we reply on WhatsApp seven days a week during Indian working hours. We do not offer overnight on-call.`,
@@ -334,7 +334,7 @@ const content: FreelanceContent = {
     },
   ],
   areas: {
-    eyebrow: "Who we build apps for",
+    eyebrow: "Who commissions apps",
     heading: "UAE businesses that commission apps remotely",
     note: "We work remotely with founders and SMEs across the emirates. These notes describe the kinds of app projects typical of each place.",
     cards: [
@@ -380,7 +380,7 @@ const content: FreelanceContent = {
     { question: "When should I choose a Dubai app development company over a remote team?", answer: "Choose a local company when you need in-person workshops, a UAE-registered supplier for procurement, round-the-clock incident response, hardware integration on site, or many developers in parallel. Those needs justify local overheads. For SME and startup apps without them, a senior remote team can deliver the same app with fewer layers." },
     { question: "Will I own the source code of my app?", answer: "Yes. The code lives in a repository in your name, such as GitHub or GitLab, updated throughout the build rather than handed over at the end. The backend runs on a cloud account you own, and the app is published under your store accounts. At handover you receive documentation and a credentials list for everything." },
     { question: "Can you take over an app built by another agency?", answer: "Often, yes. We start with an audit: access to the code, store accounts, backend and any third-party services. If the app sits under the previous agency's store account, it can usually be transferred to yours, though Apple and Google have rules on transfers. We then list fixes and upgrades with prices before any work begins." },
-    { question: "How do I pay an app team in India from the UAE?", answer: "Quotes are in USD and invoices are issued from India. Payment is by Wise, bank wire or PayPal, usually split across milestones agreed in the quote, and nothing is billed until you approve the quote in writing. For VAT or accounting treatment of foreign invoices in the UAE, please check with your own accountant." },
+    { question: "How do I pay an app team in India from the UAE?", answer: "Quotes are in USD and invoices are issued from India. Payment is by Wise, bank wire or PayPal, on the schedule set out in your quote, and nothing is billed until you approve the quote in writing. For VAT or accounting treatment of foreign invoices in the UAE, please check with your own accountant." },
     { question: "How do we communicate across the time difference?", answer: "There is very little difference to manage: India is 1.5 hours ahead of the UAE, so your whole working day overlaps with ours. We use WhatsApp for quick questions, weekly video calls for reviews and a shared task board for progress. Test builds usually reach your phone before the end of your working day." },
     { question: "Can you add AI features such as a chatbot to my app?", answer: `Yes. Common additions are an assistant that answers from your own documents, smart search, and automatic reading of uploaded forms or receipts. The AI layer is scoped separately, with automation work starting from ${P.ai}. We explain where data is processed and how answers are tested before release, and keep human handoff available for anything sensitive.` },
     { question: "Will my app rank in the App Store or Google Play?", answer: "No one can guarantee store rankings, featuring or download numbers. What helps is a clear app name and subtitle, a description matching what people search for, strong screenshots, steady ratings and regular updates. A simple website page for the app also helps customers and AI search tools find accurate information about it outside the stores." },

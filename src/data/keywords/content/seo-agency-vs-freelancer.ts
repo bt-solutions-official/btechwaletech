@@ -164,7 +164,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Whichever model you pick, each month should produce visible work on your site and a clear record of it: pages improved, technical issues fixed, content published, links earned and what changed in your search data. If a month produces only a report, the work did not happen.`,
         `Good monthly SEO follows a plan agreed at the start, usually built from an audit. Month by month, work moves through that plan: technical foundations first, then the pages closest to ranking for buyer searches, then new content and links. Each task has a purpose you can trace back to a finding.`,
-        `A useful habit is asking for a change list each month: every URL touched, what was changed and why. It takes the provider a few minutes to produce if they did the work. It is also the best protection against the most common complaint about SEO providers of any size, paying for months of “ongoing optimisation” with nothing to show for it.`,
+        `A useful habit is asking for a change list each month: every URL touched, what was changed and why. It takes the provider a few minutes to produce if they did the work. It is also the best protection against a familiar complaint about SEO providers of any size: paying for months of “ongoing optimisation” with nothing to show for it.`,
       ],
       list: [
         "A change list: URLs touched, what changed, why",
@@ -179,7 +179,7 @@ const content: FreelanceContent = {
       id: "contracts",
       heading: "Contracts and accountability: what to check before signing",
       paragraphs: [
-        `Before signing with either an SEO agency or a freelancer, get the scope, the monthly deliverables, the notice terms and the ownership of accounts and content in writing. Most bad SEO experiences trace back to one of those four being vague.`,
+        `Before signing with either an SEO agency or a freelancer, get the scope, the monthly deliverables, the notice terms and the ownership of accounts and content in writing. When any of those four is vague, disputes follow.`,
         `Agencies more often use fixed-term contracts, sometimes six or twelve months, arguing that SEO takes time. That argument has some truth, but a long lock-in with vague deliverables leaves you paying for months after you have lost confidence. Freelancers more often work month to month, which is flexible but can mean no written scope at all. Either way, insist on a document that says what will be done.`,
         `Ownership deserves its own line. Your Search Console, analytics, Google Business Profile, domain and every piece of content written for you should belong to you. Some providers set up accounts under their own login, which makes leaving painful. With us, the scope and terms sit in your written quote, the general terms are on our <a href='/terms/'>terms page</a>, and every account stays in your name.`,
       ],
@@ -216,7 +216,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With a solo freelancer, illness, a full-time job offer or burnout can stop your SEO overnight. With an agency, staff turnover means your account may pass through several executives in a year, each needing time to learn your business. Both risks are real; they just look different.`,
         `You can reduce both. Keep every account in your name so nothing is stranded. Ask for a running document of what was done, what is planned and why, so a new person can pick up quickly. Make sure content, briefs and keyword research live in shared folders you own, not in someone's personal drive.`,
-        `A small team spreads the risk. Because three of us work on the same accounts, one person's absence does not stop the work, and the knowledge of your site is shared. We also keep the change log in a place you can read, which means that if you ever move to another provider, the handover is a document rather than a scramble.`,
+        `A small team spreads the risk. Because all three of us work on each account, one person's absence does not stop the work, and the knowledge of your site is shared. We also keep the change log in a place you can read, which means that if you ever move to another provider, the handover is a document rather than a scramble.`,
       ],
     },
     {
@@ -313,7 +313,7 @@ const content: FreelanceContent = {
       heading: "Hiring an SEO agency or freelancer in India: practical points",
       paragraphs: [
         `In India, three practical questions often decide between an SEO agency and a freelancer: invoicing, payment and language. Sort them out before you compare anything else.`,
-        `Invoicing first. GST registration is compulsory only above a turnover threshold, so some individual freelancers do not issue GST invoices. If your business needs input tax credit or a GSTIN on every vendor bill, ask before starting; your chartered accountant can tell you whether it matters for you. Agencies are usually set up for vendor forms and formal contracts; freelancers and small teams can often handle them with notice, and anything you need is agreed in the written quote.`,
+        `Invoicing first. Under the GST law, most service providers must register only once their annual turnover crosses a set threshold, so some individual freelancers do not issue GST invoices. If your business needs input tax credit or a GSTIN on every vendor bill, ask before starting; your chartered accountant can tell you whether it matters for you. Agencies are usually set up for vendor forms and formal contracts; freelancers and small teams can often handle them with notice, and anything you need is agreed in the written quote.`,
         `Payment and communication next. Indian clients usually prefer UPI or bank transfer and quick answers on WhatsApp. We take UPI and bank transfer in India, and Wise, bank wire or PayPal in USD for clients abroad. Replies come on WhatsApp seven days a week, IST. Finally, check that the provider understands Indian search habits: mobile-first browsing on mid-range Android phones, Hinglish queries, and the weight of Google Business Profile for local businesses.`,
       ],
       list: [
@@ -337,7 +337,7 @@ const content: FreelanceContent = {
       heading: "Choosing between an SEO agency and a freelancer across India",
       paragraphs: [
         `Whatever city you are in, the same comparison applies, and our SEO work is fully remote, with calls in English or Hindi and updates on WhatsApp.`,
-        `We work with businesses in <a href='/delhi/'>Delhi</a>, <a href='/mumbai/'>Mumbai</a>, <a href='/nagpur/'>Nagpur</a>, <a href='/lucknow/'>Lucknow</a>, <a href='/chandigarh/'>Chandigarh</a>, <a href='/bhopal/'>Bhopal</a>, <a href='/madurai/'>Madurai</a>, <a href='/hubli-dharwad/'>Hubballi-Dharwad</a>, <a href='/jamshedpur/'>Jamshedpur</a> and <a href='/vadodara/'>Vadodara</a>, among many others. Local search habits differ from city to city, and the plan follows your customers.`,
+        `The same approach applies to businesses in <a href='/delhi/'>Delhi</a>, <a href='/mumbai/'>Mumbai</a>, <a href='/nagpur/'>Nagpur</a>, <a href='/lucknow/'>Lucknow</a>, <a href='/chandigarh/'>Chandigarh</a>, <a href='/bhopal/'>Bhopal</a>, <a href='/madurai/'>Madurai</a>, <a href='/hubli-dharwad/'>Hubballi-Dharwad</a>, <a href='/jamshedpur/'>Jamshedpur</a> and <a href='/vadodara/'>Vadodara</a> and beyond. Local search habits differ from city to city, and the plan follows your customers.`,
         `Businesses outside India get the same service quoted in USD from ${P.seoUsd}, paid by Wise, bank wire or PayPal. See <a href='/countries/'>countries we work with</a>.`,
       ],
     },
@@ -400,7 +400,7 @@ const content: FreelanceContent = {
     note: "Remote SEO, same approach everywhere. Each card links to context on businesses in that city.",
     cards: [
       { name: "SEO choices for Delhi retailers", note: "Delhi retailers and wholesalers from Chandni Chowk to Karol Bagh face heavy competition, so they need someone who can fix store templates as well as plan content.", href: "/delhi/" },
-      { name: "SEO help for Mumbai professional firms", note: "Mumbai law, finance and consulting firms often pay for large agency retainers when a focused team would handle their small, high-value page set well.", href: "/mumbai/" },
+      { name: "SEO help for Mumbai professional firms", note: "Mumbai law, finance and consulting firms usually have a small, high-value page set, which a focused team can handle without large agency overheads.", href: "/mumbai/" },
       { name: "SEO for Nagpur furniture and retail", note: "Nagpur furniture, orange-processing and retail businesses with showrooms benefit from local SEO plus online-store fixes rather than broad agency packages.", href: "/nagpur/" },
       { name: "SEO help for Lucknow hospitals", note: "Lucknow hospitals and clinics need careful medical content and accurate Business Profiles, where a small expert team can move faster than a large agency.", href: "/lucknow/" },
       { name: "SEO for Chandigarh immigration consultants", note: "Chandigarh study-abroad and immigration firms face intense competition and must keep visa content accurate, which rewards a hands-on specialist over volume content.", href: "/chandigarh/" },
@@ -444,7 +444,7 @@ const content: FreelanceContent = {
     { question: "Do I need a local SEO agency in my city?", answer: "Not necessarily. SEO work happens in online tools, so a remote provider can serve you well if they understand your market, customers and language. A local agency can visit for photographs or briefings. We work fully remotely, without site visits, and rely on you for local knowledge and photos." },
     { question: "Can a freelancer do link building safely?", answer: "Yes, if they earn links through digital PR, directories, resource pages and relationships rather than buying from networks. The same applies to agencies. Ask any provider for a sample of links built for other clients, a monthly log with source URLs, and a clear commitment not to use private blog networks." },
     { question: "Which is better for a startup: SEO agency or freelancer?", answer: "Early on, a specialist freelancer or small team usually fits better, because scope changes as the product changes and flexible month-to-month work suits that. Once content volume and channels grow, an agency or an in-house SEO lead may make sense. Avoid long contracts before product-market fit." },
-    { question: "Do freelancers issue GST invoices?", answer: "Some do and some do not, because GST registration is compulsory only above a turnover threshold. If your business needs input tax credit or a GSTIN on vendor invoices, ask before you start, and check with your chartered accountant whether it matters in your case. Agencies are usually set up for formal invoicing and vendor forms." },
+    { question: "Do freelancers issue GST invoices?", answer: "Some do and some do not, because most service providers must register for GST only once turnover crosses a set threshold. If your business needs input tax credit or a GSTIN on vendor invoices, ask before you start, and check with your chartered accountant whether it matters in your case. Agencies are usually set up for formal invoicing and vendor forms." },
     { question: "How much does monthly SEO cost with a small team?", answer: `BtechWaleTech's monthly SEO starts at ${P.seo}, or ${P.seoUsd} for clients outside India. The figure rises with site size, competition and how much content and link work you need. You receive an itemised quote in about two working days, and nothing is billed before you approve it in writing.` },
     { question: "Can an agency and a freelancer work together?", answer: "Yes, and it often works well. Agencies regularly bring in specialist freelancers for technical SEO or development, and businesses sometimes keep an agency for content and PR while a technical team handles the site. We also work white-label for agencies that want delivery support without competing for their client." },
     { question: "SEO agency ya freelancer, kaun sahi hai?", answer: `Chhote business ke liye aksar freelancer ya chhoti team behtar rehti hai, kyunki aap seedha kaam karne wale se baat karte hain aur agency ka overhead nahi lagta. Bade content aur PR kaam ke liye agency theek hai. Hamesha poochiye ki aapki site par kaun kaam karega. Humara monthly SEO ${P.seo} se shuru hota hai.` },

@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "Custom software ya web app", value: `${P.software} se, 6–12 hafte` },
       { label: "Pehla kaam", value: "Requirement list, bina technical bhasha ke" },
       { label: "Kis roop mein", value: "Web (sabse aam), desktop ya mobile app" },
-      { label: "Data kahan", value: "Aapke cloud account mein, roz ka backup" },
+      { label: "Data kahan", value: "Aapke cloud account mein, backup ke saath" },
       { label: "Source code", value: "Aapka, launch par handover" },
       { label: "Maintenance", value: `5 mahine free, phir ${P.care} se` },
       { label: "Payment", value: "UPI ya bank transfer, milestones par" },
@@ -113,7 +113,7 @@ const content: FreelanceContent = {
     },
     {
       id: "step-1-requirement",
-      heading: "Step 1: Software ki requirement list kaise likhein, bina technical bhasha ke",
+      heading: "Step 1: Software banwana hai toh requirement list kaise likhein, bina technical bhasha ke",
       paragraphs: [
         `Requirement list software ka naksha hai. Jitni saaf list, utna sahi quote aur utna kam jhagda baad mein. Ise likhne ke liye technical hona zaroori nahi; apni bhasha mein, Hindi ya English mein, likhiye.`,
         `Ek kaagaz ya WhatsApp note mein yeh saat cheezein likhiye:`,
@@ -402,7 +402,7 @@ const content: FreelanceContent = {
     { question: "Can the software connect to my accounting package or WhatsApp?", answer: `Usually yes. For accounting, we check what export or API options your package offers and send vouchers or daily exports so your accountant keeps working as before. For WhatsApp, automatic order updates, reminders and reports can be added, sent only to people who agreed to receive them. WhatsApp and AI automation builds start from ${P.ai}.` },
     { question: "What happens after the software goes live?", answer: `The first 5 months after go-live include free maintenance: bug fixes, small changes and help when staff get stuck. After that, maintenance starts from ${P.care} if you want us to continue, or you can take the code to another developer. New modules, like a dealer portal or salesman app, are quoted separately when you need them.` },
     { question: "Can I get a mobile app with my software?", answer: `Yes. Office work usually runs in the web software, and a small Android and iOS app for salesmen, technicians or delivery staff uses the same data. The app starts from ${P.app}. Many businesses add it in phase two, after the core web modules are running smoothly.` },
-    { question: "How do I pay, and do I get a GST invoice?", answer: "In India you pay by UPI or bank transfer against milestones agreed in the written quote, with a GST invoice where applicable. Clients abroad pay in USD by Wise, bank wire or PayPal. Nothing is billed before you approve the quote in writing. Cloud and domain bills go directly from your account to those providers." },
+    { question: "How do I pay for custom software?", answer: "In India you pay by UPI or bank transfer against milestones agreed in the written quote, and that quote also spells out the invoicing details. Clients abroad pay in USD by Wise, bank wire or PayPal. Nothing is billed before you approve the quote in writing. Cloud and domain bills go directly from your account to those providers." },
     { question: "Do you sign an NDA before I share business details?", answer: "If you need an NDA before sharing sensitive details, tell us on the first message and we will discuss it with you. The specific terms for your project, including confidentiality, ownership and support, go into the written quote you approve. Our general terms are on the terms page of this site." },
     { question: "Can you build ERP software for my factory?", answer: "Yes, but we recommend building it in phases rather than all modules at once. Start with the module causing the most pain, often inventory or production tracking, run it for a few weeks, then add purchase, dispatch or HR modules. Each phase gets its own module-wise quote, so cost and risk stay under control." },
     { question: "Aap factory ya office aakar kaam karte hain?", answer: "Nahi, hum remote kaam karte hain. Requirement call, design review, testing aur training sab video call aur WhatsApp par hota hai, Hindi ya English mein. Hum hardware ya networking nahi karte; agar machine ya network ka kaam ho, toh aapka local technician hamare saath milkar karta hai." },

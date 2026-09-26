@@ -285,7 +285,7 @@ const content: FreelanceContent = {
         "What happens to the content and theme changes if we stop working together?",
       ],
       after: [
-        `Warning signs include guaranteed first-page rankings, pressure to install a particular app bundle, requests for your owner login, and plans built on buying links. None of those protect your store. For budgets across all SEO types, see <a href='/canada/seo-pricing/'>SEO costs in Canada</a>.`,
+        `Warning signs include promises of page-one placement, pressure to install a particular app bundle, requests for your owner login, and plans built on buying links. None of those protect your store. For budgets across all SEO types, see <a href='/canada/seo-pricing/'>SEO costs in Canada</a>.`,
       ],
     },
     {

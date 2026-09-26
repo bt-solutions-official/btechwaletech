@@ -32,7 +32,7 @@ const content: FreelanceContent = {
     h1: "App development company vs freelancer: which is safer for your mobile app?",
     lede: `The app development company vs freelancer choice looks like a price question, but for a mobile app it is really a question of control: who holds the Play Console and App Store accounts, who runs the backend, and who fixes crashes after the next Android update. This page walks through each of those layers, the true drivers of an MVP quote, and the warning signs on both sides. BtechWaleTech, a three-person freelance team in India, builds Android and iOS apps from ${P.app}.`,
     pills: ["Store accounts in your name", "Backend ownership", "Post-launch bug fixing", "MVP cost drivers", "Red flags on both sides", "Flutter or React Native", "Written IP assignment"],
-    origin: "Three freelance developers in India · app, backend and store publishing under one roof · WhatsApp replies 7 days a week",
+    origin: "Three freelance developers in India · app, backend and store publishing in one small team · WhatsApp replies 7 days a week",
   },
   facts: [
     ["Android & iOS app from", `${P.app} · ${P.appUsd}`],
@@ -121,7 +121,7 @@ const content: FreelanceContent = {
     },
     {
       id: "why-apps-differ",
-      heading: "Why choosing an app builder is riskier than choosing a website builder",
+      heading: "Why the app development company vs freelancer choice is riskier than picking a web developer",
       paragraphs: [
         `A website is mostly one asset on one host. An app is at least four assets in four places: the code, the store listing, the backend and the signing credentials. Losing any one of them can stop updates entirely.`,
         `If a web developer disappears, a new developer can usually take over the site with the hosting login and a copy of the files. If an app developer disappears holding your store account or signing key, a new developer may be unable to ship an update under the same listing. Your reviews, download count and users stay attached to a listing you cannot touch.`,
@@ -178,7 +178,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Plan for bugs, because every app ships with some. The question is who fixes them, how fast and at what cost, and that should be written down before the build starts.`,
         `Real users find problems testers do not: a phone brand that handles notifications differently, a payment that times out on slow 4G, a screen that breaks when the system font is set to large. Crash reporting through Firebase Crashlytics or a similar tool shows these within hours, but someone must read the reports and push a fix through store review.`,
-        `An app development company usually handles this through a support contract or an hourly rate after a short warranty. A solo freelancer may fix things quickly if still available, or not at all if already on the next project. We include five months of free maintenance after launch, which covers bug fixes, small changes and updates; after that, upkeep continues from ${P.care} if you want it, or you take the code elsewhere.`,
+        `An app development company usually handles this through a support contract or an hourly rate after a short warranty. A solo freelancer may fix things quickly if still available, or not at all if already on the next project. We include five months of free maintenance after launch; exactly what it covers is listed in your written quote, and after that, upkeep continues from ${P.care} if you want it, or you take the code elsewhere.`,
         `Beyond bugs, apps need yearly upkeep: new OS versions, library upgrades, and store requirements such as newer target API levels on Google Play. Budget for this whichever route you choose; an app nobody updates slowly stops working.`,
       ],
     },
@@ -198,7 +198,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `If the accounts, code repository and cloud billing are already in your name, a replacement can pick up the work in days rather than months. If they are not, you may be starting again.`,
         `This is the hidden strength of a company: someone else can be assigned. It is also the hidden weakness of a solo freelancer: nobody can. But a company replacement still has to learn your code from scratch, and staff turnover in larger teams is common, so the protection is weaker than it looks.`,
-        `A small freelance team handles this differently. On our projects, all three of us have access to the repository and the task board, and code is reviewed by a second person before it merges, so at least two people understand every part of the app. If you want to see what recovery looks like when this goes wrong elsewhere, our guide on a <a href='/developer-left-project-midway/'>developer who left a project midway</a> explains the steps.`,
+        `A small freelance team handles this differently. On our projects, all three of us are given access to the repository and the task board, and a second person reads each change before it merges, so knowledge of the app is not locked in one head. If you want to see what recovery looks like when this goes wrong elsewhere, our guide on a <a href='/developer-left-project-midway/'>developer who left a project midway</a> explains the steps.`,
       ],
       list: [
         "Code in a Git repository you own, with commits pushed at least weekly",
@@ -231,7 +231,7 @@ const content: FreelanceContent = {
     },
     {
       id: "red-flags",
-      heading: "Red flags on both sides: company and freelancer",
+      heading: "App development company vs freelancer red flags to watch for",
       paragraphs: [
         `Some warning signs belong to companies, some to freelancers, and a few to both. Spotting them early saves more money than any negotiation over price.`,
       ],
@@ -266,7 +266,7 @@ const content: FreelanceContent = {
       heading: "Store review, app store search and being found on Google",
       paragraphs: [
         `Getting an app approved and discovered is part of the build, not a separate afterthought. A vendor should plan for store review, the listing text and a web presence that search engines and AI assistants can read.`,
-        `Apple reviews each submission against its App Review Guidelines, and Google checks apps against Play policies, including the data safety form and privacy policy link. Rejections usually come from missing account deletion options, unclear permissions or incomplete metadata. Someone who has submitted recently will build these in from the start. If your app has already been refused, our note on <a href='/app-rejected-by-google-play/'>apps rejected by Google Play</a> walks through the common fixes.`,
+        `Apple reviews each submission against its App Review Guidelines, and Google checks apps against Play policies, including the data safety form and privacy policy link. Common reasons for rejection include a missing in-app account deletion option, unclear permission requests and incomplete metadata. Someone who has submitted recently will build these in from the start. If your app has already been refused, our note on <a href='/app-rejected-by-google-play/'>apps rejected by Google Play</a> walks through the common fixes.`,
         `Discovery is the next hurdle. App store search rewards a clear title, a well-written description and steady ratings. Outside the stores, most people still find a new app through Google or an AI answer that cites a web page, so a small, fast landing site with structured data, both store badges and an FAQ is worth having. We build these from ${P.site}. Nobody can guarantee rankings in either the stores or Google, and a vendor who promises them is guessing.`,
       ],
     },
@@ -281,7 +281,7 @@ const content: FreelanceContent = {
     },
     {
       id: "example",
-      heading: "A worked example: a physiotherapy chain choosing between a company and a freelancer",
+      heading: "A worked example: a physiotherapy chain weighing app development company vs freelancer",
       paragraphs: [
         `This scenario is hypothetical and exists only to show how the decision plays out; it is not a client story.`,
         `Say a physiotherapy clinic with three branches in Nagpur wants patients to book sessions, see exercise videos and pay online. It gets three quotes. The company's quote is the highest, includes a backend and admin panel, and publishes from the company's own Apple account for the first year. A solo freelancer's quote is the lowest, covers the screens and a Firebase login, but says nothing about the admin panel or fixes after launch. A small team's quote falls in between and lists app, backend, admin, store submission and months of fixes as separate lines.`,
@@ -378,7 +378,7 @@ const content: FreelanceContent = {
       ["Open accounts in your name", "Together we set up Play Console, Apple Developer, cloud hosting and the Git repository under your details, and you add us as users."],
       ["Test builds every week", "You install test builds on your own phone, try each feature and send comments. Backend progress is shown in the admin panel as it grows."],
       ["Closed testing and submission", "We run the Play closed test, prepare store listings and privacy details, submit to both stores and answer reviewer questions."],
-      ["Launch, handover and five free months", "You receive code, keys, credentials and an architecture note. Fixes and small changes are free for five months after launch."],
+      ["Launch, handover and five free months", "You receive code, keys, credentials and an architecture note. Maintenance is free for five months after launch, with the cover spelled out in your quote."],
     ],
   },
   faqHeading: "App development company vs freelancer: common questions",
@@ -388,7 +388,7 @@ const content: FreelanceContent = {
     { question: "Who should own the Google Play and App Store developer accounts?", answer: "You should. Google Play charges a one-time US$25 registration fee and Apple's Developer Program costs US$99 a year, so owning them is affordable. Register in your own or your business's legal name and add the developer as a user. Apps published from a vendor's account are hard to move later, and the reviews and users stay with that listing." },
     { question: "How much does an MVP app cost with a freelancer versus a company?", answer: `Quotes vary widely, and the gap usually reflects scope rather than skill: backend, admin panel, testing, store submission and post-launch support. Company quotes include overhead and management, while freelance quotes may cover screens only. With BtechWaleTech, an Android and iOS app starts at ${P.app} and a custom backend or admin portal from ${P.software}, itemised line by line.` },
     { question: "Who is responsible for the app's backend and server?", answer: "Whoever the written scope names, so make sure it names someone. The backend covers the database, API, admin panel, hosting, backups and monitoring. It should run on a cloud account billed to you, with documentation a new developer can follow. Quotes that leave the backend vague are the most common reason app projects go over budget." },
-    { question: "Who fixes bugs after the app is launched?", answer: `Agree this before the build starts. Companies usually offer a short warranty and then a paid support contract; freelancers vary. BtechWaleTech includes five months of free maintenance after launch, covering bug fixes, small changes and updates, and then offers upkeep from ${P.care}. You can also move the code to another developer at any time.` },
+    { question: "Who fixes bugs after the app is launched?", answer: `Agree this before the build starts. Companies usually offer a short warranty and then a paid support contract; freelancers vary. BtechWaleTech includes five months of free maintenance after launch, with the cover written into your quote, and then offers upkeep from ${P.care}. You can also move the code to another developer at any time.` },
     { question: "What happens if my freelance app developer disappears?", answer: "If the store accounts, repository and cloud hosting are in your name, a new developer can continue with the existing code and publish updates to the same listing. If they are not, recovery can be slow or impossible. That is why ownership should be settled on day one. Our guide on developers who leave a project midway explains the recovery steps in order." },
     { question: "Do I legally own the app code if I paid for it?", answer: "Not automatically. Under India's Copyright Act, 1957, the author is usually the first owner unless the work is made by an employee under a contract of service. Outside developers are not employees, so you need a written assignment covering the app and backend, worldwide and for the full term. Ask your own lawyer to check the final wording before signing." },
     { question: "How long does it take to build an app with a freelancer or a company?", answer: "A focused business app or MVP usually takes 6–10 weeks with a small team, plus store review. New personal Google Play accounts also need a closed test with at least 12 testers for 14 days before production access. Larger companies can run teams in parallel for bigger apps, but for a small scope more people rarely makes it much faster." },
@@ -398,7 +398,7 @@ const content: FreelanceContent = {
     { question: "Should I choose Flutter or React Native, and does it matter who builds it?", answer: "Both build Android and iOS apps from one codebase and have large developer communities in India, so either keeps you free to change developers later. Flutter is a common default for business apps; React Native suits teams already using React on the web. Avoid proprietary builders that do not let you export and host the code yourself." },
     { question: "Is a small freelance team the same as an app development company?", answer: "No. A small freelance team is a few independent developers working together directly with you, without sales staff or management layers. You talk to the people writing the code. Compared with a solo freelancer, it adds cover when someone is away and code review by a second person. Compared with a company, it cannot staff very large programmes." },
     { question: "Can I hire a freelancer to fix an app built by a company?", answer: "Usually yes, provided you can get the source code, store access and backend credentials. The first step is an audit of the code and infrastructure to see what is reusable. Sometimes continuing is cheaper; sometimes a partial rebuild is safer. A new developer should give you that assessment in writing before quoting for new features." },
-    { question: "Do I need an NDA before sharing my app idea?", answer: "An NDA is sensible when you share unreleased features, customer data or business numbers. It does not replace the IP assignment clause, which matters more for ownership of the finished app. BtechWaleTech is willing to sign a reasonable NDA; the exact terms are agreed in your written quote, and our general terms are on the terms page of this site." },
+    { question: "Do I need an NDA before sharing my app idea?", answer: "An NDA is sensible when you share unreleased features, customer data or business numbers. It does not replace the IP assignment clause, which matters more for ownership of the finished app. If you want one, ask us before you share details; any NDA and its terms are agreed in your written quote, and our general terms are on the terms page of this site." },
     { question: "App development company ya freelancer, kaun better hai?", answer: `Chhota app ya MVP ho toh chhoti freelance team aksar sahi rehti hai, bade project ke liye company. Sabse zaroori baat: Play Console, App Store account, code aur server aapke naam par hone chahiye. BtechWaleTech ke saath Android aur iOS app ${P.app} se shuru hota hai, 6–10 hafte lagte hain, aur launch ke baad 5 mahine ke fixes free hain.` },
     { question: "Should my startup hire an in-house app developer instead?", answer: "An in-house developer makes sense once the app is proven and needs weekly work for years. Before that, salary, hiring time and the risk of one employee leaving usually outweigh the benefits. Many startups build the MVP with an outside team, then hire internally once the product and budget are stable, keeping the outside team for overflow." },
     { question: "Will an app development company or freelancer help with app store optimisation?", answer: "Some will write store listings, keywords and screenshots; many stop at submission. Ask for it as a named line in the scope. Good listings help discovery, but no one can guarantee a store ranking. Most new users still arrive via Google or AI answers, so a fast landing page with both store badges and an FAQ is worth building alongside the app." },

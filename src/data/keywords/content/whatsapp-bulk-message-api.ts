@@ -67,7 +67,7 @@ const content: FreelanceContent = {
   services: {
     eyebrow: "What the setup includes",
     heading: "Parts of a WhatsApp bulk message API setup",
-    note: "Some clients only need a clean sender for a Google Sheet; others want a full campaign panel. Pick the pieces that match how often and how widely you message.",
+    note: "Some businesses only need a clean sender for a Google Sheet; others want a full campaign panel. Pick the pieces that match how often and how widely you message.",
     cards: [
       { name: "Number and business verification", note: "Your number on the WhatsApp Business Platform, linked to your business portfolio, with display name and business verification submitted so limits can grow.", href: "/whatsapp-business-api-kaise-le/", size: "lg" },
       { name: "Opt-in capture", note: "Website forms, checkout checkboxes, QR codes at the counter and click-to-chat links that record who agreed, when and where, in your own database.", size: "lg" },
@@ -200,7 +200,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Choose a ready-made provider panel if you want a subscription tool and are happy with its features; choose a direct Cloud API setup built for you if you want control over data, costs and integrations, and no per-seat subscription.`,
         `Provider panels are quick to start and include a campaign screen, but you rent them, data sits on their servers, and extra fees may be added to Meta's charges. A custom WhatsApp bulk message API setup on the Cloud API puts the number, templates, contact data and reports in your accounts. The trade-off is that someone has to maintain it; that is what the five months of free maintenance and optional care cover.`,
-        `A middle path works well for many small businesses: a lightweight sender driven by a Google Sheet, plus reports, without a full panel. When several staff need to run campaigns with approval steps, a panel with roles is worth building. If you are still at the stage of getting access at all, start with <a href='/whatsapp-business-api-kaise-le/'>WhatsApp Business API kaise le</a>.`,
+        `A middle path suits a lot of small businesses: a lightweight sender driven by a Google Sheet, plus reports, without a full panel. When several staff need to run campaigns with approval steps, a panel with roles is worth building. If you are still at the stage of getting access at all, start with <a href='/whatsapp-business-api-kaise-le/'>WhatsApp Business API kaise le</a>.`,
       ],
     },
     {
@@ -245,7 +245,7 @@ const content: FreelanceContent = {
       list: [
         "Business portfolio and WhatsApp Business account in your company's name.",
         "Business verification submitted, with documents matching your registered details.",
-        "A phone number not currently used on the WhatsApp app, or migrated properly.",
+        "A decision on the number: a fresh one, or your WhatsApp Business app number onboarded through Meta's coexistence flow.",
         "Opt-in records for every contact on the list, with source and date.",
         "Approved templates in the right categories, with an opt-out button on marketing ones.",
         "Contact file validated: country codes, duplicates and opted-out numbers removed.",
@@ -268,7 +268,7 @@ const content: FreelanceContent = {
       heading: "WhatsApp bulk message API for businesses across India",
       paragraphs: [
         `WhatsApp is where Indian customers and retailers already are, so the demand is nationwide: wholesalers messaging dealers, coaching centres sending batch updates, clinics sending reminders, stores announcing sales.`,
-        `We set up senders remotely for businesses in trading and retail hubs such as <a href='/meerut/'>Meerut</a>, <a href='/agra/'>Agra</a>, <a href='/jodhpur/'>Jodhpur</a>, <a href='/madurai/'>Madurai</a>, <a href='/salem/'>Salem</a>, <a href='/thrissur/'>Thrissur</a>, <a href='/amritsar/'>Amritsar</a> and <a href='/jalandhar/'>Jalandhar</a>, and for education and service businesses in <a href='/gwalior/'>Gwalior</a> and <a href='/ranchi/'>Ranchi</a>. Everything happens over WhatsApp, calls and screen sharing, with no office visit.`,
+        `We can set up senders remotely for businesses in trading and retail hubs such as <a href='/meerut/'>Meerut</a>, <a href='/agra/'>Agra</a>, <a href='/jodhpur/'>Jodhpur</a>, <a href='/madurai/'>Madurai</a>, <a href='/salem/'>Salem</a>, <a href='/thrissur/'>Thrissur</a>, <a href='/amritsar/'>Amritsar</a> and <a href='/jalandhar/'>Jalandhar</a>, and for education and service businesses in <a href='/gwalior/'>Gwalior</a> and <a href='/ranchi/'>Ranchi</a>. Everything happens over WhatsApp, calls and screen sharing, with no office visit.`,
         `Templates can be written in English, Hindi or Hinglish by us; for Tamil, Malayalam, Punjabi or other languages you supply or approve the wording, and we set up separate language versions so each customer gets the right one.`,
       ],
     },
@@ -322,7 +322,7 @@ const content: FreelanceContent = {
   areas: {
     eyebrow: "Across India",
     heading: "Who uses bulk WhatsApp messaging, city by city",
-    note: "We set up official senders remotely for businesses in these cities and many more. Each card links to our page for that city.",
+    note: "We can set up official senders remotely for businesses in these cities and many more. Each card links to our page for that city.",
     cards: [
       { name: "Sports goods and trading in Meerut", href: "/meerut/", note: "Sports goods makers and wholesalers message dealers across India about new stock and price lists, where opted-in dealer lists and catalogue templates work well." },
       { name: "Footwear and tourism businesses in Agra", href: "/agra/", note: "Footwear manufacturers updating retailers and hotels messaging past guests both need permission-based lists and a sensible sending pace." },
@@ -367,7 +367,7 @@ const content: FreelanceContent = {
     { question: "What is WhatsApp quality rating?", answer: "Quality rating reflects how recipients react to your messages. Meta's template documentation describes high (green), medium (yellow) and low (red) ratings, influenced by negative feedback such as blocks and reports and by low read rates. Low quality can lead to template pausing and can hold back limit increases, so our setup pauses campaigns automatically when ratings drop." },
     { question: "Can I see who received and read my bulk messages?", answer: "Yes. The Cloud API sends status updates to your webhook as each message is sent, delivered, read or fails. We store these per message and report them by campaign and template, along with replies, button taps and opt-outs. Read receipts depend on recipients' privacy settings, so read counts should be treated as a minimum rather than an exact figure." },
     { question: "Why not use bulk WhatsApp sender software?", answer: "Unofficial sender software automates an ordinary WhatsApp account, which is against WhatsApp's terms and commonly ends with the number banned, taking your customer conversations with it. It also gives you no reliable delivery data and no approved templates with buttons. The official API costs per message but protects the number and gives you real reporting." },
-    { question: "Can I use my existing WhatsApp number for the API?", answer: "Often yes, but a number registered on the platform cannot be used in the normal WhatsApp or WhatsApp Business app at the same time in the usual way, and moving it needs care so chat history expectations are clear. Some businesses keep their app number for personal chats and use a new number for the API. We explain the options before registering anything." },
+    { question: "Can I use my existing WhatsApp number for the API?", answer: "Often yes. Meta's coexistence onboarding lets a WhatsApp Business app number also run on the Cloud API, with limits: Meta's documentation says throughput is fixed at 20 messages per second and broadcast lists in the app are switched off. A number on the personal WhatsApp app must move to the Business app first, or you can use a fresh number for the API. We explain the options before registering anything." },
     { question: "How long does it take to start sending bulk messages via the API?", answer: "About 2 to 4 weeks for a Sheet or CSV sender with reports. Most of the time goes into account setup, business verification and template approval rather than code. The first campaign goes to a small engaged segment, and volume then grows in line with your messaging limit. A multi-user campaign panel takes 6 to 12 weeks." },
     { question: "Do I need a Business Solution Provider?", answer: "Not necessarily. The Cloud API can be set up directly in your own Meta business accounts, and you then pay Meta's charges directly. Some businesses prefer a provider's ready-made panel and support, often with extra fees. We build direct Cloud API setups so the number, data and code stay yours, and explain the trade-offs honestly." },
     { question: "Can replies to bulk messages be handled automatically?", answer: "Yes. Replies can go to a shared team inbox where staff answer from one screen, or to a chatbot that handles common questions such as price, availability or order status and passes the rest to people. Replies from customers open a customer service window, during which your non-template responses are free under Meta's pricing." },

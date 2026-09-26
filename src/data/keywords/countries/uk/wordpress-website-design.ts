@@ -164,7 +164,7 @@ const content: FreelanceContent = {
       heading: "Setting up WordPress privacy and cookies the way the ICO expects",
       paragraphs: [
         `Non-essential cookies need consent first, and the <a href='https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/guide-to-pecr/cookies-and-similar-technologies/' rel='noopener'>ICO’s cookie guidance</a> says that consent must be actively and clearly given. On WordPress that means the consent tool must actually block scripts until the visitor clicks Accept, not merely display a notice.`,
-        `We audit every script the site loads, including those added by plugins you may not have noticed, and group them into strictly necessary, statistics and marketing. The Data (Use and Access) Act 2025 created a narrower exception for aggregate statistics used to improve your own service, as long as people get a simple, free way to object; if you and your adviser decide to rely on it, we configure analytics to fit. Marketing pixels always wait for consent.`,
+        `We audit every script the site loads, including those added by plugins you may not have noticed, and group them into strictly necessary, statistics and marketing. The Data (Use and Access) Act 2025 created a narrower exception for aggregate statistics used to improve your own service, used only in aggregate and with a simple means of objecting, according to the ICO’s updated guidance; if you and your adviser decide to rely on it, we configure analytics to fit. Marketing pixels always wait for consent.`,
         `The privacy notice is drafted from what the site really does: forms, newsletter, analytics, embedded maps, booking tools. You check it and, ideally, your own adviser signs it off; we build to the guidance, we do not give legal advice. Forms collect the minimum, and stored submissions can be exported or deleted on request.`,
       ],
     },
@@ -172,7 +172,7 @@ const content: FreelanceContent = {
       id: "ownership",
       heading: "Who should own the WordPress admin login, the .co.uk domain and the hosting?",
       paragraphs: [
-        `You should, every one of them, from the first day. The most common problem UK businesses bring us is a site whose domain, hosting or admin account sits with a previous designer who has stopped replying.`,
+        `You should, every one of them, from the first day. The situation to avoid is a site whose domain, hosting or admin account sits with a previous designer who has stopped replying.`,
         `For .uk and .co.uk names, Nominet runs the registry and your domain is managed through a registrar. The registrant named on the domain should be your business, and the registrar account should be one you can log into. For hosting, the account and billing should be yours; we are added as a user. In WordPress, you hold a full administrator account; we use a separate named account that you can delete at any time.`,
         `Paid plugin and theme licences should be bought with your email, so renewals and downloads stay with you. At handover you receive a document listing every account, where it lives and how to recover it. If a past supplier holds any of these today, ask them for the transfer now.`,
       ],
@@ -210,7 +210,7 @@ const content: FreelanceContent = {
       id: "security",
       heading: "Keeping a UK WordPress site secure after launch",
       paragraphs: [
-        `Most WordPress compromises come from outdated plugins, weak passwords and abandoned admin accounts, so security is mostly routine: update, restrict, back up, and watch.`,
+        `Outdated plugins, weak passwords and forgotten admin accounts are the weak points to close, so security is mostly routine: update, restrict, back up, and watch.`,
         `We turn on two-factor authentication for administrators, give each person their own account with the lowest role that works, remove unused plugins and themes, disable file editing from the dashboard, and keep off-site daily backups with a restore tested before launch. Minor WordPress core releases can update automatically; plugin updates are tested on staging first because a broken plugin can take a form or checkout down.`,
         `Logging matters for UK businesses too. The ICO says that where a personal data breach is likely to pose a risk, you must notify it as soon as possible and, where feasible, within 72 hours. Access logs and backups are what let you work out what happened in that window. Our <a href='/uk/wordpress-maintenance-services/'>WordPress care plans for UK sites</a> cover this routine every month.`,
       ],
@@ -246,7 +246,7 @@ const content: FreelanceContent = {
       id: "red-flags",
       heading: "Red flags in a WordPress website design proposal",
       paragraphs: [
-        `Watch for anything that leaves you dependent on one person or hides the stack. Most WordPress horror stories start with one of these lines being accepted without a question.`,
+        `Watch for anything that leaves you dependent on one person or hides the stack. Each of these lines deserves a question before you sign.`,
       ],
       list: [
         "“We host it for you” with no option to hold the hosting yourself",
@@ -324,7 +324,7 @@ const content: FreelanceContent = {
   areas: {
     eyebrow: "UK clients, served remotely",
     heading: "WordPress sites for organisations across the UK",
-    note: "We work online from India with no UK office. These are typical WordPress needs we hear from different parts of the country.",
+    note: "We work online from India with no UK office. These are the kinds of WordPress needs organisations in different parts of the country tend to have.",
     cards: [
       { name: "Reading", note: "Technology and professional-services firms in the Thames Valley that publish news, careers and case pages often and want staff to edit without breaking the design." },
       { name: "Southampton", note: "Marine, logistics and education-linked businesses with plenty of pages to maintain, where a lean theme and a clear plugin list keep updates safe." },
@@ -363,11 +363,11 @@ const content: FreelanceContent = {
     { question: "Can I update the WordPress site myself?", answer: "Yes, that is usually the reason to choose WordPress. We build page patterns for each layout so you can add services, team members or news posts by filling in text and images. The design stays consistent because spacing and colours are locked. A short handover call and written notes cover the common tasks." },
     { question: "Where should a UK WordPress site be hosted?", answer: "Close to your visitors, which for a British audience usually means UK or nearby European hosting, ideally with a content delivery network. Speed is what Google measures for users. Keeping personal data in the UK or EEA can also make your privacy paperwork simpler. The account should be in your name, paid by you." },
     { question: "Does a WordPress site need a cookie banner in the UK?", answer: "If it sets non-essential cookies, such as advertising pixels, yes: consent must come first and be actively given, per the ICO. The banner must actually block scripts until the visitor agrees. If the site uses no such cookies, a banner may not be needed. We audit the scripts on your site before deciding." },
-    { question: "Is WordPress secure enough for a business?", answer: "Yes, when maintained. Most breaches come from outdated plugins, weak passwords and forgotten accounts. We use two-factor authentication, individual user accounts, a minimal plugin list, staged updates and off-site daily backups with tested restores. The weak point is usually neglect after launch, which is why the update plan matters." },
+    { question: "Is WordPress secure enough for a business?", answer: "Yes, when maintained. The usual weak points are outdated plugins, weak passwords and forgotten accounts. We use two-factor authentication, individual user accounts, a minimal plugin list, staged updates and off-site daily backups with tested restores. The weak point is usually neglect after launch, which is why the update plan matters." },
     { question: "Can you rebuild my Divi or Elementor site as a block theme?", answer: "Yes. We keep the same content and page addresses where possible, rebuild layouts as native patterns, remove the builder and plugins it needed, and redirect any addresses that change. The result is usually lighter and easier to edit. We check Search Console after launch for any errors." },
     { question: "Do you use premium WordPress themes?", answer: "Rarely for new builds, because a custom block theme gives more control with less code. When a client already owns a premium theme and it is well built, we can work with it. Any paid theme or plugin licence is bought in your name, so updates never depend on our account." },
     { question: "How many plugins should a WordPress site have?", answer: "As few as possible for the job. A typical business site needs forms, SEO, caching, backups and consent handling, and sometimes one or two more for bookings or events. There is no magic number, but every plugin should have a stated purpose and an active developer behind it." },
-    { question: "What does a WordPress care plan include?", answer: `Ours includes core, theme and plugin updates tested on staging, daily off-site backups, uptime and security checks, speed checks and small content edits, from ${P.care} a month after the five free months. Larger changes are quoted separately. Any ongoing plan is agreed in writing and does not renew by default.` },
+    { question: "What does a WordPress care plan include?", answer: `Ours includes core, theme and plugin updates tested on staging, daily off-site backups, uptime and security checks, speed checks and small content edits, from ${P.care} after the five free months. Larger changes are quoted separately. Any ongoing plan is agreed in writing and does not renew by default.` },
     { question: "Can a remote WordPress developer in India work with my UK team?", answer: "Yes. India is 4.5 to 5.5 hours ahead, so your morning overlaps our afternoon and evening. We use WhatsApp for day-to-day messages and video calls for kick-off and review. The limits are real: no office visits and no in-person workshops. Everything else runs online, with a staging site you can check any time." },
     { question: "Will my WordPress site rank on Google?", answer: "It will be technically ready: fast pages, clean URLs, sitemaps, structured data and one clear page per service. Rankings then depend on competition, content quality, links and reviews. Nobody can honestly promise a position. We are glad to explain what realistic progress looks like for your market." },
     { question: "How do I transfer my .co.uk domain away from my old designer?", answer: "Nominet runs the .uk registry, and domains are managed through registrars. Ask your old designer, or their registrar, to move the domain into a registrar account in your name, or to change the registrant details to your business. We can walk you through the steps, but the request must come from you as the owner." },

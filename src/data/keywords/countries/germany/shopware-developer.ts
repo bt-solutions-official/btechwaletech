@@ -18,7 +18,7 @@ const content: FreelanceContent = {
       "shopware developer for hire", "remote shopware developer", "shopware plugin developer", "shopware theme developer", "shopware agency alternative",
       "how much does a shopware developer cost", "shopware developer hourly rate", "shopware 6 shop cost", "shopware community edition developer",
       "shopware rise evolve beyond", "shopware developer india", "shopware developer berlin", "shopware developer hamburg", "shopware developer munich",
-      "shopware developer cologne", "shopware button solution zahlungspflichtig bestellen", "shopware withdrawal button", "shopware paypal klarna setup",
+      "shopware developer cologne", "shopware button solution zahlungspflichtig bestellen", "shopware withdrawal button", "shopware paypal setup",
       "shopware maintenance retainer", "offshore shopware development", "who can build my shopware shop",
     ],
   },
@@ -26,7 +26,7 @@ const content: FreelanceContent = {
     eyebrow: "Shopware 6 · for merchants in Germany",
     h1: "Hire a Shopware developer team in India for your Shopware 6 shop in Germany",
     lede: `If you want to hire a Shopware developer without paying German agency day rates, a remote team can build, extend and run your Shopware 6 shop from India. BtechWaleTech is three freelance developers who set up Community Edition or paid-plan shops, write Symfony plugins and Twig themes, and wire in the German checkout rules. Online stores start at ${P.shop}. Below: edition choice, legal checkout details, payment and shipping setup, and how a <a href='/germany/'>German project</a> runs across time zones.`,
-    pills: ["Shopware 6 builds", "Symfony plugins", "Twig storefront themes", "Button solution and withdrawal function", "PayPal and Klarna setup", "DHL and Sendcloud", "Retainer after launch"],
+    pills: ["Shopware 6 builds", "Symfony plugins", "Twig storefront themes", "Button solution and withdrawal function", "PayPal and invoice payment setup", "DHL and Sendcloud", "Retainer after launch"],
     origin: "Three freelance developers in India · English calls in German business hours · replies on WhatsApp 7 days a week",
   },
   facts: [
@@ -55,7 +55,7 @@ const content: FreelanceContent = {
       { label: "Editions handled", value: "Community Edition, Rise, Evolve, Beyond" },
       { label: "New shop", value: `From ${P.shop}, 4–8 weeks` },
       { label: "German checkout rules", value: "Order button wording, withdrawal function, legal pages" },
-      { label: "Payments and shipping", value: "PayPal, Klarna, Mollie, DHL, Sendcloud configured" },
+      { label: "Payments and shipping", value: "PayPal, invoice or pay-later providers, DHL, Sendcloud configured" },
       { label: "Working hours overlap", value: "German morning to mid-afternoon" },
       { label: "Ongoing care", value: `5 months free, then from ${P.care}` },
     ],
@@ -63,7 +63,7 @@ const content: FreelanceContent = {
   services: {
     eyebrow: "Shopware work we take on",
     heading: "What you can hand to a remote Shopware team",
-    note: "Shopware projects usually split into a build, a stack of extensions and a long tail of small changes. These are the pieces German merchants ask about most.",
+    note: "Shopware projects usually split into a build, a stack of extensions and a long tail of small changes. These are the pieces a German merchant typically needs.",
     cards: [
       { name: "New Shopware 6 shop", note: `Installation, catalogue import, categories, shipping rules, taxes, legal pages and a tuned storefront theme, from ${P.shop}.`, href: "/services/web-development/", size: "lg" },
       { name: "Custom plugins and apps", note: "Symfony bundles or Shopware apps for pricing rules, ERP sync, configurators or custom checkout steps, written to survive core updates.", size: "lg" },
@@ -104,7 +104,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Because the platform is German but the code is not. Shopware 6 runs on PHP and Symfony with a Vue.js administration and a Twig storefront, and anyone fluent in that stack can build for it, wherever they sit.`,
         `The case for a remote team is mostly about budget and availability. Established Shopware agencies in Germany carry office, sales and account-management costs, and many book out months ahead for relaunches. A small team in India has lower overheads and can often start within days of an approved quote. You trade some things for that: calls happen in English, nobody drives to your warehouse, and German product copy stays your job or your copywriter’s.`,
-        `Merchants who hire a Shopware developer from us usually fall into three groups: new D2C brands launching a first shop, established retailers whose agency has become too expensive for small changes, and B2B wholesalers who need a few custom plugins rather than a full agency relaunch.`,
+        `Merchants who look for a remote Shopware developer tend to fall into three groups: new D2C brands launching a first shop, established retailers whose agency has become too expensive for small changes, and B2B wholesalers who need a few custom plugins rather than a full agency relaunch.`,
       ],
       list: [
         "Good fit: clear scope, a decision-maker who replies within a day, comfort with English calls",
@@ -117,9 +117,9 @@ const content: FreelanceContent = {
       id: "editions",
       heading: "Community Edition, Rise, Evolve or Beyond: which edition does your Shopware developer need?",
       paragraphs: [
-        `Start with Community Edition unless you already know you need B2B or enterprise features. According to Shopware’s own pricing page, the Community Edition is free and open source under the MIT licence, while Rise, Evolve and Beyond are paid plans priced individually by gross merchandise value and other factors.`,
+        `Start with Community Edition unless you already know you need B2B or enterprise features. According to Shopware’s own pricing page, the Community Edition is free and open source under the MIT licence, while Rise, Evolve and Beyond are commercial plans whose price, Shopware says, is based on your gross merchandise value (GMV) and further individual factors.`,
         `The paid plans stack features. Shopware lists Rise with unlimited sales channels, Shopware Intelligence and basic support; Evolve adds the B2B Components and advanced search; Beyond adds items such as multi-inventory, customer-specific pricing, subscriptions and digital sales rooms, with faster support. Plan licences are billed in euros by Shopware to you, not to us.`,
-        `When you hire a Shopware developer, ask them to map your must-have features against editions before any code is written. Plenty of merchants pay for Evolve when a single custom plugin on Community Edition would cover their one B2B need. Others try to rebuild the B2B Components by hand and spend more than the licence would have cost. We put that comparison in the quote as two options so you can choose with numbers in front of you.`,
+        `When you hire a Shopware developer, ask them to map your must-have features against editions before any code is written. It is easy to end up paying for Evolve when a single custom plugin on Community Edition would cover their one B2B need. The opposite mistake is rebuilding the B2B Components by hand and spend more than the licence would have cost. We put that comparison in the quote as two options so you can choose with numbers in front of you.`,
       ],
       after: [`For the platform decision one level up, see <a href='/germany/shopware-vs-shopify/'>Shopware vs Shopify</a>, which compares licences, B2B features and hosting.`],
     },
@@ -181,7 +181,7 @@ const content: FreelanceContent = {
     },
     {
       id: "payments-shipping",
-      heading: "PayPal, Klarna, Mollie and shipping: setting up what German shoppers expect",
+      heading: "PayPal, invoice payment and shipping: setting up what German shoppers expect",
       paragraphs: [
         `German shoppers expect a choice of payment methods, including PayPal and buy-now-pay-later or invoice options, so plan the payment mix before the theme. Your Shopware developer configures the providers you contract with; the merchant agreements are always in your name.`,
         `In practice we install the providers’ official Shopware extensions, connect your merchant credentials in the sandbox first, and run test orders through every method, including refunds, partial captures and cancellations. We then check how each status flows into the order state machine, because a payment that reports “paid” while the order stays “open” creates hours of manual work every week.`,
@@ -362,7 +362,7 @@ const content: FreelanceContent = {
   areas: {
     eyebrow: "Across Germany",
     heading: "Shopware merchants we can support remotely",
-    note: "No office in Germany and no site visits: everything runs over video calls, staging links and WhatsApp. These regions have the kinds of merchants who ask about Shopware.",
+    note: "No office in Germany and no site visits: everything runs over video calls, staging links and WhatsApp. Below are regions where Shopware is a common choice, and what merchants there tend to need.",
     cards: [
       { name: "Hamburg", note: "Trading houses, fashion labels and D2C brands around Germany’s biggest port often run multi-country storefronts and need shipping rules for EU destinations." },
       { name: "Münsterland", note: "Shopware’s home region in North Rhine-Westphalia, where many mid-sized retailers and wholesalers already run Shopware and need extra hands for plugins and updates." },
@@ -400,7 +400,7 @@ const content: FreelanceContent = {
     { question: "How long does it take to build a Shopware 6 shop?", answer: "A typical new Shopware 6 shop takes 4–8 weeks. Small catalogues on the default theme sit at the short end; shops with custom plugins, ERP synchronisation or large data migrations sit at the long end or beyond. The most common delay is waiting for product data, legal texts and payment provider approvals, so start those early." },
     { question: "What does “zahlungspflichtig bestellen” mean for my Shopware checkout?", answer: "Under § 312j (3) BGB, the button that places an order in a German online shop must be labelled legibly with only the words “zahlungspflichtig bestellen” or an equally unambiguous phrase. Shopware’s default checkout supports this, but custom themes sometimes change the label. We check the button text on staging after every theme change and before launch." },
     { question: "Do I need the new withdrawal button in my Shopware shop?", answer: "If you sell to consumers under German law, yes. Since 19 June 2026, § 356a BGB requires an online withdrawal function labelled “Vertrag widerrufen” or similar, available throughout the withdrawal period, with a confirmation step labelled “Widerruf bestätigen” and a prompt receipt. We add it as an extension and test it; your lawyer confirms the wording." },
-    { question: "Can you set up PayPal, Klarna and Mollie in Shopware?", answer: "Yes. We install the official Shopware extensions of the payment providers you choose, connect the merchant credentials you hold, and test payments, refunds and cancellations in sandbox mode before going live. The merchant contracts are always in your company’s name. We do not resell payment services or earn commission from any provider." },
+    { question: "Can you set up PayPal and pay-by-invoice in Shopware?", answer: "Yes. We install the official Shopware extensions of the payment providers you choose, connect the merchant credentials you hold, and test payments, refunds and cancellations in sandbox mode before going live. The merchant contracts are always in your company’s name. We do not resell payment services or earn commission from any provider." },
     { question: "Can you connect DHL or Sendcloud to Shopware?", answer: "Yes. Both provide Shopware integrations for shipping labels and tracking. We configure shipping methods and rules for weight, destination and bulky items, connect your own carrier or Sendcloud account, and test label printing and tracking emails on staging. Returns labels can be included if you offer them to customers." },
     { question: "Who owns the Shopware licence, extensions and code?", answer: "You do. The Shopware account, plan licence, Store extensions, hosting, domain and payment contracts are created in your company’s name, and custom plugins live in your Git repository from the first commit. At handover you get all logins, the code, deployment notes and a list of every licence with its renewal date." },
     { question: "Will you modify the Shopware core?", answer: "No. Changes go into plugins, apps and theme inheritance so that Shopware core updates keep applying cleanly. Editing core or vendor files is one of the main reasons shops become impossible to update. If you inherit a shop with core edits, we can audit it and move those changes into a proper plugin." },
@@ -412,7 +412,7 @@ const content: FreelanceContent = {
     { question: "Can Shopware handle B2B for wholesalers?", answer: "Yes. The B2B Components in Shopware’s Evolve plan cover quotes, roles and approvals. For simpler needs, customer groups, price rules and a small custom plugin on Community Edition often suffice. We look at how your buyers actually order, then suggest the cheaper route that covers it." },
     { question: "What does Shopware maintenance cover after launch?", answer: `For five months after launch, updates, fixes and small changes are free. After that, maintenance starts at ${P.care} and includes core and extension updates tested on staging, backup checks, error monitoring and a short monthly report. You can stop whenever you want, because all accounts and code are already yours.` },
     { question: "Can you host my Shopware shop in Germany?", answer: "We set it up, but the hosting contract is yours. Most merchants choose a German managed host with Shopware experience and a data processing agreement; larger shops sometimes use AWS Frankfurt. We configure staging and production, deployments from Git, caching, backups and a tested restore." },
-    { question: "Can I hire a Shopware developer just for small changes?", answer: "Yes. Many merchants send a list of small jobs: a new payment method, a shipping rule, a template tweak, an extension update. We estimate each item in the quote. For ongoing small work, the monthly maintenance plan usually works out simpler than separate quotes." },
+    { question: "Can I hire a Shopware developer just for small changes?", answer: "Yes. You can send a list of small jobs: a new payment method, a shipping rule, a template tweak, an extension update. We estimate each item in the quote. For ongoing small work, the monthly maintenance plan usually works out simpler than separate quotes." },
     { question: "What do you not do on Shopware projects?", answer: "We do not visit offices or warehouses, write native German marketing copy, give legal advice on your terms or withdrawal texts, act as a certified Shopware partner, or staff large programmes with many parallel teams. We say so upfront so you can plan the right mix of partners." },
   ],
   related: {

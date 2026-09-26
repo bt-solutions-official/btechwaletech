@@ -121,12 +121,12 @@ const content: FreelanceContent = {
       heading: "Catalogue website or online store: how to decide for furniture",
       paragraphs: [
         `Decide by looking at your last fifty orders. If most were customised, negotiated or finished after a showroom visit, a catalogue site that produces good enquiries will earn more than a checkout page nobody uses. If most were standard items at a set price, a store lets buyers pay at midnight without waiting for you.`,
-        `There is a middle route we recommend more often than either extreme. Put checkout on the pieces that are stocked, priced and shippable, such as side tables, chairs, shoe racks and bookshelves. Put a quote form on sofas in custom fabric, beds in custom sizes and full-room orders. One site, two paths, and each product page knows which path it shows.`,
+        `There is also a middle route, and for many furniture sellers it beats either extreme. Put checkout on the pieces that are stocked, priced and shippable, such as side tables, chairs, shoe racks and bookshelves. Put a quote form on sofas in custom fabric, beds in custom sizes and full-room orders. One site, two paths, and each product page knows which path it shows.`,
       ],
       subs: [
         { heading: "Choose a catalogue site when", text: "Pieces are made to order, prices depend on wood and size, you want buyers to visit the showroom, or you sell mainly to hotels, offices and interior designers." },
         { heading: "Choose a full store when", text: "You hold stock, each piece has one set price, items fit standard courier or your own delivery van, and you can handle returns and refunds in writing." },
-        { heading: "Choose a hybrid when", text: "Some of the range is standard and some is custom. This is the most common case for furniture website design in India." },
+        { heading: "Choose a hybrid when", text: "Some of the range is standard and some is custom. Furniture website design for a mixed range like this gives each product page its own path." },
       ],
       after: [`The <a href='/best-ecommerce-platform-in-india/'>ecommerce platform comparison</a> covers the software side of this decision if you already know you want checkout.`],
     },
@@ -161,7 +161,7 @@ const content: FreelanceContent = {
       heading: "Can a furniture website show pieces in the buyer’s room with AR?",
       paragraphs: [
         `Yes, if you have a 3D model of the piece. The common open-source route is Google’s model-viewer web component, which shows a rotatable 3D model on the product page and adds a “view in your space” button on phones that support it.`,
-        `According to Google’s documentation, Scene Viewer on Android opens glTF 2.0 or GLB files served over HTTPS and recommends keeping them under 10 MB. The model-viewer documentation notes that on iPhones the viewer hands off to Apple’s Quick Look, and it can generate the USDZ file Apple needs automatically if you do not supply one. So one well-made GLB file per piece is usually enough to start.`,
+        `According to Google’s documentation, Scene Viewer on Android opens glTF 2.0 or GLB files served over HTTPS and recommends keeping them under 10 MB. The model-viewer documentation notes that on iPhones the viewer hands off to Apple’s Quick Look, and in Safari it can generate the USDZ file Apple needs automatically if you do not supply one (Chrome on iPhone still needs a USDZ file you provide). So one well-made GLB file per piece is usually enough to start.`,
         `The honest limit is the model itself. A 3D file made by a furniture CAD tool is often far too heavy for a phone and needs simplifying, and a piece with no model at all needs one made by a 3D artist, which we do not do. We prepare, compress and embed models you supply, and we add AR only to pieces where it helps, typically sofas, beds and dining sets where size in the room is the real question.`,
       ],
     },
@@ -275,7 +275,7 @@ const content: FreelanceContent = {
       id: "red-flags",
       heading: "Mistakes that sink furniture websites",
       paragraphs: [
-        `Most furniture sites that fail do so for reasons visible before launch. These are the ones we see when owners ask us to rescue an old site.`,
+        `Most furniture sites that disappoint do so for reasons you can spot before launch. Hold your current or planned site against this list.`,
       ],
       list: [
         "Prices shown on custom pieces that the workshop cannot honour",
@@ -312,7 +312,7 @@ const content: FreelanceContent = {
       id: "decision-table",
       eyebrow: "Decision",
       heading: "Catalogue, store or hybrid: which fits your furniture business",
-      note: `Match your situation to a row. Most showrooms land on the hybrid. See <a href='/pricing/'>all starting prices</a>.`,
+      note: `Match your situation to a row. A range that mixes stocked and custom pieces points to the hybrid. See <a href='/pricing/'>all starting prices</a>.`,
       columns: ["Your situation", "Best fit", "Starting price", "Why"],
       rows: [
         ["Mostly made-to-order, buyers visit the showroom", "Catalogue site", `From ${P.site}`, "Enquiries matter more than checkout"],
@@ -351,7 +351,7 @@ const content: FreelanceContent = {
         ["Weeks 2–3", "Catalogue import, custom-size forms, filters", "Send photos and check dimensions", "Browsable catalogue"],
         ["Weeks 4–5", "Checkout, EMI and COD rules, pincode zones", "Set up your payment provider account", "Working test orders"],
         ["Week 6", "Speed, schema, Search Console, order alerts", "One round of consolidated changes", "Launch-ready store"],
-        ["Launch", "Domain, SSL, handover notes, logins", "Final payment", "Live store in your accounts"],
+        ["Launch", "Domain, SSL, handover notes, logins", "Approve the live store", "Live store in your accounts"],
         ["Next 5 months", "Fixes, new pieces, zone tweaks", "Message changes on WhatsApp", "Free maintenance"],
       ],
       hideSm: [3],
@@ -410,9 +410,9 @@ const content: FreelanceContent = {
     { question: "What legal information must a furniture online store show?", answer: "India’s consumer protection framework requires e-commerce sellers to display the country of origin, and buyers expect clear return, refund, warranty and delivery terms before paying. We place these where buyers see them, but the wording is yours and should be checked by your own legal adviser. See our terms page for how we work." },
     { question: "Can a furniture website handle bulk orders from hotels and offices?", answer: "Yes. A separate trade section can list quantity-friendly pieces, show spec sheets, collect company name and GSTIN, and send bulk enquiries to a sheet and your WhatsApp. Trade buyers rarely want a consumer cart, so a quote-based path usually works better for them than checkout." },
     { question: "Is a freelance team or an agency better for furniture website design?", answer: "A small freelance team suits most furniture businesses: the scope is clear, the budget is moderate and you want to speak directly to the people building the site. An agency suits very large retailers needing many specialists at once. BtechWaleTech is three freelance developers, which also means no single person is a bottleneck." },
-    { question: "How do I pay for furniture website design, and when?", answer: "You receive an itemised quote in about two working days and nothing is billed until you approve it in writing. Payments are staged against visible work. In India you pay by UPI or bank transfer; businesses abroad pay in USD by Wise, bank wire or PayPal. Specific terms are set in your written quote." },
+    { question: "How do I pay for furniture website design, and when?", answer: "You receive an itemised quote in about two working days and nothing is billed until you approve it in writing. Any payment stages are agreed in that written quote. In India you pay by UPI or bank transfer; businesses abroad pay in USD by Wise, bank wire or PayPal. Specific terms are set in your written quote." },
     { question: "Furniture ki website banwane mein kitna kharcha aata hai?", answer: `Catalogue website ${P.site} se shuru hoti hai aur 1–2 hafte mein ban jaati hai. Online store jisme UPI, card, EMI aur COD ho, ${P.shop} se shuru hota hai aur 4–8 hafte lagte hain. Custom size form, AR aur delivery zones se quote badhta hai. Quote itemised hota hai aur approval ke baad hi payment hota hai.` },
-    { question: "What happens after my furniture website goes live?", answer: `The first five months of maintenance are free: new pieces, price changes, delivery zone tweaks, fixes and updates. After that, maintenance continues from ${P.care} a month if you want it, or you can manage the site yourself or hand it to anyone else, because all accounts and code are already in your name.` },
+    { question: "What happens after my furniture website goes live?", answer: `The first five months of maintenance are free: new pieces, price changes, delivery zone tweaks, fixes and updates. After that, maintenance continues from ${P.care} if you want it, or you can manage the site yourself or hand it to anyone else, because all accounts and code are already in your name.` },
   ],
   related: {
     heading: "More on selling furniture and products online",

@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Our build price", value: `From ${P.site} (${P.siteUsd}); large content sites quoted separately` },
       { label: "Paid to Webflow by you", value: "Site plan and, if needed, a workspace plan and add-ons" },
       { label: "Handover", value: "Workspace transfer, style guide, editor training video" },
-      { label: "Time zone", value: "IST; overlap with Europe mornings and US evenings on request" },
+      { label: "Time zone", value: "IST; European business day from late morning, US Eastern mornings in IST evenings" },
       { label: "Not offered", value: "On-site workshops, brand strategy, native-language copywriting" },
     ],
   },
@@ -208,7 +208,7 @@ const content: FreelanceContent = {
       heading: "Where to hire a Webflow developer: directory, marketplaces or direct",
       paragraphs: [
         `You can hire through Webflow’s own partner directory, a freelance marketplace, a specialist agency or directly from a freelance team. Each route trades convenience against cost and control.`,
-        `Webflow’s hire page lists Certified Partners. According to Webflow, becoming certified requires at least three completed Webflow projects, a professional portfolio site and passing Webflow’s certification exams. That is a useful baseline signal, though certification alone does not tell you whether someone’s CMS modelling and class naming suit your team.`,
+        `Webflow’s own hiring directory lists Certified Partners, who have gone through Webflow’s certification process before being shown there. Treat that badge as a useful baseline signal, not a verdict: certification alone does not tell you whether someone’s CMS modelling, class naming and handover habits suit your team.`,
         `Marketplaces such as Upwork and Fiverr offer escrow and reviews, and Toptal adds its own screening; all add fees and make direct long-term relationships harder. Agencies add project management and design depth.`,
         `Hiring a small team directly, as with us, removes the middle layer: you message the developers building your site, and there is no marketplace commission. The trade-off is that you must do your own vetting, which the next section helps with. Our broader <a href='/hire-web-designer/'>web designer hiring guide</a> covers contracts and briefs for any platform.`,
       ],
@@ -277,9 +277,9 @@ const content: FreelanceContent = {
       id: "across-india",
       heading: "Hire a Webflow developer in India, remotely",
       paragraphs: [
-        `Most of our Webflow enquiries come from startups and design-led firms in India’s tech and business hubs, and all the work happens remotely over WhatsApp, video calls and Webflow’s shared workspace.`,
-        `Teams in <a href='/bengaluru/'>Bengaluru</a>, <a href='/hyderabad/'>Hyderabad</a>, <a href='/gurgaon/'>Gurgaon</a>, <a href='/noida/'>Noida</a>, <a href='/mumbai/'>Mumbai</a>, <a href='/chennai/'>Chennai</a>, <a href='/ahmedabad/'>Ahmedabad</a>, <a href='/kolkata/'>Kolkata</a> and <a href='/delhi/'>Delhi</a> tend to want the same things: a site marketers control, fast pages for ad traffic, and clean hand-off to an in-house designer later.`,
-        `For startups selling abroad, we plan a daily overlap window: our IST evening covers European mornings, and early IST mornings can meet US evenings on request. Quotes for international clients are in USD, paid by Wise, wire or PayPal; Indian clients pay by UPI or bank transfer.`,
+        `You can hire a Webflow developer from our team from any Indian city, because the whole job runs remotely over WhatsApp, video calls and Webflow’s shared workspace.`,
+        `Startups and design-led firms in <a href='/bengaluru/'>Bengaluru</a>, <a href='/hyderabad/'>Hyderabad</a>, <a href='/gurgaon/'>Gurgaon</a>, <a href='/noida/'>Noida</a>, <a href='/mumbai/'>Mumbai</a>, <a href='/chennai/'>Chennai</a>, <a href='/ahmedabad/'>Ahmedabad</a>, <a href='/kolkata/'>Kolkata</a> and <a href='/delhi/'>Delhi</a> tend to want the same things: a site marketers control, fast pages for ad traffic, and clean hand-off to an in-house designer later.`,
+        `For startups selling abroad, we plan a daily overlap window: our IST afternoon and evening cover the European business day from late morning, and IST evenings meet US Eastern mornings. Quotes for international clients are in USD, paid by Wise, wire or PayPal; Indian clients pay by UPI or bank transfer.`,
       ],
     },
     {
@@ -375,7 +375,7 @@ const content: FreelanceContent = {
   ],
   areas: {
     eyebrow: "Webflow projects across India",
-    heading: "Businesses that hire a Webflow developer from our team",
+    heading: "Cities where you can hire a Webflow developer from our team remotely",
     note: "All projects are remote. Each card describes who typically needs Webflow in that city.",
     cards: [
       { name: "SaaS marketing sites in Bengaluru", note: "Bengaluru’s SaaS and product startups want Webflow sites where growth marketers publish landing pages and changelogs daily without pulling engineers off the product.", href: "/bengaluru/" },
@@ -419,9 +419,9 @@ const content: FreelanceContent = {
     { question: "Can you build from my Figma design?", answer: "Yes, that is our preferred starting point. We map Figma frames to Webflow templates, components and a documented class system, then build responsive layouts for phone, tablet and desktop. Anything that will not translate well into editable content is flagged early. If you have no design, we can create a clean one from your brand and reference sites." },
     { question: "Should I move my WordPress site to Webflow?", answer: "Move if your team struggles with plugin updates and page builders, the site is mainly marketing content, and you want design control with simple editing. Stay on WordPress if you rely on complex plugins, run a large store, or need to host the code yourself. We will tell you honestly when a migration is not worth it." },
     { question: "Who owns the Webflow site after launch?", answer: "You do. The site should sit in your workspace, on your site plan, with your domain and billing. If we build in our workspace, transfer to yours is agreed in the quote and completed at launch. You also receive a style guide, collection documentation and training video so any future developer can pick it up." },
-    { question: "Can a remote Webflow developer in India work with my time zone?", answer: "Yes. We work in IST and plan a regular overlap window. Our evening overlaps European mornings, and early IST mornings can meet US evenings on request. Most communication is asynchronous on WhatsApp, with short video calls for reviews and training. International quotes are in USD, paid by Wise, bank wire or PayPal." },
+    { question: "Can a remote Webflow developer in India work with my time zone?", answer: "Yes. We work in IST and plan a regular overlap window. Our afternoons and evenings cover the European business day from late morning, and IST evenings line up with US Eastern mornings. Most communication is asynchronous on WhatsApp, with short video calls for reviews and training. International quotes are in USD, paid by Wise, bank wire or PayPal." },
     { question: "Can you connect Webflow forms to our CRM?", answer: "Yes. We route Webflow form submissions to your CRM, email or a shared sheet through native integrations, webhooks or automation tools, add spam protection, and record analytics events for each form. For Indian audiences we also add a tracked WhatsApp click-to-chat button, which often brings more enquiries than forms." },
-    { question: "Is Webflow good for ecommerce in India?", answer: `Webflow can sell a small range of products, but for most Indian stores needing UPI, cash on delivery, courier integrations and GST invoices, Shopify or WooCommerce fit better. We often pair a Webflow marketing site with a separate store platform, or build the store on its own from ${P.shop}.` },
+    { question: "Is Webflow good for ecommerce in India?", answer: `Webflow can sell a small range of products, but for most Indian stores needing UPI, cash on delivery, courier integrations and GST invoices, Shopify or WooCommerce fit better. A Webflow marketing site can sit alongside a separate store platform, or we can build the store on its own from ${P.shop}.` },
     { question: "What happens after the free support period?", answer: `For five months after launch we fix anything that does not work as agreed at no charge. After that, you can keep a care plan with us from ${P.care} for new sections, template changes, integrations and periodic checks, or manage edits yourselves with the training provided. There is no obligation to continue.` },
     { question: "Can you add multiple languages to a Webflow site?", answer: "Yes. Webflow offers native localisation for translating pages and CMS content into other languages; check its current plan terms for your needs. We set up the structure, language switcher and SEO tags. You supply or approve the translated copy, since we write in English and do not provide native-language copywriting." },
     { question: "How do I check a Webflow developer’s quality before hiring?", answer: "Ask for read-only links to two live projects. Check that classes follow a clear system, that CMS collections and fields are named in plain language, that collection templates bind SEO fields, and that pages hold together at phone width. Run the live site through PageSpeed Insights. For larger projects, a short paid test task is fair." },

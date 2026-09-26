@@ -16,7 +16,7 @@ const content: FreelanceContent = {
     title: `HRMS Software Development in India from ${P.software}`,
     description: `HRMS software development for Indian employers: leave engine, biometric sync, self-service app, approvals. Phased builds from ${P.software}. Know when to build.`,
     keywords: [
-      "hrms software development", "custom hrms software development", "hrms development company India", "build your own hrms",
+      "hrms software development", "custom hrms software development", "hrms developer India","build your own hrms",
       "custom hrms India", "hr software development", "hrms software development cost", "hrms development cost in India",
       "hrms vs subscription hr software", "when to build custom hrms", "leave management system development", "leave policy engine",
       "biometric integration hrms", "employee self service app development", "hr approval workflow software", "employee lifecycle software",
@@ -115,7 +115,7 @@ const content: FreelanceContent = {
       heading: "When should an Indian company build its own HRMS instead of subscribing?",
       paragraphs: [
         `Build your own HRMS when the subscription tool keeps forcing workarounds on your HR team, when your headcount makes per-employee fees a large yearly line, or when HR data must connect deeply to other systems you own. One signal alone is rarely enough; two or three together usually are.`,
-        `The most common trigger we hear is leave and shift rules. A manufacturer with rotating shifts, different weekly offs per plant, state-specific holidays and a union-negotiated leave policy often finds its HR executive rebuilding attendance in a spreadsheet every month despite paying for software. Another is structure: several legal entities, a franchise network, or a large field force with geo-tagged attendance.`,
+        `Leave and shift rules are the usual breaking point. A manufacturer with rotating shifts, different weekly offs per plant, state-specific holidays and a union-negotiated leave policy often finds its HR executive rebuilding attendance in a spreadsheet every month despite paying for software. Another is structure: several legal entities, a franchise network, or a large field force with geo-tagged attendance.`,
       ],
       list: [
         "HR maintains a parallel spreadsheet because the product cannot express your policy",
@@ -181,7 +181,7 @@ const content: FreelanceContent = {
       heading: "Shifts, rosters and overtime for factories and plants",
       paragraphs: [
         `Plants need shift logic that office HR tools often lack: rotating shifts that change weekly, night shifts that cross midnight, split shifts, staggered weekly offs by line, and overtime that depends on how hours fall across a day and a week.`,
-        `The HRMS keeps a roster per department or line, lets supervisors swap shifts with approval, and calculates attendance against the roster rather than a fixed office timing. A night shift punch at 6 am belongs to the previous day's shift, not the new day; getting that right removes a large share of attendance disputes on the shop floor.`,
+        `The HRMS keeps a roster per department or line, lets supervisors swap shifts with approval, and calculates attendance against the roster rather than a fixed office timing. A night shift punch at 6 am belongs to the previous day's shift, not the new day; getting that wrong is a classic source of “marked absent” complaints on the shop floor.`,
         `Overtime rules come from your policy and the applicable labour law. India's four labour codes were brought into effect from 21 November 2025, replacing 29 older central labour laws, and central and state rules under them have been rolling out since. Your HR and legal advisers decide how overtime and working hours apply to you; the HRMS calculates according to those rules and keeps them editable as rules settle. For contract workers who come through agencies, see <a href='/contract-labour-management-software/'>contract labour management software</a>.`,
       ],
     },
@@ -205,7 +205,7 @@ const content: FreelanceContent = {
     },
     {
       id: "payroll",
-      heading: "Payroll in a custom HRMS: build it, connect it, or keep it outsourced?",
+      heading: "Payroll in HRMS software development: build it, connect it, or keep it outsourced?",
       paragraphs: [
         `For most employers commissioning HRMS software development, the safest route is to connect the custom HRMS to an existing payroll provider or consultant, sending clean attendance, leave and overtime data each month, rather than rebuild statutory payroll from scratch.`,
         `Payroll in India involves PF and ESI contributions and returns, professional tax that varies by state, TDS on salaries with employees' investment declarations, bonus, gratuity and labour welfare fund rules, and more changes are possible as rules under the new labour codes settle. Payroll providers maintain those calculations as their core job.`,
@@ -358,7 +358,7 @@ const content: FreelanceContent = {
     { question: "How long does it take to develop an HRMS?", answer: "Phase 1 usually takes 6–12 weeks including a parallel month where the new system runs alongside your current method. The self-service app adds 6–10 weeks and automation add-ons 2–4 weeks each. Delays usually come from unsettled policies or slow responses from biometric device vendors rather than from the coding itself." },
     { question: "Can a custom HRMS work with our existing biometric machines?", answer: "Usually, yes. We connect through the device vendor's cloud API, its SDK on your network, or the log files its software exports. Which route works depends on your models, so share them during scoping. We handle the software side only; buying, installing and servicing devices stays with you and your supplier." },
     { question: "What is a leave-policy engine?", answer: "It is the part of an HRMS that stores leave rules as settings rather than code: accrual, carry-forward, lapse, encashment, sandwich rules, half days, eligibility by grade or location, and holiday calendars per state. HR can change a rule next year without new development, and employees can see exactly how their balance was calculated." },
-    { question: "Can the HRMS handle rotating and night shifts?", answer: "Yes. Rosters are kept per department or line, supervisors can swap shifts with approval, and attendance is calculated against the roster. Night shifts that cross midnight are assigned to the correct day, and overtime follows the rules your HR and legal advisers set. That logic is often why manufacturers choose a custom build." },
+    { question: "Can the HRMS handle rotating and night shifts?", answer: "Yes. Rosters are kept per department or line, supervisors can swap shifts with approval, and attendance is calculated against the roster. Night shifts that cross midnight are assigned to the correct day, and overtime follows the rules your HR and legal advisers set. When a product cannot express your roster, that gap alone can justify a custom build." },
     { question: "Will the custom HRMS include payroll?", answer: "It can, but for many employers the safer route is feeding attendance, leave and overtime to an existing payroll provider or consultant. Statutory rules for PF, ESI, professional tax and TDS change, and providers maintain them full time. If your pay structure is unusual, we can build payroll to your chartered accountant's specification and run parallel payrolls first." },
     { question: "How do the new labour codes affect an HRMS?", answer: "India's four labour codes took effect from 21 November 2025, replacing 29 central labour laws, with central and state rules rolling out afterwards. An HRMS should keep working hours, overtime, leave and record-keeping rules configurable so they can be updated as rules settle. Your legal adviser interprets the codes; the system applies their decisions." },
     { question: "Do employees get a mobile app?", answer: "Yes, in phase 2. The self-service app, built in Flutter for Android and iPhone, shows attendance, leave balances, payslips and holidays, and lets employees apply for leave or regularise missing punches. It is light enough for entry-level phones, can run in Hindi or a regional language you approve, and is published under your own store accounts." },

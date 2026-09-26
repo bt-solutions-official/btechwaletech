@@ -47,7 +47,7 @@ const content: FreelanceContent = {
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
-    heading: "Should a business build a website or an app first?",
+    heading: "Website or app for business: which should most owners start with?",
     text: `Most Indian businesses should build a website first. New customers find you through Google, Maps and shared links, and all of those land on web pages, not apps. Build an app first only when the same customers will use it every week, such as ordering, bookings or tracking. With us a website starts at ${P.site} in 1–2 weeks; an Android and iOS app starts at ${P.app} in 6–10 weeks.`,
     more: `If a website already exists and you are weighing an app, read <a href='/get-an-app-made-for-business/'>getting an app made for your business</a>; if you are wondering whether you need a site at all, see <a href='/does-my-business-need-a-website/'>does my business need a website</a>.`,
   },
@@ -66,7 +66,7 @@ const content: FreelanceContent = {
   services: {
     eyebrow: "What we can build for each stage",
     heading: "From a first website to a full app, in the order that pays back",
-    note: "The right build depends on where your customers are in their relationship with you. These are the pieces we usually combine, and when each one earns its cost.",
+    note: "The right build depends on where your customers are in their relationship with you. Here is each piece and the point at which it earns its cost.",
     cards: [
       { name: "Business website first", note: `Pages that rank for what people search, a WhatsApp button and enquiry forms, from ${P.site}. The base layer for almost every business, and the thing an app later links back to.`, href: "/services/web-development/", size: "lg" },
       { name: "Android & iOS app when repeat use is real", note: `One Flutter or React Native codebase with login, push notifications and an admin panel, from ${P.app}, published in your own Play Console and App Store Connect accounts.`, href: "/it-services/android-ios-app/", size: "lg" },
@@ -80,7 +80,7 @@ const content: FreelanceContent = {
   },
   comparison: {
     heading: "Website first, app first, or the staged route we usually suggest",
-    note: "Three ways to spend the same first budget. The right column is what we recommend for most owners who come to us undecided.",
+    note: "Three ways to spend the same first budget. The right column is the order we suggest to owners who have not yet decided.",
     columns: ["Question", "Website first", "App first", "BtechWaleTech staged route"],
     rows: [
       ["How new customers reach you", "Google, Maps, links, ads", "Only if they already know your name", "Website catches search; app follows for regulars"],
@@ -155,7 +155,7 @@ const content: FreelanceContent = {
     },
     {
       id: "store-overhead",
-      heading: "What Play Store and App Store publishing involves for a business",
+      heading: "What does Play Store and App Store publishing involve for a business?",
       paragraphs: [
         `Publishing an app means owning two developer accounts, following two sets of store rules and passing review on every update. None of this exists for a website, and it is the part owners most often underestimate.`,
         `Google Play charges a one-time US$25 registration fee, and the Apple Developer Program costs US$99 a year. Both accounts should be in your business name, paid from your card. Google Play asks for a privacy policy, a data safety form and content rating answers. Apple asks for privacy labels and reviews each build before release.`,
@@ -187,7 +187,7 @@ const content: FreelanceContent = {
     },
     {
       id: "website-enough",
-      heading: "Businesses where a website is enough for years",
+      heading: "Which businesses only need a website for years?",
       paragraphs: [
         `For many Indian businesses the answer to website or app for business is simply “website”, and it stays that way. Adding an app would add cost without adding customers.`,
         `Professional services are the clearest case: doctors, dentists, lawyers, chartered accountants, architects and consultants. Clients visit rarely, decide based on trust and reviews, and prefer to call or message. A website with service pages, credentials, a Google Maps link and a WhatsApp button covers everything they need.`,
@@ -225,7 +225,7 @@ const content: FreelanceContent = {
         `Yes, partly. A progressive web app (PWA) is a website that can be added to the phone's home screen, open without the browser bar and cache pages for weak connections. It is a sensible middle step when you want app-like convenience without store accounts.`,
         `On Android, Chrome lets users install a PWA from the browser menu or a prompt, and web push notifications work once the user allows them. On iPhones, a PWA can be added to the home screen from Safari's share menu, and web push works for home-screen web apps on recent iOS versions, though fewer users know how to do it.`,
         `A PWA falls short when you need deep device access, background location, reliable Bluetooth, or a presence in the Play Store and App Store where some customers search. It also does not remove the need for SEO; it is still a website underneath.`,
-        `We often suggest the PWA route to businesses stuck on website or app for business decisions: build the website so it can be installed, watch how many customers actually install it, and use that number to decide on a native build. The detailed comparison sits on <a href='/pwa-vs-native-app/'>PWA vs native app</a>.`,
+        `For a business stuck on the website or app for business decision, the PWA route is a cheap tie-breaker: build the website so it can be installed, watch how many customers actually install it, and use that number to decide on a native build. The detailed comparison sits on <a href='/pwa-vs-native-app/'>PWA vs native app</a>.`,
       ],
     },
     {
@@ -437,7 +437,7 @@ const content: FreelanceContent = {
     { question: "Can an app take UPI payments like a website?", answer: "Yes. UPI and card checkout work in both websites and apps through payment gateways, and apps can open UPI apps on the phone directly. Payments are not a reason to choose an app over a website. Pick the platform based on how often customers return, then add the same payment methods to whichever you build." },
     { question: "Business ke liye pehle website banaye ya app?", answer: `Zyada tar businesses ke liye pehle website banana sahi hai, kyunki naye customer Google, Maps aur WhatsApp links se aate hain. App tab banaiye jab regular customer har hafte order ya booking karte hon. Hamare saath website ${P.site} se shuru hoti hai aur app ${P.app} se. Pehle itemised quote milta hai, phir aap decide karte hain.` },
     { question: "What happens if I build an app and nobody uses it?", answer: "You still pay for store memberships and upkeep, and an app that is not updated can eventually stop being offered to new users as store rules tighten. That is why we recommend proving repeat demand through the website first. If an app already exists and is unused, its back end can often be reused for a web portal instead." },
-    { question: "Does BtechWaleTech recommend apps to every client?", answer: "No. We build both websites and apps, so we gain nothing by pushing one. Most businesses that ask us about apps are advised to start with a website, and we say so in the quote. We recommend an app first when the service depends on frequent use or phone features, and we explain why in writing." },
+    { question: "Does BtechWaleTech recommend apps to every client?", answer: "No. We build both websites and apps, so we gain nothing by pushing one. When the numbers point to a website first, the quote says so plainly. We recommend an app first when the service depends on frequent use or phone features, and we explain why in writing." },
   ],
   related: {
     heading: "More on websites, apps and choosing the right build",

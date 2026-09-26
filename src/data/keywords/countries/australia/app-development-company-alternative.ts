@@ -66,7 +66,7 @@ const content: FreelanceContent = {
   services: {
     eyebrow: "What we build",
     heading: "App work that usually goes to an Australian app development company",
-    note: "These are the projects founders most often bring to us after collecting studio quotes. Each is scoped as a first version you can launch, measure and grow.",
+    note: "These are the kinds of projects Australian founders usually price with a studio first. We scope each as a first version you can launch, measure and grow.",
     cards: [
       { name: "iOS and Android app in Flutter", note: `One codebase, two store listings, native builds for iPhone and Android phones, from ${P.app}.`, href: "/australia/flutter-app-development/", size: "lg" },
       { name: "Startup MVP", note: "A tightly scoped first release for a demo, pilot or first paying users, with the roadmap parked for version two.", href: "/australia/mvp-development-for-startups/", size: "lg" },
@@ -135,7 +135,7 @@ const content: FreelanceContent = {
         `The cheapest way to cut any quote is to cut scope. Launch with the one flow that proves your idea works, leave the social features and gamification for later, and use a web admin panel instead of a separate staff app. Studios and remote teams will both give you a lower number when the scope is smaller.`,
       ],
       subs: [
-        { heading: "Store fees you pay directly", text: "Apple's developer program is US$99 a year and Google Play has a one-time US$25 registration fee, both paid by your business." },
+        { heading: "Store fees you pay directly", text: "The Apple Developer Program costs US$99 a year and Google Play has a one-time US$25 registration fee, both paid by your business." },
         { heading: "Running costs", text: "Hosting, database, email and SMS services are billed to your accounts, usually modest at launch and rising with users." },
         { heading: "Support after launch", text: `Five months of free maintenance with us, then optional care from ${P.care}.` },
       ],
@@ -180,7 +180,7 @@ const content: FreelanceContent = {
       heading: "What post-launch support should an app developer provide?",
       paragraphs: [
         `Expect bug fixes, updates for new iOS and Android releases, store policy changes, dependency upgrades and small improvements. An app that is not maintained starts breaking within a year as operating systems and libraries move on.`,
-        `Every app we launch gets five months of free maintenance. That covers fixes, compatibility updates, crash monitoring and small changes you ask for during the first months with real users, which is exactly when most rough edges show up. After that, care plans start from ${P.care}, or you can move the work to anyone else, since the code and accounts are already yours.`,
+        `Every app we launch gets five months of free maintenance. It covers bug fixes and keeping the app working through the first months with real users, which is when most rough edges show up; the exact inclusions are listed in your written quote. After that, care plans start from ${P.care}, or you can move the work to anyone else, since the code and accounts are already yours.`,
         `Bigger additions, such as a new user type or a subscription model, are quoted separately. We suggest collecting feedback for the first few weeks before deciding version two, because real usage often changes priorities.`,
       ],
     },
@@ -235,7 +235,7 @@ const content: FreelanceContent = {
       heading: "Taking payments in an app: Apple and Google rules founders miss",
       paragraphs: [
         `Whether you can use ordinary card payments depends on what you sell. Digital features inside the app generally go through Apple's and Google's in-app purchase systems; physical goods and real-world services use normal checkout.`,
-        `Apple's App Review Guidelines say that unlocking features or functionality within the app, such as subscriptions or premium content, must use in-app purchase, while apps selling physical goods or services consumed outside the app must use other methods, such as Apple Pay or card entry. A cleaning booking app takes card payments; a meditation app selling premium lessons uses in-app purchase.`,
+        `Apple's App Review Guidelines say that unlocking features or functionality within the app, such as subscriptions or premium content, must use in-app purchase, while apps selling physical goods or services consumed outside the app must use other payment methods, such as a digital wallet or ordinary card entry. A cleaning booking app takes card payments; a meditation app selling premium lessons uses in-app purchase.`,
         `This decision affects your margin, your pricing and your review timeline, so we settle it in the scope. We connect card and wallet checkout for real-world services and set up store subscriptions for digital products, with prices in AUD configured in the store consoles.`,
       ],
     },
@@ -253,8 +253,8 @@ const content: FreelanceContent = {
       heading: "Working with an app team in India from Australia",
       paragraphs: [
         `You work straight with the three developers on WhatsApp and video calls, usually in your afternoon, which is our morning. There is no Australian office and we do not visit; demos happen through test builds installed on your own phone.`,
-        `Sydney and Melbourne are four and a half hours ahead of India in winter and five and a half during daylight saving. Brisbane stays at four and a half all year, and Perth is two and a half. A 2 pm call in Melbourne is late morning or mid-morning for us.`,
-        `Quotes are in USD. Australian clients usually pay by Wise from an AUD account, bank wire or PayPal, in stages tied to delivered milestones. Invoices come from India, and GST questions on imported services go to your accountant.`,
+        `Sydney and Melbourne are four and a half hours ahead of India in winter and five and a half during daylight saving. Brisbane stays at four and a half all year, and Perth is two and a half. A 2 pm call in Melbourne is 9:30 am for us in winter and 8:30 am during daylight saving.`,
+        `Quotes are in USD. Australian clients usually pay by Wise from an AUD account, bank wire or PayPal, in the milestone stages set out in your written quote. Invoices come from India, and GST questions on imported services go to your accountant.`,
         `The first two weeks: in week one we confirm the written scope, you start the Apple and Google registrations and create the repository, and we produce screen flows for your review. In week two you get clickable designs of the main screens, then the first installable test build of the login and home screen on TestFlight and a Google Play test track. From then on, a new build reaches your phone every week.`,
       ],
     },
@@ -352,8 +352,8 @@ const content: FreelanceContent = {
   ],
   areas: {
     eyebrow: "Across Australia",
-    heading: "Founders and businesses we build apps for around Australia",
-    note: "All work is remote, so the city matters mainly for call times. These notes reflect the kinds of app ideas founders in each place commonly bring.",
+    heading: "App builds for founders and businesses around Australia",
+    note: "All work is remote, so the city matters mainly for call times. These notes describe the kinds of app ideas that fit the businesses in each place.",
     cards: [
       { name: "Sydney CBD and Pyrmont", note: "Fintech and professional services founders often want a lean first app to test with users before committing to a larger studio build or a funding round." },
       { name: "Surry Hills and Redfern", note: "Early-stage founders in Sydney's startup precinct frequently need an MVP quickly, with code in their own repository for future hires to pick up." },
@@ -392,7 +392,7 @@ const content: FreelanceContent = {
     { question: "Do I need a D-U-N-S number to publish an app in Australia?", answer: "To publish as an organisation, yes: both Apple and Google Play require one for organisation developer accounts. Check whether your business already has one, and apply early if not, because issuing can take time. Individuals can register personal accounts, but the seller name and testing rules then differ." },
     { question: "Who owns the source code of my app?", answer: "You should, but make it certain in writing. The Arts Law Centre of Australia notes that contractors keep copyright unless it is assigned in writing and signed. Our written quote assigns the code, designs and listings to your business, and the repository sits in your own account from day one. Have your lawyer review the documents." },
     { question: "How long does it take to build an app?", answer: "Most first versions take 6–10 weeks with us, depending on screens, user types and integrations. Store review adds some days on top. The biggest delays usually come from late developer account registrations and slow feedback, so starting the Apple and Google paperwork in week one keeps the schedule on track." },
-    { question: "What happens after my app launches?", answer: `Every app gets five months of free maintenance: bug fixes, OS compatibility updates, crash monitoring and small changes. After that you can choose a care plan from ${P.care}, move maintenance elsewhere, or handle it in-house. New features are quoted separately once you have real user feedback.` },
+    { question: "What happens after my app launches?", answer: `Every app gets five months of free maintenance after launch, covering bug fixes and keeping the app running, with exact inclusions listed in your quote. After that you can choose a care plan from ${P.care}, move maintenance elsewhere, or handle it in-house. New features are quoted separately once you have real user feedback.` },
     { question: "Can you take over an app another developer built?", answer: "Often, yes. We start with a code review to check the framework, dependencies, backend and store account situation, then give you an honest view of whether to continue or rebuild. If the previous developer holds the store account or the code, recovering access is the first job." },
     { question: "How do I compare app development quotes fairly?", answer: "Break every quote into the same parts: discovery, design, each feature, testing, admin panel, store submission and support. Check who holds the accounts and repository and how change requests are priced. Then compare. Totals alone mislead because providers include different things in their headline figure." },
     { question: "Can I pay for app development in milestones?", answer: "Yes. Payments are staged against milestones you can see and test, such as approved designs, a working core flow and store submission. Quotes are in USD, and Australian clients usually pay by Wise from an AUD account, bank wire or PayPal. Nothing is billed before you approve the written quote." },

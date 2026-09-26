@@ -1,0 +1,427 @@
+import { usd } from "@data/countries/international";
+import type { FreelanceContent } from "@data/freelance/types";
+
+const P = {
+  site: usd("Static"), seoSite: usd("SEO website"), shop: usd("Ecommerce"), app: usd("Android"),
+  software: usd("Custom web app"), ai: usd("AI automation"), seo: usd("Monthly SEO"), care: usd("Maintenance"),
+};
+
+const DEA_EXTENSION = "https://www.federalregister.gov/documents/2025/12/31/2025-24123/fourth-temporary-extension-of-covid-19-telemedicine-flexibilities-for-prescription-of-controlled";
+const EPCS_AUDIT = "https://www.ecfr.gov/current/title-21/section-1311.300";
+const ONC_API = "https://www.healthit.gov/test-method/standardized-api-patient-and-population-services";
+
+const content: FreelanceContent = {
+  path: "/usa/telehealth-app-development/",
+  crumb: "Telehealth app development",
+  updated: "2026-09-25",
+  meta: {
+    title: `Telehealth App Development: Apps from ${P.app}`,
+    description: `Telehealth app development for US practices: video visits, scheduling, BAA-covered vendors, eRx and EHR integration. Patient apps from ${P.app}; ask for a quote.`,
+    keywords: [
+      "telehealth app development", "telemedicine app development", "telehealth app developers", "virtual care app development",
+      "custom telehealth platform development", "telehealth app development cost", "how much does it cost to build a telehealth app",
+      "how to build a telehealth app", "hipaa telehealth app", "telehealth video visit app", "telehealth scheduling app",
+      "telehealth app with e-prescribing", "telehealth ehr integration", "smart on fhir app development", "telehealth patient onboarding",
+      "telehealth app for therapists", "telehealth app for clinics", "telehealth software development usa", "white label telehealth vs custom",
+      "telehealth app development texas", "telehealth app development florida", "telehealth app development california",
+      "telehealth app development new york", "telemedicine app developer near me", "flutter telehealth app", "react native telehealth app",
+    ],
+  },
+  hero: {
+    eyebrow: "Virtual-care apps for US practices · three freelance developers",
+    h1: "Telehealth app development for US practices that want their own virtual front door",
+    lede: `Telehealth app development is mostly about the parts around the video call: who signs a business associate agreement for each vendor, how a patient books and joins, how prescriptions and notes reach your EHR, and how the app knows which state the patient is sitting in. BtechWaleTech is three freelance developers in India who build patient apps in Flutter or React Native and provider dashboards on the web, using BAA-eligible video and hosting services that <strong>your</strong> practice contracts with. Patient apps start at ${P.app}; provider portals start at ${P.software}. Related privacy work is covered on our <a href='/usa/hipaa-compliant-app-development/'>HIPAA compliant app development</a> page.`,
+    pills: ["Video visits with waiting room", "Scheduling across time zones", "BAA-eligible vendors only", "eRx through a certified partner", "EHR via FHIR where available", "State-aware clinician routing", `Apps from ${P.app}`],
+    origin: "Three freelance developers in India · WhatsApp replies 7 days a week · calls in US Eastern mornings",
+  },
+  facts: [
+    ["Patient app (Android and iOS)", `From ${P.app} · 6–10 weeks`],
+    ["Provider dashboard or full platform", `From ${P.software} · 6–12 weeks`],
+    ["Telehealth marketing site", `From ${P.site} · 1–2 weeks`],
+    ["Where PHI lives", "Vendors your practice holds a BAA with"],
+    ["Billing", "USD · wire, Wise, PayPal"],
+    ["After launch", `5 months free fixes, then from ${P.care}`],
+  ],
+  stats: [
+    { value: "3", label: "Freelance developers on your project" },
+    { value: "0", label: "Real patient records needed during the build" },
+    { value: "2", label: "Working days to an itemized quote" },
+    { value: "5", label: "Months of free fixes after launch" },
+  ],
+  answer: {
+    heading: "What does telehealth app development involve, and what does it cost?",
+    text: `Telehealth app development covers a patient app for booking and joining video visits, a provider dashboard for schedules and notes, and integrations with BAA-eligible video, messaging and hosting vendors, e-prescribing and your EHR. With our freelance team, patient apps start at ${P.app} (6–10 weeks) and provider platforms at ${P.software}. Your counsel confirms HIPAA compliance; we build the technical safeguards.`,
+    more: `If you only need a practice website with online booking, start with <a href='/usa/medical-practice-website-design/'>medical practice website design</a>. For the wider mobile budget picture, see <a href='/usa/app-development-cost/'>app development cost in the US</a>.`,
+  },
+  snapshot: {
+    caption: "Telehealth builds with us, at a glance",
+    rows: [
+      { label: "Good fit", value: "Independent practices, behavioral health groups, specialty clinics and digital health startups" },
+      { label: "What you get", value: "Patient app, provider web dashboard, admin console and integration layer" },
+      { label: "Video", value: "A HIPAA-eligible video SDK under a BAA your practice signs" },
+      { label: "Prescribing", value: "Handled through a certified e-prescribing vendor, not built from scratch" },
+      { label: "EHR", value: "FHIR and SMART on FHIR where your EHR supports it; export or manual workflow otherwise" },
+      { label: "Our access to PHI", value: "None needed: synthetic test data throughout" },
+      { label: "Starting prices", value: `Patient app from ${P.app}; provider platform from ${P.software}` },
+    ],
+  },
+  services: {
+    eyebrow: "Scope",
+    heading: "Parts of a telehealth app development project we can take on",
+    note: "Each part can be built on its own or as one platform. We start with the visit lifecycle, because every screen hangs off it.",
+    cards: [
+      { name: "Patient mobile app", note: `Booking, intake, consent, waiting room, video visit, after-visit summary and secure messages, in Flutter or React Native for both stores. From ${P.app}.`, href: "/usa/react-native-app-development/", size: "lg" },
+      { name: "Provider web dashboard", note: `Daily schedule, patient queue, visit launch, notes template and task list, designed for clinicians who switch between rooms and screens. From ${P.software}.`, href: "/usa/custom-software-development/", size: "lg" },
+      { name: "Video visit integration", note: "A HIPAA-eligible video SDK wired into waiting rooms, reconnect logic, screen share and optional multi-party visits for interpreters or family members.", size: "md" },
+      { name: "Scheduling and reminders", note: "Provider availability, time-zone handling, cancellation rules and reminders by SMS or email through vendors covered by your BAAs.", size: "md" },
+      { name: "EHR and eRx integration", note: "SMART on FHIR launch, appointment and patient sync where your EHR allows it, and an embedded workflow from a certified e-prescribing partner.", size: "md" },
+      { name: "Admin and compliance console", note: "Role management, audit log viewer, clinician license states and patient-location rules that your team maintains.", href: "/usa/custom-dashboard-development/", size: "sm" },
+      { name: "Telehealth landing pages", note: `A fast public site explaining services, states served and how visits work, with booking links. From ${P.site}.`, href: "/usa/medical-practice-website-design/", size: "sm" },
+      { name: "Support after launch", note: `OS updates, SDK upgrades, store resubmissions and monitoring once the free period ends, from ${P.care}.`, href: "/usa/website-maintenance-services/", size: "sm" },
+    ],
+  },
+  comparison: {
+    heading: "White-label telehealth platform, US health-tech shop or our freelance team",
+    note: "Three realistic routes for a US practice or startup. The right one depends on how different your workflow is from everyone else's.",
+    columns: ["Aspect", "White-label telehealth platform", "US health-tech development shop", "BtechWaleTech"],
+    rows: [
+      ["Time to first visit", "Days to weeks", "Months", "6–10 weeks for a patient app"],
+      ["Custom workflow", "Limited to settings", "Fully custom", "Fully custom, built around your visit lifecycle"],
+      ["Who signs BAAs", "The platform, on eligible plans", "Varies; often the shop plus vendors", "Your practice signs with each vendor directly"],
+      ["Branding in the app stores", "Sometimes shared or templated", "Your brand", "Your brand, published under your developer accounts"],
+      ["EHR and eRx", "Only the connectors offered", "Custom", "FHIR where supported, certified eRx partner embedded"],
+      ["Ongoing cost shape", "Per-provider subscription", "Retainer", `Vendor usage plus optional care from ${P.care}`],
+      ["Starting price", "Quotes vary widely", "Quotes vary widely", `Patient app from ${P.app}`],
+      ["Ownership of code", "None", "Check the contract", "Yours: repo, cloud and store accounts"],
+    ],
+    fine: "If a white-label platform already fits your visit flow, use it; custom telehealth app development pays off when your workflow, brand or integrations genuinely differ.",
+  },
+  pricing: {
+    heading: "Telehealth app starting prices",
+    note: `Telehealth budgets split into three layers. The patient app on Android and iOS starts at ${P.app}, which covers booking, intake, the waiting room and the video visit. The provider dashboard, admin console and integration layer sit in the custom web app plan from ${P.software}, because that is where the scheduling logic, audit logs and EHR work live. A public site that explains your services and states served starts at ${P.site}. Video, messaging, hosting and e-prescribing vendors bill your practice directly, usually by usage or per provider, and those costs appear as separate lines in the quote so you see the full monthly picture.`,
+  },
+  guideLabel: "Telehealth app development guide",
+  guide: [
+    {
+      id: "what-it-is",
+      heading: "What is telehealth app development, and who needs a custom app?",
+      paragraphs: [
+        `Telehealth app development is building the software a practice uses to see patients remotely: a patient-facing app or web experience, a clinician workspace, and the integrations that connect video, scheduling, prescribing and records. A custom app makes sense when your visit flow, brand or integrations differ from what off-the-shelf tools allow.`,
+        `Many practices never need custom software. A solo therapist can run video sessions through an EHR's built-in telehealth module or a BAA-backed video service and be perfectly well served. Custom telehealth app development starts to pay off in a few recognizable situations: a group sees patients across several states and needs clinician routing by license; a startup's care model (asynchronous visits, monitoring plus video, group sessions) does not match a generic platform; a practice wants its own branded app in the stores for retention; or the EHR's module forces clinicians through too many clicks.`,
+        `The honest first step is to write down your visit lifecycle from the patient's point of view: find the practice, check eligibility, book, complete intake and consent, wait, meet, get a prescription or referral, receive a summary, pay, follow up. Then mark which steps already work with your current tools. The unmarked steps are the real scope, and they are often smaller than people expect.`,
+      ],
+    },
+    {
+      id: "build-or-buy",
+      heading: "Custom telehealth app development vs white-label platforms",
+      paragraphs: [
+        `Buy a white-label platform when speed matters most and your workflow is standard; build custom when the workflow is your differentiator or the platform's per-provider fees and limits will hurt as you grow. A hybrid, where a custom app sits on rented video and eRx services, is the most common answer.`,
+        `Nobody sensible builds video streaming, pharmacy networks or certified prescribing from scratch for one practice. What custom telehealth app development actually means is owning the experience layer: the screens, the scheduling logic, the rules about who can see whom, and the data model, while renting the heavy infrastructure from vendors who specialize in it and will sign a business associate agreement with you.`,
+      ],
+      list: [
+        "Choose white-label if you need visits running within weeks and can live with its screens",
+        "Choose custom if you route patients by state license, run a novel care model or need deep EHR workflow",
+        "Choose hybrid if you want your own brand and data model but not your own video or pharmacy stack",
+        "Revisit the decision at scale: per-provider subscriptions grow with headcount; custom running costs grow with usage",
+      ],
+      after: [
+        `We are happy to tell you when a platform is the better choice. If you decide to build, the same thinking behind our <a href='/usa/mvp-development-for-startups/'>MVP development</a> work applies: launch the smallest visit flow that real patients can use, then add features from what clinicians ask for.`,
+      ],
+    },
+    {
+      id: "baa-vendors",
+      heading: "Which vendors need a BAA in a telehealth app?",
+      paragraphs: [
+        `Any vendor that creates, receives, stores or transmits protected health information on your practice's behalf generally needs a business associate agreement: typically video, cloud hosting and database, messaging and SMS, email, file storage, e-prescribing, and any support or crash-reporting tool that could capture PHI. Your counsel makes the final call for each one.`,
+        `During the pandemic, HHS relaxed enforcement so providers could use everyday video apps. That period is over. A Federal Register notice from April 2023 confirmed that the HHS Office for Civil Rights notifications of enforcement discretion would expire with the public health emergency on May 11, 2023, with a 90-day transition for telehealth. A telehealth app built today should assume the ordinary HIPAA rules apply.`,
+        `In practice, vendor choice is where most telehealth app development projects either stay tidy or become risky. The obvious vendors (video, hosting) are usually handled. The quiet ones cause trouble: a crash-reporting SDK that captures screen text, an analytics SDK logging screen names like “Anxiety intake”, push notifications that print the provider's specialty on a lock screen, or a support chat widget that patients type symptoms into. We produce a vendor map listing every SDK and service in the app, whether it can see PHI, and whether it needs to sit under a BAA your practice signs. Anything that cannot be covered is removed or configured so it never receives PHI. We are developers, not lawyers, and we never describe our own work as “HIPAA-compliant”; the compliance decision is yours, made with your counsel.`,
+      ],
+    },
+    {
+      id: "video-visits",
+      heading: "Video visits in telehealth app development: SDKs, waiting rooms and weak signals",
+      paragraphs: [
+        `Build video visits on a HIPAA-eligible real-time video SDK or API rather than a consumer meeting app, and spend most of the design effort on the moments before and after the call: device checks, the waiting room, reconnects and the handoff to a summary.`,
+        `Patients join from old phones, parking lots and rural connections. The video feature has to cope. We add a pre-visit check for camera, microphone and bandwidth; a virtual waiting room where the patient sees a clear status (“Dr. Rivera is finishing another visit”); automatic reconnect if the network drops; an audio-only fallback where your clinical policies allow it; and a visible way to call the practice if everything fails.`,
+      ],
+      subs: [
+        { heading: "Multi-party visits", text: "Interpreters, caregivers or a second clinician can be invited to a single visit with their own time-limited link." },
+        { heading: "Screen share and files", text: "Clinicians can share images or care plans; uploads from patients land in BAA-covered storage, never in chat logs on a third-party server." },
+        { heading: "Recording", text: "Off by default. If your practice wants recordings, we treat them as PHI with retention rules your policy sets." },
+        { heading: "Accessibility", text: "Captions where the SDK supports them, large tap targets, screen reader labels and a text chat for patients who cannot use audio." },
+      ],
+    },
+    {
+      id: "scheduling",
+      heading: "Scheduling and the visit lifecycle in a telehealth app",
+      paragraphs: [
+        `Telehealth scheduling has to handle three clocks at once: the clinician's time zone, the patient's time zone and the practice's rules. Get that wrong and patients miss visits; get it right and no-shows drop simply because reminders arrive at sensible times.`,
+        `We model the visit as a set of states: requested, booked, intake complete, checked in, waiting, in visit, completed, documented, billed, and cancelled or no-show. Each state has an owner and triggers. When a patient books, the app confirms in their local time and sends reminders through a messaging vendor covered by your BAA, with wording that avoids clinical detail (“You have an appointment tomorrow at 3:30 pm” rather than the service name). Check-in opens a set time before the visit, so the clinician sees who is ready.`,
+        `Provider availability often lives in the EHR already. Where the EHR exposes appointment slots through its API, we read and write there so staff keep one calendar. Where it does not, we build scheduling in the telehealth platform and give staff a daily export or a simple sync. Cancellation windows, buffer time between visits, new-patient vs follow-up durations and waitlists are settings your admin team controls, not code changes. For practices whose front desk still runs on phone calls, an <a href='/usa/ai-voice-agent-development/'>AI voice agent</a> can take booking requests into the same calendar.`,
+      ],
+    },
+    {
+      id: "licensure",
+      heading: "How does state licensure affect telehealth app development?",
+      paragraphs: [
+        `In general a clinician needs to be licensed where the patient is located at the time of the visit, so a telehealth app should capture the patient's current state before each visit and only offer clinicians licensed there. The rules and exceptions vary by state and profession, so your counsel sets the policy and the app enforces it.`,
+        `This is one of the clearest places where custom telehealth app development beats a generic tool. We store each clinician's license states and expiry dates, ask the patient to confirm their location at booking and again at check-in, and filter availability accordingly. If a patient travels, the check-in step catches it and routes them to rescheduling or a licensed colleague. Admins get an alert well before a license expires, so the schedule does not silently offer an unlicensed slot.`,
+        `Multistate practices often ask about compacts. According to the Interstate Medical Licensure Compact Commission, the IMLC is a voluntary, expedited pathway for qualified physicians to obtain separate licenses in participating states, not a single national license. So from the app's point of view nothing changes: each state license is still a separate record. Other professions such as nursing, psychology and counseling have their own compacts and rules. We build the rules engine; we do not interpret the law, and a healthcare attorney should approve the routing policy before launch.`,
+      ],
+    },
+    {
+      id: "eprescribing",
+      heading: "Can a telehealth app include e-prescribing?",
+      paragraphs: [
+        `Yes, but through a certified e-prescribing vendor embedded in the clinician workflow, not built in-house. The vendor connects to pharmacy networks and, for controlled substances, carries the audit or certification burden federal rules require.`,
+        `Electronic prescribing of controlled substances is tightly regulated. Under <a href='${EPCS_AUDIT}' rel='noopener'>21 CFR 1311.300</a>, an EPCS application needs a third-party audit or a DEA-approved certification before it may be used, repeated when functionality changes or every two years, whichever comes first. The same part of the regulations sets two-factor authentication and identity-proofing requirements for prescribers. That is why a practice-built app should hand prescribing off to a vendor that already holds the certification.`,
+        `Remote prescribing policy is also in flux. The DEA and HHS issued a <a href='${DEA_EXTENSION}' rel='noopener'>fourth temporary extension</a> of the COVID-era telemedicine flexibilities for prescribing controlled medications, running through December 31, 2026. Whatever the permanent rules become, your clinicians and counsel decide what may be prescribed after a video-only visit; the app records the visit type and supports those rules. In a typical build, the clinician opens the eRx vendor's embedded screen from the visit, the patient's demographics and pharmacy prefill, and the prescription status returns to the visit record.`,
+      ],
+    },
+    {
+      id: "ehr-integration",
+      heading: "EHR integration choices for telehealth app development",
+      paragraphs: [
+        `There are three realistic levels: a SMART on FHIR app launched from inside the EHR, a background FHIR integration that syncs patients, appointments and documents, or a lighter workflow where visit summaries are exported and filed by staff. Which one you get depends on what your EHR vendor exposes and approves.`,
+        `Certified EHRs in the US must offer a standardized patient and population API. ONC's <a href='${ONC_API}' rel='noopener'>test method for the (g)(10) criterion</a> names HL7 FHIR Release 4.0.1, the US Core implementation guide and the SMART App Launch framework, including patient access for standalone apps and clinician access for EHR launch. That is a useful baseline for read access. Writing data back (notes, appointments, orders) is where EHRs differ most, and it usually needs the vendor's own APIs, app-marketplace registration and sometimes fees.`,
+        `Our advice is to start read-first. Launch the telehealth app from the EHR with SMART, read demographics and appointments, and write the visit summary back as a document if the vendor allows it. Deeper write-back comes later once the workflow is proven. We have no special partnership with any EHR vendor, so their approval timelines are outside our control, and we flag them early in the plan.`,
+      ],
+    },
+    {
+      id: "onboarding",
+      heading: "Patient onboarding: identity, consent, insurance and intake",
+      paragraphs: [
+        `Good onboarding gets a new patient from download to a booked visit in a few minutes while collecting only what the practice needs: identity, contact details, location, consent to telehealth, insurance or payment, and a short clinical intake.`,
+        `Onboarding is where telehealth apps lose people. We break it into small screens, save progress so an interrupted signup resumes, and ask for insurance card photos only when a visit type needs them. Consent forms your practice supplies (telehealth consent, privacy practices, financial policy) are shown in readable text with a timestamped acceptance stored against the patient record. Identity verification can be as simple as a date of birth and phone check or, where your model requires it, an identity-verification vendor under a suitable agreement.`,
+      ],
+      list: [
+        "Account creation with passkeys or strong passwords plus multi-factor authentication",
+        "Current state of residence and a location confirmation for each visit",
+        "Consent forms your practice provides, versioned so re-consent can be triggered",
+        "Insurance details or card-on-file through a payment vendor, never stored in the app",
+        "Short intake questionnaires built from your templates, with conditional questions",
+        "Guardian or proxy access for minors and dependents, if your policies allow it",
+      ],
+    },
+    {
+      id: "cost",
+      heading: "How much does telehealth app development cost?",
+      paragraphs: [
+        `With our team, a telehealth patient app for Android and iOS starts at ${P.app}, a provider dashboard or full platform starts at ${P.software}, and a supporting public website starts at ${P.site}. Vendor fees for video, messaging, hosting and prescribing are billed to your practice separately.`,
+        `Quotes for telehealth app development vary widely across the market, and the reasons are easy to list. Integrations drive cost most: a SMART on FHIR read-only launch is a very different job from full appointment and note write-back. Next come the number of roles (patient, clinician, front desk, supervisor, admin), multi-state license routing, asynchronous visit types, group sessions, payments and insurance capture, and the amount of design polish your brand needs.`,
+        `Running costs matter as much as the build. Video is usually billed per participant-minute, SMS per message, and eRx per prescriber, and all of them need plan tiers that include a BAA. We put estimated usage-based costs in the quote so you can compare a custom build against per-provider platform fees over two or three years. Our <a href='/usa/cost-to-outsource-app-development/'>cost to outsource app development</a> page explains the offshore side of that comparison.`,
+      ],
+    },
+    {
+      id: "timeline",
+      heading: "How long does it take to build a telehealth app?",
+      paragraphs: [
+        `A first patient app with booking, intake and video visits typically takes 6–10 weeks; a platform with a provider dashboard, admin console and EHR or eRx integration takes 6–12 weeks for the first version, with vendor approvals often setting the real end date.`,
+        `The build itself is predictable. What stretches telehealth timelines is outside code: signing BAAs with each vendor, getting EHR marketplace or API access approved, eRx vendor onboarding and prescriber identity proofing, App Store review for health apps, and your counsel's review of consent language and license routing rules. We start those threads in the first week so they run in parallel with design and development.`,
+        `A typical plan: week 1, visit lifecycle map, vendor list and BAA checklist; weeks 2–3, clickable prototype tested with two clinicians and a few patients; weeks 3–7, patient app and provider dashboard built against sandbox vendors with synthetic data; weeks 6–9, integrations, security testing and accessibility checks; then a pilot with a small group of clinicians before opening to all patients. Store submission runs in the last two weeks, and you need your own Apple Developer account (99 USD per year, per Apple) and Google Play developer account (a one-time US$25 fee, per Google) ready by then.`,
+      ],
+    },
+    {
+      id: "security",
+      heading: "Security architecture for telehealth app development",
+      paragraphs: [
+        `A telehealth app should encrypt data in transit and at rest, give every user a unique login with multi-factor authentication, grant access by role, log every view and change of PHI, time out idle sessions, and keep PHI out of places it tends to leak: notifications, logs, analytics and device storage.`,
+        `We run the backend in your practice's own cloud account, on services covered by the provider's BAA, with the database encrypted and private networking between components. On the phone, tokens sit in the platform's secure storage, screenshots can be blocked on sensitive screens, cached data is minimized and cleared at logout, and a remote sign-out option exists for lost devices. Push notifications carry no clinical detail.`,
+        `Audit logs record who accessed which patient, when and from where, and they are written somewhere ordinary staff accounts cannot edit. Before launch we run a dependency scan, basic penetration testing of the API against the common web risks, and a review of every third-party SDK against the vendor map. If your organization requires an independent penetration test or security questionnaire, we support the testers and fix what they find. Throughout, our team works only with synthetic data; production PHI stays with your staff.`,
+      ],
+    },
+    {
+      id: "tech-stack",
+      heading: "Flutter, React Native or web for a telehealth app?",
+      paragraphs: [
+        `Use Flutter or React Native for a patient app on both stores from one codebase, and a web app for clinicians who work from desktops. Offer a browser-based join link as well, because some patients will never install an app for a single visit.`,
+        `Both cross-platform frameworks have mature support in the major video SDKs, so the choice usually comes down to your team. If your engineers already write React, React Native keeps skills shared with the provider dashboard. If you are starting fresh and want very consistent UI on older Android phones, Flutter is a strong option. Our <a href='/usa/flutter-app-development-company/'>Flutter</a> and <a href='/usa/react-native-app-development/'>React Native</a> pages go deeper.`,
+        `A native app earns its place for returning patients: push reminders, stored insurance details, secure messages and quicker joins. A browser link earns its place for one-off visits and for relatives joining a call. We build both from shared backend APIs. The provider dashboard is a web app because clinicians work at desks with the EHR open beside it, and an app that forces them onto a phone would slow them down.`,
+      ],
+    },
+    {
+      id: "choosing-partner",
+      heading: "Choosing a telehealth app development partner: questions and red flags",
+      paragraphs: [
+        `Pick a partner who can show you a vendor and data-flow map before quoting, explains which parts they will rent rather than build, and never needs real patient data to develop. Be cautious of anyone who promises a “HIPAA-certified app”; there is no government certification by that name.`,
+        `Questions to ask any telehealth app development team: Which video SDK do you recommend and does its BAA cover our use? How will the app know which state the patient is in? How is e-prescribing handled for controlled substances? What does our EHR allow, and what will you do if write-back is not approved? What leaves the phone in push notifications, analytics and crash reports? Who owns the store accounts and cloud account? How do we get security fixes after launch?`,
+      ],
+      list: [
+        "Red flag: the developer's own cloud account hosts your PHI",
+        "Red flag: an analytics or advertising SDK is included “for marketing” without a PHI review",
+        "Red flag: e-prescribing is described as a quick custom feature",
+        "Red flag: no plan for license expiry, patient travel or state routing",
+        "Good sign: a pilot with a few clinicians before full launch",
+      ],
+    },
+    {
+      id: "working-from-us",
+      heading: "Working with a telehealth app development team in India from the US",
+      paragraphs: [
+        `Your clinicians and staff talk to us in US Eastern mornings, which are evenings in India, and review new builds the next day. West Coast practices usually pick one early call a week and handle the rest in writing.`,
+        `Because we work from India and have no US office or entity, the setup is deliberate. Your practice creates the cloud, video, messaging and store accounts, signs the BAAs with those vendors, and invites us with limited roles. We develop against sandbox environments and synthetic patients, so our team never needs production PHI; once live, production access stays with your staff and any support access is decided by your compliance lead. Quotes and invoices are in USD, paid by bank wire, Wise or PayPal, and nothing is billed before your written approval.`,
+        `The first two weeks look like this: a kickoff call to walk through your visit lifecycle; a vendor and BAA checklist your compliance lead can work from; a written list of license-routing and consent rules for counsel to approve; and a clickable prototype that two of your clinicians try on their own phones. By the end of week two you know exactly which screens, integrations and vendors are in scope, and the build plan has dates. Details such as NDAs and IP assignment go into the written quote and our <a href='/terms/'>terms</a>.`,
+      ],
+    },
+    {
+      id: "worked-example",
+      heading: "Worked example: a two-state behavioral health group (hypothetical)",
+      paragraphs: [
+        `Say a behavioral health group with twelve therapists in Colorado and New Mexico wants its own app. Some therapists hold licenses in both states, most in one. The group uses a cloud EHR with a FHIR API and wants weekly video sessions, secure messaging and intake questionnaires. This is an illustration of how scope might be shaped, not a past client.`,
+        `The plan starts with a vendor map: a HIPAA-eligible video SDK, the group's own cloud account for the backend, a messaging vendor for reminders, and the EHR. Each gets a BAA the group signs directly. Therapists' license states go into the admin console, and patients confirm their location at booking and check-in; a patient who says they are in Arizona that day is asked to reschedule, in line with the policy the group's counsel approves.`,
+        `The patient app covers onboarding, intake, booking, the waiting room and sessions, and the provider dashboard shows each therapist's day and a notes template. Phase one reads demographics and appointments from the EHR with SMART on FHIR and files a visit summary back as a document. No prescribing is included, since the group refers medication management elsewhere. Scope like this sits in the patient app plan from ${P.app} plus the platform plan from ${P.software}, with vendor usage billed to the group.`,
+      ],
+    },
+    {
+      id: "checklist",
+      heading: "Telehealth app development launch checklist",
+      paragraphs: [
+        `Run through these checks with your clinical lead, compliance officer and development team before the first real patient joins a visit.`,
+      ],
+      list: [
+        "BAAs signed with every vendor on the vendor map that can touch PHI",
+        "License-routing and consent rules approved by your counsel and configured in the admin console",
+        "Push notifications, SMS and email wording checked for clinical detail",
+        "Crash reporting and analytics confirmed PHI-free",
+        "Video tested on an older Android phone, an iPhone and a weak connection",
+        "Audit logs reviewed: every view of a test patient appears",
+        "Accessibility checked with screen readers and large text settings",
+        "Store listings, privacy labels and support contacts completed in your own developer accounts",
+        "Pilot group of clinicians trained and a rollback plan written down",
+      ],
+      after: [
+        `Your telehealth landing pages need the same care for accessibility; the <a href='/usa/website-accessibility-remediation/'>accessibility remediation</a> page explains how we audit and fix public sites against WCAG.`,
+      ],
+    },
+  ],
+  tables: [
+    {
+      id: "vendor-map",
+      eyebrow: "Vendors",
+      heading: "Telehealth app components and the BAA question",
+      note: "A starting point for your compliance lead. Your counsel decides the final position for each vendor.",
+      columns: ["Component", "Can it touch PHI?", "BAA with your practice?", "How we build it"],
+      rows: [
+        ["Video SDK or API", "Yes", "Yes", "HIPAA-eligible plan, sessions created server-side, recordings off by default"],
+        ["Cloud hosting and database", "Yes", "Yes", "Your own account, encrypted storage, private networking"],
+        ["SMS and email reminders", "Yes, if wording or numbers reveal care", "Usually yes", "Neutral wording, vendor on a BAA-eligible tier"],
+        ["E-prescribing", "Yes", "Yes", "Certified vendor embedded in the clinician workflow"],
+        ["Crash reporting", "It can, if screens or logs contain PHI", "Only if configured to receive PHI", "PHI scrubbed or tool removed"],
+        ["Marketing analytics", "It can, on logged-in screens", "Rarely available", "Kept to the public website, off patient screens"],
+        ["Payments", "Limited", "Depends on data shared", "Card data handled by the payment vendor, not stored in the app"],
+      ],
+      hideSm: [3],
+    },
+    {
+      id: "build-vs-integrate",
+      eyebrow: "Decisions",
+      heading: "Build, integrate or rent: telehealth features compared",
+      note: "What we recommend building custom versus renting from a specialist vendor.",
+      columns: ["Feature", "Build custom", "Integrate a vendor", "Our usual advice"],
+      rows: [
+        ["Video transport", "Impractical", "Video SDK or API", "Integrate"],
+        ["Waiting room and visit screens", "Yes", "Limited", "Build"],
+        ["Scheduling rules", "Yes", "EHR scheduling API", "Build, syncing with the EHR where possible"],
+        ["Prescribing, including controlled substances", "No", "Certified eRx vendor", "Integrate"],
+        ["State license routing", "Yes", "Rarely offered", "Build, rules approved by counsel"],
+        ["Clinical records", "No", "Your EHR via FHIR or vendor APIs", "Integrate, start read-first"],
+        ["Identity verification", "Basic checks only", "Identity vendor", "Integrate if your model requires it"],
+      ],
+    },
+    {
+      id: "timeline-phases",
+      eyebrow: "Timeline",
+      heading: "Telehealth app development timeline by phase",
+      note: "Typical durations for a first version. Vendor approvals can move the end date.",
+      columns: ["Phase", "What happens", "Typical duration", "Your team's input"],
+      rows: [
+        ["Discovery", "Visit lifecycle, vendor map, BAA checklist", "About 1 week", "Clinical lead, compliance lead"],
+        ["Prototype", "Clickable screens tested with clinicians and patients", "1–2 weeks", "Two clinicians for testing"],
+        ["Core build", "Patient app, provider dashboard, backend", "4–6 weeks", "Weekly build reviews"],
+        ["Integrations", "Video, reminders, EHR, eRx in sandbox then production", "2–4 weeks, overlapping", "Vendor contracts and approvals"],
+        ["Security and QA", "Scans, role tests, device tests, accessibility", "1–2 weeks", "Compliance sign-off"],
+        ["Pilot and launch", "Small clinician group, then store release", "1–2 weeks", "Pilot feedback"],
+      ],
+    },
+  ],
+  areas: {
+    eyebrow: "Virtual care across the US",
+    heading: "Where US practices ask about telehealth app development",
+    note: "We work remotely with practices and digital health startups in every state. These are examples of where virtual-care demand tends to shape the brief.",
+    cards: [
+      { name: "Texas", note: "Large distances between rural communities and major medical centers in Houston and Dallas make video follow-ups and specialist consults a common reason to build a telehealth app." },
+      { name: "Florida", note: "Seasonal residents and many older patients mean practices ask for simple onboarding, large text options and state-location checks when patients split time between states." },
+      { name: "California", note: "Digital health startups and large multi-location groups often need custom care models, Spanish-language screens with approved translations and careful privacy design." },
+      { name: "New York", note: "Specialty practices and behavioral health groups in the metro area often want branded apps that integrate with the EHR they already use rather than a separate tool." },
+      { name: "Colorado", note: "Mountain and rural communities make telehealth a practical access tool, especially for behavioral health groups seeing patients across neighboring states." },
+      { name: "Arizona", note: "Practices serving both large metros and remote areas often need audio-only fallbacks and reliable reconnection for patients on weaker mobile connections." },
+      { name: "Tennessee", note: "Nashville's healthcare industry includes many health-tech and services companies that commission platforms for multi-state provider networks." },
+      { name: "Massachusetts", note: "Academic medical centers and digital health startups around Boston tend to arrive with detailed security questionnaires and interoperability requirements." },
+      { name: "Minnesota", note: "Health systems and medical device companies here often look for remote monitoring combined with video visits, which calls for careful data flows." },
+      { name: "Georgia", note: "Atlanta's health-tech scene and a large rural population outside the metro create demand for both startup platforms and practice-level virtual visit tools." },
+      { name: "North Carolina", note: "Research Triangle startups and rural clinics alike ask for telehealth apps that work on modest phones and integrate with established EHR systems." },
+      { name: "Washington", note: "Seattle-area digital health teams frequently want asynchronous visits and messaging alongside video, built on cloud platforms their engineers already know." },
+      { name: "Pennsylvania", note: "Health systems around Pittsburgh and Philadelphia and independent practices elsewhere often need telehealth that fits existing scheduling and referral workflows." },
+      { name: "Utah", note: "Health-tech companies along the Wasatch Front often build care platforms for patients in many states, which makes license routing a core requirement." },
+    ],
+  },
+  process: {
+    heading: "How telehealth app development runs with us",
+    steps: [
+      ["Describe your visit flow", "Send a short description of how patients find you, book, meet and follow up today. We reply on WhatsApp with questions and a first view of what to build versus rent."],
+      ["Vendor map and quote", "Within about two working days you get an itemized USD quote plus a vendor and BAA checklist. Nothing is billed until you approve the quote in writing."],
+      ["Prototype with clinicians", "We build clickable screens for booking, the waiting room and the provider day, and two of your clinicians try them on their own devices before code starts."],
+      ["Build on synthetic data", "Patient app, dashboard and backend are built in your accounts against vendor sandboxes. You review a new build every week on a call in your morning."],
+      ["Integrate, test, pilot", "Video, reminders, EHR and eRx move to production under your BAAs. We run security, device and accessibility checks, then pilot with a small group."],
+      ["Launch and support", "Store release under your developer accounts, handover documents and admin training. Free fixes for five months, then optional support plans."],
+    ],
+  },
+  faqHeading: "Telehealth app development: questions US practices ask",
+  faqs: [
+    { question: "How much does telehealth app development cost?", answer: `With our team, a telehealth patient app for Android and iOS starts at ${P.app}, and a provider dashboard or complete platform starts at ${P.software}. Integrations such as EHR write-back, e-prescribing and multi-state license routing move the quote most. Video, messaging, hosting and eRx vendors bill your practice separately by usage or provider, and we estimate those costs in the quote.` },
+    { question: "How long does it take to build a telehealth app?", answer: "A first patient app with booking, intake and video visits usually takes six to ten weeks. A platform with a provider dashboard, admin console and EHR or e-prescribing integration takes six to twelve weeks for a first version. Vendor approvals, BAA signing and App Store review often decide the final date, so we start those in the first week." },
+    { question: "Is a telehealth app HIPAA compliant if the video vendor signs a BAA?", answer: "Not by itself. A BAA with the video vendor covers one component. Hosting, databases, messaging, file storage, e-prescribing and any SDK that can capture PHI also need attention, plus access controls, encryption, audit logs and your own policies. The app provides technical safeguards; compliance remains your practice's responsibility, confirmed with your counsel." },
+    { question: "Can we still use regular video apps for telehealth?", answer: "The pandemic-era relaxation has ended. A Federal Register notice confirmed that HHS Office for Civil Rights notifications of enforcement discretion expired with the public health emergency on May 11, 2023, with a 90-day transition for telehealth. Since then, practices should use video services that meet HIPAA requirements and offer a business associate agreement." },
+    { question: "Do you sign a BAA with our practice?", answer: "Our approach avoids the need for us to handle PHI at all: your practice signs BAAs directly with the video, hosting and messaging vendors, and we build and test with synthetic data. Production access stays with your staff. If your compliance lead wants something different for support access, raise it before the quote and it will be settled in writing." },
+    { question: "Can a telehealth app prescribe medication?", answer: "Yes, through a certified e-prescribing vendor embedded in the clinician's workflow. Controlled-substance prescribing software needs a third-party audit or DEA-approved certification under 21 CFR 1311.300, so practices should not build it themselves. The DEA and HHS have extended telemedicine prescribing flexibilities through December 31, 2026; your clinicians and counsel decide what is appropriate." },
+    { question: "How does a telehealth app handle state licensing?", answer: "It stores each clinician's licensed states and expiry dates, asks patients to confirm their location at booking and check-in, and only offers clinicians licensed where the patient is. Travelling patients are caught at check-in and routed to rescheduling. The rules come from a policy your healthcare attorney approves; the app enforces them consistently." },
+    { question: "Does the Interstate Medical Licensure Compact mean one license covers every state?", answer: "No. The IMLC Commission describes the compact as a voluntary, expedited pathway for qualified physicians to obtain licenses in multiple participating states. Each license is still issued by an individual state board. In a telehealth app, every state license remains a separate record with its own expiry date, used to route patients correctly." },
+    { question: "Can the telehealth app integrate with our EHR?", answer: "Usually, to some degree. Certified EHRs must support a FHIR-based API with SMART App Launch, which makes reading patient and appointment data practical. Writing notes, orders or appointments back depends on the EHR vendor's own APIs and approval process. We recommend starting with read access and document write-back, then going deeper once the workflow is proven." },
+    { question: "Should we build a telehealth app or use a white-label platform?", answer: "Use a white-label platform if you need visits running quickly and its workflow suits you. Build custom when state license routing, a novel care model, deep EHR workflow or your own brand in the app stores matters. Most custom builds still rent video, messaging and e-prescribing from specialist vendors and own only the experience and rules." },
+    { question: "Flutter or React Native for a telehealth app?", answer: "Both work well and both are supported by major video SDKs. React Native suits teams that already write React for the provider dashboard. Flutter is a strong choice for very consistent screens on older Android phones. We add a browser join link either way, because some patients will not install an app for one visit." },
+    { question: "What does a telehealth patient app need to include?", answer: "Account creation with multi-factor authentication, location confirmation, consent forms, intake questionnaires, booking with reminders, a device check and waiting room, the video visit with reconnect handling, an after-visit summary, secure messages and payment or insurance details. Start with the features your visit flow truly needs and add the rest after a pilot." },
+    { question: "How do you keep patient data out of push notifications and analytics?", answer: "Notifications carry neutral wording without service names or clinical details. Analytics and crash-reporting tools are either kept off logged-in screens, configured to scrub PHI, or removed entirely, and every SDK appears on a vendor map with a PHI assessment. Device storage is minimized and cleared on logout, and screenshots can be blocked on sensitive screens." },
+    { question: "Can you work on our telehealth app without seeing patient data?", answer: "Yes, and that is how we prefer to work. We develop against vendor sandboxes with synthetic patients, and your team handles production data. When a production issue needs investigating, your staff reproduce it with test accounts or share scrubbed logs. This keeps the number of people with PHI access small, which your compliance lead will appreciate." },
+    { question: "Who owns the telehealth app and its accounts?", answer: "Your practice does. You create the Apple and Google developer accounts, cloud account, video and messaging accounts and code repository, and invite us as collaborators. The app is published under your name. At handover you receive the vendor map, architecture notes, admin guide and credentials list, so switching developers later is straightforward." },
+    { question: "What does it cost to publish a telehealth app in the stores?", answer: "Apple states that the Apple Developer Program is 99 USD per membership year, and Google charges a one-time US$25 registration fee for a Play developer account. Your organization should enroll under its own legal name. Store review for health apps can ask for extra information, so we prepare privacy labels and reviewer notes carefully." },
+    { question: "Can a telehealth app support group therapy or family visits?", answer: "Yes. Video SDKs support multi-party sessions, so we can build group sessions with a clinician as host, or invite interpreters, caregivers and second clinicians with time-limited links. Group visits need extra care around consent, display names and who can see whom, so we design those rules with your clinical lead first." },
+    { question: "How do US practices work with a development team in India?", answer: "Most calls happen in US Eastern mornings, which are evenings in India, and new builds are ready to review the next day. We reply on WhatsApp seven days a week. Quotes and invoices are in USD, paid by wire, Wise or PayPal, and nothing is billed before written approval. There is no US office, so everything runs remotely." },
+    { question: "What happens after the telehealth app launches?", answer: `For five months after launch we fix anything we built that does not work as agreed at no charge. After that, optional support plans start at ${P.care} and cover OS updates, SDK upgrades, store resubmissions and small improvements. Vendor subscriptions continue under your accounts, and your team can switch providers at any time.` },
+    { question: "Do telehealth apps need to be accessible?", answer: "They should be. Patients with visual, hearing, motor or cognitive disabilities use telehealth heavily. We build with screen reader labels, large text support, sufficient contrast, captions where the video SDK supports them and a text chat for patients who cannot use audio, then test on real devices. Your counsel can advise on specific legal obligations for your organization." },
+    { question: "Can you also build our telehealth marketing website?", answer: `Yes. A public site that explains services, states served, visit types and how to book starts at ${P.site} and takes one to two weeks. We keep advertising and analytics tags off any page that collects patient information, and link booking straight into the app or web portal.` },
+  ],
+  related: {
+    heading: "Related pages for US healthcare builds",
+    links: [
+      { name: "HIPAA compliant app development", href: "/usa/hipaa-compliant-app-development/" },
+      { name: "HIPAA compliant website design", href: "/usa/hipaa-compliant-website-design/" },
+      { name: "Medical practice website design", href: "/usa/medical-practice-website-design/" },
+      { name: "Therapist website design", href: "/usa/therapist-website-design/" },
+      { name: "React Native app development", href: "/usa/react-native-app-development/" },
+      { name: "Flutter app development company", href: "/usa/flutter-app-development-company/" },
+      { name: "App development cost", href: "/usa/app-development-cost/" },
+      { name: "Customer portal development", href: "/usa/customer-portal-development/" },
+      { name: "Field service management app development", href: "/usa/field-service-app-development/" },
+      { name: "SaaS website design", href: "/usa/saas-website-design/" },
+      { name: "All services for US businesses", href: "/usa/" },
+      { name: "Hire Indian developers", href: "/hire-indian-developers/" },
+      { name: "Contact us", href: "/contact/" },
+    ],
+  },
+  cta: {
+    heading: "Tell us how your virtual visits should work",
+    note: "Send a short description of your visit flow, the states you serve and your EHR on WhatsApp. We reply with questions, then an itemized USD quote and vendor checklist in about two working days.",
+  },
+};
+
+export default content;

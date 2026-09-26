@@ -69,7 +69,7 @@ const content: FreelanceContent = {
     note: "An agent is a loop: read the situation, decide, call a tool, check the result, repeat. Each part of that loop is a separate piece of engineering with its own cost.",
     cards: [
       { name: "Tool and API integrations", note: "Every system the agent reads from or writes to: CRM, Google Sheets, Tally, email, WhatsApp, your database. Write access costs more than read access because each action needs validation and rollback.", href: "/website-crm-integration/", size: "lg" },
-      { name: "Guardrails and approvals", note: "Rules the agent cannot break, spending or discount limits, and human approval screens for risky steps like sending a quote or posting a bill. Often a quarter of the build on serious agents.", size: "lg" },
+      { name: "Guardrails and approvals", note: "Rules the agent cannot break, spending or discount limits, and human approval screens for risky steps like sending a quote or posting a bill. Often one of the larger lines on agents that touch money or customers.", size: "lg" },
       { name: "Evaluation and testing", note: "A test set built from your real past cases, scored automatically after every prompt or model change, so you know accuracy before customers do.", size: "md" },
       { name: "Prompt and reasoning design", note: "Instructions, examples and structured outputs that make the model decide consistently, plus fallbacks when it is unsure.", size: "md" },
       { name: "Knowledge and retrieval", note: "Connecting price lists, policies or past tickets so answers come from your data rather than the model’s guesswork.", href: "/rag-chatbot-development/", size: "md" },
@@ -190,7 +190,7 @@ const content: FreelanceContent = {
         { heading: "Tools", text: "Lead sources (website form, <a href='/facebook-lead-ads-integration/'>Facebook lead ads</a>, IndiaMART), WhatsApp Business API, CRM, calendar. Four integrations, two of them write actions." },
         { heading: "Guardrails", text: "Messages only within Meta’s template and opt-in rules; no price promises; any lead mentioning a complaint goes straight to a human." },
         { heading: "Evaluation", text: "Around 100 past leads labelled by the sales head as qualified or not, used to tune the scoring." },
-        { heading: "Where it lands", text: `A focused build like this starts from ${P.ai}, with WhatsApp conversation charges and model tokens billed to the installer’s own accounts. See our <a href='/ai-lead-qualification/'>AI lead qualification</a> page for the full design.` },
+        { heading: "Where it lands", text: `A focused build like this starts from ${P.ai}, with Meta’s WhatsApp message charges and model tokens billed to the installer’s own accounts. See our <a href='/ai-lead-qualification/'>AI lead qualification</a> page for the full design.` },
       ],
     },
     {
@@ -283,8 +283,8 @@ const content: FreelanceContent = {
       id: "across-india",
       heading: "AI agent development across India",
       paragraphs: [
-        `We build agents remotely for businesses anywhere in India at the same starting price, working over WhatsApp and video calls in English or Hindi. Payments are by UPI or bank transfer against a GST invoice; international clients pay in USD via Wise, wire or PayPal.`,
-        `Recent conversations have come from traders, clinics, manufacturers and service firms in <a href='/mumbai/'>Mumbai</a>, <a href='/gurgaon/'>Gurgaon</a>, <a href='/ahmedabad/'>Ahmedabad</a>, <a href='/hyderabad/'>Hyderabad</a>, <a href='/chennai/'>Chennai</a>, <a href='/kolkata/'>Kolkata</a>, <a href='/nagpur/'>Nagpur</a>, <a href='/vadodara/'>Vadodara</a>, <a href='/noida/'>Noida</a> and <a href='/bhubaneswar/'>Bhubaneswar</a>. The workflows differ, lead follow-up in one place and document handling in another, but the cost drivers above are the same everywhere.`,
+        `We build agents remotely for businesses anywhere in India at the same starting price, working over WhatsApp and video calls in English or Hindi. Payments are by UPI or bank transfer; international clients pay in USD via Wise, wire or PayPal.`,
+        `The same method suits traders, clinics, manufacturers and service businesses in <a href='/mumbai/'>Mumbai</a>, <a href='/gurgaon/'>Gurgaon</a>, <a href='/ahmedabad/'>Ahmedabad</a>, <a href='/hyderabad/'>Hyderabad</a>, <a href='/chennai/'>Chennai</a>, <a href='/kolkata/'>Kolkata</a>, <a href='/nagpur/'>Nagpur</a>, <a href='/vadodara/'>Vadodara</a>, <a href='/noida/'>Noida</a> and <a href='/bhubaneswar/'>Bhubaneswar</a>. The workflows differ, lead follow-up in one place and document handling in another, but the cost drivers above are the same everywhere.`,
       ],
     },
   ],
@@ -340,7 +340,7 @@ const content: FreelanceContent = {
     },
   ],
   areas: {
-    eyebrow: "Businesses asking about agents",
+    eyebrow: "AI agents by city",
     heading: "AI agents for businesses in these cities",
     note: "Agent builds are remote and priced the same everywhere. Each card notes the kind of workflow businesses in that city most often want automated.",
     cards: [
@@ -394,7 +394,7 @@ const content: FreelanceContent = {
     { question: "What maintenance does an AI agent need?", answer: `Maintenance is separate from the AI agent development cost. Agents drift as the world around them changes: a CRM field is renamed, a supplier changes invoice layout, a model version is retired. Maintenance means watching handover and error rates, updating connectors and prompts, and re-running the evaluation set. Our agents include 5 months of free maintenance, then plans from ${P.care}.` },
     { question: "Can you add an AI agent to our existing software?", answer: "Usually, yes, if the software has an API, a database we can safely access, or a reliable import and export route. We check this first, because it sets much of the AI agent development cost. Where no integration route exists, the agent can prepare work for a person to enter, which still saves time." },
     { question: "AI agent banwane ka kharcha kitna hai?", answer: `Ek kaam karne wala AI agent, jaise lead qualify karna ya invoice padhna, BtechWaleTech ke saath ${P.ai} se shuru hota hai aur 2–4 hafte lagte hain. Jitne zyada tools, approval steps aur testing, utna kharcha badhta hai. AI model ke token aur hosting ka bill alag se seedha aapke account mein aata hai.` },
-    { question: "How do I pay for an AI agent project?", answer: `In India, by UPI or bank transfer against a GST invoice. International clients pay in USD, from ${P.aiUsd} for an agent build, by Wise, bank wire or PayPal. Nothing is billed before you approve the written, itemised quote; milestone and other terms are set out in that quote and our published terms.` },
+    { question: "How do I pay for an AI agent project?", answer: `In India, by UPI or bank transfer. International clients pay in USD, from ${P.aiUsd} for an agent build, by Wise, bank wire or PayPal. Nothing is billed before you approve the written, itemised quote; milestone and other terms are set out in that quote and our published terms.` },
   ],
   related: {
     heading: "More on AI agents, automation and costs",

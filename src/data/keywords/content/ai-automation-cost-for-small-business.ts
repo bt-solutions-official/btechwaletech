@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "How much does AI automation cost for a small business?",
-    text: `AI automation cost for small business owners starts from ${P.ai} (${P.aiUsd}) per workflow with BtechWaleTech, such as reading supplier invoices into Tally or following up leads on WhatsApp, built in 2–4 weeks. On top sits a monthly running cost: hosting, AI model usage billed per token and messaging charges, paid directly to each provider. Most owners judge it by payback: build cost divided by monthly hours saved.`,
+    text: `AI automation cost for small business owners starts from ${P.ai} (${P.aiUsd}) per workflow with BtechWaleTech, such as reading supplier invoices into Tally or following up leads on WhatsApp, built in 2–4 weeks. On top sits a monthly running cost: hosting, AI model usage billed per token and messaging charges, paid directly to each provider. The fairest test is payback: build cost divided by the monthly value of hours saved, net of running costs.`,
     more: `Weighing automation against another hire? Read <a href='/ai-automation-vs-hiring-staff/'>AI automation vs hiring staff</a>, or see how we scope builds on the <a href='/ai-automation-freelancer/'>AI automation freelancer</a> page.`,
   },
   snapshot: {
@@ -64,9 +64,9 @@ const content: FreelanceContent = {
     ],
   },
   services: {
-    eyebrow: "Workflows small businesses ask us to price",
+    eyebrow: "Workflows worth pricing first",
     heading: "Seven automations where AI earns back its cost fastest",
-    note: "Each card is a separate workflow with its own build line. Owners usually start with one, measure the hours it saves, then decide on the next.",
+    note: "Each card is a separate workflow with its own build line. Starting with one, measuring the hours it saves and only then choosing the next keeps the risk small.",
     cards: [
       { name: "Invoice and bill reading", note: `Supplier invoices arriving as PDFs or phone photos are read, checked against the purchase order and pushed into your accounts software. A single-format version starts from ${P.ai}.`, href: "/invoice-processing-automation/", size: "lg" },
       { name: "Lead follow-up", note: "New enquiries from your website, Facebook or IndiaMART get an instant reply, a qualifying question and a reminder to your salesperson if nobody responds.", href: "/ai-lead-qualification/", size: "lg" },
@@ -147,7 +147,7 @@ const content: FreelanceContent = {
       heading: "Email triage with AI: a low-cost first automation",
       paragraphs: [
         `Email triage is often the cheapest first project because the input is already text and mistakes are easy to catch: a wrongly labelled email is still in the inbox. It suits businesses where one shared address receives orders, complaints, supplier mail and spam all mixed together.`,
-        `A triage workflow reads each new email, decides its category and urgency, extracts key details such as order number or customer name, assigns it to a person and optionally drafts a reply for that person to edit and send. We almost never let it send replies unsupervised at first. After a few weeks, when you have seen which categories it handles well, you can let routine confirmations go out automatically and keep everything else in draft.`,
+        `A triage workflow reads each new email, decides its category and urgency, extracts key details such as order number or customer name, assigns it to a person and optionally drafts a reply for that person to edit and send. At first it stays in draft mode, so nothing reaches a customer without a person pressing send. After a few weeks, when you have seen which categories it handles well, you can let routine confirmations go out automatically and keep everything else in draft.`,
         `Things that raise the build cost: pulling live data into replies (order status from your ecommerce backend, stock from your inventory tool), handling attachments, supporting Hindi and English mixed in the same thread, and routing rules that depend on the customer's history. Things that keep it low: a single mailbox, five to eight clear categories and replies drafted from a short set of approved templates.`,
         `Running costs for triage are usually modest because emails are short. The main variable is how much text the model reads per email; long threads with quoted history cost more per message than a fresh enquiry, so we trim quoted text before sending it to the model.`,
       ],
@@ -166,7 +166,7 @@ const content: FreelanceContent = {
       heading: "Tool subscriptions vs self-hosted n8n: which lowers AI automation cost for small business owners?",
       paragraphs: [
         `For a small business running more than a handful of workflows at meaningful volume, self-hosted n8n is usually cheaper to run than a per-task subscription, because you pay for a small server rather than for each task. For one or two light workflows, a subscription tool's free or entry plan can be cheaper and simpler.`,
-        `n8n's own documentation lists a free Community edition for self-hosting, with almost the complete feature set; a few features such as single sign-on and multiple environments sit in paid editions. Self-hosting means n8n runs on a server in your cloud account, and your monthly bill is that server plus backups, whatever the number of runs. Subscription tools such as Zapier or Make charge by plan, and plans are sized by the number of tasks or operations each month, so cost grows with volume.`,
+        `n8n's own documentation lists a free Community edition for self-hosting, with almost the complete feature set; a few features such as single sign-on and multiple environments sit in paid editions. Self-hosting means n8n runs on a server in your cloud account, and your monthly bill is that server plus backups, whatever the number of runs. Subscription tools meter usage instead: Zapier's pricing page sizes plans by monthly tasks, and Make has billed in credits since August 2025, with most actions using one credit. n8n's own cloud plans are priced by monthly workflow executions. In each case the bill grows with volume.`,
         `The trade-off is responsibility. Somebody has to keep a self-hosted server updated, backed up and monitored. We set that up, and it is covered during the 5 free maintenance months, but after that it is either part of a maintenance plan or a job for your own team. A subscription tool handles all of that for you.`,
         `Our rule of thumb: if your workflows will run thousands of times a month, touch customer data you would rather keep on your own server, or need custom code steps, go self-hosted. If you have one simple connection that runs a few dozen times a month, stay on a subscription. See <a href='/n8n-automation-expert/'>n8n automation</a>, <a href='/zapier-automation-expert/'>Zapier automation</a> and <a href='/make-com-expert/'>Make.com automation</a> for platform-specific detail.`,
       ],
@@ -176,7 +176,7 @@ const content: FreelanceContent = {
       heading: "How are AI API usage costs calculated inside your monthly AI automation cost?",
       paragraphs: [
         `AI model providers bill by tokens, which are small chunks of text, with input (what you send) and output (what the model writes) priced separately. Your monthly API cost is roughly the number of runs multiplied by the tokens used per run, multiplied by the provider's rate for the model you pick.`,
-        `Anthropic's published pricing documentation is a clear example of how this works: prices are quoted per million tokens, input and output have different rates, and one token is roughly four characters or three-quarters of an English word. It also offers a Batch API at a 50% discount on both input and output tokens for work that does not need an instant answer. Other major providers follow broadly the same per-token model, and all of them bill in US dollars.`,
+        `Anthropic's published pricing documentation is a clear example of how this works: prices are quoted per million tokens, input and output have different rates, and one token is roughly four characters or three-quarters of an English word. It also offers a Batch API at a 50% discount on both input and output tokens for work that does not need an instant answer, and all its payments are in US dollars. Other major providers also publish per-token rates, so check each one's current price page and billing currency before comparing.`,
         `What this means for your budget:`,
       ],
       list: [
@@ -184,7 +184,7 @@ const content: FreelanceContent = {
         "<strong>Long documents cost more.</strong> A ten-page contract read in full costs many times a one-page invoice.",
         "<strong>Model choice matters a lot.</strong> Small, fast models handle sorting and extraction well; larger models are reserved for steps that need reasoning.",
         "<strong>Overnight work can be batched.</strong> Reports and bulk document reading that can wait a few hours qualify for batch discounts where offered.",
-        "<strong>Caching repeated instructions</strong> reduces the cost of sending the same long prompt with every run, on providers that support it.",
+        "<strong>Caching repeated instructions</strong> cuts the cost of resending the same long prompt; Anthropic, for one, bills cache hits at a small fraction of the normal input rate.",
       ],
       after: [
         "In every estimate we calculate expected monthly token use from your real volumes and list it next to the build price, so the running cost is never a surprise.",
@@ -194,7 +194,7 @@ const content: FreelanceContent = {
       id: "payback-maths",
       heading: "How do you calculate payback on AI automation cost for a small business?",
       paragraphs: [
-        `When you judge AI automation cost for small business work, payback period in months equals the build cost divided by the monthly saving, where the monthly saving is the value of hours saved minus the new monthly running cost. If that result is under twelve months, most small business owners treat the automation as clearly worth doing.`,
+        `Payback period in months equals the build cost divided by the monthly saving, where the monthly saving is the value of hours saved minus the new monthly running cost. A result under twelve months is easy to justify for most small firms; beyond two years, question whether the task is worth automating at all.`,
         `Here is the worksheet we fill in with you, using your own figures:`,
       ],
       list: [
@@ -242,7 +242,7 @@ const content: FreelanceContent = {
       id: "hidden-costs",
       heading: "Hidden items in AI automation cost for small business budgets",
       paragraphs: [
-        `In AI automation cost for small business projects, the items owners most often miss are data cleanup, exception handling, staff time during the trial period and the monthly running bill creeping up as volume grows. None of them is large on its own, but together they explain why some AI automation projects disappoint.`,
+        `The items that are easiest to miss in a small business automation budget are data cleanup, exception handling, staff time during the trial period and the monthly running bill creeping up as volume grows. None of them is large on its own, but together they explain why some AI automation projects disappoint.`,
       ],
       list: [
         "<strong>Messy master data.</strong> If your supplier list has the same party under three spellings, the workflow cannot match invoices reliably until someone cleans it.",
@@ -288,9 +288,9 @@ const content: FreelanceContent = {
       id: "timeline",
       heading: "How long does it take to build one AI automation workflow?",
       paragraphs: [
-        `One workflow takes 2–4 weeks with us, from mapping the task to a supervised live run, and that build time is already inside the AI automation cost for small business owners we quote. Simple email triage sits at the short end; document reading with many layouts sits at the long end, mostly because of testing against real samples.`,
+        `One workflow takes 2–4 weeks with us, from mapping the task to a supervised live run, and the quoted build price already covers that whole period. Simple email triage sits at the short end; document reading with many layouts sits at the long end, mostly because of testing against real samples.`,
         `A typical three-week build. Days 1–3: we watch or record how the task is done today, collect twenty to fifty real samples (anonymised where needed) and agree the rules. Days 4–10: we build the workflow in n8n or code, connect your systems and test against the samples. Days 11–15: a shadow run, where the workflow processes live inputs but a person still does the task normally and compares results. Days 16–21: switch-over with a review queue, tuning of rules and prompts, and handover.`,
-        `The shadow run is not optional in our process. It is the cheapest way to find the cases nobody mentioned in the first call, and it builds trust with the staff who will live with the workflow. Owners sometimes want to skip it to save a week; it almost always costs more later.`,
+        `The shadow run is not optional in our process. It is the cheapest way to find the cases nobody mentioned in the first call, and it builds trust with the staff who will live with the workflow. Skipping it saves a week on paper but moves the discovery of odd cases to live customers.`,
         `Running several workflows? We usually build them in sequence rather than in parallel, so lessons from the first (data quality, approval habits) shape the second. For a wider automation programme, see <a href='/business-process-automation/'>business process automation</a>.`,
       ],
     },
@@ -331,7 +331,7 @@ const content: FreelanceContent = {
       heading: "AI automation for small businesses across India",
       paragraphs: [
         `We build AI automation remotely for small businesses in every part of India, and the AI automation cost for small business owners is the same wherever you are, because the work happens over WhatsApp, video calls and your own cloud accounts. What varies by city is which workflow comes first.`,
-        `Trading and distribution businesses in <a href='/delhi/'>Delhi</a>, <a href='/ahmedabad/'>Ahmedabad</a> and <a href='/kolkata/'>Kolkata</a> usually start with order and invoice reading. Service businesses in <a href='/mumbai/'>Mumbai</a> and <a href='/bengaluru/'>Bengaluru</a> often begin with lead follow-up and inbox triage. Accountants and tax consultants in <a href='/indore/'>Indore</a> and <a href='/nagpur/'>Nagpur</a> ask for document intake. Manufacturers in <a href='/coimbatore/'>Coimbatore</a> and <a href='/ludhiana/'>Ludhiana</a> want purchase order processing, and coaching institutes in <a href='/jaipur/'>Jaipur</a> and <a href='/patna/'>Patna</a> want enquiry follow-up during admission season.`,
+        `Trading and distribution businesses in <a href='/delhi/'>Delhi</a>, <a href='/ahmedabad/'>Ahmedabad</a> and <a href='/kolkata/'>Kolkata</a> usually start with order and invoice reading. Service businesses in <a href='/mumbai/'>Mumbai</a> and <a href='/bengaluru/'>Bengaluru</a> often begin with lead follow-up and inbox triage. Accountants and tax consultants in <a href='/indore/'>Indore</a> and <a href='/nagpur/'>Nagpur</a> gain most from document intake. Manufacturers in <a href='/coimbatore/'>Coimbatore</a> and <a href='/ludhiana/'>Ludhiana</a> want purchase order processing, and coaching institutes in <a href='/jaipur/'>Jaipur</a> and <a href='/patna/'>Patna</a> want enquiry follow-up during admission season.`,
         `Workflows can reply to customers in English, Hindi or a mix, and we write messages in the tone your customers already expect from you. We do not visit offices; a short screen recording of the task as it is done today tells us most of what we need.`,
       ],
     },
@@ -361,9 +361,9 @@ const content: FreelanceContent = {
       note: `Platform choice changes the monthly bill more than the build price. See <a href='/n8n-automation-expert/'>n8n automation</a> for self-hosting detail.`,
       columns: ["Option", "Monthly cost shape", "Good for", "Watch out for"],
       rows: [
-        ["Subscription tool (Zapier, Make)", "Plan fee sized by tasks or operations", "One or two light workflows", "Cost rises with every extra run"],
+        ["Subscription tool (Zapier, Make)", "Plan fee sized by tasks (Zapier) or credits (Make)","One or two light workflows", "Cost rises with every extra run"],
         ["Self-hosted n8n Community edition", "Your server and backups; no per-run fee", "Several workflows, higher volume, sensitive data", "Someone must maintain the server"],
-        ["n8n paid cloud plan", "Plan fee from n8n", "Teams that want n8n without a server", "Execution limits per plan"],
+        ["n8n paid cloud plan", "Plan fee from n8n", "Teams that want n8n without a server", "Monthly execution allowance per plan"],
         ["Custom code on your cloud", "Server plus usage", "Unusual logic or very high volume", "Changes need a developer"],
         ["Inside your existing web app", "Shared with the app's hosting", "When the app already holds the data", "Couples automation to the app's releases"],
       ],
@@ -380,7 +380,7 @@ const content: FreelanceContent = {
         ["C. Cost per staff hour", "Monthly cost ÷ working hours", "Your payroll", "Include overtime in peak weeks"],
         ["D. Monthly running cost", "Hosting + AI + messaging", "Our written estimate", "Check again after the first month"],
         ["Monthly saving", "(A × B × C) − D", "Calculated", "Should be clearly positive"],
-        ["Payback months", "Build cost ÷ monthly saving", "Calculated", "Under 12 months is a common threshold"],
+        ["Payback months", "Build cost ÷ monthly saving", "Calculated", "Under 12 months is easy to justify"],
       ],
     },
   ],

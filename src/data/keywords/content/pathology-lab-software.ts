@@ -207,7 +207,7 @@ const content: FreelanceContent = {
       id: "home-collection",
       heading: "Home collection and the phlebotomist’s phone",
       paragraphs: [
-        `Home collection is now a large share of many labs’ business, and it works best when the phlebotomist carries the pathology lab software in a simple app.`,
+        `If your lab offers home collection, it runs smoothest when the phlebotomist carries the pathology lab software in a simple app.`,
         `The app shows the day’s bookings in route order, the tests and container list per patient, and the fasting instructions sent the day before. At the door, the phlebotomist prints or attaches pre-printed labels, confirms collection with a photo or signature, takes payment by UPI and marks each sample. The lab sees samples in transit before they arrive, and patients get a WhatsApp message that collection is done.`,
         `Bookings come from your website, a call centre or WhatsApp. The public side, test menu with prices, pincode check and slot booking, belongs on your website and is covered on <a href='/diagnostic-centre-website-design/'>diagnostic centre website design</a>. The app is built with Flutter or React Native and published in your own Play Console and App Store Connect accounts, starting at ${P.app}.`,
       ],
@@ -242,7 +242,7 @@ const content: FreelanceContent = {
       heading: "Report security, patient privacy and the DPDP Act",
       paragraphs: [
         `Lab reports are health data, so pathology lab software should treat access to them as carefully as the samples themselves.`,
-        `The Digital Personal Data Protection Act, 2023 governs digital personal data, and the DPDP Rules were notified on 14 November 2025 with obligations phased in over eighteen months, according to the Press Information Bureau. In practice labs need a clear notice at registration, consent for things like sharing reports with a referring doctor, and a way to correct records.`,
+        `The Digital Personal Data Protection Act, 2023 governs digital personal data, and the DPDP Rules, notified in November 2025, phase its obligations in over the following eighteen months. In practice labs need a clear notice at registration, consent for things like sharing reports with a referring doctor, and a way to correct records.`,
         `We build role-based access (a collection centre sees its own patients, not the whole lab), audit logs on every edit and release, encrypted connections, report links that expire, and daily backups in your own cloud account with a tested restore. We build the controls; your lawyer approves the wording of notices and consents.`,
       ],
     },
@@ -251,7 +251,7 @@ const content: FreelanceContent = {
       heading: "Linking lab reports to ABHA",
       paragraphs: [
         `ABDM lets a lab share reports into a patient’s ABHA-linked health locker, and it is optional for most private labs. It is worth considering if your referring hospitals or patients ask for it.`,
-        `The lab registers on the Health Facility Registry, and the pathology lab software is integrated with ABDM through the sandbox and approval steps. Then, with the patient’s consent, released reports can be linked to their ABHA. A PIB release from the National Health Authority describes the Digital Health Incentive Scheme, which has included diagnostic labs; check abdm.gov.in for whether it is open and on what terms before counting on it.`,
+        `The lab registers on the Health Facility Registry, and the pathology lab software is integrated with ABDM through the sandbox and approval steps. Then, with the patient’s consent, released reports can be linked to their ABHA. The National Health Authority’s Digital Health Incentive Scheme has covered diagnostic labs as well as hospitals and clinics; check abdm.gov.in for whether it is open and on what terms before counting on it.`,
         `We handle the technical integration and testing; the registrations are yours. If your clinics also want ABHA features, the clinic side is covered on <a href='/clinic-management-software/'>clinic management software</a>.`,
       ],
     },
@@ -291,7 +291,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Everything we do is remote: requirement calls on video, test systems on your own screens, analyzer work through a remote session on the lab PC, and support on WhatsApp. We do not visit labs, wire analyzers or supply hardware; your staff or analyzer engineer handles the physical connections with our guidance.`,
         `Labs in <a href='/varanasi/'>Varanasi</a>, <a href='/patna/'>Patna</a>, <a href='/surat/'>Surat</a>, <a href='/visakhapatnam/'>Visakhapatnam</a>, <a href='/mysore/'>Mysore</a>, <a href='/kanpur/'>Kanpur</a>, <a href='/ranchi/'>Ranchi</a>, <a href='/agra/'>Agra</a>, <a href='/thrissur/'>Thrissur</a> and <a href='/bhubaneswar/'>Bhubaneswar</a> work with the same process and starting prices. City pages describe the wider business context there.`,
-        `Invoices go out by UPI or bank transfer terms agreed in the quote. If your lab also wants to rank for test searches in its city, see <a href='/services/seo-services/'>SEO services</a>, starting at ${P.seo}, with the honest caveat that no one can guarantee positions.`,
+        `Payment is by UPI or bank transfer, on the schedule set out in your quote. If your lab also wants to rank for test searches in its city, see <a href='/services/seo-services/'>SEO services</a>, starting at ${P.seo}, with the honest caveat that no one can guarantee positions.`,
       ],
     },
   ],
@@ -400,7 +400,7 @@ const content: FreelanceContent = {
     { question: "Can you move our data from our current lab software?", answer: "Usually, if your current vendor provides an export of patients, tests and results, typically as CSV or a database backup. We map test codes, clean duplicate patients and import the history so previous results appear for delta checks and report comparisons. Check your current plan’s export terms early; they decide what can be moved." },
     { question: "Can the lab link reports to a patient’s ABHA?", answer: "Yes, if the lab registers on the Health Facility Registry and the software completes ABDM integration and testing. With the patient’s consent, released reports can then be linked to their ABHA health locker. It is optional for most private labs. Check abdm.gov.in for the current status of incentive schemes before planning around them." },
     { question: "What happens after the free maintenance period?", answer: `The first five months after go-live cover fixes, test code mapping changes and small layout edits at no charge. After that, maintenance is optional from ${P.care}, covering updates, backups, security patches and small changes. New analyzer interfaces or modules are quoted separately. You can also hand the code to another developer.` },
-    { question: "How do payments work for a lab software project?", answer: "You get an itemised written quote first and nothing is billed before you approve it. Payments are in stages tied to working software you can test, by UPI or bank transfer within India. Scope, milestones and ownership are written into the quote, and any NDA or additional terms are agreed in writing before work starts." },
+    { question: "How do payments work for a lab software project?", answer: "You get an itemised written quote first and nothing is billed before you approve it. Payments within India are by UPI or bank transfer, on the schedule written into your quote. Scope, milestones and ownership are written into the quote, and any NDA or additional terms are agreed in writing before work starts." },
     { question: "Will a website help my lab get more test bookings?", answer: `A fast website with a searchable test menu, prices, home collection booking by pincode and a Google Business Profile link helps people find and book your lab. Such sites start at ${P.site}, and ongoing local SEO starts at ${P.seo}. The booking can feed straight into your lab software. Nobody can honestly guarantee search rankings.` },
     { question: "Lab ke liye software khud ka banwana chahiye ya ready-made lena chahiye?", answer: `Agar aapki ek hi lab hai, analyzers common hain aur report format simple hai, toh ready-made software se shuru kijiye. Agar kai collection centres hain, har centre ka rate alag hai, ya analyzer ka result abhi bhi haath se type ho raha hai, toh apna pathology lab software behtar hai. Hamare saath build ${P.software} se shuru hota hai.` },
   ],

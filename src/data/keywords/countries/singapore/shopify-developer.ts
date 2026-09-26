@@ -25,8 +25,8 @@ const content: FreelanceContent = {
   },
   hero: {
     eyebrow: "Singapore · Shopify developer · Remote team in India",
-    h1: "Shopify developer for Singapore stores: SGD checkout, PayNow, GST and delivery set up properly",
-    lede: `A Shopify developer for a Singapore store has to get more than the theme right: cards in SGD, PayNow through a third-party provider, GST-inclusive prices, islandwide delivery and self-collection all have to work on the first order. BtechWaleTech is three freelance developers in India who build and look after Shopify stores for <a href='/singapore/'>Singapore brands</a>, with store builds starting at ${P.shop}. Below is exactly how a remote team handles each of those pieces, and where it does not fit.`,
+    h1: "Shopify developer Singapore merchants can hire remotely: SGD checkout, PayNow, GST and delivery done properly",
+    lede: `Searching for a Shopify developer Singapore shoppers will trust at checkout means looking past the theme: cards in SGD, PayNow through a third-party provider, GST-inclusive prices, islandwide delivery and self-collection all have to work on the first order. BtechWaleTech is three freelance developers in India who build and look after Shopify stores for <a href='/singapore/'>Singapore brands</a>, with store builds starting at ${P.shop}. Below is exactly how a remote team handles each of those pieces, and where it does not fit.`,
     pills: ["Shopify stores from " + P.shop, "Online Store 2.0 custom themes", "PayNow via a provider app", "GST-inclusive price display", "Courier and pickup setup", "Store owned by you", "Collaborator access only"],
     origin: "Three freelance developers in India · Shopify builds for Singapore merchants · WhatsApp 7 days a week",
   },
@@ -104,7 +104,7 @@ const content: FreelanceContent = {
       heading: "Can a Shopify developer outside Singapore build a store that works for Singapore shoppers?",
       paragraphs: [
         `Yes. Shopify is a hosted platform, so the developer's location affects meetings and time zones, not the store itself. What matters is whether the Shopify developer understands how Singapore shoppers pay, what they expect from delivery and how GST must be shown.`,
-        `Those details are where many generic builds fall short. A theme can look perfect in a demo and still ship with USD prices, no PayNow option, no self-collection and a checkout that asks for a state field nobody in Singapore fills in. Each of those costs orders. Our build checklist for Singapore covers them before design polish begins.`,
+        `Those details are where many generic builds fall short. A theme can look perfect in a demo and still ship with USD prices, no PayNow option, no self-collection and shipping rates that ignore postal-code zones. Each of those costs orders. Our build checklist for Singapore covers them before design polish begins.`,
         `Where a remote team does not fit: if you need someone to photograph products in your warehouse, train cashiers on Shopify POS hardware in person, or sit in weekly meetings at your office, hire locally. We are three developers working from India, and we are honest about that boundary.`,
       ],
     },
@@ -183,7 +183,7 @@ const content: FreelanceContent = {
       heading: "Custom Online Store 2.0 theme work: what a Shopify developer should build",
       paragraphs: [
         `Online Store 2.0 lets your team add and reorder sections on any page, not just the home page, and lets apps insert blocks without editing theme code. A Shopify developer should build with that model rather than against it, so your marketing staff can launch a campaign page without calling anyone.`,
-        `In practice we start from Shopify's Dawn reference theme or a well-built paid theme, then add custom sections for your brand: a lookbook, a comparison block, an ingredient panel driven by metafields, a store-locator section. Code is kept in Git and deployed with Shopify CLI, so changes can be reviewed and rolled back. Theme Check catches common Liquid errors before they reach the live store.`,
+        `In practice we start from one of Shopify's free reference themes, such as Dawn, or a well-built paid theme, then add custom sections for your brand: a lookbook, a comparison block, an ingredient panel driven by metafields, a store-locator section. Code is kept in Git and deployed with Shopify CLI, so changes can be reviewed and rolled back. Theme Check catches common Liquid errors before they reach the live store.`,
       ],
       subs: [
         { heading: "When a paid theme is enough", text: "You sell a simple catalogue, the theme's demo already matches your brand, and you only need colours, fonts and a few section tweaks." },
@@ -205,8 +205,8 @@ const content: FreelanceContent = {
       heading: "How many Shopify apps should a Singapore store run?",
       paragraphs: [
         `As few as do the job. Every app adds a monthly fee, a privacy question and often a script on every page. A tidy Singapore store usually needs a payment provider app, a courier or shipping app, a reviews app, an email or SMS tool and perhaps an accounting sync.`,
-        `When stores come to us for speed work, the cause is often apps that were uninstalled but left code behind in the theme, or three apps doing overlapping jobs. We audit installed apps, remove leftovers and replace simple features, such as a size-chart popup, with a theme section that costs nothing monthly. For anything that stores customer data, we note where that data goes so your PDPA notice stays accurate.`,
-        `A useful habit is a quarterly app review. List every installed app, what it costs per month, which page it loads on and whether anyone on your team still uses it. Stores that do this rarely end up paying for three review widgets or two abandoned-cart tools. We run that review as part of maintenance, and the output is a short table you can act on without needing to read theme code.`,
+        `A slow Shopify store frequently traces back to apps that were uninstalled but left code behind in the theme, or to several apps doing overlapping jobs. We audit installed apps, remove leftovers and replace simple features, such as a size-chart popup, with a theme section that costs nothing monthly. For anything that stores customer data, we note where that data goes so your PDPA notice stays accurate.`,
+        `A useful habit is a quarterly app review. List every installed app, what it costs per month, which page it loads on and whether anyone on your team still uses it. Stores that do this rarely end up paying for three review widgets or two abandoned-cart tools. We can run that review for you during maintenance, and the result is a short table you can act on without reading theme code.`,
       ],
       subs: [
         { heading: "Keep as an app", text: "Payment providers, courier label creation, subscriptions, accounting sync and email marketing, where the app maintains an integration you would not want to rebuild." },
@@ -260,7 +260,7 @@ const content: FreelanceContent = {
         "Store currency SGD; prices entered GST-inclusive if you are GST-registered",
         "Card, Apple Pay, Google Pay and PayNow each tested with a real order and refund",
         "Delivery rates, same-day cut-off and self-collection all appear correctly",
-        "Address form collects block and unit number; state field removed where possible",
+        "Checkout address line prompts for block and unit number; postal-code zones tested",
         "Policy pages: refunds, shipping, privacy with a data-protection contact, terms",
         "Order, shipping and pickup emails branded and checked for GST wording",
         "Google Search Console verified, sitemap submitted, redirects tested",

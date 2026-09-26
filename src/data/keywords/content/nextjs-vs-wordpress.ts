@@ -132,7 +132,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Next.js can serve each page in the way that suits it: fully static at build time, rendered on the server per request, or regenerated in the background after a set interval. That flexibility is one of its main advantages over a classic WordPress setup, where PHP builds pages on request unless a cache stores them.`,
         `The Next.js documentation describes Incremental Static Regeneration as a way to update static content without rebuilding the entire site, serving pre-rendered pages for most requests. In practice, a page such as a product or service listing is cached, and after the interval you choose, the next visitor triggers a fresh version in the background. The docs also note that ISR needs the Node.js runtime and is not available in a pure static export, which affects where you can host.`,
-        `For a typical business site we often choose static export: every page becomes plain HTML and hosting is cheap and simple. For sites with frequently changing content, such as listings or prices, we use ISR or on-demand revalidation triggered when an editor hits publish in the CMS.`,
+        `For a typical business site our default is static export: every page becomes plain HTML and hosting is cheap and simple. For sites with frequently changing content, such as listings or prices, we use ISR or on-demand revalidation triggered when an editor hits publish in the CMS.`,
       ],
     },
     {
@@ -158,7 +158,7 @@ const content: FreelanceContent = {
         { heading: "WordPress", text: "Shared hosting is cheap but often slow; managed WordPress hosting costs more and handles updates and caching. Add backups, a CDN and perhaps a security service." },
         { heading: "Headless setups", text: "You pay for two things: the CMS (hosted plan or self-hosted) and the front-end host. Worth it for speed and editor experience, but budget for both." },
       ],
-      after: [`Santosh sets up hosting in your own AWS or other cloud account so you see every bill directly. We never resell hosting.`],
+      after: [`Santosh sets up hosting in your own AWS or other cloud account so every bill comes to you straight from the provider.`],
     },
     {
       id: "dependency",
@@ -220,7 +220,7 @@ const content: FreelanceContent = {
       heading: "Custom features: forms, bookings, ecommerce and integrations",
       paragraphs: [
         `If the site needs features beyond content, Next.js handles them more cleanly because they are written as part of the app; WordPress relies on plugins that can overlap, conflict or be abandoned by their authors.`,
-        `Examples we see often: a booking form that checks availability against a calendar; a price calculator; a dealer locator; a customer login to download invoices; a quote builder that emails a PDF. In Next.js each is a component and an API route, tested with the rest of the site. In WordPress each is usually a plugin plus configuration, sometimes with custom code on top.`,
+        `Common examples: a booking form that checks availability against a calendar; a price calculator; a dealer locator; a customer login to download invoices; a quote builder that emails a PDF. In Next.js each is a component and an API route, tested with the rest of the site. In WordPress each is usually a plugin plus configuration, sometimes with custom code on top.`,
         `For online stores, WooCommerce on WordPress is mature and a sensible choice for many shops. A custom Next.js storefront suits brands that need unusual checkout flows or very fast product pages; our stores start at ${P.shop}. If the feature list starts to look like software, a custom <a href='/web-application-developer/'>web application</a> from ${P.software} is the honest recommendation.`,
       ],
     },
@@ -315,7 +315,7 @@ const content: FreelanceContent = {
         ["Build", "4–6 days", "5–7 days", "Send final text and photos"],
         ["CMS setup and training", "Included in build", "1–2 days if headless", "Try editing a page"],
         ["SEO, speed, testing", "1–2 days", "1–2 days", "One consolidated round of changes"],
-        ["Launch and handover", "1 day", "1 day", "Approve and pay the balance"],
+        ["Launch and handover", "1 day", "1 day", "Approve the go-live"],
       ],
       hideSm: [3],
     },

@@ -28,7 +28,7 @@ const content: FreelanceContent = {
     eyebrow: "Local SEO services · for Australian service-area businesses",
     h1: "Local SEO services in Australia for businesses that travel to their customers",
     lede: `Local SEO services in Australia should get your business into the Google map pack and the plain results below it for the suburbs you actually drive to, then prove it with calls and booked jobs. BtechWaleTech is three freelance developers in India who handle the whole local stack: a Google Business Profile set up correctly with a hidden address, suburb pages written to help rather than spam, Australian directory listings, a review routine that stays inside ACCC rules, and call tracking. Monthly local SEO starts from ${P.seo}.`,
-    pills: ["Map pack and organic", "Hidden-address profiles", "Suburb pages, not doorways", "AU citation clean-up", "ACCC-safe review requests", "Calls tracked to jobs", "No lock-in wording"],
+    pills: ["Map pack and organic", "Hidden-address profiles", "Suburb pages, not doorways", "AU citation clean-up", "ACCC-safe review requests", "Calls tracked to jobs", "Accounts stay in your name"],
     origin: "Three freelance developers in India · reports in your inbox, WhatsApp 7 days a week",
   },
   facts: [
@@ -79,7 +79,7 @@ const content: FreelanceContent = {
   },
   comparison: {
     heading: "Three ways Australian service businesses buy local leads",
-    note: "Most owners we speak with have tried at least one of these. The difference shows up in who owns the leads and what happens when you stop paying.",
+    note: "A service-area business can buy leads in more than one way. The real difference shows up in who owns the leads and what happens on the day you stop paying.",
     columns: ["Question", "Capital-city SEO agency", "Pay-per-lead directory", "BtechWaleTech local SEO"],
     rows: [
       ["What you pay for", "A monthly retainer, often with a minimum term", "Each lead or credit, whether it books or not", `Monthly work from ${P.seo}, itemised`],
@@ -128,7 +128,7 @@ const content: FreelanceContent = {
       heading: "Setting up a Google Business Profile when you hide your address",
       paragraphs: [
         `If customers do not visit you, Google's own guidelines say you should hide your business address and set a service area instead. Many Australian tradies skip this and show a home address, which invites strangers to the front door and can confuse the listing.`,
-        `Google's guidelines for service-area businesses also say the overall service area should not extend farther than about two hours of driving time from where the business is based, and that a virtual office cannot be listed unless it is staffed during business hours. A Gold Coast electrician who wants to appear across Brisbane can include the southern suburbs within that radius, but listing Cairns would breach the guideline and achieve nothing.`,
+        `Google's guidelines for service-area businesses also say the overall service area should not extend farther than about two hours of driving time from where the business is based, and that a rented mailing address you do not operate from, often called a virtual office, is not eligible for a profile at all. A Gold Coast electrician who wants to appear across Brisbane can include the southern suburbs within that radius, but listing Cairns would breach the guideline and achieve nothing.`,
         `When we set up or repair a profile for a service-area client, we work through a fixed order. Categories first, because they drive relevance. Then service areas by suburb or local government area. Then services with short descriptions, opening hours including after-hours if you genuinely answer, and photos of real jobs, vans and staff rather than stock images.`,
         `Verification is handled by you, because Google sends codes or video checks to the owner. We guide you through it on a call. Your login stays as the primary owner and we are added as a manager, so removing us later takes one click. The source is Google's <a href='https://support.google.com/business/answer/3038177' rel='noopener'>guidelines for representing your business</a>.`,
       ],
@@ -264,8 +264,8 @@ const content: FreelanceContent = {
       heading: "Working with a local SEO team in India from Australia",
       paragraphs: [
         `You work directly with three freelance developers over WhatsApp, email and video calls in your afternoon, which is our morning in India. There is no Australian office and nobody visits your premises; everything runs through shared documents and your accounts.`,
-        `On the east coast the gap is four and a half hours in winter and five and a half during daylight saving, while Queensland stays at four and a half all year. Perth is two and a half hours ahead of India, so a Perth business gets most of its working day overlapping ours. A 2 pm call in Sydney lands mid-morning for us, which suits a monthly review.`,
-        `Quotes are in USD. Australian clients usually pay by Wise from an AUD account, bank wire or PayPal, monthly in advance for ongoing work once you approve the quote. Invoices come from India; questions about GST on imported services are for your accountant.`,
+        `On the east coast the gap is four and a half hours in winter and five and a half during daylight saving, while Queensland stays at four and a half all year. Perth is two and a half hours ahead of India, so a Perth business gets most of its working day overlapping ours. A 2 pm call in Sydney lands at 9:30 am in India in winter or 8:30 am during daylight saving, which suits a monthly review.`,
+        `Quotes are in USD. Australian clients usually pay by Wise from an AUD account, bank wire or PayPal, on the billing schedule set out in the quote you approve. Invoices come from India; questions about GST on imported services are for your accountant.`,
         `The first two weeks look like this. Week one: you add us as a manager on your profile and grant Search Console and analytics access, we audit the profile, website and main citations, and send a short list of fixes ranked by likely impact. Week two: we correct the profile, set up tracking, send the review request template for your approval and draft the suburb page plan. By the end of the fortnight you know exactly what month two will contain.`,
       ],
     },
@@ -360,7 +360,7 @@ const content: FreelanceContent = {
   areas: {
     eyebrow: "Across Australia",
     heading: "Local SEO services for service-area businesses around Australia",
-    note: "Everything is handled remotely. These notes reflect the kind of local search problems businesses in each region typically bring to us.",
+    note: "Everything is handled remotely. These notes describe the local search problems that service businesses in each region are likely to face.",
     cards: [
       { name: "Western Sydney", note: "Trades, pest controllers and removalists covering Penrith, Blacktown and Liverpool need suburb pages and profiles that reach across a large, fast-growing region without a shopfront." },
       { name: "Northern Beaches, Sydney", note: "Pool, roofing and landscaping businesses here compete in a tight coastal strip, so accurate service areas and job photos from local streets help them stand out." },
@@ -409,7 +409,7 @@ const content: FreelanceContent = {
     { question: "What is the difference between local SEO and normal SEO?", answer: "Local SEO targets searches with a location in mind, so it relies heavily on your Business Profile, reviews, directory listings and suburb pages. General SEO targets broader searches through content, links and technical health. A service-area business needs both, but local work usually brings calls faster because the searcher is ready to book." },
     { question: "Does local SEO help with AI search results?", answer: "It helps because AI answers about local businesses draw on public profiles, reviews, directories and clear website content. Consistent details and pages that answer questions directly give these tools good material. No provider can promise that an AI assistant will mention you, but a well-maintained local presence improves the odds." },
     { question: "Can you manage local SEO for several branches?", answer: "Yes, where each branch is a real location with its own staff and service area, which Google's guidelines require for separate profiles. Each gets its own profile, landing page, phone number and review requests, with reporting by branch. Large franchise networks with hundreds of locations need a bigger team than three freelancers, and we would say so." },
-    { question: "How do I pay for local SEO services from Australia?", answer: "We quote in USD. Australian clients usually pay by Wise from an AUD account, by bank wire or PayPal. Ongoing monthly work is billed in advance once you approve the written quote. Invoices come from India, and questions about GST treatment of imported services should go to your accountant." },
+    { question: "How do I pay for local SEO services from Australia?", answer: "We quote in USD. Australian clients usually pay by Wise from an AUD account, by bank wire or PayPal. The billing period for ongoing monthly work is set in the written quote you approve before anything starts. Invoices come from India, and questions about GST treatment of imported services should go to your accountant." },
     { question: "Is there a lock-in contract for local SEO?", answer: "We do not state a standard lock-in term on this page. The scope, billing period and how either side ends the arrangement are set out in your written quote before any work starts. Read our terms page and the refund policy, and ask us on WhatsApp if anything is unclear." },
     { question: "What should I do about a fake negative review?", answer: "Reply calmly and factually, then report it through Google's review reporting tools if it breaks their content policy, for example if it is from someone who was never a customer. Do not try to bury it with fake positive reviews. For defamation or legal concerns, talk to your own lawyer; we can help with the Google process." },
   ],

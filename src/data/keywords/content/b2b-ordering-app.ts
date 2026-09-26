@@ -161,7 +161,7 @@ const content: FreelanceContent = {
       heading: "Can a B2B ordering app send orders straight into Tally or an ERP?",
       paragraphs: [
         `Yes. Approved orders can be created as sales orders in TallyPrime or your ERP automatically, with the dealer's ledger and each item already matched, so your team moves straight to invoicing and dispatch.`,
-        `TallyPrime's official help describes integration through XML and JSON over HTTP, which lets an external app post vouchers and read masters such as ledgers, items and outstanding balances. We typically run a small connector on the computer where Tally is open, sending orders in and pulling balances and stock out at intervals.`,
+        `TallyPrime's official help describes integration through XML over HTTP, with native JSON available from TallyPrime 7.0 onwards, which lets an external app post vouchers and read masters such as ledgers, items and outstanding balances. We typically run a small connector on the computer where Tally is open, sending orders in and pulling balances and stock out at intervals.`,
         `For ERPs, the route depends on the product: an API, an import folder, or a database view agreed with your ERP vendor. In either case we decide which system owns which master. Normally the ERP or Tally owns items, ledgers and prices; the app reads them and never overwrites. Duplicate protection matters too; each order carries a unique reference so a retry after a network error never creates a second sales order. More on the connector is on our <a href='/tally-api-integration/'>Tally API integration</a> page.`,
       ],
     },

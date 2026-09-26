@@ -237,7 +237,7 @@ const content: FreelanceContent = {
       subs: [
         { heading: "Strong submissions", text: "Bounded concurrency with a clear limit, context cancellation, idempotent retries with backoff, structured logs, table-driven tests that pass under <code>-race</code>, and a note explaining what they would add with more time." },
         { heading: "Weak submissions", text: "An unbounded goroutine per job, ignored errors (<code>_ =</code> everywhere), global mutable state, no tests, or panics used for normal error handling." },
-        { heading: "Reviewing without Go experience", text: "Ask another Go developer to review it, or ask us for an independent review. We will tell you what we find even if you hire the candidate instead of us." },
+        { heading: "Reviewing without Go experience", text: "Have another Go developer you trust run the tests and read the code. If nobody is available, ask us what a paid independent review would cost; you decide what to do with the findings." },
       ],
     },
     {
@@ -291,7 +291,7 @@ const content: FreelanceContent = {
       heading: "Hire Golang developer help from anywhere in India",
       paragraphs: [
         `You can hire a Golang developer from our team from any Indian city. The work runs remotely over calls, WhatsApp and shared staging environments, in English or Hindi. There is no local office in any city and we do not make site visits.`,
-        `Product startups in <a href='/bengaluru/'>Bengaluru</a>, <a href='/pune/'>Pune</a> and <a href='/noida/'>Noida</a> often ask us to build or rescue the Go service behind their app. Logistics and mobility businesses in <a href='/gurgaon/'>Gurgaon</a> and <a href='/nagpur/'>Nagpur</a> want tracking and dispatch APIs. Fintech and insurance teams in <a href='/mumbai/'>Mumbai</a> and <a href='/chennai/'>Chennai</a> need webhook processors and reconciliation jobs. Ed-tech platforms in <a href='/patna/'>Patna</a> and <a href='/jaipur/'>Jaipur</a> face result-day traffic spikes. Gaming and media apps in <a href='/hyderabad/'>Hyderabad</a> need real-time back ends.`,
+        `Product startups in <a href='/bengaluru/'>Bengaluru</a>, <a href='/pune/'>Pune</a> and <a href='/noida/'>Noida</a> often need someone to build or rescue the Go service behind their app. Logistics and mobility businesses in <a href='/gurgaon/'>Gurgaon</a> and <a href='/nagpur/'>Nagpur</a> want tracking and dispatch APIs. Fintech and insurance teams in <a href='/mumbai/'>Mumbai</a> and <a href='/chennai/'>Chennai</a> need webhook processors and reconciliation jobs. Ed-tech platforms in <a href='/patna/'>Patna</a> and <a href='/jaipur/'>Jaipur</a> face result-day traffic spikes. Gaming and media apps in <a href='/hyderabad/'>Hyderabad</a> need real-time back ends.`,
         `Whatever the city, you get the same itemised quote, the same review process and the same ownership of your code and cloud accounts. For more on working remotely with our team, see <a href='/hire-remote-developer/'>hiring a remote developer</a>.`,
       ],
     },
@@ -364,7 +364,7 @@ const content: FreelanceContent = {
         ["Workers, queues and webhooks", "Project quote", `${P.software} · ${P.softwareUsd}`, "6–9 weeks"],
         ["Several services with gRPC", "Project quote in phases", `${P.software} · ${P.softwareUsd}`, "8–12 weeks"],
         ["AI or automation around a Go API", "Project quote", `${P.ai} · ${P.aiUsd}`, "2–4 weeks"],
-        ["Code audit of an existing Go service", "Quoted after first look", "Ask for a quote", "About 1 week"],
+        ["Code audit of an existing Go service", "Quoted after first look", "Ask for a quote", "Agreed in your quote"],
         ["Ongoing care and upgrades", "Monthly", `${P.care} · ${P.careUsd}`, "After 5 free months"],
       ],
     },
@@ -424,7 +424,7 @@ const content: FreelanceContent = {
     { question: "Should I hire a dedicated Golang developer or a project team?", answer: "Hire a dedicated developer if you have a tech lead to direct them and a continuous backlog for many months. Choose a project team when you need a defined back end designed, built, tested and deployed, with review and infrastructure included. Our three developers work per project, with monthly care afterwards, rather than as a placed full-time resource." },
     { question: "How do payments work for a Go project?", answer: "Nothing is billed until you approve the itemised quote in writing. Payments follow milestones you can test on staging. Indian clients pay in rupees by UPI or bank transfer; international clients pay in USD by Wise, bank wire or PayPal. The milestone split is written into your quote, and our terms page explains the general rules." },
     { question: "Will you sign an NDA for my Go project?", answer: "Raise it when you first contact us and we will discuss what you need. Many clients share a short, non-sensitive description first and the full technical detail once confidentiality terms are agreed in writing alongside the quote. Our terms page describes the general basis of our work; specific terms are settled with you directly." },
-    { question: "Can overseas companies hire your Golang developers?", answer: `Yes. We work with clients in the US, UK, Europe, the Gulf and Australia, with quotes in USD; Go back ends start at ${P.softwareUsd}. Payment is by Wise, bank wire or PayPal, and invoices come from India. Indian evenings overlap with European working hours and US mornings, which is when we schedule calls and demos.` },
+    { question: "Can overseas companies hire your Golang developers?", answer: `Yes. Companies in the US, UK, Europe, the Gulf, Australia or elsewhere receive quotes in USD; Go back ends start at ${P.softwareUsd}. Payment is by Wise, bank wire or PayPal, and invoices come from India. Indian evenings overlap with European working hours and US mornings, which is when we schedule calls and demos.` },
     { question: "Golang developer chahiye, project kaise shuru hoga?", answer: `WhatsApp par batayiye ki back end ko kya karna hai, roughly kitne users ya events per minute aayenge, aur kaun se integrations chahiye. Hum Hindi ya English mein architecture call karte hain aur lagbhag do working days mein itemised quote bhejte hain. Go API ${P.software} se shuru hoti hai, aur code aur cloud account aapke naam par rehte hain.` },
   ],
   related: {

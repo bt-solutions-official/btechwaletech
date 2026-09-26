@@ -115,7 +115,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The saving on each direct order is the aggregator’s deduction minus what the direct order costs you to fulfil. The aggregator figure should come from your own payout statement, not from anyone’s blog, because commission and fees differ by contract, city and plan.`,
         `Work it out per order. From a recent payout statement, add everything deducted from one typical order: commission, platform or listing fees, payment charges and any discount you funded. Then estimate the direct version of the same order: your payment provider’s fee, delivery cost (your rider’s time or the partner’s charge), and any small incentive you give for ordering direct. The difference is your margin gain per direct order.`,
-        `Multiply by the orders you can realistically move, not by all orders. Regulars are the realistic group: people who already order from you every week or two. If a few hundred orders a month move to your site, the gain is usually far larger than the build cost within the first year, but run your own numbers before you believe anyone’s promise, including ours.`,
+        `Multiply by the orders you can realistically move, not by all orders. Regulars are the realistic group: people who already order from you every week or two. Multiply the monthly gain out, set it against the one-time build cost, and you can see how many months the site takes to pay for itself. Trust that calculation from your own statements over anyone’s promise, including ours.`,
       ],
       list: [
         "Take one typical order from your latest aggregator payout statement",

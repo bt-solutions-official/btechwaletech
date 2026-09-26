@@ -113,7 +113,7 @@ const content: FreelanceContent = {
       id: "two-buyers",
       heading: "Corporate and private event clients need different routes through the site",
       paragraphs: [
-        `Give corporate and private visitors separate entry points from the home page, because they judge vendors by different evidence. Two clear buttons, “Corporate events” and “Private celebrations”, outperform a mixed menu of fifteen event types.`,
+        `Give corporate and private visitors separate entry points from the home page, because they judge vendors by different evidence. Two clear buttons, “Corporate events” and “Private celebrations”, are far easier to follow than a mixed menu of fifteen event types.`,
       ],
       subs: [
         { heading: "Corporate buyers look for", text: "Scale handled (guest counts, number of cities), event types like theirs, brands of similar size served with permission to name them, GST registration, a downloadable capability deck, and a quick way to request a proposal with a deadline." },
@@ -151,7 +151,7 @@ const content: FreelanceContent = {
       heading: "How to show event videos without making the website slow",
       paragraphs: [
         `Never autoplay a full video on the first screen. Show a still frame with a play button and load the real player only when someone taps. Lighthouse, Google’s page-auditing tool, recommends this “facade” pattern for YouTube and Vimeo embeds because the full players are heavy.`,
-        `On web.dev, Google’s developer guidance site, a “good” Largest Contentful Paint is 2.5 seconds or less at the 75th percentile of visits, and a video element’s poster image or first frame can be the element that counts. An autoplaying hero reel therefore delays the one number that matters most for a first impression, especially on the mid-range Android phones most private clients use.`,
+        `On web.dev, Google’s developer guidance site, a “good” Largest Contentful Paint is 2.5 seconds or less at the 75th percentile of visits, and a video element’s poster image or first frame can be the element that counts. An autoplaying hero reel therefore delays the one number that matters most for a first impression, especially on mid-range Android phones over mobile data.`,
         `Our pattern for event management website design: highlight reels of about a minute, hosted on YouTube or Vimeo, embedded behind a compressed poster image; a silent, very short looping clip only where it adds real value, encoded small and loaded after the page is visible; and galleries converted automatically to AVIF and WebP at several widths, with lazy loading below the first screen. Before launch we test on a mid-range phone over mobile data, the conditions a client standing at a venue recce will have. If you want motion in the design itself, <a href='/animated-website-design/'>animated website design</a> explains how to do it without the weight.`,
       ],
     },
@@ -170,14 +170,14 @@ const content: FreelanceContent = {
       paragraphs: [
         `Show starting points or package structures for repeatable private events, and keep corporate work proposal-based. Visitors who see a realistic starting point self-select; those who see nothing tend to send “rate?” and vanish.`,
         `Birthday and anniversary packages built around a guest count and décor level suit a package page: what is included, what is extra, how venue and food are handled, and whether tax is included. You set the figures and the wording. For corporate events, a price list rarely helps because every brief differs, but a page describing how proposals are costed (per delegate, per day, or as a project fee, depending on how you work) helps procurement teams prepare.`,
-        `Whatever you publish, keep it consistent with what your sales team says on the phone, and review it when vendor costs change. Event management website design that shows one number while WhatsApp replies quote another loses trust quickly. We add a reminder to the maintenance plan so price pages get checked with you periodically.`,
+        `Whatever you publish, keep it consistent with what your sales team says on the phone, and review it when vendor costs change. Event management website design that shows one number while WhatsApp replies quote another loses trust quickly. When your figures change, send them over and the price pages are updated to match.`,
       ],
     },
     {
       id: "vendors",
       heading: "Displaying your vendor network in event management website design",
       paragraphs: [
-        `Show your network by category and capability, with each vendor’s permission, so visitors see that one call covers décor, food, sound, light, photography and venues. The network is part of what clients pay for, and most event sites hide it.`,
+        `Show your network by category and capability, with each vendor’s permission, so visitors see that one call covers décor, food, sound, light, photography and venues. The network is part of what clients pay for, yet plenty of event sites never mention it.`,
         `A simple structure works: categories such as venues, décor and florals, catering, sound, light and LED, photography and video, entertainment, transport and hospitality. Under each, list the capability (“LED walls up to stage width you specify”, “live counters for 500 guests”) and, where the vendor agrees, their name and a link to their site. Be accurate about the relationship: “vendors we regularly work with” is honest; “exclusive partners” only if it is true.`,
         `This section also helps the vendors, which makes permission easy to get, and it gives search engines more context about what you deliver. Many of the same businesses need sites of their own; we build <a href='/catering-website-design/'>catering websites</a>, <a href='/banquet-hall-website-design/'>banquet hall websites</a> and <a href='/makeup-artist-website/'>makeup artist sites</a> as well, so a referral from you gets the same process.`,
       ],
@@ -228,7 +228,7 @@ const content: FreelanceContent = {
       heading: "Platform choices for event management website design",
       paragraphs: [
         `Choose a static build with a simple CMS if your team will post events weekly; choose a plain static build if you update monthly and are happy to send material to us. Add ticketing or planning software only when there is a real need.`,
-        `Static sites generated with a framework such as Astro serve pre-built pages from a CDN, which keeps galleries fast and hosting cheap. A headless CMS gives your team a form for each new event: type, city, guest count, photographs, video link. The site rebuilds itself and resizes every image. WordPress works for teams already comfortable with it, but gallery and slider plugins are the usual cause of slow event sites, so we build those parts directly.`,
+        `Static sites generated with a framework such as Astro serve pre-built pages from a CDN, which keeps galleries fast and hosting cheap. A headless CMS gives your team a form for each new event: type, city, guest count, photographs, video link. The site rebuilds itself and resizes every image. WordPress works for teams already comfortable with it, but gallery and slider plugins are a common cause of slow event sites, so we build those parts directly.`,
         `Two adjacent builds come up often. Ticketing for public events you promote needs payments, seat or pass limits and entry codes; that is covered on the ticket booking page. Internal planning, with vendor schedules, run sheets and budgets, is <a href='/event-management-software/'>event management software</a>, a custom build from ${P.software}. Neither belongs in the first version of a marketing site unless you already need it.`,
       ],
     },
@@ -236,16 +236,16 @@ const content: FreelanceContent = {
       id: "follow-up",
       heading: "Replying fast: WhatsApp, CRM and lead ads for event enquiries",
       paragraphs: [
-        `The company that replies first with a sensible question often gets the booking. Route every enquiry straight to a phone, with the details already laid out, so the reply can happen in minutes.`,
+        `An event buyer comparing several vendors will naturally engage with whoever answers first with a sensible question. Route every enquiry straight to a phone, with the details already laid out, so the reply can happen in minutes.`,
         `We send each submission as a formatted WhatsApp message: event type, date, city, guests, budget band, venue status and contact. The same data goes into a Google Sheet or CRM so nothing is lost when a phone changes hands. If you run Meta lead ads, <a href='/facebook-lead-ads-integration/'>lead ads integration</a> puts those leads in the same list, and a simple rule can alert a different person for corporate and private enquiries.`,
-        `Automation can help without sounding robotic. An instant WhatsApp acknowledgement confirming the date and event type, followed by a human reply, tells the client they have been heard. Heavier automation, such as scoring leads by budget and date or sending proposal reminders, is AI automation from ${P.ai}. Start simple; most event companies see the biggest gain from simply replying sooner.`,
+        `Automation can help without sounding robotic. An instant WhatsApp acknowledgement confirming the date and event type, followed by a human reply, tells the client they have been heard. Heavier automation, such as scoring leads by budget and date or sending proposal reminders, is AI automation from ${P.ai}. Start simple: a faster human reply is the cheapest improvement available, and automation can come later.`,
       ],
     },
     {
       id: "mistakes",
       heading: "Mistakes that cost event management websites enquiries",
       paragraphs: [
-        `The failures repeat across the industry, and almost all of them trade clarity for spectacle.`,
+        `These weak spots are easy to find on event sites, and almost all of them trade clarity for spectacle.`,
       ],
       list: [
         "Autoplaying full-screen video that delays the first view on phones",

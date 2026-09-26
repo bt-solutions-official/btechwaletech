@@ -225,7 +225,7 @@ const content: FreelanceContent = {
         `For a view-only menu, the first days go on collecting the menu sheet: item names, descriptions, prices, veg or non-veg, allergens and photos. We give you a spreadsheet template. Design and build follow, with a preview link to open on your phone at your own tables. Once approved, we connect your domain, generate the QR artwork and send it to your printer.`,
         `For ordering, add table mapping, kitchen screen setup, payment account connection, staff training and a pilot on a few tables during quiet hours. Running the pilot on part of the floor lets you compare order times and guest reactions before committing the whole restaurant.`,
         `Photos are the usual delay. Phone photos taken near a window in daylight are fine to begin with; you can swap them for professional shots later without touching the QR.`,
-        `Launch on a weekday lunch rather than a Saturday night. The first service shows small things (a category in the wrong order, a missing modifier), and they are fixed the same day from our side while you keep serving.`,
+        `Launch on a weekday lunch rather than a Saturday night. The first service shows small things (a category in the wrong order, a missing modifier), and because the menu is a web page, we correct them from our side while you keep serving.`,
       ],
     },
     {
@@ -341,7 +341,7 @@ const content: FreelanceContent = {
   areas: {
     eyebrow: "Across India",
     heading: "QR code menus for restaurants in these cities",
-    note: "We work remotely everywhere. These city pages describe the local businesses we build for.",
+    note: "We work remotely everywhere. Each city page explains the local food and hospitality scene and what suits it.",
     cards: [
       { name: "QR code menu in Panaji", note: "Beach shacks, Goan restaurants and cafés serving foreign tourists need multilingual menus and daily seafood price changes without reprinting cards.", href: "/panaji/" },
       { name: "QR code menu in Jaipur", note: "Rooftop restaurants near the old city and heritage-hotel dining rooms host many overseas visitors, so photo menus in several languages help them order confidently.", href: "/jaipur/" },

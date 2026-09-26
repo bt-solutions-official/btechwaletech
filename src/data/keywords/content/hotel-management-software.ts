@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "What is hotel management software and do small hotels need a custom one?",
-    text: `Hotel management software (a PMS) runs reservations, check-in, room status, guest bills, housekeeping and reports. Most hotels under about 20 rooms should start with a ready-made cloud PMS. A custom PMS, from ${P.software}, suits properties with unusual room types, a restaurant and banquet under one bill, several properties, or reporting a product cannot give.`,
+    text: `Hotel management software (a PMS) runs reservations, check-in, room status, guest bills, housekeeping and reports, and most small hotels do not need a custom one: under about 20 rooms, start with a ready-made cloud PMS. A custom PMS, from ${P.software}, suits properties with unusual room types, a restaurant and banquet under one bill, several properties, or reporting a product cannot give.`,
     more: `For the restaurant side, see our <a href='/restaurant-pos-software/'>restaurant POS software</a> guide; for direct bookings, a <a href='/hotel-website-developer/'>hotel website</a> with its own booking engine.`,
   },
   snapshot: {
@@ -227,8 +227,8 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do: the source code sits in a repository you own, the cloud account and database are in your business name, and the domain used by the booking engine is registered to you. Guest records are your guest records.`,
         `That ownership has practical value. You can export anything at any time, connect a new accounting tool, hire another developer to extend the PMS, or sell the property with its systems intact. Nothing about the software is tied to us personally, and there is no licence or per-room fee payable to us.`,
-        `At handover you receive repository access, admin logins, a staff manual in English and Hindi, a backup and restore note, and a list of paid services (cloud, channel manager, WhatsApp, SMS) with renewal dates. The first five months of maintenance are free. After that, care is optional from ${P.care}; many hotels keep it through the first peak season and then decide.`,
-        `One more safeguard: daily backups go to storage in your cloud account, and once a month we show your manager how to download one. If anything ever goes wrong with a server, with us or with any future developer, your bookings and invoices can be restored without anyone’s permission.`,
+        `At handover you receive repository access, admin logins, a staff manual in English and Hindi, a backup and restore note, and a list of paid services (cloud, channel manager, WhatsApp, SMS) with renewal dates. The first five months of maintenance are free. After that, care is optional from ${P.care}; a sensible approach is to keep it through your first peak season and decide once the busy months are behind you.`,
+        `One more safeguard: daily backups go to storage in your cloud account, and at handover we show your manager how to download one. If anything ever goes wrong with a server, with us or with any future developer, your bookings and invoices can be restored without anyone’s permission.`,
       ],
     },
     {
@@ -332,7 +332,7 @@ const content: FreelanceContent = {
   areas: {
     eyebrow: "Across India",
     heading: "Hotel management software for properties in these cities",
-    note: "We work remotely with hotels everywhere. These city pages describe the local businesses we build for.",
+    note: "We work remotely with hotels everywhere. Each city page explains the local travel pattern and what a property there needs.",
     cards: [
       { name: "Hotel software in Rishikesh", note: "Riverside hotels, ashrams and yoga retreat centres sell rooms, dorm beds and residential courses to many foreign guests, so packages and Form C data matter.", href: "/rishikesh/" },
       { name: "Hotel software in Shimla", note: "Hill hotels face sharp summer and snow-season peaks and patchy connectivity, which calls for strong rate plans and an offline-capable front desk.", href: "/shimla/" },
@@ -407,7 +407,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Running a hotel on registers and extranets? Let us look at it",
-    note: `Tell us your room count, room types and what your current system cannot do. You will get a module-wise quote in about two working days, with custom hotel management software from ${P.software}, code and data in your name, and five months of free maintenance.`,
+    note: `Send us your room count, room types and what your current system cannot do on WhatsApp. You will get a module-wise quote in about two working days, with custom hotel management software from ${P.software}, code and data in your name, and five months of free maintenance.`,
   },
 };
 

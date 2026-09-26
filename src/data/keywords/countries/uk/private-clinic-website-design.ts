@@ -1,0 +1,450 @@
+import { usd } from "@data/countries/international";
+import type { FreelanceContent } from "@data/freelance/types";
+
+const P = {
+  site: usd("Static"), seoSite: usd("SEO website"), shop: usd("Ecommerce"), app: usd("Android"),
+  software: usd("Custom web app"), ai: usd("AI automation"), seo: usd("Monthly SEO"), care: usd("Maintenance"),
+};
+
+const CQC_DISPLAY = `<a href='https://www.cqc.org.uk/cqc-ratings-and-promotional-graphics/how-providers-must-display-ratings' rel='noopener'>CQC guidance on displaying ratings</a>`;
+const HCPC_REGISTER = `<a href='https://www.hcpc-uk.org/check-the-register/' rel='noopener'>HCPC register search</a>`;
+const ICO_HEALTH = `<a href='https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/lawful-basis/special-category-data/what-is-special-category-data/' rel='noopener'>ICO's explanation of special category data</a>`;
+
+const content: FreelanceContent = {
+  path: "/uk/private-clinic-website-design/",
+  crumb: "Private clinic website design",
+  updated: "2026-09-25",
+  meta: {
+    title: `Private Clinic Website Design: CQC-Ready from ${P.site}`,
+    description: `Private clinic website design for UK GP, physio and specialist clinics: CQC rating display, self-pay prices, Semble or Cliniko booking. From ${P.site}.`,
+    keywords: [
+      "private clinic website design", "private clinic website design uk", "private medical clinic website", "private gp website design",
+      "physiotherapy clinic website design", "physio website design uk", "specialist clinic website", "consultant website design uk",
+      "healthcare website design uk", "medical website design uk", "private clinic website cost", "how much does a clinic website cost uk",
+      "cqc rating on website requirement", "how to display cqc rating on website", "gmc number on website", "hcpc registration website",
+      "self-pay prices clinic website", "semble online booking website", "cliniko online booking website", "clinic website with online booking",
+      "uk gdpr health data website forms", "private clinic seo", "private clinic website london", "private clinic website birmingham",
+      "private clinic website leeds", "private clinic web designer near me",
+    ],
+  },
+  hero: {
+    eyebrow: "For private GP, physiotherapy and specialist clinics in the UK",
+    h1: "Private clinic website design that turns self-pay searches into booked appointments",
+    lede: `Private clinic website design has to do three things at once: show the regulatory information patients and inspectors look for, publish self-pay prices people can trust, and let a patient book the right appointment type without phoning. BtechWaleTech is three freelance developers working remotely from India who build owned clinic websites with <strong>CQC rating display, GMC and HCPC details on every clinician</strong>, and booking that runs through the practice software you already use. Sites start at ${P.site}. Running a cosmetic practice instead? Our <a href='/uk/aesthetics-clinic-website-design/'>aesthetics clinic website design</a> guide covers the extra advertising rules.`,
+    pills: ["CQC rating shown where it must be", "GMC and HCPC numbers on profiles", "Self-pay price pages", "Semble or Cliniko booking links", "Health data kept out of inboxes", "WCAG 2.2 AA as the target", `From ${P.site}`],
+    origin: "Three freelance developers in India · WhatsApp answers 7 days a week, overlapping UK clinic hours from late morning",
+  },
+  facts: [
+    ["Clinic website from", P.site],
+    ["Build time", "1–2 weeks for up to 100 pages"],
+    ["Multi-site or condition library", `From ${P.seoSite}, 299+ pages`],
+    ["Patient portal or custom booking", `From ${P.software}`],
+    ["Free maintenance", "5 months after launch"],
+    ["Written quote", "Around 2 working days"],
+  ],
+  stats: [
+    { value: "3", label: "Developers covering build, integrations and technical SEO" },
+    { value: "100", label: "Pages included in the starting website plan" },
+    { value: "5", label: "Months of maintenance included after launch" },
+    { value: "7", label: "Days a week we reply on WhatsApp" },
+  ],
+  answer: {
+    heading: "What does private clinic website design need to include in the UK?",
+    text: `Private clinic website design in the UK should include your CQC rating if you are CQC registered, each clinician's profession with GMC or HCPC registration, clear self-pay prices, online booking by appointment type through software such as Semble or Cliniko, and forms that protect health data under UK GDPR. BtechWaleTech builds owned clinic sites from ${P.site}.`,
+    more: `Need booking logic your software cannot handle? See <a href='/uk/booking-system-development/'>custom booking system development</a>. Dental practices have their own guide: <a href='/uk/dental-website-design/'>dental website design UK</a>.`,
+  },
+  snapshot: {
+    caption: "Private clinic website design in seven lines",
+    rows: [
+      { label: "Clinic types", value: "Private GP, physiotherapy and MSK, consultant and specialist, multi-disciplinary" },
+      { label: "Regulatory display", value: "CQC rating within 21 days of publication, for CQC-registered services in England" },
+      { label: "Clinician profiles", value: "Profession, GMC or HCPC number, specialist interests, languages spoken" },
+      { label: "Prices", value: "Self-pay fees per appointment type, what is included, insurer information" },
+      { label: "Booking", value: "Appointment-type booking via your practice software, new and returning patients split" },
+      { label: "Data protection", value: "Health data in forms treated as special category data" },
+      { label: "Starting price", value: `From ${P.site}; portals and custom booking from ${P.software}` },
+    ],
+  },
+  services: {
+    eyebrow: "What we build for private clinics",
+    heading: "Private clinic website work, split into parts you can choose",
+    note: "Single-site clinics usually take the core website and booking set-up. Groups add condition libraries and search work.",
+    cards: [
+      { name: "Core private clinic website", note: `Services, conditions, clinicians, self-pay prices, CQC rating, locations and booking, from ${P.site}. The clinic owns the domain, hosting and files.`, href: "/services/web-development/", size: "lg" },
+      { name: "Practice software booking set-up", note: "Booking buttons per appointment type that open your Semble, Cliniko or other practice software booking page, tested on phones.", href: "/uk/booking-system-development/", size: "lg" },
+      { name: "Condition and treatment library", note: `Pages for back pain, sports injuries, menopause clinics, health checks and more, written for patients and reviewed by clinicians. From ${P.seoSite} for large libraries.`, size: "md" },
+      { name: "Secure intake and referral forms", note: "Self-referral, GP referral and insurer pre-authorisation forms that route to a secure store rather than a shared inbox.", href: "/uk/bespoke-software-development/", size: "md" },
+      { name: "Local and condition search", note: `Google Business Profile, condition pages and Search Console reporting from ${P.seo}. No ranking promises from anyone honest.`, href: "/uk/local-seo-services/", size: "md" },
+      { name: "Accessibility review", note: "Contrast, text size, keyboard use and screen reader labels checked against WCAG 2.2 AA for older and disabled patients.", href: "/uk/website-accessibility-audit/", size: "md" },
+      { name: "Call and message handling", note: `An assistant that answers opening hours and booking questions after hours and hands clinical queries to staff, from ${P.ai}.`, href: "/uk/ai-receptionist-for-small-business/", size: "sm" },
+      { name: "Care plan", note: `Updates, backups, new clinician profiles and price changes from ${P.care} after five free months.`, href: "/uk/wordpress-maintenance-services/", size: "sm" },
+    ],
+  },
+  comparison: {
+    heading: "Where UK private clinics usually get their websites",
+    note: "The realistic options are a healthcare web agency, the simple site or booking page included with practice software, or an independent build.",
+    columns: ["Question", "Healthcare web agency", "Practice software's built-in page", "BtechWaleTech build"],
+    rows: [
+      ["Cost model", "Project fee, often plus a retainer", "Included with the software subscription", `One-off build from ${P.site}; you pay hosting directly`],
+      ["CQC rating display", "Usually handled", "Often not supported", "Widget or your own graphic placed on every relevant page"],
+      ["Clinician profiles", "Full profiles", "Basic name and role", "Full profiles with register links"],
+      ["Condition pages for search", "Often written for you", "Not available", "Structured pages; your clinicians review content"],
+      ["Booking", "Integrates with major systems", "Native to the software", "Links or embeds your software's booking"],
+      ["Design control", "High", "Very limited", "Full, within speed and accessibility targets"],
+      ["Switching later", "Check contract terms", "Tied to the software", "Everything stays with the clinic"],
+      ["On-site photography", "Commonly offered", "Not offered", "Not offered; you supply photos"],
+    ],
+    fine: "If your clinic needs a partner to run paid advertising, visit for photography and write patient newsletters every month, a UK healthcare marketing agency is a better match than our remote build team.",
+  },
+  pricing: {
+    heading: "Private clinic website design prices",
+    note: `A private clinic website of up to 100 pages starts at ${P.site} and includes service and condition pages, clinician profiles, a self-pay fees page, CQC rating placement where it applies, booking links to your practice software and secure contact forms. Groups with several locations or a large condition library start at ${P.seoSite}. Custom patient portals, referral workflows and booking your software cannot handle start at ${P.software}. Monthly search work starts at ${P.seo}, and care plans start at ${P.care} after five free months. These are starting prices, itemised in your written quote.`,
+  },
+  guideLabel: "Private clinic website design guide",
+  guide: [
+    {
+      id: "what-it-involves",
+      heading: "What does private clinic website design involve for a UK self-pay clinic?",
+      paragraphs: [
+        `Private clinic website design is building a site that gets a self-paying or insured patient from a Google search to a booked appointment, while displaying the regulatory and clinical information they expect. It sits between a medical information site and a booking tool.`,
+        `Private clinic website design starts from one fact: a self-pay patient behaves differently from an NHS patient. They compare clinics, read clinician profiles, look for a price and want to book without being put on hold. If any of those steps is missing, they go to the next result. A private clinic website therefore carries more commercial weight than a typical practice site, yet it must stay accurate and calm because it is still healthcare.`,
+        `The clinics we handle private clinic website design for fall into four broad groups: private GP services, physiotherapy and musculoskeletal clinics, consultant-led specialist clinics, and multi-disciplinary centres combining several of these. Each group needs different pages, profiles and booking rules, which is why this guide treats them separately below.`,
+      ],
+      list: [
+        "A home page that states who you treat, where, and how to book",
+        "Service and condition pages written for patients, reviewed by clinicians",
+        "Clinician profiles with profession and registration",
+        "A self-pay fees page and insurer information",
+        "Booking by appointment type, plus secure referral forms",
+        "Regulatory information: CQC rating, complaints route, privacy notice",
+      ],
+    },
+    {
+      id: "cqc-rating",
+      heading: "Does a private clinic website have to show its CQC rating?",
+      paragraphs: [
+        `Yes, if the clinic is registered with the Care Quality Commission and has been rated. Regulation 20A of the Health and Social Care Act 2008 regulations requires providers to display their rating on websites where they describe the service, no later than 21 calendar days after CQC publishes it.`,
+        `The ${CQC_DISPLAY} says providers can use the CQC's online widget or their own materials, and that the rating must stay clear and conspicuous even if a review of the rating has been requested. A note explaining the review can sit alongside it.`,
+        `In private clinic website design, the most reliable approach is the official widget, because it updates when CQC publishes a new rating. We place it in the site footer so it appears on every page that describes your service, and again on the “about” or “quality” page with a short explanation for patients. For groups with several registered locations, each location page carries its own widget, not one rating copied across the site.`,
+      ],
+      after: [
+        `Not every private service is CQC registered, and some clinics are regulated elsewhere in Scotland, Wales and Northern Ireland. Whether your service must register is a question for your own adviser or the regulator; we build whatever display your registration requires.`,
+      ],
+    },
+    {
+      id: "private-gp",
+      heading: "Private GP clinic websites: what patients look for first",
+      paragraphs: [
+        `A private GP site should answer, above the fold, how soon a patient can be seen, how long an appointment lasts, what it costs and whether video appointments are available. Speed and certainty are what patients pay for, so the site should make both obvious.`,
+        `Beyond the home page, private clinic website design for a GP service needs a page for each appointment type (face to face, video, home visit if you offer it), clear notes on what is and is not included in the fee, how private prescriptions and referral letters work, and what happens if a patient needs follow-up tests. A health checks section with tiered options is common and works well for search.`,
+        `Clinician profiles matter more in private general practice than in the NHS because patients often choose a named doctor. Each doctor profile should give their GMC reference number with a link to the GMC's public register, their special interests, the languages they speak and the days they work.`,
+      ],
+      list: [
+        "Next available appointment shown or linked from the booking system",
+        "Appointment types with duration and fee",
+        "Private prescriptions, referral letters and sick notes explained",
+        "Health checks with plain descriptions of what is tested",
+        "Out-of-hours guidance pointing to NHS 111 and 999 where appropriate",
+      ],
+    },
+    {
+      id: "physio",
+      heading: "Physiotherapy clinic website design: self-referral, insurers and HCPC details",
+      paragraphs: [
+        `A physiotherapy clinic website should make self-referral easy, explain whether you accept insurance, and show each physiotherapist's HCPC registration. Physiotherapist is one of the 15 professions on the HCPC register, and patients can check it themselves using the ${HCPC_REGISTER}.`,
+        `Physio and MSK searches are condition-led, which shapes private clinic website design for these practices: “lower back pain physio near me”, “knee physio after ACL surgery”, “sports massage or physio”. That makes a condition library the core of the site. Each condition page should explain what a first assessment involves, typical numbers of sessions discussed at assessment, what the patient can do at home, and when to see a GP instead.`,
+        `Insurer-funded patients need a separate path. A short page explaining which insurers you are recognised by (as you confirm them), what authorisation code a patient needs and how excess payments work saves your reception team repeated phone calls. The booking button on that page opens an appointment type set up for insured patients, so your software records it correctly from the start.`,
+      ],
+      subs: [
+        { heading: "Sports and occupational health", text: "Clubs and employers often book blocks of sessions. A simple enquiry form for organisations keeps that work away from individual patient booking." },
+        { heading: "Classes", text: "Pilates or rehab classes need timetables and class booking, which most practice software handles as group appointments." },
+      ],
+    },
+    {
+      id: "specialist",
+      heading: "Consultant and specialist clinic websites: profiles, locations and referrals",
+      paragraphs: [
+        `Consultant-led clinics sell expertise, so the site should be built around detailed consultant profiles, the conditions each person treats and the hospitals or rooms where they see patients. GP and self-referral routes both need a clear path.`,
+        `A consultant profile should show the GMC reference number, specialty, whether the doctor is on the GMC's specialist register (the public register shows this), NHS posts held if they want to mention them, the procedures they perform and the locations they consult from. Many consultants hold clinics in more than one private hospital, so each location gets its own page with directions and parking notes.`,
+        `Referrals are the other half of private clinic website design for specialists. A secure referral form for GPs, a downloadable referral letter template and a self-referral route for patients who are paying themselves cover most cases. Insured patients again need information on authorisation before booking.`,
+      ],
+    },
+    {
+      id: "self-pay-prices",
+      heading: "How should a private clinic website show self-pay prices?",
+      paragraphs: [
+        `Publish a fees page with a price for each common appointment type, a plain statement of what the fee includes, and any extra charges that may follow, such as tests, reports or follow-up appointments. Patients choosing between clinics trust the one that shows its numbers.`,
+        `Clinics sometimes skip prices in private clinic website design because treatment plans vary. The answer is to price the entry points (initial consultation, follow-up, standard health check, first physio assessment) and explain honestly how further costs are decided. A small “what affects the cost” section beneath the table answers the question before a patient has to phone.`,
+      ],
+      list: [
+        "Initial consultation fee and length",
+        "Follow-up fee and length",
+        "Tests or scans charged separately, with typical examples",
+        "Reports, letters and prescription fees if they apply",
+        "Cancellation and missed appointment policy, linked from booking",
+        "Insurer-funded patients: how excesses and shortfalls work",
+      ],
+      after: [
+        `Prices change, so we build the fees page as a simple table your team edits in one place. The same figures feed the individual service pages, so a price is never updated on one page and forgotten on another.`,
+      ],
+    },
+    {
+      id: "booking",
+      heading: "Online booking with Semble, Cliniko and other practice software",
+      paragraphs: [
+        `For private clinic website design, the simplest reliable approach is to keep your practice software as the only diary and send patients to its booking page for the right appointment type. That avoids double bookings and keeps clinical records in one place.`,
+        `Cliniko lists online bookings among its features, and Semble manages appointments and scheduling for clinics. Most practice systems give you a booking link or embeddable page. We add booking buttons for each appointment type on the relevant service and clinician pages, so “Book a knee assessment with Dr Patel” opens exactly that option, not a generic calendar the patient has to decode.`,
+        `Custom booking only makes sense when the software cannot do what the clinic needs, such as triage questions before a slot is offered, complex package rules or a multi-clinic group using different systems. That kind of build starts at ${P.software} and connects to your software only through integrations it officially supports.`,
+      ],
+      subs: [
+        { heading: "New versus returning", text: "New patients often need a longer first appointment. Separate buttons stop a new patient booking a follow-up slot by mistake." },
+        { heading: "Video appointments", text: "If your software issues video links, the booking page handles it. We add a short page on how video consultations work." },
+        { heading: "Deposits and cancellations", text: "Where your software takes card payment at booking, we link your cancellation policy at that step. The policy itself is yours." },
+      ],
+    },
+    {
+      id: "health-data",
+      heading: "UK GDPR and health data in private clinic website forms",
+      paragraphs: [
+        `Any form where a patient describes symptoms, conditions or treatment history collects health data, which UK GDPR classes as special category data. Build forms to collect the minimum, send it somewhere secure and keep tracking tags away from it.`,
+        `The ${ICO_HEALTH} notes that health data includes information about the provision of healthcare that reveals someone's health status, so even an appointment enquiry naming a condition can count. That affects contact forms, referral forms and any symptom checker.`,
+        `Our side of private clinic website design is technical: forms over HTTPS, submissions delivered to your practice software or an encrypted store with named-user access, no copies left in email where avoidable, retention periods you choose, and no analytics or advertising pixels on form pages. Your lawful basis, privacy notice, DPIA decision and records are your responsibility, confirmed with your data protection adviser. We never describe a build as making a clinic compliant.`,
+      ],
+      list: [
+        "Contact form asks for a reason in broad terms, not a full history",
+        "Referral form uploads go to a secure store, not an attachment in email",
+        "Access to submissions limited to named staff accounts",
+        "Cookie banner keeps analytics off until consent is given",
+      ],
+    },
+    {
+      id: "cost",
+      heading: "How much does private clinic website design cost?",
+      paragraphs: [
+        `Private clinic website design with us starts at ${P.site} for up to 100 pages, which covers most single-site clinics. Large multi-location builds start at ${P.seoSite}, and custom booking or patient portals start at ${P.software}.`,
+        `The main cost drivers are the number of services and conditions, the number of clinicians and locations, how booking connects to your software, and whether forms need custom secure handling. Copywriting is another variable: clinicians writing their own condition pages keeps cost down but slows launch.`,
+        `UK quotes for private clinic website design vary widely, largely because some include ongoing marketing and others are template sites billed monthly. Compare what you would own at the end, what each monthly fee covers, and what happens to the site if you leave. The <a href='/uk/website-design-cost/'>UK website cost guide</a> lists the running costs every site has regardless of who builds it.`,
+      ],
+    },
+    {
+      id: "comparing-quotes",
+      heading: "How do you compare private clinic website design quotes?",
+      paragraphs: [
+        `Put every private clinic website design quote into the same list: pages, clinician profiles, booking set-up, forms, CQC display, accessibility, search set-up, hosting and ongoing fees. Then ask each supplier the same questions. Differences that looked like price usually turn out to be scope.`,
+      ],
+      list: [
+        "Is the domain registered in the clinic's name?",
+        "Who holds the hosting account, and who can log in?",
+        "Is the CQC widget included and placed on every relevant page?",
+        "How do form submissions reach us, and where are they stored?",
+        "Which analytics tags run, and when?",
+        "Is the site tested against WCAG 2.2 AA?",
+        "What is included after launch, and what is charged?",
+        "Can we edit prices and profiles ourselves?",
+      ],
+      after: [
+        `Warning signs include a contract that leaves the domain with the supplier, forms that email full medical details to a shared inbox, and any promise of guaranteed search positions. For a longer view on choosing suppliers, see <a href='/uk/web-design-agency-vs-freelancer/'>web design agency vs freelancer</a>.`,
+      ],
+    },
+    {
+      id: "tech-hosting",
+      heading: "Which platform and hosting suit a private clinic website?",
+      paragraphs: [
+        `A fast WordPress build or a static site with a simple editor, hosted in a UK or EU data centre and connected to your practice software for booking, suits nearly every private clinic. Heavy page builders and plugin piles slow pages and add security updates you do not need.`,
+        `We usually recommend hosting in a UK region from a mainstream cloud provider, set up in your account. The site itself holds very little personal data if forms route to your practice software, which reduces the risk surface. Where you need a portal for results, documents or messaging, a custom web app with proper authentication and audit logs is the right tool, starting at ${P.software}.`,
+      ],
+      subs: [
+        { heading: "Editing", text: "Receptionists should be able to change opening hours, fees and clinician days without calling a developer." },
+        { heading: "Speed", text: "Patients often search on a phone in a waiting room or car park. We keep pages light and images properly sized." },
+        { heading: "Backups", text: "Daily off-site backups and tested restores are part of our care plans from the start." },
+        { heading: "Apps", text: `A clinic app is rarely worth it unless patients use it weekly, such as for rehab programmes. Apps start at ${P.app}.` },
+      ],
+    },
+    {
+      id: "accessibility",
+      heading: "Making a private clinic website accessible to every patient",
+      paragraphs: [
+        `Private clinic website design serves older patients, people in pain and people with disabilities, so accessibility is a practical need, not a box to tick. We build to WCAG 2.2 AA as the target: readable text sizes, strong contrast, clear focus states, forms that work with a keyboard and screen reader, and plain language.`,
+        `Booking is the part of private clinic website design most often inaccessible, because it is embedded from another system. We test your software's booking page with a keyboard and screen reader and tell you what we find. If it falls short, a phone number and a simple request form sit next to every booking button as an alternative route.`,
+        `Accessibility also improves search and AI visibility. Proper headings, descriptive links and text alternatives are exactly the signals that help machines understand a page. Our <a href='/uk/website-accessibility-audit/'>website accessibility audit</a> page explains what a fuller audit covers.`,
+      ],
+    },
+    {
+      id: "seo-ai",
+      heading: "SEO and AI search for private clinics",
+      paragraphs: [
+        `Private clinic website design has to plan for three kinds of search: condition searches, “private” plus a service plus a town, and named clinician searches. A site that answers each condition question directly, shows verified clinicians and keeps its details consistent with the Google Business Profile has the foundation right.`,
+        `Health content falls under Google's “your money or your life” standards, so authorship and review matter. Each condition page should name the clinician who reviewed it and the date, with a link to their profile and register entry. Structured data for your clinic, physicians and locations helps search engines connect the pieces.`,
+        `For AI answers in Google AI Overviews, ChatGPT and Perplexity, short answer paragraphs under question headings, clear fees and appointment details, and consistent facts across the web give the best chance of being cited. The <a href='/uk/ai-search-optimisation/'>AI search optimisation</a> page goes further into llms.txt, crawler access and measurement.`,
+      ],
+    },
+    {
+      id: "remote-team",
+      heading: "How a UK clinic works with our team in India",
+      paragraphs: [
+        `You message us on WhatsApp or email, we reply seven days a week, and our working hours overlap the UK business day from late morning. India runs four and a half hours ahead of British Summer Time and five and a half ahead of GMT, so a question sent at 9am is often answered before your lunch break.`,
+        `Calls happen on Teams, Zoom or Meet around clinic sessions. You receive an itemised quote in USD and can pay in USD or GBP by Wise, bank wire or PayPal; invoices come from India. Nothing is billed until you approve the written quote, and ownership of the domain, hosting and code is yours from the first day.`,
+      ],
+      subs: [
+        { heading: "Week one", text: "Kick-off call, list of services and clinicians, CQC registration details, access to practice software booking settings, sitemap and wireframes agreed." },
+        { heading: "Week two", text: "Build on a private staging link, clinicians check their profiles, booking buttons tested for every appointment type, forms tested end to end, then launch." },
+      ],
+      after: [
+        `Limits worth knowing: we do not visit clinics, take photographs, write clinical content without a clinician reviewing it, or give legal or regulatory advice.`,
+      ],
+    },
+    {
+      id: "worked-example",
+      heading: "Worked example: a physio and sports medicine clinic in Reading (hypothetical)",
+      paragraphs: [
+        `Imagine a clinic in Reading with four physiotherapists, a visiting sports medicine doctor, a Pilates studio and a mix of self-pay and insured patients. This is an illustration of how we would plan the site, not a client story.`,
+        `The site would have 14 condition pages (back pain, neck pain, knee, shoulder, running injuries and so on), profiles for five clinicians with HCPC or GMC register links, a fees page, an insured patients page, a Pilates timetable, and a CQC section only if the doctor's service made the clinic registrable. Booking buttons would open the clinic's practice software for each appointment type, with separate new and follow-up options.`,
+        `A secure self-referral form would send submissions to the practice software rather than email. Pages for Wokingham and Bracknell would be added only if patients genuinely travel from there. The build would sit in the ${P.site} tier, with monthly search work from ${P.seo} if the clinic wanted help growing condition traffic.`,
+      ],
+    },
+    {
+      id: "checklist",
+      heading: "Private clinic website design checklist before you go live",
+      paragraphs: [
+        `Use this private clinic website design list with your practice manager and lead clinician before launch. We test each technical item; your team confirms the facts.`,
+      ],
+      list: [
+        "CQC widget on every page describing a registered service, if you are rated",
+        "Every clinician profile shows profession and GMC or HCPC number with a register link",
+        "Fees page lists entry prices and what each includes",
+        "Booking buttons open the correct appointment type for new and returning patients",
+        "Forms route health information to a secure destination",
+        "Cookie banner blocks non-essential tags until consent",
+        "Complaints procedure and privacy notice linked in the footer",
+        "Urgent care guidance points to NHS 111 and 999",
+        "Pages pass keyboard and screen reader checks",
+        "Search Console and Google Business Profile connected and matching",
+      ],
+    },
+  ],
+  tables: [
+    {
+      id: "clinic-type-content",
+      eyebrow: "Planning",
+      heading: "Must-have content by type of private clinic",
+      note: "A starting point for your sitemap. Your registration and services decide the final list.",
+      columns: ["Clinic type", "Profiles show", "Key pages", "Booking set-up"],
+      rows: [
+        ["Private GP", "GMC number, interests, languages", "Appointment types, health checks, prescriptions and referrals", "Face-to-face and video types, same-day slots"],
+        ["Physiotherapy / MSK", "HCPC number, specialisms", "Condition library, insured patients, classes", "New assessment vs follow-up, class booking"],
+        ["Consultant specialist", "GMC number, specialist register, hospitals", "Procedures, locations, GP referral route", "By consultant and location"],
+        ["Multi-disciplinary centre", "Mixed professions with the right register each", "Service hubs, team page, pathways", "By service, then clinician"],
+        ["Health screening clinic", "Clinicians who review results", "Packages compared, what is tested, results process", "Package booking with pre-visit instructions"],
+        ["Menopause or women's health", "GMC or NMC registration, training", "Symptoms guides, consultation process, fees", "Longer first appointment, video option"],
+      ],
+      hideSm: [1],
+    },
+    {
+      id: "booking-options",
+      eyebrow: "Booking",
+      heading: "Three ways to connect booking to a private clinic website",
+      note: "Keeping one diary in your practice software is almost always the right starting point.",
+      columns: ["Approach", "How it works", "Best for", "Starts at"],
+      rows: [
+        ["Booking links", "Buttons per appointment type open your software's booking page", "Most single-site clinics", `Within ${P.site}`],
+        ["Embedded booking", "Software's booking page shown inside your site where supported", "Clinics wanting patients to stay on-site", `Within ${P.site}`],
+        ["Custom booking front end", "Own triage and rules, writing to your software via its supported integration", "Groups, complex packages, several systems", P.software],
+        ["Request form only", "Patient requests a time; reception confirms", "Consultants with variable clinic lists", `Within ${P.site}`],
+        ["After-hours assistant", "Chat or WhatsApp answers and booking links out of hours", "Busy receptions missing calls", P.ai],
+      ],
+    },
+    {
+      id: "timeline",
+      eyebrow: "Timeline",
+      heading: "Private clinic website timeline by phase",
+      note: "For a single-site clinic of up to 100 pages. Groups and portals take longer.",
+      columns: ["Phase", "What happens", "Who is involved", "Typical length"],
+      rows: [
+        ["Discovery", "Services, clinicians, registration, booking settings", "Practice manager and us", "2–3 days"],
+        ["Structure", "Sitemap, wireframes, fees table layout", "Us, approved by clinic", "2 days"],
+        ["Content", "Condition pages drafted, clinician review", "Clinicians and us", "3–5 days, often the longest"],
+        ["Build", "Design, booking buttons, forms, CQC widget", "Us", "3–4 days"],
+        ["Testing", "Booking per appointment type, forms, accessibility", "Us and reception staff", "1–2 days"],
+        ["Launch and aftercare", "Go live, Search Console, five months of support", "Us", "Launch day onwards"],
+      ],
+    },
+  ],
+  areas: {
+    eyebrow: "Clinics we can help across the UK",
+    heading: "Private clinic website design across the UK",
+    note: "We work remotely for clinics in every nation of the UK. A few ways local markets shape a clinic site.",
+    cards: [
+      { name: "London", note: "Private GP and specialist clinics across Marylebone, the City and outer boroughs compete on speed of access, so next-available appointments and clear fees matter most." },
+      { name: "Birmingham", note: "Birmingham's private hospitals and consultant rooms mean consultant profiles need accurate location pages, with each hospital's directions and parking kept separate." },
+      { name: "Oxford", note: "Oxford clinics often have clinicians with academic posts, so profiles that list research interests alongside register numbers help patients choose confidently." },
+      { name: "Cambridge", note: "Cambridge and its science-park commuters create demand for early and late private appointments, so booking pages should show extended hours clearly." },
+      { name: "Reading", note: "Thames Valley physio and sports clinics serve commuters and clubs, so condition pages and a separate route for organisations booking blocks of sessions work well." },
+      { name: "Guildford", note: "Surrey self-pay patients compare clinics carefully, so transparent fee tables and detailed clinician profiles tend to decide which clinic gets the booking." },
+      { name: "Leeds", note: "Leeds multi-disciplinary centres combining physio, podiatry and psychology need service hubs so patients land in the right pathway without phoning first." },
+      { name: "Sheffield", note: "Sheffield's sports and outdoor community creates steady demand for MSK clinics, where running and climbing injury pages match what patients actually search." },
+      { name: "Leicester", note: "Leicester clinics serving diverse communities benefit from listing languages each clinician speaks, with translated information you supply and approve." },
+      { name: "Exeter", note: "Devon clinics draw patients from rural areas, so video appointment pages and clear travel notes help people decide whether the trip is needed." },
+      { name: "Norwich", note: "Norfolk's older population makes accessibility and readable text sizes especially important on private GP and health check sites." },
+      { name: "Aberdeen", note: "Scottish private clinics sit under Healthcare Improvement Scotland rather than CQC, so we build regulator details per location instead of copying English wording." },
+      { name: "Swansea", note: "Welsh clinics may register with Healthcare Inspectorate Wales, so location templates carry the right regulator for each site you run." },
+      { name: "York", note: "York clinics serving tourists and residents can add simple pages on seeing visitors privately, with clear fees and booking for short stays." },
+    ],
+  },
+  process: {
+    heading: "Our process for a private clinic website",
+    steps: [
+      ["Map services and registration", "We list appointment types, clinicians, locations and regulators, and check which pages need the CQC widget or another regulator's details before the sitemap is drawn."],
+      ["Itemised quote in two days", "You receive a sitemap, a booking plan per appointment type and an itemised quote in USD. Nothing is charged until you approve it in writing."],
+      ["Connect the diary", "With access you grant, we create booking links or embeds for each appointment type in your practice software and test them from a patient's point of view."],
+      ["Build and clinician review", "Pages go up on a private staging link. Each clinician checks their profile and the condition pages they are named against."],
+      ["Test forms and accessibility", "Every form is tested end to end to confirm where data lands, and pages are checked with keyboard and screen reader before launch."],
+      ["Launch and five months of care", "We publish on your hosting, connect Search Console, then cover fixes and small updates free for five months. Care plans follow only if you want them."],
+    ],
+  },
+  faqHeading: "Private clinic website design FAQs",
+  faqs: [
+    { question: "How much does private clinic website design cost in the UK?", answer: `With BtechWaleTech, private clinic website design starts at ${P.site} for up to 100 pages, usually built in one to two weeks. Multi-location sites and large condition libraries start at ${P.seoSite}, and custom patient portals or booking start at ${P.software}. All are starting prices; your written quote is itemised after we see your services, clinicians and booking set-up.` },
+    { question: "Do I have to display my CQC rating on my website?", answer: "If your clinic is registered with CQC and has been rated, yes. Regulation 20A requires the rating to be displayed on websites where you describe your service, no later than 21 calendar days after CQC publishes it. CQC provides a widget that updates automatically, or you can use your own materials. The rating must remain clear even while a review is requested." },
+    { question: "Where should the CQC widget go on a clinic website?", answer: "It should be visible on pages that describe your registered service. We usually place it in the site footer so it appears everywhere, plus on an about or quality page with a short explanation. Groups with several registered locations should show each location's own rating on that location's page rather than repeating one rating everywhere." },
+    { question: "Should clinician profiles show GMC or HCPC numbers?", answer: "Yes. Showing each doctor's GMC reference number and each physiotherapist's or other allied health professional's HCPC registration, with a link to the public register, lets patients check registration themselves. The HCPC register covers 15 professions including physiotherapists. It is a simple addition that makes profiles more trustworthy for patients and for search engines." },
+    { question: "Can my website use Semble or Cliniko for online booking?", answer: "Yes. We keep your practice software as the single diary and add booking buttons for each appointment type that open its booking page, or embed it where the software supports that. Patients choose the right appointment first time and your records stay in one system. Custom booking is only worth building when the software cannot do what you need." },
+    { question: "Should a private clinic publish its prices?", answer: "Publishing entry prices builds trust with self-pay patients who are comparing clinics. List the initial consultation and follow-up fees, what each includes, and which tests, reports or letters are charged separately. Where treatment plans vary, explain how further costs are decided. We build a single editable fees table so every page shows the same current figures." },
+    { question: "Is it safe to collect medical details through a website form?", answer: "It can be, with care. Health details are special category data under UK GDPR and need extra protection. We build forms that collect the minimum, send submissions to your practice software or an encrypted store rather than a shared inbox, restrict access to named staff and keep analytics off those pages. Your lawful basis and privacy notice are decided with your adviser." },
+    { question: "How long does private clinic website design take?", answer: "Most single-site clinics launch in one to two weeks once we have service details, clinician information and booking access. The usual delay is clinical review of condition pages, so we send templates early. Larger multi-location sites take three to five weeks, and custom portals or booking systems six to twelve weeks." },
+    { question: "Can you write the condition pages for our clinic?", answer: "We can structure and draft condition pages from the information your clinicians give us, but a named clinician must review and approve each one before it goes live. Health content needs clinical accuracy that only your team can confirm. Each page then shows who reviewed it and when, which also helps with search engine trust signals." },
+    { question: "Is a remote team in India a sensible choice for private clinic website design?", answer: "For the design, build, booking set-up and technical search work, yes. Our hours overlap the UK working day from late morning, and we reply on WhatsApp seven days a week. You would choose a local agency instead if you want someone to visit, photograph your team, or run paid advertising, none of which we offer." },
+    { question: "Who owns the site after private clinic website design is finished?", answer: "The clinic does. The domain is registered in your name, the hosting is in your account and the code and content belong to you. We work with access you grant and hand over all logins at launch. If you move to another developer later, there is nothing to buy back or transfer from us." },
+    { question: "Will my clinic website be accessible to disabled patients?", answer: "We build to WCAG 2.2 AA as the target, with readable text, strong contrast, keyboard-friendly forms and screen reader labels. We also test your practice software's booking page and tell you if it falls short, adding a phone number and request form as an alternative route. Accessibility sign-off by a specialist auditor is available separately." },
+    { question: "Can you guarantee my clinic ranks on Google?", answer: `No honest developer can guarantee rankings. We build the things search engines reward: fast condition pages that answer real questions, clinician profiles with verifiable credentials, correct structured data and a consistent Google Business Profile. Monthly search work starts at ${P.seo} for clinics that want help after launch.` },
+    { question: "How can my clinic appear in AI search answers?", answer: "AI tools quote short, clear passages from trustworthy sources. Condition pages that open with a direct answer, name the reviewing clinician, and state fees and appointment details plainly are easy for them to cite. Keeping your name, address and services consistent across your site and directories helps AI systems identify your clinic correctly." },
+    { question: "Do you build patient portals?", answer: `Yes, as custom web apps starting at ${P.software}, typically six to twelve weeks. A portal can handle document sharing, questionnaires or programme tracking, with logins, role-based access and audit logs. Before building one, we check whether your practice software already offers a patient portal, because using it is usually cheaper and simpler.` },
+    { question: "Can you add a chatbot to answer patient questions?", answer: `Yes, an assistant for opening hours, fees, directions and booking links starts at ${P.ai}. It is set up to pass anything clinical, urgent or sensitive to your staff and to point urgent cases to NHS 111 or 999. It does not diagnose or give medical advice, and conversations are handled under your data protection rules.` },
+    { question: "How do we pay and sign off the project?", answer: "You receive an itemised quote in USD and approve it in writing before anything is billed. Payment can be made in USD or GBP through Wise, bank wire or PayPal, and invoices come from India. Milestones are set out in the quote, and our terms and refund policy pages explain the general arrangements; your accountant advises on tax treatment." },
+    { question: "What happens after launch?", answer: `Five months of maintenance are included: fixes, small edits, new clinician profiles and software updates. After that, care plans start at ${P.care}, or your own team can manage the site since you hold every login. We keep the site built so receptionists can update fees and hours without us.` },
+    { question: "Do you work with clinics in Scotland, Wales and Northern Ireland?", answer: "Yes. The process is the same, but the regulator differs by nation, so location pages carry the right regulator's details rather than CQC wording copied from England. You confirm which body regulates each service, and we build the display to match. Multi-nation groups get separate location templates." },
+    { question: "Can you move our clinic away from a template site we rent?", answer: "Yes. We rebuild the pages on hosting you own, move your content across, set up redirects from old addresses so search visibility is protected, and reconnect booking. Before you cancel the old provider, check your contract for notice terms and make sure the domain is in your name. Our website redesign page explains the migration steps." },
+  ],
+  related: {
+    heading: "Related UK pages for clinics and health businesses",
+    links: [
+      { name: "UK hub", href: "/uk/" },
+      { name: "Aesthetics clinic website design", href: "/uk/aesthetics-clinic-website-design/" },
+      { name: "Dental website design UK", href: "/uk/dental-website-design/" },
+      { name: "Care home website design", href: "/uk/care-home-website-design/" },
+      { name: "Custom booking system development", href: "/uk/booking-system-development/" },
+      { name: "Website accessibility audit UK", href: "/uk/website-accessibility-audit/" },
+      { name: "Local SEO services UK", href: "/uk/local-seo-services/" },
+      { name: "AI receptionist UK", href: "/uk/ai-receptionist-for-small-business/" },
+      { name: "Website redesign services UK", href: "/uk/website-redesign-services/" },
+      { name: "Salon website with booking", href: "/uk/salon-website-with-booking/" },
+      { name: "Outsource web development to India", href: "/outsource-web-development-to-india/" },
+      { name: "Contact", href: "/contact/" },
+    ],
+  },
+  cta: {
+    heading: "Tell us about your clinic, clinicians and practice software",
+    note: `Send your services, the number of clinicians and locations, and which practice software runs your diary. We will reply in about two working days with a sitemap, booking plan and itemised quote. Private clinic websites start at ${P.site}.`,
+  },
+};
+
+export default content;

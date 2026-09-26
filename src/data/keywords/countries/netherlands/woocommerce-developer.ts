@@ -64,7 +64,7 @@ const content: FreelanceContent = {
   services: {
     eyebrow: "WooCommerce services for Dutch shops",
     heading: "What a remote WooCommerce developer does for a webshop in the Netherlands",
-    note: "Each card is a separate line in a quote. Many Dutch shops need only two of them this year.",
+    note: "Each card is a separate line in a quote, so you can pick the two or three that solve this year's problems and leave the rest.",
     cards: [
       { name: "WooCommerce shop build", note: `A block-based theme, product structure, iDEAL checkout, shipping plugin and consent banner, on hosting you own, from ${P.shop}.`, href: "/freelance-woocommerce-developer/", size: "lg" },
       { name: "Rescue for a slow or broken shop", note: "Plugin conflicts, white screens after updates, checkout errors, orders stuck on ‘pending payment’: we trace the cause and fix it at the root.", size: "lg" },
@@ -103,7 +103,7 @@ const content: FreelanceContent = {
       heading: "What does a WooCommerce developer in the Netherlands do that plugins cannot?",
       paragraphs: [
         `A WooCommerce developer in the Netherlands makes WordPress's shop plugin behave like a dependable sales system: choosing and configuring the few plugins you actually need, writing the small bits of code that tie them together, and keeping all of it updated without breaking checkout.`,
-        `WooCommerce is free and open source. That is its appeal and its trap. You can add almost any feature by installing a plugin, and after three years many Dutch shops have forty of them, several doing overlapping jobs, some abandoned by their authors. The developer's real value is judgement: which plugin to keep, which to replace with twenty lines of code, and which to delete.`,
+        `WooCommerce is free and open source. That is its appeal and its trap. You can add almost any feature by installing a plugin, and a shop that has been running for a few years can easily collect dozens of them, several doing overlapping jobs, some abandoned by their authors. The developer's real value is judgement: which plugin to keep, which to replace with twenty lines of code, and which to delete.`,
         `Typical work splits into four kinds. <strong>Builds</strong>: a new shop on a block theme with a sensible product structure. <strong>Integrations</strong>: payments, shipping labels, accounting, marketplaces. <strong>Performance</strong>: database, caching and hosting for catalogues in the thousands of products. <strong>Care</strong>: updates, backups and security checks on a schedule.`,
         `If your shop is small and stable, you may only need the last one. If it is growing, you will likely need all four in turn. For the broader hiring picture, our page on the <a href='/freelance-woocommerce-developer/'>freelance WooCommerce developer</a> role covers the basics.`,
       ],
@@ -113,7 +113,7 @@ const content: FreelanceContent = {
       heading: "Should a Dutch webshop stay on WooCommerce or move to Shopify?",
       paragraphs: [
         `Stay on WooCommerce if control, content or custom logic matter more to you than having hosting and updates handled by someone else. Move if you are tired of maintenance and your needs fit what Shopify offers out of the box.`,
-        `Here is the decision rule we use with Dutch shop owners, in plain terms:`,
+        `Here is a plain decision rule you can apply to your own shop:`,
       ],
       subs: [
         { heading: "Choose to stay when…", text: `Your blog or guides already bring in search traffic from WordPress; you sell configurable or made-to-order products with logic no app handles; you need customer data on a server you choose; or you run B2B price rules and subscriptions that are already working.` },
@@ -198,7 +198,7 @@ const content: FreelanceContent = {
       heading: "Where should a Dutch WooCommerce shop be hosted?",
       paragraphs: [
         `Host a Dutch WooCommerce shop in an EU data centre on an account in your own name, with PHP workers, object caching and daily off-site backups sized for your order volume. Location helps with latency and makes privacy conversations simpler; capacity decides whether checkout stays fast during a sale.`,
-        `Cheap shared hosting is the most common cause of slow Dutch webshops we see. WooCommerce pages that cannot be cached, such as cart, checkout and my-account, hit PHP and the database on every request. On an overcrowded server they queue, and shoppers abandon.`,
+        `Cheap shared hosting is a frequent cause of slow webshops, for a simple reason. WooCommerce pages that cannot be cached, such as cart, checkout and my-account, hit PHP and the database on every request. On an overcrowded server they queue, and shoppers abandon.`,
       ],
       list: [
         "EU server location (for example Amsterdam or Frankfurt regions).",
@@ -218,7 +218,7 @@ const content: FreelanceContent = {
       heading: "Speed tuning a WooCommerce shop with a large catalogue",
       paragraphs: [
         `Large catalogues get slow for predictable reasons, and most fixes are in the database and search rather than the theme.`,
-        `Start with order storage. WooCommerce's developer documentation says High-Performance Order Storage (HPOS) has been enabled by default on new installations since version 8.2 and uses dedicated tables and indexes for orders instead of the general WordPress posts table. Many older Dutch shops still run on the legacy storage because a plugin was not compatible when they last checked. Moving to HPOS, after confirming each plugin supports it, reduces load on the busiest tables. The <a href='https://developer.woocommerce.com/docs/features/orders/high-performance-order-storage/' rel='noopener'>WooCommerce HPOS documentation</a> explains the compatibility-mode sync used during the switch.`,
+        `Start with order storage. WooCommerce's developer documentation says High-Performance Order Storage (HPOS) has been enabled by default on new installations since version 8.2 and uses dedicated tables and indexes for orders instead of the general WordPress posts table. A shop installed before that release may still run on the legacy storage, often because one plugin was not compatible when someone last looked. Moving to HPOS, after confirming each plugin supports it, reduces load on the busiest tables. The <a href='https://developer.woocommerce.com/docs/features/orders/high-performance-order-storage/' rel='noopener'>WooCommerce HPOS documentation</a> explains the compatibility-mode sync used during the switch.`,
       ],
       subs: [
         { heading: "Product search and filters", text: `The default search and layered filters query the database directly and slow down past a few thousand products. A dedicated search index or a well-built filter plugin with its own index keeps category pages quick.` },
@@ -305,7 +305,7 @@ const content: FreelanceContent = {
       heading: "Your server, your database, your licences",
       paragraphs: [
         `With WooCommerce, ownership is more than a line in a contract; it is physical. The shop lives on a server, its data in a database, and its premium features in plugin licences tied to an account. Every one of those should be in your company's name.`,
-        `We have seen Dutch shops where the previous developer held the hosting, the domain and the licence keys. When the relationship ended, renewals lapsed and nobody could update anything. We avoid that entirely: you buy or own each account, and we get user access.`,
+        `Picture a shop where the previous developer held the hosting, the domain and the licence keys: when that relationship ends, renewals lapse and nobody can update anything. We avoid that set-up entirely: you buy or own each account, and we get user access.`,
       ],
       list: [
         "Hosting and domain: your account, your invoices.",
@@ -431,9 +431,9 @@ const content: FreelanceContent = {
     },
   ],
   areas: {
-    eyebrow: "Dutch shops we support remotely",
+    eyebrow: "Remote support, nationwide",
     heading: "WooCommerce developer for webshops across the Netherlands",
-    note: "No office in the Netherlands and no site visits; everything runs online. These are the kinds of WooCommerce shops we hear from in each place.",
+    note: "No office in the Netherlands and no site visits; everything runs online. Here is what WooCommerce work typically looks like for shops in each place.",
     cards: [
       { name: "Amsterdam", note: "Design, food and specialist retail shops with English-speaking customers often need a bilingual WooCommerce catalogue and a checkout that handles both Dutch and foreign addresses." },
       { name: "Rotterdam", note: "Wholesale-minded shops and makers near the port frequently run WooCommerce with custom pricing logic that would be awkward on hosted platforms, so staying and tuning makes sense." },
@@ -472,7 +472,7 @@ const content: FreelanceContent = {
     { question: "Which is better for a Dutch shop, MyParcel or Sendcloud?", answer: "Both offer WooCommerce plugins for printing labels from orders in bulk. The better fit depends on your carriers, parcel volumes and whether you want delivery options such as pick-up points or evening delivery shown at checkout. Compare their current carrier lists and plans for your volumes. We connect whichever you choose and test it on your printer." },
     { question: "Should I use WPML or Polylang for Dutch and English?", answer: "WPML suits larger catalogues and teams translating many strings in one interface. Polylang suits smaller shops and lighter set-ups, with WooCommerce support as a paid add-on. Either way, keep stock shared across languages, use subfolders such as /en/, and make sure order emails follow the customer's language. You supply or approve the Dutch copy; we build the structure." },
     { question: "Why is my WooCommerce store so slow?", answer: "The usual causes are underpowered shared hosting, too many plugins, a bloated database with leftover data, order storage still on the legacy posts table, and filters or search querying the database directly. A speed audit measures each one. Fixes often include moving to EU hosting with object caching, switching to HPOS, cleaning autoloaded data and removing unused scripts." },
-    { question: "Where should I host a WooCommerce shop for Dutch customers?", answer: "In an EU data centre, on a hosting account in your name, with enough PHP workers for peak checkouts, object caching, staging and off-site backups. Being close to your customers helps latency, and EU hosting keeps privacy discussions simpler. Cheap shared plans are the most common reason Dutch WooCommerce shops feel slow at checkout." },
+    { question: "Where should I host a WooCommerce shop for Dutch customers?", answer: "In an EU data centre, on a hosting account in your name, with enough PHP workers for peak checkouts, object caching, staging and off-site backups. Being close to your customers helps latency, and EU hosting keeps privacy discussions simpler. Cheap shared plans often struggle at checkout, because cart and payment pages cannot be served from cache." },
     { question: "What should a WooCommerce maintenance plan include?", answer: "Updates tested on staging before going live, an iDEAL test order after updates, backups with regular restore tests, security scans, uptime monitoring, and periodic reviews of plugins and hosting. A plan that only clicks ‘update all’ on the live shop is not maintenance. Ours is free for five months after launch and then starts from the monthly care price." },
     { question: "Can a developer in India maintain my WooCommerce shop safely?", answer: "Yes, if access is set up properly. You create individual accounts for WordPress, hosting and SFTP with only the permissions needed, turn on two-factor login, and remove them when work ends. All changes go through staging first. Location matters less than process; a careless local developer is riskier than a careful remote one." },
     { question: "Do I own my WooCommerce shop if you build it?", answer: "Yes. Hosting, domain and premium plugin licences are bought in your company's name, custom code goes into a repository you own, and payment or carrier API keys are created in your own dashboards. You receive documentation of every plugin and setting. Nothing depends on an account we control, so ending the relationship never means losing the shop." },

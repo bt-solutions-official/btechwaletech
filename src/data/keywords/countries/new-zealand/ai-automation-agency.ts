@@ -11,7 +11,7 @@ const content: FreelanceContent = {
   crumb: "AI automation agency NZ",
   updated: "2026-09-25",
   meta: {
-    title: `AI Automation Agency NZ: Pilot Projects from ${P.ai}`,
+    title: `AI Automation Agency NZ? Pilot One Workflow from ${P.ai}`,
     description: `AI automation agency NZ alternative: three engineers pilot one Xero, Gmail or Outlook workflow from ${P.ai}, measure hours saved, then scale. No retainer needed.`,
     keywords: [
       "ai automation agency nz", "ai automation agency new zealand", "ai automation nz", "ai automation for small business nz",
@@ -133,7 +133,7 @@ const content: FreelanceContent = {
       heading: "How AI invoice automation into Xero works, step by step",
       paragraphs: [
         "The workflow reads each supplier invoice as it arrives, extracts the supplier, dates, line items and totals, checks them, then creates a draft bill in Xero with the PDF attached. Your bookkeeper still approves every bill.",
-        "Most NZ small businesses receive bills in three ways: as email attachments, through a supplier portal, or on paper that gets photographed. The automation watches a dedicated inbox such as bills@yourbusiness, which suppliers or staff forward to. Each attachment goes to an AI model with instructions to return specific fields in a fixed format, never free text.",
+        "Bills tend to reach a small business in one of three ways: as email attachments, through a supplier portal, or on paper that gets photographed. The automation watches a dedicated inbox such as bills@yourbusiness, which suppliers or staff forward to. Each attachment goes to an AI model with instructions to return specific fields in a fixed format, never free text.",
         "Checks come next, and they matter more than the AI step. Do the line items add up to the subtotal? Does the GST amount match the rate the invoice claims? Is this supplier already in Xero, and does the bank account on the invoice match the one on file? Anything that fails a check goes to a review queue instead of into Xero. That last check also helps catch invoice fraud, where a lookalike email asks you to pay a changed bank account.",
       ],
       list: [
@@ -151,7 +151,7 @@ const content: FreelanceContent = {
       heading: "Automating quote requests from Gmail and Outlook without losing the personal touch",
       paragraphs: [
         "Let AI read the enquiry, pull out what the customer wants, check your price list and prepare a draft quote and reply. A person reads the draft, adjusts it and presses send. Speed goes up; the voice stays yours.",
-        "For many NZ service businesses, the slowest part of quoting is not the pricing, it is the back-and-forth. The enquiry says 'bathroom reno, Mt Eden, can you quote?' and someone has to reply asking for measurements, photos and timing before any number is possible. An automation can send that first reply within minutes, in your wording, asking exactly the questions your estimator always asks.",
+        "In a service business, the slowest part of quoting is often the back-and-forth rather than the pricing itself. The enquiry says 'bathroom reno, Mt Eden, can you quote?' and someone has to reply asking for measurements, photos and timing before any number is possible. An automation can send that first reply within minutes, in your wording, asking exactly the questions your estimator always asks.",
         "When the customer replies with details, the next step pulls out dimensions, materials and location, looks up your standard rates, and assembles a draft in whatever tool you quote from, whether that is a Word template, a Google Doc, Xero quotes or your job system. It lands in the estimator's inbox as a draft. We never set this up to send prices to customers without a human pressing the button.",
       ],
       subs: [
@@ -165,14 +165,14 @@ const content: FreelanceContent = {
       heading: "n8n, Make or custom code: which suits a NZ business?",
       paragraphs: [
         "Use Make for simple, low-volume workflows your staff may want to adjust. Use n8n when you want more control, self-hosting or complex logic at reasonable running cost. Write custom code when volumes are high, logic is intricate or the workflow is really a small product.",
-        `n8n's own documentation describes three ways to run it: n8n Cloud on paid plans, a free self-hosted Community Edition with almost the full feature set, and a paid self-hosted Enterprise option. Self-hosting on your own cloud account, for example in an Australian or New Zealand region, keeps the workflow engine where you choose. Make is a hosted service with a visual builder that many non-developers find friendly.`,
-        "Custom code, usually Python or TypeScript running on your cloud account, has no per-operation fees and handles unusual logic cleanly, but only a developer can change it. We often combine them: an n8n workflow for orchestration and a small piece of code for the hard extraction step.",
+        `n8n's own documentation describes three ways to run it: n8n Cloud on paid plans, a free self-hosted Community Edition with almost the full feature set, and a paid self-hosted Enterprise option. Self-hosting on your own cloud account, for example in an Australian or New Zealand region, keeps the workflow engine where you choose. Make is a hosted service with a drag-and-drop visual builder designed so non-developers can follow a scenario.`,
+        "Custom code, usually Python or TypeScript running on your cloud account, has no per-operation fees and handles unusual logic cleanly, but only a developer can change it. They also mix well: an n8n workflow can handle orchestration while a small piece of code does the hard extraction step.",
       ],
       list: [
-        "<strong>Make:</strong> quick to build, visual, priced by operations, best for light and predictable jobs",
+        "<strong>Make:</strong> quick to build, visual, billed in credits used per action, best for light and predictable jobs",
         "<strong>n8n:</strong> visual plus code nodes, self-host option, suits multi-step business workflows",
         "<strong>Custom code:</strong> most control, lowest running cost at volume, needs a developer to change",
-        "<strong>Zapier:</strong> widely used and easy, but costs rise quickly at higher task volumes",
+        "<strong>Zapier:</strong> widely used and easy; plans are priced by task volume, so busy workflows cost more",
       ],
       after: ["Deeper comparisons live on our pages for an <a href='/n8n-automation-expert/'>n8n automation expert</a> and a <a href='/zapier-automation-expert/'>Zapier automation expert</a>."],
     },
@@ -181,7 +181,7 @@ const content: FreelanceContent = {
       heading: "Why hire a small engineering team instead of an AI automation agency on retainer?",
       paragraphs: [
         "A retainer makes sense when you want ongoing advice and someone to keep finding new things to automate. A project-based engineering team makes sense when you know the workflow that hurts and want it built, owned by you and measured, without a monthly commitment.",
-        "Many AI agencies in New Zealand run on a monthly model, and some bundle platform fees, support and new builds into one number. That can be convenient. The risk is paying every month for capacity you do not use, or finding that the workflows live in the agency's own accounts and stop when the retainer stops.",
+        "A retainer can bundle platform fees, support and new builds into one monthly number, which is convenient. The risk is paying every month for capacity you do not use, or finding that the workflows live in the agency's own accounts and stop when the retainer stops.",
         "Our model is different by design. You pay for a scoped pilot. The workflows, AI keys and logs sit in your accounts. After launch you get five months of free fixes. If you want further builds, each one is quoted separately. If you want ongoing care after the free period, it starts from a published price. You are never paying for an idle retainer, and you can take everything to another developer whenever you like.",
       ],
       list: [
@@ -260,7 +260,7 @@ const content: FreelanceContent = {
       heading: "Why a pilot-first rollout beats automating everything at once",
       paragraphs: [
         "A pilot proves three things cheaply: the AI handles your real documents, your staff trust and use the output, and the time saving is real. Only after that is it worth automating the next workflow.",
-        "Big-bang automation projects fail in predictable ways. Five workflows go live together, one misbehaves, staff lose confidence in all five and quietly return to the old way. With a single pilot, a problem stays small and visible. You fix it, the team sees it fixed, and the next workflow benefits from what everyone learned.",
+        "Big-bang automation projects carry a predictable risk. Five workflows go live together, one misbehaves, staff lose confidence in all five and quietly return to the old way. With a single pilot, a problem stays small and visible. You fix it, the team sees it fixed, and the next workflow benefits from what everyone learned.",
         "Our pilots have a fixed shape. Week one collects real samples and writes the success measure: for example, eighty per cent of supplier invoices reach Xero as correct drafts with no retyping. Weeks two and three build and test against those samples. Week four runs alongside the manual process, so every automated result can be compared with what a person would have done. At the end you get a short report and a decision: extend, adjust or stop.",
       ],
       subs: [
@@ -274,7 +274,7 @@ const content: FreelanceContent = {
       id: "costs",
       heading: "How much does an AI automation agency in NZ cost, and what drives the price?",
       paragraphs: [
-        `With us, a pilot automation starts at ${P.ai}, and running costs are billed to you directly by the platforms. Agency pricing in New Zealand varies widely, often combining set-up fees with a monthly charge, so compare total cost over a year rather than headline numbers.`,
+        `With us, a pilot automation starts at ${P.ai}, and running costs are billed to you directly by the platforms. Agency pricing varies widely and may combine a set-up fee with a monthly charge, so compare total cost over a year rather than headline numbers.`,
         "The drivers are consistent. The number of systems connected matters most, because each connection needs authentication, error handling and testing. Document messiness comes next: clean digital PDFs are easy, photographed paper dockets are not. Then comes how much the AI writes rather than reads, since drafting customer-facing text needs more testing and tighter guard rails than extraction.",
       ],
       list: [
@@ -390,9 +390,9 @@ const content: FreelanceContent = {
       rows: [
         ["Who can edit it later", "Trained staff", "Staff with some technical comfort", "A developer"],
         ["Hosting", "Make's cloud", "n8n Cloud or your own server", "Your own cloud account"],
-        ["Pricing model", "Plan based on operations", "Plan, or your server costs if self-hosted", "Only your server costs"],
+        ["Pricing model", "Plan based on credits used per action", "Plan, or your server costs if self-hosted", "Only your server costs"],
         ["Complex logic and loops", "Possible, gets fiddly", "Comfortable, with code nodes", "Easiest"],
-        ["High volumes", "Costs rise with operations", "Good when self-hosted", "Best"],
+        ["High volumes", "Costs rise with credits used", "Good when self-hosted", "Best"],
         ["Choosing the data region", "Limited to what Make offers", "Any region you host in", "Any region you host in"],
       ],
     },
@@ -447,16 +447,16 @@ const content: FreelanceContent = {
   faqHeading: "AI automation in New Zealand: questions business owners ask",
   faqs: [
     { question: "What does an AI automation agency in NZ actually do?", answer: `It identifies repetitive admin that AI can handle, builds workflows that connect tools like Xero, Gmail and Outlook, and adds checks so people approve important outputs. BtechWaleTech is three freelance engineers in India who build one workflow as a pilot from ${P.ai}, measure the time saved, then expand if it works.` },
-    { question: "How much does AI automation cost for a small business in New Zealand?", answer: `Provider pricing varies widely, often mixing set-up fees and monthly charges. With us, a pilot automation starts at ${P.ai}. Running costs for AI usage and platforms like n8n or Make are billed directly to you by those providers, and we estimate them from your real volumes before you approve the quote.` },
+    { question: "How much does AI automation cost for a small business in New Zealand?", answer: `Provider pricing varies widely and may mix a set-up fee with monthly charges. With us, a pilot automation starts at ${P.ai}. Running costs for AI usage and platforms like n8n or Make are billed directly to you by those providers, and we estimate them from your real volumes before you approve the quote.` },
     { question: "Is AI automation worth it for a small NZ business?", answer: "It is worth it when a repetitive task takes several hours a week and follows a predictable pattern. Time the task for a week, value those hours at full staff cost in NZD, subtract running costs, and compare with the build price. If payback comes within about a year, it is usually a sound investment." },
     { question: "Can AI enter supplier invoices into Xero automatically?", answer: "Yes. A workflow can read invoices from a dedicated inbox, extract supplier, dates, lines and GST, check the arithmetic and bank details, then create draft bills in Xero with the PDF attached. We keep a person approving each bill, which catches the occasional extraction error and suspicious changes in bank details." },
     { question: "Can AI write quotes for my business?", answer: "It can draft them. AI can read an enquiry, pull out job details, apply your price list and prepare a draft quote and reply in Gmail or Outlook. We do not set it up to send prices without a person checking, because pricing depends on judgement and context an AI does not have." },
     { question: "Is it legal for a NZ business to send customer data to overseas AI providers?", answer: "Often it is, but you stay responsible for that information under the Privacy Act 2020. IPP12 restricts disclosures to foreign parties unless conditions are met, while providers acting purely on your behalf are treated differently under section 11. Map where data goes, check provider terms, minimise what you send, and ask your own lawyer to confirm." },
     { question: "Does OpenAI train its models on data sent through business automations?", answer: "According to OpenAI's API documentation, data sent to its API is not used for training unless you opt in, and abuse-monitoring logs are kept for up to 30 days by default. Terms change and differ between providers, so we check the current terms at scoping and record them in your data map." },
-    { question: "Should I use n8n, Make or Zapier?", answer: "Make and Zapier are friendly for simple workflows your staff might adjust, though costs rise with volume. n8n suits multi-step business workflows and can be self-hosted in a region you choose. Custom code suits high volume or unusual logic. We often combine n8n with a small piece of code for the hardest step." },
+    { question: "Should I use n8n, Make or Zapier?", answer: "Make and Zapier are friendly for simple workflows your staff might adjust, though costs rise with volume. n8n suits multi-step business workflows and can be self-hosted in a region you choose. Custom code suits high volume or unusual logic. n8n can also be paired with a small piece of code for the hardest step." },
     { question: "Why choose a remote engineering team over a local AI agency on retainer?", answer: "Choose a local agency if you want in-person training and an ongoing advisory relationship. A small remote team suits businesses that know the workflow they want fixed and prefer a scoped project, direct access to the engineers and everything running in their own accounts, without a monthly commitment." },
     { question: "How long does an AI automation project take?", answer: "A single-workflow pilot usually takes 2–4 weeks: a week to gather samples and set the success measure, one to two weeks to build and test, and about a week of shadow running beside the manual process. Larger projects are built as a series of pilots rather than one long build." },
-    { question: "What is a pilot-first rollout?", answer: "It means automating one workflow, measuring the result against a timed baseline, and deciding whether to continue before building anything else. It keeps risk and spend small, builds staff trust and gives you real numbers. Most failed automation projects tried to change several processes at once." },
+    { question: "What is a pilot-first rollout?", answer: "It means automating one workflow, measuring the result against a timed baseline, and deciding whether to continue before building anything else. It keeps risk and spend small, builds staff trust and gives you real numbers. Changing several processes at once makes it hard to tell which change caused a problem." },
     { question: "Will AI automation replace my office staff?", answer: "For most small NZ businesses, no. It removes the repetitive parts of their day, such as keying data and writing routine replies, so they spend more time on customers, exceptions and judgement. Someone still reviews outputs, handles unusual cases and owns the process." },
     { question: "What happens when the AI gets something wrong?", answer: "Good workflows expect errors. Each output passes checks such as totals adding up, suppliers matching and required fields present. Anything that fails goes to a review queue with the reason. Customer-facing and financial actions need human approval, and every step is logged so mistakes can be traced and fixed." },
     { question: "Do I need a privacy impact assessment for AI automation?", answer: "The Privacy Commissioner recommends one before you start using an AI tool, updated as things change. For a small automation it can be short: what personal information is used, where it goes, who sees it, how accuracy is checked and how long data is kept. We prepare the technical half for you to complete." },
@@ -464,7 +464,7 @@ const content: FreelanceContent = {
     { question: "Can you automate Outlook and Microsoft 365 as well as Gmail?", answer: "Yes. Gmail and Google Workspace are handled through Google's official APIs, and Outlook and Microsoft 365 through Microsoft Graph, with permissions approved by whoever administers your accounts. Shared inboxes can be automated too, with assignments and notes so staff do not reply twice." },
     { question: "What ongoing costs should I expect after launch?", answer: `Expect AI usage charges, your automation platform plan and any hosting, all billed by those providers. We estimate these from your volumes at the quote stage. Our fixes are free for 5 months after launch; after that, optional care starts from ${P.care}, or you can move support elsewhere.` },
     { question: "How do we work together across the NZ and India time difference?", answer: "India is six and a half hours behind NZ standard time and seven and a half during NZ daylight saving. Calls fit your mid to late afternoon, which is our morning. You send samples or feedback before finishing work, and updates are usually ready when you start the next day." },
-    { question: "How do we pay from New Zealand?", answer: "Quotes are in USD and invoiced per milestone from India. You can pay by Wise, bank wire or PayPal; many NZ businesses use Wise to pay from an NZD account. Nothing is billed before you approve the written quote. Ask your accountant how to treat overseas invoices, as we do not give tax advice." },
+    { question: "How do we pay from New Zealand?", answer: "Quotes are in USD and invoiced per milestone from India. You can pay by Wise, bank wire or PayPal; Wise lets you pay straight from a NZD account. Nothing is billed before you approve the written quote. Ask your accountant how to treat overseas invoices, as we do not give tax advice." },
     { question: "Can AI automation help my business appear in Google or AI search?", answer: "Not directly; back-office automation is invisible to search engines. It can help indirectly by answering enquiries faster and freeing time for content and reviews. If search visibility is the goal, monthly SEO work is the right tool, and it includes making your pages easy for AI answer tools to understand." },
     { question: "What is the difference between an AI agent and an automation?", answer: "An automation follows fixed steps: when an invoice arrives, extract these fields and create a draft. An AI agent decides which steps to take, such as looking something up before replying. Agents are powerful but need tighter limits, narrow permissions and approval steps, so most SME projects start with automations." },
   ],

@@ -11,7 +11,7 @@ const content: FreelanceContent = {
   crumb: "Software development company NZ",
   updated: "2026-09-25",
   meta: {
-    title: `Software Development Company NZ: Custom from ${P.software}`,
+    title: `Software Development Company NZ? Custom Tools from ${P.software}`,
     description: `Software development company NZ SMEs compare: custom portals, dashboards and admin tools from ${P.software}, Xero sync, NZ or AU hosting, code you own.`,
     keywords: [
       "software development company nz", "software development company new zealand", "custom software development nz",
@@ -26,7 +26,7 @@ const content: FreelanceContent = {
   },
   hero: {
     eyebrow: "Custom software for New Zealand SMEs · built remotely from India",
-    h1: "Software development company NZ owners can hire for one tool that replaces five subscriptions",
+    h1: "Software development company NZ quotes too steep? Three freelance developers build the one tool that replaces five subscriptions",
     lede: `Looking for a software development company NZ small businesses can afford when the SaaS bills keep stacking up? BtechWaleTech is three freelance developers in India who build client portals, dashboards, admin panels and CRM-style tools from ${P.software}, usually in 6–12 weeks. We sync with Xero or MYOB, host in an Australian or New Zealand cloud region on your account, and hand you the code. For the question behind the search, start with <a href='#build-or-subscribe'>when custom software beats another subscription</a>.`,
     pills: ["Portals and admin panels", "Xero and MYOB sync", "NZ or AU cloud region", "Code in your repository", "Staged scope-to-launch", "Quoted in USD", "5 months free care"],
     origin: "Three freelance developers in India · WhatsApp replies 7 days a week · our morning meets your NZ afternoon",
@@ -89,7 +89,7 @@ const content: FreelanceContent = {
       ["Meeting in person", "Not relevant", "Easy to arrange", "Video calls only; no site visits"],
       ["Who owns the code", "Nobody on your side; you rent access", "Depends on the contract", "You, in your own repository"],
       ["If the supplier disappears", "Export your data and move", "Escrow or handover clauses help", "Code, docs and hosting already sit with you"],
-      ["Speed to first result", "Days", "Weeks to months", "First working stage usually within 3–4 weeks"],
+      ["Speed to first result", "Days", "Weeks to months", "First working stage usually within 3–5 weeks"],
     ],
     fine: "If you need a supplier on-site each week, procurement rules that require a NZ-registered vendor, or a team of twenty, a local software house is the better choice.",
   },
@@ -104,7 +104,7 @@ const content: FreelanceContent = {
       heading: "Build or subscribe: when does a NZ SME need a software development company?",
       paragraphs: [
         "You need custom software when the tools you rent no longer match how the business runs and the gap costs you staff hours every week. If a standard product covers most of the job and the rest can wait, keep subscribing.",
-        "Most New Zealand SMEs grow into software in the same order. First a spreadsheet. Then a job management app such as Tradify or Simpro, an accounting file in Xero or MYOB, a form tool, a scheduling tool and a shared drive. Each one solves a problem, but nobody designed them to work together, so a person in the office becomes the integration: copying a customer from the enquiry form into the job app, then into Xero, then into a report.",
+        "Many New Zealand SMEs grow into software along a familiar path. First a spreadsheet. Then a job management app such as Tradify or Simpro, an accounting file in Xero or MYOB, a form tool, a scheduling tool and a shared drive. Each one solves a problem, but nobody designed them to work together, so a person in the office becomes the integration: copying a customer from the enquiry form into the job app, then into Xero, then into a report.",
         "That hidden labour is the signal. A software development company NZ owners bring in at this stage is not replacing everything. The best projects keep the products that work well, usually the accounting file, and build one piece in the middle that holds the data your business is really about.",
       ],
       list: [
@@ -168,7 +168,7 @@ const content: FreelanceContent = {
       heading: "Syncing custom software with Xero or MYOB: what works and what to avoid",
       paragraphs: [
         "Use the official Xero or MYOB API with an app registered under your own business, sync only the records the workflow needs, and decide which system is the source of truth for each field before building anything.",
-        "Most NZ SMEs run their books in Xero, with MYOB common in older or larger firms. Your custom tool should not try to become an accounting system. It should create draft invoices, look up contacts and read payment status, then let your bookkeeper do what they already do in the accounting file.",
+        "Whether your books live in Xero or MYOB, your custom tool should not try to become an accounting system. It should create draft invoices, look up contacts and read payment status, then let your bookkeeper do what they already do in the accounting file.",
         "The design question that saves the most pain is ownership of each field. If a customer's phone number can be edited in both your portal and Xero, which one wins? We write that down per field in the scope. Then we build the sync to respect it, log every call, and retry sensibly when the accounting service is slow or a token has expired.",
       ],
       subs: [
@@ -180,7 +180,7 @@ const content: FreelanceContent = {
     },
     {
       id: "nz-hosting-region",
-      heading: "Where should a software development company NZ clients hire host the system?",
+      heading: "Where should your software development company host NZ data: Auckland or Sydney?",
       paragraphs: [
         "For most NZ SMEs, hosting in Sydney, Melbourne or Auckland keeps latency low for staff and customers and keeps data close to home. Auckland now has regions from both AWS and Microsoft, so a New Zealand-only setup is possible if your clients ask for it.",
         `AWS lists <a href='https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions.html' rel='noopener'>Asia Pacific (New Zealand), code ap-southeast-6</a>, alongside its Sydney and Melbourne regions, and Microsoft lists New Zealand North in Auckland among its Azure regions. Newer AWS regions have to be switched on in the account before use, which we walk you through during setup.`,
@@ -261,7 +261,7 @@ const content: FreelanceContent = {
       paragraphs: [
         "We build in four stages: scope, foundation, workflow and launch. Each ends with a demo you can click and a sign-off before anything further is billed.",
         "Scope turns your brief into screens, user roles, data fields and acceptance tests. Foundation sets up hosting, logins, the database and the first real screen, usually the one your team uses most. Workflow adds the remaining screens, the Xero or MYOB link and the reports. Launch covers data migration, training videos, go-live and the first fortnight of close monitoring.",
-        "Because the stages are priced separately, you are never more than one stage of spend away from a decision. If the foundation demo reveals that the idea needs rethinking, we stop, rewrite the scope and requote the rest. That happens more often than suppliers like to admit, and it is far cheaper at week three than at week ten.",
+        "Because the stages are priced separately, you are never more than one stage of spend away from a decision. If the foundation demo reveals that the idea needs rethinking, we stop, rewrite the scope and requote the rest. Changing direction at week three costs a fraction of what the same change costs at week ten.",
       ],
       subs: [
         { heading: "Scope (week 1–2)", text: "Workshops on video, a written scope, clickable wireframes of the key screens, and an itemised quote per stage." },
@@ -303,7 +303,7 @@ const content: FreelanceContent = {
       heading: "Working with a software team in India from New Zealand: the first two weeks",
       paragraphs: [
         "India is six and a half hours behind New Zealand standard time and seven and a half behind during NZ daylight time, from late September to early April. Our morning is your afternoon, so a 3 pm NZ call is easy, and anything you send before you leave work is usually answered or built by the next morning.",
-        "Quotes are in USD. You pay each stage by Wise, bank wire or PayPal; many NZ clients use Wise because it converts straight from a NZD account. Invoices come from India, and we do not advise on how your accountant treats them. The agreement is the written quote plus our published terms, and ownership moves to you as each stage is paid.",
+        "Quotes are in USD. You pay each stage by Wise, bank wire or PayPal; Wise is handy here because it converts straight from a NZD account. Invoices come from India, and we do not advise on how your accountant treats them. The agreement is the written quote plus our published terms, and ownership moves to you as each stage is paid.",
       ],
       subs: [
         { heading: "Days 1–2", text: "You send the brief, screenshots of the tools you use now and a sample of the spreadsheet or report you want to replace. We reply on WhatsApp with questions the same day." },
@@ -451,7 +451,7 @@ const content: FreelanceContent = {
     { question: "How does the Privacy Act 2020 apply when developers are overseas?", answer: "Your business remains responsible for the personal information it holds. The Privacy Commissioner treats service providers that hold information only on your behalf differently from overseas parties using it for their own purposes, which IPP12 covers. We build with minimal data collection, role-based access, encryption and audit logs, and your own lawyer confirms the legal position." },
     { question: "Should we hire a local software development company in NZ or a remote freelance team?", answer: "Choose a local software house if you need in-person workshops every week, procurement requires a NZ-registered supplier, or the project needs a large team. A small remote team suits SMEs comfortable with video calls and written sign-offs who want most of the budget spent on the build itself, with direct access to the developers." },
     { question: "What happens if we want changes halfway through a software project?", answer: "Changes are normal. We log each request in the shared list, estimate its effect on time and cost, and you decide whether it goes into the current stage, the next one or version two. Nothing extra is billed without your written approval, and the terms for changes are set out in your quote." },
-    { question: "How do we pay for software development from New Zealand?", answer: "We quote in USD and invoice per stage. You can pay by Wise, bank wire or PayPal; Wise is popular with NZ clients because it converts from a NZD account at a transparent rate. Invoices are issued from India. Ask your accountant how to treat them, since we do not give tax advice." },
+    { question: "How do we pay for software development from New Zealand?", answer: "We quote in USD and invoice per stage. You can pay by Wise, bank wire or PayPal; Wise lets you pay from a NZD account and shows the conversion rate before you send. Invoices are issued from India. Ask your accountant how to treat them, since we do not give tax advice." },
     { question: "Can you take over software another developer started?", answer: "Often, yes. We start with a paid review of the code, hosting and documentation, then tell you plainly what can be kept, what needs rewriting and what the finish might cost. If the previous developer holds the only copy of the code, recovering access is the first job before any quote is meaningful." },
     { question: "What tech stack do you use for business software?", answer: "Mostly TypeScript with React or Next.js, Node.js or Python on the server and PostgreSQL for data, hosted on AWS or Azure. These are mainstream tools many developers in New Zealand and Australia know, which keeps you free to change suppliers or hire in-house later without a rewrite." },
     { question: "Do you visit our premises in New Zealand?", answer: "No. The three of us work remotely from India and do not make site visits. Workshops happen on video in your afternoon, and screen recordings replace walk-throughs. If your project depends on on-site hardware, scanners in a warehouse for example, a local integrator may need to handle that part." },

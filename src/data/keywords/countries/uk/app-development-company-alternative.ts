@@ -214,7 +214,7 @@ const content: FreelanceContent = {
     },
     {
       id: "post-launch",
-      heading: "What support does an app need after launch?",
+      heading: "What post-launch support should an app development company in the UK include?",
       paragraphs: [
         `More than most people budget for. Apps sit on platforms that change every year, and both stores expect apps to keep up.`,
         `Typical post-launch work: fixing bugs real users find; updating Flutter and plugins; rebuilding against newer iOS and Android versions when Apple and Google raise their requirements; renewing certificates and keys; watching crash reports; responding to store review feedback; and small improvements based on analytics. Plus the back end: security patches, backups and database growth.`,
@@ -234,7 +234,7 @@ const content: FreelanceContent = {
     },
     {
       id: "uk-specifics",
-      heading: "UK-specific points to get right in a mobile app",
+      heading: "What should an app development company in the UK get right on privacy and accessibility?",
       paragraphs: [
         `Privacy, consent and accessibility are the three areas UK apps most often get wrong. None of them is difficult if planned from the start.`,
         `Privacy: both stores ask you to declare what data the app collects, in Apple's App Privacy details and Google Play's Data safety section. Those answers must match your privacy notice and what the app really does, including data collected by analytics and advertising SDKs. We keep SDKs to a minimum and give you an accurate list.`,
@@ -353,7 +353,7 @@ const content: FreelanceContent = {
     },
   ],
   areas: {
-    eyebrow: "UK founders and SMEs we work with remotely",
+    eyebrow: "App ideas from UK founders and SMEs",
     heading: "App projects from across the UK",
     note: "We have no UK office and never visit; everything runs online from India. These are the kinds of app ideas that come from businesses in each place.",
     cards: [
@@ -392,7 +392,7 @@ const content: FreelanceContent = {
     { question: "How long does it take to build an app?", answer: "A focused first version with us usually takes six to ten weeks, depending on screens, back end and integrations. Allow extra time for Apple enrolment (organisations need a D-U-N-S number) and, for new personal Google Play accounts, the closed-testing period Google requires before production access." },
     { question: "What is Flutter and is it good enough for a professional app?", answer: "Flutter is Google's open-source framework for building iOS and Android apps from one Dart codebase. It is widely used for production apps and gives consistent design across devices while still reaching native features through plugins. For most business and consumer apps, users cannot tell a well-built Flutter app from a native one." },
     { question: "Should my app be published under my own developer account?", answer: "Yes. Register your business with the Apple Developer Program and Google Play Console, then invite the developer as a team member. If the app is published under a supplier's account, its listing, reviews and download history belong to them, and moving it later is awkward. We always publish under the client's accounts." },
-    { question: "How much are the Apple and Google developer fees?", answer: "Apple's developer programme costs US$99 per membership year, according to Apple's enrolment page. Google Play charges a US$25 one-time registration fee. Both are paid by you directly, in your business name, never through the developer. Nonprofits and some other organisations can apply to Apple for a fee waiver." },
+    { question: "How much are the Apple and Google developer fees?", answer: "Apple's developer programme costs US$99 per membership year, according to Apple's enrolment page. Google Play charges a US$25 one-time registration fee. Both are paid by you directly, in your business name, never through the developer. Apple offers fee waivers to eligible nonprofits, accredited educational institutions and government bodies whose apps sell no digital goods." },
     { question: "Who owns the source code of my app?", answer: "It should be you, in writing. UK government guidance says the creator of a commissioned work owns the copyright unless otherwise agreed in writing, so your contract needs an assignment. With us, copyright in the code we write is assigned to your business and the repository lives in your account from the first day." },
     { question: "What happens after my app launches?", answer: `Bugs get fixed, crash reports are watched, Flutter and plugins are updated, and the app is rebuilt when Apple and Google raise their requirements. We include five months of free maintenance for fixes to our own work, then offer a care plan from ${P.care}. Bigger features are quoted separately.` },
     { question: "Can you build the back end and admin panel as well?", answer: `Yes. Simple apps can use a managed back end, while apps with real business rules get a custom API in Node.js or Python in your AWS account, plus a web admin panel for staff. Substantial back-end and admin work starts at ${P.software} and is itemised in the quote.` },

@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   ],
   answer: {
     heading: "How do you take a business online in India, step by step?",
-    text: `Start with a free Google Business Profile so people find you on Maps, then set up WhatsApp Business with a catalogue, then a simple website (ours start at ${P.site}), then UPI and card payments, then listings on the marketplaces your buyers use. Add an online store from ${P.shop} or automation only after enquiries prove demand. Most businesses finish the core in about 90 days.`,
+    text: `To take a business online in India, start with a free Google Business Profile so people find you on Maps, then set up WhatsApp Business with a catalogue, then a simple website (ours start at ${P.site}), then UPI and card payments, then listings on the marketplaces your buyers use. Add an online store from ${P.shop} or automation only after enquiries prove demand. The core usually fits into about 90 days.`,
     more: `Not sure the website step applies to you? Read <a href='/does-my-business-need-a-website/'>does my business need a website</a>, or compare <a href='/google-business-profile-vs-website/'>a Google profile against a website</a>.`,
   },
   snapshot: {
@@ -105,7 +105,7 @@ const content: FreelanceContent = {
       heading: "How to take business online in India: the six-stage order",
       paragraphs: [
         `Taking a business online in India works best as a ladder: each stage builds on the one before it, and you only climb when the lower rung is doing its job. Skipping ahead, such as building an app before anyone finds you on Google, is the most expensive mistake owners make.`,
-        `Here is the order we recommend to nearly every shop, clinic, workshop, school and service business that asks us how to take business online in India. It is based on where Indian customers actually look first: a Maps search or a WhatsApp chat, long before they would download anything.`,
+        `Here is the order we suggest for a shop, clinic, workshop, school or service business working out how to take business online in India. It is based on where Indian customers actually look first: a Maps search or a WhatsApp chat, long before they would download anything.`,
       ],
       list: [
         "Stage 1: Google Business Profile, so you appear on Maps and local search",
@@ -131,7 +131,7 @@ const content: FreelanceContent = {
       heading: "How do I put my business on Google Maps?",
       paragraphs: [
         `Create a free Google Business Profile at google.com/business with your exact business name, category, address or service area, phone number and hours, then complete the verification Google asks for. Once verified, your business can appear on Maps and in local search results.`,
-        `Most Indian customers look up a shop or service on Maps before visiting or calling. The profile is where they see your photos, timings, reviews and a button to call or get directions. It costs nothing, and for many local businesses it brings more enquiries than any other single step in taking a business online.`,
+        `Plenty of customers look up a shop or service on Maps before visiting or calling. The profile is where they see your photos, timings, reviews and a button to call or get directions. It costs nothing, and it is often the first thing a nearby customer sees when they search for what you sell.`,
         `Fill in every field. Choose the most specific primary category, list your services or products with short descriptions, add real photos of your shopfront, interior and work, and set holiday hours before festivals. Ask happy customers for reviews and reply to every review, good or bad, politely and briefly.`,
       ],
       list: [
@@ -147,7 +147,7 @@ const content: FreelanceContent = {
       heading: "Stage 2: set up WhatsApp Business the right way",
       paragraphs: [
         `Install the free WhatsApp Business app on a number you will keep for years, fill in the business profile, and add a catalogue, greeting message, away message and quick replies. This is where most Indian customers will actually talk to you.`,
-        `The catalogue is a small shop window inside WhatsApp. Setup guides consistently document the Business app catalogue as holding up to 500 items, which covers most small shops. Add a clear photo, price and short description for your most-asked items. Quick replies save typing the same address, timings or UPI details fifty times a day. Labels such as "new enquiry", "paid" and "delivered" turn your chat list into a simple order tracker.`,
+        `The catalogue is a small shop window inside WhatsApp, and customers can browse it without leaving the chat. Start with the items people ask about most rather than your whole stock. Add a clear photo, price and short description for your most-asked items. Quick replies save typing the same address, timings or UPI details fifty times a day. Labels such as "new enquiry", "paid" and "delivered" turn your chat list into a simple order tracker.`,
         `Put your WhatsApp number on your Google profile, shop signboard, bills and packaging. When chats grow beyond what one person can handle, or you need automatic order updates, that is the signal to look at the WhatsApp Business API, covered on our <a href='/whatsapp-business-app-vs-api/'>app vs API comparison</a>.`,
       ],
     },
@@ -226,11 +226,11 @@ const content: FreelanceContent = {
         { heading: "Days 31–60: build your home base", text: "Launch the website with your services, catalogue, prices or price ranges, gallery and WhatsApp button. Connect Google Search Console and analytics. Start payment links for remote orders. Pick one social platform and post weekly." },
         { heading: "Days 61–90: list, measure and decide", text: "List on the one or two marketplaces or directories that matter for your trade. Compare enquiry sources: calls, direction requests, WhatsApp chats, website forms. Decide whether stage six (a store, automation or SEO) is worth funding next." },
       ],
-      after: [`Print the calendar in the table further down this page and tick off each item; the owners who finish are the ones who schedule it.`],
+      after: [`Print the calendar in the table further down this page and tick off each item; blocking a fixed hour in your diary each day is what keeps the plan moving.`],
     },
     {
       id: "paperwork",
-      heading: "What registrations do you need before selling online in India?",
+      heading: "What registrations do you need to take a business online in India?",
       paragraphs: [
         `For a profile, WhatsApp and a basic website you usually need nothing new. Once you take payments online or sell through marketplaces, you will need a current account, PAN and, depending on your turnover and how you sell, GST registration.`,
         `Under the CGST Act, businesses selling goods cross the registration threshold at ₹40 lakh of annual turnover in most states, lower in some special category states, and suppliers selling through an e-commerce operator have long been required to register regardless of turnover, with a relaxation since October 2023 for small sellers supplying only within their own state. Rules change, so confirm your position with a chartered accountant before listing on any marketplace.`,
@@ -239,7 +239,7 @@ const content: FreelanceContent = {
     },
     {
       id: "mistakes",
-      heading: "Mistakes offline businesses make when going online",
+      heading: "Mistakes to avoid when you take your business online",
       paragraphs: [
         `The costliest mistakes are about ownership and order, not technology. Each of these is easy to avoid if you know about it before you start.`,
       ],
@@ -283,7 +283,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical walk-through, not a client story. Picture a family-run paint and hardware shop in Coimbatore. Customers are contractors, painters and homeowners. The owner's son handles the phone; the father handles the counter. Nothing is online except a few customers' WhatsApp chats.`,
         `Month one: the son creates the Google Business Profile with the category for hardware stores, adds photos of the paint-mixing machine and stock aisles, and asks regular contractors for reviews. WhatsApp Business goes on the shop number with a catalogue of the thirty most-asked items and a quick reply for the shade card request. A UPI QR sits on the counter.`,
-        `Month two: a small website goes live with brands stocked, a shade-selection help page, a contractor enquiry form and Tamil and English contact details. Month three: they list on one B2B directory for bulk buyers, track enquiries, and notice many contractors ask for price lists on WhatsApp every week. That points to automated price-list replies next, not an app. The website would start from ${P.site}; everything else in the first two months is their own time.`,
+        `Month two: a small website goes live with brands stocked, a shade-selection help page, a contractor enquiry form and contact details in Tamil and English, worded by the family. Month three: they list on one B2B directory for bulk buyers, track enquiries, and notice many contractors ask for price lists on WhatsApp every week. That points to automated price-list replies next, not an app. The website would start from ${P.site}; everything else in the first two months is their own time.`,
       ],
     },
     {
@@ -388,7 +388,7 @@ const content: FreelanceContent = {
       ["Register accounts in your name", "Domain, hosting and business email are created in your name. We work with access you grant, and you keep the keys."],
       ["Approve the design on your phone", "You see the website on a private link and check it on the phone your customers use, in the languages you need."],
       ["Launch and connect everything", "The site goes live linked to your Google profile, WhatsApp and payment links, with Search Console and analytics switched on."],
-      ["Review after 90 days", "We look at enquiries by source with you and recommend whether the next step is a store, automation, SEO or nothing yet."],
+      ["Decide the next step at 90 days", "Share your enquiry counts by source and we give an honest view on whether the next step is a store, automation, SEO or nothing yet."],
     ],
   },
   faqHeading: "Taking a business online in India: questions owners ask",
@@ -404,7 +404,7 @@ const content: FreelanceContent = {
     { question: "How do I accept online payments for my shop?", answer: "Get a UPI QR code linked to your current account for counter and phone payments. For remote orders, use payment links from your bank or a payment gateway and send them on WhatsApp. When customers want to order without talking to you, add an online store with full checkout. Keep every payment account in your business name." },
     { question: "What should I do myself and what should I hire someone for?", answer: "Handle your Google profile, review replies, WhatsApp chats, photos and social posts yourself, because they carry your voice. Hire for the website, online store, domain and email setup, payment integration and automation, where technical mistakes are expensive and hard to spot. That split keeps costs low and protects the parts that must be built correctly." },
     { question: "Which social media is best for a local business in India?", answer: "Pick one platform where your customers already spend time and post consistently for three months. Instagram suits salons, boutiques, bakeries, gyms and restaurants. YouTube demos suit products that need explaining. LinkedIn suits B2B services. Always point posts to a WhatsApp chat or a specific website page, not a generic home page." },
-    { question: "How do I get more Google reviews for my business?", answer: "Ask satisfied customers in person at the right moment, such as after a successful job or purchase, and send the direct review link on WhatsApp. Make it easy with a QR code at the counter. Reply to every review politely. Never buy reviews or offer rewards for positive ones; Google's policies prohibit that and it can get your profile restricted." },
+    { question: "How do I get more Google reviews for my business?", answer: "Ask satisfied customers in person at the right moment, such as after a successful job or purchase, and send the direct review link on WhatsApp. Make it easy with a QR code at the counter. Reply to every review politely. Never buy reviews or offer discounts or gifts in return for them; Google's review policies prohibit incentivised reviews, and breaking them can get your profile restricted." },
     { question: "Is WhatsApp Business free for small businesses?", answer: "The WhatsApp Business app is free to download and use on one number, with a business profile, catalogue, labels, quick replies and away messages. The WhatsApp Business API, used for automation and higher volumes, is a separate service with per-message charges set by Meta. Most small businesses start on the free app and move to the API later." },
     { question: "When should my business get an app?", answer: `Get an app when a loyal customer base orders from you often and would benefit from one-tap re-orders, loyalty points or push offers. For most local businesses that comes well after the Google profile, WhatsApp and website stages. Apps start at ${P.app} with us, and we will tell you honestly if a website is enough for now.` },
     { question: "Will a website bring customers automatically?", answer: "No. A website brings customers when people can find it: through your Google profile, search results, social links, WhatsApp shares and your printed material. It needs pages that match what people search, fast loading on phones and regular updates. Treat it as your home base that other channels point to, and measure enquiries from it every week." },

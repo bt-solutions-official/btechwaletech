@@ -41,12 +41,12 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers on every WordPress build" },
     { value: "100", label: "Pages included in the starting website plan" },
-    { value: "2", label: "Working days to an itemised quote" },
+    { value: "2", label: "Working days to an itemized quote" },
     { value: "5", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "What does custom WordPress website design cost in Canada, and how is it different from a template?",
-    text: `A template install gives you someone else's layout with your text; custom WordPress website design builds page types, editing blocks and navigation around your content. With BtechWaleTech a WordPress business website of up to 100 pages starts at ${P.site}, and a 299+ page SEO site at ${P.seoSite}. Bilingual setup, accessibility testing and integrations are itemised on top.`,
+    text: `A template install gives you someone else's layout with your text; custom WordPress website design builds page types, editing blocks and navigation around your content. With BtechWaleTech a WordPress business website of up to 100 pages starts at ${P.site}, and a 299+ page SEO site at ${P.seoSite}. Bilingual setup, accessibility testing and integrations are itemized on top.`,
     more: `For a broader look at Canadian website budgets see <a href='/canada/website-design-cost/'>how much a website costs in Canada</a>; if you mainly need a compact site, read <a href='/canada/small-business-website-design/'>small business website design in Canada</a>.`,
   },
   snapshot: {
@@ -64,7 +64,7 @@ const content: FreelanceContent = {
   services: {
     eyebrow: "WordPress work for Canadian clients",
     heading: "What sits inside a WordPress website design project",
-    note: "A WordPress project is a bundle of decisions. These are the parts Canadian clients most often ask us to design, build or fix.",
+    note: "A WordPress project is a bundle of decisions. Each card below is one of those decisions, priced and scoped as its own line in your quote.",
     cards: [
       { name: "Custom WordPress design and build", note: `Page types, reusable blocks and a design system built around your content, from ${P.site}. The right move when a stock theme keeps fighting your layout.`, href: "/services/web-development/", size: "lg" },
       { name: "Bilingual English–French WordPress", note: "WPML or Polylang configured with separate URLs per language, translated menus and forms, and hreflang so each version can rank. Your translator supplies the French.", href: "/canada/bilingual-website-development/", size: "lg" },
@@ -85,7 +85,7 @@ const content: FreelanceContent = {
       ["Page weight", "Often heavy: sliders, builders, unused features", "Depends on the studio", "Lean block theme, only what you use"],
       ["French version", "Plugin added afterwards", "Usually offered", "Planned from the start with WPML or Polylang"],
       ["Accessibility", "Varies by theme", "Often offered as an audit", "Built to WCAG 2.0 AA and checked manually"],
-      ["Cost", "Lowest upfront", "Canadian studio rates", `From ${P.site}, itemised`],
+      ["Cost", "Lowest upfront", "Canadian studio rates", `From ${P.site}, itemized`],
       ["Editing for staff", "Theme options panels to learn", "Training usually included", "Locked-down blocks plus written guide and recorded training"],
       ["Meetings", "None", "In person or video", "Video calls in your morning, WhatsApp between"],
       ["Hosting and ownership", "Your choice", "Sometimes on the studio's server", "Always your account, Canadian data centre if you want"],
@@ -108,7 +108,7 @@ const content: FreelanceContent = {
       ],
       subs: [
         { heading: "Template install fits when", text: "you need a handful of pages quickly, one language, no accessibility obligation and no plans for growth in the next year." },
-        { heading: "Custom WordPress fits when", text: "you have several page types, English and French, staff who publish often, or you are an Ontario organisation with 50 or more employees." },
+        { heading: "Custom WordPress fits when", text: "you have several page types, English and French, staff who publish often, or you are an Ontario organization with 50 or more employees." },
       ],
     },
     {
@@ -116,7 +116,7 @@ const content: FreelanceContent = {
       heading: "How much does WordPress website design cost in Canada?",
       paragraphs: [
         `WordPress website design prices in Canada range from a theme and a weekend to large agency projects, and quotes vary widely because scope varies. With us, a WordPress business website starts at ${P.site} and a 299+ page SEO site at ${P.seoSite}; everything added is priced line by line.`,
-        `The biggest cost drivers we see on Canadian WordPress projects are these. Number of unique templates: a site with a homepage, service page and contact page is simpler than one with locations, staff profiles, events and resources. Languages: a French version touches every template, menu, form and email. Content: moving eighty old pages is real work even when nothing is rewritten. Integrations: booking tools, CRMs and payment forms each need setup and testing.`,
+        `The biggest cost drivers on a Canadian WordPress project are these. Number of unique templates: a site with a homepage, service page and contact page is simpler than one with locations, staff profiles, events and resources. Languages: a French version touches every template, menu, form and email. Content: moving eighty old pages is real work even when nothing is rewritten. Integrations: booking tools, CRMs and payment forms each need setup and testing.`,
         `Then there are costs you pay to others. Hosting, your domain and premium plugin licences are bought in your name. WordPress itself is free, Polylang has a free version and WPML is a paid plugin, so the bilingual route you choose affects your yearly costs. We list those separately so the quote shows exactly what goes to us and what goes to vendors.`,
       ],
     },
@@ -125,7 +125,7 @@ const content: FreelanceContent = {
       heading: "What is included in a custom WordPress build?",
       paragraphs: [
         `A complete WordPress website design project delivers a theme, editing blocks, configured plugins, forms, SEO basics, accessibility checks, analytics with consent, and a trained editor on your side. If one of those is missing from a quote, ask why.`,
-        `Here is what a typical build from us contains, adjusted to your scope. Every item is visible in the itemised quote, so you can remove what you do not need or ask for more depth where you do.`,
+        `Here is what a typical build from us contains, adjusted to your scope. Every item is visible in the itemized quote, so you can remove what you do not need or ask for more depth where you do.`,
       ],
       list: [
         "Sitemap and page-type plan agreed before design starts",
@@ -162,16 +162,16 @@ const content: FreelanceContent = {
       id: "aoda",
       heading: "Does a Canadian WordPress site need to meet AODA, and which themes help?",
       paragraphs: [
-        `If you are in Ontario and have 50 or more employees, or are a designated public sector organisation, your public website must meet WCAG 2.0 Level AA under the AODA. Other Canadian businesses benefit from the same standard, because it makes the site usable for more people.`,
+        `If you are in Ontario and have 50 or more employees, or are a designated public sector organization, your public website must meet WCAG 2.0 Level AA under the AODA. Other Canadian businesses benefit from the same standard, because it makes the site usable for more people.`,
         `The <a href='https://www.ontario.ca/page/how-make-websites-accessible' rel='noopener'>Government of Ontario's guidance</a> says the requirement applies from January 1, 2021 to public websites and web content published after January 1, 2012, with live captions and pre-recorded audio descriptions excluded. The W3C notes that content conforming to WCAG 2.2 also conforms to 2.0 and 2.1, so building to a newer version does not hurt.`,
-        `On WordPress, accessibility is mostly decided by the theme and blocks. We look for visible focus outlines, skip links, proper heading order, labelled form fields, sufficient colour contrast and menus that work by keyboard. Then we test by hand with a keyboard and a screen reader, because automated scanners catch only part of the problems. Overlay widgets that promise instant compliance do not fix the underlying code, so we do not sell them. We never certify compliance; your organisation, and its advisers, make that call.`,
+        `On WordPress, accessibility is mostly decided by the theme and blocks. We look for visible focus outlines, skip links, proper heading order, labelled form fields, sufficient colour contrast and menus that work by keyboard. Then we test by hand with a keyboard and a screen reader, because automated scanners catch only part of the problems. Overlay widgets that promise instant compliance do not fix the underlying code, so we do not sell them. We never certify compliance; your organization, and its advisers, make that call.`,
       ],
     },
     {
       id: "hosting",
       heading: "Where should a Canadian WordPress website be hosted?",
       paragraphs: [
-        `Host where your visitors are and where your privacy obligations are easiest to explain: for many Canadian organisations that means a provider with a Canadian data centre, in your own account. For a marketing site with no sensitive data, a reputable host in the US is also common.`,
+        `Host where your visitors are and where your privacy obligations are easiest to explain: for many Canadian organizations that means a provider with a Canadian data centre, in your own account. For a marketing site with no sensitive data, a reputable host in the US is also common.`,
         `Amazon Web Services runs two Canadian regions, Canada (Central) in Montreal and Canada West in Calgary, and several managed WordPress hosts and Canadian providers offer servers in Toronto, Montreal or Vancouver. If your site collects health, financial or client files, hosting in Canada can make your privacy disclosures simpler, though your lawyer should confirm what your obligations require.`,
         `What matters as much as location: automatic daily backups kept off the server, PHP kept current, a staging copy for testing updates, a firewall, and SSL renewed automatically. We set the hosting account up in your name, add ourselves as a user you can remove, and document the settings. You never depend on our server to keep your site online.`,
       ],
@@ -181,7 +181,7 @@ const content: FreelanceContent = {
       heading: "Cookie consent on WordPress for Law 25 and PIPEDA",
       paragraphs: [
         `Install a consent management plugin that blocks analytics, advertising and other non-essential tags until the visitor opts in, record their choices, and publish a clear privacy page. That is the technical part; what your policy says is for your lawyer.`,
-        `According to the <a href='https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/pipeda_brief/' rel='noopener'>Office of the Privacy Commissioner</a>, PIPEDA applies to private-sector organisations collecting personal information in commercial activity, while Alberta, British Columbia and Quebec have their own substantially similar laws. Quebec's Law 25 goes further on websites: section 8.1, in force since September 22, 2023, requires businesses to tell people when technology can identify, locate or profile them and how to activate those functions, which lawyers read as off by default. Law 25 also requires the title and contact details of the person in charge of personal information to be published, usually on the website.`,
+        `According to the <a href='https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/pipeda_brief/' rel='noopener'>Office of the Privacy Commissioner</a>, PIPEDA applies to private-sector organizations collecting personal information in commercial activity, while Alberta, British Columbia and Quebec have their own substantially similar laws. Quebec's Law 25 goes further on websites: section 8.1, in force since September 22, 2023, requires businesses to tell people when technology can identify, locate or profile them and how to activate those functions, which lawyers read as off by default. Law 25 also requires the title and contact details of the person in charge of personal information to be published, usually on the website.`,
         `In practice we configure the consent plugin with categories, connect Google tags through consent mode, keep forms collecting only what you need, add a field for your privacy officer's contact on the privacy page and test that nothing fires before consent. We do not write your privacy policy or advise on your obligations; see <a href='/canada/law-25-website-compliance/'>Law 25 website compliance</a> for more detail on the build side.`,
       ],
     },
@@ -199,7 +199,7 @@ const content: FreelanceContent = {
       heading: "WordPress website design for SEO and AI search in Canada",
       paragraphs: [
         `WordPress gives you full control of titles, headings, URLs and structured data, so a well-built site can compete in Canadian search. Rankings depend on content, competition and links, and nobody can promise them.`,
-        `On each build we set up an SEO plugin for titles, descriptions and XML sitemaps, add structured data for your organisation, services and locations, keep URLs short and human, and connect Google Search Console and your analytics to accounts you own. For bilingual sites, each language gets its own URLs and hreflang so Google shows the French page to French searchers.`,
+        `On each build we set up an SEO plugin for titles, descriptions and XML sitemaps, add structured data for your organization, services and locations, keep URLs short and human, and connect Google Search Console and your analytics to accounts you own. For bilingual sites, each language gets its own URLs and hreflang so Google shows the French page to French searchers.`,
         `Speed counts too: Core Web Vitals are shaped by the theme and plugins far more than by hosting alone. For AI-generated answers from Google and other assistants, pages that answer questions plainly, with FAQs, clear service descriptions and named locations, tend to be easier to quote. If you want ongoing help, our <a href='/canada/technical-seo-services/'>technical SEO service for Canadian sites</a> starts at ${P.seo} a month.`,
       ],
     },
@@ -207,7 +207,7 @@ const content: FreelanceContent = {
       id: "plugins",
       heading: "How many plugins should a WordPress site have, and who keeps them updated?",
       paragraphs: [
-        `Use as few plugins as the job allows, choose ones that are actively maintained, and make one person responsible for updates. Most hacked WordPress sites we are asked to clean up were running outdated plugins.`,
+        `Use as few plugins as the job allows, choose ones that are actively maintained, and make one person responsible for updates. An outdated plugin is one of the most common ways attackers get into a WordPress site, so the update routine matters as much as the plugin list.`,
         `A typical build from us uses plugins for SEO, forms, consent, multilingual, backups and security, plus anything specific to your business, such as a booking integration. We avoid plugins that duplicate each other, that have not been updated in a long time, or that load heavy scripts site-wide for a feature on one page.`,
         `During the free maintenance period we apply updates on a staging copy first, then on the live site. After that, our care plan starts at ${P.care} a month, or your own staff can take it over with the checklist we provide. Either way, updates should never be left for months.`,
       ],
@@ -237,7 +237,7 @@ const content: FreelanceContent = {
       heading: "Working with a WordPress team in India from Canada",
       paragraphs: [
         `Our evening in India overlaps with Canadian mornings, Eastern and Pacific, so calls happen before your working day fills up and progress appears overnight. WhatsApp covers everything between calls, seven days a week.`,
-        `A typical start: in week one we hold a video call on your goals, content, languages and editors, then send an itemised quote in USD within about two working days. After your written approval, you create the hosting account and add us as a user, or we guide you through it on a shared screen. We set up a staging site and share a sitemap and page-type plan for sign-off.`,
+        `A typical start: in week one we hold a video call on your goals, content, languages and editors, then send an itemized quote in USD within about two working days. After your written approval, you create the hosting account and add us as a user, or we guide you through it on a shared screen. We set up a staging site and share a sitemap and page-type plan for sign-off.`,
         `In week two you usually see the homepage and one inner page designed in the browser, not as a static image, so you can click through on your phone. Content arrives on a schedule we agree, and French copy from your translator slots into the same pages.`,
         `Payment is in USD or CAD through Wise, bank wire or PayPal, with the schedule written into your quote, and invoices come from India. We do not visit your office, and we do not give legal or tax advice. Everything else, from design to training, runs over video and chat. Our <a href='/terms/'>terms</a> are public if you want to read them first.`,
       ],
@@ -268,7 +268,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical to show how scope decisions play out. Picture an engineering consultancy in Greater Sudbury with 60 employees, offices in Sudbury and Timmins, and clients in the mining sector across Ontario and Quebec.`,
         `With more than 50 staff in Ontario, the AODA web requirement applies, so the theme and every block pattern are built to WCAG 2.0 AA and tested by keyboard and screen reader. Services, sectors, projects and offices each get their own page type. A French version is built with Polylang so Quebec clients can read service pages in French, with their translation agency working from exported files.`,
-        `Hosting is set up in a Canadian data centre in the firm's own account, because the careers section accepts résumés. Consent settings keep analytics off until visitors agree. At handover, the marketing coordinator and HR lead each get editor roles, a written guide and a recorded session. The quote would itemise the bilingual setup and accessibility testing separately so the firm can see what each costs. None of this describes a real client.`,
+        `Hosting is set up in a Canadian data centre in the firm's own account, because the careers section accepts résumés. Consent settings keep analytics off until visitors agree. At handover, the marketing coordinator and HR lead each get editor roles, a written guide and a recorded session. The quote would itemize the bilingual setup and accessibility testing separately so the firm can see what each costs. None of this describes a real client.`,
       ],
     },
     {
@@ -284,10 +284,10 @@ const content: FreelanceContent = {
       id: "checklist",
       heading: "WordPress website design Canada: pre-launch checklist",
       paragraphs: [
-        `Before a Canadian WordPress site goes live, run through this list together with your developer. It takes an afternoon and catches most of the problems we see on sites built elsewhere.`,
+        `Before a Canadian WordPress site goes live, run through this list together with your developer. It takes an afternoon and catches the problems that are cheapest to fix before visitors arrive.`,
       ],
       list: [
-        "Hosting, domain and premium licences registered to your organisation",
+        "Hosting, domain and premium licences registered to your organization",
         "Every template checked on a phone, tablet and laptop",
         "Keyboard-only navigation works on menus, forms and pop-ups",
         "Contrast, headings, alt text and form labels reviewed against WCAG 2.0 AA",
@@ -311,7 +311,7 @@ const content: FreelanceContent = {
         ["Polylang (free)", "Free plugin", "Small to mid-sized sites with a few editors", "Fewer workflow tools; pairs with an SEO plugin for hreflang"],
         ["Polylang Pro", "Paid licence", "Sites where translators want XLIFF export and import", "Licence renewal each year"],
         ["WPML", "Paid licence", "Larger sites, many plugins, translation management", "Heavier; licence renewal each year"],
-        ["Separate English and French sites", "Two installs to maintain", "Organisations with very different content per language", "Double the updates and more work to keep in sync"],
+        ["Separate English and French sites", "Two installs to maintain", "Organizations with very different content per language", "Double the updates and more work to keep in sync"],
         ["Browser translation widget", "Often free", "Nothing we would recommend for Canada", "French rarely indexed; quality not reviewed"],
       ],
       hideSm: [3],
@@ -350,21 +350,21 @@ const content: FreelanceContent = {
   ],
   areas: {
     eyebrow: "Across Canada",
-    heading: "Where Canadian organisations use WordPress website design",
-    note: "We work remotely with clients across the country. These notes describe the kinds of organisations that typically choose a custom WordPress site in each place.",
+    heading: "Where Canadian organizations use WordPress website design",
+    note: "We work remotely with clients across the country. These notes describe the kinds of organizations that typically choose a custom WordPress site in each place.",
     cards: [
       { name: "Toronto", note: "Professional services, clinics and associations with many service lines and publishing teams, where Ontario's AODA rules apply once headcount passes fifty." },
       { name: "Ottawa", note: "Associations, consultancies and suppliers working near the federal government that often need English and French pages side by side and strong accessibility." },
       { name: "Montreal", note: "Businesses publishing French first and English second, with translators who need export workflows and consent banners that respect Quebec's Law 25." },
       { name: "Gatineau", note: "French-speaking firms serving clients across the Ottawa River, often wanting identical French and English structures with separate indexable URLs." },
       { name: "Hamilton", note: "Manufacturers, healthcare providers and trades moving off outdated WordPress themes to faster, accessible sites their office staff can update." },
-      { name: "London, Ontario", note: "Education-linked organisations, clinics and insurers wanting clear page types for programs, locations and staff, built to WCAG 2.0 AA." },
+      { name: "London, Ontario", note: "Education-linked organizations, clinics and insurers wanting clear page types for programs, locations and staff, built to WCAG 2.0 AA." },
       { name: "Greater Sudbury", note: "Mining-sector consultancies and suppliers that need project pages, careers sections and French versions for clients in Quebec and northern Ontario." },
       { name: "Vancouver", note: "Tourism, real estate and creative businesses that publish often and want lightweight themes that load quickly on phones." },
       { name: "Surrey", note: "Fast-growing service businesses and nonprofits that want affordable WordPress sites with booking forms and editing their volunteers can handle." },
       { name: "Calgary", note: "Energy services, engineering and professional firms that want hosting in a Canadian data centre and structured project or case pages." },
       { name: "Edmonton", note: "Public-facing nonprofits, contractors and education providers who publish news and events and need staff-friendly editing." },
-      { name: "Winnipeg", note: "Community organisations, insurers and agriculture businesses that want accessible sites and a French section for Franco-Manitoban audiences." },
+      { name: "Winnipeg", note: "Community organizations, insurers and agriculture businesses that want accessible sites and a French section for Franco-Manitoban audiences." },
       { name: "Regina", note: "Agriculture, insurance and public-sector suppliers wanting clean, maintainable WordPress sites with fewer plugins and simple updates." },
       { name: "Moncton", note: "Businesses in Canada's officially bilingual province that expect English and French pages built properly from the start." },
       { name: "St. John's", note: "Ocean-sector, tourism and professional services firms that need sites fast enough for visitors on mobile connections across Newfoundland." },
@@ -374,7 +374,7 @@ const content: FreelanceContent = {
     heading: "From first call to trained editors: the WordPress process",
     steps: [
       ["Content and goals call", "We talk through your audiences, page types, languages, editors and any accessibility duties, in a video call timed for your morning. Existing site analytics help us see what to keep."],
-      ["Quote and page-type plan", "An itemised USD quote arrives in about two working days, alongside a sitemap and list of templates. You approve in writing before anything is billed."],
+      ["Quote and page-type plan", "An itemized USD quote arrives in about two working days, alongside a sitemap and list of templates. You approve in writing before anything is billed."],
       ["Hosting and staging", "You set up hosting and the domain in your name, with our help on a shared screen if needed. We build on a staging copy, never on the live site."],
       ["Design in the browser", "The homepage and key templates are built directly in WordPress so you review real pages on your phone. Feedback happens on WhatsApp and short calls."],
       ["Content, French and checks", "Content and translations are loaded into the patterns, forms and emails are tested, and accessibility is checked by keyboard and screen reader against WCAG 2.0 AA."],
@@ -383,27 +383,27 @@ const content: FreelanceContent = {
   },
   faqHeading: "WordPress website design in Canada: frequently asked questions",
   faqs: [
-    { question: "How much does WordPress website design cost in Canada?", answer: `Prices vary widely between template installs, freelancers and studios because scope varies. With BtechWaleTech a WordPress business website starts at ${P.site} for up to 100 pages, and a 299+ page SEO site at ${P.seoSite}. French versions, accessibility testing, integrations and content migration are itemised, and hosting and licences are paid directly by you.` },
+    { question: "How much does WordPress website design cost in Canada?", answer: `Prices vary widely between template installs, freelancers and studios because scope varies. With BtechWaleTech a WordPress business website starts at ${P.site} for up to 100 pages, and a 299+ page SEO site at ${P.seoSite}. French versions, accessibility testing, integrations and content migration are itemized, and hosting and licences are paid directly by you.` },
     { question: "Is custom WordPress design worth it over a premium theme?", answer: "It is worth it when you have several page types, two languages, frequent publishing or an accessibility obligation. A premium theme is fine for a small, single-language site that will not change much. The long-term difference shows up in page speed, consistency after years of edits and how easily your staff can add pages without breaking layouts." },
     { question: "Should I use WPML or Polylang for an English and French site?", answer: "Polylang's free version suits many small and mid-sized sites, and Polylang Pro adds translator-friendly export and import. WPML is a paid plugin with broad compatibility and translation management, often chosen for larger sites. Both give each language its own URL. We recommend one based on your content volume, plugins and how your translator likes to work." },
-    { question: "Does my WordPress site have to be AODA compliant?", answer: "Under Ontario's AODA, designated public sector organisations and businesses or nonprofits with 50 or more employees must make public websites meet WCAG 2.0 Level AA. Smaller organisations are not covered by that rule but still benefit from accessible design. We build and test to WCAG 2.0 AA; confirming your legal obligations is a question for your own advisers." },
+    { question: "Does my WordPress site have to be AODA compliant?", answer: "Under Ontario's AODA, designated public sector organizations and businesses or nonprofits with 50 or more employees must make public websites meet WCAG 2.0 Level AA. Smaller organizations are not covered by that rule but still benefit from accessible design. We build and test to WCAG 2.0 AA; confirming your legal obligations is a question for your own advisers." },
     { question: "Can you host my WordPress site in Canada?", answer: "We set up hosting in your own account, and you can choose a provider with a Canadian data centre, including cloud servers in AWS Canada (Central) in Montreal or Canada West in Calgary. For marketing sites without sensitive data, a US host is also common. We help you weigh speed, cost and how you describe data storage in your privacy policy." },
     { question: "How do you handle cookie consent for Law 25 and PIPEDA?", answer: "We install a consent tool that keeps analytics, advertising and other non-essential tags off until visitors opt in, records their choices, and offers categories they can change later. The privacy page gets space for your privacy officer's title and contact. We handle the technical setup; your lawyer should approve your privacy policy and consent wording." },
     { question: "Will my staff be able to update the website?", answer: "Yes. We build locked patterns for common page types, set up user roles, and put repeated details like hours and phone numbers in fields edited once. Your team receives a written guide with screenshots of your own site and a recorded training session. During five months of free maintenance they can ask us questions on WhatsApp." },
     { question: "How long does a WordPress website take to build?", answer: `A business website usually takes 1–2 weeks once content is ready, and a 299+ page SEO site 3–5 weeks. Bilingual sites, custom integrations and large content migrations add time. The biggest delay is usually content and translation, so we agree a schedule for text, images and French copy at the start.` },
     { question: "Do you design in Figma first or build directly in WordPress?", answer: "For most sites we design key templates directly in WordPress on a staging site, so you review real pages on your own phone rather than static images. For projects with brand guidelines or several stakeholders, we can prepare mock-ups first. Either way, you approve the homepage and main templates before the rest of the site is built." },
     { question: "Can you redesign our existing WordPress site without losing Google rankings?", answer: "Yes. We crawl the current site, record every URL with traffic, keep URLs where possible and redirect the rest, then carry over titles, descriptions and structured data. After launch we watch Search Console for errors. Rankings can move after any redesign, and no one can guarantee them, but careful redirects protect most of what you have earned." },
-    { question: "Is WordPress secure enough for a Canadian business?", answer: "WordPress is secure when kept updated and configured carefully. Most compromised sites we see ran outdated plugins, weak passwords or shared admin logins. We use few, maintained plugins, individual accounts with the right roles, a firewall, automatic backups off the server and a staging site for updates. Maintenance after launch keeps that in place." },
+    { question: "Is WordPress secure enough for a Canadian business?", answer: "WordPress is secure when kept updated and configured carefully. Outdated plugins, weak passwords and shared admin logins are the usual weak points. We use few, maintained plugins, individual accounts with the right roles, a firewall, automatic backups off the server and a staging site for updates. Maintenance after launch keeps that in place." },
     { question: "Should I choose WordPress or Shopify?", answer: "Choose WordPress when content, services and languages are the centre of your site and you want full control of hosting and SEO. Choose Shopify when selling products is the main job and you want checkout, hosting and security managed for you. A WordPress site can add WooCommerce for a smaller shop; we explain the trade-offs for your case." },
     { question: "Do you write the content and the French translation?", answer: "We can structure pages, write headings, improve English copy you provide and draft service descriptions for you to edit. We do not write French or publish machine translation as final copy. Your translator or bilingual staff provide the French text, and we set up an export and import workflow if that makes their work easier." },
     { question: "How do Canadian clients pay for a WordPress project?", answer: "Quotes are in USD, and you can pay in USD or CAD by Wise, bank wire or PayPal. Invoices are issued from India. The payment schedule is written into your quote, and nothing is billed before you approve it in writing. Your accountant can advise on how an overseas supplier is treated for your own taxes." },
     { question: "What happens after the five months of free maintenance?", answer: `You can take over updates yourself with the checklist we provide, or continue with a care plan from ${P.care} a month covering core, theme and plugin updates on staging first, backups, uptime checks and small edits. Larger changes such as new page types are quoted before work starts.` },
     { question: "Can you add booking, forms or a CRM to our WordPress site?", answer: "Yes. Common requests include appointment booking, quote forms that route to the right person, newsletter signups with consent checkboxes, and sending leads to a CRM. We use established plugins or APIs where they fit, test every form in both languages and document where the data goes so your privacy page stays accurate." },
     { question: "What is the difference between a WordPress designer and a WordPress developer?", answer: "A designer shapes layout, typography and user flow; a developer builds themes, blocks, integrations and performance. Many small projects need both skills. Our team covers design and development together, with Ankur Kumar leading builds, Santosh Sharma handling hosting and technical SEO, and Vedansh Shrivastava running planning and quality checks." },
-    { question: "Do you work with Canadian nonprofits and associations on WordPress?", answer: "Yes. Nonprofits and associations often need events, member resources, donations handled by an external platform, French pages and strong accessibility. WordPress fits those needs well. Our starting prices are the same for everyone; the quote is shaped around your scope, so trimming features is the clearest way to fit a smaller budget." },
+    { question: "Do you work with Canadian nonprofits and associations on WordPress?", answer: "Yes. Nonprofits and associations often need events, member resources, donations handled by an external platform, French pages and strong accessibility. WordPress fits those needs well. The starting prices on this page are where every quote begins; the quote is shaped around your scope, so trimming features is the clearest way to fit a smaller budget." },
     { question: "Can a remote team in India handle AI-friendly SEO for WordPress?", answer: `Yes. We structure pages with direct answers, FAQs, clear service and location details and structured data, which helps both Google and AI assistants understand your site. Santosh Sharma leads technical SEO. Ongoing SEO work starts at ${P.seo} a month, and we report from Search Console rather than promising positions.` },
     { question: "Will you meet us in person in Canada?", answer: "No. The team works remotely from India and never visits clients, in Canada or anywhere else. Every meeting happens over video call, usually in your morning, with WhatsApp for day-to-day questions. If your project needs someone on site, such as photography or in-office training days, hire a local person for that piece." },
-    { question: "Can we see a sample quote before committing?", answer: "Yes. Send your current site or a short brief and we will return an itemised quote in USD within about two working days, showing each page type, the bilingual setup, accessibility testing and integrations as separate lines. The quote is free and you are not billed anything unless you approve it in writing." },
+    { question: "Can we see a sample quote before committing?", answer: "Yes. Send your current site or a short brief and we will return an itemized quote in USD within about two working days, showing each page type, the bilingual setup, accessibility testing and integrations as separate lines. The quote is free and you are not billed anything unless you approve it in writing." },
   ],
   related: {
     heading: "Related pages for Canadian websites",
@@ -425,7 +425,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Plan your WordPress website with us",
-    note: "Share your current site or a short brief, the languages you need and who will edit the site. You receive an itemised quote in USD in about two working days, and nothing is billed until you approve it.",
+    note: "Share your current site or a short brief, the languages you need and who will edit the site. You receive an itemized quote in USD in about two working days, and nothing is billed until you approve it.",
   },
 };
 

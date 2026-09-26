@@ -48,7 +48,7 @@ const content: FreelanceContent = {
   answer: {
     heading: "How can a UK SME commission bespoke software without paying software-house day rates?",
     text: `Keep the scope tight, pay by milestone and own everything. BtechWaleTech, three freelance developers in India, handles bespoke software development for UK SMEs from ${P.software}: a short discovery, then fixed-scope milestones you approve one at a time. Code sits in your repository, the app runs in your AWS London account, and ongoing care starts from ${P.care} after five free months.`,
-    more: `If you are weighing a single tool rather than a whole system, the <a href='/uk/bespoke-crm-development/'>bespoke CRM page</a> and the <a href='/uk/xero-integration-developer/'>Xero integration service</a> cover the two projects UK SMEs ask us about most.`,
+    more: `If you are weighing a single tool rather than a whole system, the <a href='/uk/bespoke-crm-development/'>bespoke CRM page</a> and the <a href='/uk/xero-integration-developer/'>Xero integration service</a> cover two narrower projects that often make a sensible first step.`,
   },
   snapshot: {
     caption: "Bespoke software development for a UK SME, at a glance",
@@ -65,7 +65,7 @@ const content: FreelanceContent = {
   services: {
     eyebrow: "Bespoke software we build for UK firms",
     heading: "Tools that fit the job, not the other way round",
-    note: "Most UK projects we see are one of these. Send a short description and a screenshot of the spreadsheet or tool you are replacing, and we will tell you which bucket it falls into.",
+    note: "Most SME systems fit one of these shapes. Send a short description and a screenshot of the spreadsheet or tool you are replacing, and we will tell you which bucket it falls into.",
     cards: [
       { name: "Internal operations tools", note: `Job tracking, stock, scheduling, quality checks and approvals in one place your staff log into, replacing shared spreadsheets and email chains, from ${P.software}.`, size: "lg" },
       { name: "Client and supplier portals", note: "Secure logins where customers upload documents, check job status, download reports or approve quotes, so your inbox stops being the database.", size: "lg" },
@@ -105,7 +105,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Bespoke software development is building an application for one organisation's specific process, instead of renting a general product and adapting your process to it. For a UK SME it usually becomes worthwhile when a core part of the business runs on workarounds that cost staff hours every week.`,
         `The word “bespoke” is British shorthand for made to measure, and the tailoring comparison is apt. Off-the-shelf software is a suit from the rail: cheaper, available today, and fine if you are a standard shape. Bespoke software costs more upfront and takes weeks to make, but it fits the way your estimators price jobs, your engineers log visits or your account managers onboard clients.`,
-        `Typical triggers we hear from UK owners: a shared spreadsheet that three people edit at once and nobody trusts; a subscription tool charging per seat for features half the team never touches; data re-typed between the CRM, the job system and Xero; a client portal promised to customers that the current software cannot provide. None of these on its own proves you need custom code. Together, and repeated every week, they usually do.`,
+        `Typical triggers for a UK owner: a shared spreadsheet that three people edit at once and nobody trusts; a subscription tool charging per seat for features half the team never touches; data re-typed between the CRM, the job system and Xero; a client portal promised to customers that the current software cannot provide. None of these on its own proves you need custom code. Together, and repeated every week, they usually do.`,
         `Bespoke software development in the UK is not only for large companies. A focused internal tool for a ten-person firm can be the right investment, provided the scope stays narrow and the business owns what gets built. That second point shapes almost every recommendation on this page.`,
       ],
     },
@@ -205,7 +205,7 @@ const content: FreelanceContent = {
         `You should, and the contract has to say so. The UK Intellectual Property Office's guidance on <a href='https://www.gov.uk/guidance/ownership-of-copyright-works' rel='noopener'>ownership of copyright works</a> explains that when you commission a work, the first owner of copyright is the person who created it, not the commissioner, unless agreed otherwise in writing.`,
         `That default surprises many UK business owners. Paying for bespoke software development does not by itself transfer ownership of the code. Without a written assignment you may end up with only a licence to use it, which becomes a problem when you sell the business, raise investment or change developers.`,
         `Our approach is simple. The written agreement assigns the copyright in the code we write for you to you, the work lives in a Git repository your business controls from day one, and the cloud resources are created in your own account. Open-source libraries stay under their own licences, which we list at handover so your lawyer can review them.`,
-        `Which country's law governs the agreement, and how disputes would be handled, are points to settle in writing before work starts. Many UK buyers prefer English law and we are used to that conversation. We are developers, not solicitors: please have your own lawyer review the contract, especially for larger projects or anything involving investors.`,
+        `Which country's law governs the agreement, and how disputes would be handled, are points to settle in writing before work starts. If you want English law, say so at the quote stage so it is written into the agreement from the start. We are developers, not solicitors: please have your own lawyer review the contract, especially for larger projects or anything involving investors.`,
       ],
     },
     {
@@ -213,7 +213,7 @@ const content: FreelanceContent = {
       heading: "Does bespoke software development in the UK need UK GDPR processor terms?",
       paragraphs: [
         `Yes, whenever the developer can access personal data in your system. Under Article 28 of the UK GDPR, the ICO says the contract must require the processor to act only on your documented instructions, keep the data confidential and secure, use sub-processors only with your authorisation, help you respond to individuals' rights requests, and delete or return data at the end.`,
-        `Because our team works from India, developer access to live personal data may count as a restricted transfer under UK data protection law. The ICO recognises the <a href='https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/appropriate-safeguards/what-are-standard-data-protection-clauses-the-uk-idta-and-the-addendum/' rel='noopener'>International Data Transfer Agreement (IDTA) and the UK Addendum</a> to the EU standard contractual clauses as safeguards for such transfers, alongside a transfer risk assessment, which recent UK legislation now calls a “data protection test”. India does not appear on the ICO's list of UK adequacy regulations.`,
+        `Because our team works from India, developer access to live personal data may count as a restricted transfer under UK data protection law. The ICO recognises the <a href='https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/appropriate-safeguards/what-are-standard-data-protection-clauses-the-uk-idta-and-the-addendum/' rel='noopener'>International Data Transfer Agreement (IDTA) and the UK Addendum</a> to the EU standard contractual clauses as safeguards for such transfers, and says you must also complete a transfer risk assessment and take any extra steps needed so that the “data protection test” is met. India does not appear on the ICO's list of UK adequacy regulations.`,
         `Practically, the build reduces the problem before the paperwork has to solve it. We develop against dummy or anonymised data, keep production data in the AWS London region, restrict who can reach it, log every access, encrypt data at rest and in transit, and design the system to hold only what you need.`,
         `Whether a transfer happens, which safeguard applies and how you record it are decisions for you as controller, ideally with your data protection adviser or lawyer. We supply the technical descriptions they will ask for.`,
       ],
@@ -224,7 +224,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Hosting in AWS's Europe (London) Region, code eu-west-2, keeps your data physically in the UK, keeps pages quick for UK staff and makes data-protection questions simpler. The AWS account is opened in your business name and billed to your card, so the infrastructure is yours.`,
         `Santosh, who handles cloud and data on our team, sets up the environment with separate staging and production, automated backups, monitoring and alerts. For a typical SME tool that means a managed database, a small application server or container service, file storage and a content delivery layer. We size it for your real usage, not for a hypothetical million users, and we show you the running cost in the handover notes.`,
-        `You can choose another provider. Microsoft Azure has UK regions too, and some clients prefer it because they already live in Microsoft 365. What matters is that the account belongs to you, access is granted to named people, and nothing important lives in a developer's personal account.`,
+        `You can choose another provider. Microsoft Azure has UK regions too, and it can be the natural choice for a business that already lives in Microsoft 365. What matters is that the account belongs to you, access is granted to named people, and nothing important lives in a developer's personal account.`,
         `If you have strict availability needs (a system your staff cannot work without for even an hour), say so in discovery. It affects architecture and cost, and it is better priced upfront than discovered at 9 am on a Monday.`,
       ],
     },
@@ -379,7 +379,7 @@ const content: FreelanceContent = {
     },
   ],
   areas: {
-    eyebrow: "Where our UK clients' businesses are",
+    eyebrow: "Bespoke software needs across the UK",
     heading: "Bespoke software for SMEs across England, Scotland, Wales and Northern Ireland",
     note: "We work fully online from India with no UK office. These are the kinds of firms in each area whose processes tend to outgrow off-the-shelf tools.",
     cards: [
@@ -421,7 +421,7 @@ const content: FreelanceContent = {
     { question: "Where will my bespoke software be hosted?", answer: "Normally in AWS's Europe (London) Region, eu-west-2, in an AWS account opened in your business name and billed to you. Microsoft Azure's UK regions are an alternative if you already use Microsoft 365 heavily. We set up staging and production, backups and monitoring, and hand over a list of every resource and its running cost." },
     { question: "Do you work to fixed-scope milestones?", answer: "Yes. Each milestone has a written scope, a price and a result you can log in and test. You approve it before paying and before the next begins. Changes are written down, priced and approved separately, so the budget only moves when you decide it should. Payment details are set out in your written quote." },
     { question: "Do you charge for a discovery phase?", answer: "It depends on the project size, and the written quote states it clearly. On small projects discovery is often part of the first milestone. On larger ones it may be quoted separately. Either way you keep the scope document it produces, so you can use it with another developer if you choose not to continue with us." },
-    { question: "Can you replace our spreadsheets with a proper system?", answer: "Yes, and it is one of the most common UK requests we get. We study how the spreadsheet is really used, including the hidden macros and colour codes, design a database and screens around that, clean and import the historical data, and keep an export option so staff can still pull figures into Excel when they want to." },
+    { question: "Can you replace our spreadsheets with a proper system?", answer: "Yes, and spreadsheets are often the best place to start. We study how the spreadsheet is really used, including the hidden macros and colour codes, design a database and screens around that, clean and import the historical data, and keep an export option so staff can still pull figures into Excel when they want to." },
     { question: "Can bespoke software connect to Xero?", answer: "Yes. Xero has a documented API, so invoices, contacts and payments can flow between your bespoke system and your accounts automatically. We log every sync so your bookkeeper can see what was sent and when. Your accountant should confirm how VAT and account codes are mapped before anything goes live." },
     { question: "Can you work with our existing UK IT support provider?", answer: "Yes. Many SMEs keep a UK managed service provider for laptops, Microsoft 365 and networks while we build the application. We agree who manages which accounts, share documentation, and can use Microsoft 365 single sign-on so their user management also controls access to the new system." },
     { question: "What happens if you stop working on our software?", answer: "Because the code is in your repository, the hosting is in your account and the handover pack documents both, another developer can take over. We use mainstream technology such as TypeScript, Python and PostgreSQL specifically so that any competent UK or overseas developer can pick it up without a rewrite." },

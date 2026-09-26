@@ -38,7 +38,7 @@ const content: FreelanceContent = {
     ["Aftercare", `5 free months, then from ${P.care}`],
   ],
   stats: [
-    { value: "3", label: "People on your store, one of them always reachable" },
+    { value: "3", label: "Developers who all share your store’s code" },
     { value: "5", label: "Free maintenance months once the store is live" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
     { value: "2", label: "Working days until your itemised estimate" },
@@ -63,7 +63,7 @@ const content: FreelanceContent = {
   services: {
     eyebrow: "Shopify work for German brands",
     heading: "What a remote Shopify developer can take off your plate",
-    note: "D2C founders rarely need everything at once. These are the jobs that come up most on German Shopify stores, from first launch to the third year.",
+    note: "D2C founders rarely need everything at once. Here are the jobs a German Shopify store typically needs, from first launch to the third year.",
     cards: [
       { name: "Store launch", note: `Theme set-up, product import, collections, navigation, shipping zones, taxes and legal pages, from ${P.shop}.`, href: "/services/web-development/", size: "lg" },
       { name: "Legal and consent set-up", note: "Impressum, AGB, withdrawal pages, withdrawal function and a banner that actually blocks tracking until visitors agree.", href: "/germany/gdpr-compliant-website/", size: "lg" },
@@ -119,7 +119,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `At minimum: an Impressum, terms (AGB), withdrawal instructions (Widerrufsbelehrung) with a model withdrawal form, a privacy policy (Datenschutzerklärung), and shipping and payment information. Since 19 June 2026 you also need the online withdrawal function described below.`,
         `The Impressum duty comes from <a href='https://www.gesetze-im-internet.de/ddg/__5.html' rel='noopener'>§ 5 DDG</a>, which requires commercial providers to keep their name, address, legal form, representatives, contact details including email, register entry and VAT ID easy to find and directly reachable. On Shopify we create it as a policy or standard page and link it from the footer of every template, including checkout.`,
-        `Shopify’s policy settings create placeholders for refund, privacy and terms pages. For Germany, those placeholders are a starting point, not a legal text. Most brands use a lawyer or a German legal-text service for the wording, and we build the pages and links around it so updates can be pasted in without touching code.`,
+        `Shopify’s policy settings create placeholders for refund, privacy and terms pages. For Germany, those placeholders are a starting point, not a legal text. Many brands use a lawyer or a German legal-text service for the wording, and we build the pages and links around it so updates can be pasted in without touching code.`,
       ],
     },
     {
@@ -128,7 +128,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The withdrawal function is a clearly labelled online route for consumers to cancel a distance contract, and German shops need it since 19 June 2026. On Shopify it is built as a page plus a form and an automated confirmation.`,
         `The German rule sits in <a href='https://www.gesetze-im-internet.de/bgb/__356a.html' rel='noopener'>§ 356a BGB</a>, which implements EU Directive 2023/2673. It calls for a function labelled “Vertrag widerrufen” or an equally clear phrase, available for the whole withdrawal period, that collects name, contract reference and contact details, then a confirmation button labelled “Widerruf bestätigen”, followed by a prompt receipt to the consumer.`,
-        `We check the Shopify App Store for an app that does this well first. If none suits your returns process, a small custom build links the form to the order, tags it for your service team and sends the receipt email through Shopify Flow or a lightweight app. Either way, your lawyer approves the wording.`,
+        `We check the Shopify App Store for an app that does this well first. If none suits your returns process, a small custom build links the form to the order, tags it for your service team (Shopify Flow handles that part well) and sends the receipt email through a lightweight app. Either way, your lawyer approves the wording.`,
       ],
     },
     {
@@ -148,7 +148,7 @@ const content: FreelanceContent = {
     },
     {
       id: "payments",
-      heading: "Shopify Payments, Klarna, PayPal and Rechnungskauf in Germany",
+      heading: "Shopify Payments, PayPal and Rechnungskauf: what a Shopify developer in Germany sets up",
       paragraphs: [
         `Offer the methods German buyers actually use, and keep the list short enough to test. For many D2C brands that means cards and wallets, PayPal, and a pay-later or pay-by-invoice option.`,
         `Shopify lists Germany among the countries where Shopify Payments is available, which covers cards and wallets. PayPal connects as a separate provider in the Shopify admin under your own PayPal business account. Pay-by-invoice, the Rechnungskauf many German shoppers like, is usually offered through a buy-now-pay-later provider that takes the credit risk, so you are not chasing unpaid invoices yourself.`,
@@ -157,7 +157,7 @@ const content: FreelanceContent = {
     },
     {
       id: "unit-prices-vat",
-      heading: "Unit prices, VAT and OSS: pricing rules a Shopify developer should set",
+      heading: "Unit prices, VAT and OSS: pricing rules a Shopify developer in Germany should set",
       paragraphs: [
         `Show VAT-inclusive prices, a base price per unit where the law requires it, and the right VAT rate for each country you ship to. Get these wrong and the store invites warning letters.`,
         `Pricing compliance starts with the Price Indication Ordinance (Preisangabenverordnung). Under § 4 PAngV, traders offering goods to consumers by weight, volume, length or area must show the unit price clearly next to the total price. Shopify has a unit pricing feature that displays a price per unit on product, collection, cart and checkout pages; we fill the measurements for each variant and make sure your theme renders them where required.`,
@@ -175,7 +175,7 @@ const content: FreelanceContent = {
     },
     {
       id: "theme",
-      heading: "Themes and apps: how a good Shopify developer keeps the store fast",
+      heading: "Themes and apps: how a good Shopify developer keeps a German store fast",
       paragraphs: [
         `Choose a lean Online Store 2.0 theme and add sections in Liquid before reaching for another app. Each app can add scripts to every page, and German shoppers on mobile data notice.`,
         `We start with an audit of what the store must do, then decide for each need: theme setting, custom section, Shopify Function, or app. Discounts and checkout rules often fit Shopify Functions; bundles, size guides and trust badges usually fit custom sections; reviews, subscriptions and returns portals are usually better as maintained apps.`,
@@ -189,7 +189,7 @@ const content: FreelanceContent = {
     },
     {
       id: "datev",
-      heading: "DATEV exports and bookkeeping for Shopify stores",
+      heading: "DATEV exports: what a Shopify developer in Germany should hand your tax adviser",
       paragraphs: [
         `Most German brands want orders, refunds and payouts to reach their tax adviser in a format DATEV can import. On Shopify that usually means an export app from the Shopify App Store rather than custom code.`,
         `Before choosing one, ask your Steuerberater which format and chart of accounts (SKR03 or SKR04) they expect, and whether they prefer a booking-batch file or a connection to DATEV Unternehmen online. The right app depends on that answer, on your payment providers, and on whether you sell across the EU.`,
@@ -225,7 +225,7 @@ const content: FreelanceContent = {
     },
     {
       id: "remote-work",
-      heading: "Working day to day with a Shopify developer in India",
+      heading: "Working day to day from Germany with a Shopify developer in India",
       paragraphs: [
         `India runs 3.5 hours ahead of Germany in summer and 4.5 hours ahead in winter, so your morning meets our afternoon. A 10:00 call in Berlin is 13:30 or 14:30 for us.`,
         `In week one we review your store or brief on a call, receive collaborator access to your Shopify account, and set up a duplicate theme for development. In week two you see the first sections on a preview link, and by the end of that week, the legal pages and consent setup are ready to test. Updates go out on WhatsApp in your working hours, and anything bigger than a message gets a short screen recording.`,
@@ -254,7 +254,7 @@ const content: FreelanceContent = {
       id: "red-flags",
       heading: "Warning signs when hiring a Shopify developer for a German store",
       paragraphs: [
-        `Watch for shortcuts that cost you later. These come up again and again when brands ask us to take over a store.`,
+        `Watch for shortcuts that cost you later. Each one makes a store harder to run, audit or hand to the next developer.`,
       ],
       list: [
         "The store or apps registered under the developer’s account or card",
@@ -337,7 +337,7 @@ const content: FreelanceContent = {
   areas: {
     eyebrow: "Across Germany",
     heading: "German brands and regions we work with remotely",
-    note: "We have no German office and do not visit clients; the whole project runs online. These are the regions and brand types that most often ask for Shopify help.",
+    note: "We have no German office and do not visit clients; the whole project runs online. Below are regions where D2C brands commonly need Shopify help, with the typical reason in each.",
     cards: [
       { name: "Berlin", note: "D2C founders in fashion, food and lifestyle often choose Shopify for speed to market and want English-speaking developers who work well with international teams." },
       { name: "Munich", note: "Cosmetics, outdoor and premium consumer brands in Bavaria need clean product pages, unit prices on liquids and careful consent setup." },

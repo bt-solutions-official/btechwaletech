@@ -131,7 +131,7 @@ const content: FreelanceContent = {
         "If per-user fees grow faster than revenue as you hire, compare three years of subscriptions with a one-time build plus support.",
         "If your data must stay in a UAE region or on your own account, check what the vendor offers before assuming.",
       ],
-      after: [`Often the answer is both: keep the SaaS tools that work, and build a thin custom layer between them. That hybrid is the most common project we quote for UAE clients.`],
+      after: [`Often the answer is both: keep the SaaS tools that work, and build a thin custom layer between them. That hybrid is often the smallest build that removes the most retyping.`],
     },
     {
       id: "trading",
@@ -172,7 +172,7 @@ const content: FreelanceContent = {
       id: "integrations",
       heading: "Integrating Zoho, Tally and Excel with your custom software",
       paragraphs: [
-        `Custom software should connect to the tools you keep, not force you to abandon them. In the UAE, the tools we meet most often are Zoho apps, TallyPrime and a lot of Excel, so integration planning is part of every quote.`,
+        `Custom software should connect to the tools you keep, not force you to abandon them. Across UAE SMEs, Zoho apps, TallyPrime and a great deal of Excel are everyday fixtures, so integration planning is part of every quote.`,
         `<strong>TallyPrime.</strong> Tally's own developer documentation on <a href='https://help.tallysolutions.com/xml-interface/' rel='noopener'>integration using the XML interface</a> describes TallyPrime acting as an HTTP server, by default on port 9000, that accepts XML requests from external applications once the HTTP server is enabled in its settings. In practice that means your custom system can push sales vouchers and ledgers into Tally, and read masters back, provided the machine running Tally is reachable. We usually place a small connector on your office network rather than exposing Tally to the internet.`,
         `<strong>Zoho.</strong> Zoho Books, Zoho CRM and Zoho Inventory offer REST APIs with OAuth-based access, so a custom tool can create contacts, invoices or items there directly. Your Zoho plan's API limits shape how often we sync.`,
         `<strong>Excel and Google Sheets.</strong> We import your existing workbooks once to seed the database, then offer exports in the same column layout people already use. Keeping a familiar export is the quickest way to win over a finance team.`,
@@ -216,7 +216,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You should own all three from day one, and with us you do. The repository sits in a GitHub or GitLab organisation you create; the database and servers run on a cloud account billed to you; domains and email services are registered in your company's name.`,
         `We work through access you grant, which you can revoke at any time. At the end of each phase you receive a handover pack: a short architecture note, how to deploy, where secrets are stored, a list of every third-party service with its account owner, and a walkthrough recording for the next developer, whether that is us, another freelancer or your own hire.`,
-        `Why insist on this? Because the most expensive custom software problem in the region is not bugs; it is a business that cannot change supplier because its system lives on someone else's server. When you compare quotes from a custom software development company in Dubai, ask for account ownership in writing, and ask who holds the database backups.`,
+        `Why insist on this? Because one of the costliest custom software problems is not bugs; it is a business that cannot change supplier because its system lives on someone else's server. When you compare quotes from a custom software development company in Dubai, ask for account ownership in writing, and ask who holds the database backups.`,
       ],
       list: [
         "Repository in your organisation, not a personal account",
@@ -357,7 +357,7 @@ const content: FreelanceContent = {
     },
   ],
   areas: {
-    eyebrow: "Where our UAE clients work",
+    eyebrow: "Where UAE businesses need it",
     heading: "Custom software needs across the emirates",
     note: "We work remotely with businesses in every emirate. These notes describe the kind of custom software each area's business mix tends to need.",
     cards: [
@@ -380,8 +380,8 @@ const content: FreelanceContent = {
   process: {
     heading: "From spreadsheet to working system in six steps",
     steps: [
-      ["Send us the problem", "A WhatsApp message describing the workflow that hurts, plus a screenshot of the spreadsheet or tool involved. We reply with first questions, usually the same day."],
-      ["Build-or-buy check", "A short call to test whether an existing SaaS product would do. If it would, we tell you which kind and stop there; no charge."],
+      ["Send us the problem", "A WhatsApp message describing the workflow that hurts, plus a screenshot of the spreadsheet or tool involved. We reply with first questions on WhatsApp, seven days a week."],
+      ["Build-or-buy check", "A short call to test whether an existing SaaS product would do. If it would, we tell you which kind of tool to look at and stop there."],
       ["Remote discovery", "Two or three recorded video sessions tracing real examples, followed by a process map and clickable screens for you to correct."],
       ["Itemised USD quote", "Within about two working days: phase one scope, each integration and rule priced, week-by-week plan, and what is deliberately left for later."],
       ["Build in your accounts", "Code in your repository, hosting on your cloud, weekly demos on a live test environment, and data migration rehearsed before go-live."],
@@ -409,7 +409,7 @@ const content: FreelanceContent = {
     { question: "How do you handle personal data in custom software?", answer: "We design for data minimisation, role-based access, encryption in transit and at rest, and audit logs of who changed what. The UAE's federal personal data protection law came into force in January 2022, and some free zones such as the DIFC have their own laws. Which rules apply to you, and how, should be confirmed by your own legal adviser." },
     { question: "Can the software have an Arabic interface?", answer: "Yes. We build right-to-left layouts, mirrored navigation and bilingual screens where staff or customers need them, and test each screen in both languages. The Arabic wording itself should come from you or a professional translator, because our team writes in English. We provide the text files for translation and load them back into the system." },
     { question: "What if we want to stop after the first phase?", answer: "That is a legitimate outcome and the reason we work in phases. After phase one you own a working system, the code, the database and the documentation. You can pause, continue with us, or hand it to another developer or an in-house hire. Nothing in the first phase locks you into a second one." },
-    { question: "Do you sign an NDA before we share our process?", answer: "We are comfortable discussing confidentiality before you share details. Any NDA terms are agreed with you directly and recorded alongside your quote, and our general terms are published on the website. Many clients start by describing the workflow at a high level, then share real examples with sensitive figures masked once an agreement is in place." },
+    { question: "Do you sign an NDA before we share our process?", answer: "We are comfortable discussing confidentiality before you share details. Any NDA terms are agreed with you directly and recorded alongside your quote, and our general terms are published on the website. You can start by describing the workflow at a high level, then share real examples with sensitive figures masked once an agreement is in place." },
     { question: "When should I hire a local custom software development company in Dubai instead of a remote team?", answer: "Choose a UAE-based software house if you need regular in-person workshops, on-site installation or training, a locally registered supplier for procurement, 24/7 incident response, or ten or more developers at once. Those needs are real and justify local costs. For focused SME systems without them, a small remote team delivers the same software with fewer layers." },
   ],
   related: {

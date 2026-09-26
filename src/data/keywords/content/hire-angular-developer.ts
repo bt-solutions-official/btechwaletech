@@ -166,7 +166,7 @@ const content: FreelanceContent = {
         "Do they recognise a memory leak from a subscription that never completes?",
       ],
       after: [
-        `We are glad to review a candidate’s answers for you, even if you end up hiring them rather than us. Ask on <a href='/contact/'>WhatsApp or email</a>.`,
+        `If you cannot judge the answers yourself, have a second Angular developer sit in on the call, or ask us on <a href='/contact/'>WhatsApp or email</a> what a paid, independent review would involve.`,
       ],
     },
     {
@@ -388,7 +388,7 @@ const content: FreelanceContent = {
     { question: "Who owns the Angular code you write?", answer: "You do. The repository is created in your GitHub, GitLab or Bitbucket account from the first commit, and cloud hosting, domains and third-party services are registered to you. We work as collaborators you can remove at any time. The handover pack includes a README, environment template, architecture note, dependency register and deployment notes." },
     { question: "Do you sign NDAs and contracts for Angular projects?", answer: "Ask us about confidentiality when you first get in touch and we will discuss what you need. The scope, deliverables, milestones and ownership are written into the quote you approve, and our terms page explains the general basis we work on. For anything beyond that, the specifics are agreed in writing with you rather than assumed." },
     { question: "How do I pay for an Angular project?", answer: "You approve an itemised quote in writing before anything is billed, and payments are linked to milestones you can check on staging. Clients in India pay by UPI or bank transfer in rupees. International clients are quoted in USD and pay by Wise, bank wire or PayPal. Milestone splits are set out in the quote itself." },
-    { question: "Can overseas companies hire your Angular developers?", answer: `Yes. We work with clients in the UK, Europe, the US, the Gulf and Australia, quoting in USD; Angular builds start at ${P.softwareUsd}. Indian evening hours overlap with the European working day and early US mornings, which is when calls are scheduled. Everything runs remotely, and invoices are issued from India.` },
+    { question: "Can overseas companies hire your Angular developers?", answer: `Yes. Businesses in the UK, Europe, the US, the Gulf, Australia or elsewhere receive quotes in USD; Angular builds start at ${P.softwareUsd}. Indian evening hours overlap with the European working day and early US mornings, which is when calls are scheduled. Everything runs remotely, and invoices are issued from India.` },
     { question: "Angular developer chahiye ERP ke liye, kya aap kar sakte ho?", answer: `Haan. WhatsApp par apni screens ki list bhejiye: masters, transactions aur reports, saath mein kaun kaun se roles honge. Scoping call Hindi ya English mein hoti hai, aur lagbhag do working days mein itemised quote milta hai. Angular admin panel ya ERP module ${P.software} se shuru hota hai, aur code aapke apne repository mein rehta hai.` },
   ],
   related: {

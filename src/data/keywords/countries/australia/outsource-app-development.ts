@@ -134,7 +134,7 @@ const content: FreelanceContent = {
       heading: "What should an app development outsourcing contract include?",
       paragraphs: [
         `At minimum: the scope and spec by reference, milestones with acceptance criteria, the payment schedule, ownership and IP assignment, confidentiality, how changes are priced, what happens after launch, and how either side can end the arrangement.`,
-        `Our written quote and <a href='/terms/'>terms</a> cover these for our work, and many clients also have their own lawyer prepare or review an agreement. We do not give legal advice and cannot tell you which Australian law provisions apply to your situation; a lawyer who works with technology contracts can do that quickly.`,
+        `Our written quote and <a href='/terms/'>terms</a> cover these for our work, and you are welcome to have your own lawyer prepare or review a separate agreement. We do not give legal advice and cannot tell you which Australian law provisions apply to your situation; a lawyer who works with technology contracts can do that quickly.`,
         `A few clauses deserve extra attention whichever vendor you use. Check whether payments are linked to acceptance or simply to dates. Look for "background IP" clauses that let the vendor keep components they claim to have built before your project. Read what happens to your code and accounts if you stop paying or the vendor stops working. And make sure the contract names who holds the store accounts and cloud billing.`,
       ],
       list: [
@@ -199,7 +199,7 @@ const content: FreelanceContent = {
       id: "red-flags",
       heading: "Red flags when you outsource app development",
       paragraphs: [
-        `These signs show up again and again in projects that end badly. One on its own is worth a question; two or three together are a reason to walk away.`,
+        `Each of these signs points to a vendor who has not thought about your risk. One on its own is worth a question; two or three together are a reason to walk away.`,
       ],
       list: [
         "A quote returned within hours, with no questions about your spec",
@@ -230,7 +230,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `It depends on scope, and quotes vary widely between vendors and countries. With us, outsourced iOS and Android apps start from ${P.app}, with web admin panels from ${P.software} and AI features from ${P.ai}.`,
         `Cost follows complexity: the number of user roles, screens, payment flows, real-time features, offline support and integrations. An admin panel is often as big a job as the app itself, which is why we list it separately. Rushing the schedule does not usually make an app cheaper; a clear spec does.`,
-        `Remember the costs outside the vendor's quote. Apple charges US$99 a year for its developer program and Google Play a one-time US$25 registration fee. Hosting, email, SMS and map services bill your accounts monthly. And your staff will spend time testing builds and answering questions. A realistic budget includes all of it.`,
+        `Remember the costs outside the vendor's quote. Apple charges US$99 a year for the Apple Developer Program and Google Play a one-time US$25 registration fee. Hosting, email, SMS and map services bill your accounts monthly. And your staff will spend time testing builds and answering questions. A realistic budget includes all of it.`,
       ],
     },
     {
@@ -257,7 +257,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This scenario is hypothetical. Picture a Perth equipment hire business with three depots that takes bookings by phone and email. It wants customers to check availability, book, sign the hire agreement on their phone and receive pickup reminders, while depot staff mark equipment out and back in.`,
         `The owner writes a two-page spec with our help: two user types, a staff check-in and check-out flow with photos of equipment condition, card payments for hire, and a sync with the accounting system. The "not now" list holds delivery tracking and a loyalty scheme. The written quote starts from ${P.app} for the app, with the staff web panel and the accounting integration as separate lines, over about nine weeks and six milestones.`,
-        `Perth's small time gap with India means demos can happen at 11 am Perth time, mid-morning for us. The owner holds back each payment until the depot manager has tested that milestone on the shop's own phones. At handover the business owns the repository, store accounts and cloud billing, and the depot staff have been using test builds for a month.`,
+        `Perth's small time gap with India means demos can happen at 11 am Perth time, which is 8:30 am for us. The owner holds back each payment until the depot manager has tested that milestone on the shop's own phones. At handover the business owns the repository, store accounts and cloud billing, and the depot staff have been using test builds for a month.`,
       ],
     },
     {
@@ -387,7 +387,7 @@ const content: FreelanceContent = {
     { question: "What happens if the outsourced developer disappears?", answer: "If you have kept the repository, store accounts, cloud billing and documentation in your own name, another developer can pick up the work. That is why those safeguards matter from day one. Our team is three people who all know each codebase, which reduces the single-person risk of hiring one freelancer." },
     { question: "Do I need a technical person to outsource an app?", answer: "No, but you need someone who owns decisions and tests builds each week. A clear spec, acceptance criteria written in plain English and a weekly demo let a non-technical owner run the project. If you want a second opinion on code quality, an independent developer can review the repository at any milestone." },
     { question: "Can you work from a spec another vendor wrote?", answer: "Yes. We review it, ask questions about any gaps and quote against it, listing any assumptions. If you do not have a spec yet, we can run a short scope workshop and write one with you, and you are free to use it with other vendors as well." },
-    { question: "What does maintenance look like after an outsourced app launches?", answer: `We include five months of free maintenance after launch: fixes, operating system compatibility, crash monitoring and small changes. After that, care plans start from ${P.care}, or you can move maintenance to anyone else, since the code, accounts and documentation are already yours.` },
+    { question: "What does maintenance look like after an outsourced app launches?", answer: `Five months of free maintenance follow launch, covering bug fixes and keeping the app running, with exact inclusions listed in your written quote. After that, care plans start from ${P.care}, or you can move maintenance to anyone else, since the code, accounts and documentation are already yours.` },
     { question: "Can an outsourced team publish the app on the App Store?", answer: "Yes, from your accounts. Apple requires organisations to enrol as a legal entity with a D-U-N-S number, and Google Play requires one for organisation accounts too. You register; we join as team members, prepare the listing and submit. We never publish a client's app under our own account." },
     { question: "How are change requests handled mid-project?", answer: "Every change is written into a log with its cost and effect on the schedule, and work starts only after you approve it in writing. New features or user types are priced as extra lines. This keeps the budget visible throughout." },
     { question: "Can you sign our NDA before we share the idea?", answer: "Send it over and we will review it. Confidentiality terms are agreed in writing before you share sensitive details, and they sit alongside our written quote and terms. Many founders share a high-level description first and the detailed spec after the paperwork is settled." },

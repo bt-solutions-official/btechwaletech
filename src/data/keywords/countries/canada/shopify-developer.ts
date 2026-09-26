@@ -27,12 +27,12 @@ const content: FreelanceContent = {
     eyebrow: "Shopify developer · Canada · remote from India",
     h1: "Shopify developer for Canada: a remote team that sets up taxes, shipping, Markets and French properly",
     lede: `Hiring a Shopify developer in Canada usually means choosing between a local Shopify Partner agency and a remote developer, and this page explains what a Canadian merchant actually gets with the second option. BtechWaleTech is three freelance developers working from India who build and fix Shopify stores for Canadian brands, with GST, HST, PST and QST configured, Canada Post or discount-courier rates at checkout, Shopify Markets for US buyers and a French storefront for Quebec. Stores start at ${P.shop}, quoted in USD.`,
-    pills: ["CAD checkout", "GST/HST/PST/QST setup", "Canada Post, Chit Chats, Stallion", "Shopify Markets to the US", "French storefront", "Theme customisation", "You own the store"],
+    pills: ["CAD checkout", "GST/HST/PST/QST setup", "Canada Post, Chit Chats, Stallion", "Shopify Markets to the US", "French storefront", "Theme customization", "You own the store"],
     origin: "Three freelance developers in India · WhatsApp replies 7 days a week · Eastern and Pacific mornings covered",
   },
   facts: [
     ["Shopify store from", `${P.shop}, typically 4–8 weeks`],
-    ["Quote", "Itemised in USD in about 2 working days"],
+    ["Quote", "Itemized in USD in about 2 working days"],
     ["Call window", "Eastern and Pacific mornings (IST evenings)"],
     ["Store owner", "You: Shopify account, domain, theme files"],
     ["Billing", "USD or CAD · Wise, wire, PayPal"],
@@ -40,7 +40,7 @@ const content: FreelanceContent = {
   ],
   stats: [
     { value: "3", label: "Freelance developers who build and support your store" },
-    { value: "2", label: "Working days to receive an itemised quote" },
+    { value: "2", label: "Working days to receive an itemized quote" },
     { value: "5", label: "Months of free maintenance after launch" },
     { value: "0", label: "Platform or middleman fees on your payments to us" },
   ],
@@ -64,7 +64,7 @@ const content: FreelanceContent = {
   services: {
     eyebrow: "Shopify work for Canadian merchants",
     heading: "What a Shopify developer does for a store selling in Canada",
-    note: "Canadian Shopify stores tend to need the same handful of jobs done right: tax, shipping, currency and language. These are the pieces clients usually ask us to handle.",
+    note: "Canadian Shopify stores tend to need the same handful of jobs done right: tax, shipping, currency and language. Here is how we split that work into jobs you can quote and approve one by one.",
     cards: [
       { name: "New Shopify store build", note: `Theme selection or a custom theme, product and collection structure, CAD checkout, policies and launch, from ${P.shop}. The core job for a brand moving off Etsy, markets or a spreadsheet.`, href: "/canada/ecommerce-website-development/", size: "lg" },
       { name: "Canadian tax and shipping setup", note: "GST/HST and provincial registrations entered correctly, tax overrides for exempt products, Canada Post rates or a discount courier app wired into checkout.", size: "lg" },
@@ -82,7 +82,7 @@ const content: FreelanceContent = {
     columns: ["What matters to a Canadian merchant", "Local Shopify Partner agency", "Marketplace freelancer (Upwork, Fiverr)", "BtechWaleTech"],
     rows: [
       ["Face-to-face meetings", "Possible in your city", "Rarely", "No; video calls in your morning"],
-      ["Budget", "Canadian agency rates", "Varies widely by seller", `Stores from ${P.shop}, itemised`],
+      ["Budget", "Canadian agency rates", "Varies widely by seller", `Stores from ${P.shop}, itemized`],
       ["Knows GST/HST/PST/QST setup", "Usually", "Depends on the seller", "Yes, configured per your registrations"],
       ["French storefront for Quebec", "Often with in-house translators", "Rarely offered", "Built; translation comes from you or your translator"],
       ["Who writes the code", "A team behind an account manager", "One person", "Three developers you can message directly"],
@@ -123,7 +123,7 @@ const content: FreelanceContent = {
         `Pick a local Shopify Partner agency when you need in-person sessions, a large multidisciplinary team or a brand strategy engagement. Pick a remote Shopify developer when you already know your brand and products and want the store built well for less.`,
         `Shopify lists agencies and freelancers in its Partner Directory, and many Canadian agencies do strong work. Their pricing reflects Canadian salaries, office costs and account management. That is fair, but a lot of what a small or mid-sized Canadian store needs is configuration and theme work, which does not require anyone to be in the same city.`,
         `A remote Shopify developer in India works in the same Shopify admin, the same theme editor and the same GitHub repository as a developer in Toronto. The difference is the calendar: our evening overlaps your morning, so you get a video call before your day starts and progress by the time you open your laptop.`,
-        `There are honest limits. We do not photograph products, do not visit warehouses, and do not run twenty-person Shopify Plus programmes with dedicated QA departments. We are not listed as Shopify Partners here, so judge us on the store we build, the code you can inspect and the references you ask for, not on a badge.`,
+        `There are honest limits. We do not photograph products, do not visit warehouses, and do not run twenty-person Shopify Plus programs with dedicated QA departments. Judge any developer, us included, on the store they build, the theme code you can inspect in Git and the answers they give to the vetting questions further down this page, not on a badge alone.`,
       ],
       subs: [
         { heading: "Choose local when", text: "you need workshops at your office, photography and branding in the same contract, or a team of more than a handful of people." },
@@ -134,7 +134,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does a Shopify developer cost in Canada?",
       paragraphs: [
-        `Shopify developer quotes in Canada vary widely, from marketplace gigs to agency projects, and the gap comes from scope, team size and overheads more than from the platform itself. With us, a new Shopify store starts at ${P.shop}; every figure is a starting point, and your quote itemises each piece so you can remove what you do not need.`,
+        `Shopify developer quotes in Canada vary widely, from marketplace gigs to agency projects, and the gap comes from scope, team size and overheads more than from the platform itself. With us, a new Shopify store starts at ${P.shop}; every figure is a starting point, and your quote itemizes each piece so you can remove what you do not need.`,
         `The cost drivers for a Canadian store are specific. A single-province seller with one tax registration is simpler than a store registered for GST/HST, QST and BC PST. A catalogue of forty products with two variants each is a different job from eight hundred SKUs with size, colour and material options. A French storefront adds translated URLs, metadata, menus and email notifications. A US market adds pricing rules, shipping profiles and duty settings.`,
         `There are costs you pay directly and which we never mark up: your Shopify subscription, paid theme licence if you choose one, app subscriptions, Shopify Payments processing and any currency conversion. We list the apps we recommend in the quote, with the reason for each, so you can check their pricing pages yourself before approving anything.`,
         `For a full picture of platform fees and first-year running costs in Canada, read our guide to <a href='/canada/ecommerce-website-cost/'>what an online store costs in Canada</a>.`,
@@ -179,7 +179,7 @@ const content: FreelanceContent = {
       heading: "Can a Canadian Shopify store sell to US customers? Shopify Markets explained",
       paragraphs: [
         `Yes. Shopify Markets lets a Canadian store add a US market with USD prices, its own shipping rules and, where available, duties collected at checkout. A Shopify developer in Canada or abroad sets up the market; the customs and tax decisions stay yours.`,
-        `The reason this matters more now: US Customs and Border Protection suspended duty-free de minimis treatment for imports from all countries from August 29, 2025, so low-value parcels from Canada to the US can carry duties and fees. American buyers who receive an unexpected bill at the door tend not to reorder. Showing duties at checkout, or at least explaining them clearly on your shipping page, protects the relationship.`,
+        `The reason this matters more now: a US executive order suspended duty-free de minimis treatment for imports from all countries from August 29, 2025, and US Customs and Border Protection has kept publishing new rules for low-value shipments since, so a small parcel from Canada can no longer be assumed to cross duty-free. An unexpected bill at the door is a poor first experience for an American buyer. Showing duties at checkout, or at least explaining them clearly on your shipping page, protects the relationship.`,
         `Shopify also offers Managed Markets for stores based in Canada, where a merchant of record handles international taxes and duties. Shopify's help centre lists restrictions, including that Canada Post labels are not available for those orders, so we walk through the trade-offs with you before switching anything on.`,
       ],
       list: [
@@ -200,14 +200,14 @@ const content: FreelanceContent = {
     },
     {
       id: "theme-vs-custom",
-      heading: "Theme customisation or a custom Shopify theme: which does your store need?",
+      heading: "Theme customization or a custom Shopify theme: which does your store need?",
       paragraphs: [
-        `Most Canadian stores should start with a well-built Online Store 2.0 theme and customise it; a fully custom theme makes sense when your product pages need layouts no theme offers or when speed on a large catalogue is suffering.`,
-        `A good Shopify developer will explain this trade-off before selling you a custom build. Shopify's free and paid themes already handle filters, variant pickers, sections on every page and accessible navigation. Customising one means adding the sections your brand needs, adjusting typography and spacing, and removing features you do not use so pages stay light.`,
+        `Most Canadian stores should start with a well-built Online Store 2.0 theme and customize it; a fully custom theme makes sense when your product pages need layouts no theme offers or when speed on a large catalogue is suffering.`,
+        `A good Shopify developer will explain this trade-off before selling you a custom build. Shopify's free and paid themes already handle filters, variant pickers, sections on every page and accessible navigation. Customizing one means adding the sections your brand needs, adjusting typography and spacing, and removing features you do not use so pages stay light.`,
         `A custom theme earns its cost when you have configurable products, bundles, subscription options or wholesale price displays that fight a stock theme, or when you have tried two themes and both break on your catalogue. We build custom sections in Liquid with settings your staff can edit, keep the code in a Git repository you own, and avoid editing theme files in ways that block future updates.`,
       ],
       subs: [
-        { heading: "Signs a customised theme is enough", text: "Under a few hundred products, standard variants, a brand that needs colour, type and layout changes rather than new page types." },
+        { heading: "Signs a customized theme is enough", text: "Under a few hundred products, standard variants, a brand that needs colour, type and layout changes rather than new page types." },
         { heading: "Signs you need custom work", text: "Product builders, bundles, B2B price lists on the storefront, or repeated theme conflicts with the apps you depend on." },
       ],
     },
@@ -215,8 +215,8 @@ const content: FreelanceContent = {
       id: "apps",
       heading: "How many Shopify apps is too many for a Canadian store?",
       paragraphs: [
-        `There is no magic number, but every app should earn its place: if it loads scripts on every page, costs a monthly fee and does something the theme or Shopify already does, remove it. Stores that grew by adding apps for each small problem are some of the slowest we see.`,
-        `On audits for Canadian stores we usually find the same pattern: two review apps, an abandoned upsell app still injecting code, a currency converter that conflicts with Shopify Markets, and a translation widget that duplicates Translate & Adapt. Each one adds weight to mobile pages and each one is another monthly charge in USD on your card.`,
+        `There is no magic number, but every app should earn its place: if it loads scripts on every page, costs a monthly fee and does something the theme or Shopify already does, remove it. A store that solved every small problem by installing another app usually pays for it in mobile load time.`,
+        `Picture a typical overgrown setup: two review apps, an abandoned upsell app still injecting code, a currency converter that conflicts with Shopify Markets, and a translation widget that duplicates Translate & Adapt. Each one adds weight to mobile pages and each one is another monthly charge in USD on your card.`,
         `Our approach is to list every installed app, what it does, what it costs and what it loads, then agree with you what stays. Leftover code from removed apps gets cleaned out of the theme. Where a small piece of custom Liquid or a Shopify Flow automation replaces an app, we suggest it, and where an app is the sensible choice, we keep it.`,
       ],
     },
@@ -234,7 +234,7 @@ const content: FreelanceContent = {
       heading: "How do you vet a Shopify developer for a Canadian store?",
       paragraphs: [
         `Ask them to explain how they would set up your taxes, shipping and markets before you ask about design. A developer who has worked on Canadian stores will talk about provincial registrations, Canada Post account requirements and French storefronts without being prompted.`,
-        `Portfolios show what a store looks like; they rarely show whether its checkout charges the right tax in Saskatoon. Good questions reveal more than screenshots. Ask for a sample itemised quote, how they handle theme updates, how they document app choices, and who has access to your admin after the project ends.`,
+        `Portfolios show what a store looks like; they rarely show whether its checkout charges the right tax in Saskatoon. Good questions reveal more than screenshots. Ask for a sample itemized quote, how they handle theme updates, how they document app choices, and who has access to your admin after the project ends.`,
       ],
       list: [
         "Can you explain how GST/HST and QST registrations are entered in Shopify?",
@@ -263,7 +263,7 @@ const content: FreelanceContent = {
       heading: "Working with a Shopify developer in India from Canada: hours, calls and payments",
       paragraphs: [
         `Our evening in India lines up with Canadian mornings: a 9 am call in Toronto or Montreal is early evening for us, and an 8 am call in Vancouver or Calgary still falls within our working evening. We reply on WhatsApp seven days a week.`,
-        `The first two weeks usually run like this. Day one is a video call to walk through your products, tax registrations, shipping and markets. Within about two working days you receive an itemised quote in USD. Once you approve it in writing, we request staff or collaborator access, set up a development theme so your live store is untouched, and share a checklist of what we need from you: product data, images, policies and any French copy.`,
+        `The first two weeks usually run like this. Day one is a video call to walk through your products, tax registrations, shipping and markets. Within about two working days you receive an itemized quote in USD. Once you approve it in writing, we request staff or collaborator access, set up a development theme so your live store is untouched, and share a checklist of what we need from you: product data, images, policies and any French copy.`,
         `By the end of week two you normally see the homepage, a collection and a product page on the development theme, with tax and shipping settings drafted for review. Payments are made in USD or CAD by Wise, bank wire or PayPal, and invoices come from India. Nothing is billed before your written approval of the quote, and the payment schedule is agreed in that document. Read our <a href='/terms/'>terms</a> before you sign.`,
       ],
     },
@@ -288,7 +288,7 @@ const content: FreelanceContent = {
       heading: "Worked example: a Shopify developer for a Canadian candle brand",
       paragraphs: [
         `Here is a hypothetical to show how a scope comes together. Say a two-person candle maker in Kelowna sells at markets and on Etsy, is registered for GST and BC PST, ships across Canada and wants to start selling to US customers and Quebec shoppers within the year.`,
-        `We would start with a customised Online Store 2.0 theme rather than custom code, because the catalogue is around sixty products with scent and size variants. Tax setup covers the GST and BC PST registrations the owners already hold, with a note to ask their accountant about other provinces as sales grow. Shipping uses Canada Post calculated rates for domestic orders, with weights on every variant, and a discount courier app for US parcels.`,
+        `We would start with a customized Online Store 2.0 theme rather than custom code, because the catalogue is around sixty products with scent and size variants. Tax setup covers the GST and BC PST registrations the owners already hold, with a note to ask their accountant about other provinces as sales grow. Shipping uses Canada Post calculated rates for domestic orders, with weights on every variant, and a discount courier app for US parcels.`,
         `Phase two adds a US market with USD prices and a duties explanation on the shipping page, and a French storefront through Translate & Adapt once their translator delivers copy. Their quote would list each phase separately, so they could launch the Canadian store first and add the rest when ready. This is an illustration, not a past client.`,
       ],
     },
@@ -353,12 +353,12 @@ const content: FreelanceContent = {
       id: "scope-table",
       eyebrow: "Scope and price",
       heading: "What a Shopify developer quote for Canada is made of",
-      note: "Starting prices in USD. Each line is optional and itemised in your quote.",
+      note: "Starting prices in USD. Each line is optional and itemized in your quote.",
       columns: ["Piece of work", "Typical scope", "Starting price", "Timeline"],
       rows: [
         ["New Shopify store", "Theme, products, collections, CAD checkout, policies", `From ${P.shop}`, "4–8 weeks"],
-        ["Tax, shipping and US market setup", "Registrations, overrides, rates, USD market", "Itemised within the store quote", "Part of the build"],
-        ["French storefront", "Translate & Adapt setup, URLs, emails, switcher", "Itemised within the store quote", "Adds time once copy arrives"],
+        ["Tax, shipping and US market setup", "Registrations, overrides, rates, USD market", "Itemized within the store quote", "Part of the build"],
+        ["French storefront", "Translate & Adapt setup, URLs, emails, switcher", "Itemized within the store quote", "Adds time once copy arrives"],
         ["Custom app or integration", "ERP, warehouse or wholesale portal connections", `From ${P.software}`, "6–12 weeks"],
         ["Order and support automation", "AI-drafted replies, order lookups, WhatsApp flows", `From ${P.ai}`, "2–4 weeks"],
         ["Monthly Shopify SEO", "Collections, schema, content, Search Console", `From ${P.seo}`, "Ongoing"],
@@ -369,7 +369,7 @@ const content: FreelanceContent = {
   areas: {
     eyebrow: "Across Canada",
     heading: "Canadian cities where merchants hire a Shopify developer remotely",
-    note: "We work remotely with stores anywhere in Canada. These are the kinds of businesses we hear from, city by city.",
+    note: "We work remotely with stores anywhere in Canada. These notes sketch the kinds of merchants in each city that tend to need this work.",
     cards: [
       { name: "Toronto", note: "Apparel, beauty and food brands with Ontario HST, heavy US demand and competitive collection pages, often moving from starter themes to something faster and more distinctive." },
       { name: "Montreal", note: "Retailers and makers selling to Quebec customers first, who need a proper French storefront, QST configured correctly and a translator-friendly workflow for product copy." },
@@ -390,8 +390,8 @@ const content: FreelanceContent = {
   process: {
     heading: "How a Shopify project runs with a remote team, step by step",
     steps: [
-      ["Discovery call in your morning", "A video call walks through products, tax registrations, shipping habits, markets and French needs. You leave with a list of what we need and when the itemised quote arrives."],
-      ["Itemised quote in USD", "Within about two working days you receive a line-by-line quote with starting prices, recommended apps and their monthly costs, and a timeline. Nothing is billed until you approve it in writing."],
+      ["Discovery call in your morning", "A video call walks through products, tax registrations, shipping habits, markets and French needs. You leave with a list of what we need and when the itemized quote arrives."],
+      ["Itemized quote in USD", "Within about two working days you receive a line-by-line quote with starting prices, recommended apps and their monthly costs, and a timeline. Nothing is billed until you approve it in writing."],
       ["Access and development theme", "You invite us through a staff or collaborator account. We duplicate the theme so all work happens away from your live store, with code tracked in your own Git repository."],
       ["Build and configure", "Theme sections, product structure, CAD checkout, tax registrations, shipping rates, US market and French storefront are built in agreed order, with progress shared on WhatsApp and short screen recordings."],
       ["Test orders and review", "We place test orders to several provinces and US addresses, check emails in both languages and review mobile layouts. You review with your team and list changes."],
@@ -400,22 +400,22 @@ const content: FreelanceContent = {
   },
   faqHeading: "Shopify developer Canada: questions merchants ask",
   faqs: [
-    { question: "How much does a Shopify developer cost in Canada?", answer: `Quotes vary widely because scope varies: a theme tweak and a full store build are different jobs. With BtechWaleTech, a new Shopify store starts at ${P.shop} and usually takes 4–8 weeks, with tax, shipping, US market and French storefront work itemised separately. Your Shopify plan, apps and payment processing are paid directly by you and never marked up.` },
-    { question: "Is it safe to hire a Shopify developer outside Canada?", answer: "It is safe when access and ownership are set up correctly. Your store stays in your account, the developer uses a staff or collaborator login you can remove, the code sits in your own repository, and you pay against an itemised quote you approved. Avoid anyone who asks for the owner password or builds your store inside their own account." },
-    { question: "What is the difference between a Shopify Partner and a Shopify developer?", answer: "A Shopify Partner is someone registered in Shopify's Partner Program, which gives access to development stores and a directory listing. A Shopify developer is anyone who builds or customises stores. Many good developers are Partners, but the badge does not tell you whether they understand Canadian taxes, shipping or French storefronts. Ask to see how they would configure those." },
+    { question: "How much does a Shopify developer cost in Canada?", answer: `Quotes vary widely because scope varies: a theme tweak and a full store build are different jobs. With BtechWaleTech, a new Shopify store starts at ${P.shop} and usually takes 4–8 weeks, with tax, shipping, US market and French storefront work itemized separately. Your Shopify plan, apps and payment processing are paid directly by you and never marked up.` },
+    { question: "Is it safe to hire a Shopify developer outside Canada?", answer: "It is safe when access and ownership are set up correctly. Your store stays in your account, the developer uses a staff or collaborator login you can remove, the code sits in your own repository, and you pay against an itemized quote you approved. Avoid anyone who asks for the owner password or builds your store inside their own account." },
+    { question: "What is the difference between a Shopify Partner and a Shopify developer?", answer: "A Shopify Partner is someone registered in Shopify's Partner Program, which gives access to development stores and a directory listing. A Shopify developer is anyone who builds or customizes stores. Many good developers are Partners, but the badge does not tell you whether they understand Canadian taxes, shipping or French storefronts. Ask to see how they would configure those." },
     { question: "Can you set up GST, HST, PST and QST on my Shopify store?", answer: "Yes. We enter the registrations you hold under Shopify's Canadian tax settings, add product overrides where your accountant advises, check shipping taxability and place test orders to confirm totals. We do not decide which provinces you must register in or file returns; that is your accountant's call, and we implement the answer." },
     { question: "Which is better for a Canadian store: Canada Post, Chit Chats or Stallion Express?", answer: "It depends on where parcels go and how heavy they are. Canada Post calculated rates suit domestic orders but need your own account and an eligible plan. Chit Chats and Stallion Express both connect to Shopify and are popular with smaller sellers shipping light parcels to the US. We compare them using a sample of your real orders." },
     { question: "Can my Shopify store charge in CAD and USD?", answer: "Yes. The store runs in CAD, and Shopify Markets can add a US market that shows USD prices with rounding rules you choose. We configure the market, shipping profiles and duty display where eligible, then place test orders in both currencies. Payout and conversion terms come from Shopify, so check them in your admin." },
     { question: "Do I need a French Shopify storefront to sell in Quebec?", answer: "If your business sells to consumers in Quebec, a French storefront is the safe plan, and your lawyer can confirm how Quebec's language law applies to you. We build the French version with translated URLs, menus, policies, emails and checkout text. You or your translator provide the French copy; we do not write or machine-translate it." },
-    { question: "How long does it take to build a Shopify store?", answer: "A new store usually takes 4–8 weeks from approved quote to launch. Simple catalogues with a customised theme sit at the shorter end; custom sections, a US market and a French storefront push it longer. The biggest variable is how quickly product data, photos and translated copy arrive, so we agree a content schedule on day one." },
-    { question: "Should I use a Shopify theme or get a custom theme?", answer: "Start with a customised Online Store 2.0 theme unless you have product builders, bundles or wholesale displays a theme cannot handle. Customising is faster and cheaper and keeps you on the theme's update path. A custom theme is worth it when repeated conflicts or speed problems on a large catalogue keep costing you sales." },
+    { question: "How long does it take to build a Shopify store?", answer: "A new store usually takes 4–8 weeks from approved quote to launch. Simple catalogues with a customized theme sit at the shorter end; custom sections, a US market and a French storefront push it longer. The biggest variable is how quickly product data, photos and translated copy arrive, so we agree a content schedule on day one." },
+    { question: "Should I use a Shopify theme or get a custom theme?", answer: "Start with a customized Online Store 2.0 theme unless you have product builders, bundles or wholesale displays a theme cannot handle. Customizing is faster and cheaper and keeps you on the theme's update path. A custom theme is worth it when repeated conflicts or speed problems on a large catalogue keep costing you sales." },
     { question: "Who owns the Shopify store and code when the project ends?", answer: "You do, from the first day. The Shopify account is in your business name, the domain is registered to you, and custom theme code is committed to a repository you control. At handover we document the apps and settings, and you remove our access whenever you like. Nothing is held back until a final payment." },
     { question: "What time are calls with a developer in India?", answer: "Calls happen in your morning. A 9 am call in Toronto or Montreal is early evening in India, and an 8 am call in Vancouver or Calgary still fits our working evening. Between calls we reply on WhatsApp seven days a week, so a question sent at lunch usually has an answer before your next morning." },
     { question: "How do Canadian clients pay you?", answer: "Quotes are in USD, and you can pay in USD or CAD by Wise, bank wire or PayPal. Invoices come from India. The payment schedule is agreed in your written quote, and nothing is billed before you approve it. For tax treatment of an overseas supplier on your side, ask your accountant." },
     { question: "Can you move my store from WooCommerce, Wix or Squarespace to Shopify?", answer: "Yes. We import products, customers and, where the source platform allows, order history, then map old URLs to new ones with redirects so search traffic and bookmarks keep working. Tax and shipping settings are rebuilt for Shopify rather than copied. Our Shopify migration page covers the cut-over checklist and timing around Canadian peak seasons." },
     { question: "Can you help my Shopify store rank on Google in Canada?", answer: `We build the store with clean collection structure, product structured data in CAD, French pages that index separately and fast mobile pages. Ongoing Shopify SEO starts at ${P.seo} per month. Nobody can guarantee rankings; we report what changed and what Search Console shows so you can judge the work.` },
     { question: "Will too many apps slow down my Shopify store?", answer: "They can. Many apps load scripts on every page, and uninstalled apps sometimes leave code behind in the theme. During a build or audit we list every app, what it loads and what it costs, then remove duplicates and leftovers. Where a small theme change or a Shopify Flow workflow does the job, we suggest that instead." },
-    { question: "Do you work with Shopify Plus stores in Canada?", answer: "Yes, for theme work, checkout extensibility within Shopify's rules, integrations and automation. We are three developers, so we are a good fit for focused Plus projects rather than large programmes that need a dozen people, dedicated QA teams or someone on site. We will tell you honestly if your project needs a bigger team." },
+    { question: "Do you work with Shopify Plus stores in Canada?", answer: "Yes, for theme work, checkout extensibility within Shopify's rules, integrations and automation. We are three developers, so we are a good fit for focused Plus projects rather than large programs that need a dozen people, dedicated QA teams or someone on site. We will tell you honestly if your project needs a bigger team." },
     { question: "Can you connect Shopify to QuickBooks Online or our warehouse?", answer: `Often an existing app does it well, and we will recommend one. When your process needs something custom, such as a wholesale portal or a warehouse system without a Shopify app, we build the integration using Shopify's APIs, from ${P.software}. The data mapping is documented so your bookkeeper knows what syncs where.` },
     { question: "What does Shopify maintenance include after launch?", answer: `You get five months of free maintenance after launch covering fixes, small content changes and app reviews. After that, maintenance starts at ${P.care} per month and includes theme updates, checks after Shopify releases, broken-link and speed checks, and small edits. Anything larger is quoted separately before work starts.` },
     { question: "Do you need to visit our shop or warehouse?", answer: "No. We never visit in person; everything happens over video calls, screen sharing and WhatsApp. For product data we work from spreadsheets, your existing store or photos you send. If your project depends on someone physically in your space, such as photography or POS hardware setup, hire a local person for that part." },
@@ -442,7 +442,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Tell us about your Shopify store",
-    note: "Send your store link or product list, the provinces you are registered in and whether you sell to the US or Quebec. You get an itemised quote in USD in about two working days, and nothing is billed before you approve it.",
+    note: "Send your store link or product list, the provinces you are registered in and whether you sell to the US or Quebec. You get an itemized quote in USD in about two working days, and nothing is billed before you approve it.",
   },
 };
 

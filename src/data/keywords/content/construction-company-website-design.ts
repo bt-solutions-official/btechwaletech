@@ -43,11 +43,11 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers working on your site" },
     { value: "2", label: "Working days to receive the quote" },
-    { value: "5", label: "Months of free updates after launch" },
+    { value: "5", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
-    heading: "What should a construction company website design include to win contracts?",
+    heading: "What should construction company website design include to win contracts?",
     text: `A construction company website should show completed projects with area, duration and stage photos, offer a cost per sq ft calculator based on your own package rates, give turnkey, renovation and commercial work separate pages, list registrations and tender credentials you hold, and let visitors book a site visit. BtechWaleTech builds this from ${P.site}, usually in two to three weeks.`,
     more: `Contractors who also sell flats or plots should read our <a href='/real-estate-website-developer/'>real estate website</a> guide; for tracking live projects internally, see <a href='/construction-management-software/'>construction management software</a>.`,
   },
@@ -183,7 +183,7 @@ const content: FreelanceContent = {
       id: "rera",
       heading: "Does a construction company website need a RERA registration number?",
       paragraphs: [
-        `Only if you act as a promoter selling units in a project that requires registration. If you build on a client’s own plot under a construction contract, RERA project registration usually does not apply to that work, but anything you market for sale may be different.`,
+        `Only if you act as a promoter selling units in a project that requires registration. Registration under RERA is an obligation on the promoter of a project, so building on a client’s own plot under a construction contract is a different situation from marketing flats or plots you sell yourself.`,
         `Under Section 3 of the Real Estate (Regulation and Development) Act, 2016, projects above 500 square metres of land or more than eight apartments generally need registration before being advertised or sold, and Section 11(2) requires advertisements to mention the regulator’s website address and the project’s registration number prominently. A construction company that also develops and sells flats must therefore show those details on each project page it markets.`,
         `We build project pages with a RERA field that displays the number and the state authority’s website wherever a project is being marketed, and hides it for contract work where it does not apply. Whether a specific project needs registration is a legal question for your lawyer or the state RERA; for full developer sites, see our <a href='/real-estate-website-developer/'>real estate website</a> guide.`,
       ],
@@ -221,7 +221,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Resize everything automatically and load only what is on screen. Contractors tend to upload twenty-megabyte drone stills and four-minute videos straight to the site, which makes pages crawl on the mobile data most visitors use.`,
         `Our build converts each photo into several widths in modern formats such as AVIF and WebP, lazy-loads everything below the first screen, and shows a preview frame for videos that loads the video only when played. Google’s web.dev guidance treats a Largest Contentful Paint of 2.5 seconds or less as good; the project hero image is usually that element, so it gets priority loading. Pages also reserve space for images so nothing jumps as the page loads.`,
-        `A fast page matters more on construction sites than many realise, because a large share of first visits come from ads and Google Maps listings on phones, often from people standing on or near their plot. If the page stalls, they call the next contractor. More detail is on our <a href='/website-speed-optimization-freelancer/'>speed optimisation</a> page.`,
+        `Speed matters for contractors because a plot owner comparing builders usually has several tabs or phone numbers open at once. Visitors who tap through from a Google Maps listing or an ad land on your page on a phone, and if it stalls, the next contractor is one tap away. More detail is on our <a href='/website-speed-optimization-freelancer/'>speed optimisation</a> page.`,
       ],
     },
     {
@@ -237,7 +237,7 @@ const content: FreelanceContent = {
       id: "ai-search",
       heading: "Can AI assistants recommend a construction company from its website?",
       paragraphs: [
-        `Yes, when your site states the facts they need in plain text: which kinds of buildings you construct, which cities and localities you cover, your package structure, typical timelines for a given size, and your registrations. People increasingly ask AI tools “who builds independent houses in Coimbatore with a fixed specification?” before searching Google.`,
+        `Yes, when your site states the facts they need in plain text: which kinds of buildings you construct, which cities and localities you cover, your package structure, typical timelines for a given size, and your registrations. A question such as “who builds independent houses in Coimbatore with a fixed specification?” can only be answered from pages that say those things in words.`,
         `We add short summaries at the top of service and project pages, FAQ answers that stand alone, and structured data connecting your business, services and areas. Project pages list area, floors and duration as text rather than only inside images. Keeping your name, address and services identical across the website, Google Business Profile and directory listings reduces the chance of an AI tool mixing you up with a similarly named contractor.`,
         `Honesty helps here too: a calculator note that says what is excluded, and packages that say what they include, are the kind of precise statements AI answers quote. Our <a href='/generative-engine-optimization-services/'>generative engine optimisation</a> page covers this field. We cannot promise AI mentions; we can make your site clear and citable.`,
       ],
@@ -350,12 +350,12 @@ const content: FreelanceContent = {
   process: {
     heading: "How we deliver construction company website design",
     steps: [
-      ["Send projects and rates", "Share your completed projects with photos, your package rates and specifications, registrations and the areas you serve. We come back on WhatsApp with questions within a day."],
+      ["Send projects and rates", "Share your completed projects with photos, your package rates and specifications, registrations and the areas you serve. We come back on WhatsApp with any questions; the team replies 7 days a week, IST."],
       ["Approve an itemised quote", "About two working days later you get the page list, calculator logic, portal option if any, and starting price. Nothing is billed until you approve in writing."],
       ["Check the calculator", "We build the cost tool first and let you test it with real past jobs, so the ranges it shows match what you would actually quote."],
       ["Review the preview", "Project pages, services, packages and credentials go up on a private link that your site engineers and office staff can check on their phones."],
       ["Launch and connect", "Forms, WhatsApp alerts, Search Console, sitemap and Google Business Profile link are tested, then your domain switches to the new site."],
-      ["Add projects as you finish them", "During five free months we add completed projects and update rates; optional care from our maintenance plan continues afterwards."],
+      ["Add projects as you finish them", "Maintenance is free for five months after launch, with the scope written into your quote; optional care from our maintenance plan continues afterwards."],
     ],
   },
   faqHeading: "Construction company website design: frequently asked questions",
@@ -378,7 +378,7 @@ const content: FreelanceContent = {
     { question: "Do I own the website, domain and project photos?", answer: "Yes. The domain, hosting and Search Console are registered in your name, the code is handed over at launch, and your photos stay in storage you control. We work through access you grant and return all logins at handover. Payments are by UPI or bank transfer in India, or Wise, wire or PayPal from abroad." },
     { question: "Is a freelancer good enough for a construction company website?", answer: "For most contractors, yes. The work is a well-structured site with a portfolio, calculator and forms, which a small experienced team handles well, and you talk directly to the three developers doing it. We do not visit sites, take photos or handle hardware; you or your photographer provide images, and we handle the rest remotely." },
     { question: "Can you add Hindi or a regional language to my construction website?", answer: "Yes. Many plot owners and their families prefer Hindi, Marathi, Tamil or another language for key pages like packages and process. We build proper language versions with correct tags. Our team writes English and Hindi; for other languages you supply or approve the translated copy, and we handle the build." },
-    { question: "What is included in the five months of free maintenance?", answer: `Adding newly completed projects, updating package rates and specifications, credential changes, fixes and small edits for five months after launch. After that, maintenance is optional from ${P.care}. Because you own the code and accounts, you can also manage the site yourself or hire someone else.` },
+    { question: "What is included in the five months of free maintenance?", answer: `Maintenance is free for five months after launch, and your written quote spells out what it covers, typically fixes and small edits such as a rate or credential change. Larger additions are quoted separately. After that, maintenance is optional from ${P.care}. Because you own the code and accounts, you can also manage the site yourself or hire someone else.` },
     { question: "Can the same website serve residential and commercial clients?", answer: "Yes, with separate routes from the home page. Home builders see house projects, packages, the calculator and site-visit booking; commercial clients see relevant buildings, scheduling, safety and coordination detail with a project brief form. Credentials and about pages are shared, so maintenance stays simple." },
     { question: "Construction company ki website banwane me kitna kharcha aata hai?", answer: `BtechWaleTech ke saath construction company ki website ${P.site} se start hoti hai. Isme project portfolio, service pages, packages, per sq ft calculator aur site visit booking form aata hai. Client portal jaisa software ${P.software} se start hota hai. Itemised quote lagbhag do working days me milta hai, aur approval se pehle koi payment nahi.` },
   ],
@@ -401,7 +401,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready for a construction company website design that brings serious site-visit requests?",
-    note: `Send your completed projects, package rates and registrations on WhatsApp. You will receive an itemised quote in about two working days, starting at ${P.site}, with everything in your name and five months of free updates after launch.`,
+    note: `Send your completed projects, package rates and registrations on WhatsApp. You will receive an itemised quote in about two working days, starting at ${P.site}, with everything in your name and five months of free maintenance after launch.`,
   },
 };
 

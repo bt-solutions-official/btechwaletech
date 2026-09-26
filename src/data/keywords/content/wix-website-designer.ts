@@ -137,7 +137,7 @@ const content: FreelanceContent = {
       heading: "Wix Editor vs Wix Studio: which one should your Wix website designer use?",
       paragraphs: [
         `Use the classic Wix Editor when you will edit the site yourself and want the simplest interface. Use Wix Studio when the design needs precise responsive control, custom CSS or code, and the site will mostly be maintained by a professional.`,
-        `Wix describes Wix Studio as a platform “built for designers, developers and marketers working with clients”. Its responsive editor adapts layouts across screen sizes, it allows custom CSS, and it includes a cloud development environment where developers write JavaScript and use npm packages. It also gives client-specific roles and permissions, which matters when an outside Wix website designer builds the site and your staff take over content.`,
+        `Wix describes Wix Studio as “the website building platform for designers, developers, and marketers”, aimed at people building sites for clients. Its responsive editor adapts layouts across screen sizes, it allows custom CSS, and it includes a cloud development environment where developers write JavaScript and use npm packages. It also gives client-specific roles and permissions, which matters when an outside Wix website designer builds the site and your staff take over content.`,
         `For most owner-run sites, the classic editor is enough and easier to live with. We pick Studio when a brand needs pixel-level layouts on tablets and laptops, when the site pulls data from an external system, or when you want a code-free CMS that non-technical staff can update without touching the design.`,
       ],
       list: [

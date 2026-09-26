@@ -66,7 +66,7 @@ const content: FreelanceContent = {
   services: {
     eyebrow: "WordPress SEO services we provide",
     heading: "Where WordPress sites lose search traffic, and the work that fixes it",
-    note: "WordPress makes publishing easy and makes a few SEO mistakes just as easy. These are the areas we check and repair on almost every site.",
+    note: "WordPress makes publishing easy and makes a few SEO mistakes just as easy. These are the areas where WordPress sites most commonly go wrong.",
     cards: [
       { name: "Plugin configuration", note: "Yoast SEO or Rank Math set up for your content types: title templates, meta defaults, archive robots rules, breadcrumbs and sitemap contents, with overlapping plugins removed.", href: "/on-page-seo-services/", size: "lg" },
       { name: "Archive and taxonomy cleanup", note: "Category, tag, author, date and attachment URLs reviewed one by one, with thin ones set to noindex and strong categories turned into real landing pages.", href: "/technical-seo-freelancer/", size: "lg" },
@@ -115,7 +115,7 @@ const content: FreelanceContent = {
       heading: "Is installing Yoast or Rank Math enough for WordPress SEO?",
       paragraphs: [
         `No. An SEO plugin is a control panel, not a strategy. It gives you fields for titles and descriptions, generates a sitemap, prints some schema and offers robots settings, but its defaults are generic and it cannot fix your theme, your content structure or your hosting.`,
-        `We regularly see the same pattern on sites that “already have SEO”: the plugin is installed, the setup wizard was skipped, every post uses the default title template, tag archives with one post each are indexed, the theme prints its own schema alongside the plugin’s, and a second SEO plugin installed years ago still outputs a duplicate set of meta tags.`,
+        `A typical pattern on sites that “already have SEO” looks like this: the plugin is installed, the setup wizard was skipped, every post uses the default title template, tag archives with one post each are indexed, the theme prints its own schema alongside the plugin’s, and a second SEO plugin installed years ago still outputs a duplicate set of meta tags.`,
         `What the plugin cannot decide for you is which pages deserve to be in Google at all, how your services and articles should link to each other, and which scripts are slowing your site. That judgement is the core of paid WordPress SEO services.`,
       ],
       list: [
@@ -146,7 +146,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `For most business sites, a “post name” structure, where the URL is your domain followed by a short slug, is the cleanest choice. It is readable, short, and does not go out of date the way date-based URLs do.`,
         `WordPress lets you choose permalinks under Settings, then Permalinks. Plain URLs with a question mark and post ID are the least descriptive; date-based structures make evergreen articles look old and make URLs longer. Adding a category base to post URLs can help very large content sites organise sections, but it creates a problem when a post moves to another category.`,
-        `The bigger risk is changing permalinks on an established site. Every existing URL changes at once, and without 301 redirects Google finds broken links and your rankings slide. Google’s documentation describes redirects as the strongest signal for telling it which URL is canonical, so a permalink change should always come with a redirect map from old to new.`,
+        `The bigger risk is changing permalinks on an established site. Every existing URL changes at once, and without 301 redirects Google finds broken links and your rankings slide. Google’s documentation on consolidating duplicate URLs calls a redirect a strong signal that its target should become canonical, so a permalink change should always come with a redirect map from old to new.`,
       ],
       list: [
         "New site: pick post name permalinks before publishing anything",
@@ -189,7 +189,7 @@ const content: FreelanceContent = {
       heading: "How do theme and plugin bloat hurt WordPress SEO?",
       paragraphs: [
         `Bloat makes pages heavy and slow, and slow pages struggle on Core Web Vitals, lose mobile visitors and cost more crawl time. It builds up quietly as each new plugin adds its scripts and styles to every page, including pages that never use them.`,
-        `Typical culprits are multipurpose themes that load dozens of features you never switched on, page builders that wrap each block in several layers of HTML, slider plugins on the home page, social sharing and chat widgets loading third-party scripts, and three plugins doing jobs one could do. We also find plugins that were deactivated but never deleted, and abandoned plugins that no longer receive security updates.`,
+        `Typical culprits are multipurpose themes that load dozens of features you never switched on, page builders that wrap each block in several layers of HTML, slider plugins on the home page, social sharing and chat widgets loading third-party scripts, and three plugins doing jobs one could do. Look out too for plugins that were deactivated but never deleted, and abandoned plugins that no longer receive security updates.`,
         `The fix is an inventory, not a mass uninstall. We list every active plugin, what it does, whether anything replaces it, and what it loads on the front end. Then, with your approval, we remove duplicates, load remaining scripts only on the pages that need them, and replace the heaviest pieces with lighter options. Testing happens on a staging copy first.`,
       ],
       subs: [
@@ -290,7 +290,7 @@ const content: FreelanceContent = {
       id: "risks",
       heading: "WordPress SEO mistakes that cost rankings",
       paragraphs: [
-        `A large part of the repair work in WordPress SEO services is undoing earlier mistakes. Most WordPress SEO damage comes from well-meant changes made without checking their side effects. These are the ones we are most often asked to undo.`,
+        `A large part of the repair work in WordPress SEO services is undoing earlier mistakes. Most WordPress SEO damage comes from well-meant changes made without checking their side effects. These are the most common, and the most avoidable.`,
       ],
       list: [
         "Search visibility left on “discourage” after a redesign launch",
@@ -319,7 +319,7 @@ const content: FreelanceContent = {
       id: "across-india",
       heading: "WordPress SEO services for businesses across India",
       paragraphs: [
-        `WordPress runs a large share of the business sites, blogs and school sites we see across India, and the same five layers apply everywhere. We work remotely, make changes on staging, discuss them on WhatsApp or screen-share calls, and take payment by UPI or bank transfer.`,
+        `From a Jaipur coaching blog to a Coimbatore pump catalogue, WordPress sites across India share the same five layers, so the same checks apply everywhere. We work remotely, make changes on staging, discuss them on WhatsApp or screen-share calls, and take payment by UPI or bank transfer.`,
         `City pages describe local business mixes: <a href='/pune/'>Pune</a>, <a href='/hyderabad/'>Hyderabad</a>, <a href='/gurgaon/'>Gurgaon</a>, <a href='/kolkata/'>Kolkata</a>, <a href='/ahmedabad/'>Ahmedabad</a>, <a href='/lucknow/'>Lucknow</a>, <a href='/kochi/'>Kochi</a>, <a href='/varanasi/'>Varanasi</a>, <a href='/amritsar/'>Amritsar</a> and <a href='/coimbatore/'>Coimbatore</a>. If your WordPress site gets visits but no enquiries, read <a href='/website-not-generating-leads/'>website not generating leads</a>; clinics and advocates on WordPress should also see <a href='/seo-for-doctors/'>SEO for doctors</a> and <a href='/seo-for-lawyers/'>SEO for lawyers</a>.`,
       ],
     },
@@ -391,7 +391,7 @@ const content: FreelanceContent = {
       { name: "WordPress SEO in Varanasi", note: "Hotels, guesthouses and pilgrimage tour operators in Varanasi target both Indian and foreign visitors, so page speed and clear location schema matter.", href: "/varanasi/" },
       { name: "WordPress SEO in Amritsar", note: "Hotels, travel agents and food businesses near the Golden Temple rely on WordPress sites that must rank for tourist searches in several languages.", href: "/amritsar/" },
       { name: "WordPress SEO in Coimbatore", note: "Pump, motor and textile manufacturers in Coimbatore need WordPress product pages indexed properly, with specification tables Google can read.", href: "/coimbatore/" },
-      { name: "WordPress SEO in Chandigarh", note: "Immigration consultants and clinics across the tricity use WordPress blogs for visa and treatment content, where merging overlapping posts often lifts rankings.", href: "/chandigarh/" },
+      { name: "WordPress SEO in Chandigarh", note: "Immigration consultants and clinics across the tricity use WordPress blogs for visa and treatment content, where merging overlapping posts is a common first fix.", href: "/chandigarh/" },
       { name: "WordPress SEO in Indore", note: "Coaching institutes and FMCG distributors in Indore run content-heavy WordPress sites that benefit from category hubs and a trimmed plugin list.", href: "/indore/" },
       { name: "WordPress SEO in Guwahati", note: "Tea businesses, travel operators and colleges in Guwahati serve the whole Northeast, so their WordPress sites need region pages and fast mobile loading.", href: "/guwahati/" },
       { name: "WordPress SEO in Mysore", note: "Yoga schools, heritage stays and silk sellers in Mysore attract international searches, where WordPress speed and clean schema help them compete.", href: "/mysore/" },

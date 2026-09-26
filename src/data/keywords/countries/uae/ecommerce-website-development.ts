@@ -11,7 +11,7 @@ const content: FreelanceContent = {
   crumb: "Ecommerce website development company in Dubai",
   updated: "2026-09-25",
   meta: {
-    title: `Ecommerce Web Development Company Dubai: from ${P.shop}`,
+    title: "Ecommerce Website Development Company in Dubai Guide",
     description: `Choosing an ecommerce website development company in Dubai? Platform matrix, bilingual catalogues, COD and delivery, launch checklist. Stores from ${P.shop}.`,
     keywords: [
       "ecommerce website development company in dubai", "ecommerce website development dubai", "ecommerce development company uae",
@@ -27,7 +27,7 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Ecommerce development · UAE-wide, remote from India",
     h1: "Choosing an ecommerce website development company in Dubai: a buyer's guide from platform to launch",
-    lede: `Hiring an ecommerce website development company in Dubai is really four decisions: which platform, who prepares the product data in English and Arabic, how customers pay and receive orders across the emirates, and who looks after the store once it is live. BtechWaleTech is a small freelance team of three developers in India that builds UAE online stores end to end, from ${P.shop}. This page gives you the decision tools we use with clients, so you can judge any proposal, including ours.`,
+    lede: `Hiring an ecommerce website development company in Dubai is really four decisions: which platform, who prepares the product data in English and Arabic, how customers pay and receive orders across the emirates, and who looks after the store once it is live. BtechWaleTech is a small freelance team of three developers in India that builds UAE online stores end to end, from ${P.shop}. This page gives you the same decision tools we use when scoping a store, so you can judge any proposal, including ours.`,
     pills: ["Platform decision matrix", "Shopify, WooCommerce or custom", "English & Arabic catalogues", "Cards, wallets, BNPL & COD", "Delivery zones by emirate", "Launch & aftercare checklist", "Everything in your name"],
     origin: "Freelance team of three in India · near full UAE working day overlap · quotes in USD",
   },
@@ -190,7 +190,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Set delivery zones by emirate, not one national rate, and design the address form for how UAE addresses really work. Failed deliveries cost more than slow ones, and most failures start at the address form.`,
         `Many UAE addresses are described by building, area, nearby landmark and phone number rather than street number. A good checkout asks for emirate first, then area from a list, then building and apartment, then a directions field and a phone number the courier can call. A map pin is useful for villas and industrial areas.`,
-        `Rates can differ for Dubai and Sharjah versus the northern emirates, Al Ain or the Western Region of Abu Dhabi. Same-day or next-day promises should only appear for zones where your courier actually meets them. We connect one courier by API or plugin so labels print from the order screen and tracking links reach the customer automatically.`,
+        `Rates can differ for Dubai and Sharjah versus the northern emirates, Al Ain or Abu Dhabi's Al Dhafra region. Same-day or next-day promises should only appear for zones where your courier actually meets them. We connect one courier by API or plugin so labels print from the order screen and tracking links reach the customer automatically.`,
       ],
     },
     {
@@ -214,7 +214,7 @@ const content: FreelanceContent = {
       heading: "UAE ecommerce rules the build has to support",
       paragraphs: [
         `Your store needs clear product information, a clear digital invoice for each purchase, and careful handling of customer data. The build supports these; your lawyer confirms what applies to your business.`,
-        `The UAE government portal's <a href='https://u.ae/en/information-and-services/business/Managing-and-growing-your-business/ecommerce' rel='noopener'>ecommerce guidance</a> explains that Federal Decree-Law No. 14 of 2023 covers buying and selling online through websites, apps, social media and marketplaces, that merchants must provide a clear digital invoice for every transaction, and that businesses need a commercial licence that includes ecommerce activity from their emirate's economic department. Personal data falls under <a href='https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws' rel='noopener'>Federal Decree-Law No. 45 of 2021</a>, in force since 2 January 2022.`,
+        `The UAE government portal's <a href='https://u.ae/en/information-and-services/business/Managing-and-growing-your-business/ecommerce' rel='noopener'>ecommerce guidance</a> explains that Federal Decree-Law No. 14 of 2023 on Modern Technology-Based Trade covers buying and selling online through websites, apps, social media and marketplaces, that merchants must provide a clear digital invoice for every transaction, and that businesses need a commercial licence that includes ecommerce activity from their emirate's economic department. Personal data falls under <a href='https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws' rel='noopener'>Federal Decree-Law No. 45 of 2021</a>, in force since 2 January 2022.`,
         `What we build for this: order confirmation emails and invoice templates carrying your licence and Tax Registration Number details, product pages with complete specifications, visible returns and delivery policies, consent checkboxes for marketing, and minimal data collection at checkout. We do not give legal advice or draft your policies; your adviser reviews them before launch.`,
       ],
     },
@@ -262,7 +262,7 @@ const content: FreelanceContent = {
       heading: "Ecommerce launch checklist for UAE stores",
       paragraphs: [
         `Do not launch until every payment route, every delivery zone and every language has been tested with a real order. The checklist table further down lists what we sign off; use it with any developer.`,
-        `The most commonly missed items are unglamorous: order emails still showing the theme's demo text, Arabic emails falling back to English, tax settings showing prices without VAT, and redirects from an old site left undone. Each takes minutes to fix before launch and days of confusion after.`,
+        `The items easiest to miss are unglamorous: order emails still showing the theme's demo text, Arabic emails falling back to English, tax settings showing prices without VAT, and redirects from an old site left undone. Each takes minutes to fix before launch and days of confusion after.`,
       ],
     },
     {
@@ -351,7 +351,7 @@ const content: FreelanceContent = {
   areas: {
     eyebrow: "Online stores across the UAE",
     heading: "Who needs an ecommerce build in each emirate",
-    note: "We work remotely for merchants in every emirate. The notes describe the kinds of stores we typically scope for each place.",
+    note: "We work remotely for merchants in every emirate. The notes describe the kinds of stores each place tends to need.",
     cards: [
       { name: "Dubai, Deira and Bur Dubai", note: "Traders in electronics, textiles, spices and perfume moving part of their wholesale trade online, usually with large catalogues and a need for B2B price tiers." },
       { name: "Dubai, Al Barsha and Al Quoz", note: "Showroom retailers of furniture, lighting and home goods wanting stores that handle bulky delivery, assembly options and scheduled delivery slots." },

@@ -298,8 +298,8 @@ const content: FreelanceContent = {
       heading: "App maintenance across India",
       paragraphs: [
         `Maintenance is fully remote, so the app maintenance cost in India is the same whether your business sits in a metro or a smaller city. We work over WhatsApp, video calls and shared dashboards, in English or Hindi, and every account stays with you.`,
-        `We regularly speak with app owners in <a href='/bengaluru/'>Bengaluru</a>, <a href='/pune/'>Pune</a>, <a href='/indore/'>Indore</a>, <a href='/jaipur/'>Jaipur</a>, <a href='/kochi/'>Kochi</a>, <a href='/lucknow/'>Lucknow</a>, <a href='/surat/'>Surat</a>, <a href='/coimbatore/'>Coimbatore</a>, <a href='/guwahati/'>Guwahati</a> and <a href='/chandigarh/'>Chandigarh</a>. The kinds of apps differ by city: ordering and dealer apps in trading hubs, coaching and exam-prep apps in education centres, booking apps in tourist towns. The maintenance jobs underneath are the same everywhere.`,
-        `Payments are by UPI or bank transfer against a GST-compliant invoice from India; international app owners pay in USD by Wise, bank wire or PayPal, from ${P.careUsd} for a plan. Before any money moves, you get the itemised quote in writing.`,
+        `The same remote setup serves app owners in <a href='/bengaluru/'>Bengaluru</a>, <a href='/pune/'>Pune</a>, <a href='/indore/'>Indore</a>, <a href='/jaipur/'>Jaipur</a>, <a href='/kochi/'>Kochi</a>, <a href='/lucknow/'>Lucknow</a>, <a href='/surat/'>Surat</a>, <a href='/coimbatore/'>Coimbatore</a>, <a href='/guwahati/'>Guwahati</a> and <a href='/chandigarh/'>Chandigarh</a>. The kinds of apps differ by city: ordering and dealer apps in trading hubs, coaching and exam-prep apps in education centres, booking apps in tourist towns. The maintenance jobs underneath are the same everywhere.`,
+        `Payments are by UPI or bank transfer, invoiced from India; international app owners pay in USD by Wise, bank wire or PayPal, from ${P.careUsd} for a plan. Before any money moves, you get the itemised quote in writing.`,
       ],
     },
   ],
@@ -354,7 +354,7 @@ const content: FreelanceContent = {
     },
   ],
   areas: {
-    eyebrow: "App owners we speak with",
+    eyebrow: "App upkeep by city",
     heading: "App maintenance for businesses in these cities",
     note: "Maintenance happens remotely at the same starting price everywhere. These cards describe the kinds of apps businesses in each city typically need kept running.",
     cards: [
@@ -404,11 +404,11 @@ const content: FreelanceContent = {
     { question: "Does maintenance cost more for Flutter or native apps?", answer: "On app maintenance cost in India, a cross-platform Flutter or React Native app usually costs less to maintain than two separate native apps, because most fixes are made once. It adds framework upgrades and depends on plugins keeping up with new Android and iOS releases. Native apps avoid that layer but double the code to update. Plugin choices at build time matter more than the framework name." },
     { question: "How do you handle urgent app bugs?", answer: "Message us on WhatsApp any day of the week, in English or Hindi, with a screenshot or crash detail. We reply in IST working hours, confirm what is wrong and, if it falls outside your plan, quote the fix before starting. Response commitments beyond that are agreed in your written quote rather than assumed." },
     { question: "App ka maintenance kharcha kitna aata hai?", answer: `App ka maintenance do hisson mein hota hai: developer ka kaam aur server ka bill. BtechWaleTech ke saath launch ke baad 5 mahine maintenance free hai, uske baad plans ${P.care} se shuru hote hain. Server, Firebase, SMS aur Apple ki US$99 saalana fees seedha aapke account mein bill hoti hai, taaki sab kuch aapke control mein rahe.` },
-    { question: "How do I pay for app maintenance?", answer: `In India, pay by UPI or bank transfer against a GST invoice raised from India. International clients pay in USD, from ${P.careUsd} for a plan, by Wise, bank wire or PayPal. Nothing is billed before you approve the written quote, and billing and cancellation terms are set out in that quote and on our terms page.` },
+    { question: "How do I pay for app maintenance?", answer: `In India, pay by UPI or bank transfer, invoiced from India. International clients pay in USD, from ${P.careUsd} for a plan, by Wise, bank wire or PayPal. Nothing is billed before you approve the written quote, and billing and cancellation terms are set out in that quote and on our terms page.` },
     { question: "Will maintenance improve my app’s Play Store ranking?", answer: "Maintenance helps indirectly. Google Play considers app quality signals such as crash and ANR rates, and a regularly updated app with answered reviews and current screenshots tends to convert more visitors. No one can guarantee a ranking, but a neglected, crashing app is reliably pushed down and loses installs over time." },
     { question: "Who owns the app code during a maintenance plan?", answer: "You do, throughout. Code lives in a repository in your account, store listings in your Play and Apple accounts, and backends in your cloud account. We work as invited users with limited roles. If you ever end the plan, you remove our access and keep everything, with an access register showing where each key and account lives." },
     { question: "Does app maintenance include new features?", answer: "Small agreed changes, such as a new field, banner or report column, fit inside a monthly plan. New modules, redesigns or integrations are quoted separately like a small project, starting from our app build pricing, so the monthly plan stays predictable and you decide which features are worth paying for." },
-    { question: "What does the free 5-month maintenance after launch cover?", answer: "For apps we build, the 5 months after launch cover bug fixes, crash review, SDK issues that surface in real use, and help with store review questions. It is the period when most real-world issues appear. After it ends, you choose whether to continue on a plan from our maintenance starting price or pay per task." },
+    { question: "What does the free 5-month maintenance after launch cover?", answer: "For apps we build, the 5 months after launch are free maintenance: bugs and crashes that surface in real use get fixed, and the exact scope is listed in your written quote. It is the period when most real-world issues appear. After it ends, you choose whether to continue on a plan from our maintenance starting price or pay per task." },
   ],
   related: {
     heading: "Related app, upkeep and cost guides",

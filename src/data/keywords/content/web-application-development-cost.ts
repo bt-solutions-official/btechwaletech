@@ -66,7 +66,7 @@ const content: FreelanceContent = {
   services: {
     eyebrow: "Web applications we price and build",
     heading: "The browser-based apps behind most web application quotes",
-    note: "Almost every request we receive fits one of these shapes. Naming the shape early makes the estimate faster and the web application development cost easier to compare.",
+    note: "Most business web apps fall into one of these shapes. Naming yours early makes the estimate faster and the web application development cost easier to compare.",
     cards: [
       { name: "Customer or dealer portal", note: `Customers log in to see orders, invoices, documents and tickets; dealers place repeat orders at their own price list. A lean portal starts from ${P.software}.`, href: "/portal-development-freelancer/", size: "lg" },
       { name: "Booking and scheduling system", note: "Slots, staff calendars, deposits by UPI, reminders on WhatsApp and a no-show report. Cost climbs with multi-branch rules and resource clashes.", href: "/booking-app-developer/", size: "lg" },
@@ -149,14 +149,14 @@ const content: FreelanceContent = {
       heading: "How many third-party integrations can a web app have before the cost jumps?",
       paragraphs: [
         `One or two integrations fit comfortably inside a starting-level web application development cost; beyond that, each connection is priced as its own line, because each brings its own authentication, error handling and testing. The number matters less than how reliable and well documented each outside system is.`,
-        `Integrations we are asked for most often, roughly from lighter to heavier: sending email through a transactional email service, SMS or WhatsApp notifications through the official <a href='/whatsapp-business-api-integration/'>WhatsApp Business API</a>, Google Calendar or Google Sheets sync, UPI and card collection through a payment provider, <a href='/tally-api-integration/'>Tally data exchange</a>, courier tracking APIs, GST e-invoicing APIs and two-way sync with an existing ERP or CRM.`,
+        `Typical integrations for an Indian business app, roughly from lighter to heavier: sending email through a transactional email service, SMS or WhatsApp notifications through the official <a href='/whatsapp-business-api-integration/'>WhatsApp Business API</a>, Google Calendar or Google Sheets sync, UPI and card collection through a payment provider, <a href='/tally-api-integration/'>Tally data exchange</a>, courier tracking APIs, GST e-invoicing APIs and two-way sync with an existing ERP or CRM.`,
         `Why a two-way sync costs more than a one-way push: if your app only sends orders to Tally, we handle one direction and log failures. If Tally edits must also flow back, we need conflict rules (which system wins when both change the same invoice?), retry queues and reconciliation reports. That is often three times the work of the one-way version.`,
         `Running costs also belong in this conversation. Several services charge per use rather than per month; Meta, for example, has billed WhatsApp Business Platform template messages per delivered message since 1 July 2025, while service replies inside an open customer service window are free according to its developer documentation. We list every usage-billed service in the estimate so you know which lines will appear on your monthly bills, paid directly by you, and not only what the build costs.`,
       ],
     },
     {
       id: "database-design",
-      heading: "Database design: the line item that decides whether the app ages well",
+      heading: "Database design and web application development cost: the line that decides how the app ages",
       paragraphs: [
         `Database design is usually a modest share of web application development cost but decides most of the cost of every change you make afterwards. A well-modelled schema lets a new report take hours; a rushed one turns the same report into a rewrite.`,
         `For most business apps we use PostgreSQL: relational, free to run, well supported on every major cloud and strict enough to stop bad data at the door. Before any screens are built, we draw the core tables with you: customers, orders, appointments, invoices, whatever your nouns are, and the relationships between them. You approve that diagram, because it is the part of the app that is most expensive to change later.`,
@@ -196,7 +196,7 @@ const content: FreelanceContent = {
       ],
       after: [
         `The estimate you receive lists every story with its size and effort. That transparency is what lets you negotiate on scope instead of on trust: drop five small stories and the total falls by a known amount. It also gives you a checklist for acceptance testing at the end of each milestone.`,
-        `If you have never written stories before, send us voice notes describing a normal working day for each person. We turn those into a draft list and you correct it; most clients find that faster than filling in a template. For help framing the questions, see <a href='/questions-to-ask-app-developer/'>questions to ask before hiring a developer</a>.`,
+        `If you have never written stories before, send us voice notes describing a normal working day for each person. We turn those into a draft list and you correct it, which is usually quicker for a busy owner than filling in a template. For help framing the questions, see <a href='/questions-to-ask-app-developer/'>questions to ask before hiring a developer</a>.`,
       ],
     },
     {
@@ -263,7 +263,7 @@ const content: FreelanceContent = {
       heading: "Who owns the code, the database and the cloud account after the build?",
       paragraphs: [
         `You do. The Git repository, the database, the cloud hosting account, the domain and every third-party service account are registered to your business from the start, and we work inside them with access you can revoke. This is part of every web application development cost we quote, not an optional extra.`,
-        `Ownership matters more for web apps than for websites because the app holds your operational data: customers, orders, payments, staff activity. If a developer controls the server, they effectively control your business records. We have seen owners unable to export their own data because the previous developer registered the hosting under a personal email. Setting it up correctly on day one costs nothing extra.`,
+        `Ownership matters more for web apps than for websites because the app holds your operational data: customers, orders, payments, staff activity. If a developer controls the server, they effectively control your business records. An owner whose hosting sits under a former developer's personal email can find it hard even to export their own data. Setting it up correctly on day one costs nothing extra.`,
         `What you receive at handover:`,
       ],
       list: [
@@ -352,8 +352,8 @@ const content: FreelanceContent = {
       heading: "Web application development across India",
       paragraphs: [
         `We build web applications remotely for businesses anywhere in India, and the web application development cost does not change with your city, because there are no local offices or travel in the price. What does change from place to place is the kind of app people ask for.`,
-        `Manufacturers and distributors in <a href='/ludhiana/'>Ludhiana</a>, <a href='/rajkot/'>Rajkot</a> and <a href='/coimbatore/'>Coimbatore</a> often want dealer ordering portals with credit limits and Tally sync. Clinics and diagnostic centres in <a href='/pune/'>Pune</a> and <a href='/lucknow/'>Lucknow</a> ask for booking systems with WhatsApp reminders. Coaching institutes in <a href='/jaipur/'>Jaipur</a> and <a href='/patna/'>Patna</a> want student and parent portals. Startups in <a href='/bengaluru/'>Bengaluru</a>, <a href='/hyderabad/'>Hyderabad</a> and <a href='/gurgaon/'>Gurgaon</a> tend to need SaaS MVPs and internal dashboards, and exporters in <a href='/surat/'>Surat</a> and <a href='/tiruppur/'>Tiruppur</a> ask for order tracking portals for overseas buyers.`,
-        `Everything runs over WhatsApp, video calls and a shared staging link, in English or Hindi. We do not make site visits; when we need to see how work happens on the floor, a short phone video from your staff usually tells us more than a meeting would. Payments in India are by UPI or bank transfer against a GST-compliant invoice as agreed in your quote.`,
+        `Manufacturers and distributors in <a href='/ludhiana/'>Ludhiana</a>, <a href='/rajkot/'>Rajkot</a> and <a href='/coimbatore/'>Coimbatore</a> are natural fits for dealer ordering portals with credit limits and Tally sync. Clinics and diagnostic centres in <a href='/pune/'>Pune</a> and <a href='/lucknow/'>Lucknow</a> benefit from booking systems with WhatsApp reminders. Coaching institutes in <a href='/jaipur/'>Jaipur</a> and <a href='/patna/'>Patna</a> want student and parent portals. Startups in <a href='/bengaluru/'>Bengaluru</a>, <a href='/hyderabad/'>Hyderabad</a> and <a href='/gurgaon/'>Gurgaon</a> tend to need SaaS MVPs and internal dashboards, and exporters in <a href='/surat/'>Surat</a> and <a href='/tiruppur/'>Tiruppur</a> can use order tracking portals for overseas buyers.`,
+        `Everything runs over WhatsApp, video calls and a shared staging link, in English or Hindi. We do not make site visits; when we need to see how work happens on the floor, a short phone video from your staff usually tells us more than a meeting would. Payments in India are by UPI or bank transfer, on the milestone schedule written into your quote.`,
       ],
     },
   ],
@@ -404,7 +404,7 @@ const content: FreelanceContent = {
   ],
   areas: {
     eyebrow: "Across India",
-    heading: "Web applications we are asked for, city by city",
+    heading: "Web applications that suit each city's businesses",
     note: "The same remote team and the same pricing everywhere; what changes is the problem each city's businesses bring.",
     cards: [
       { name: "Dealer portals in Ludhiana", note: "Hosiery, bicycle-part and machine-tool makers sell through dealer networks that still place orders by phone; a portal with price lists and credit limits removes daily back-and-forth.", href: "/ludhiana/" },
@@ -413,7 +413,7 @@ const content: FreelanceContent = {
       { name: "Student portals in Jaipur", note: "Coaching centres running several branches want attendance, test scores and fee dues visible to parents without calls to the front desk.", href: "/jaipur/" },
       { name: "Order tracking in Surat", note: "Textile and diamond traders dealing with many agents need order status, dispatch details and ledgers in one login instead of scattered WhatsApp threads.", href: "/surat/" },
       { name: "Service tickets in Coimbatore", note: "Pump, motor and textile-machinery makers want customer complaint portals that assign engineers and track spare parts from registration to closure.", href: "/coimbatore/" },
-      { name: "Internal dashboards in Hyderabad", note: "Pharma distributors and tech-enabled service firms ask for sales and inventory dashboards pulling from several systems that never talked to each other.", href: "/hyderabad/" },
+      { name: "Internal dashboards in Hyderabad", note: "Pharma distributors and tech-enabled service businesses need sales and inventory dashboards pulling from several systems that never talked to each other.", href: "/hyderabad/" },
       { name: "Clinic apps in Lucknow", note: "Multi-doctor clinics want doctor-wise schedules, patient history and billing in one browser app that reception and doctors can both use on phones.", href: "/lucknow/" },
       { name: "Exporter portals in Tiruppur", note: "Knitwear exporters share sampling status, approvals and shipment documents with overseas buyers who expect a login, not email attachments.", href: "/tiruppur/" },
       { name: "Distributor apps in Rajkot", note: "Engineering and auto-parts manufacturers need order capture for distributors across Gujarat with stock visibility and dispatch updates.", href: "/rajkot/" },
@@ -443,7 +443,7 @@ const content: FreelanceContent = {
     { question: "How do you estimate web application development cost without a full specification?", answer: "We build the estimate from user stories. You describe what each type of user does in a normal day, even as voice notes, and we turn that into one-line stories sized small, medium or large. Integrations, data migration and hosting are added as separate lines. The result is an itemised estimate you can trim by moving stories to a later phase." },
     { question: "Is it cheaper to use a SaaS product than build a web application?", answer: "Often, yes, when a product already fits most of your process and your user count is modest. Custom builds pay off when the process gives you an edge, when per-user fees grow painful as headcount rises, or when you need integrations the product does not offer. We will tell you honestly if an existing tool looks like the better fit." },
     { question: "How long does it take to build a web application?", answer: "A focused business web app takes 6–12 weeks with us. A dashboard over existing data can be quicker; a portal with two-way ERP sync or a SaaS product with billing takes longer. Work arrives in milestones on a staging link every one to two weeks, so you are testing real software well before launch rather than waiting for a single big reveal." },
-    { question: "What adds the most to web application development cost?", answer: "In our experience the largest additions are extra user roles with their own rules, two-way integrations with systems such as Tally or an existing ERP, migrating messy historical data, and complex reporting. Visual design polish and screen count usually matter less than people expect. Each of these appears as a separate line in our estimate so you can decide what to phase." },
+    { question: "What adds the most to web application development cost?", answer: "The largest additions are usually extra user roles with their own rules, two-way integrations with systems such as Tally or an existing ERP, migrating messy historical data, and complex reporting. Visual design polish and screen count usually matter less than people expect. Each of these appears as a separate line in our estimate so you can decide what to phase." },
     { question: "Do I own the source code of my web application?", answer: "Yes. The repository, database, cloud hosting account, domain and third-party service accounts are registered to your business from the start. We work with access you grant and can revoke. At handover you get the full source with commit history, a schema diagram, deployment notes and admin walkthrough recordings, so another developer could take over if you ever wanted." },
     { question: "What does it cost to host a web application?", answer: "Hosting is paid directly to the provider and depends on tier. Many internal tools run on a single small server with backups; customer-facing portals usually benefit from a managed database; apps where downtime is expensive need redundant servers. We recommend the smallest tier that meets your needs and design the app so moving up later is routine rather than a rebuild." },
     { question: "How much does it cost to maintain a web application every year?", answer: `The first 5 months after launch are covered by free maintenance. After that, maintenance starts from ${P.care} and covers security updates, library upgrades, monitoring, backups and small fixes. Hosting and usage-billed services such as WhatsApp or SMS are separate bills from each provider. Larger feature additions are quoted individually so you always see what you are paying for.` },

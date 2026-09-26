@@ -105,7 +105,7 @@ const content: FreelanceContent = {
       heading: "What should an architect website design actually do for a practice?",
       paragraphs: [
         `It should do two things: convince a suitable client that you have solved problems like theirs, and quietly discourage enquiries that do not fit. Everything on the site serves one of those jobs.`,
-        `Architects often treat the website as a gallery, and the result looks beautiful but tells a visitor little. A homeowner with a 30 by 40 plot in a suburb wants to know whether you design houses of that size, what the process feels like, roughly how fees work and how long it takes. A developer commissioning a small office block wants to see approvals handled, structural and services coordination, and buildings delivered. Neither is served by a full-screen slider of renders with no captions.`,
+        `Plenty of architecture sites are built as pure galleries, and the result looks beautiful but tells a visitor little. A homeowner with a 30 by 40 plot in a suburb wants to know whether you design houses of that size, what the process feels like, roughly how fees work and how long it takes. A developer commissioning a small office block wants to see approvals handled, structural and services coordination, and buildings delivered. Neither is served by a full-screen slider of renders with no captions.`,
         `So architect website design begins with editing. We ask which five to twelve projects best represent the work you want more of, not everything you have ever built. We ask who the ideal client is, what they usually misunderstand, and which enquiries waste your time. Those answers decide the page order, the captions and the questions in the enquiry form. The design itself stays restrained, because the projects should carry the visual weight.`,
       ],
     },
@@ -114,7 +114,7 @@ const content: FreelanceContent = {
       heading: "Council of Architecture rules: who can use the title “architect” on a website?",
       paragraphs: [
         `Only a person registered with the Council of Architecture, or a firm of architects, may use the title and style of architect. Section 37(1) of the Architects Act, 1972 says so, and Section 37(2) makes breach punishable with a fine on first conviction, and with imprisonment, a fine or both on later convictions.`,
-        `This affects web copy directly. If the practice includes designers who are not registered, the site should describe them accurately, for example as designers or associates, and reserve “architect” for registered members. We usually show each architect’s COA registration number on the practice or team page as plain text, which is also a trust signal for clients who know to check.`,
+        `This affects web copy directly. If the practice includes designers who are not registered, the site should describe them accurately, for example as designers or associates, and reserve “architect” for registered members. We can show each architect’s COA registration number on the practice or team page as plain text, which is also a trust signal for clients who know to check.`,
         `The Act exempts landscape architects and naval architects from this section, along with foreign architects who have Central Government permission for a specific project. Studios that mix architecture with interior work should be especially careful with their headline: “architects and interior designers” is clear, while calling the whole team architects may not be accurate. We flag wording like this during planning, but the call is yours, and if in doubt check with the Council of Architecture directly.`,
       ],
     },
@@ -173,7 +173,7 @@ const content: FreelanceContent = {
       id: "fees",
       heading: "Explaining architect fees on a website without quoting a price",
       paragraphs: [
-        `A fee explainer should describe how fees are structured and linked to stages of work, without publishing a rate card. Clients who understand the structure ask better questions and rarely haggle over the wrong things.`,
+        `A fee explainer should describe how fees are structured and linked to stages of work, without publishing a rate card. Clients who understand the structure tend to ask sharper questions before the first meeting.`,
         `A typical page covers the stages your practice follows, for example site study and brief, concept design, design development and approvals drawings, working drawings and tender documents, and periodic site visits during construction. It then explains that the fee is usually tied to project scope and paid in instalments across those stages, and mentions that the Council of Architecture publishes Conditions of Engagement and a Scale of Charges which practices refer to. You write or approve the substance; we give it a clear layout with a simple stage diagram.`,
         `What the page should not do is undercut. Phrases like “lowest fees in the city” or “design free if you build with us” conflict with the fair-competition principle in the COA Regulations and attract exactly the clients most studios want to avoid. We end the page with a link to the enquiry form and a plain sentence: fees are confirmed after understanding the site and brief.`,
       ],
@@ -184,7 +184,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Ask for the few details that tell you whether a project fits before anyone spends time on a call: project type, city, plot or floor area, current stage, expected start and an optional budget band. Five or six fields, most of them dropdowns, is the right length.`,
         `A good form in architect website design reads like the first five minutes of a consultation. “Do you already own the plot?” and “Do you have approved drawings?” tell you more than a free-text message ever will. The stage field matters most: someone still searching for land is a different conversation from someone whose contractor is waiting.`,
-        `Submissions arrive by email and as a WhatsApp alert to whoever handles new work, with the answers laid out in one message. Studios with steady volume often send them into a Google Sheet or a CRM; the <a href='/website-crm-integration/'>CRM integration</a> page covers that. You can add a consultation calendar showing available slots, but many practices prefer to call back personally, which suits the tone of an architecture practice better than instant booking.`,
+        `Submissions arrive by email and as a WhatsApp alert to whoever handles new work, with the answers laid out in one message. If volume is steady, they can also land in a Google Sheet or a CRM; the <a href='/website-crm-integration/'>CRM integration</a> page covers that. A consultation calendar showing open slots is possible, though a personal call-back may suit the tone of an architecture practice better than instant booking; you choose.`,
         `We add a notice next to the form explaining what is collected and why, in line with the Digital Personal Data Protection Act, 2023, and keep file uploads optional and size-limited.`,
       ],
     },
@@ -193,7 +193,7 @@ const content: FreelanceContent = {
       heading: "Keeping an image-heavy architect website fast on phones",
       paragraphs: [
         `Speed comes from never sending an image larger than the screen needs. web.dev, Google’s developer guidance site, sets a “good” Largest Contentful Paint at 2.5 seconds or less, measured at the 75th percentile of visits, and on a portfolio the largest element is almost always a photograph.`,
-        `Architects hand us photographs straight from the photographer, often several megabytes each. Our build converts every image automatically into AVIF and WebP at several widths, and the browser picks the smallest one that looks sharp on that screen. The first image on each page is loaded with priority; everything below it loads as the visitor scrolls. We set width and height on every image so the layout does not jump.`,
+        `Files straight from an architectural photographer are commonly several megabytes each. Our build converts every image automatically into AVIF and WebP at several widths, and the browser picks the smallest one that looks sharp on that screen. The first image on each page is loaded with priority; everything below it loads as the visitor scrolls. We set width and height on every image so the layout does not jump.`,
         `Other habits keep architect website design fast: no autoplay background video on the home page, walkthroughs behind a click-to-load preview, a light font set, and no gallery plugin pulling in large scripts. We test on a mid-range Android phone over mobile data before launch, and we connect Google Search Console so you can watch the Core Web Vitals report after launch. If an existing site is slow, our <a href='/website-speed-optimization-freelancer/'>speed optimisation</a> work can fix it without a redesign.`,
       ],
     },

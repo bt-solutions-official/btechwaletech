@@ -42,7 +42,7 @@ const content: FreelanceContent = {
   ],
   stats: [
     { value: "3", label: "Freelance developers, no account managers in between" },
-    { value: "2", label: "Working days to an itemised quote" },
+    { value: "2", label: "Working days to an itemized quote" },
     { value: "5", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week we answer WhatsApp" },
   ],
@@ -55,9 +55,9 @@ const content: FreelanceContent = {
     caption: "A Canadian small business website, the short version",
     rows: [
       { label: "Pages", value: "5 to 15, planned around what customers ask" },
-      { label: "Price", value: `From ${P.site}, itemised in USD` },
+      { label: "Price", value: `From ${P.site}, itemized in USD` },
       { label: "Paying from Canada", value: "Wise, bank wire or PayPal, from USD or CAD" },
-      { label: "Enquiry tools", value: "Click-to-call, quote form, optional WhatsApp link" },
+      { label: "Inquiry tools", value: "Click-to-call, quote form, optional WhatsApp link" },
       { label: "Local search", value: "Name, address, phone and hours aligned with your Google profile" },
       { label: "Email list", value: "Unticked consent box, sender details, working unsubscribe" },
       { label: "Upkeep", value: `5 months free, then from ${P.care}` },
@@ -66,7 +66,7 @@ const content: FreelanceContent = {
   services: {
     eyebrow: "What is inside a small business build",
     heading: "The parts of a small business website that actually bring in work",
-    note: "Most Canadian owners do not need more features. They need the few that matter, done properly. These are the pieces we build most often.",
+    note: "Most Canadian owners do not need more features. They need the few that matter, done properly. These are the pieces that do that job.",
     cards: [
       { name: "5-to-15-page business website", note: `Home, services, about, service areas, reviews, FAQ and contact, written around the questions your customers phone in with. Starts at ${P.site}.`, href: "/services/web-development/", size: "lg" },
       { name: "Calls, quotes and estimates", note: "A tap-to-call number in the header, a short quote form with photo upload, and form alerts sent to the inbox you actually check.", size: "lg" },
@@ -83,7 +83,7 @@ const content: FreelanceContent = {
     note: "Each route suits somebody. The useful question is where your money goes and what you are left holding after launch.",
     columns: ["What you care about", "DIY builder (Wix, Squarespace)", "Local web design agency", "BtechWaleTech"],
     rows: [
-      ["Upfront cost", "Low, plus a monthly plan forever", "Highest; Canadian salaries and overheads", `From ${P.site}, itemised`],
+      ["Upfront cost", "Low, plus a monthly plan forever", "Highest; Canadian salaries and overheads", `From ${P.site}, itemized`],
       ["Your time", "You design, write and fix it", "Meetings, then little effort", "Two calls and your feedback on a preview link"],
       ["Who writes the pages", "You", "Often a copywriter at extra cost", "We shape your notes into pages you approve"],
       ["Call and quote setup", "Templates, sometimes clumsy on phones", "Usually good", "Tap-to-call and short quote form on every page"],
@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       heading: "Small business website design in Canada: what a professional site should include",
       paragraphs: [
         `A professional small business website in Canada does three jobs: it proves you are real, it answers the questions customers ask before they call, and it makes calling or requesting a quote effortless on a phone. Everything else is decoration.`,
-        `In practice that means a small, tight site rather than a sprawling one. Owners of plumbing outfits, bookkeeping practices, dog groomers, dental labs and landscaping crews tell us the same thing: people land on the website after seeing the Google listing, check a few pages in under a minute, then either call or leave. So the pages have to load quickly on mobile data, show the phone number without scrolling and say plainly what you do, where you do it and roughly what happens next.`,
+        `In practice that means a small, tight site rather than a sprawling one. Think about how a customer finds a plumber, a bookkeeper, a dog groomer or a landscaping crew: they often land on the website after seeing the Google listing, check a few pages in under a minute, then either call or leave. So the pages have to load quickly on mobile data, show the phone number without scrolling and say plainly what you do, where you do it and roughly what happens next.`,
         `Here is the baseline we build into every small business website design project for Canadian clients, before any extras:`,
       ],
       list: [
@@ -161,8 +161,8 @@ const content: FreelanceContent = {
       heading: "Starting prices in USD, paid from a Canadian account: how the quote works",
       paragraphs: [
         `Our quotes are always in USD because invoices come from India. Canadian clients pay from USD or CAD accounts through Wise, a bank wire or PayPal, and the payment tool shows exactly how much leaves your account before you confirm.`,
-        `Owners sometimes ask for a package price in Canadian dollars. We do not print CAD figures, because the exchange rate moves between the quote and the payment and we would rather not show you a number that changes. What you get instead is an itemised USD quote: each page type, each integration and each extra listed with its own line. If you want to see the CAD amount, Wise or your bank shows it on the day you pay.`,
-        `Every figure on this page is a starting price. The final quote depends on your pages, features and content, and nothing is billed until you approve it in writing. The payment schedule, usually split around milestones, is written into that quote. General conditions sit on our <a href='/terms/'>terms page</a>, and anything about cancellations follows our <a href='/refund-policy/'>refund policy</a> and the quote itself, not a verbal promise.`,
+        `You may be hoping for a package price in Canadian dollars. We do not print CAD figures, because the exchange rate moves between the quote and the payment and we would rather not show you a number that changes. What you get instead is an itemized USD quote: each page type, each integration and each extra listed with its own line. If you want to see the CAD amount, Wise or your bank shows it on the day you pay.`,
+        `Every figure on this page is a starting price. The final quote depends on your pages, features and content, and nothing is billed until you approve it in writing. The payment schedule is written into that quote. General conditions sit on our <a href='/terms/'>terms page</a>, and anything about cancellations follows our <a href='/refund-policy/'>refund policy</a> and the quote itself, not a verbal promise.`,
         `One more point: we do not advise on how an overseas supplier is treated for your GST/HST filings or business expenses. Your accountant is the right person to ask.`,
       ],
     },
@@ -188,7 +188,7 @@ const content: FreelanceContent = {
     },
     {
       id: "click-to-call-quote-forms",
-      heading: "Click-to-call buttons and quote forms: designing a small business site for enquiries",
+      heading: "Click-to-call buttons and quote forms: designing a small business site for inquiries",
       paragraphs: [
         `Put a tap-to-call number in the header of every page, a short quote form on every service page, and measure both. Most visitors to a small business site arrive on a phone, and a phone number they have to copy by hand is a lost call.`,
         `We build the call button as a proper <strong>tel:</strong> link with your number in international format, so it dials correctly from any Canadian phone. On desktop it shows the number as text instead of a button nobody can press. Every tap is recorded as an event in Google Analytics, so you can see which pages produce calls, not just visits.`,
@@ -256,7 +256,7 @@ const content: FreelanceContent = {
       heading: "Working with a small business web team in India from Canada",
       paragraphs: [
         `Our evening in India overlaps with Canadian mornings, Eastern and Pacific, so calls happen before your day gets busy and work moves forward while you sleep. WhatsApp handles quick questions seven days a week.`,
-        `The first two weeks usually go like this. Day one or two: a 30-minute video call about your services, towns, customers and the calls you want more of. Within about two working days you receive an itemised quote in USD. Once you approve it in writing, you register or confirm the domain and hosting in your name, and we send a short content list: services, areas, hours, photos, a few lines about you.`,
+        `The first two weeks usually go like this. Day one or two: a 30-minute video call about your services, towns, customers and the calls you want more of. Within about two working days you receive an itemized quote in USD. Once you approve it in writing, you register or confirm the domain and hosting in your name, and we send a short content list: services, areas, hours, photos, a few lines about you.`,
         `Days three to seven: the home page and one service page go up on a private preview link you can open on your phone at the job site. You comment in plain words on WhatsApp or email; no design jargon needed. Days eight to fourteen: the remaining pages, forms, call tracking, Google profile alignment and speed checks, then launch and Search Console submission. Content that arrives late moves the dates, which is the most common delay.`,
         `Ankur Kumar builds the site, Santosh Sharma handles hosting, tracking and technical SEO, and Vedansh Shrivastava keeps the schedule and checks the finished pages. You talk to the people doing the work. We do not visit premises, we do not give legal or tax advice, and invoices come from India.`,
       ],
@@ -270,7 +270,7 @@ const content: FreelanceContent = {
       ],
       list: [
         "Which pages do you recommend for my business, and why each one?",
-        "Where does the quote form send enquiries, and how will I know they arrive?",
+        "Where does the quote form send inquiries, and how will I know they arrive?",
         "Will my site's name, phone and hours match my Google Business Profile exactly?",
         "How does the newsletter signup collect and record consent?",
         "Whose name is on the domain, hosting and analytics accounts?",
@@ -288,7 +288,7 @@ const content: FreelanceContent = {
         `A small site can rank well locally if each page answers one clear question, loads fast, and agrees with your Google profile. It will be indexed and ready to compete; where it lands depends on competitors, reviews and time, which nobody can promise.`,
         `The groundwork we put into a small business website: one page per service with the town named naturally, titles and descriptions written for people rather than stuffed with keywords, LocalBusiness structured data, an XML sitemap and Search Console linked to your Google account. Pages are built lean so Core Web Vitals stay healthy on a mid-range phone over cellular data.`,
         `AI answers from Google and chat assistants tend to quote pages that state facts plainly: what you do, where, for whom, how long it takes and what to expect on the first visit. An FAQ with short, direct answers helps here, and it also helps the customer who reads it at 10 p.m. before deciding whom to call.`,
-        `If you want ongoing work after launch, monthly SEO starts at ${P.seo}, reported from Search Console data rather than vanity charts. Many owners start with the site alone and add SEO once enquiries settle into a pattern.`,
+        `If you want ongoing work after launch, monthly SEO starts at ${P.seo}, reported from Search Console data rather than vanity charts. You can start with the site alone and decide on SEO once you see how inquiries arrive.`,
       ],
     },
     {
@@ -297,7 +297,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This example is hypothetical, to show how the choices on this page fit together. Picture a two-person mobile grooming business based in Dartmouth, working from a van across Halifax, Bedford and Sackville, with a Google Business Profile, no website and bookings coming through phone calls and texts.`,
         `The page plan lands at nine pages: home, full groom, bath and tidy, nail trims, puppy first visits, service areas, prices and what affects them, about the two groomers, and contact. Because the business travels to clients, the site names the towns served and does not show a home address, matching the profile's service-area setting. The phone number, business name and hours are copied exactly from the profile.`,
-        `Every page has a tap-to-call button and a short booking-request form asking for the dog's breed, size and the owner's town, with an optional photo of the coat. A monthly newsletter about appointment openings uses an unticked checkbox, a sentence explaining what subscribers receive, and footer details in each email. Enquiry form submitters are not added to the list unless they tick that box.`,
+        `Every page has a tap-to-call button and a short booking-request form asking for the dog's breed, size and the owner's town, with an optional photo of the coat. A monthly newsletter about appointment openings uses an unticked checkbox, a sentence explaining what subscribers receive, and footer details in each email. Inquiry form submitters are not added to the list unless they tick that box.`,
         `A static build suits them because the content changes a few times a year. The quote would show the nine pages, form setup, profile alignment and newsletter connection as separate lines, starting from ${P.site}. No real client is described here.`,
       ],
     },
@@ -305,7 +305,7 @@ const content: FreelanceContent = {
       id: "checklist",
       heading: "Small business website design Canada: launch checklist",
       paragraphs: [
-        `Run through this list with whoever builds your site before launch. Most problems we fix on existing small business sites appear somewhere on it.`,
+        `Run through this list with whoever builds your site before launch. Each line is quick to check and awkward to fix once customers are using the site.`,
       ],
       list: [
         "Domain registered to your business; hosting and analytics in your name",
@@ -375,7 +375,7 @@ const content: FreelanceContent = {
   areas: {
     eyebrow: "Across Canada",
     heading: "Small business owners we build for, coast to coast",
-    note: "We work remotely with owners in every province. These notes describe the kinds of small businesses that most often need a compact, enquiry-focused website in each place.",
+    note: "We work remotely with owners in every province. These notes describe the kinds of small businesses that most often need a compact, inquiry-focused website in each place.",
     cards: [
       { name: "Brampton", note: "Trucking owner-operators, driving schools, banquet halls and home renovation crews that get most of their work from phone searches and need call buttons front and centre." },
       { name: "Mississauga", note: "Accountants, immigration consultants, cleaning companies and small importers competing with larger firms, where a clear service page and quick quote form help them look established." },
@@ -398,7 +398,7 @@ const content: FreelanceContent = {
     heading: "How a small business website goes from first message to launch",
     steps: [
       ["Short discovery call", "Thirty minutes on video in your morning: what you sell, where, who calls you and what you want more of. We look at your current site and Google profile if you have them."],
-      ["Itemised USD quote", "Within about two working days you receive a page plan and a line-by-line quote. Nothing is billed until you approve it in writing."],
+      ["Itemized USD quote", "Within about two working days you receive a page plan and a line-by-line quote. Nothing is billed until you approve it in writing."],
       ["Accounts in your name", "You register or confirm the domain and hosting; we guide you on a shared screen if needed and join as a removable user."],
       ["Preview on your phone", "The home page and one service page appear on a private link within the first week, so you judge the real thing, not a picture of it."],
       ["Forms, calls and consent", "Quote forms, tap-to-call tracking, newsletter consent and profile alignment are built and tested with real entries before launch."],
@@ -407,15 +407,15 @@ const content: FreelanceContent = {
   },
   faqHeading: "Small business website design in Canada: questions owners ask",
   faqs: [
-    { question: "How much does small business website design cost in Canada?", answer: `Quotes vary widely, from monthly DIY plans to agency projects, because scope, writing and overheads differ. With BtechWaleTech a small business website starts at ${P.site} and covers up to 100 pages, so a typical 5-to-15-page site fits comfortably. Writing, custom design, a French version and integrations are itemised separately in a USD quote.` },
-    { question: "Do you offer fixed small business website packages in CAD?", answer: `We quote starting prices in USD, itemised line by line, rather than set packages in Canadian dollars. The exchange rate changes between quote and payment, so a CAD figure would be out of date quickly. You can pay from a CAD account through Wise, a bank wire or PayPal, which shows the exact amount before you confirm.` },
+    { question: "How much does small business website design cost in Canada?", answer: `Quotes vary widely, from monthly DIY plans to agency projects, because scope, writing and overheads differ. With BtechWaleTech a small business website starts at ${P.site} and covers up to 100 pages, so a typical 5-to-15-page site fits comfortably. Writing, custom design, a French version and integrations are itemized separately in a USD quote.` },
+    { question: "Do you offer fixed small business website packages in CAD?", answer: `We quote starting prices in USD, itemized line by line, rather than set packages in Canadian dollars. The exchange rate changes between quote and payment, so a CAD figure would be out of date quickly. You can pay from a CAD account through Wise, a bank wire or PayPal, which shows the exact amount before you confirm.` },
     { question: "How many pages does a small business website need?", answer: "Most Canadian small businesses need 5 to 15 pages. Five suits a single-service owner in one town. Around ten covers several services, an FAQ and a service-area page. Fifteen adds pages for key towns, a gallery and team profiles. Beyond that, a structured SEO site usually serves you better than adding pages one by one." },
     { question: "How long does a small business website take to build?", answer: "On our static plan, one to two weeks of build time once your content and photos are ready. You usually see the home page on a preview link within the first week. Late content is the most common delay, so we send a short list of what we need right after you approve the quote." },
-    { question: "Do I need a website if I have a Google Business Profile?", answer: "The profile gets you onto Maps; the website convinces people to call and gives Google more detail about your services and areas. A site with the same name, phone, hours and service areas as your profile supports it rather than competing with it. Many owners notice more calls once the profile links to a proper service page." },
+    { question: "Do I need a website if I have a Google Business Profile?", answer: "The profile gets you onto Maps; the website convinces people to call and gives Google more detail about your services and areas. A site with the same name, phone, hours and service areas as your profile supports it rather than competing with it. Linking the profile to a page that matches the listing also helps visitors confirm they found the right business." },
     { question: "What is a click-to-call button and why does it matter?", answer: "It is a phone number link that dials when tapped on a mobile. Most small business visitors browse on phones, and a number they must copy by hand costs you calls. We put it in the header and footer of every page and record each tap in analytics, so you can see which pages actually produce calls." },
     { question: "Is a newsletter signup on my website covered by CASL?", answer: "If you send commercial email, yes. Government of Canada guidance requires consent, identification of the sender and an unsubscribe mechanism, with unsubscribes actioned within 10 business days. The CRTC has said a pre-checked box does not give express consent. We build the unticked box, footer details and consent records; your lawyer confirms your wider practices." },
     { question: "Can I email people who filled in my quote form?", answer: "You can reply about their request. Adding them to a marketing list is different: CASL guidance treats an inquiry as implied consent for only six months. That is why our quote forms include a separate, unticked box for people who want offers or news, and anyone who does not tick it stays off the newsletter list." },
-    { question: "Should I choose a local web designer or a remote team?", answer: "Choose local if in-person meetings, on-site photography or staff training in your shop matter to you. Choose a remote team if you want lower costs, direct contact with the builders and are comfortable with video calls and WhatsApp. Either way, insist on an itemised quote and every account in your own name." },
+    { question: "Should I choose a local web designer or a remote team?", answer: "Choose local if in-person meetings, on-site photography or staff training in your shop matter to you. Choose a remote team if you want lower costs, direct contact with the builders and are comfortable with video calls and WhatsApp. Either way, insist on an itemized quote and every account in your own name." },
     { question: "Why is a remote team in India cheaper than a Canadian agency?", answer: "Mostly overheads and living costs, not corner-cutting. A Canadian agency pays local salaries, rent and sales staff, and those costs sit inside every billed hour. We are three freelance developers working remotely with no office and no account managers. You trade face-to-face meetings for lower cost and direct contact with the people doing the work." },
     { question: "Will I own my website and domain?", answer: "Yes. You register the domain, and for a .ca name CIRA's Canadian Presence Requirements mean it should be held by you anyway. Hosting is billed to your account, analytics and Search Console sit under your Google login, and the files are handed over at launch with a list of every account and who pays for it." },
     { question: "Do you write the text for my small business website?", answer: "We can turn your notes, voice messages or old brochure into clear pages in Canadian English, and you check every word for accuracy. Writing from a blank page is a separate line on the quote. We do not write French; your translator or bilingual staff supply it, and we build the French pages around their copy." },
@@ -450,7 +450,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Get a quote for your small business website",
-    note: "Send your business name, the services you offer, the towns you cover and a link to your Google profile if you have one. You get a page plan and an itemised USD quote in about two working days, and nothing is billed until you approve it.",
+    note: "Send your business name, the services you offer, the towns you cover and a link to your Google profile if you have one. You get a page plan and an itemized USD quote in about two working days, and nothing is billed until you approve it.",
   },
 };
 

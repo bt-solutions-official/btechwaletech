@@ -65,7 +65,7 @@ const content: FreelanceContent = {
   services: {
     eyebrow: "What your Shopify developer builds",
     heading: "Shopify work we take on for brands selling in the Netherlands and Belgium",
-    note: "Most Dutch Shopify briefs fall into one of these. Each has its own starting price, and a single project often combines two or three.",
+    note: "Pick the pieces your store needs. Each has its own starting price, and one project can combine two or three of them.",
     cards: [
       { name: "New Shopify store", note: `Theme chosen or built for your brand, catalogue imported, iDEAL | Wero and Bancontact switched on, Markets and shipping configured, from ${P.shop}.`, href: "/services/web-development/", size: "lg" },
       { name: "Theme rebuild on Online Store 2.0", note: "Old theme full of edited Liquid files? We move you to a sections-based theme so your team can change pages without calling a developer.", href: "/shopify-theme-customization/", size: "lg" },
@@ -429,9 +429,9 @@ const content: FreelanceContent = {
     },
   ],
   areas: {
-    eyebrow: "Where Dutch brands hire us",
+    eyebrow: "Across the Netherlands, remotely",
     heading: "Shopify developer for brands across the Netherlands",
-    note: "We work remotely for stores all over the country; there is no local office and no site visits. These are the kinds of businesses we hear from, city by city.",
+    note: "We work remotely for stores anywhere in the country; there is no local office and no site visits. Here is what Shopify work tends to involve for sellers in each region.",
     cards: [
       { name: "Amsterdam", note: "Fashion, lifestyle and direct-to-consumer brands with international shoppers often need Dutch and English storefronts, plus Markets for Belgium and Germany as they grow." },
       { name: "Rotterdam", note: "Brands close to the port and its distribution networks often ship larger catalogues and want Shopify orders to reach a warehouse or fulfilment partner without manual steps." },
@@ -478,7 +478,7 @@ const content: FreelanceContent = {
     { question: "How do we pay you from the Netherlands?", answer: "Quotes are in USD. You can pay by Wise, bank wire or PayPal, usually in milestones linked to delivered work, and nothing is billed before you approve the written quote. Invoices come from India. Ask your own accountant how to book an invoice from a supplier outside the EU; we do not advise on your tax treatment." },
     { question: "What hours can we have calls?", answer: "India Standard Time is 3.5 hours ahead of the Netherlands in summer and 4.5 hours in winter. Calls work best from late morning to late afternoon Dutch time, which is our afternoon and evening. Outside calls, we reply on WhatsApp 7 days a week, so a question sent on a Saturday rarely waits until Monday." },
     { question: "Do you sign an NDA or a processing agreement?", answer: "Ask us when you request a quote and tell us what your business needs. Terms around confidentiality and personal data are agreed in your written quote, and our general terms are published on the site. For anything involving customer data, have your own lawyer review the wording; we will not claim certifications we do not hold." },
-    { question: "Can you fix a Shopify store another developer built?", answer: "Yes, and it is a common request. We start with an audit of the theme, installed apps, custom code and settings, then list what is broken, what is risky and what is fine. You decide what to fix. Often the biggest gains come from removing unused apps and leftover scripts rather than writing new code." },
+    { question: "Can you fix a Shopify store another developer built?", answer: "Yes. We start with an audit of the theme, installed apps, custom code and settings, then list what is broken, what is risky and what is fine. You decide what to fix. Often the biggest gains come from removing unused apps and leftover scripts rather than writing new code." },
     { question: "How do I make my Shopify store show up in AI search answers?", answer: "Give AI systems clean, consistent facts to read. That means product and organisation schema, clear shipping, returns and payment pages, short direct answers on FAQ pages, and fast pages that crawlers can load. Nobody can guarantee that ChatGPT or Google's AI features will cite you, but a store with accurate structured data is easier for them to describe correctly." },
     { question: "What does maintenance cover after launch?", answer: `The first five months after launch are free and cover bug fixes, small content or layout changes, and checking the store after theme or app updates. After that, care continues from ${P.care} if you want it. The exact list of what is included is written into your quote, so there is no guessing about response or scope.` },
     { question: "Can you build a Shopify store for B2B customers in the Netherlands?", answer: "Yes. Shopify supports trade customers with price lists, company accounts and payment terms, and some of those features depend on your plan. For wholesalers with customer-specific prices, order-on-account and ERP sync, compare it carefully with a custom portal first. Our sibling page on B2B webshop development for the Netherlands lays out that comparison." },

@@ -80,7 +80,7 @@ const content: FreelanceContent = {
   },
   comparison: {
     heading: "Shopify, WooCommerce or a custom store: the Indian seller's view",
-    note: "The three options we build most often, compared on what Indian sellers ask about first. Indian hosted builders are covered in the guide and tables below.",
+    note: "The three routes Indian sellers weigh most, compared on what they ask about first. Indian hosted builders are covered in the guide and tables below.",
     columns: ["What matters", "Shopify", "WooCommerce", "BtechWaleTech custom store"],
     rows: [
       ["Platform fee", "Monthly plan, billed by Shopify", "Plugin is free; you pay hosting", "No platform subscription; hosting only"],
@@ -130,7 +130,7 @@ const content: FreelanceContent = {
       heading: "Is Shopify the best ecommerce platform in India for new sellers?",
       paragraphs: [
         `Yes, Shopify is a strong choice for Indian sellers who want to launch quickly without managing servers, provided they understand its payment fees and app costs. It has good themes, reliable hosting and a large ecosystem of apps for Indian shipping, COD and WhatsApp.`,
-        `The India-specific catch is payments. Shopify's own help centre lists the countries where Shopify Payments is available, and India is not among them, so Indian stores connect a third-party payment provider. According to Shopify's help centre, third-party transaction fees apply when you use a third-party provider, and they do not apply to manual payment methods, which Shopify defines as including cash on delivery, bank deposits and draft orders marked as paid. The rate depends on your plan, so check the current pricing page.`,
+        `The India-specific catch is payments. Shopify's own help centre lists the countries where Shopify Payments is available, and India is not among them, so Indian stores connect a third-party payment provider. According to Shopify's help centre, third-party transaction fees apply when you use a third-party provider, while its page on manual payments states that you are not charged third-party transaction fees for manual payments, a group that includes cash on delivery, money orders and bank deposits. The rate depends on your plan, so check the current pricing page.`,
         `The second cost to watch is apps. Product reviews, GST invoices, COD verification, WhatsApp notifications and advanced filters are often separate subscriptions, many billed in US dollars. They add up, and removing them later can leave leftover code in the theme.`,
         `Shopify fits best when you have a manageable catalogue, a small team with no developer on staff, and a preference for paying monthly in exchange for not worrying about hosting and security. The full cost picture sits on <a href='/shopify-store-cost-in-india/'>Shopify store cost in India</a>.`,
       ],
@@ -150,14 +150,14 @@ const content: FreelanceContent = {
       heading: "Indian hosted store builders: when rupee billing and local features win",
       paragraphs: [
         `Indian hosted builders are subscription store platforms built for local sellers, usually billed in rupees with Indian payment options, shipping partners and WhatsApp sharing available out of the box. For a small seller on a tight budget, they can be the quickest route to a working store.`,
-        `Their strength is local fit: UPI and COD without extra apps, pincode serviceability, GST fields and a dashboard designed for phone use. Many shop owners manage them entirely from an Android phone.`,
+        `Their strength is local fit: UPI and COD without extra apps, pincode serviceability, GST fields and a dashboard designed for phone use. Many of these dashboards can be run entirely from an Android phone.`,
         `The trade-offs show as you grow. Design control is often limited to the provider's templates, SEO features vary, and the question that matters most, how easily you can export products, customers and orders if you leave, has different answers from provider to provider. Some builders also restrict custom domains or remove features on lower tiers.`,
         `Before committing, ask any builder three things in writing: can you export all products, customers and orders as CSV; can you use your own domain on your plan; and what happens to your store and data if you stop paying. Good answers make these builders a sensible starting point.`,
       ],
     },
     {
       id: "custom",
-      heading: "When a custom-built store beats every platform",
+      heading: "When does a custom-built store beat every platform?",
       paragraphs: [
         `A custom store wins when your business rules do not fit a platform: dealer-specific price lists, quantity slabs, made-to-order configurations, multiple warehouses, or an ERP that must stay in sync. Forcing these into Shopify or WooCommerce often means a stack of apps or plugins that conflict with each other.`,
         `Custom also helps very large catalogues. A B2B supplier with thousands of SKUs and technical filters needs fast search and a data model built around its products, which is simpler to design from scratch than to bend a generic platform around.`,
@@ -227,7 +227,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Compare platforms on what you will pay over three years, not on the launch price; the best ecommerce platform in India on day one is not always the cheapest by year three. A cheaper build can become the expensive option if monthly fees and app subscriptions keep rising with your sales.`,
         `List every recurring line for each platform you are considering: plan or hosting, apps or premium plugins, payment gateway charges, any platform transaction fee, shipping aggregator charges, email or WhatsApp messaging, domain renewal, and maintenance. Then estimate them at your expected order volume in year one and year three.`,
-        `Patterns we see: Shopify's cost grows with apps and, for Indian stores using gateways, with the platform transaction fee as sales rise. WooCommerce's cost grows with hosting needs and maintenance effort. Custom stores cost more upfront and then mostly hosting plus developer time for changes. Indian builders stay cheap at small scale and vary widely as you move up tiers.`,
+        `The usual pattern: Shopify's cost grows with apps and, for Indian stores using gateways, with the platform transaction fee as sales rise. WooCommerce's cost grows with hosting needs and maintenance effort. Custom stores cost more upfront and then mostly hosting plus developer time for changes. Indian builders stay cheap at small scale and vary widely as you move up tiers.`,
         `Our part of the bill is simple: store builds from ${P.shop}, five months of free maintenance after launch, then maintenance from ${P.care} if you want it. We list provider costs separately in the quote so you can see the whole three-year picture.`,
       ],
     },
@@ -257,7 +257,7 @@ const content: FreelanceContent = {
     },
     {
       id: "exit",
-      heading: "Switching platforms later: lock-in and migration",
+      heading: "Can you switch ecommerce platforms later? Lock-in and migration",
       paragraphs: [
         `You can change platforms later if the best ecommerce platform in India for your launch stops fitting, but it costs time and carries SEO risk, so choose with your likely growth in mind. The safer your exit options, the less the first choice matters.`,
         `Moving products is usually straightforward through CSV. Customers can be moved, but passwords generally cannot, so customers reset them. Order history often needs an app or script. Product and category URLs change between platforms, so every old URL needs a redirect to its new equivalent, or search traffic drops.`,
@@ -381,7 +381,7 @@ const content: FreelanceContent = {
     { question: "Should I sell on Amazon and Flipkart or build my own store?", answer: "Most growing sellers do both. Marketplaces bring traffic but control fees, search ranking and customer data. Your own store gives better margins on repeat customers and control over branding. Starting on marketplaces and adding your own store once you have regular buyers is a common, low-risk path." },
     { question: "What is ONDC and should I join it?", answer: "ONDC, the Open Network for Digital Commerce, is a government-promoted network where sellers join through a seller-side app and appear on several buyer apps. It is a sales channel, not a website platform. It can sit alongside your own store and marketplaces; whether it brings meaningful orders depends on your category and region." },
     { question: "Which ecommerce platform is best for SEO in India?", answer: "Any major platform can rank if it is set up properly. WooCommerce and custom builds give the most control over URLs and content; Shopify is strong but has fixed URL patterns and can slow down with apps. What matters most is unique product and category content, product schema, fast mobile pages and Search Console monitoring." },
-    { question: "Can my ecommerce platform send WhatsApp order updates?", answer: `Yes. Shopify and WooCommerce connect to WhatsApp through apps or plugins that use the official WhatsApp Business Platform, and custom stores can call the API directly. Typical messages are order confirmation, COD confirmation, shipping updates and delivery notices. BtechWaleTech sets up these automations from ${P.ai}.` },
+    { question: "Can my ecommerce platform send WhatsApp order updates?", answer: `Yes. Shopify and WooCommerce connect to WhatsApp through apps or plugins (pick ones built on the official WhatsApp Business Platform), and custom stores can call the API directly. Typical messages are order confirmation, COD confirmation, shipping updates and delivery notices. BtechWaleTech sets up these automations from ${P.ai}.` },
     { question: "Is the cheapest option the best ecommerce platform in India to run?", answer: "At very small scale, an Indian hosted builder on a basic plan or WooCommerce on modest hosting is usually cheapest. As sales grow, the comparison changes: Shopify's transaction fee on gateway payments and app subscriptions rise with volume, while WooCommerce and custom stores mainly add hosting and maintenance. Compare three-year totals at your expected order volume." },
     { question: "Do I own my store data on Shopify?", answer: "You can export your products, customers and orders from Shopify, and your domain can stay registered in your name. The platform software itself remains Shopify's, so you cannot move the store as-is to another host. On WooCommerce and custom stores you hold the full database and code on hosting in your own name." },
     { question: "How long does it take to launch an online store?", answer: "With BtechWaleTech an online store usually takes 4–8 weeks, depending on catalogue size, content readiness and integrations. Product photos, descriptions and policies ready at the start save the most time. Test orders to different pincodes, with prepaid and COD, are run before launch." },

@@ -66,7 +66,7 @@ const content: FreelanceContent = {
     note: "Tell us which of these you need. If you are not sure, send the store address and describe the problem; we will say which bucket it falls into and what it costs to fix.",
     cards: [
       { name: "New Shopify store build", note: `Theme set up or built around your brand, products imported, UK tax and shipping configured, legal pages in place, from ${P.shop}.`, href: "/uk/ecommerce-website-design/", size: "lg" },
-      { name: "Custom Shopify app", note: `Private apps using the Shopify Admin API and Functions for pricing rules, integrations or back-office tools, from ${P.software}.`, href: "/uk/bespoke-software-development/", size: "lg" },
+      { name: "Custom Shopify app", note: `Custom apps built on the Shopify Admin API and webhooks for pricing rules, integrations or back-office tools, from ${P.software}.`, href: "/uk/bespoke-software-development/", size: "lg" },
       { name: "Theme customisation", note: "New sections, product page layouts, bundles and metafield-driven content in an Online Store 2.0 theme, editable afterwards in the theme editor.", size: "md" },
       { name: "Speed and app clean-up", note: "Remove leftover app code, trim scripts, compress media and re-test Core Web Vitals on mobile product pages.", size: "md" },
       { name: "Magento or WooCommerce move", note: "Products, customers, orders and redirects carried across so rankings and repeat buyers survive the switch.", href: "/uk/magento-to-shopify-migration/", size: "md" },
@@ -111,12 +111,12 @@ const content: FreelanceContent = {
       id: "edit-or-build",
       heading: "Theme edit, new theme or custom app: which does your store need?",
       paragraphs: [
-        `Use the lightest option that solves the real problem. Most UK stores need theme customisation, fewer need a new theme, and only a minority need a custom app. Each step up adds cost and something else to maintain.`,
+        `Use the lightest option that solves the real problem. In order of weight, the options are theme customisation, a new theme, then a custom app, and each step up adds cost and something else to maintain.`,
       ],
       subs: [
         { heading: "Theme customisation is enough when…", text: "the problem is layout or content: a new product page section, a size guide, a delivery message, a comparison table, a better collection filter. These live in the theme and you can edit them afterwards." },
         { heading: "A new or rebuilt theme makes sense when…", text: "the current theme is heavily patched by several past developers, fails Core Web Vitals on mobile, or cannot represent your catalogue without hacks. Starting clean can cost less than another year of patches." },
-        { heading: "A custom app is needed when…", text: "the store must follow a rule Shopify and existing apps do not support, or must talk to a private system: your warehouse, ERP, trade portal or accounting tool. We write private apps for one store rather than public apps for the App Store." },
+        { heading: "A custom app is needed when…", text: "the store must follow a rule Shopify and existing apps do not support, or must talk to a private system: your warehouse, ERP, trade portal or accounting tool. We write custom apps installed on your store alone rather than public apps for the App Store." },
       ],
       after: [
         `Before recommending any of these we look at your store with collaborator access and list the options in the quote, with a reason for the one we suggest.`,
@@ -136,7 +136,7 @@ const content: FreelanceContent = {
       heading: "When does a UK brand need a custom Shopify app?",
       paragraphs: [
         `You need a custom app when a business rule or integration cannot be met by an existing app without awkward workarounds or a monthly fee that outweighs the build. Common UK examples: trade customers seeing different prices, a courier or warehouse system without a Shopify connector, and stock shared with a physical shop or marketplace.`,
-        `Custom apps talk to your store through the Shopify Admin API and receive events through webhooks. Where the logic affects discounts, delivery options or payment options at checkout, Shopify Functions let us run custom rules inside Shopify’s own infrastructure. Some checkout customisations are restricted to Shopify Plus, so we check your plan before promising anything.`,
+        `Custom apps talk to your store through the Shopify Admin API and receive events through webhooks. Where the logic has to change discounts, delivery options or payment options at checkout, Shopify Functions are the tool, but <a href='https://shopify.dev/docs/apps/build/functions' rel='noopener'>Shopify’s developer documentation</a> says only stores on Shopify Plus can use custom apps that contain Function APIs. On other plans we use Shopify’s built-in discounts or a public App Store app built on Functions, so we check your plan before promising anything.`,
         `An app is software you now own, so plan for it: hosting (we set it up in your cloud account), logs, error alerts and someone to update it when Shopify changes an API version. That ongoing care is part of our maintenance plan. For bigger systems that go beyond the store, such as a trade portal or back-office tool, see our <a href='/uk/bespoke-software-development/'>bespoke software development service for UK firms</a>.`,
       ],
     },
@@ -145,7 +145,7 @@ const content: FreelanceContent = {
       heading: "Setting up Shopify Payments and Shop Pay for UK shoppers",
       paragraphs: [
         `For most UK stores, Shopify Payments is the simplest route: the <a href='https://help.shopify.com/en/manual/payments/shopify-payments/supported-countries' rel='noopener'>Shopify Help Center lists the United Kingdom as a supported country</a>, and it enables Shop Pay and wallet payments without a separate provider.`,
-        `Shopify’s own documentation also explains that stores which do not activate Shopify Payments pay a third-party transaction fee on orders, on top of their external provider’s card fees, at a rate that depends on the plan. That makes the payment decision a real cost question, not just a preference. We do not name or recommend specific outside gateways; if you already have one through your bank, we can compare the settings with you and let you decide.`,
+        `Shopify’s UK pricing page also lists a third-party transaction fee on orders for stores that use another payment provider instead of Shopify Payments, charged on top of that provider’s card fees, with the percentage falling as the plan goes up. That makes the payment decision a real cost question, not just a preference. We do not name or recommend specific outside gateways; if you already have one through your bank, we can compare the settings with you and let you decide.`,
         `Our Shopify developer checklist for UK payments covers: business details and bank account entered by you (we never handle your banking), statement descriptor set to a name customers recognise, wallets enabled, test orders placed and refunded, and fraud settings reviewed. The verification steps with Shopify are done by the account owner.`,
       ],
     },
@@ -153,7 +153,7 @@ const content: FreelanceContent = {
       id: "vat-markets",
       heading: "VAT-inclusive prices and Shopify Markets for EU buyers",
       paragraphs: [
-        `UK shoppers expect prices that already include VAT, and Shopify’s UK tax documentation says so directly: in the UK you need to include tax in displayed prices for most merchandise. We configure tax-inclusive pricing and check that product pages, collections and checkout all show the same figure.`,
+        `UK shoppers expect prices that already include VAT, and Shopify’s help page on including taxes in product prices says so directly: in the United Kingdom you need to include tax in displayed prices for most types of merchandise. We configure tax-inclusive pricing and check that product pages, collections and checkout all show the same figure.`,
         `Selling to EU customers is where stores go wrong. Shopify Markets lets you create an EU market with its own currency, and its duties and import taxes settings control whether prices are shown tax-inclusive for that market. Which VAT scheme you register for, and whether to collect duties at checkout, are questions for your accountant; we build whichever setup they choose and test real orders to Ireland, France or Germany before launch.`,
         `Also check B2B needs. If trade customers need VAT-exclusive prices, that is a separate catalogue or app decision, and the <a href='/uk/b2b-wholesale-website/'>B2B wholesale website guide</a> covers trade pricing, account approval and credit terms.`,
       ],
@@ -168,7 +168,7 @@ const content: FreelanceContent = {
       id: "shipping",
       heading: "UK shipping on Shopify: Royal Mail, Evri, DPD and delivery messaging",
       paragraphs: [
-        `Most UK stores ship through Royal Mail plus one courier, and Shopify connects to both through apps: Royal Mail’s Click & Drop, Evri and several multi-carrier tools are listed in the Shopify App Store. The developer’s job is to make rates, labels and tracking flow without manual copying.`,
+        `Plenty of UK stores pair Royal Mail with a courier such as Evri or DPD, and Shopify reaches carriers through shipping apps, either a carrier’s own connector or a multi-carrier label tool. We check the current App Store listing for your carriers before choosing. The developer’s job is to make rates, labels and tracking flow without manual copying.`,
         `We start from your real parcels: sizes, weights, what goes by letter post, what needs a tracked courier, and whether you offer next-day delivery or click-and-collect from a shop. Shipping profiles and zones are then set so the checkout offers the right options, and product pages state delivery charges and cut-off times clearly before the basket.`,
         `Showing delivery costs early is good practice and increasingly expected under UK consumer law; the DMCC Act drip-pricing rules, in force since April 2025, target mandatory charges that only appear at checkout. We build the messaging so nothing surprises the shopper. The <a href='/uk/dmcc-act-ecommerce-compliance/'>DMCC Act compliance audit for online shops</a> goes into what the law covers; your solicitor confirms how it applies to you.`,
       ],
@@ -195,8 +195,8 @@ const content: FreelanceContent = {
       id: "hire-safely",
       heading: "How to hire a Shopify developer in the UK safely",
       paragraphs: [
-        `Never share the store owner’s login. Shopify supports collaborator accounts, and according to the <a href='https://help.shopify.com/en/manual/your-account/users/security/collaborator-accounts' rel='noopener'>Shopify Help Center</a> a Partner requests access through their Partner Dashboard and the store owner accepts or rejects the request, choosing which sections the developer can see.`,
-        `Give only the permissions the job needs: themes and apps for a theme job; products for an import; no access to payouts unless there is a real reason. When the work ends, remove the collaborator. Store owners can also require a collaborator request code, so only developers you have given the code to can ask for access.`,
+        `Never share the store owner’s login. Shopify supports collaborator accounts, and according to the <a href='https://help.shopify.com/en/manual/your-account/users/security/collaborator-accounts' rel='noopener'>Shopify Help Center</a> the developer requests access from their Shopify Dev Dashboard, and the store owner approves or denies the request and assigns a role with only the permissions needed.`,
+        `Give only the permissions the job needs: themes and apps for a theme job; products for an import; no access to payouts unless there is a real reason. When the work ends, remove the collaborator. Shopify also uses a four-digit collaborator request code from your Users settings, so only developers you have given the code to can ask for access, and you can generate a new code at any time.`,
         `Beyond access, vet the developer on three points: can they explain what they will change in plain English, do they work on a duplicate theme rather than live, and will they hand over a change log? Ask for one or two live stores they built. For a broader view of hiring remotely, see <a href='/hire-indian-developers/'>hiring developers in India</a>.`,
       ],
     },
@@ -217,7 +217,7 @@ const content: FreelanceContent = {
       id: "speed",
       heading: "Why Shopify stores slow down and what a developer does about it",
       paragraphs: [
-        `Most slow Shopify stores are slow because of apps, not Shopify. Every review widget, pop-up, chat tool and upsell app can inject scripts, and when an app is uninstalled its theme code sometimes stays behind.`,
+        `When a Shopify store drags, look at the installed apps before blaming the platform. Every review widget, pop-up, chat tool and upsell app can inject scripts, and when an app is uninstalled its theme code sometimes stays behind.`,
         `A speed job starts with an inventory: which apps are installed, which scripts load on each page type and what each costs in load time. We remove dead code, defer non-critical scripts, replace heavy apps with a few lines of theme code where sensible, and size images properly. Google’s web.dev guidance treats a Largest Contentful Paint of 2.5 seconds or less, measured at the 75th percentile, as good; we test product and collection pages on a mid-range phone against that.`,
         `Speed also affects conversion. A UK shopper opening your product page from an Instagram ad on a train will not wait. Where the theme itself is the problem, we say so and price a rebuild rather than applying another patch.`,
       ],
@@ -235,7 +235,7 @@ const content: FreelanceContent = {
       id: "red-flags",
       heading: "Red flags when hiring a Shopify developer",
       paragraphs: [
-        `Walk away from anyone who asks for your owner password, edits the live theme without a copy, or cannot tell you what they changed. Those three habits cause most Shopify disasters.`,
+        `Walk away from anyone who asks for your owner password, edits the live theme without a copy, or cannot tell you what they changed. Any one of those habits can cost you a day of trading.`,
       ],
       list: [
         "Asks for your owner email and password instead of sending a collaborator request",
@@ -252,7 +252,7 @@ const content: FreelanceContent = {
       heading: "Worked example: a Shopify developer brief for a Leeds candle brand",
       paragraphs: [
         `Picture a hypothetical candle and home fragrance brand in Leeds with about 80 products on an older theme. It wants a gift bundle builder, EU shipping, faster product pages and trade prices for a handful of boutiques. Here is how we would scope it.`,
-        `Audit first: the theme is not Online Store 2.0, eleven apps are installed and three of them are no longer used. Recommendation: move to a current theme rather than patch, remove unused app code, and build the bundle builder as a theme section with a Shopify Function for the bundle discount. EU selling: an EU market in euros, with the tax and duties setting chosen by the brand’s accountant, and courier options limited to tracked services.`,
+        `Audit first: the theme is not Online Store 2.0, eleven apps are installed and three of them are no longer used. Recommendation: move to a current theme rather than patch, remove unused app code, and build the bundle builder as a theme section, with the bundle discount handled by Shopify’s built-in discounts or a public Functions-based app, because a custom app containing Functions needs Shopify Plus. EU selling: an EU market in euros, with the tax and duties setting chosen by the brand’s accountant, and courier options limited to tracked services.`,
         `Trade prices for a few boutiques could be a B2B catalogue if the plan supports it, or a small custom app if not; we would price both. Timeline: around five to six weeks, with the new theme built on a preview while the old one keeps trading. The build sits in the ecommerce plan from ${P.shop}, with the trade-pricing app quoted as a separate line. This is an illustration only, not a client project.`,
       ],
     },
@@ -287,8 +287,8 @@ const content: FreelanceContent = {
       rows: [
         ["Launch a new store", "Current theme customised or built, products imported, tax and shipping set", P.shop],
         ["Add a new product page layout", "Section and JSON template in the existing theme", "Quoted per task"],
-        ["Offer bundles or tiered discounts", "Theme section plus a Shopify Function", "Quoted per task"],
-        ["Sync stock with a warehouse or ERP", "Private custom app with webhooks", P.software],
+        ["Offer bundles or tiered discounts", "Theme section plus native discounts or a Functions-based app (custom Functions need Plus)", "Quoted per task"],
+        ["Sync stock with a warehouse or ERP", "Custom app with webhooks", P.software],
         ["Speed up product pages", "App and script audit, code clean-up, image fixes", "Quoted per task"],
         ["Keep everything updated", "Monthly care plan", P.care],
       ],
@@ -297,7 +297,7 @@ const content: FreelanceContent = {
       id: "uk-settings",
       eyebrow: "UK configuration",
       heading: "Shopify settings a UK store should have checked by a developer",
-      note: `Tax behaviour follows <a href='https://help.shopify.com/en/manual/taxes/uk/uk-tax-setup' rel='noopener'>Shopify’s UK tax set-up guide</a>; your accountant decides the registrations.`,
+      note: `Tax display follows <a href='https://help.shopify.com/en/manual/taxes/include-exclude-taxes' rel='noopener'>Shopify’s guide to including taxes in prices</a>; your accountant decides the registrations.`,
       columns: ["Setting", "What we check", "Why it matters"],
       rows: [
         ["Tax display", "Prices include VAT on every page and at checkout", "UK shoppers expect tax-inclusive prices"],
@@ -318,9 +318,9 @@ const content: FreelanceContent = {
       columns: ["Model", "Best for", "Watch out for", "With us"],
       rows: [
         ["One-off project", "New theme, app, migration", "Scope creep mid-project", "Itemised quote, approved in writing"],
-        ["Monthly plan", "Steady small edits and updates", "Paying for unused time", `From ${P.care}, cancel by agreement`],
+        ["Monthly plan", "Steady small edits and updates", "Paying for unused time", `From ${P.care}, terms in your quote`],
         ["Ad-hoc fixes", "Occasional issues", "Slow response when urgent", "Quoted per task on WhatsApp"],
-        ["Project then plan", "Stores fixing foundations first", "Two contracts to track", "Most common route for our UK stores"],
+        ["Project then plan", "Stores fixing foundations first", "Two contracts to track", "Often the sensible route for an older store"],
         ["White-label for agencies", "UK agencies reselling Shopify work", "Confidentiality terms", "Agreed in writing"],
       ],
       hideSm: [2],
@@ -361,16 +361,16 @@ const content: FreelanceContent = {
   faqs: [
     { question: "How much does a Shopify developer cost in the UK?", answer: `It depends on the billing model and the job. UK developers bill hourly, per project or by retainer, and rates vary widely. With BtechWaleTech a new Shopify store starts at ${P.shop}, custom apps at ${P.software}, and ongoing care at ${P.care}, with small edits quoted per task after we see your store.` },
     { question: "Do I need a Shopify developer or can I use apps?", answer: "Apps are fine for common needs like reviews or email capture. You need a developer when apps conflict, slow the store, cost more each month than a one-off build, or cannot do what your business requires, such as trade pricing, a warehouse feed or a product page layout the theme does not offer." },
-    { question: "Should I give a Shopify developer my login?", answer: "No. Shopify has collaborator accounts: the developer sends a request from their Partner Dashboard, you approve it and choose which areas they can access, and you can remove access at any time. Anyone asking for the owner email and password is ignoring Shopify’s own recommended process." },
+    { question: "Should I give a Shopify developer my login?", answer: "No. Shopify has collaborator accounts: the developer sends a request from their Shopify Dev Dashboard using the code you share, you approve it and choose which areas they can access, and you can remove access at any time. Anyone asking for the owner email and password is ignoring Shopify’s own recommended process." },
     { question: "How long does a Shopify store build take?", answer: "Our ecommerce builds usually take four to eight weeks. The biggest variable is product data: clean spreadsheets with photos move quickly, while hundreds of products needing descriptions and variants take longer. Smaller theme changes typically take days, and custom apps take six to twelve weeks depending on the integrations." },
     { question: "Can a Shopify developer in India work UK hours?", answer: "Not the whole UK day, but there is useful overlap. India is 4.5 hours ahead in summer and 5.5 in winter, so UK mornings match our afternoons and evenings. We reply on WhatsApp seven days a week, and fixes requested in the morning are often ready to check the same day." },
     { question: "What is the difference between a Shopify theme and a custom app?", answer: "The theme controls how your store looks and what appears on each page. A custom app adds functions or connects external systems through Shopify’s APIs, running on its own hosting. Layout and content changes belong in the theme; business rules and integrations usually need an app or a Shopify Function." },
     { question: "Can you customise my existing Shopify theme without breaking updates?", answer: "We build changes as new sections and blocks where possible, avoid editing core theme files unnecessarily, and keep a change log. When your theme vendor releases an update, that log shows exactly what to reapply. Heavily patched older themes are sometimes cheaper to replace than to keep maintaining." },
     { question: "Do you set up VAT correctly on Shopify for the UK?", answer: "We configure tax-inclusive pricing so UK customers see VAT-inclusive prices throughout, and set up EU markets as your accountant directs. We do not give tax advice: which VAT registrations and schemes you use is your accountant’s decision, and we build and test the store to match it." },
-    { question: "Should I use Shopify Payments in the UK?", answer: "For most UK stores it is the simplest choice, and Shopify’s documentation says stores not using it pay an extra third-party transaction fee on orders. Some businesses have reasons to use another provider. We explain the trade-off using Shopify’s published information and you make the decision." },
-    { question: "Can you connect Royal Mail, Evri or DPD to my Shopify store?", answer: "Yes. Apps exist in the Shopify App Store for Royal Mail Click & Drop, Evri and multi-carrier tools covering DPD and others. We install and configure the one that fits your parcels, set shipping profiles and rates, and make sure tracking numbers flow back to customer notifications." },
+    { question: "Should I use Shopify Payments in the UK?", answer: "For most UK stores it is the simplest choice, and Shopify’s pricing page shows that stores using another provider pay an extra third-party transaction fee on orders. Some businesses have reasons to use another provider. We explain the trade-off using Shopify’s published information and you make the decision." },
+    { question: "Can you connect Royal Mail, Evri or DPD to my Shopify store?", answer: "Yes. Shopify connects to carriers through shipping apps, either a carrier’s own connector or a multi-carrier label tool, and we check which current option covers your carriers. We install and configure the one that fits your parcels, set shipping profiles and rates, and make sure tracking numbers flow back to customer notifications." },
     { question: "Can you move my shop from WooCommerce or Magento to Shopify?", answer: "Yes. We map products, variants, customers and order history, recreate tax and shipping rules, replace extensions with apps or theme code, and redirect every old address so search rankings carry over. We plan the switch-over outside your busiest trading weeks." },
-    { question: "Do you build Shopify Plus stores?", answer: "We can work on Plus stores for defined jobs, such as theme work or a private app, but large Plus programmes with multiple expansion stores and heavy checkout customisation are not our focus. A specialist UK Plus agency with a bigger team is often the better choice there." },
+    { question: "Do you build Shopify Plus stores?", answer: "We can work on Plus stores for defined jobs, such as theme work or a custom app, but large Plus programmes with multiple expansion stores and heavy checkout customisation are not our focus. A specialist UK Plus agency with a bigger team is often the better choice there." },
     { question: "Will I own the custom app code?", answer: "Yes. Custom app code sits in a repository in your account, hosting is set up in your name, and the app is installed on your store only. If you later change developers, they get the repository and hosting details from you. We do not keep your app on our own servers." },
     { question: "Can you make my Shopify store faster?", answer: "Usually, yes. We audit installed apps and scripts, remove leftover code from uninstalled apps, defer non-essential scripts, optimise images and test product pages against Google’s Core Web Vitals thresholds. If the theme itself is the bottleneck, we tell you plainly and quote a rebuild instead." },
     { question: "Do you offer a monthly Shopify retainer?", answer: `We offer a maintenance plan from ${P.care} covering theme and app checks, updates and small edits. Larger requests are quoted separately so costs stay visible. New builds include five months of free maintenance first, so you can see what you actually need before committing to anything.` },

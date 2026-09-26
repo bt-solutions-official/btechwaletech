@@ -262,8 +262,8 @@ const content: FreelanceContent = {
       paragraphs: [
         `Most failures come from an expired or regenerated key, calling the API too often and getting suspended, a CRM field or permission changing, or gaps between time windows that silently skip leads. Monitoring each of these is part of the build, not an afterthought.`,
         `Our IndiaMART CRM integration keeps a small log per run: time window requested, leads received, created, merged and failed, and the API status code. A daily check compares the count of enquiries in IndiaMART with those in your CRM for the previous day. If the numbers differ, the missing query IDs are refetched and you get a note explaining what happened.`,
-        `Alerts go to a named person on your team and to us: a 401 means regenerate the key; repeated 429s mean something else is also calling the API with your key, often an old tool nobody switched off; CRM errors list the field that was rejected. Most issues are fixed in minutes once someone knows about them; the damage comes from not knowing for a week.`,
-        `Fixes are free for five months after launch. After that, care starts at ${P.care} and includes watching these alerts for you, if you prefer not to.`,
+        `Alerts go to a named person on your team, and to us while we support the integration: a 401 means regenerate the key; repeated 429s mean something else is also calling the API with your key, often an old tool nobody switched off; CRM errors list the field that was rejected. Most issues are fixed in minutes once someone knows about them; the damage comes from not knowing for a week.`,
+        `Fixes are free for five months after launch. After that, optional care starts at ${P.care}; whether it includes watching these alerts on your behalf is agreed in your written quote.`,
       ],
     },
     {
@@ -340,7 +340,7 @@ const content: FreelanceContent = {
     heading: "IndiaMART CRM integration for sellers in these cities",
     note: "All work is remote. These cities have many paid IndiaMART sellers whose enquiries outgrow one person’s phone.",
     cards: [
-      { name: "IndiaMART lead sync for machinery makers in Ahmedabad", note: "Packaging, pharma and food-processing machinery builders get detailed technical enquiries; routing them by machine type to the right engineer saves a day per lead.", href: "/ahmedabad/" },
+      { name: "IndiaMART lead sync for machinery makers in Ahmedabad", note: "Packaging, pharma and food-processing machinery builders get detailed technical enquiries; routing them by machine type to the right engineer cuts out internal hand-offs.", href: "/ahmedabad/" },
       { name: "Lead routing for pump and part makers in Rajkot", note: "Rajkot’s engineering units field enquiries from dealers and end users alike; separating the two at arrival keeps dealer pricing in the right hands.", href: "/rajkot/" },
       { name: "IndiaMART leads for electrical traders in Delhi", note: "Wholesalers of cables, switchgear and lighting receive many small enquiries a day; automatic logging and round-robin assignment stop leads going cold.", href: "/delhi/" },
       { name: "CRM sync for industrial suppliers in Mumbai", note: "Suppliers of valves, fittings and chemicals serve buyers across states; state-wise routing and repeat-buyer matching prevent two quotes to one company.", href: "/mumbai/" },
@@ -365,7 +365,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "Within about two working days you receive a quote with each piece priced separately. Nothing is billed until you approve it in writing."],
       ["Build and test", "You generate the Pull API key; we store it securely, build the sync against a test CRM or sheet, and replay recent real leads through it."],
       ["Monitored trial week", "Live leads flow while we compare daily counts against Lead Manager and tune routing. The WhatsApp template goes live once Meta approves it."],
-      ["Hand over and watch", "You get documentation, logs and the settings sheet. Fixes are free for five months; optional care can include watching alerts for you."],
+      ["Hand over and watch", "You get documentation, logs and the settings sheet. Fixes are free for five months; what optional care covers afterwards is set out in your quote."],
     ],
   },
   faqHeading: "IndiaMART CRM integration: questions sellers ask",

@@ -107,7 +107,7 @@ const content: FreelanceContent = {
       heading: "What are WordPress maintenance services, in plain terms?",
       paragraphs: [
         `WordPress maintenance services are a paid routine that keeps a WordPress site updated, backed up, secure and working, carried out by someone who can fix things when an update goes wrong. The routine matters less than the second half of that sentence. Anybody can press the Update button; the value is in what happens when a plugin update breaks your booking form at 9 pm on a Saturday.`,
-        `WordPress itself is software made of many moving parts. The core is maintained by the WordPress project, but most business sites also run fifteen to forty plugins from different authors, a theme, sometimes a page builder, and a PHP version chosen by the hosting company. Each of those parts releases updates on its own schedule, and they are not always tested against each other. Maintenance is the job of keeping that collection in step.`,
+        `WordPress itself is software made of many moving parts. The core is maintained by the WordPress project, but a typical business site also runs a stack of plugins from different authors, a theme, sometimes a page builder, and a PHP version chosen by the hosting company. Each of those parts releases updates on its own schedule, and they are not always tested against each other. Maintenance is the job of keeping that collection in step.`,
         `There is a common misunderstanding worth clearing up early. Hosting and maintenance are different services. Your host keeps the server switched on and the disk healthy. Your maintenance provider looks after what sits on that server: the WordPress install, its plugins, its content and its data. Some hosts sell a maintenance add-on, but it usually means automatic updates without anyone checking the result.`,
       ],
       list: [
@@ -125,7 +125,7 @@ const content: FreelanceContent = {
         `The weekly and monthly work keeps risk low; the quarterly work stops slow decay. Quarterly tasks are the ones cheap plans skip because nobody notices them for a year, until the database is bloated, the PHP version is out of support and three admin accounts belong to people who left long ago.`,
       ],
       subs: [
-        { heading: "Every week", text: "Review uptime alerts, check backup jobs completed, scan for malware and unexpected file changes, apply urgent security releases the same day they are announced." },
+        { heading: "Every week", text: "Review uptime alerts, check backup jobs completed, scan for malware and unexpected file changes, apply urgent security releases without waiting for the monthly round." },
         { heading: "Every month", text: "Full update round on staging, visual check of key templates, form and checkout tests, push to live, speed spot-check, database clean-up of revisions and expired transients, written change log." },
         { heading: "Every quarter", text: "Restore a backup onto a test location, review admin users and passwords, remove unused plugins and themes, check the PHP version against WordPress recommendations, review SSL, domain and licence renewals." },
         { heading: "Once a year", text: "A wider health review: plugins that are abandoned by their authors, a heavy theme that should be replaced, hosting that no longer fits your traffic." },
@@ -146,7 +146,7 @@ const content: FreelanceContent = {
         "Push the same versions to live and repeat a short smoke test",
       ],
       after: [
-        `Critical security patches are the one exception: when a plugin author ships a fix for an actively exploited flaw, we apply it to live the same day and test straight after, because waiting for the monthly round would be the bigger risk.`,
+        `Critical security patches are the one exception: when a plugin author ships a fix for an actively exploited flaw, we apply it to live promptly and test straight after, because waiting for the monthly round would be the bigger risk.`,
       ],
     },
     {
@@ -154,7 +154,7 @@ const content: FreelanceContent = {
       heading: "WordPress backups: how many copies, stored where, and how to know they work",
       paragraphs: [
         `A WordPress backup only counts if it lives away from your server and has been restored successfully at least once. A backup stored in the same hosting account disappears in exactly the situations you need it: a hacked account, a lapsed hosting bill, or a host that suspends the server.`,
-        `The WordPress documentation is blunt about this: back up the database and all files before updating, and check that the backup is usable. We follow a pattern that treats backups as insurance, not decoration. The database is copied daily on active sites and stores, weekly on quiet brochure sites. Uploads and theme files follow the same schedule. Copies go to cloud storage in an account that you own, with a retention window long enough to roll back past a hack that went unnoticed for a few weeks.`,
+        `The WordPress documentation on updating tells site owners to take a backup of the database and files before starting. We follow a pattern that treats backups as insurance, not decoration. The database is copied daily on active sites and stores, weekly on quiet brochure sites. Uploads and theme files follow the same schedule. Copies go to cloud storage in an account that you own, with a retention window long enough to roll back past a hack that went unnoticed for a few weeks.`,
         `The quarterly restore drill is where most providers cut corners. Once each quarter we take a recent backup and restore it onto a separate test location. If the site opens, logs in and shows recent content, the backup is good. If it does not, we find out on a quiet Tuesday instead of during an emergency.`,
       ],
       list: [
@@ -169,7 +169,7 @@ const content: FreelanceContent = {
       id: "security",
       heading: "Security work inside WordPress maintenance services",
       paragraphs: [
-        `Security in a maintenance plan is mostly unglamorous hygiene: current software, fewer admin accounts, strong logins and early warning when files change. Most WordPress hacks on small business sites trace back to an outdated plugin or a reused password, not to a clever attacker.`,
+        `Security in a maintenance plan is mostly unglamorous hygiene: current software, fewer admin accounts, strong logins and early warning when files change. An outdated plugin with a published flaw, or a weak password reused elsewhere, gives an attacker a far easier way in than any clever exploit.`,
         `The WordPress hardening guide on developer.wordpress.org recommends keeping software current, using strong passwords and two-step authentication, setting directory permissions to 755 and file permissions to 644, and adding the DISALLOW_FILE_EDIT constant to wp-config.php so that nobody can edit theme or plugin code from the dashboard. We apply those settings during onboarding and check that they are still in place each quarter, because a later plugin or a well-meaning staff member can quietly undo them.`,
         `Scanning is the second layer. File-integrity checks compare core files against the official versions and flag anything added or changed. Malware scans look for injected scripts and spam links. When a scan does find something, a clean-up is quoted separately, because a hacked site can take an hour or two days depending on how deep the infection goes; our page on <a href='/hacked-website-repair/'>hacked website repair</a> explains that work.`,
       ],
@@ -297,7 +297,7 @@ const content: FreelanceContent = {
       heading: "Who should own the logins, hosting account and backups?",
       paragraphs: [
         `You should own everything: the domain, the hosting account, the WordPress administrator account, premium plugin licences and the cloud storage that holds your backups. The maintenance provider should work through accounts you created for them and can remove.`,
-        `This sounds obvious, yet it is the single most common problem we see when businesses switch providers. A previous developer registered the domain in their own name, bought the hosting on their card, or installed premium plugins on their personal licence. The day the relationship ends, renewals fail and the site slowly breaks. Untangling that can take weeks.`,
+        `This sounds obvious, yet it is a classic trap when a business changes providers. A previous developer might have registered the domain in their own name, bought the hosting on their card, or installed premium plugins on their personal licence. The day the relationship ends, renewals fail and the site slowly breaks. Untangling that can take weeks.`,
         `With us, you create the accounts and add us as a user. For hosting, that means a sub-user or collaborator login where the host supports it. For WordPress, we get our own named administrator account, never a shared password. Premium licences are bought in your name so updates keep flowing after we leave. When the relationship ends, you remove our accounts and nothing else changes.`,
       ],
       list: [
@@ -340,7 +340,7 @@ const content: FreelanceContent = {
       heading: "WordPress maintenance services for Indian businesses: local details that matter",
       paragraphs: [
         `Indian WordPress sites carry a few specific pieces that a maintenance routine must test: UPI and card checkout on stores, GST invoice plugins, click-to-WhatsApp buttons, Hindi or regional-language pages, and hosting that serves Indian visitors quickly on mobile data.`,
-        `Checkout is the obvious one. After each update round on a store we confirm the payment flow still works for UPI and cards and that GST details print correctly on invoices. WhatsApp buttons break more often than people expect, usually when a plugin update changes a link format, and a broken button can cut enquiries in half without anyone noticing.`,
+        `Checkout is the obvious one. After each update round on a store we confirm the payment flow still works for UPI and cards and that GST details print correctly on invoices. WhatsApp buttons can also break when a plugin update changes a link format, and a dead button quietly stops enquiries while the rest of the site looks fine.`,
         `Data protection is increasingly relevant too. India's Digital Personal Data Protection Act, 2023 expects businesses that handle personal data to take reasonable security safeguards against breaches, and its schedule sets penalties of up to ₹250 crore for failing to do so. Keeping plugins patched, limiting admin access and holding clean backups are part of how a site supports those obligations; whether your business is compliant is a question for your own lawyer.`,
       ],
       list: [
@@ -366,7 +366,7 @@ const content: FreelanceContent = {
       heading: "WordPress maintenance services across India",
       paragraphs: [
         `WordPress maintenance is remote work by nature: staging, backups, scans and updates all happen on servers, and questions are handled on WhatsApp or a video call. Scope and starting price are the same wherever your business is.`,
-        `We look after WordPress sites for businesses in <a href='/pune/'>Pune</a>, <a href='/hyderabad/'>Hyderabad</a>, <a href='/ahmedabad/'>Ahmedabad</a>, <a href='/kolkata/'>Kolkata</a>, <a href='/chennai/'>Chennai</a>, <a href='/nashik/'>Nashik</a>, <a href='/bhopal/'>Bhopal</a>, <a href='/mysore/'>Mysuru</a>, <a href='/dehradun/'>Dehradun</a> and <a href='/visakhapatnam/'>Visakhapatnam</a>, among many others. Each city page has local context about the businesses there.`,
+        `The same plan works for businesses in <a href='/pune/'>Pune</a>, <a href='/hyderabad/'>Hyderabad</a>, <a href='/ahmedabad/'>Ahmedabad</a>, <a href='/kolkata/'>Kolkata</a>, <a href='/chennai/'>Chennai</a>, <a href='/nashik/'>Nashik</a>, <a href='/bhopal/'>Bhopal</a>, <a href='/mysore/'>Mysuru</a>, <a href='/dehradun/'>Dehradun</a> and <a href='/visakhapatnam/'>Visakhapatnam</a> or anywhere else in India. Each city page has local context about the businesses there.`,
         `Businesses abroad receive the same plan quoted in USD from ${P.careUsd}, paid by Wise, bank wire or PayPal, with updates timed to their quiet hours rather than ours. See <a href='/countries/'>countries we work with</a>.`,
       ],
     },
@@ -395,9 +395,9 @@ const content: FreelanceContent = {
       note: `Use this to check any provider's plan. Recommended versions are from <a href='https://wordpress.org/about/requirements/' rel='noopener'>WordPress.org requirements</a>.`,
       columns: ["Task", "How often", "Why it matters", "Proof in your report"],
       rows: [
-        ["Security patches", "Same day when urgent", "Exploited plugin flaws spread fast", "Plugin name and version applied"],
+        ["Security patches", "Promptly when urgent", "Exploited plugin flaws spread fast", "Plugin name and version applied"],
         ["Full update round", "Monthly, on staging first", "Keeps versions current without breakage", "Before and after version list"],
-        ["Backup check", "Weekly", "Silent backup failures are common", "Last successful backup date"],
+        ["Backup check", "Weekly", "Backup jobs can fail without warning", "Last successful backup date"],
         ["Restore drill", "Quarterly", "Proves backups actually work", "Date and result of test restore"],
         ["Malware and file scan", "Weekly", "Catches injected code early", "Scan result summary"],
         ["Admin user review", "Quarterly", "Old accounts are an open door", "Users removed or kept"],
@@ -418,7 +418,7 @@ const content: FreelanceContent = {
         ["Access", "Shared admin password", "Named accounts, two-step login"],
         ["Licences", "Nulled premium plugins", "Licences bought in your name"],
         ["Reporting", "Charts without actions", "Versions, fixes, tests and time listed"],
-        ["Breakage", "Fixes billed as emergencies", "Update-caused breakage fixed as part of the round"],
+        ["Breakage", "Surprise emergency bills", "Rollback plan and fix terms written into the quote"],
         ["Exit", "Backups withheld on cancellation", "Logins and backups already yours"],
       ],
     },
@@ -452,7 +452,7 @@ const content: FreelanceContent = {
       ["Onboarding check and quote", "We review versions, plugins, theme, hosting and backups, then send an itemised maintenance quote in about two working days. Nothing is billed until you approve it in writing."],
       ["Accounts in your name", "You add us as named users on WordPress and hosting, and set up backup storage in your own cloud account. No shared passwords and no transfer of ownership."],
       ["First catch-up round", "A full offsite backup, then stepwise updates on staging, conflict fixes, hardening settings and access clean-up. This first round is usually the heaviest of the year."],
-      ["Monthly routine starts", "Weekly scans and backup checks, a monthly staging update round with page and form tests, and same-day patches when an urgent security release lands."],
+      ["Monthly routine starts", "Weekly scans and backup checks, a monthly staging update round with page and form tests, and prompt patches when an urgent security release lands."],
       ["Change log every month", "You receive a written log listing versions updated, fixes made, tests run and edits done, with anything held back explained, plus quarterly restore-drill results."],
     ],
   },
@@ -463,7 +463,7 @@ const content: FreelanceContent = {
     { question: "How often should a WordPress site be updated?", answer: "Security releases for plugins with known exploited flaws should be applied the same day. Everything else works well as a monthly round, tested on staging first. Minor WordPress core releases already install automatically by default, so the monthly round focuses on plugins, themes and major core versions, which are where most conflicts come from." },
     { question: "Is WordPress maintenance really necessary for a small site?", answer: "Yes, though a small site needs less of it. Even a ten-page site runs plugins that publish security fixes, needs backups stored somewhere safe and depends on an SSL certificate and domain renewal. Skipping maintenance usually works for a while, then ends in a hack or a broken site after the host forces a PHP upgrade." },
     { question: "Can I just turn on WordPress auto-updates instead?", answer: "Auto-updates reduce the risk of running old code, but they apply changes to your live site without anyone checking the result. On a simple blog that may be acceptable. On a business site or store, a plugin conflict can break forms or checkout for days before anyone notices. Staging-tested updates give you the security benefit without that blind spot." },
-    { question: "What happens if an update breaks my site?", answer: "On our plans, updates are tried on staging first, so most breakage never reaches live. If something does slip through, we roll back that update from the pre-update backup and fix the conflict as part of the round. Problems caused by new features you asked for, or by other people editing the site, are discussed and quoted separately." },
+    { question: "What happens if an update breaks my site?", answer: "On our plans, updates are tried on staging first, so most breakage never reaches live. If something does slip through, we roll back that update from the pre-update backup so the live site works again, then sort out the conflict on staging. How that fix work is covered is written into your quote, and problems caused by new features or other people editing the site are quoted separately." },
     { question: "Where are my WordPress backups stored?", answer: "In cloud storage outside your hosting account, set up in an account your business owns. That way a hacked or suspended hosting account does not take your backups with it. Backups include both the database and the files, are kept for several weeks, and one is restored onto a test location each quarter to prove it works." },
     { question: "Do WordPress maintenance services include malware removal?", answer: "Prevention and scanning are included: hardening, updates, scans and access reviews. If a scan finds an infection, the clean-up is quoted separately because the effort ranges from an hour to several days depending on how deep the malware goes. After a clean-up, the site returns to the normal maintenance routine with tighter settings." },
     { question: "Will maintenance make my WordPress site faster?", answer: "Routine maintenance stops a site getting slower: database clean-ups, removing unused plugins, keeping caching and image settings correct and watching Core Web Vitals. If the site is already slow because of a heavy theme or page builder, a separate speed optimisation job is the better fix, and maintenance then keeps it fast." },
@@ -474,7 +474,7 @@ const content: FreelanceContent = {
     { question: "What does the monthly maintenance report contain?", answer: "A plain written log: which core, plugin and theme versions were updated, anything held back and why, fixes made, scan results, backup status, uptime incidents, content edits done and any recommendations. Quarterly logs add the restore-drill result, the admin user review and the PHP version status. No vanity scores, just what changed." },
     { question: "How do you handle PHP version upgrades?", answer: "We check plugin and theme compatibility on staging, patch or replace whatever fails, then switch the live site at a quiet hour with a fresh backup ready. WordPress.org currently recommends PHP 8.3 or newer. Planning the move ourselves avoids the host switching you over on its own schedule and breaking an older plugin." },
     { question: "Is there a contract or notice period?", answer: "The scope, monthly figure and what happens if either side wants to stop are written into your quote before any billing starts. We do not add terms beyond what that quote and our published terms page say. Because every account and backup is already yours, leaving never involves a handover fight." },
-    { question: "Do you offer 24x7 WordPress support?", answer: "We reply on WhatsApp seven days a week during IST working hours, and monitoring alerts reach us around the clock. We do not run a staffed night shift, so if you need a guaranteed human response within minutes at any hour, a large managed hosting provider is the better choice. For most business sites, same-day response covers real risk." },
+    { question: "Do you offer 24x7 WordPress support?", answer: "We reply on WhatsApp seven days a week during IST working hours, and monitoring alerts reach us around the clock. We do not run a staffed night shift, so if you need a guaranteed human response within minutes at any hour, a large managed hosting provider is the better choice. For most business sites, a same-day reply during working hours covers the real risk." },
     { question: "Can you maintain a WordPress site for a business outside India?", answer: `Yes. The routine is identical and fully remote, with update rounds timed to your quiet hours. International plans are quoted in USD from ${P.careUsd} and paid by Wise, bank wire or PayPal. Clients in India pay by UPI or bank transfer. Language on calls is English or Hindi.` },
     { question: "Does WordPress maintenance help with Google rankings?", answer: "Indirectly. Maintenance keeps the site fast, secure, reachable and free of injected spam, which protects the rankings you already have. It does not create new content or earn links, so it will not push rankings up by itself. For active growth, monthly SEO is a separate plan, and the two work well together." },
     { question: "WordPress site ki maintenance kaun karega aur kitna lagega?", answer: `Hum teen freelance developers aapki WordPress site ke plugins aur theme ko pehle staging copy par update karte hain, backup server se bahar rakhte hain, security scan aur uptime check karte hain, aur har mahine likhit report bhejte hain. Plans ${P.care} se shuru hote hain; final quote site dekh kar lagbhag do working days mein aata hai.` },

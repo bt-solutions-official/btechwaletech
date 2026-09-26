@@ -1,0 +1,470 @@
+import { usd } from "@data/countries/international";
+import type { FreelanceContent } from "@data/freelance/types";
+
+const P = {
+  site: usd("Static"), seoSite: usd("SEO website"), shop: usd("Ecommerce"), app: usd("Android"),
+  software: usd("Custom web app"), ai: usd("AI automation"), seo: usd("Monthly SEO"), care: usd("Maintenance"),
+};
+
+const ASA_RULING = `<a href='https://www.asa.org.uk/rulings/glowery-ltd-a22-1169867-glowery-ltd.html' rel='noopener'>ASA ruling on Glowery Ltd (Glowday)</a>`;
+const DHSC_LICENSING = `<a href='https://www.gov.uk/government/consultations/licensing-of-non-surgical-cosmetic-procedures' rel='noopener'>DHSC licensing consultation on GOV.UK</a>`;
+const ICO_SPECIAL = `<a href='https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/lawful-basis/special-category-data/what-is-special-category-data/' rel='noopener'>ICO guidance on special category data</a>`;
+
+const content: FreelanceContent = {
+  path: "/uk/aesthetics-clinic-website-design/",
+  crumb: "Aesthetics clinic website design",
+  updated: "2026-09-25",
+  meta: {
+    title: `Aesthetics Clinic Website Design: Owned, from ${P.site}`,
+    description: `Aesthetics clinic website design for UK clinics: consultation-led treatment pages, deposits, consented before/after galleries. Sites from ${P.site}.`,
+    keywords: [
+      "aesthetics clinic website design", "aesthetic clinic website design uk", "aesthetics website design", "website for aesthetics clinic",
+      "skin clinic website design", "cosmetic clinic website design", "aesthetics practitioner website", "medical aesthetics website",
+      "can i advertise botox on my website uk", "botox advertising rules uk", "cap code 12.12 prescription only medicines",
+      "aesthetics clinic website cost", "how much does an aesthetics website cost", "aesthetics clinic booking with deposit",
+      "before and after photos aesthetics website consent", "aesthetics clinic seo", "aesthetics clinic near me website",
+      "nurse prescriber aesthetics website", "non-surgical cosmetic licensing england website", "dermal filler clinic website",
+      "aesthetics clinic website london", "aesthetics clinic website manchester", "aesthetics clinic website leeds",
+      "aesthetics clinic website glasgow", "aesthetics clinic website bristol", "aesthetics web designer uk",
+    ],
+  },
+  hero: {
+    eyebrow: "For UK aesthetics, skin and injectables clinics",
+    h1: "Aesthetics clinic website design that fills the consultation diary without breaking advertising rules",
+    lede: `Aesthetics clinic website design in the UK starts with a rule most generic designers miss: botulinum toxin is a prescription-only medicine, and the CAP Code says it must not be advertised to the public. BtechWaleTech is three freelance developers working remotely from India who build clinic sites around <strong>consultations and concerns</strong> rather than named medicines, with deposit-backed booking, consented before/after galleries and practitioner profiles that show who prescribes. Builds start at ${P.site}, and the clinic owns every login. Offering broader medical care too? Compare our <a href='/uk/private-clinic-website-design/'>private clinic website design</a> guide.`,
+    pills: ["Consultation-led treatment pages", "Deposits taken at booking", "Consent logged for every photo", "Prescriber shown on each profile", "No countdown-timer pressure", "Clinic owns domain and code", `From ${P.site}`],
+    origin: "Three freelance developers in India · WhatsApp replies 7 days a week, including between your evening clinics",
+  },
+  facts: [
+    ["Clinic website from", P.site],
+    ["Typical build", "1–2 weeks after photos and practitioner details arrive"],
+    ["Large treatment library", `From ${P.seoSite} for 299+ pages`],
+    ["Custom consultation portal", `From ${P.software}`],
+    ["Aftercare included", "5 months of free maintenance"],
+    ["Itemised quote", "About 2 working days"],
+  ],
+  stats: [
+    { value: "3", label: "Freelance developers: build, search visibility and project management" },
+    { value: "2", label: "Working days to an itemised written quote" },
+    { value: "5", label: "Months of free fixes and small edits after launch" },
+    { value: "0", label: "Commission taken on the bookings your site brings in" },
+  ],
+  answer: {
+    heading: "What should aesthetics clinic website design include in the UK?",
+    text: `Aesthetics clinic website design should sell the consultation, not the prescription medicine: concern-led treatment pages, a booking flow with a deposit and medical questionnaire, before/after photos used only with written consent, and profiles naming each practitioner's professional register. Under CAP Code rule 12.12, botulinum toxin cannot be advertised to the public. BtechWaleTech builds owned clinic sites from ${P.site}.`,
+    more: `Want the booking engine built to your own rules? See <a href='/uk/booking-system-development/'>custom booking system development</a>, or pair the site with <a href='/uk/local-seo-services/'>local SEO for your town</a>.`,
+  },
+  snapshot: {
+    caption: "Aesthetics clinic website design at a glance",
+    rows: [
+      { label: "Advertising rule to design around", value: "CAP Code 12.12: no promoting prescription-only medicines to the public" },
+      { label: "What the pages sell", value: "A consultation for a concern (lines, volume loss, skin texture), not a named medicine" },
+      { label: "Booking", value: "Consultation slot, medical questionnaire, deposit, reminders" },
+      { label: "Galleries", value: "Only photos with written patient consent, unretouched, with honest captions" },
+      { label: "Trust signals", value: "Practitioner registers (GMC, NMC, GDC, GPhC), insurance, training" },
+      { label: "Coming change in England", value: "Local-authority licensing for practitioners and premises, still being set up" },
+      { label: "Starting price", value: `From ${P.site}; custom portals from ${P.software}` },
+    ],
+  },
+  services: {
+    eyebrow: "What we build for aesthetics clinics",
+    heading: "Pieces of an aesthetics clinic website, quoted separately",
+    note: "Most single-site clinics need the first two cards. Groups and training academies usually add search work and a portal.",
+    cards: [
+      { name: "Consultation-first clinic website", note: `Home, concerns, treatments, practitioners, prices from, aftercare, FAQs and booking, built so the site promotes consultations. From ${P.site}.`, href: "/services/web-development/", size: "lg" },
+      { name: "Deposit and questionnaire booking", note: "Consultation booking that collects a deposit and a pre-appointment medical questionnaire, either through your clinic software or a custom flow.", href: "/uk/booking-system-development/", size: "lg" },
+      { name: "Consent-tracked result galleries", note: "Before/after galleries where each photo set is linked to a consent record, a date and the practitioner who treated the patient.", size: "md" },
+      { name: "Local search for your clinic", note: `Google Business Profile work, concern pages for your town and Search Console checks from ${P.seo}. Nobody can guarantee rankings.`, href: "/uk/local-seo-services/", size: "md" },
+      { name: "Out-of-hours enquiry assistant", note: `A chat or WhatsApp assistant that answers aftercare and booking questions and hands anything medical to your team, from ${P.ai}.`, href: "/uk/ai-chatbot-development/", size: "md" },
+      { name: "Skincare shop add-on", note: `Sell cosmetic skincare (not medicines) with card and wallet checkout, from ${P.shop} for a full shop.`, href: "/uk/ecommerce-website-design/", size: "md" },
+      { name: "Cookie and consent setup", note: "Analytics and ad pixels held back until a visitor agrees, as PECR requires for non-essential cookies.", href: "/uk/gdpr-cookie-banner-setup/", size: "sm" },
+      { name: "Ongoing care", note: `Updates, backups and new treatment pages from ${P.care} once the free months end.`, href: "/uk/wordpress-maintenance-services/", size: "sm" },
+    ],
+  },
+  comparison: {
+    heading: "Three ways UK aesthetics clinics get a website",
+    note: "Clinics usually weigh a specialist aesthetics marketer, a profile page on a booking marketplace, and an independent build they own.",
+    columns: ["What matters", "Aesthetics marketing specialist", "Marketplace profile page", "BtechWaleTech build"],
+    rows: [
+      ["How you pay", "Build fee, often with a monthly retainer", "Subscription plus commission on some bookings", `One-off build from ${P.site}; hosting paid by you`],
+      ["Handling of the POM rule", "Usually experienced with it", "Listing wording is yours to police", "Pages planned around consultations; your adviser signs off copy"],
+      ["Before/after photos", "Often managed for you", "Upload into their gallery format", "Gallery tied to consent records you keep"],
+      ["Deposits", "Depends on booking tool chosen", "Built into the platform", "Through your clinic software or a custom flow"],
+      ["Search visibility for your own brand", "Strong if they do SEO", "Traffic mostly goes to the marketplace", "Your domain builds the authority"],
+      ["Paid social and influencer work", "Commonly offered", "Not included", "Not offered; search and site only"],
+      ["Photography and filming", "Can come on site", "You supply", "You supply; we are remote"],
+      ["Ownership if you leave", "Read the contract closely", "Profile stays on the platform", "Domain, code and hosting stay with the clinic"],
+      ["Language", "English", "English", "English copy; Hindi for our own calls if useful"],
+    ],
+    fine: "If you want someone to shoot content in your treatment room every month and run paid social campaigns, a UK aesthetics marketing specialist will suit you better than a remote build team.",
+  },
+  pricing: {
+    heading: "What aesthetics clinic website design costs with us",
+    note: `A single-location aesthetics clinic site of up to 100 pages starts at ${P.site}: concern and treatment pages, practitioner profiles, a consented gallery, aftercare guides, a prices-from page and booking links into your clinic software. Clinics that want a large library of concern pages for several towns start at ${P.seoSite}. A custom consultation portal with questionnaires, photo upload and deposit logic starts at ${P.software}. Monthly search work starts at ${P.seo}, and care plans start at ${P.care} after five free months. All figures are starting prices; your quote is itemised after we see your treatment list.`,
+  },
+  guideLabel: "Aesthetics clinic website design guide",
+  guide: [
+    {
+      id: "what-it-is",
+      heading: "What is aesthetics clinic website design, and why is it not the same as a salon site?",
+      paragraphs: [
+        `Aesthetics clinic website design is the planning and build of a site for a clinic offering injectables, skin treatments and other non-surgical cosmetic work, shaped around the advertising rules that apply to medicines and the trust a first-time patient needs before booking. It looks like a beauty website from the outside. Underneath it has a different job.`,
+        `A hair or nail salon can show a price list and a “book now” button for every service. An aesthetics clinic cannot treat anti-wrinkle work the same way, because the product behind it is a prescription-only medicine (POM). The site also collects medical history, handles photos of real faces and names prescribers whose registration a patient may check. None of that appears on a typical salon build, which is why we plan aesthetics sites separately from our <a href='/uk/salon-website-with-booking/'>salon website with booking</a> work.`,
+        `In practice, aesthetics clinic website design changes the structure. Instead of a menu of medicines, the navigation is organised by the concern a patient types into Google: frown lines, tired eyes, lip shape, pigmentation, acne scarring, skin laxity. Each concern page explains the options discussed in consultation, who assesses suitability, downtime, risks and what happens next. The call to action is a consultation, and the deposit is taken for that consultation.`,
+      ],
+      list: [
+        "Concern-led navigation rather than a list of branded products",
+        "Consultation booking with a questionnaire before the appointment",
+        "Practitioner profiles with the register each person belongs to",
+        "Photos used only with written consent, stored with that consent",
+      ],
+    },
+    {
+      id: "can-you-mention-botox",
+      heading: "Can an aesthetics clinic website mention Botox?",
+      paragraphs: [
+        `Not in a way that promotes it. Botox is a brand of botulinum toxin, a prescription-only medicine, and CAP Code rule 12.12 says prescription-only medicines must not be advertised to the public. The ASA treats a clinic's own website and social media posts as advertising for this purpose.`,
+        `The clearest recent illustration is the ${ASA_RULING}. A “Best Botox in London” web page with booking links and before/after photos was found to promote a POM, and the ruling noted that a line about needing a consultation first was not enough to stop the page promoting the medicine. A separate ruling against Secret Surgery Ltd upheld complaints about Instagram and Facebook posts that invited people to book Botox and pushed urgency with talk of a national shortage.`,
+        `So the aesthetics clinic website design question is not “which word do we use instead?” It is “what is this page selling?” A compliant-minded page sells an assessment by a prescriber who decides whether any treatment, and which one, is suitable. Swapping the brand name for a nickname or a clever spelling does not change what a page is promoting, and we will not build pages designed to dodge the rule.`,
+      ],
+      after: [
+        `We are developers, not compliance advisers. We structure pages and templates so your copy can stay within the rules, and your own compliance adviser or solicitor approves the wording before launch.`,
+      ],
+    },
+    {
+      id: "treatment-pages",
+      heading: "How to structure treatment pages on an aesthetics clinic website",
+      paragraphs: [
+        `Good aesthetics clinic website design starts from the concern, explains the consultation, then describes the range of approaches a practitioner might discuss, with honest downtime, risk and aftercare notes. That order keeps the page useful for search and keeps the consultation, not a medicine, at the centre.`,
+        `A good concern page for, say, “frown lines” answers the questions patients actually search: what causes the lines, what a consultation involves, who carries it out, how suitability is assessed, what non-prescription options exist (skincare, peels, microneedling where relevant), recovery time, and how to book. Treatments that are not medicines, such as dermal fillers regulated as devices or skin peels, can be described in more detail, but every claim about results still needs evidence behind it.`,
+      ],
+      subs: [
+        { heading: "Headings that match searches", text: `Question headings such as “How long does recovery take after skin boosters?” win featured snippets and AI answers better than slogans. Each one opens with a direct two-sentence answer.` },
+        { heading: "Prices from, not offers", text: `A “consultations from” or “skin treatments from” price is useful. Price promotions on a prescription treatment, bundles or “first session half price” offers are where clinics tend to get into trouble.` },
+        { heading: "Risk and aftercare in plain English", text: `Bruising, swelling, rare complications and what to do out of hours should sit on the page, not only in the consent form. Patients trust clinics that say this up front.` },
+        { heading: "One practitioner reviews every page", text: `We build a simple approval step: each treatment page shows the reviewer's name and the date it was last checked, which also supports E-E-A-T.` },
+      ],
+    },
+    {
+      id: "consultation-booking",
+      heading: "Consultation booking with deposits: how should it work on an aesthetics clinic website?",
+      paragraphs: [
+        `The booking flow should reserve a consultation, collect a deposit to reduce no-shows, send a medical questionnaire before the visit and leave time for the patient to think after the assessment. It should never rush someone into a same-day injectable decision.`,
+        `Most clinics already use clinic software with online booking and card deposits. Where that software offers an embeddable booking page, we link or embed it so your diary stays the single source of truth. Where it does not, or where you want questionnaire logic the software cannot do, a custom flow starts at ${P.software} and writes back into your diary through whatever integration the software supports.`,
+        `The Secret Surgery ruling is a useful warning for aesthetics clinic website design at the booking stage too. Countdown timers, “only two slots left this week” banners and shortage messages create exactly the pressure the ASA objected to. We leave them out. Reminder messages should confirm details and aftercare, not upsell.`,
+      ],
+      list: [
+        "Step 1: choose a concern and a practitioner or ‘first available’",
+        "Step 2: pick a consultation slot from your live diary",
+        "Step 3: pay the consultation deposit by card or wallet",
+        "Step 4: receive the medical questionnaire and pre-visit guidance",
+        "Step 5: reminder 48 hours before, with rebooking and cancellation terms linked",
+      ],
+      after: [
+        `Your deposit and cancellation terms are your policy, drafted with your adviser. We display them clearly at the payment step so nobody can say they were hidden.`,
+      ],
+    },
+    {
+      id: "before-after",
+      heading: "Are before and after photos allowed on an aesthetics clinic website?",
+      paragraphs: [
+        `Before/after photos can be used for treatments that may be advertised, provided the patient has given written consent, the images are genuine and unretouched, and the page does not promote a prescription-only medicine. Pairing injectable results with booking links was part of what went wrong in the Glowday case.`,
+        `The build side is where most aesthetics clinic website design falls short. Photos arrive by phone, sit in a shared folder and nobody can later prove who agreed to what. We build the gallery so every photo set has a consent reference, the date consent was given, the practitioner, the treatment category and an expiry or review date. If a patient withdraws consent, you remove one record and every page using those photos updates.`,
+        `Honest presentation matters as much as consent. Same lighting, same angle, same distance, no filters, and a caption stating the time between photos and that results vary. A gallery page can also carry a short note explaining how photos are chosen, which helps patients and reviewers alike.`,
+      ],
+      subs: [
+        { heading: "Where photos should not appear", text: "Next to any mention of a prescription medicine, on promotional banners, or in paid social posts that invite booking for a POM." },
+        { heading: "Storage", text: "Full-resolution originals and signed consent forms stay in your clinical system, not the website. The site holds web-sized copies only." },
+      ],
+    },
+    {
+      id: "practitioner-profiles",
+      heading: "How should an aesthetics clinic website show practitioner qualifications?",
+      paragraphs: [
+        `Each profile should say what the practitioner is (doctor, dentist, nurse, pharmacist or non-medical aesthetician), which professional register they are on, their registration number where they hold one, and what they do at the clinic. Patients should be able to see at a glance who assesses and prescribes.`,
+        `Doctors appear on the General Medical Council register, which the GMC invites the public to use to check a doctor's registration status. Nurses are on the NMC register, dentists on the GDC register and pharmacists on the GPhC register. In aesthetics clinic website design, linking each profile to the relevant public register lookup is a small detail that answers a big question for a nervous first-time patient.`,
+        `Where your model uses a prescriber who assesses and a trained practitioner who treats, say so plainly. Hiding that split does more damage when a patient discovers it later than stating it clearly now. The same goes for training certificates and insurance: a short, factual list beats a wall of logos.`,
+      ],
+      list: [
+        "Full name, profession and professional register",
+        "Registration number with a link to the public register",
+        "Prescriber or non-prescriber role at this clinic",
+        "Relevant training and years in aesthetics, if they want to state them",
+        "Treatments they personally carry out",
+      ],
+    },
+    {
+      id: "licensing-england",
+      heading: "Preparing your aesthetics clinic website for England's licensing scheme",
+      paragraphs: [
+        `England is moving towards licensing for non-surgical cosmetic procedures, so build your website now so licence details can be added in minutes when the scheme arrives. Nobody should claim to hold a licence that does not exist yet.`,
+        `The Health and Care Act 2022 gave the government powers to introduce a licensing scheme. The ${DHSC_LICENSING} describes practitioner and premises licensing run by local authorities, procedures grouped by risk, restriction of the highest-risk procedures to specified healthcare professionals and age restrictions. The government's response makes clear the detail still needs secondary legislation, so check GOV.UK for the current position before you plan copy around it.`,
+        `On the website, that means building practitioner and location templates with empty fields for a licence number, issuing council and expiry date, hidden until used. When the rules take effect you fill them in, and nothing needs redesigning. We also keep the “about the clinic” page flexible enough to explain which treatments are carried out by which healthcare professional, since risk tiers may depend on it.`,
+      ],
+      after: [
+        `Scotland, Wales and Northern Ireland have their own arrangements. If you run clinics in more than one nation, tell us and we will keep the location templates separate.`,
+      ],
+    },
+    {
+      id: "health-data",
+      heading: "Medical questionnaires and UK GDPR on an aesthetics clinic website",
+      paragraphs: [
+        `A pre-consultation questionnaire collects health data, which UK GDPR treats as special category data needing extra protection and an additional condition for processing. The website should collect only what the consultation needs and send it somewhere secure, not to a general inbox.`,
+        `The ${ICO_SPECIAL} defines data concerning health broadly, and it includes appointment details that reveal something about a person's health. For a clinic website that covers the questionnaire, photo uploads for a remote pre-assessment and even some enquiry forms.`,
+        `On our side the build supports your obligations: forms served over HTTPS, answers passed straight to your clinic software or an encrypted store rather than emailed in plain text, access limited to named staff, retention periods you set, and no analytics tags on the questionnaire pages. Deciding your lawful basis, writing your privacy notice and judging whether a DPIA is needed stays with you and your adviser. We never describe our work as making you compliant.`,
+      ],
+    },
+    {
+      id: "cost",
+      heading: "How much does aesthetics clinic website design cost?",
+      paragraphs: [
+        `With us, an aesthetics clinic website starts at ${P.site} for up to 100 pages, and larger multi-location builds start at ${P.seoSite}. What moves the figure for aesthetics clinic website design is the number of concern pages, how booking connects to your clinic software, and how much of the gallery and consent handling is custom.`,
+        `UK quotes for aesthetics clinic website design vary widely because they bundle different things. Some include photography, social content or a marketing retainer. Some are template sites rented monthly. Some include custom booking. Before you compare numbers, compare scope line by line using the table further down this page.`,
+      ],
+      list: [
+        "Number of concern and treatment pages, and who writes them",
+        "Booking: link to your software, embedded widget or custom flow",
+        "Gallery: simple image grid or consent-tracked library",
+        "Locations: one clinic or several, each with its own practitioners",
+        "Extras: skincare shop, e-gift vouchers, patient portal, chat assistant",
+      ],
+      after: [
+        `You pay your hosting, domain and clinic software directly, so there is no hidden mark-up. See <a href='/uk/website-design-cost/'>how much a website costs in the UK</a> for the running costs every site carries.`,
+      ],
+    },
+    {
+      id: "choosing-designer",
+      heading: "Choosing a web designer for an aesthetics clinic: questions to ask",
+      paragraphs: [
+        `Ask any designer how they handle the prescription-only medicine rule, who owns the site afterwards, and how photo consent is tracked. Vague answers to those three questions tell you most of what you need to know.`,
+        `Aesthetics clinic website design is a small world with a lot of recycled templates. A template built for one clinic's treatment list can carry old wording that was never checked. Ask to see how a treatment page is structured, not just a pretty homepage.`,
+      ],
+      list: [
+        "Will pages be planned around consultations and concerns?",
+        "Who registers the domain, and in whose name is the hosting?",
+        "How are consent records linked to gallery photos?",
+        "Does the booking flow use my clinic software or replace it?",
+        "Which analytics or ad pixels load before cookie consent?",
+        "What happens to the site if I stop paying a monthly fee?",
+        "Will you promise rankings? (The honest answer is no.)",
+      ],
+      after: [
+        `Red flags: promises of first-page rankings, pages titled with brand names of medicines, countdown banners, and a contract that keeps the domain in the designer's name.`,
+      ],
+    },
+    {
+      id: "tech-choices",
+      heading: "Which platform suits an aesthetics clinic website?",
+      paragraphs: [
+        `For most aesthetics clinic website design projects, a fast WordPress build or a static site with a simple editor, linked to existing clinic software for booking, is the right call. A fully custom web app only makes sense when the consultation process itself needs software, such as remote photo assessment.`,
+        `Hosted builders are quick to start but get awkward once you need consent-linked galleries, per-practitioner templates and pages that load quickly on 4G. WordPress gives you an editor your team already understands, and we keep plugins to a minimum to reduce update risk. A static build with a headless editor is the fastest option and the hardest to break, which suits clinics that change content monthly rather than daily.`,
+      ],
+      subs: [
+        { heading: "Booking", text: "Keep your clinic software as the diary. The site links or embeds its booking page; custom booking only where the software cannot do what you need." },
+        { heading: "Speed", text: "Treatment photos are the heaviest part of the site. We serve modern formats at the right size so pages stay light on mobile." },
+        { heading: "Editing", text: "Your team can add practitioners, update prices-from and publish aftercare notes without a developer." },
+        { heading: "Apps", text: `A patient app rarely pays off for a single clinic. If you have several sites and a loyalty scheme, apps start at ${P.app}.` },
+      ],
+    },
+    {
+      id: "seo-ai",
+      heading: "SEO for aesthetics clinics: local search, trust and AI answers",
+      paragraphs: [
+        `Aesthetics searches are local and trust-driven, which shapes aesthetics clinic website design: people search a concern plus a town, read reviews, then check who the practitioner is. Your site wins by answering concern questions clearly, showing verified practitioners and matching your Google Business Profile exactly.`,
+        `Google treats health-related pages as “your money or your life” content, so experience and credentials visible on the page matter. Named reviewers on treatment pages, practitioner profiles linked from every relevant page and a clear clinic address all help. So do fast pages and clean structured data for your clinic and practitioners.`,
+        `AI assistants such as Google AI Overviews and ChatGPT pick up short, self-contained answers. A concern page that opens with a direct answer, lists recovery times and states who carries out assessment is exactly what gets quoted. Our <a href='/uk/ai-search-optimisation/'>AI search optimisation</a> page covers the technical side.`,
+      ],
+      list: [
+        "One page per concern and town combination you genuinely serve",
+        "Google Business Profile categories and services matching the site",
+        "Review requests after aftercare check-ins, never incentivised",
+        "Search Console monitored monthly for pages losing impressions",
+      ],
+    },
+    {
+      id: "social",
+      heading: "Instagram, TikTok and your aesthetics clinic website",
+      paragraphs: [
+        `In aesthetics clinic website design, treat social media as a route to your website, not a separate rulebook. Posts that invite people to book prescription treatment break the same CAP rule a web page would, as the Secret Surgery ruling shows.`,
+        `A practical setup: social posts talk about skin health, clinic life, practitioner training and concerns; the link in bio goes to a consultation page; the consultation page explains assessment and books a slot. Embedding a live social feed on the website is possible, but we usually recommend a curated gallery instead, because an automatic feed can pull an old post onto your site that nobody has checked.`,
+        `If you run paid ads, keep landing pages separate from organic pages so you can review ad copy and page copy together. We build those landing pages; we do not run the ad accounts.`,
+      ],
+    },
+    {
+      id: "remote-team",
+      heading: "Working with a remote team in India on your aesthetics clinic website",
+      paragraphs: [
+        `For aesthetics clinic website design work, our day overlaps the UK business day from late morning, so a clinic owner can message before morning appointments and usually have an answer by lunch. India is four and a half hours ahead of UK summer time and five and a half hours ahead in winter.`,
+        `Calls run on Google Meet, Zoom or Teams at a time that suits clinic hours, often early afternoon UK time. Quotes are in USD; you can pay in USD or GBP by Wise, bank wire or PayPal, and invoices come from India. Milestones and deliverables are written into the quote you approve before anything is billed, and <a href='/terms/'>our terms</a> sit behind that.`,
+      ],
+      subs: [
+        { heading: "Days 1–3", text: "Kick-off call, treatment and concern list, practitioner details, clinic software access for booking links." },
+        { heading: "Days 4–7", text: "Sitemap, wireframes of the concern page and consultation flow, questionnaire fields agreed with your lead practitioner." },
+        { heading: "Days 8–10", text: "Design and build on a staging link you can open on your phone between patients." },
+        { heading: "Days 11–14", text: "Copy approval by your adviser, consent-linked gallery loaded, launch, Search Console and Business Profile checks." },
+      ],
+      after: [
+        `What we do not do: visit the clinic, photograph patients, give legal advice or run paid social. You own the domain, hosting and code from day one.`,
+      ],
+    },
+    {
+      id: "worked-example",
+      heading: "Worked example: a two-room aesthetics clinic in Harrogate (hypothetical)",
+      paragraphs: [
+        `Say a nurse prescriber runs a two-room clinic in Harrogate with one aesthetician, and wants more consultations from nearby towns without drifting into prescription-medicine advertising. Here is how we would plan it. This is an illustration, not a past client.`,
+        `The sitemap would carry ten concern pages (frown lines, crow's feet, lip shape, under-eye hollows, jawline, pigmentation, acne scarring, skin texture, redness, skin laxity), a consultation page, two practitioner profiles with register links, a prices-from page for consultations and non-prescription treatments, aftercare guides and a consented gallery for skin treatments.`,
+        `Booking would link to the clinic's existing software for a deposit-backed consultation, with a custom questionnaire only if the software's own form was too limited. Town pages for Ripon, Knaresborough and Wetherby would exist only if the clinic genuinely sees patients from those towns. The build would fall within the ${P.site} starting tier, with search work from ${P.seo} if the owner wanted monthly help.`,
+      ],
+    },
+    {
+      id: "checklist",
+      heading: "Aesthetics clinic website design checklist before launch",
+      paragraphs: [
+        `Run through this aesthetics clinic website design checklist with your lead practitioner before the site goes live. Every item is something we have built in, but only you can confirm the clinical and legal facts behind it.`,
+      ],
+      list: [
+        "No page, title, image alt text or URL promotes a prescription-only medicine",
+        "Every treatment and concern page leads to a consultation, not an instant purchase",
+        "Each practitioner profile shows profession, register and number",
+        "Every before/after image has a consent record and a review date",
+        "Deposit and cancellation terms appear at the payment step",
+        "Questionnaire data goes to a secure store, not a shared inbox",
+        "Cookie banner holds back analytics and ad pixels until consent",
+        "Prices shown are ‘from’ prices with no pressure offers on medicines",
+        "Aftercare and out-of-hours contact details are easy to find",
+        "Your compliance adviser has signed off the copy",
+      ],
+      after: [
+        `If you are not sure what an item means for your clinic, ask us on WhatsApp before launch. It costs nothing to check.`,
+      ],
+    },
+  ],
+  tables: [
+    {
+      id: "cost-by-scope",
+      eyebrow: "Budget",
+      heading: "Aesthetics clinic website cost by scope",
+      note: "Starting prices; your itemised quote depends on page count, booking set-up and gallery handling.",
+      columns: ["Clinic set-up", "What the site includes", "Starts at", "Typical time"],
+      rows: [
+        ["Solo practitioner", "Concern pages, one profile, consultation booking link, aftercare", P.site, "1–2 weeks"],
+        ["Two to four practitioners", "Profiles with register links, consented gallery, prices-from page", P.site, "2 weeks"],
+        ["Clinic with skincare shop", "Clinic site plus online shop for cosmetic skincare", P.shop, "4–8 weeks"],
+        ["Multi-site group", "Location templates, town pages, 299+ pages of concern content", P.seoSite, "3–5 weeks"],
+        ["Custom consultation portal", "Questionnaires, photo upload, deposit rules, practitioner review", P.software, "6–12 weeks"],
+        ["Enquiry assistant", "Chat or WhatsApp answers for aftercare and booking, with human handoff", P.ai, "2–4 weeks"],
+      ],
+    },
+    {
+      id: "page-approach",
+      eyebrow: "Wording",
+      heading: "Higher-risk page patterns and the approach we build instead",
+      note: `Based on the ASA rulings cited above; your compliance adviser makes the final call on your wording.`,
+      columns: ["Higher-risk pattern", "Why it causes trouble", "Approach we build instead"],
+      rows: [
+        ["Page titled with a medicine brand and a town", "Promotes a POM to the public", "Page titled with the concern and the consultation"],
+        ["Book-now button beside injectable results", "Links booking directly to a POM", "Button books a consultation; results shown only for advertisable treatments"],
+        ["‘Consultation required’ line on a medicine page", "The ASA found a disclaimer is not enough", "The consultation is the product the page sells"],
+        ["Countdown timer or shortage banner", "Pressure on an invasive decision", "Calm reminders and time to think after assessment"],
+        ["Discount on a prescription treatment", "Promotes the medicine through price", "Prices-from for consultations and non-prescription treatments"],
+        ["Auto-embedded social feed", "Old unchecked posts appear on the site", "Curated gallery reviewed before publishing"],
+      ],
+      hideSm: [1],
+    },
+    {
+      id: "launch-checks",
+      eyebrow: "Sign-off",
+      heading: "Who checks what before your aesthetics site launches",
+      note: "Shared responsibilities. We build and test; you and your advisers approve clinical and legal content.",
+      columns: ["Item", "Built or tested by us", "Approved by the clinic"],
+      rows: [
+        ["Treatment and concern copy", "Structure, headings, internal links", "Lead practitioner and compliance adviser"],
+        ["Practitioner profiles", "Template and register links", "Each practitioner checks their own entry"],
+        ["Before/after gallery", "Consent fields, image sizing, captions", "Consent forms and photo selection"],
+        ["Booking and deposits", "Links, embeds or custom flow, test payments", "Deposit and cancellation policy"],
+        ["Questionnaire", "Secure form, restricted access, retention setting", "Questions asked and lawful basis"],
+        ["Cookies and analytics", "Consent banner, tags held until consent", "Privacy and cookie notice text"],
+        ["Search set-up", "Search Console, sitemap, structured data", "Business Profile ownership and reviews"],
+      ],
+    },
+  ],
+  areas: {
+    eyebrow: "Clinics around the UK",
+    heading: "Aesthetics clinic website design for clinics across the UK",
+    note: "We work remotely with clinics in every part of the UK. How location shapes the site differs from town to town.",
+    cards: [
+      { name: "London", note: "Clinics around Harley Street, Chelsea and Shoreditch compete hard for the same concern searches, so fast concern pages and clear prescriber details help a patient choose between many options." },
+      { name: "Manchester", note: "Clinics across Manchester and Salford see patients comparing several providers online first, so honest prices-from pages and genuine consented galleries do a lot of persuading before any call." },
+      { name: "Birmingham", note: "Birmingham clinics serving the wider West Midlands benefit from town pages for Solihull and Sutton Coldfield, but only where patients genuinely travel in from those places." },
+      { name: "Leeds", note: "Leeds city centre clinics and suburban practices in Headingley or Roundhay need distinct Google Business Profiles and location pages so patients land on the right diary." },
+      { name: "Glasgow", note: "Scottish clinics follow their own regulatory arrangements, so we keep location templates separate from English sites and let owners describe the Scottish position in their own words." },
+      { name: "Edinburgh", note: "Edinburgh skin clinics with medical-led teams often want doctor and nurse profiles at the front of the site, with register links next to each name." },
+      { name: "Bristol", note: "Bristol clinics often combine injectables with skin health and wellness, so concern pages need to explain which options are prescription-led and which are not." },
+      { name: "Cardiff", note: "Welsh clinics may need location wording that fits Welsh rules as they develop, so we build licence and registration fields that can differ by nation." },
+      { name: "Liverpool", note: "Busy aesthetics scenes in Liverpool and the Wirral reward sites that stay calm and credible, without the urgency tactics the ASA has criticised in social posts." },
+      { name: "Newcastle", note: "Newcastle clinics drawing patients from across the North East need clear directions, parking notes and consultation booking that works well on a phone." },
+      { name: "Brighton", note: "Brighton and Hove clinics with a skincare retail side can add a small shop for cosmetic products while keeping clinic booking separate and consultation-led." },
+      { name: "Harrogate", note: "Affluent spa towns like Harrogate support premium clinics where detailed practitioner profiles and aftercare guides matter more than long lists of treatments." },
+      { name: "Belfast", note: "Northern Ireland clinics sit under their own arrangements, so we keep registration and licence wording configurable per location rather than copying English text." },
+      { name: "Nottingham", note: "Nottingham clinics near the universities often see first-time patients, so plain-English consultation pages and clear age policies are especially useful." },
+    ],
+  },
+  process: {
+    heading: "How an aesthetics clinic website gets built with us",
+    steps: [
+      ["Treatment and concern audit", "We list every treatment you offer, split prescription-led from non-prescription work and map each to the concerns patients search for, so the sitemap is right before any design starts."],
+      ["Quote and page plan", "Within about two working days you receive an itemised quote, a sitemap and a note of anything that needs your compliance adviser's view. Nothing is billed until you approve it in writing."],
+      ["Booking and questionnaire design", "We agree how consultations are booked, what deposit applies, which questionnaire fields are genuinely needed and where the answers are stored securely."],
+      ["Design on staging", "You review concern pages, profiles and the gallery on a private staging link from your phone, and request changes in one shared list rather than scattered messages."],
+      ["Copy sign-off and launch", "Your adviser approves wording, we load consented photos, connect Search Console and your Business Profile, test deposits and publish on your own hosting."],
+      ["Five months of support", "Fixes, small edits and new practitioner profiles are covered for five months after launch. After that, care plans start at a price you see in advance."],
+    ],
+  },
+  faqHeading: "Aesthetics clinic website design: questions clinic owners ask",
+  faqs: [
+    { question: "Can I put Botox on my clinic website?", answer: "Not as a promotion. Botox is a brand of botulinum toxin, a prescription-only medicine, and CAP Code rule 12.12 says such medicines must not be advertised to the public. The ASA has upheld complaints against clinic web pages and social posts that invited people to book it. Build pages around a consultation for a concern instead, and have your compliance adviser approve the wording." },
+    { question: "How much does aesthetics clinic website design cost?", answer: `With BtechWaleTech an aesthetics clinic website starts at ${P.site} for up to 100 pages, typically built in one to two weeks. Multi-location sites with large concern libraries start at ${P.seoSite}, and custom consultation portals start at ${P.software}. These are starting prices; the written quote itemises pages, booking and gallery work after we see your treatment list.` },
+    { question: "Is adding ‘consultation required’ enough to advertise injectables?", answer: "No. In its ruling on Glowday's web page, the ASA said a statement about needing a consultation did not stop the page promoting a prescription-only medicine. The safer structure is a page whose product is the consultation itself, where a prescriber assesses the concern and decides whether any treatment is suitable. Your compliance adviser should confirm the final wording." },
+    { question: "Can I show before and after photos?", answer: "Yes, for treatments that may be advertised, with the patient's written consent, genuine unretouched images and honest captions. Avoid placing injectable results beside booking links or on pages that promote a prescription medicine. We build galleries where each photo set is tied to a consent reference and review date, so withdrawn consent can be honoured quickly." },
+    { question: "Can patients pay a deposit when booking online?", answer: "Yes. Most clinic software supports card deposits at booking, and we link or embed that booking page so your diary stays accurate. Where your software cannot handle the questionnaire or deposit rules you want, we can build a custom flow. Your deposit and cancellation terms are your own policy; we display them clearly at the payment step." },
+    { question: "How long does an aesthetics clinic website take?", answer: "Aesthetics clinic website design for a single-clinic site of up to 100 pages usually takes one to two weeks once we have practitioner details, treatment information and photos. Most delays come from copy approval, so we suggest your compliance adviser reviews the concern-page template early. Larger multi-location builds take three to five weeks, and custom portals six to twelve weeks." },
+    { question: "What qualifications should practitioner profiles show?", answer: "Show each person's profession, their professional register and registration number, and whether they prescribe or treat. Doctors are on the GMC register, nurses on the NMC register, dentists on the GDC register and pharmacists on the GPhC register. Linking to the public register lookup lets a patient check for themselves, which builds trust quickly." },
+    { question: "What is England's licensing scheme for cosmetic procedures?", answer: "Using powers in the Health and Care Act 2022, the government has consulted on a licensing scheme for non-surgical cosmetic procedures in England, with licences for practitioners and premises run by local authorities and the highest-risk procedures limited to specified healthcare professionals. Detail still depends on secondary legislation, so check GOV.UK. We build empty licence fields ready for when it applies." },
+    { question: "Does my clinic website need a cookie banner?", answer: "If the site uses non-essential cookies such as analytics or advertising pixels, PECR requires consent before they are set, and the ICO says continuing to browse is not valid consent. We build a banner that keeps those tags off until a visitor agrees, with equal accept and reject choices. Your privacy and cookie notice wording is yours to approve." },
+    { question: "Is a medical questionnaire on my website safe under UK GDPR?", answer: "Health information is special category data under UK GDPR, so it needs extra protection and an additional condition for processing. We build questionnaires that send answers to your clinic software or an encrypted store rather than an inbox, restrict access to named staff and keep analytics off those pages. Your lawful basis and privacy notice are decided with your adviser." },
+    { question: "Should I use a freelancer, a small team or an aesthetics marketing agency?", answer: "For aesthetics clinic website design, an aesthetics marketing specialist suits clinics wanting photography, social content and paid ads handled for them. A single freelancer can be cheaper but leaves you exposed if they become unavailable. A small team like ours covers design, booking integration and search work, with three people who can pick up each other's work, at a lower starting price." },
+    { question: "Can a remote team in India handle UK aesthetics clinic website design?", answer: "Yes, for the build, booking integration and search set-up. We work from rules you and your advisers confirm, such as the CAP Code and UK GDPR, and review every page against a checklist. What we cannot do is visit the clinic, photograph patients or give legal advice, so you supply photos and have your adviser approve copy." },
+    { question: "Who owns the site after aesthetics clinic website design is finished?", answer: "You do. The domain is registered in your name, hosting sits in your account, and the code and content are yours. We work with access you grant and hand over every login at launch. If you later move to another developer, nothing needs to be negotiated or bought back from us." },
+    { question: "Can you guarantee my clinic will rank first on Google?", answer: `No, and nobody honestly can. What we can do is build fast concern pages that answer real searches, show verified practitioners, align your Google Business Profile with the site and track progress in Search Console. Monthly search work starts at ${P.seo} if you want continued help after launch.` },
+    { question: "How do I get my clinic into Google AI Overviews and ChatGPT answers?", answer: "AI answers tend to quote short, self-contained passages from trustworthy pages. Concern pages that open with a direct answer, list recovery times and risks plainly, and show who assesses patients give AI systems something clean to cite. Consistent clinic details across your site, Business Profile and directories help them identify you correctly." },
+    { question: "Can I sell skincare on my aesthetics clinic website?", answer: `Yes, cosmetic skincare can be sold online with card and wallet checkout. A full shop starts at ${P.shop}. Prescription medicines are a different matter entirely and are not something we would build a public shop for. We keep the shop separate from consultation booking so patients never confuse buying a product with booking a treatment.` },
+    { question: "How do we communicate during the project?", answer: "Mostly on WhatsApp, where we reply seven days a week, with calls on Zoom, Meet or Teams booked around your clinic hours. Our day overlaps the UK working day from late morning. Every decision goes into a shared list so nothing is lost between your appointments and our replies." },
+    { question: "How do I pay a team in India from the UK?", answer: "Quotes are in USD, and you can pay in USD or GBP by Wise, bank wire or PayPal. Invoices come from India. Payment milestones are set out in the written quote you approve, and nothing is billed before that approval. For VAT or tax treatment of an overseas supplier, speak to your own accountant." },
+    { question: "What happens after the site launches?", answer: `Five months of maintenance are included free: fixes, small edits, new practitioner profiles and plugin updates. After that, care plans start at ${P.care}. You can also stop at that point and manage the site yourself, since you hold every login.` },
+    { question: "Can you add an AI assistant to answer patient questions?", answer: `Yes. A chat or WhatsApp assistant can answer opening hours, aftercare basics and booking questions, starting at ${P.ai}. It is set up to hand anything medical, any complaint or any complication straight to your team, and it does not give treatment advice or recommend a prescription medicine.` },
+    { question: "Do you work with clinics in Scotland, Wales and Northern Ireland?", answer: "Yes. The build process is the same, but regulatory arrangements differ between the four nations and are changing. We keep registration and licence fields configurable by location so a clinic group with sites in more than one nation can show the right details for each, confirmed by your own adviser." },
+  ],
+  related: {
+    heading: "Related UK pages for clinics and beauty businesses",
+    links: [
+      { name: "UK hub", href: "/uk/" },
+      { name: "Private clinic website design", href: "/uk/private-clinic-website-design/" },
+      { name: "Salon website with booking", href: "/uk/salon-website-with-booking/" },
+      { name: "Dental website design UK", href: "/uk/dental-website-design/" },
+      { name: "Custom booking system development", href: "/uk/booking-system-development/" },
+      { name: "Local SEO services UK", href: "/uk/local-seo-services/" },
+      { name: "UK GDPR cookie banner", href: "/uk/gdpr-cookie-banner-setup/" },
+      { name: "AI search optimisation", href: "/uk/ai-search-optimisation/" },
+      { name: "AI chatbot development UK", href: "/uk/ai-chatbot-development/" },
+      { name: "Nursery website design", href: "/uk/nursery-website-design/" },
+      { name: "Hire Indian developers", href: "/hire-indian-developers/" },
+      { name: "Pricing", href: "/pricing/" },
+    ],
+  },
+  cta: {
+    heading: "Send us your treatment list and booking software",
+    note: `Tell us which treatments you offer, who prescribes, and which clinic software runs your diary. We will reply in about two working days with a sitemap and itemised quote. Aesthetics clinic sites start at ${P.site}.`,
+  },
+};
+
+export default content;

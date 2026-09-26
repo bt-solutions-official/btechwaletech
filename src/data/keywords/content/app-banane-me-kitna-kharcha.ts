@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Server aur database", value: "Mahina ya saalana, users ke hisaab se" },
       { label: "OTP, maps, notifications", value: "Istemal ke hisaab se, seedha provider ko" },
       { label: "Maintenance", value: `Pehle 5 mahine free, phir ${P.care} se` },
-      { label: "Payment", value: "UPI ya bank transfer, GST invoice ke saath" },
+      { label: "Payment", value: "UPI ya bank transfer, quote ke milestones par" },
     ],
   },
   services: {
@@ -108,12 +108,12 @@ const content: FreelanceContent = {
         `Seedha jawab: hamare saath ek basic app jo Android aur iPhone dono par chale, ${P.app} se shuru hota hai. Isme user login, lagbhag 10 se 15 screens, notifications aur ek web admin panel aata hai, aur banne mein 6–10 hafte lagte hain.`,
         `Ab yeh samajhna zaroori hai ki “app” ek cheez nahi hai. Ek coaching ka app jisme sirf notes aur test ki list ho, aur ek grocery app jisme cart, UPI payment, delivery boy ka alag app aur live tracking ho, dono “app” hi kehlate hain, par dono ka kaam zameen-aasmaan alag hai. Isliye app banane me kitna kharcha aata hai, iska sahi jawab tab milta hai jab aap bata dein ki app kya-kya karega.`,
         `Doosri baat: developer ka kharcha ek baar ka hai, lekin app ke saath kuch chhote kharche hamesha chalte rehte hain. Google Play ka account ek baar US$25 mein banta hai, Apple ka account US$99 har saal, aur server ka bill har mahine. Yeh sab aapke naam par hote hain.`,
-        `Teesri baat: pehli baar app banwane wale aksar sab features ek saath maang lete hain. Hum salah dete hain ki pehle version mein sirf woh rakhiye jiske bina app chal hi nahi sakta. Baaki features doosre version mein aa sakte hain, jab asli users bata dein ki unhe kya chahiye.`,
+        `Teesri baat: pehle hi version mein har feature daal dena ek aam galti hai. Hum salah dete hain ki pehle version mein sirf woh rakhiye jiske bina app chal hi nahi sakta. Baaki features doosre version mein aa sakte hain, jab asli users bata dein ki unhe kya chahiye.`,
       ],
     },
     {
       id: "teen-hisse",
-      heading: "App ka kharcha teen hisson mein: banana, launch karna, chalana",
+      heading: "App banane ka kharcha teen hisson mein: banana, launch karna, chalana",
       paragraphs: [
         `App ka poora kharcha teen dibbon mein baant ke dekhiye: banane ka ek baar ka kharcha, store par launch ka chhota kharcha, aur chalane ka har mahine ka kharcha. Zyadatar log sirf pehla dibba dekhte hain aur baad mein chaunk jaate hain.`,
       ],
@@ -128,7 +128,7 @@ const content: FreelanceContent = {
     },
     {
       id: "screens-gino",
-      heading: "Screens gino, budget samjho: app ka kharcha khud nikaalne ka tareeka",
+      heading: "Screens gino: app banane me kitna kharcha aayega, khud nikaaliye",
       paragraphs: [
         `App banane me kitna kharcha aata hai, iska sabse aasaan andaaza screens gin kar lagta hai. Ek kaagaz lijiye aur har woh page likhiye jo user phone par dekhega.`,
         `Maan lijiye aap ek tiffin service ka app chahte hain. Screens kuch aise banengi: welcome, mobile number se login, OTP, aaj ka menu, menu ki detail, cart, address, payment, order confirm, order history, profile, aur help. Yeh hui 12 screens. Admin panel mein alag se: aaj ka menu daalna, orders ki list, customers ki list, aur ek chhoti report.`,
@@ -145,7 +145,7 @@ const content: FreelanceContent = {
     },
     {
       id: "android-ya-iphone",
-      heading: "Sirf Android ya Android + iPhone: app ke kharche mein kitna fark padta hai?",
+      heading: "Sirf Android ya Android + iPhone: app banane ke kharche mein kitna fark padta hai?",
       paragraphs: [
         `Aaj Flutter ya React Native jaise tools se ek hi code Android aur iPhone dono par chalta hai, isliye iPhone version jodne se kharcha doguna nahi hota. Fark mainly testing, Apple ke review aur Apple ke saalana account mein aata hai.`,
         `India mein zyadatar customers Android phone chalate hain, khaaskar chhote shehron mein aur kam daam wale phones par. Isliye bahut se business pehle sirf Android par launch karte hain. Lekin agar aapke customers mein doctors, bade shehron ke professionals ya NRI log hain, toh iPhone chhodna mehenga pad sakta hai, kyunki woh log aapko dhoondh hi nahi paayenge.`,
@@ -163,7 +163,7 @@ const content: FreelanceContent = {
         { heading: "Online payment and refunds", text: "Adding UPI and card payment means a payment gateway account in your business name, order states (paid, failed, pending, refunded), receipts and careful testing with real small amounts. It is one of the heavier features, but for ordering apps it is the whole point." },
         { heading: "Live location and tracking", text: "Showing a delivery person or a vehicle moving on a map needs background location on the rider’s phone, a maps service and frequent server updates. It also raises the monthly maps bill as usage grows." },
         { heading: "Chat and video", text: "In-app chat needs message storage, read status and notifications. Video calls usually run on a third-party service billed by minutes. Many small businesses are better off opening a WhatsApp chat from the app instead." },
-        { heading: "Two or three user types", text: "A customer app plus a delivery or service-partner app plus an admin panel is really three products. This is the single biggest multiplier we see in first-time app ideas." },
+        { heading: "Two or three user types", text: "A customer app plus a delivery or service-partner app plus an admin panel is really three products. Of everything on this list, adding a second or third user type multiplies the work the most." },
         { heading: "Connections to existing software", text: "Pulling stock from billing software or pushing orders to an accounting tool depends on whether that software offers an API. Without one, the work grows or needs a workaround." },
       ],
     },
@@ -184,7 +184,7 @@ const content: FreelanceContent = {
         `Every useful app has a second half that customers never see: the server where data lives and the admin panel where you run the business. When people ask why the app costs more than the screens suggest, this is usually the reason.`,
         `The server stores users, orders, bookings and settings, handles login, and sends notifications. We usually build it on a managed backend or a small cloud server opened in your own account, so the bill comes to you directly and you can see it. For an app with a few hundred active users, this bill tends to be modest; it rises as usage, stored photos and videos grow.`,
         `The admin panel is a web dashboard, opened on a laptop or phone browser, where you or your staff add products, change prices, confirm orders, see who signed up and download reports. A thin admin panel saves money at the start but costs staff time every day. A good one saves hours every week.`,
-        `Ask any developer three questions about this half: whose cloud account will the server run in, what happens to backups, and can a different developer take over the server later with the handover notes? With us, the answers are: your account, daily or weekly backups depending on the app, and yes, with written notes and logins at launch.`,
+        `Ask any developer three questions about this half: whose cloud account will the server run in, what happens to backups, and can a different developer take over the server later with the handover notes? With us, the answers are: your account, backups scheduled inside that same account, and yes, with written notes and logins at launch.`,
       ],
     },
     {
@@ -209,7 +209,7 @@ const content: FreelanceContent = {
       heading: "Launch ke baad app banane me kitna kharcha aata hai? Maintenance ka sach",
       paragraphs: [
         `App launch hone ke baad bhi kharcha khatam nahi hota, kyunki Android aur iOS har saal naye versions laate hain aur stores apne niyam badalte rehte hain. Isliye app ko zinda rakhne ke liye regular updates chahiye.`,
-        `Google Play apps ko ek recent Android version target karne ko kehta hai, aur yeh seema har saal aage badhti hai. Jo app saalon tak update nahi hota, woh naye users ko store par dikhna band ho sakta hai. Apple bhi naye iPhone aur iOS ke saath purane apps mein badlav maangta hai. Yeh kaam chhota hota hai agar regular ho, aur bada ho jaata hai agar do saal chhod diya jaaye.`,
+        `Google Play apps ko ek recent Android version target karne ko kehta hai, aur yeh seema har saal aage badhti hai. Jo app saalon tak update nahi hota, woh naye users ko store par dikhna band ho sakta hai. Apple bhi App Store par jaane wale naye apps aur updates ko recent Xcode aur iOS SDK se build karne ko kehta hai. Yeh kaam chhota hota hai agar regular ho, aur bada ho jaata hai agar do saal chhod diya jaaye.`,
         `Hamare saath app live hone ke baad 5 mahine ki maintenance free hai. Isme crash fix, chhote text ya design badlav, aur store ke sawalon ka jawab aata hai. Uske baad maintenance ${P.care} se shuru hoti hai, agar aap chahein. Aap chahein toh kisi aur developer ko bhi de sakte hain, kyunki code aur accounts aapke paas hote hain.`,
         `Naye features maintenance mein nahi aate; woh alag quote hote hain. Jaise, agar chhe mahine baad aapko loyalty points ya doosri city ka support chahiye, toh uska alag, screen-wise quote milega. Poora hisaab <a href='/app-maintenance-cost-in-india/'>app maintenance ke kharche</a> wale page par hai.`,
       ],
@@ -390,7 +390,7 @@ const content: FreelanceContent = {
     { question: "Sirf Android app banane me kitna kharcha aata hai?", answer: `Hum code Flutter ya React Native mein likhte hain jo dono platforms par chalta hai, isliye Android-only launch se developer ka kharcha bahut kam nahi hota. Fark yeh hai ki aapko Apple ka US$99 saalana account aur iPhone testing abhi nahi chahiye. Starting price ${P.app} hi rehta hai; baad mein iPhone jodna chhota kaam hota hai.` },
     { question: "Play Store par app daalne ka kharcha kitna hai?", answer: "Google Play developer account ki fee ek baar US$25 hai, jo aap apne card se Google ko dete hain. Naye personal account par production se pehle kam se kam 12 testers ko 14 din lagatar test karna padta hai. Store listing, screenshots, privacy policy aur data safety form hum launch ke kaam mein taiyar karte hain." },
     { question: "App ka har mahine kitna kharcha aata hai?", answer: `Har mahine mainly server aur database ka bill, OTP SMS, aur agar maps use hote hain toh unka kharcha aata hai. Shuru mein kam users hon toh yeh chhota rehta hai. Apple ka account US$99 saalana hai. Maintenance hamare saath 5 mahine free hai, phir ${P.care} se, agar aap chahein. Hum yeh sab quote mein pehle likh dete hain.` },
-    { question: "Kya bahut kam budget mein bhi app ban sakta hai?", answer: `Kuch log itne mein clone script ya builder template par app bana dete hain, par usme aksar admin panel kamzor hota hai, code aapko nahi milta, ya iPhone shamil nahi hota. Hamara custom app ${P.app} se shuru hota hai. Budget kam hai toh pehle mobile-friendly website ya ek chhota version banwana behtar rasta ho sakta hai.` },
+    { question: "Kya bahut kam budget mein bhi app ban sakta hai?", answer: `Bahut sasta app aksar clone script ya builder template par banta hai, aur usme aksar admin panel kamzor hota hai, code aapko nahi milta, ya iPhone shamil nahi hota. Hamara custom app ${P.app} se shuru hota hai. Budget kam hai toh pehle mobile-friendly website ya ek chhota version banwana behtar rasta ho sakta hai.` },
     { question: "App banwane ke baad code mujhe milega?", answer: "Haan. Hamare saath launch par poora source code ek repository mein aapko handover hota hai, saath mein build aur publish karne ke notes. Play Store, App Store aur server ke accounts shuru se aapke naam par hote hain. Isse aap kabhi bhi kisi aur developer se kaam karwa sakte hain, bina app dobara banaye." },
     { question: "App banane me kitna kharcha aata hai agar payment bhi chahiye?", answer: `Payment jodne se kaam badhta hai: payment gateway account aapke business ke naam par, order ke status, receipt, failed payment aur refund ka flow, aur asli chhote amounts se testing. Isliye ordering app ${P.app} se upar jaata hai aur payment ek alag line mein quote hota hai. Gateway har transaction par apna charge alag leta hai.` },
     { question: "How much does it cost to make an app in India for a small business?", answer: `With BtechWaleTech, a small-business app for Android and iOS with login, around 10–15 screens and an admin panel starts at ${P.app} (${P.appUsd}) and takes 6–10 weeks. Payments, live tracking, chat or a second user app add cost. Store fees (US$25 once for Google Play, US$99 a year for Apple) and server bills are paid separately in your name.` },
@@ -401,7 +401,7 @@ const content: FreelanceContent = {
     { question: "Who owns the Play Store and App Store accounts?", answer: "You should. We open both developer accounts in your name or your business name, with your email and payment method, and you add us as a team member. That way the app listing, reviews and download history stay with your business even if you change developers later. Avoid anyone who insists on publishing under their own account." },
     { question: "What does app maintenance include after launch?", answer: `Maintenance covers crash fixes, updates for new Android and iOS versions, store policy changes, small text or design edits, and keeping the server and backups healthy. With us the first 5 months after launch are free, then maintenance starts from ${P.care} if you want it. New features are quoted separately, screen by screen.` },
     { question: "Can the app work in Hindi?", answer: "Yes. The app can run in Hindi, English or both, with a language switch in settings. You supply or approve the Hindi text, and we make sure fonts and layouts display correctly on different phones. A bilingual app adds some work because every screen, notification and message exists in two versions, so mention it at the start." },
-    { question: "How do I pay, and is there a GST invoice?", answer: "In India you pay by UPI or bank transfer, in stages agreed in the written quote, with a GST invoice where applicable. Clients abroad pay in USD by Wise, bank wire or PayPal. Nothing is billed before you approve the quote in writing. Store fees and server bills go directly from your account to Google, Apple and the provider." },
+    { question: "How do I pay for the app, and when?", answer: "In India you pay by UPI or bank transfer, in stages agreed in the written quote, and invoicing details are written into that quote too. Clients abroad pay in USD by Wise, bank wire or PayPal. Nothing is billed before you approve the quote in writing. Store fees and server bills go directly from your account to Google, Apple and the provider." },
     { question: "Should I build an app or a mobile website first?", answer: "Build an app when customers come back weekly or daily, such as for groceries, tiffins, classes or gym visits. Build a website first when they come once or twice a year, as with a CA, photographer or architect. Many businesses start with a website, watch how many regular customers they get, then invest in an app." },
     { question: "Kya app ke saath admin panel ka alag paisa lagta hai?", answer: `Hamare starting price ${P.app} mein ek simple web admin panel shamil hai, jahan aap users, orders, products ya bookings dekh aur badal sakte hain. Agar aapko reports, staff ke alag roles, bulk upload ya kisi software se connection chahiye, toh woh features alag lines mein quote hote hain, taaki aap dekh kar chun sakein.` },
     { question: "Can I sell courses or memberships inside the app?", answer: "Yes, but Google Play and the App Store apply their own billing rules and commission to digital goods sold inside apps, such as paid courses or premium content. Physical goods and real-world services generally use your normal payment gateway. Tell us at the start if you plan to sell digital content, because it changes the design and your margins." },

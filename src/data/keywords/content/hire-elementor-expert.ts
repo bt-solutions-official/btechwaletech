@@ -41,7 +41,7 @@ const content: FreelanceContent = {
     ["After launch", `5 months free care, then from ${P.care}`],
   ],
   stats: [
-    { value: "3", label: "Developers reviewing every Elementor template" },
+    { value: "3", label: "Freelance developers you talk to directly" },
     { value: "2", label: "Working days for an itemised quote" },
     { value: "5", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week on WhatsApp" },
@@ -166,7 +166,7 @@ const content: FreelanceContent = {
       heading: "Why is my Elementor site so slow?",
       paragraphs: [
         `Most slow Elementor sites are slow because of what was added around the builder, not the builder alone: widget add-on packs, deeply nested layouts, several font families, uncompressed images and a pile of tracking scripts.`,
-        `The usual culprits we find when auditing an inherited site:`,
+        `The usual culprits on an inherited Elementor site:`,
       ],
       list: [
         "Three or more add-on plugins, each loading its own CSS and JavaScript on every page",
@@ -187,7 +187,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A speed rescue starts with measurement, then removes weight in order of impact. Rebuilding from scratch is the last option, not the first.`,
         `Step one is a staging copy and a baseline: PageSpeed Insights for key templates and the Core Web Vitals report in Search Console for real-visitor data. Step two is the plugin list. Each add-on is checked for which widgets are actually used; often one or two widgets justify an entire pack, and they can be replaced with native widgets.`,
-        `Step three uses Elementor’s own performance features. Its help centre describes Optimized DOM Output, which removes wrapper elements from the generated HTML, and Element Caching, which serves a stored copy of an element instead of rendering it on every load. We switch these on, test, and convert the heaviest old sections into Flexbox Containers.`,
+        `Step three uses Elementor’s own performance features: Optimized DOM Output, which strips extra wrapper elements from the generated HTML, and Element Caching, which serves a stored copy of an element instead of rendering it on every load. We switch these on, test, and convert the heaviest old sections into Flexbox Containers.`,
         `Step four is assets: one or two font families hosted locally, compressed images in modern formats with fixed dimensions, the hero image never lazy-loaded, and third-party scripts delayed until interaction. Step five is hosting and caching. We then compare before and after numbers with you, honestly, including anything we could not improve.`,
       ],
     },
@@ -285,7 +285,7 @@ const content: FreelanceContent = {
       heading: "Hire an Elementor expert across India, fully remote",
       paragraphs: [
         `You can hire an Elementor expert from our team wherever your business is; everything happens on WhatsApp, video calls and a shared staging site. Hindi or English, whichever your staff prefer for training.`,
-        `We regularly hear from shops, clinics, institutes and manufacturers in cities such as <a href='/pune/'>Pune</a>, <a href='/indore/'>Indore</a>, <a href='/jaipur/'>Jaipur</a>, <a href='/kochi/'>Kochi</a>, <a href='/lucknow/'>Lucknow</a>, <a href='/surat/'>Surat</a>, <a href='/chandigarh/'>Chandigarh</a>, <a href='/guwahati/'>Guwahati</a> and <a href='/coimbatore/'>Coimbatore</a>. The needs differ: catalogue-heavy pages in manufacturing towns, admission-season landing pages for coaching hubs, booking popups for clinics and hotels.`,
+        `The work suits shops, clinics, institutes and manufacturers in cities such as <a href='/pune/'>Pune</a>, <a href='/indore/'>Indore</a>, <a href='/jaipur/'>Jaipur</a>, <a href='/kochi/'>Kochi</a>, <a href='/lucknow/'>Lucknow</a>, <a href='/surat/'>Surat</a>, <a href='/chandigarh/'>Chandigarh</a>, <a href='/guwahati/'>Guwahati</a> and <a href='/coimbatore/'>Coimbatore</a>. The needs differ: catalogue-heavy pages in manufacturing towns, admission-season landing pages for coaching hubs, booking popups for clinics and hotels.`,
         `Mobile first is non-negotiable for Indian visitors. We test Elementor layouts on an entry-level Android phone over a mobile connection, keep tap targets large, and put the WhatsApp and call buttons where thumbs reach. Regional-language pages are possible when you supply or approve the translated text.`,
       ],
     },
@@ -375,8 +375,8 @@ const content: FreelanceContent = {
     },
   ],
   areas: {
-    eyebrow: "Elementor clients across India",
-    heading: "Where businesses hire an Elementor expert from our team",
+    eyebrow: "Elementor work across India",
+    heading: "Cities where you can hire an Elementor expert from our team remotely",
     note: "All work is remote. Each card describes the kind of Elementor site typical for that city.",
     cards: [
       { name: "Elementor sites for Pune startups and institutes", note: "Pune’s IT services firms, training institutes and D2C startups want pages marketing staff can launch quickly, with forms wired to their CRM.", href: "/pune/" },

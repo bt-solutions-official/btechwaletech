@@ -223,7 +223,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A cross-platform app for both stores usually takes us 6–10 weeks. Two native apps built by one team in sequence take noticeably longer; built by two teams in parallel, they cost more and need extra coordination.`,
         `Our weeks for a typical business app break down like this: the first week for screens and flows in a clickable design, three to six weeks for the app and backend, one to two weeks for testing on real devices, store listings and review. Apple’s review and, for new personal Google accounts, the 14-day closed-test requirement can add time, so we start store setup early.`,
-        `The fastest path to both stores is one codebase with store accounts registered in week one. The slowest is building Android first, then starting iOS from scratch after launch, which many businesses end up doing by accident. For more detail by app type, see <a href='/how-long-to-build-an-app/'>how long it takes to build an app</a>.`,
+        `The fastest path to both stores is one codebase with store accounts registered in week one. The slowest is building Android first, then starting iOS from scratch after launch, which is an easy trap when iOS is treated as an afterthought. For more detail by app type, see <a href='/how-long-to-build-an-app/'>how long it takes to build an app</a>.`,
       ],
     },
     {
@@ -239,7 +239,7 @@ const content: FreelanceContent = {
       id: "ownership",
       heading: "Who owns the app, the code and the store listings?",
       paragraphs: [
-        `You should own all of it: the source code repository, the Google Play Console account, the Apple Developer account, the backend hosting and the domain. Store accounts in a developer’s name are one of the most common and most painful problems we are asked to fix.`,
+        `You should own all of it: the source code repository, the Google Play Console account, the Apple Developer account, the backend hosting and the domain. Store accounts registered in a developer’s name are a common and painful trap, because you cannot update or sell the app without them.`,
         `Moving an app between store accounts is possible but slow and fiddly, and while it is stuck in someone else’s account you cannot publish updates. So on day one we ask you to register the Google Play developer account (a one-time US$25) and the Apple Developer Program (US$99 a year) in your business name, and add us as users with the right roles.`,
         `At handover you get repository access, signing keys stored safely in your accounts, backend and admin logins, and a document listing every service with renewal dates. Then any competent developer can pick up where we stopped. More on this in <a href='/questions-to-ask-app-developer/'>questions to ask an app developer before hiring</a>.`,
       ],

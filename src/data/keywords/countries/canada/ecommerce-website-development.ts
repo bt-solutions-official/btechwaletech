@@ -36,7 +36,7 @@ const content: FreelanceContent = {
     ["Custom commerce build", `From ${P.software}, 6–12 weeks`],
     ["Platforms", "Shopify, WooCommerce, custom"],
     ["Currencies", "CAD storefront, USD market for US buyers"],
-    ["Quote", "Itemised in USD, about 2 working days"],
+    ["Quote", "Itemized in USD, about 2 working days"],
     ["Post-launch", "5 months free maintenance, SEO optional"],
   ],
   stats: [
@@ -51,7 +51,7 @@ const content: FreelanceContent = {
     more: `If Shopify looks right, read <a href='/canada/shopify-developer/'>hiring a Shopify developer for a Canadian store</a>; for WordPress-based stores see <a href='/canada/woocommerce-developer/'>WooCommerce development in Canada</a>.`,
   },
   snapshot: {
-    caption: "A Canadian ecommerce build, summarised",
+    caption: "A Canadian ecommerce build, summarized",
     rows: [
       { label: "Shopify or WooCommerce store", value: `From ${P.shop}, 4–8 weeks` },
       { label: "Custom or B2B commerce", value: `From ${P.software}, 6–12 weeks` },
@@ -82,9 +82,9 @@ const content: FreelanceContent = {
     note: "Three common ways Canadian brands staff an ecommerce build. Each suits a different stage of business.",
     columns: ["Decision factor", "Hiring an in-house developer", "Canadian ecommerce agency", "BtechWaleTech"],
     rows: [
-      ["Commitment", "Salary, benefits and recruitment time", "Project contract or retainer", "Per project, itemised quote"],
+      ["Commitment", "Salary, benefits and recruitment time", "Project contract or retainer", "Per project, itemized quote"],
       ["Skills covered", "One person's strengths", "Designers, developers, strategists", "Full-stack build, technical SEO, planning"],
-      ["Platform advice", "Tends to favour what they know", "Some agencies specialise in one platform", "Compares all three and explains the trade-offs"],
+      ["Platform advice", "Tends to favour what they know", "Some agencies specialize in one platform", "Compares all three and explains the trade-offs"],
       ["Speed to start", "Weeks or months to hire", "Depends on agency schedule", "Quote in about 2 working days"],
       ["Time zone", "Your hours", "Your hours", "Overlap in Canadian mornings"],
       ["Cost", "Highest ongoing cost", "Canadian agency rates", `From ${P.shop}; custom from ${P.software}`],
@@ -95,7 +95,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Ecommerce website development pricing for Canadian brands",
-    note: `An online store on Shopify or WooCommerce starts at ${P.shop}, and a custom commerce platform starts at ${P.software}; both are quoted in USD with every line itemised. The main drivers are catalogue size and variant complexity, how messy the product data is when it arrives, the number of tax registrations, a US market with separate pricing and shipping rules, French product data, and integrations with accounting, inventory or fulfilment. Platform subscriptions, apps or plugins, hosting and payment processing fees are paid by you directly to those providers, so you can see and control each one.`,
+    note: `An online store on Shopify or WooCommerce starts at ${P.shop}, and a custom commerce platform starts at ${P.software}; both are quoted in USD with every line itemized. The main drivers are catalogue size and variant complexity, how messy the product data is when it arrives, the number of tax registrations, a US market with separate pricing and shipping rules, French product data, and integrations with accounting, inventory or fulfilment. Platform subscriptions, apps or plugins, hosting and payment processing fees are paid by you directly to those providers, so you can see and control each one.`,
   },
   guideLabel: "Ecommerce website development Canada guide",
   guide: [
@@ -135,7 +135,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does ecommerce website development cost in Canada?",
       paragraphs: [
-        `Canadian ecommerce quotes vary widely, from theme installs to large agency programmes, because scope varies. With us, a Shopify or WooCommerce store starts at ${P.shop} and a custom commerce build at ${P.software}, with each piece itemised.`,
+        `Canadian ecommerce quotes vary widely, from theme installs to large agency programs, because scope varies. With us, a Shopify or WooCommerce store starts at ${P.shop} and a custom commerce build at ${P.software}, with each piece itemized.`,
         `Most of the cost sits in four places: catalogue work (importing, cleaning and structuring products), storefront design (how far the theme is changed), rules (tax, shipping, markets, discounts) and integrations (accounting, inventory, fulfilment, CRM). A store with clean product data and one tax registration costs much less than one arriving as three supplier spreadsheets with inconsistent sizes and no weights.`,
         `Running costs belong in the budget too: platform subscription or hosting, apps or plugins, payment processing, a translation budget if you sell in Quebec, and maintenance. We list every recurring cost we expect in the quote so there is no surprise on your card three months later.`,
       ],
@@ -144,7 +144,7 @@ const content: FreelanceContent = {
       id: "product-data",
       heading: "Product data: the part of an ecommerce build everyone underestimates",
       paragraphs: [
-        `Good product data decides whether filters work, whether shipping quotes are right and whether search engines understand your catalogue. Most ecommerce projects that run late do so because the product spreadsheet was not ready.`,
+        `Good product data decides whether filters work, whether shipping quotes are right and whether search engines understand your catalogue. A store launch can only move as fast as its product spreadsheet, so this is where planning starts.`,
         `We start every catalogue with an import template: one row per variant, columns for SKU, barcode, weight, dimensions, price, compare-at price, cost, HS code and country of origin, and attributes such as material or size. For bilingual stores we add French columns next to each English one. You fill it, or we clean up your existing data and send back questions.`,
       ],
       list: [
@@ -180,8 +180,8 @@ const content: FreelanceContent = {
       id: "us-duties-shipping",
       heading: "Duties and shipping to the US from a Canadian online store",
       paragraphs: [
-        `Since US Customs and Border Protection suspended duty-free de minimis treatment for all countries on August 29, 2025, low-value parcels from Canada can carry duties and fees at the US border. A cross-border store should either collect those at checkout or explain them clearly before purchase.`,
-        `The <a href='https://www.cbp.gov/sites/default/files/2025-08/factsheet_suspension_of_duty-free_de_minimis_treatment.pdf' rel='noopener'>CBP fact sheet</a> explains the suspension; tariff rules have changed often, so check current guidance with your customs broker or carrier before setting policy. Shopify's help centre notes that duty rates depend on product classification and origin, and that goods qualifying under the USMCA trade agreement may get preferential rates. That is why HS codes and country of origin belong in your product data.`,
+        `Since a US executive order suspended duty-free de minimis treatment for all countries from August 29, 2025, low-value parcels from Canada can carry duties and fees at the US border. A cross-border store should either collect those at checkout or explain them clearly before purchase.`,
+        `US Customs and Border Protection keeps its current <a href='https://www.cbp.gov/trade/basic-import-export/e-commerce' rel='noopener'>e-commerce and low-value shipment guidance</a> online, and it has published further rules since, including a 2026 rule on mail shipments, so check the latest position with your customs broker or carrier before setting policy. The duty on any product depends on how it is classified and where it was made, which is why HS codes and country of origin belong in your product data.`,
         `On the build side, we set up US shipping profiles, connect carriers or discount couriers that handle cross-border paperwork, show duty estimates at checkout where the platform supports it, and write the structure of a clear duties and returns section for your shipping page. We never tell you which duty treatment applies to your goods; your broker does.`,
       ],
     },
@@ -200,7 +200,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Build the store so shoppers can complete a purchase by keyboard and screen reader, and so personal data is collected only where needed and protected. Both are good business; for some Canadian retailers they are also legal duties.`,
         `The Government of Ontario states that under the AODA, businesses and nonprofits with 50 or more employees must make public websites meet WCAG 2.0 Level AA. For an online store, the hard parts are usually variant pickers, filter drawers, cart pop-ups and checkout fields, so we test those by hand rather than trusting an automated score. Smaller retailers outside that rule still gain customers from the same work.`,
-        `On privacy, the Office of the Privacy Commissioner describes PIPEDA as covering private-sector organisations handling personal information in commercial activity, with Alberta, British Columbia and Quebec running their own similar laws. In the build that means a consent banner that holds back marketing tags until the shopper agrees, checkout and account forms that ask only for what fulfilment needs, and newsletter boxes that are unticked by default. Your privacy policy and legal sign-off come from your own lawyer; we make the store behave the way that policy describes.`,
+        `On privacy, the Office of the Privacy Commissioner describes PIPEDA as covering private-sector organizations handling personal information in commercial activity, with Alberta, British Columbia and Quebec running their own similar laws. In the build that means a consent banner that holds back marketing tags until the shopper agrees, checkout and account forms that ask only for what fulfilment needs, and newsletter boxes that are unticked by default. Your privacy policy and legal sign-off come from your own lawyer; we make the store behave the way that policy describes.`,
       ],
     },
     {
@@ -225,7 +225,7 @@ const content: FreelanceContent = {
       heading: "Working with an ecommerce development team in India from Canada",
       paragraphs: [
         `Work runs in two rhythms: live calls in your morning, which is our evening, and progress between calls that you see when you start your day. WhatsApp handles quick questions seven days a week.`,
-        `The first two weeks look like this. A discovery call covers products, markets, provinces, integrations and who runs the store. About two working days later, you get an itemised quote in USD with the platform recommendation explained. After written approval, you open the platform or hosting account in your business name and invite us. We send the product data template and a list of accounts to connect, then build the storefront skeleton on a development copy.`,
+        `The first two weeks look like this. A discovery call covers products, markets, provinces, integrations and who runs the store. About two working days later, you get an itemized quote in USD with the platform recommendation explained. After written approval, you open the platform or hosting account in your business name and invite us. We send the product data template and a list of accounts to connect, then build the storefront skeleton on a development copy.`,
         `By the end of week two you normally see a category page and product page with your real data, which is the best moment to catch catalogue problems. Payment is in USD or CAD by Wise, bank wire or PayPal, invoiced from India on the schedule in your quote. We do not visit warehouses or offices; if your project needs hands-on work such as photography or scanner setup, hire a local person for that part.`,
       ],
     },
@@ -314,7 +314,7 @@ const content: FreelanceContent = {
       id: "crossborder-table",
       eyebrow: "Cross-border",
       heading: "Cross-border readiness for a Canadian store selling into the US",
-      note: `US de minimis status from the <a href='https://www.cbp.gov/sites/default/files/2025-08/factsheet_suspension_of_duty-free_de_minimis_treatment.pdf' rel='noopener'>CBP fact sheet</a>. Trade rules change; your customs broker has the final word.`,
+      note: `For current US low-value shipment rules see <a href='https://www.cbp.gov/trade/basic-import-export/e-commerce' rel='noopener'>CBP's e-commerce guidance</a>. Trade rules change; your customs broker has the final word.`,
       columns: ["Item", "Why it matters", "Who decides", "What the build does"],
       rows: [
         ["USD pricing", "Odd converted prices hurt conversion", "You", "US market with rounding or set prices"],
@@ -330,7 +330,7 @@ const content: FreelanceContent = {
   areas: {
     eyebrow: "Across Canada",
     heading: "Canadian cities where brands commission ecommerce website development",
-    note: "We work remotely with stores across Canada. A few examples of the ecommerce needs we typically hear about in different places.",
+    note: "We work remotely with stores across Canada. A few examples of the ecommerce needs typical of different places.",
     cards: [
       { name: "Toronto", note: "Consumer brands and importers with large catalogues, heavy US demand and a need for category pages that can compete in crowded national search results." },
       { name: "Brampton", note: "Distribution and logistics-linked businesses adding online ordering for trade customers alongside retail, often with bulk pricing and account-based checkout." },
@@ -352,7 +352,7 @@ const content: FreelanceContent = {
     heading: "How we run an ecommerce build for a Canadian brand",
     steps: [
       ["Discovery and platform choice", "A morning video call covers products, markets, provinces, languages and systems. You get a written platform recommendation with reasons, not a sales pitch for one tool."],
-      ["Itemised quote and data template", "Within about two working days you receive a USD quote with every line priced and the product data template to start filling. Nothing is billed before written approval."],
+      ["Itemized quote and data template", "Within about two working days you receive a USD quote with every line priced and the product data template to start filling. Nothing is billed before written approval."],
       ["Accounts and development copy", "You open the platform, hosting and payment accounts in your business name and invite us. All work happens on a development copy, not your live site."],
       ["Catalogue and storefront", "Products are imported and cleaned, French fields added, and category and product templates built with your real data so problems surface early."],
       ["Rules and integrations", "Tax, shipping, US market, discounts and connections to accounting or inventory are configured and tested with orders across provinces and currencies."],
@@ -361,26 +361,26 @@ const content: FreelanceContent = {
   },
   faqHeading: "Ecommerce website development in Canada: common questions",
   faqs: [
-    { question: "How much does ecommerce website development cost in Canada?", answer: `Quotes vary widely because catalogues, integrations and markets vary. With BtechWaleTech, a Shopify or WooCommerce store starts at ${P.shop} and takes 4–8 weeks, while a custom commerce build starts at ${P.software} and takes 6–12 weeks. Platform fees, apps, hosting and payment processing are paid directly by you and itemised so you can budget for them.` },
+    { question: "How much does ecommerce website development cost in Canada?", answer: `Quotes vary widely because catalogues, integrations and markets vary. With BtechWaleTech, a Shopify or WooCommerce store starts at ${P.shop} and takes 4–8 weeks, while a custom commerce build starts at ${P.software} and takes 6–12 weeks. Platform fees, apps, hosting and payment processing are paid directly by you and itemized so you can budget for them.` },
     { question: "Is Shopify or WooCommerce better for a Canadian business?", answer: "Shopify is usually better for product-focused brands with small teams that want hosting, checkout and security managed. WooCommerce suits brands already on WordPress, publishing a lot of content, or wanting their own hosting and plugin-level control. Both handle Canadian tax, CAD checkout and French stores well when set up properly. We compare them against your real catalogue." },
     { question: "When should I build a custom ecommerce website instead of using a platform?", answer: "Build custom when your ordering logic is the unusual part: dealer pricing, quote-to-order, configurators or a multi-seller marketplace. For standard retail, a platform is cheaper to launch and run. Often the best answer is both: a platform storefront for retail and a custom portal beside it for trade customers." },
     { question: "How long does it take to build an online store?", answer: "A Shopify or WooCommerce store usually takes 4–8 weeks from approved quote to launch, and a custom build 6–12 weeks for its first release. The biggest variable is product data: clean spreadsheets with weights, attributes and images make the timeline predictable, while scattered supplier files add weeks. We agree a data schedule on the first call." },
     { question: "Can my Canadian store sell to US customers in USD?", answer: "Yes. The store runs in CAD, and a US market can show prices in USD with rounding or fixed prices you set. We configure US shipping rules and duty messaging, then place test orders to US addresses. Pricing decisions and duty treatment remain yours and your customs broker's; we build what you decide." },
-    { question: "Do US customers pay duties on orders from Canada?", answer: "They can. US Customs and Border Protection suspended duty-free de minimis treatment for all countries from August 29, 2025, so low-value parcels may carry duties and fees. Trade rules have changed often, so confirm current treatment for your products with a customs broker. We can show duty estimates at checkout where supported and explain them clearly on your shipping page." },
+    { question: "Do US customers pay duties on orders from Canada?", answer: "They can. A US executive order suspended duty-free de minimis treatment for all countries from August 29, 2025, so low-value parcels may carry duties and fees. Trade rules have changed often, so confirm current treatment for your products with a customs broker. We can show duty estimates at checkout where supported and explain them clearly on your shipping page." },
     { question: "How do you handle French product data for Quebec?", answer: "Every customer-facing field gets a French version: titles, descriptions, attributes, variant names, URLs and meta descriptions, plus emails, filters and checkout text. We build the fields and an import workflow; your translator supplies the French. Before launch we run a French-only purchase walkthrough. Your lawyer can confirm how Quebec's language law applies to you." },
     { question: "Can you import products from our spreadsheets or old store?", answer: "Yes. We supply an import template with columns for SKU, variants, weights, dimensions, prices, HS codes, origin and French fields. We can also clean up exports from an old store or supplier files and send back questions about gaps. Once the template is right, future product drops can be imported in bulk." },
     { question: "How do you set up sales tax for different provinces?", answer: "We enter the registrations you hold, as your accountant advises, and configure product and shipping taxability on the platform. Then we place test orders to provinces with HST, GST plus PST or QST, and GST only to confirm totals. We do not advise on registration or filing; your accountant decides and we implement it." },
     { question: "Will my ecommerce site rank on Google?", answer: `We build for search: clean category URLs, controlled filters, product structured data, fast pages and separate French URLs. After launch, category-page SEO starts at ${P.seo} a month, guided by Search Console data. No one can guarantee rankings, and anyone who does is not being straight with you; we report what we changed and what moved.` },
     { question: "Can the store connect to QuickBooks Online and our warehouse?", answer: `Yes. We map where orders, payments, refunds, tax codes and stock need to go, then use a reliable app or plugin where one exists or build a custom integration through the platform's API. Tax-code mapping for GST, HST, PST and QST is documented and tested. Custom integrations start at ${P.software}.` },
     { question: "Do you build B2B or wholesale ecommerce for Canadian companies?", answer: `Yes. Common B2B needs are customer-specific price lists, minimum order quantities, purchase-order checkout, invoice terms and tax-exempt accounts. Some fit inside Shopify or WooCommerce with the right setup; others work better as a custom portal beside the retail store. Custom B2B builds start at ${P.software}.` },
-    { question: "Is it risky to hire an ecommerce developer outside Canada?", answer: "Risk comes from ownership and access, not location. Keep the platform, domain, hosting and payment accounts in your business name, give developers individual logins you can remove, keep code in your own repository and pay against an itemised quote. With those in place, a remote team carries the same risk as a local one." },
-    { question: "How do we communicate with a team in India?", answer: "Video calls happen in your morning, which is our evening, and WhatsApp covers questions seven days a week. We share progress as short screen recordings and working links on a development copy of your store. Most Canadian clients find that questions sent during their day are answered before the next morning." },
+    { question: "Is it risky to hire an ecommerce developer outside Canada?", answer: "Risk comes from ownership and access, not location. Keep the platform, domain, hosting and payment accounts in your business name, give developers individual logins you can remove, keep code in your own repository and pay against an itemized quote. With those in place, a remote team carries the same risk as a local one." },
+    { question: "How do we communicate with a team in India?", answer: "Video calls happen in your morning, which is our evening, and WhatsApp covers questions seven days a week. We share progress as short screen recordings and working links on a development copy of your store. A question you send during your working day is normally answered by the time you start the next one." },
     { question: "How do Canadian clients pay for an ecommerce project?", answer: "Quotes are in USD, and you can pay in USD or CAD through Wise, bank wire or PayPal. Invoices come from India, and the schedule is agreed in your written quote. Nothing is billed before you approve it. For how an overseas supplier affects your own tax filings, check with your accountant." },
-    { question: "What happens after the store launches?", answer: `Five months of free maintenance cover fixes, small changes and checks after platform updates. After that, maintenance starts at ${P.care} a month. Many clients add category-page SEO from ${P.seo} a month, and larger features are quoted separately. Your team is trained on orders, refunds and product edits at handover.` },
+    { question: "What happens after the store launches?", answer: `Five months of free maintenance cover fixes, small changes and checks after platform updates. After that, maintenance starts at ${P.care} a month. You can add category-page SEO from ${P.seo} a month, and larger features are quoted separately. Your team is trained on orders, refunds and product edits at handover.` },
     { question: "Can you move our store from Wix, Squarespace or BigCommerce?", answer: "Yes. We export products, customers and available order history, rebuild tax and shipping settings on the new platform, and redirect old URLs so search traffic and bookmarks keep working. Timing matters: we avoid cutting over in the weeks before Black Friday or Boxing Day unless you insist. Our Shopify migration page covers the detailed checklist." },
     { question: "Do you design the store or only develop it?", answer: "Both. We adapt a strong theme to your brand or design custom templates, focusing on category and product pages where sales happen. We do not provide product photography, logo design or copywriting in French. If you have brand guidelines, we work within them; if not, we keep the design simple and fast." },
     { question: "Can you add AI tools to our online store?", answer: `Yes, where they save staff time: drafted replies to order-status questions, product description drafts for staff review, search that understands natural phrasing, or WhatsApp order updates. AI automation starts at ${P.ai}. We explain which tools see which customer data so you can check it against your privacy obligations.` },
-    { question: "Do you also build a mobile app for the store?", answer: `We can, once the web store is working well. A Flutter or React Native app published to Google Play and the App Store starts at ${P.app} and takes 6–10 weeks. Most Canadian brands get more from a fast mobile website first; an app earns its place when repeat buyers order often.` },
+    { question: "Do you also build a mobile app for the store?", answer: `We can, once the web store is working well. A Flutter or React Native app published to Google Play and the App Store starts at ${P.app} and takes 6–10 weeks. For most brands a fast mobile website should come first; an app earns its place when repeat buyers order often.` },
     { question: "Will you visit our warehouse or store?", answer: "No. The team works fully remotely from India and does not visit clients. We work from spreadsheets, screen shares, photos and video calls. If part of your project needs hands-on work, such as barcode scanner setup, point-of-sale hardware or product photography, a local contractor is the right fit for that part." },
   ],
   related: {
@@ -403,7 +403,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Start planning your online store",
-    note: "Send your product list or current store, the provinces you sell in, whether you ship to the US and whether Quebec shoppers matter. You get a platform recommendation and an itemised USD quote in about two working days.",
+    note: "Send your product list or current store, the provinces you sell in, whether you ship to the US and whether Quebec shoppers matter. You get a platform recommendation and an itemized USD quote in about two working days.",
   },
 };
 

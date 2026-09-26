@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `AngularJS to Angular migration is urgent because AngularJS stopped receiving official support in January 2022, so any vulnerability found since then gets no fix from its maintainers. Every month on AngularJS adds security, hiring and compatibility risk.`,
         `The AngularJS documentation states plainly that support officially ended in January 2022. For a business, that has three practical effects. Security issues in the framework stay open unless someone patches them privately. Libraries built for AngularJS stop being updated, so browser changes and dependency updates start breaking things. And fewer developers want to work on AngularJS, so the people who can maintain your app get harder to find and more expensive to keep.`,
-        `Audits and customers notice too. Security reviews, penetration tests and enterprise procurement questionnaires often flag end-of-life frameworks. If your app handles payments, patient records or personal data, that flag can block a contract or an insurance renewal.`,
+        `Security reviewers look for exactly this. The OWASP Top 10 (2021) lists “Vulnerable and Outdated Components” as a category and says an application is likely at risk when its software is vulnerable, unsupported or out of date, naming client-side libraries alongside servers and runtimes. An unsupported front-end framework therefore tends to surface in penetration test reports and customer security questionnaires, which matters most when the app handles payments, patient records or personal data.`,
         `None of this means the app stops working tomorrow. It means the cost of staying grows every year, while the cost of migrating also grows as more features are added to old code. The cheapest time to start is usually before the next big feature, not after it.`,
       ],
     },
@@ -264,7 +264,7 @@ const content: FreelanceContent = {
       heading: "AngularJS to Angular migration across India",
       paragraphs: [
         `We handle AngularJS to Angular migration for businesses across India remotely, through code access, video calls, WhatsApp and staging links, in English or Hindi. No office visits are involved; your team tests every phase on staging.`,
-        `Many legacy AngularJS apps were built for IT services clients and enterprises in <a href='/chennai/'>Chennai</a>, <a href='/pune/'>Pune</a>, <a href='/hyderabad/'>Hyderabad</a> and <a href='/bengaluru/'>Bengaluru</a>, and still run internal portals there. Manufacturers and exporters around <a href='/faridabad/'>Faridabad</a> and <a href='/vadodara/'>Vadodara</a> run order and dealer portals from the same era. Healthcare and education groups in <a href='/lucknow/'>Lucknow</a>, <a href='/bhopal/'>Bhopal</a> and <a href='/kolkata/'>Kolkata</a> often depend on AngularJS admin panels written by vendors who have since moved on.`,
+        `Legacy AngularJS apps from the 2010s can still be found running internal portals at IT services businesses and enterprises in <a href='/chennai/'>Chennai</a>, <a href='/pune/'>Pune</a>, <a href='/hyderabad/'>Hyderabad</a> and <a href='/bengaluru/'>Bengaluru</a>. Manufacturers and exporters around <a href='/faridabad/'>Faridabad</a> and <a href='/vadodara/'>Vadodara</a> may run order and dealer portals from the same era. Healthcare and education groups in <a href='/lucknow/'>Lucknow</a>, <a href='/bhopal/'>Bhopal</a> and <a href='/kolkata/'>Kolkata</a> can depend on AngularJS admin panels written by vendors who have since moved on.`,
         `Quotes for Indian clients are in rupees, payable by UPI or bank transfer against milestones. If Hindi or regional-language labels are part of the new screens, you supply or approve the wording.`,
       ],
     },
@@ -350,11 +350,11 @@ const content: FreelanceContent = {
     heading: "AngularJS migration for businesses in these cities",
     note: "All work is remote; there is no office in any of these cities. Each card links to that city’s page.",
     cards: [
-      { name: "Enterprise portal migration in Chennai", note: "Chennai’s IT services and manufacturing firms still run AngularJS portals from the 2010s for vendors, dealers and staff, many now flagged in security reviews.", href: "/chennai/" },
-      { name: "Product front-end upgrades in Pune", note: "Pune’s product and engineering companies often own AngularJS admin tools that sit beside newer products and need modernising before audits.", href: "/pune/" },
+      { name: "Enterprise portal migration in Chennai", note: "IT services and manufacturing businesses in Chennai that built vendor, dealer or staff portals in the 2010s may still be running them on AngularJS today.", href: "/chennai/" },
+      { name: "Product front-end upgrades in Pune", note: "Product and engineering companies in Pune may own older AngularJS admin tools sitting beside newer products, which are worth modernising before the next security review.", href: "/pune/" },
       { name: "Legacy dashboards in Hyderabad", note: "Pharma, IT and analytics teams in Hyderabad maintain AngularJS dashboards that must keep reporting correctly while their front ends are replaced.", href: "/hyderabad/" },
       { name: "SaaS back-office rewrites in Bengaluru", note: "Early Bengaluru SaaS products were frequently built on AngularJS; their internal admin and support consoles are prime candidates for phased migration.", href: "/bengaluru/" },
-      { name: "Corporate tools in Gurgaon", note: "Corporate offices in Gurgaon run AngularJS HR, travel and approval tools that security teams now want moved to supported frameworks.", href: "/gurgaon/" },
+      { name: "Corporate tools in Gurgaon", note: "Corporate offices in Gurgaon with internal HR, travel or approval tools written in AngularJS can move them to a supported framework without pausing daily use.", href: "/gurgaon/" },
       { name: "Dealer portals in Faridabad", note: "Auto component and engineering manufacturers in Faridabad rely on dealer and order portals of that era, where downtime would stop sales directly.", href: "/faridabad/" },
       { name: "Order systems in Vadodara", note: "Engineering and chemical firms in Vadodara use AngularJS order and dispatch screens that need migrating without interrupting plant operations.", href: "/vadodara/" },
       { name: "Hospital admin panels in Lucknow", note: "Hospitals and diagnostic groups in Lucknow depend on AngularJS billing and patient screens where a careful, tested cut-over is essential.", href: "/lucknow/" },
@@ -364,7 +364,7 @@ const content: FreelanceContent = {
       { name: "Handicraft export systems in Jodhpur", note: "Furniture and handicraft exporters in Jodhpur use older order and shipment portals where a phased rebuild protects busy export seasons.", href: "/jodhpur/" },
       { name: "Engineering firm portals in Tiruchirappalli", note: "Fabrication and engineering suppliers around Tiruchirappalli run project and vendor portals that benefit from a supported, testable front end.", href: "/tiruchirappalli/" },
       { name: "Distribution apps in Hubli-Dharwad", note: "Distributors and cooperative businesses in Hubli-Dharwad often run AngularJS ordering screens built by local vendors years ago.", href: "/hubli-dharwad/" },
-      { name: "Service desk tools in Thane", note: "Finance, insurance and service firms in Thane operate AngularJS ticketing and customer tools that auditors increasingly question.", href: "/thane/" },
+      { name: "Service desk tools in Thane", note: "Finance, insurance and service businesses in Thane with AngularJS ticketing or customer tools can replace them section by section while staff keep working.", href: "/thane/" },
     ],
   },
   process: {

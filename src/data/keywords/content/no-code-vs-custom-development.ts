@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Turn spreadsheets into software", note: "Many Glide apps are really a Google Sheet with screens. We turn that sheet into a proper database with roles and audit history.", href: "/convert-excel-to-software/", size: "md" },
       { name: "Custom API behind a no-code front end", note: "Keep the no-code screens your team knows, and move the rules, payments or heavy data work into a small custom service.", href: "/services/web-development/", size: "sm" },
       { name: "AI and WhatsApp automation", note: `Automations that outgrew no-code task runners, rebuilt as code you control, from ${P.ai}.`, href: "/ai-automation-freelancer/", size: "sm" },
-      { name: "Second opinion before you commit", note: "Send us your plan on WhatsApp. If a no-code tool is genuinely enough, we will say so and you will not be billed.", href: "/contact/", size: "sm" },
+      { name: "Second opinion before you commit", note: "Send us your plan on WhatsApp. If a no-code tool is genuinely enough, we will say so plainly; nothing is billed without your written approval.", href: "/contact/", size: "sm" },
     ],
   },
   comparison: {
@@ -120,7 +120,7 @@ const content: FreelanceContent = {
       heading: "When is no-code enough for your business?",
       paragraphs: [
         `No-code is enough when the goal is to learn, not to scale: you want to see whether people will use the thing before investing in it. If that describes you, start there and keep your spending small.`,
-        `We regularly advise people to stay on no-code. A coaching institute testing a batch-registration form, a founder showing investors a clickable prototype, an internal leave tracker for twelve staff: none of these need a developer writing code. Paying for custom work at that stage buys polish you cannot yet justify.`,
+        `Staying on no-code is often the right call, and we say so when it is. A coaching institute testing a batch-registration form, a founder showing investors a clickable prototype, an internal leave tracker for twelve staff: none of these need a developer writing code. Paying for custom work at that stage buys polish you cannot yet justify.`,
         `The warning is simple. No-code is enough only while the tool’s built-in limits are wider than your needs. The moment you start bending the business around what the tool allows (skipping a GST field, asking customers to pay on a separate link, re-typing data every evening), the tool is now costing you money in ways the subscription does not show.`,
       ],
       list: [
@@ -136,7 +136,7 @@ const content: FreelanceContent = {
       heading: "When should you pay for custom development instead?",
       paragraphs: [
         `Pay for custom development when the app has become part of how you earn money, and every week of workarounds costs more than the build. That usually shows up as payment, invoicing, data or performance problems rather than design complaints.`,
-        `Typical triggers we see from Indian businesses: a distributor needs field staff to take orders in areas with weak signal; a clinic wants appointment reminders on WhatsApp tied to its own patient records; a D2C brand needs UPI checkout that produces GST-compliant invoices with HSN codes automatically; a startup’s investors ask who owns the IP and the answer is “partly a no-code vendor”.`,
+        `Typical triggers for Indian businesses look like this: a distributor needs field staff to take orders in areas with weak signal; a clinic wants appointment reminders on WhatsApp tied to its own patient records; a D2C brand needs UPI checkout that produces GST-compliant invoices with HSN codes automatically; a startup’s investors ask who owns the IP and the answer is “partly a no-code vendor”.`,
         `Custom code also makes sense when your plan price is climbing faster than your revenue. Most no-code platforms charge by users, records, workload or app count, so success raises the bill. A custom app’s hosting grows too, but you pick the provider and can optimise the code instead of buying the next tier.`,
       ],
       after: [`If the thing you need is mainly a mobile app, our page on <a href='/get-an-app-made-for-business/'>getting an app made for your business</a> walks through the brief, stores and budget in detail.`],
@@ -164,7 +164,7 @@ const content: FreelanceContent = {
       subs: [
         { heading: "UPI and Indian checkout", text: "Customers here expect to pay by UPI apps, and many abandon a flow that only takes cards. On no-code tools this depends on a third-party plugin being available and maintained. In a custom build we integrate an Indian payment gateway directly, handle payment callbacks and reconcile failures." },
         { heading: "GST-compliant invoices", text: "A proper tax invoice needs your GSTIN, the buyer’s GSTIN for B2B, HSN or SAC codes, place of supply and CGST/SGST or IGST split. Generic invoice templates rarely handle interstate logic cleanly. Custom code can apply your rules and number invoices in the series your accountant wants." },
-        { heading: "Offline data entry", text: "Field sales staff, delivery riders and site supervisors often work with patchy signal. Browser-based no-code apps generally need a connection. A Flutter or React Native app can store entries on the phone and sync later, which is often the single deciding factor for us." },
+        { heading: "Offline data entry", text: "Field sales staff, delivery riders and site supervisors often work with patchy signal. Browser-based no-code apps generally need a connection. A Flutter or React Native app can store entries on the phone and sync later, which on its own can settle the no-code or custom question." },
         { heading: "Hindi and regional languages", text: "Many no-code tools support translations, but mixing scripts in PDFs, SMS and WhatsApp templates is where things break. In custom code you control fonts, encoding and message templates end to end." },
       ],
     },
@@ -188,7 +188,7 @@ const content: FreelanceContent = {
       heading: "Can a no-code app handle growth, or do you need custom code to scale?",
       paragraphs: [
         `A no-code app can handle more users than most people expect, but it scales by buying higher tiers rather than by improving the code. Custom development scales by changing queries, caching and infrastructure, which is cheaper per user once you are large enough.`,
-        `The pain points we see are specific. Search over tens of thousands of records gets slow because you cannot add the database index you want. Scheduled workflows start competing for the platform’s capacity budget. Reports that join several tables time out. Mobile screens built for desktop feel heavy on budget Android phones on 4G.`,
+        `The pain points tend to be specific. Search over tens of thousands of records gets slow because you cannot add the database index you want. Scheduled workflows start competing for the platform’s capacity budget. Reports that join several tables time out. Mobile screens built for desktop feel heavy on budget Android phones on 4G.`,
         `None of that means no-code failed. It means the app succeeded. A good sign you are near the ceiling is when support replies with “upgrade your plan” and the upgrade fixes the symptom for a month.`,
       ],
     },
@@ -232,7 +232,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Yes: keep the no-code front end your team already uses, and move the fragile or expensive part into a small custom service. It is a sensible bridge when a full rebuild is not yet justified.`,
         `Common patterns: a custom API that generates GST invoices and returns a PDF link to the no-code app; a small payment service that takes UPI and posts the result back through a webhook; a nightly job that copies your no-code data into your own PostgreSQL database so you always hold a copy. Each costs a fraction of a rebuild and cuts the specific risk that worries you.`,
-        `The downside is two systems to look after. If you find yourself building more and more around the no-code tool, that is the signal to plan the full move. We are happy to scope a bridge first and a rebuild later; many clients prefer that sequence because it spreads spending.`,
+        `The downside is two systems to look after. If you find yourself building more and more around the no-code tool, that is the signal to plan the full move. We are happy to scope a bridge first and a rebuild later; that sequence spreads spending across two budgets instead of one.`,
       ],
     },
     {

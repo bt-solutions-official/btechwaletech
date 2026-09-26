@@ -135,7 +135,7 @@ const content: FreelanceContent = {
       id: "domain",
       heading: "Domain name: what it costs and whose name it must be in",
       paragraphs: [
-        `A domain is a yearly rental of your website’s address, and it is one of the smallest items in the whole budget. For most small businesses in India, a .in or .com domain costs a few hundred to around a thousand-odd rupees a year at ordinary registrars; premium or very short names cost much more.`,
+        `A domain is a yearly rental of your website’s address, and it is one of the smallest items in the whole budget. For most small businesses in India, an ordinary .in or .com name is a modest yearly fee paid to a registrar, while premium or very short names are priced far higher; compare two or three registrars before buying.`,
         `The .in domain is India’s country domain, and its registry is run under the National Internet Exchange of India (NIXI). You buy the name through an accredited registrar, not from NIXI directly. A .in address signals an Indian business to customers; a .com is fine too if you also serve buyers abroad.`,
         `The price matters far less than the owner’s name on the record. The domain must be registered with your name, your email and your phone number, and the login must be with you. If a developer registers it “for convenience” under their own account, the day you part ways you may lose your website address, your business email and whatever Google ranking you built.`,
         `Two practical tips. Turn on auto-renew with a payment method you actually check, because domains expire quietly. And first-year prices are often discounted, so look at the renewal price before buying, since that is what you will pay every year after.`,
@@ -143,7 +143,7 @@ const content: FreelanceContent = {
     },
     {
       id: "pehla-saal-vs-agla-saal",
-      heading: "Pehle saal ka kharcha vs agle saal ka kharcha",
+      heading: "Website banane ka kharcha: pehla saal vs agla saal",
       paragraphs: [
         `Pehla saal hamesha mehenga hota hai kyunki usme website banti hai. Doosre saal se sirf renewals aur dekhbhaal bachti hai, jo kaafi kam hota hai.`,
         `Pehle saal mein aap dete hain: developer ka ek baar ka kharcha (simple website ${P.site} se), domain ka pehle saal ka paisa, hosting ka pehla plan, aur agar zaroorat ho toh photos ya content likhwane ka kharcha. Hamare saath launch ke baad 5 mahine ki maintenance free hoti hai, isliye pehle saal ka bada hissa isi mein cover ho jaata hai.`,
@@ -226,7 +226,7 @@ const content: FreelanceContent = {
     },
     {
       id: "sasta-quote",
-      heading: "Bahut sasta quote kaise pehchaane?",
+      heading: "Website banane ka kharcha bahut kam bataya? Sasta quote kaise pehchaane",
       paragraphs: [
         `Agar koi quote baaki sab se bahut kam hai, toh pehle yeh poochiye ki kya-kya chhoda gaya hai. Aksar sasta quote isliye sasta hota hai kyunki usme koi zaroori cheez nahi hai, ya woh baad mein alag se paisa maangega.`,
       ],
@@ -266,7 +266,7 @@ const content: FreelanceContent = {
     },
     {
       id: "maintenance",
-      heading: "Maintenance after launch: what it costs to keep a website healthy",
+      heading: "Website maintenance ka kharcha: keeping the site healthy after launch",
       paragraphs: [
         `Every website needs some care after launch: renewals on time, updates, backups, small text or photo changes, and a check that forms and WhatsApp buttons still work. How much depends on the type of site.`,
         `With us, the first five months after launch are free. That covers small edits, fixes and updates while you get used to the site. After that, maintenance starts from ${P.care} if you want us to continue. You can also stop; a static website with nothing to update can run for a long time with only domain and hosting renewals, and you have the logins to make small changes yourself.`,
@@ -377,7 +377,7 @@ const content: FreelanceContent = {
     { question: "Bahut sasta website quote mein kya khatra hai?", answer: "Aksar domain developer ke naam par hota hai, theme ya plugin chori ka hota hai, launch ke baad koi support nahi hota, ya doosre saal renewal ke naam par bada bill aata hai. Isliye quote likhit mein, line-by-line lijiye, pichla live kaam dekhiye aur poochiye ki launch ke baad kya milega." },
     { question: "Website banne mein kitna time lagta hai?", answer: "Simple website 1–2 hafte mein, SEO website 3–5 hafte mein, aur online store 4–8 hafte mein ban jaata hai. Sabse zyada deri content aur photos mein hoti hai, isliye text aur photos jaldi bhej dein toh website bhi jaldi live hoti hai. Online store mein payment gateway ki approval mein bhi kuch working din lagte hain." },
     { question: "Online dukan ki website banane ka kharcha kitna hai?", answer: `Hamare saath online store ${P.shop} se shuru hota hai, jisme products, cart, UPI aur card payment, order email aur admin panel aata hai. Products bahut zyada hon, COD ke rules chahiye hon ya courier jodna ho toh quote badhta hai. Har online payment par gateway ka charge aur har parcel par courier ka kharcha alag lagta hai.` },
-    { question: "Kya main apni website khud bhi update kar sakta hoon?", answer: "Haan. Handover par aapko saare logins milte hain aur zaroorat ho toh chhote recorded videos bhi, jisme dikhaya jaata hai ki text, photo ya price kaise badalte hain. Static website mein chhote badlav hum 5 mahine free karte hain, aur uske baad aap khud karein ya maintenance plan lein, aapki marzi." },
+    { question: "Kya main apni website khud bhi update kar sakta hoon?", answer: "Haan. Handover par aapko saare logins milte hain aur ek screen-share call bhi, jisme dikhaya jaata hai ki text, photo ya price kaise badalte hain. Static website mein chhote badlav hum 5 mahine free karte hain, aur uske baad aap khud karein ya maintenance plan lein, aapki marzi." },
     { question: "How much does a small business website cost in India?", answer: `With BtechWaleTech, a small business website of up to 100 pages starts at ${P.site} (${P.siteUsd}) and takes 1–2 weeks. That includes mobile design, a contact form, WhatsApp button, Google Maps and basic SEO. Domain and hosting are paid separately each year in your own name. Bigger SEO websites start at ${P.seoSite} and online stores at ${P.shop}.` },
     { question: "Why do website quotes in India vary so much?", answer: "Quotes differ because people quote different things. Some include content writing, custom design, SEO setup and months of support; others quote only a theme installation. Some keep the domain in their own name or use pirated themes to cut cost. Ask for a line-by-line quote and compare each line, not just the total." },
     { question: "Should I choose WordPress or a static website?", answer: "Choose WordPress if your staff will add posts or edit pages often and want a familiar dashboard. Choose a static website if the content changes rarely and you want speed, low hosting cost and fewer security worries. Most shops, clinics and offices do well with a static site, which is what our starting plan covers." },

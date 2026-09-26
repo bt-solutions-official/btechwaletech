@@ -66,7 +66,7 @@ const content: FreelanceContent = {
   services: {
     eyebrow: "What we fix when a website is not generating leads",
     heading: "Work that turns an existing visitor count into enquiries",
-    note: "Every job begins with a diagnosis, so you pay only for the fixes the data supports. These are the pieces we most often touch.",
+    note: "Every job begins with a diagnosis, so you pay only for the fixes the data supports. These are the fixes a diagnosis most commonly points to.",
     cards: [
       { name: "Lead-leak diagnosis", note: "We read Search Console queries, GA4 engagement and your contact paths on a real phone, then list each leak with its likely cost to you and the order to fix it.", href: "/conversion-rate-optimization-services/", size: "lg" },
       { name: "Tracking that proves the fix", note: "Form submissions, WhatsApp clicks and call taps become GA4 key events, set through Google Tag Manager, so the before-and-after is visible in numbers.", href: "/conversion-tracking-setup/", size: "lg" },
@@ -84,7 +84,7 @@ const content: FreelanceContent = {
     columns: ["What happens", "Spend more on ads", "Order a full redesign first", "BtechWaleTech: diagnose, then fix"],
     rows: [
       ["First action", "Raise the daily ad budget", "Brief a designer on a new look", "Read queries, events and contact paths"],
-      ["If the form is broken", "More paid clicks lost to the same bug", "May be fixed by accident, or not", "Found and tested on day one"],
+      ["If the form is broken", "More paid clicks lost to the same bug", "May be fixed by accident, or not", "Found and tested during the diagnosis"],
       ["If traffic has the wrong intent", "Pays for even more of it", "New design, same wrong visitors", "Keywords and pages re-mapped to buyers"],
       ["Proof of improvement", "Platform-reported numbers", "Often none, just a nicer site", "GA4 key events you can open yourself"],
       ["Time to first result", "Immediate spend, uncertain return", "Weeks before anything changes", "Quick fixes live within days"],
@@ -179,7 +179,7 @@ const content: FreelanceContent = {
       id: "whatsapp-call",
       heading: "Missing WhatsApp and call buttons on a website not generating leads",
       paragraphs: [
-        `In India, a large share of enquiries start on WhatsApp or with a phone call, so a site that offers only a form is asking visitors to use the channel they like least. Adding a visible WhatsApp button and a tap-to-call button is often the quickest single change we make on a website not generating leads.`,
+        `Many Indian customers would rather send a WhatsApp message or make a quick call than type into a form, so a site that offers only a form asks visitors to use the channel they like least. A visible WhatsApp button and a tap-to-call button are usually the quickest, cheapest repair on a website not generating leads.`,
         `The technical part is simple and well documented. WhatsApp’s click-to-chat feature uses a link of the form wa.me followed by the full number in international format, and WhatsApp’s own help pages say to leave out zeros, brackets and dashes. A text parameter can prefill the first message, so a visitor on your “kitchen renovation” page can open a chat that already reads “Hi, I want a price for kitchen renovation”. Phone numbers become tappable with a tel: link.`,
         `What makes the difference is placement and context. On mobile we use a slim bar fixed to the bottom of the screen with two buttons, chat and call, visible on every page without covering content. Each service page gets its own prefilled message, which tells you which page produced the lead even before tracking reports it. If nobody answers after hours, the button text or a short line says when you reply, so people are not left wondering.`,
       ],
@@ -191,7 +191,7 @@ const content: FreelanceContent = {
       id: "broken-forms",
       heading: "Broken forms: the silent reason a website stops generating leads",
       paragraphs: [
-        `A contact form can look perfect and deliver nothing. We regularly find forms that send to an old email address, forms whose messages are rejected by the receiving mail server, and forms that fail after a plugin or hosting update without showing any error to the visitor.`,
+        `A contact form can look perfect and deliver nothing. Typical failures are a form still sending to an old email address, messages rejected by the receiving mail server, and a form that stops working after a plugin or hosting update without showing any error to the visitor.`,
         `The most common cause is email authentication. When a website sends mail “from” your domain without proper SPF, DKIM and DMARC records, Gmail and other providers may file it as spam or refuse it. The visitor sees “Thank you”, you see nothing. The fix is to send form mail through an authenticated mail service and, as a safety net, also store every submission in a database or Google Sheet you can open.`,
         `Other form problems are about friction rather than failure: ten fields when three would do, mandatory company names for individual customers, a captcha that is hard on small screens, or a phone field that rejects numbers typed with +91. Each unnecessary field gives a hesitant visitor another reason to close the tab.`,
       ],
@@ -333,7 +333,7 @@ const content: FreelanceContent = {
       heading: "Fixing a website not generating leads for businesses across India",
       paragraphs: [
         `The leaks are the same everywhere, but the buyer searches differ by city: a Surat textile trader and a Kochi homestay attract very different queries. We work fully remotely, share findings on WhatsApp and screen-share calls, and take payment by UPI or bank transfer.`,
-        `City pages describe the businesses we see in each place: <a href='/ludhiana/'>Ludhiana</a>, <a href='/kanpur/'>Kanpur</a>, <a href='/rajkot/'>Rajkot</a>, <a href='/nashik/'>Nashik</a>, <a href='/madurai/'>Madurai</a>, <a href='/raipur/'>Raipur</a>, <a href='/thiruvananthapuram/'>Thiruvananthapuram</a>, <a href='/jodhpur/'>Jodhpur</a>, <a href='/mangaluru/'>Mangaluru</a> and <a href='/vijayawada/'>Vijayawada</a>. Clinics and law practices face extra rules on what they may say, covered on <a href='/seo-for-doctors/'>SEO for doctors</a> and <a href='/seo-for-lawyers/'>SEO for lawyers</a>.`,
+        `City pages describe the local business mix in each place: <a href='/ludhiana/'>Ludhiana</a>, <a href='/kanpur/'>Kanpur</a>, <a href='/rajkot/'>Rajkot</a>, <a href='/nashik/'>Nashik</a>, <a href='/madurai/'>Madurai</a>, <a href='/raipur/'>Raipur</a>, <a href='/thiruvananthapuram/'>Thiruvananthapuram</a>, <a href='/jodhpur/'>Jodhpur</a>, <a href='/mangaluru/'>Mangaluru</a> and <a href='/vijayawada/'>Vijayawada</a>. Clinics and law practices face extra rules on what they may say, covered on <a href='/seo-for-doctors/'>SEO for doctors</a> and <a href='/seo-for-lawyers/'>SEO for lawyers</a>.`,
       ],
     },
   ],
@@ -441,7 +441,7 @@ const content: FreelanceContent = {
     { question: "Can you fix a WordPress site that is not generating leads?", answer: "Yes. On WordPress the usual problems are form plugins sending unauthenticated mail, heavy page builders slowing mobile pages, and archive pages competing with service pages. We fix those in place when the site is sound and quote a rebuild only if the theme or plugins make that impractical." },
     { question: "Do you guarantee a number of leads?", answer: "No. Nobody can honestly guarantee leads or rankings, because they depend on your market, offer, prices and competitors. What we commit to is a clear diagnosis, itemised fixes you approve, and tracking in your own GA4 that shows the before and after for the actions we changed." },
     { question: "Who owns the analytics and tracking you set up?", answer: "You do. Google Analytics, Tag Manager, Search Console, the domain and the hosting stay in your accounts, with us added as users. If you stop working with us, you keep all the data and setup, and you can remove our access at any time from the account settings." },
-    { question: "How do I pay for the fixes?", answer: "In India by UPI or bank transfer; clients abroad pay by Wise, bank wire or PayPal in USD. You receive an itemised quote in about two working days, approve it in writing, and pay in stages agreed in that quote. Terms are described on our terms and refund policy pages." },
+    { question: "How do I pay for the fixes?", answer: "In India by UPI or bank transfer; clients abroad pay by Wise, bank wire or PayPal in USD. You receive an itemised quote in about two working days, approve it in writing, and pay on the schedule written into that quote. Terms are described on our terms and refund policy pages." },
     { question: "Can you also answer WhatsApp leads automatically after hours?", answer: `Yes. For businesses with many chats, we build WhatsApp automation that sends a first reply, asks a few qualifying questions and passes the lead to your team, from ${P.ai}. For smaller volumes, a clear note about reply hours and a prefilled message is usually enough.` },
     { question: "Website se enquiry kyun nahi aa rahi, kya karein?", answer: "Pehle Search Console mein dekhiye ki log kin searches se aa rahe hain. Phir apne phone se form, WhatsApp button aur call button test kijiye. Aksar form ka email spam mein jaata hai ya WhatsApp link galat number par khulta hai. Hum diagnosis karke har fix ka alag price dete hain, approval ke baad hi kaam shuru hota hai." },
   ],

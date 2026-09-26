@@ -92,7 +92,7 @@ const content: FreelanceContent = {
       ["If you stop paying", "Leads stop", "Reach drops", "Site keeps working; you own the code"],
       ["Data you keep", "Limited export, if any", "Scattered in chats", "Every enquiry in your own sheet or CRM"],
     ],
-    fine: "Portals can still help in a new city while your own site gathers reviews; many movers keep one running during the first months and then cut back.",
+    fine: "Portals can still help in a new city while your own site gathers reviews; you can keep one running for the first months and cut back once direct enquiries grow.",
   },
   pricing: {
     heading: "Packers and movers website design pricing",
@@ -136,7 +136,7 @@ const content: FreelanceContent = {
       heading: "How does a moving quote calculator work on a packers and movers website?",
       paragraphs: [
         `It asks five to eight quick questions and shows an indicative price range, then invites the customer to book a free survey for the exact figure. The calculator does not replace your survey; it removes the “how much roughly?” call that wastes both sides’ time.`,
-        `The inputs that move a shifting price are well known to any mover: home size (1 RK to 4 BHK or villa), whether pickup and drop floors have a lift, distance or route, the vehicle needed, packing material quality, extras such as dismantling furniture or wall-mounting a TV, and the moving date, because month-end and weekend moves cost more in most cities. You give us the logic your estimators use; we turn it into rules the site applies.`,
+        `The inputs that move a shifting price are well known to any mover: home size (1 RK to 4 BHK or villa), whether pickup and drop floors have a lift, distance or route, the vehicle needed, packing material quality, extras such as dismantling furniture or wall-mounting a TV, and the moving date, if your own rates change for peak days such as month-ends or weekends. You give us the logic your estimators use; we turn it into rules the site applies.`,
         `We always show a range, never a single amount, and state clearly that the final quote follows the survey. That protects you from customers who hold up a screenshot on moving day. When the customer submits, the lead reaches you with every answer attached, so your estimator starts the call already knowing it is a 2 BHK on the fourth floor without a lift, moving from Whitefield to Pune on the 30th.`,
       ],
       list: [
@@ -145,7 +145,7 @@ const content: FreelanceContent = {
         "Distance, or pickup and drop pincodes for automatic route lookup",
         "Packing grade: standard or premium materials",
         "Extras: dismantling, car or bike, storage, insurance cover",
-        "Preferred date, with a note that month-end slots fill first",
+        "Preferred date, so any peak-day pricing you use can apply",
       ],
     },
     {
@@ -171,7 +171,7 @@ const content: FreelanceContent = {
       heading: "How can a packers and movers website prove you are not a fake mover?",
       paragraphs: [
         `By publishing details a fake operator cannot copy: a registered business name matching your GST registration, a physical address that shows up on Google Maps with photos, a landline or official number that stays the same, real photos of your trucks with your name on them, and a sample written quote showing how you itemise charges.`,
-        `Fake-mover stories are common enough that many customers search your brand name plus “fraud” or “review” before calling. Your packers and movers website design should answer that search directly with a “How to verify us” page. List what a genuine mover provides: a written quote after survey, a signed inventory of items, a consignment note or lorry receipt for intercity moves, a clear insurance or transit-risk option, and payment through traceable methods. If you hold any association membership or approval, such as IBA approval for bank staff transfers, show it only with the reference a customer can check, and never display a badge you do not hold.`,
+        `Customers who have heard fake-mover stories may search your brand name plus “fraud” or “review” before calling. Your packers and movers website design should answer that search directly with a “How to verify us” page. List what a genuine mover provides: a written quote after survey, a signed inventory of items, a consignment note or lorry receipt for intercity moves, a clear insurance or transit-risk option, and payment through traceable methods. If you hold any association membership or approval, such as IBA approval for bank staff transfers, show it only with the reference a customer can check, and never display a badge you do not hold.`,
         `Add a claims process: how a customer reports damage, within what time you ask them to do so, and who handles it. Stating this upfront tells customers you expect to stand behind your work. For disputes customers cannot resolve with any business, the Department of Consumer Affairs runs the National Consumer Helpline, reachable on 1915; a transparent mover loses nothing by acknowledging that customers have that route.`,
       ],
     },
@@ -180,7 +180,7 @@ const content: FreelanceContent = {
       heading: "Can packers and movers website design include city-to-city route pages without spam?",
       paragraphs: [
         `Yes, if every route page describes a corridor you actually run and says something only your team knows about it. Many mover sites generate hundreds of “packers and movers from X to Y” pages with identical text and swapped names. That is exactly the pattern Google’s spam policies call doorway abuse, giving the example of pages targeted at specific regions or cities that funnel users to one page.`,
-        `A useful route page includes the typical transit days, how often your trucks run that corridor (dedicated vehicle or shared load), which cities along the way you can also serve, state-border paperwork notes, the price factors specific to that distance, and reviews from customers who moved on that route. Ten such pages will outperform five hundred copies, and they will not drag the rest of your site down.`,
+        `A useful route page includes the typical transit days, how often your trucks run that corridor (dedicated vehicle or shared load), which cities along the way you can also serve, state-border paperwork notes, the price factors specific to that distance, and reviews from customers who moved on that route. Ten such pages give Google and customers a real reason to trust them, which five hundred copies never do, and they will not drag the rest of your site down.`,
         `Branch pages follow the same rule. A page for your Hyderabad team should show that team, its address, its local area coverage and its reviews, not a paragraph with “Hyderabad” pasted in. Our <a href='/multi-location-seo/'>multi-location SEO</a> guide explains how branch pages and Google Business Profiles support each other, and the dedicated <a href='/seo-for-packers-and-movers/'>mover SEO</a> page covers keyword planning city by city.`,
       ],
     },
@@ -190,7 +190,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Instantly, to the right person, with every detail the customer already typed. In shifting, the mover who calls back first with a sensible range often books the survey, so every minute between form submission and your call matters.`,
         `We route by pickup city or pincode: an enquiry starting in Gurgaon goes to the Gurgaon branch manager, one starting in Noida to that team, and anything outside your coverage to a head-office number. The first line of the message reads like a summary, for example “2 BHK, 3rd floor no lift, Gurgaon to Jaipur, 28th, estimate range shown”. The same lead is logged in a Google Sheet or CRM with a timestamp and the page it came from.`,
-        `For higher volumes, the WhatsApp Business Platform can send the customer an instant acknowledgement, a checklist for survey day and a reminder the evening before. That needs a verified business number and approved message templates, which we set up in your account. A missed-lead report each morning, listing enquiries nobody replied to, is a small addition that often recovers more bookings than any design change. See <a href='/whatsapp-crm-for-small-business/'>WhatsApp CRM for small business</a> for how teams track follow-ups.`,
+        `For higher volumes, the WhatsApp Business Platform can send the customer an instant acknowledgement, a checklist for survey day and a reminder the evening before. That needs a verified business number and approved message templates, which we set up in your account. A missed-lead report each morning, listing enquiries nobody replied to, is a small addition that shows exactly where bookings are slipping away. See <a href='/whatsapp-crm-for-small-business/'>WhatsApp CRM for small business</a> for how teams track follow-ups.`,
       ],
     },
     {
@@ -224,7 +224,7 @@ const content: FreelanceContent = {
       id: "reviews-gbp",
       heading: "How do reviews and Google Business Profile support packers and movers website design?",
       paragraphs: [
-        `They are often the deciding factor. Customers compare two or three movers by reading reviews, and they give more weight to reviews that mention specific moves, crew names and how damage was handled.`,
+        `They can decide the booking. A customer comparing two or three movers reads reviews closely, and a review that mentions a specific move, the crew and how a damaged item was handled says far more than a one-line rating.`,
         `Each branch with a real address and staff should have its own verified Google Business Profile, with the same name, address and phone number as the branch page on your website. We link each branch page to its profile and show recent reviews on the page. After every completed move, your team can send the customer a WhatsApp message with a direct review link; the website can generate that link automatically.`,
         `Two cautions. Never buy reviews or post fake ones: platforms remove them and customers notice patterns. And do not list addresses where you have no staff just to appear in more cities; that risks suspension of the profile. Our <a href='/google-business-profile-expert/'>Google Business Profile</a> page explains setup and verification. A packers and movers website design that shows honest reviews, including a few mixed ones with your reply, reads as more believable than a wall of five-star lines.`,
       ],
@@ -306,7 +306,7 @@ const content: FreelanceContent = {
         ["Home size", "1 RK, 1 BHK, 2 BHK, 3 BHK, villa, or item list", "Sets truck size, crew size and packing material", "No"],
         ["Floors and lift", "Pickup and drop floor, lift yes or no", "Stair carrying adds labour and time", "No"],
         ["Route", "Local, or pickup and drop pincodes", "Distance, tolls and transit days", "No"],
-        ["Moving date", "Calendar date", "Month-end and weekend demand in most cities", "Yes"],
+        ["Moving date", "Calendar date", "Peak-day pricing, if your rates use it", "Yes"],
         ["Packing grade", "Standard or premium materials", "Material cost and packing time", "Yes"],
         ["Extras", "Car, bike, dismantling, storage, cover", "Separate charges shown as line items", "Yes"],
       ],
@@ -384,7 +384,7 @@ const content: FreelanceContent = {
   faqs: [
     { question: "How much does a packers and movers website cost?", answer: `With BtechWaleTech, packers and movers website design starts at ${P.site} for up to 100 pages with a quote calculator, household, office and vehicle shifting pages, a trust page, branch pages and WhatsApp lead routing. Booking, survey and invoicing software is separate, from ${P.software}. You receive an itemised estimate in about two working days and pay nothing before approving it in writing.` },
     { question: "Can my website give customers an instant moving quote?", answer: "Yes. A moving quote calculator asks for home size, pickup and drop floors, lift availability, distance, date and extras, then shows an indicative range based on rules from your own estimators. It clearly states that the final price follows a survey. The customer’s answers reach you with the enquiry, so your first call starts with full details." },
-    { question: "How do I get shifting leads without paying lead portals?", answer: "Build a website that ranks for your city and service searches and convinces visitors to contact only you: a quote calculator, clear service pages, trust proof such as registration details and photos of your own trucks, and genuine Google reviews. Route enquiries to WhatsApp instantly. Many movers keep a portal running while their own site builds up, then reduce spending as direct leads grow." },
+    { question: "How do I get shifting leads without paying lead portals?", answer: "Build a website that ranks for your city and service searches and convinces visitors to contact only you: a quote calculator, clear service pages, trust proof such as registration details and photos of your own trucks, and genuine Google reviews. Route enquiries to WhatsApp instantly. You can keep a portal running while your own site builds up, then reduce spending as direct leads grow." },
     { question: "What pages should a packers and movers website have?", answer: "A home page with the calculator, pages for household shifting, office relocation, car and bike transport, local and intercity moves, storage if you offer it, a page for each staffed branch, a trust page covering your quote, inventory and claims process, reviews, an FAQ and a contact page with a map. Route pages come later, only for corridors you run." },
     { question: "How long does packers and movers website design take?", answer: "About two weeks for a standard packers and movers site once we have your photos, branch details and estimating rules. The calculator is usually ready for your team to test by the end of the first week. Extra route pages, branch pages or booking software add time, mainly because each needs details from your side." },
     { question: "How can customers know my moving business is genuine?", answer: "Show details a fake operator cannot copy: your legal business name and GST registration, a branch address visible on Google Maps, a stable official phone number, real photos of your own crew and trucks, a sample written quote, a signed inventory process and a claims procedure. Display any approval or membership only if you hold it, with a reference customers can check." },

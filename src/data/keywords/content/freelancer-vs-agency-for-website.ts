@@ -13,7 +13,7 @@ const content: FreelanceContent = {
   crumb: "Freelancer vs agency for website development",
   updated: "2026-09-25",
   meta: {
-    title: `Freelancer vs Agency for Website: Sites from ${P.site}`,
+    title: "Freelancer vs Agency for Website Development: Costs",
     description: `Freelancer vs agency for website development in India: cost, risk, ownership and a scorecard by project size. Small-team sites from ${P.site}.`,
     keywords: [
       "freelancer vs agency for website development", "freelancer vs agency for website", "freelancer vs agency", "freelancer or agency for website",
@@ -47,7 +47,7 @@ const content: FreelanceContent = {
     { value: "5", label: "Months of free maintenance after launch" },
   ],
   answer: {
-    heading: "Is a freelancer or an agency better for website development?",
+    heading: "Freelancer vs agency for website development: which is better?",
     text: `A freelancer suits small, clearly scoped websites where budget matters and you want to talk to the builder. An agency suits large projects needing many specialists at once, formal procurement or on-site presence. A small freelance team sits between: freelance rates with backup if one person is unavailable. With BtechWaleTech a website starts at ${P.site} and an online store at ${P.shop}.`,
     more: `For apps specifically, see <a href='/app-development-company-vs-freelancer/'>app development company vs freelancer</a>; for search work, <a href='/seo-agency-vs-freelancer/'>SEO agency vs freelancer</a> covers the same choice.`,
   },
@@ -88,7 +88,7 @@ const content: FreelanceContent = {
       ["If the builder is ill or leaves", "Work usually stops", "Replacement assigned from the bench", "Two teammates already know the codebase"],
       ["Specialist coverage", "One skill set", "Designers, developers, QA, SEO, content", "Full-stack, AI/cloud/SEO and project management"],
       ["Speed of small changes", "Fast if they are free", "Ticket, queue, approval", "Direct message to the developers; no ticket queue"],
-      ["Ownership terms", "Varies; often unwritten", "Written, sometimes favouring the agency", "Written assignment to you; accounts in your name"],
+      ["Ownership terms", "Varies; often unwritten", "Written, sometimes favouring the agency", "Code and accounts yours, stated in the quote"],
       ["Paperwork", "May or may not issue GST invoices", "Formal invoices and contracts", "Itemised quote and written approval before billing"],
       ["Project size ceiling", "Small to medium", "Very large, many parallel streams", "Small to mid-sized; not 20-developer programmes"],
       ["On-site presence", "Sometimes, if local", "Often available", "Remote only; video calls and staging links"],

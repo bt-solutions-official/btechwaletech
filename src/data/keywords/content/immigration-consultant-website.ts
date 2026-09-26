@@ -44,10 +44,10 @@ const content: FreelanceContent = {
     { value: "3", label: "Developers you talk to directly" },
     { value: "2", label: "Working days to an itemised quote" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
-    { value: "5", label: "Months of free changes after launch" },
+    { value: "5", label: "Months of free maintenance after launch" },
   ],
   answer: {
-    heading: "How should an immigration consultant website design generate qualified leads?",
+    heading: "How should immigration consultant website design generate qualified leads?",
     text: `An immigration consultant website should route each visitor to a country and visa-type page, let them check rough eligibility with a calculator, then capture a multi-step free assessment that scores the lead and pushes it to your CRM and WhatsApp. Licence numbers and office details build trust. BtechWaleTech builds this from ${P.site}; calculators and CRM automation from ${P.ai}.`,
     more: `For the lead-scoring piece on its own, read about <a href='/ai-lead-qualification/'>AI lead qualification</a>; for ranking these pages over time, see <a href='/seo-for-study-abroad-consultants/'>SEO for study abroad and visa consultants</a>.`,
   },
@@ -104,8 +104,8 @@ const content: FreelanceContent = {
       id: "qualified-leads",
       heading: "What is immigration consultant website design really for?",
       paragraphs: [
-        `It exists to separate people who can realistically qualify and will pay for advice from the much larger crowd who are curious, ineligible or shopping for a free opinion. A site that brings 300 enquiries a month, of which six become files, costs your counsellors more time than one that brings 80 enquiries and twelve files.`,
-        `Most consultancy sites we see were built for volume. A banner shouts “Canada PR in 6 months”, a pop-up asks for name and number, and every callback starts from zero because nobody knows the enquirer’s age, education or language score. Counsellors spend the morning disqualifying people the website could have screened.`,
+        `It exists to separate people who can realistically qualify and will pay for advice from the much larger crowd who are curious, ineligible or shopping for a free opinion. Picture two sites: one brings 300 enquiries a month and six become files, the other brings 80 enquiries and twelve files. The second costs your counsellors far less time and earns more.`,
+        `A volume-first consultancy site is easy to recognise. A banner shouts “Canada PR in 6 months”, a pop-up asks for name and number, and every callback starts from zero because nobody knows the enquirer’s age, education or language score. Counsellors spend the morning disqualifying people the website could have screened.`,
         `Good immigration consultant website design reverses that. The visitor first reads an honest page about a specific programme, checks a rough score, and then fills a structured assessment. By the time your counsellor calls, they know the destination, the probable pathway, the gaps (usually language scores or funds) and whether the applicant can afford your fees. The call becomes advice, not interrogation.`,
       ],
     },
@@ -143,7 +143,7 @@ const content: FreelanceContent = {
       heading: "Do CRS and eligibility calculators actually help an immigration website?",
       paragraphs: [
         `Yes, when they are accurate, clearly labelled as indicative, and lead into your assessment rather than replacing it. A calculator gives the visitor a reason to stay, and it gives you structured data about their profile.`,
-        `Canada’s Comprehensive Ranking System is the obvious example. IRCC publishes the criteria on its website, with a maximum of 1,200 points made up of core human capital factors, spouse factors, skill transferability and additional points. Our calculator follows the published tables, shows the breakdown, and states in plain words that the official IRCC tool and an adviser’s review are what count.`,
+        `Canada’s Comprehensive Ranking System is the obvious example. IRCC publishes the criteria on its website, with a maximum of 1,200 points made up of core human capital factors, spouse factors, skill transferability and additional points. Our calculator follows the published tables, shows the breakdown, and states in plain words that the official IRCC tool and an adviser’s review are what count. The tables do move: IRCC removed job-offer points from the CRS for candidates in the pool from 25 March 2025, so any calculator still adding them is out of date.`,
         `Points tests change. When IRCC or another authority revises a factor, the calculator must be updated or it quietly misleads people. We build calculators with their scoring tables in one editable file and add a “rules checked on” date that displays on the page, so everyone can see how fresh the logic is.`,
         `For programmes without a points grid, an eligibility checker works better: a few yes-or-no questions that return “likely eligible, book an assessment”, “possibly eligible, gaps to address” or “this route does not fit; here are alternatives”. The third answer matters. Telling someone honestly that a route is closed builds more trust than a false yes.`,
       ],
@@ -179,7 +179,7 @@ const content: FreelanceContent = {
       id: "licence-disclosure",
       heading: "Licence and registration details: what an immigration consultant website should display",
       paragraphs: [
-        `Show exactly the registrations your advisers hold, with the regulator’s name and a link to its public register, and nothing you do not hold. Applicants who have heard about fake agents increasingly check, and a verifiable number next to a named person is the strongest trust signal you can give.`,
+        `Show exactly the registrations your advisers hold, with the regulator’s name and a link to its public register, and nothing you do not hold. An applicant worried about fake agents can check a number against the register in a minute, and a verifiable number next to a named person is the strongest trust signal you can give.`,
         `The rules depend on the destination. On IRCC’s own website, authorised paid representatives are members of the College of Immigration and Citizenship Consultants, lawyers and notaries who are members of a Canadian provincial or territorial law society or the Chambre des notaires du Québec, and Ontario paralegals licensed by the Law Society of Ontario. Australia’s Office of the Migration Agents Registration Authority keeps a public register where each registered agent has a Migration Agent Registration Number. In the UK, the regulator formerly known as OISC was renamed the Immigration Advice Authority in January 2025.`,
         `Indian rules matter as well. Under the Emigration Act, 1983, anyone recruiting Indian citizens for jobs abroad must be registered with the Protector General of Emigrants, and registered agents can be checked on the eMigrate portal. In Punjab, the Punjab Travel Professionals (Regulation) Act, 2014 requires a licence from the district authority for immigration consultancy, IELTS coaching and travel agency businesses.`,
         `We build a licence panel that lists each adviser, their regulator and number, and a direct link to verify. If a consultancy works with a licensed partner abroad rather than holding a licence itself, the site should say so plainly. We do not give legal advice on which licence you need; confirm that with the regulator or your lawyer.`,
@@ -228,7 +228,7 @@ const content: FreelanceContent = {
       heading: "How should an immigration website handle passports and personal documents?",
       paragraphs: [
         `Do not collect documents on the first form. A free assessment needs profile answers, not passport scans. Documents should come later, after a client has signed up, through a secure upload area with access limited to the counsellors handling that file.`,
-        `India’s Digital Personal Data Protection Act, 2023 governs digital personal data, and the DPDP Rules, 2025 were notified in November 2025 with obligations phased in over the following months. For a consultancy site, the sensible build choices are: collect only what each step needs, show a clear notice explaining why, record consent, encrypt uploads, restrict staff access by role, keep an access log, and delete documents on a schedule you set.`,
+        `India’s Digital Personal Data Protection Act, 2023 governs digital personal data, and the DPDP Rules, 2025 were notified in November 2025, with most obligations taking effect eighteen months after notification. For a consultancy site, the sensible build choices are: collect only what each step needs, show a clear notice explaining why, record consent, encrypt uploads, restrict staff access by role, keep an access log, and delete documents on a schedule you set.`,
         `Where a client portal is needed, with document checklists, status updates and messaging, that becomes a custom web app from ${P.software}. Plenty of consultancies start with a secure upload link plus WhatsApp updates and move to a portal later. We build the technical controls; whether your practice meets its legal obligations is for your own lawyer to confirm.`,
       ],
     },
@@ -236,7 +236,7 @@ const content: FreelanceContent = {
       id: "seo",
       heading: "SEO for an immigration consultant website: freshness, authorship and local intent",
       paragraphs: [
-        `Immigration content affects people’s money and lives, so search engines weigh accuracy, freshness and expertise heavily. The pages that rank tend to be specific, dated, reviewed by a named professional and linked to official sources.`,
+        `Immigration content affects people’s money and lives, so search engines weigh accuracy, freshness and expertise heavily. Google’s own guidance on helpful content asks whether pages show clear expertise and who wrote them, so the strongest immigration pages are specific, dated, reviewed by a named professional and linked to official sources.`,
         `Three kinds of searches matter. Programme searches (“Express Entry points requirement”, “Australia 190 visa eligibility”) are won by clear, current programme pages. Local searches (“immigration consultant in Mohali”, “visa agent near me”) are won by branch pages and a well-kept Google Business Profile. Problem searches (“Canada visa refused what to do”, “spouse visa documents checklist”) are won by practical guides that end in an assessment.`,
         `Our immigration consultant website design includes a schema setup for the organisation and each branch, FAQ blocks on programme pages, an updates section with dated posts, and Search Console in your name. Monthly SEO from ${P.seo} is optional and usually means reviewing programme pages after policy changes and adding guides for new questions. Nobody can guarantee rankings in this sector, which is competitive and heavily advertised.`,
       ],
@@ -370,7 +370,7 @@ const content: FreelanceContent = {
       ["Agree the scoring rules", "We draft the assessment questions and score bands; you adjust them so the output matches how your senior counsellor judges a profile."],
       ["Review on a private link", "Templates, forms and first programme pages go live on a preview you can test from any phone, including test submissions into your CRM."],
       ["Launch and verify", "We check every form path, WhatsApp alert, redirect and register link, set up Search Console, then switch the domain."],
-      ["Update as rules change", "Five months of free maintenance cover programme page edits and calculator updates; optional care continues afterwards."],
+      ["Update as rules change", "Five months of free maintenance follow launch, with the scope written into your quote; optional care continues afterwards."],
     ],
   },
   faqHeading: "Immigration consultant website design: frequently asked questions",
@@ -391,9 +391,9 @@ const content: FreelanceContent = {
     { question: "Should I show my consultation fees on the website?", answer: "It helps to be clear either way. Many consultancies publish the fee for an initial paid consultation and explain that file fees are quoted after assessment. Others only describe how fees are calculated. What damages trust is hidden charges discovered later. The website can also take paid consultation bookings through UPI or card checkout." },
     { question: "Can you build separate pages for each of our branches?", answer: "Yes. Each branch gets its own page with address, map, timings, advisers and registration details, and the shared assessment can route leads to the nearest branch based on the applicant’s district or choice. Branch pages also support separate Google Business Profiles, which matter for local searches like “immigration consultant near me”." },
     { question: "Is a freelance team suitable for building an immigration consultancy website?", answer: "For most consultancies, yes. The work is a well-structured site with forms, calculators and integrations, which a small experienced team handles well. You speak directly to the three developers doing the work. If you need a huge case-management platform with dozens of integrations, we will tell you honestly whether that fits a freelance team." },
-    { question: "Can you run Google and Meta ad landing pages for immigration services?", answer: "We build the landing pages and connect them to the same scored assessment and CRM, so ad leads can be compared with organic ones by quality, not just count. We do not manage ad spend. Note that ad platforms have their own policies for immigration services, and your copy should avoid guarantees in any case." },
+    { question: "Can you run Google and Meta ad landing pages for immigration services?", answer: "We build the landing pages and connect them to the same scored assessment and CRM, so ad leads can be compared with organic ones by quality, not just count. We do not manage ad spend. Google and Meta each apply their own advertising policies, so check the current rules for your category before launching, and keep guarantees out of the copy either way." },
     { question: "Do I own the website, domain and lead data?", answer: "Yes. The domain, hosting, CRM account and analytics are opened in your name, and the code is handed over at launch. All lead data sits in your accounts, not ours. We work through access you grant and return every login at handover. Payments are by UPI or bank transfer in India, or Wise, wire or PayPal from abroad." },
-    { question: "What is included in the five months of free maintenance?", answer: `Programme page updates when rules change, calculator table updates, new branch or adviser details, fixes and small changes during the five months after launch. After that, maintenance is optional from ${P.care}, or you can manage the site yourself or hire anyone else, since you own everything.` },
+    { question: "What is included in the five months of free maintenance?", answer: `Maintenance is free for five months after launch, and your written quote lists exactly what it covers, typically fixes and small updates to existing pages. Larger work, such as new calculators or new country sections, is quoted separately. After that, maintenance is optional from ${P.care}, or you can manage the site yourself or hire anyone else, since you own everything.` },
     { question: "Can you add a study visa section to an immigration consultant website?", answer: "Yes, but keep it structurally separate, because students search and decide differently: they follow intake deadlines, course choices and university partners rather than points scores. A clear student section or sister site with its own course finder and counselling booking usually converts better. Our study abroad consultant website guide explains that funnel." },
     { question: "Immigration consultant ki website banwane me kitna kharcha aata hai?", answer: `BtechWaleTech ke saath immigration consultant website ${P.site} se start hoti hai, jisme country pages, visa-type pages, licence details aur enquiry form aate hain. CRS calculator, scored assessment aur CRM automation ${P.ai} se start hote hain. Itemised quote lagbhag do working days me milta hai, aur approval se pehle koi billing nahi hoti.` },
   ],
@@ -417,7 +417,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready for an immigration consultant website design that screens leads before you call?",
-    note: `Send us your destinations, visa types and registrations on WhatsApp. You will get an itemised quote in about two working days, starting at ${P.site}, with every account in your name and five months of free updates after launch.`,
+    note: `Send us your destinations, visa types and registrations on WhatsApp. You will get an itemised quote in about two working days, starting at ${P.site}, with every account in your name and five months of free maintenance after launch.`,
   },
 };
 

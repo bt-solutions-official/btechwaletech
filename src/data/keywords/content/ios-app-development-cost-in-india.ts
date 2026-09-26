@@ -66,7 +66,7 @@ const content: FreelanceContent = {
   services: {
     eyebrow: "iPhone app work we take on",
     heading: "iOS app projects and what moves each one’s price",
-    note: "Most requests fall into one of these shapes. Each note says what tends to push the iPhone part of the budget up, so you can decide early what belongs in version one.",
+    note: "Most requests fall into one of these shapes, and each shape moves iOS app development cost in India in its own way. Each note says what tends to push the iPhone part of the budget up, so you can decide early what belongs in version one.",
     cards: [
       { name: "iPhone and Android app together", note: `One Flutter or React Native codebase published to the App Store and Google Play, from ${P.app}. Best value when your customers are split across both phones.`, href: "/it-services/android-ios-app/", size: "lg" },
       { name: "Adding iOS to your Android app", note: "Porting an existing cross-platform Android app to iPhone: Apple account setup, signing, iOS permission texts, iPhone fixes and App Review. Priced after we read the code.", href: "/hire-ios-developer/", size: "lg" },
@@ -80,7 +80,7 @@ const content: FreelanceContent = {
   },
   comparison: {
     heading: "Three ways to get onto the iPhone, and what each costs you over time",
-    note: "The cheapest iPhone app is not always the cheapest decision. This table compares the three routes Indian businesses usually weigh, including what happens in year two.",
+    note: "The cheapest iPhone app is not always the cheapest decision. This table compares the three routes Indian businesses usually weigh, so you can judge iOS app development cost in India over two years, not just the first invoice.",
     columns: ["What you compare", "Native Swift app, iPhone only", "Two native apps (Swift + Kotlin)", "BtechWaleTech cross-platform build"],
     rows: [
       ["Reaches Android users", "No, a second project is needed", "Yes, at roughly double the build", "Yes, same code, same release"],
@@ -228,7 +228,7 @@ const content: FreelanceContent = {
       id: "timeline",
       heading: "How long does iOS app development take in India?",
       paragraphs: [
-        `On the time side of iOS app development cost in India, most iPhone apps we build take 6–10 weeks from agreed screens to App Store release, with the Android version shipping in the same window. The calendar depends on screen count, the backend and how fast decisions come back, more than on the platform.`,
+        `On the time side of iOS app development cost in India, an iPhone app is normally planned at 6–10 weeks from agreed screens to App Store release, with the Android version shipping in the same window. The calendar depends on screen count, the backend and how fast decisions come back, more than on the platform.`,
         `The Apple-specific steps add a few fixed stops. Enrolling an organisation and getting a D-U-N-S number should start in week one, in parallel with design. App Review usually finishes within a day or two, but a rejection sends the build back, and the fix plus resubmission can cost several days. That is why we do a dry run against the review checklist a week before the planned submission.`,
       ],
       list: [
@@ -248,7 +248,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `If your Android app is already built in Flutter or React Native, the iOS app development cost in India covers mostly setup, fixes and review, a fraction of a new build. If it is written natively in Kotlin or Java, the iPhone version is effectively a new app, and you should compare a native Swift rebuild with moving both platforms to one cross-platform codebase.`,
         `For a cross-platform Android app, we first audit the code. We look for Android-only packages, native Android code, hard-coded file paths, push notification setup that only uses Android’s channels, and payment SDKs without iOS support. Each finding becomes a line in the quote. Then come Apple account setup, signing, iOS permission texts in plain language, iPhone layout fixes, Sign in with Apple if social login exists, account deletion if it was missing, and the review.`,
-        `The native Kotlin case is where the choice matters most. Writing a separate Swift app doubles your maintenance forever. Rebuilding once in Flutter or React Native costs more upfront than a straight port, but every future change is made once. For small businesses we usually recommend the rebuild, and we price both options side by side so you can see the trade-off in rupees, not opinions.`,
+        `The native Kotlin case is where the choice matters most. Writing a separate Swift app doubles your maintenance forever. Rebuilding once in Flutter or React Native costs more upfront than a straight port, but every future change is made once. For a small business the rebuild is often the better long-term choice, and we price both options side by side so you can see the trade-off in rupees, not opinions.`,
       ],
       list: [
         "Flutter or React Native Android app: audit, fix, publish to App Store",
@@ -277,7 +277,7 @@ const content: FreelanceContent = {
       heading: "How to choose an iOS app developer in India, and warning signs in a quote",
       paragraphs: [
         `Pick a developer who can show apps live on the App Store under their clients’ names, gives you an itemised quote and enrols the Apple account in your name. Everything else, including a low iOS app development cost in India, is secondary. Search the App Store for the apps they mention and check the seller name on each listing: it should be the client, not the developer.`,
-        `Ask them to describe the last rejection they handled and what they changed. Anyone who has published iPhone apps for a while has been rejected at least once; a clear answer shows they understand guidelines rather than luck. Ask which iPhones they test on, how you will receive test builds, and who writes the privacy details. Our list of <a href='/questions-to-ask-app-developer/'>questions to ask an app developer</a> is a ready script for that first call.`,
+        `Ask them to describe the last rejection they handled and what they changed. Rejections are a normal part of publishing on iOS; a clear answer shows they understand guidelines rather than luck. Ask which iPhones they test on, how you will receive test builds, and who writes the privacy details. Our list of <a href='/questions-to-ask-app-developer/'>questions to ask an app developer</a> is a ready script for that first call.`,
       ],
       list: [
         "Red flag: the app will be published “from our account for now”",
@@ -364,7 +364,7 @@ const content: FreelanceContent = {
         ["Ordering or booking app with payments", "Cart or slots, UPI and card checkout, order status, history", `From ${P.app}, plus payment lines`, `From ${P.appUsd}`, "7–10 weeks"],
         ["App with in-app purchase", "Paid features or subscriptions via Apple, server receipt checks, restore", `From ${P.app}, plus IAP lines`, `From ${P.appUsd}`, "8–10 weeks"],
         ["App plus admin web panel", "Staff roles, reports, exports and content control", `From ${P.app} + panel from ${P.software}`, `From ${P.appUsd} + ${P.softwareUsd}`, "8–12 weeks"],
-        ["Adding iOS to a cross-platform Android app", "Audit, iPhone fixes, Apple setup, review", "Quoted after code review", "Quoted after code review", "2–4 weeks"],
+        ["Adding iOS to a cross-platform Android app", "Audit, iPhone fixes, Apple setup, review", "Quoted after code review", "Quoted after code review", "Set after the audit"],
         ["AI feature inside the app", "Chat help, document scan or smart search via your backend", `From ${P.ai} as a separate build`, `From ${P.aiUsd}`, "2–4 weeks"],
         ["Care after 5 free months", "iOS and Android updates, fixes, small changes", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
@@ -406,17 +406,17 @@ const content: FreelanceContent = {
   areas: {
     eyebrow: "Across India",
     heading: "iPhone apps for businesses in these cities",
-    note: "We work remotely with every state. These city pages describe what businesses there usually need; the notes below say where an iPhone version tends to matter.",
+    note: "We work remotely with every state, and iOS app development cost in India is the same wherever you are. These city pages describe what businesses there usually need; the notes below say where an iPhone version tends to matter.",
     cards: [
       { name: "Consumer startup apps in Bengaluru", note: "Bengaluru founders testing consumer products usually launch on both stores, since early adopters, tech reviewers and angel investors commonly judge an app on an iPhone.", href: "/bengaluru/" },
       { name: "Corporate and B2B apps in Gurgaon", note: "Gurgaon’s corporate offices and service firms want apps for employees, clients and vendors, where a meaningful share of decision-makers carry company or personal iPhones.", href: "/gurgaon/" },
       { name: "Premium retail and wellness apps in Mumbai", note: "Mumbai boutiques, salons and wellness studios with high-spending clients see mixed phone ownership, so member apps there usually need App Store and Play Store together.", href: "/mumbai/" },
       { name: "Clinic and diagnostics apps in Hyderabad", note: "Specialist clinics and diagnostic chains in Hyderabad want report downloads, bookings and reminders for patients whose phones span budget Android to recent iPhones.", href: "/hyderabad/" },
       { name: "Fitness and education apps in Pune", note: "Pune’s gyms, sports academies and upskilling institutes serve students and IT professionals, a mix that often justifies an iPhone build from the first release.", href: "/pune/" },
-      { name: "NRI family and homestay apps in Kochi", note: "Kochi homestays, travel operators and NRI-focused services deal with families in the Gulf and beyond, many of whom book and pay from iPhones.", href: "/kochi/" },
+      { name: "NRI family and homestay apps in Kochi", note: "Kochi homestays, travel operators and NRI-focused services deal with families in the Gulf and beyond, so it pays to check how many of them book from iPhones.", href: "/kochi/" },
       { name: "Tourism and villa booking apps in Panaji", note: "Villa rentals, event venues and tour operators around Panaji handle guests from metros and abroad, who expect to find the app on the App Store.", href: "/panaji/" },
       { name: "Real estate and NRI apps in Chandigarh", note: "Chandigarh builders, immigration consultants and property dealers serve Punjabi families in Canada, the UK and Australia who follow projects from iPhones.", href: "/chandigarh/" },
-      { name: "Exporter and buyer apps in Ahmedabad", note: "Ahmedabad textile, chemical and engineering exporters want order-status and catalogue apps for overseas importers who mostly receive links on iPhones.", href: "/ahmedabad/" },
+      { name: "Exporter and buyer apps in Ahmedabad", note: "Ahmedabad textile, chemical and engineering exporters want order-status and catalogue apps for overseas importers, whose phone mix is worth checking before choosing stores.", href: "/ahmedabad/" },
       { name: "Jewellery and handicraft apps in Jaipur", note: "Jaipur jewellers and handicraft exporters selling to tourists and foreign buyers need image-rich catalogue apps that look sharp on large iPhone screens.", href: "/jaipur/" },
       { name: "Hospitality apps in Udaipur", note: "Udaipur’s heritage hotels and wedding venues host international and destination-wedding guests, making an App Store presence worth planning alongside Android.", href: "/udaipur/" },
       { name: "D2C and café apps in Kolkata", note: "Kolkata tea brands, sweet shops and cafés with loyal repeat customers want reorder and loyalty apps, including for relatives abroad sending gifts home.", href: "/kolkata/" },
@@ -450,7 +450,7 @@ const content: FreelanceContent = {
     { question: "How much commission does Apple take on in-app purchases?", answer: "Apple’s subscriptions page says developers receive 70% of the subscription price in a subscriber’s first year and 85% after a year of paid service. Members of the App Store Small Business Program, open to developers with up to one million US dollars in prior-year proceeds, pay a 15% commission. Physical goods and services sold outside in-app purchase carry no Apple commission." },
     { question: "Is Flutter or native Swift better for an iPhone app?", answer: "For most business apps, Flutter or React Native is the better value, because one codebase covers iPhone and Android and every later change is made once. Native Swift suits products built around Apple-only features such as widgets, Live Activities, Apple Watch or AR. We build cross-platform and will recommend a Swift specialist when your app really needs one." },
     { question: "Do I need a Mac to get an iOS app made?", answer: "You do not. Apple’s Xcode, which builds and signs iPhone apps, runs only on macOS, so the developer needs a Mac and handles that side. You need your own Apple Developer Program membership and, ideally, one iPhone in the team to try TestFlight builds. If you do not have one, we send screen recordings of every build." },
-    { question: "How long does it take to build an iOS app in India?", answer: "Most iPhone apps we build take 6–10 weeks from agreed screens to release, with the Android version launched in the same window. Apple enrolment should start in week one, design takes about two weeks, building runs in TestFlight rounds, and the last stretch covers device testing, the review checklist and submission." },
+    { question: "How long does it take to build an iOS app in India?", answer: "Our iPhone app builds are planned at 6–10 weeks from agreed screens to release, with the Android version launched in the same window. Apple enrolment should start in week one, design takes about two weeks, building runs in TestFlight rounds, and the last stretch covers device testing, the review checklist and submission." },
     { question: "What does it cost to add an iOS version to my Android app?", answer: "If your Android app is built in Flutter or React Native, adding iOS is mainly an audit, iPhone fixes, Apple setup and review, well below the cost of a new app. If it is native Kotlin or Java, the iPhone version is a new build; we then price a Swift port and a cross-platform rebuild side by side so you can compare." },
     { question: "Which iPhones will you test my app on?", answer: "We test on physical iPhones covering a recent model and an older supported one, small and large screens, and the current and previous iOS versions, plus dark mode and larger text. Your team receives TestFlight builds on its own phones throughout the project. Simulators are used for quick layout checks, never as the only test." },
     { question: "Who owns the iOS app and the App Store listing?", answer: "You do. The Apple Developer account, listing, bundle identifier, certificates, push keys and code repository are all in your name or your company’s. We work as invited users with limited roles and hand over everything at launch. Publishing from a developer’s own account means any later move depends on that developer starting an Apple transfer, and if they will not, you may have to begin again with a new listing." },
@@ -458,7 +458,7 @@ const content: FreelanceContent = {
     { question: "Can you publish an app that is just my website inside an app?", answer: "We advise against it. Apple’s guideline 4.2 says an app should offer features and content beyond a repackaged website, and wrapped websites are a common reason for rejection. If you mainly want a web presence on phones, a fast mobile website or a progressive web app may serve you better and costs less." },
     { question: "Can an iPhone app support Hindi and other Indian languages?", answer: "Yes. Flutter and React Native both support localisation, so each language becomes a set of translated strings plus layout checks for longer words, and iPhones render Hindi and most Indian scripts well. You supply or approve the translations. The App Store listing can also be localised for the markets you choose." },
     { question: "How do I compare iOS app development cost in India across developers?", answer: "Ask every developer for the same things: a screen-by-screen estimate, the backend and admin panel listed separately, App Review work named, test devices named, and the Apple account in your name. Then compare line by line. A much lower quote usually leaves out the admin panel, review preparation or testing, which return later as extra charges." },
-    { question: "How are payments made for an iOS app project?", answer: "Payments are staged against visible work, as set out in your written quote. Clients in India pay by UPI or bank transfer, and clients abroad pay in USD through Wise, bank wire or PayPal. Nothing is billed before you approve the itemised estimate. For contract questions, see our terms page or ask us before starting." },
+    { question: "How are payments made for an iOS app project?", answer: "The payment schedule is written into your quote, so you see it before agreeing to anything. Clients in India pay by UPI or bank transfer, and clients abroad pay in USD through Wise, bank wire or PayPal. Nothing is billed before you approve the itemised estimate. For contract questions, see our terms page or ask us before starting." },
     { question: "iPhone app banwane me kitna kharcha aata hai?", answer: `BtechWaleTech ke saath iPhone app ${P.app} se shuru hota hai, aur usi code se Android app bhi ban jaata hai. Apple ka developer account US$99 saal ka hai, jo aapke naam par hota hai. Kharcha screens, login, payment aur admin panel par depend karta hai. Pehle itemised quote milega, approval ke baad hi kaam shuru hota hai.` },
   ],
   related: {

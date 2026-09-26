@@ -108,7 +108,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Society management app development is the work of designing, coding and publishing a set of apps that run the daily life of a housing society: collecting maintenance, controlling the gate, fixing complaints, booking common spaces and sending notices. The difference from signing up for an existing app is ownership. The build is yours, the resident data sits in your cloud account, and the app carries your name on the stores.`,
         `A complete society management app is really three products that share one database. Residents use a phone app to pay bills, approve visitors and raise tickets. Guards use a stripped-down app on a shared Android phone at the gate. The committee, manager or facility-management head office uses a web panel for accounts, reports and settings.`,
-        `Most of our society work is built in Flutter, so the resident and guard apps come from one codebase for Android and iPhone, with a Node.js or Python back end and PostgreSQL behind it. That keeps the build affordable and means one team can maintain every piece.`,
+        `We build society apps in Flutter, so the resident and guard apps come from one codebase for Android and iPhone, with a Node.js or Python back end and PostgreSQL behind it. That keeps the build affordable and means one team can maintain every piece.`,
       ],
       list: [
         "Resident app: bills, payments, visitor approvals, tickets, bookings, notices",
@@ -139,7 +139,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Billing is the module that decides whether residents trust the app, so it gets the most design time. The society defines billing heads (maintenance, sinking fund, repair fund, water, parking, non-occupancy charge), picks how each is calculated, and the app raises bills on a schedule and matches payments automatically.`,
         `Calculation rules vary more than people expect. Some societies charge per square foot of carpet area, some a flat rate per unit, some a mix with separate rates for shops in the podium. Late fees can be a fixed amount, a percentage or simple interest, and the committee may want to waive them for particular flats. A good build stores these as settings the treasurer can change, not as code only a developer can touch.`,
-        `On tax, housing societies in India need care. CBIC's guidance says an RWA's charges to members are exempt from GST up to 7,500 rupees per member per month, and that registration is needed only once aggregate turnover crosses ₹20 lakh a year. The app can flag bills over that limit and produce GST-ready invoices, but whether and how GST applies to your society is a question for your chartered accountant, not for us.`,
+        `On tax, housing societies in India need care. CBIC's guidance says an RWA's charges to members are exempt from GST where they do not exceed 7,500 rupees per member per month (above that, the whole charge is taxable), and that an RWA whose aggregate turnover stays within ₹20 lakh a year need not register. The app can flag bills over that limit and produce GST-ready invoices, but whether and how GST applies to your society is a question for your chartered accountant, not for us.`,
       ],
       list: [
         "Bill schedule: monthly, quarterly or yearly per head",
@@ -155,7 +155,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The guard app should do four things fast: log who came in, get a resident's yes or no, record who left, and work when the gate's internet drops. Everything else is secondary. Guards often share one entry-level Android phone per gate, work twelve-hour shifts and may read Hindi more comfortably than English, so the screens use big buttons, photos and bilingual labels.`,
         `For a delivery rider or a guest, the guard takes a photo, picks the flat, and the resident gets a push notification to approve or deny. If the resident does not respond, the app can fall back to a phone call from the guard's handset. Frequent visitors such as maids, drivers and cooks get a daily-help card, so their entry is one tap and the resident sees an attendance record.`,
-        `We build the guard app to queue entries on the phone when the network fails and sync them when it returns. That single feature saves more arguments than anything else in the gate module. A deeper treatment of approval flows, ID capture and pass printing is on our <a href='/visitor-management-system/'>visitor management system</a> page, and guard rostering and patrol checks live in <a href='/security-guard-management-software/'>security guard software</a>.`,
+        `We build the guard app to queue entries on the phone when the network fails and sync them when it returns. Without it, a dead router at the gate means a stack of paper slips and a guessing game at shift change. A deeper treatment of approval flows, ID capture and pass printing is on our <a href='/visitor-management-system/'>visitor management system</a> page, and guard rostering and patrol checks live in <a href='/security-guard-management-software/'>security guard software</a>.`,
       ],
     },
     {
@@ -163,7 +163,7 @@ const content: FreelanceContent = {
       heading: "Complaint tickets inside a society management app",
       paragraphs: [
         `A complaint module turns “the lift is stuck again” in a WhatsApp group into a ticket with an owner, a photo and a status. Residents choose a category, add a picture, and the manager assigns it to the in-house plumber, electrician or an outside vendor. The resident sees each status change and can reopen a ticket that was closed without a fix.`,
-        `Useful additions are target times per category (set by the committee, not by us), automatic escalation to a committee member when a ticket sits too long, and a monthly report of open versus closed tickets by category. That report is often the first time a committee can see, in numbers, which vendor keeps missing visits.`,
+        `Useful additions are target times per category (set by the committee, not by us), automatic escalation to a committee member when a ticket sits too long, and a monthly report of open versus closed tickets by category. That report lets a committee see, in numbers, which vendor keeps missing visits.`,
         `Common-area complaints need different handling from in-flat ones. A leaking terrace affects many flats and should not create twenty duplicate tickets, so the build lets the manager merge them. If you already use a separate helpdesk tool for other properties, we can connect to it instead; see our note on <a href='/helpdesk-ticketing-system/'>helpdesk ticketing systems</a>.`,
       ],
     },
@@ -191,7 +191,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A white-label society management app is one platform, one brand and many societies, each walled off from the others. It is the version FM companies and builders with several projects usually want, and it is where custom development pays back most clearly.`,
         `The technical core is multi-tenancy. Every society is a tenant with its own flats, members, billing heads and staff, and no resident of one society can see anything from another. Head-office users sit above the tenants and see portfolio reports: collections by site, open tickets by site, guard attendance across locations. Adding a new society becomes an admin task, not a development job.`,
-        `There are two ways to publish. Most FM companies choose one app on the stores under their own brand, where residents pick their society at login. A few premium projects want a separately branded app per project, which is possible from the same code but multiplies store listings, reviews and release work. We price both options openly in the quote. Groups that also run hostels or co-living blocks sometimes add those as tenant types; our <a href='/pg-management-software/'>PG management software</a> page covers the bed-level side.`,
+        `There are two ways to publish. The simpler one is a single app on the stores under the FM company's brand, where residents pick their society at login. A few premium projects want a separately branded app per project, which is possible from the same code but multiplies store listings, reviews and release work. We price both options openly in the quote. Groups that also run hostels or co-living blocks sometimes add those as tenant types; our <a href='/pg-management-software/'>PG management software</a> page covers the bed-level side.`,
       ],
     },
     {
